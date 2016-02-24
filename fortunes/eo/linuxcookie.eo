@@ -1,0 +1,412 @@
+A Linukso maŝino! ĉar 486 estas terura afero malŝpari!(Per jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absolute nenio devas esti konkludita el tiuj figuroj krom keneniu konkludo povas esti desegnita de ili. "(Per Joseph L. Fratoj, Linukso / PowerPC Projekto)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fakte, tajpante hazarda kordoj en la Finder faras la ekvivalenton dedosiernomo finaĵo.(Diskuto en comp.os.linux.misc sur la intuicieco de komandoj: dosierokompletiĝo vs. Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Post vidi mian nove emerita paĉjo pasigi du semajnojn lerni kiel fari novajndosierujo, ĝi faris preterlasas ke "intuicia" plejparte signifas "kio la verkisto aŭparolanto de intuicia gustoj ".(Bruce Ediger, bediger@teal.csn.org, en comp.os.linux.misc, sur Xintuicieco de Mac interfaco.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ĉio lingvo dezajnistoj aroganta. Goes kun la teritorio ..."(Per Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kaj 1.1.81 estas oficiale BugFree (tm), do se vi ricevis neniun cimo-raportojsur ĝi, vi scias ke estas nur malbono mensogoj. "(Per Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Kaj scantily vestitaj inoj, kompreneble. Kiu zorgas se ĝi estas sub nuloekster "(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kaj la sekvanta tempo vi konsideras plendante ke kurante Brilu Emacs19,05 tra NFS de fora Linukso maŝino en Paragvajo ne ŝajnasatingi la fono koloroj pravas, vi scios kiuj danki. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Ajna pordegistoj tie devus senti feliĉaj scii ke DEC estas shipping> Mi AlphaPC ke mi intencas provi atingi linux kurante sur: tiu volo> Definitive helpi flulavi ekstere kelkaj de la plej evidentaj unportable aĵoj.> La Alfa estas multe pli malsama de la i386 ol la 68k aĵoj, tia> Ĝi estas probable akiri la plejparto de la materialo fiksita.>> Estas afiŝojn kiel tiu ke preskaŭ konvinkis ni ne-kredantoj ke> Vere estas dio.(Al sekvaĵo de alovell@kerberos.demon.co.uk, Anthony Lovell, al Linusrimarkoj pri portado)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ĉiu kiu pensas UNIKSO estas intuicia devus esti devigita skribi 5000 linioj dekodo uzanta nenion sed vi aux emacs. AAAAACK!(Diskuto en comp.os.linux.misc sur la intuicieco da ordonoj, specialeEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ĉu [Linukso uzantoj] lemingoj kolektive saltante de la rokofidinda, bone realigita komerca programaro? "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kiel kutime, ĉi estanta 1.3.x forlaso mi eĉ kompilita ĉikerno ankoraŭ. Tial se ĝi funkcias, vi devus esti duoble impresita.(Linus Torvalds, anoncante kerno 1.3.3 sur la linux-kerno dissendolisto.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Eviti la Pordegoj de Infero. uzo Linukso(Nekonata fonto)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Esti avertita ke tajpante \ fBkillall \ fIname \ FP eble ne la dezirataefektiviĝo de ne-Linuksaj sistemoj, precipe kiam farita de privilegia uzanto.(El la killall manlibro paĝo)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Cetere, mi pensas [Slackware] sonas pli bone ol Mikrosofto, 'ĉu ne?"(Per Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sed kion vi povas fari kun ĝi? - Ĉiea krio de Linukso-uzanto partnero.(Prezentita de Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Per Golly, mi komencas pensi Linukso vere * estas * la plej bona afero ekdetranĉaĵoj pano. "(Per Vance Petree, Virginio Potenco)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. La kerno provis aliri iujn malbonajn paĝo. Ni devos * Fini aĵojn kun ekstrema antaŭjuĝo.* /die_if_kernel ( "Oops", regs, error_code);(El linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Profunda Hako Mode - tiu mistera kaj timiga statokonscio kie Mortal Uzantoj timas piedpasxi. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra probable malamas min(Linus Torvalds, en kerno / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DU: n., Malgranda ĝena boot viruso kiu kaŭzas hazarda spontanea sistemo     kraŝas, kutime ĵus antaŭ konservi masiva projekto. Facile kuracita de     Unikso. Vidu ankaŭ MS-DU, IBM-DOS, DR-DOS.(De Davido Vicker la .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Notu ke 120 sek estas difinita en la protokolo kiel la maksimumo * Ebla RTT. Mi supozas ke ni devos uzi ion alian ol TCP * Paroli al la Universitato de Marte. * PAWS permesas plu paŭzoj kaj grandaj fenestroj, do unufoje implementado * Ftp al mars laboros bele. * /(De /usr/src/linux/net/inet/tcp.c pri RTT [elsendo timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Eĉ pli mirinda estis la konstato, ke Dio havas aliron al Interreto. MiĈu eble li havas plenan newsfeed? "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Iam aŭdis .cshrc?Ke estas urbo en Bosnio. Maljuste(Diskuto en comp.os.linux.misc sur la intuicieco de komandoj.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatala eraro: Found [MS-Windows] Sistemo -> Repartitioning Disk por Linukso ...(Per cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kiel mi tajpas "por i en * .dvi ĉu xdvi i farita" en GUI?(Diskuto en comp.os.linux.misc sur la intuicieco de interfacoj.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kiel mi scias se ĝi funkcias? Tion beta testers estas por. Mi nurcoded ĝin. "(Atribuita al Linus Torvalds, ie en afisxo)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Arogantaj membro de TeamLinux \ _________ \ /(Per CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mi disvolvas por Linukso por vivteni, mi uzis por disvolvi por DOS.Irante de DU por Linukso estas kiel komercanta glisilo por F117.(Per entropy@world.std.com Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mi ĉi 'kaŭzi Linukso donas min ligneca. Ĝi ne generas enspezojn.(Dave '-ddt-> `Taylor, anoncante DOOM por Linukso)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bonvolu kontakti min (flamoj pri mia angla kaj la senutila de tiuŝoforo estos redirigido al / dev / null, ho ne, ĝi estas plena ...).(Michael Beck, priskribante la PC-parolanto sono mekanismo)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mi ne scias kial, sed unue C programoj emas rigardi multe pli malbone olunuaj programoj en ajna alia lingvo (eble krom Fortran, sed tiamMi suspektas ĉiuj Fortran programoj aspektas kiel 'firsts') "(Per Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mi iam travivis longan winded, monat-longa flamewar super la uzo demusoj vs. trackballs ... Ĝi estas tre vanta. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mi ankoraŭ subtenas la punkto ke desegni monolita kerno en 1991 estasfundamenta eraro. Esti dankema vi ne estas Mia lernanto. Vi ne ricevosalta grado por tia dezajno :-)(Andrew Tanenbaum al Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mi preferus elspezi 10 horoj legante aliulaj fontkodo ol10 minutoj aŭskultante Musak atendante teknika subteno kio ne. "(Per Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mi rampi super acre de 'Vida Ĉi ++' kaj 'Integrita EvoluoKe 'atingi gcc, Emakso kaj gdb. Dankon."(Per Vance Petree, Virginio Potenco)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mi idioto .. Almenaŭ ĉi tiu [cimo] prenis ĉirkaŭ 5 minutoj al trovi .."(Linus Torvalds en respondo al eraroraporton.)> Mi estas idioto .. Almenaŭ tiu [cimo] prenis ĉirkaŭ 5 minutoj al trovi ..Inquietantes ...(Gonzalo Tornaria en respondo al Linus Torvalds la dissendolisto pri kerno cimon.)> Mi estas idioto .. Almenaŭ tiu [cimo] prenis ĉirkaŭ 5 minutoj al trovi ..Ni devas trovi novajn terminojn por priskribi la resto de ni nura mortemulojtiam.(Craig Schlenter en respondo al Linus Torvalds la dissendolisto pri kerno cimon.)> Mi estas idioto .. Almenaŭ tiu [cimo] prenis ĉirkaŭ 5 minutoj al trovi ..Certe, Linus parolas pri la speco de idioteco ke aliaj aspiras :-).(Bruce Perens en respondo al Linus Torvalds la dissendolisto pri kerno cimon.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mi kuros DOOM pli en la lastaj tagoj, ol mi havas la lastajnmonatoj. Mi nur amas elpurigi ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., koncernita per la kreskanta populareco de la libera 32 bitojoperaciumo por Intel sistemoj, Linukso, kiu dungis kelkajn suproprogramistoj de la subtera mondo de viruso disvolviĝo. Bill Gates deklarishieraŭ: "Monda superregado, rapida - estas ĉu ni aŭ Linus". Mr. Torvaldsestis neatingebla por komento ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), en comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    se (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Ne Panic! \ n");eliro (42);    }(Arnold Robbins en la LJ de februaro '95, priskribante RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Se difinita (__ alpha__) && difinita (CONFIG_PCI)+ / *+ * La signifo de vivo, la universo kaj ĉio. plus+ * Tio igas la jaro eliras dekstre.+ * /+ Jaro - = 42;+ # Endif(El la diakilo por 1.3.2 (kerno / time.c), prezentita de Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Se la estontaj navigado sistemo [por interaktiva reto servoj surla NII] aspektas kiel iu de Microsoft, ĝi neniam funkcios. "(Prezidanto de Walt Disney Television & Telekomunikadoj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Se vi deziras vojaĝi ĉirkaŭ la mondo kaj esti invitita por paroli ĉe multede malsamaj lokoj, ĝuste skribi operaciumo Unikso. "(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[En 'Doktoro' mode] Mi pasigis bonan dek minutoj rakontis Emakso kion mipensis pri tio. (La respondo estis: "Eble vi povus provi esti malpliabusivo. ') "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En plej multaj landoj vendante malutilaj aĵoj kiel drogoj estas punebla.Tiam howcome homoj povas vendi Microsoft programaro kaj restos nepunita?(Per hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel inĝenierio ŝajnas havi misheard intel marketing strategio. la frazoestis "Dividu kaj konkeru" ne "Dividu kaj koko supren"(Per iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Estas Dio. Ne, ne Richard Stallman, aŭ Linus Torvalds, sed Dio."(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, vi havas min sur miaj genuoj!(De David Black, dblack@pilot.njin.net, kun pardonpetoj al Derek kaj laDominos kaj Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linukso estas malnoviĝintaj(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linukso proponas realan defion por tiuj kun gusto por malfrua noktohacking (kaj / aŭ konversaciojn kun Dio). "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linukso! Gerilo Uniksa Disvolviĝo Venimus, Vidimus, Dolavimus.(Per mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linukso] kapablo paroli per ajna rimedo krom fumo signaloj."(Per Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linukso: ĉar PC terura malŝpari(Ksh@cis.ufl.edu metis tiun sur tshirts en '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linukso: Pro PC terura malŝpari.(Per komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linukso: la elekto de GNU generacio(Ksh@cis.ufl.edu metis tiun sur tshirts en '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linukso: la mastruma sistemo kun aŭtoveturejon ...Komando Linio Uzanto Medio ".(Vidita en afisxon en comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 brulas(Unu el la pli sekur kerno mesaĝoj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft ne estas la respondo.Microsoft estas la demando.NE (aŭ Linukso) estas la respondo.(Prenita de .signature de iu el la UK, fonto nekonata)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: Aufsitzen 'auf Pferde: einklinken'von Festplatten en Dateisysteme, und, monaĥino, 'besteigen' beim sekso.(Christa Keil en germana afisxo: "muntado estas uzata por tri aferoj:grimpi sur ĉevalon, ligante en malmola disko unuo en datumoj sistemoj, kaj, nu,muntado dum sekso ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MS ne ricevas tiel malbona kiel ĝi estas subite - ĝi transprenis dek jarojde zorgema evoluo. "(Per dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Neniam fari ajnan mistaeks."(Anonima, en poŝto diskuto ĉirkaŭ kerno cimraporton.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ne mi, ulo. Mi legis la Bash viro paĝon ĉiu tago kvazaŭ Eternulo Atestanto legasla Biblio. Ne atendas, la Bash viro paĝo ESTAS la biblio. Pardonu min...(Pli sur konfuza kaŝnomoj, prenita de comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Notu ke se mi povas akiri vin al \" su kaj diri \ "io simple petante,vi havas tre serioza problemo pri sekureco en via sistemo kaj vi devasrigardi en gxin. "(Per Paul Vixie, Vixie-cron 3.0.1 instalado notoj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nun mi konas iun tie tuj asertas, "Nu, Unikso estas intuicia,ĉar vi nur bezonas lerni 5000 ordonojn kaj tiam ĉio alia sekvasde tiu! Har har har! "(Andy Bates en comp.os.linux.misc, sur "intuicia interfacoj", iometedefendanta Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nun, ĝi ni havis ĉi tiaj aferoj:  cedas -a por rendimento al ĉiu trafiko  cedas -t por rendimento al kamionoj  cedas -f por rendimento al personoj marŝante (rendimento piedo)  cedas -d t * por produktokvanto sur tagoj komencante kun t... Vi havus multajn mortintojn homoj ĉe intersekciĝoj, kaj trafiko marmeladoj vinne kredus ...(Diskuto en comp.os.linux.misc sur la intuicieco de komandoj.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sur normala ascii linio, la sola sekura kondiĉo detekti estas 'BREAK'- Ĉio alia estante atribuita funkcioj de GNU Emacs. "(Per Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sur la Interreto, neniu scias vi uzas Windows NT"(Prezentita de Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Iam ekzistis DOS uzanto kiu vidis Unikso, kaj trovis tiel,bonaj. Post tajpado kmp sin DU maŝino hejme, li elŝutis la GNUunix iloj portita al DU kaj instalis ilin. Li rm'd, cp'd kaj mv'dfeliĉe por multaj tagoj, kaj sur trovanta elvis, li vi'd kaj estis feliĉa. postlonga tago ĉe laboro (en Unikso Skatolo) iris hejmen ekredaktis dosiero,kaj ne povis diveni kial li ne povis malakcepti VI (w / ctrl-Z) farioni kompilas.(Per ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Krom la fakto Linukso havas malvarmeta nomo, povus iu klarigi kial mi>> Devus uzi Linukson super BSD?>> Ne, tio estas ĉio. La malvarmeta nomon, kiu estas. Ni laboris tre forte pri> Kreante nomo kiu vokus al la plimulto de homoj, kaj ĝi> Certe indis: miloj da homoj uzas linux nur povi> Diri "OS / 2? Hah. Mi havas Linukso. Kio malvarmeta nomo". 386BSD faris la> Eraro meti multajn numerojn kaj strangaj mallongigoj en la> Nomon, kaj estas timigante for multaj homoj nur ĉar ĝi sonas tro> Teknika.(Linus Torvalds 'sekvaĵo al demando pri Linukso)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Persone, mi opinias mia elekto en la mostest-superlativo-komputilo militoj devasla HP-48 serioj de kalkuliloj. Ili kuros preskaŭ nenion. Kaj se iline, dum mi nur ŝtopi Linukso skatolo sur la seria pordo kaj ŝarĝi laHP-48 VT-100 emulador.(Per jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ekzistas neniuj fadenoj en a.b.p.erotica, do ne gajno en uzantathreaded novaĵlegilo.(Nekonata fonto)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Problemo solvanta sub linukso neniam estis la cirko ke estas subAIX. "(Per Pete Ehlke en comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+forlasi Kiam la Forlasi deklaro legas, la bc procesoro       estas finita, nekonsiderante kie la Forlasi state-       ment troviĝas. Ekzemple, "se (0 == 1) quit"       kaŭzos bc fini.(Vidita en la manpage por "bc". Notu la "se" komunikaĵo de logiko)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kurante Windows en Pentium estas kiel havi novega Porsche sed nurforpelos malantaŭen kun la manbremso plu.(Nekonata fonto)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit Discus mundi"(De la Sistemo Administranto Gvidilo, de Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ĝemante. Mi ŝatas pensi estas nur la Linukso personoj kiuj volas esti surla "fronta eĝo" malboneco ili piediras tuj la abismo.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+La babilejo programo estas en publika regado. Tiu ne estas la GNU Publika Licenco. seĝi rompas tiam vi ricevas konservi ambaŭ pecoj.(Kopirajto avizo por la babilejo programo)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> La tago homoj pensas linux estus pli bone servita de iu alia (FSF> Esti la natura alternativo), mi "abdiki". Mi ne kredas ke> Estas io homoj zorgi pri ĝuste nun - mi ne vidas ĝin> Okazas en la malkreskanta luno. Mi ĝuas fari linukso, kvankam ĝi faras> Signifi iun laboron, kaj mi ne akiris ajnan plendoj (iuj preskaŭ timema> Recordatorios pri diakilo mi forgesis aŭ ignoris, sed nenio> Negativa ĝis nun).>> Ne prenu la supre por signifi ke mi halti la tago iu plendas:> Mi dikhauxta (Lasu, kiuj legas ĉi super mia ŝultro komentis> Ke "dikaj kapoj estas pli proksima al la vero") sufiĉas preni iun misuzon.> Se mi ne estis, mi ĉesis disvolvi linux la tago ast ridindigis min> Sur c.o.minix. Kion mi volas diri estas nur ke dum linux estis mia bebo tiel> Nun, mi ne volas stari en la vojo se homoj volas fari ion> Bona el ĝi (*).>> Linus>> (*) Hej, Eble mi povus peti saint-kapuĉo de la papo. faras> Iu scias, kion lia retpoŝto-adreso estas? Mi tiom belan faras vin Puke.(Prenita de Linus respondo al iu maltrankviligita de la estonteco de Linukso)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+La bela afero pri Windows estas - Ĝi ne nur frakasi, ĝi montrasdialogujo kaj permesas premi 'OK' unua.(Arno Schaefer .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+La sola "intuicia" interfaco estas la cico. Post tio, ĝi estas ĉiuj lernis.(Bruce Ediger, bediger@teal.csn.org, en comp.os.linux.misc, sur X interfacoj.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Estas du tipoj de Linukso ellaborantoj - kiuj povas literumi, kajkiuj ne povas. Ekzistas konstanta batalo campal inter la du.(El unu el la post-1.1.54 kerno ĝisdatigo mesaĝojn poŝtita al c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ĉi mesaĝo estis kreite de Linukso, la libera Uniksoj.Fenestroj sen la ikso estas kiel amori sen partnero.Sekso, Drogoj & Linukso Regulojvenko-nt de la personoj kiuj inventis edlinpomoj signifinta problemon ekde edenLinukso, la maniero de malfari de boto virusoj(Per mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unikso, MS-DOS kaj Windows NT (ankaŭ konata kiel la Bona, la BAD, kajla Malbela). "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Tre malmultaj fenomenoj povas tiri iu el Profunda Hako Mode, kun dunotinda esceptoj: estanta frapita per fulmo, aŭ malbona, via * komputilo *esti batita de fulmo. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pastro skuos for nubo de fumo, mi rigardas supren kaj mi blindigis per hela blankalumo. Ĝi estas Dio. Ecx Richard Stallman, aŭ Linus Torvalds, sed Dio. enoni ekkreskeganta voĉon, Li diras: "tio estas signo. UZO Linukso, la SENPAGA Uniksa SISTEMOPOR LA 386. "(Mat kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ni ĉiuj scias Linukso estas granda ... ĝi faras senfina cikloj en 5 sekundoj."(Linus Torvalds pri la supereco de Linukso sur la AmsterdamoLinukso Simpozio)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ni estas Microsoft. Vi estos asimilita. Rezisto estas vana.(Atribuita al B.G., Gill Vespertoj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ni Pentium de Borg. Divido estas vana. Vi estos aproksimita.(Vidita en ies .signature)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ni uzas Linux cxiutage al UP nia productividad - tiel UP via!(Adaptita de Pat Paulsen de Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ni venu entombigi DU, ne por laŭdi lin.(Paul Vojta, vojta@math.berkeley.edu, parafraseando citajxo de Ŝekspiro)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ni uzas Linukson por nia tuta misio-kritika aplikoj. Havanta la fontkodosignifas, ke ni ne tenis ostaĝo de ies subteno fako.(Russell Nelson, Prezidanto de Crynwr Softvaro)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kion vi finas supre kun post kurado mastruma sistemo koncepto tratiuj multaj marketing kafo filtriloj, estas io ne male ebenaĵo varmaakvo. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kio ĉi skripto faras?    unzip; tuŝi; fingro; monton; baraktis spiri; jes; umount; dormoKonsileto por la respondo: ne ĉiu estas komputil-orientita. Kelkfoje vien dormsakon, camping for.(Kontribuis de Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kiam vi diras "Mi skribis programon kiu kraŝis Windows", homoj nur fiksrigardivi senesprime kaj diri "Hej, mi akiris tiujn kun la sistemo, * senpage *".(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Whip mi. Beat mi. Faru min subteni AIX."(Per Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kiu estas Ĝenerala Fiasko kaj kial li legas mian malmola disko?"Microsoft spel chekar vor velo, worgs kradon !!(Per leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kiu volas memori ke eskapo-x-alt-kontrolo-maldekstra movo-b metas vin ensuper-edit-debug-kompili reĝimo?(Diskuto en comp.os.linux.misc sur la intuicieco da ordonoj, specialeEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kial uzas Windows, pro tio ke estas pordo?(Per fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Monda superregado. Fast"(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you povus elspezi * tuta tago * agordigo la titolo trinkejo. Kredu min. miparoli el sperto. "(Per Matt kimra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Vi eble tiel salti la Xmas okazigo tute kaj anstataŭesidi antaŭ via linukso komputilo ludanta kun laĉiuj-nova-kaj-plibonigita linuksan kernon versio. "(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Via laborposteno estas estanta profesoro kaj esploristo: Tio estas unu infero de bona ekskuzopor iuj de la cerbo-damaĝoj de Minix.(Linus Torvalds al Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mi aŭdis judo kaj islama argumentas en Damasko kafejo kun malpli pasiool la emacs militoj. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

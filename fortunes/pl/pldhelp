@@ -1,0 +1,1611 @@
+#pldhelp
+00:02 < yeti> momento czytam o [root@r2d2 ~]# grep -i capabi /var/log/dmesg
+00:02 < yeti> Capability LSM initialized
+00:02 < yeti> shot
+00:02 < pawelz> yeti: jak cokolwiek, to może zwiększ randomizację pamięci: dd if=/dev/urandom of=/dev/mem
+00:02 < yeti> shit
+00:02 < yeti> glupia winda
+00:02 < pawelz> jest niezerowe prawodpodobieństwo, że pomoże
+...
+00:06 -!- yeti [~sebastian@ratt.dezynfekcja.com.pl] has quit [EOF From client]
+...
+00:11 -!- yeti [~seba@ipt110.internetdsl.tpnet.pl] has joined #pldhelp
+00:11 < yeti> to zes doradzil z tym dd if=/dev/urandom of=/dev/mem
+
+#pldhelp
+14:22 <@domelu> psnem: pokaz rpm -q kernel-net-ipp2p kernel-grsecurity; lsmod|grep -i p2p
+14:23 < psnem> [root@router rc.d]# pokaz rpm -q kernel-net-ipp2p kernel-grsecurity; lsmod|grep -i p2p
+14:24 < psnem> /bin/sh: pokaz: not found
+14:24 < psnem> ipt_ipp2p               8163  1
+14:24 < psnem> [root@router rc.d]#
+14:24 < psnem> bite :0
+14:24 < psnem> ip_tables              19125  8 ipt_TTL,ipt_layer7,ipt_REJECT,ipt_ipp2p,ipt_MASQUERADE,iptable_mangle,iptable_filter,iptable_nat
+14:24 <@domelu> rotfl
+
+#pldhelp
+23:43:53 <Dj_RzulF> agaran: po jakim czasie pakiety trafiaja do /test a potem
+          do official release ?
+<jack_> wg kloczkowego widzimisię :)
+23:44:25 <agaran> po kloczek-chce-przerzucic-wg-widzikloczkowisie
+23:45:12 <Dj_RzulF> pierwszy raz dostałem kurde jednoznaczna prosta odpowiedz
+          :-]
+%
+#pldhelp
+17:47:48 <FastViper> mamy startowe w sysV tak ?
+17:47:56 <FastViper> czy bsd ?
+17:48:04 <djrzulf> sysv o ile mi wiadomo
+17:50:06 <djrzulf> slack ma bsd ?
+17:50:28 <vovcia> chyba bse...
+%
+#pldhelp
+gru 10 21:59:30 <raphro> a jest tu ktos kto sie zna na kodowaniu hasel w pold ??
+%
+Jan 30 18:36:32 <Styx-> Jak się pod kde robi zrzut ekranu?
+Jan 30 18:42:03 <u-> Styx- : kładzie się na brzegu stołu a potem delikatnie
+                 popycha
+Jan 30 18:42:08 <u-> wtedy jest zrzut ekranu :)
+%
+#pldhelp
+18:32:45 (wysek): co sie stalo z ftp'em ?
+18:32:53 (@djrzulf): wysek: ukradli
+18:33:01 (@djrzulf): wysek: ktoś wyciągnął dyski IDE podczas pracy
+18:33:12 (wysek): djrzulf: ?
+18:33:15 (@djrzulf): wysek: sprzątaczka wzieła tależe do umycia =]
+%
+#pldhelp
+17:02:41 (peyrol): mYh`: przymocowales po kazej ze scianek swojego dewaoo tube?
+17:02:43 (peyrol): [;
+17:02:52 (peyrol): dewaoo
+17:02:54 (peyrol): deawoo
+17:02:55 (+mYh`): peyrol: nie mam autka :)
+17:02:57 (peyrol): nom
+17:03:05 (peyrol): [monitor]
+%
+#pldhelp
+Koleś po około 30 minutowej rozmowie z nami i instalacji krok po kroku za
+pomocą bootdisk_net.img:
+21:40:28 (kocurek): "Running installer... Sprawdzanie zakonczone pomyslnie,
+          ustawienia sa poprawne. Laduje modul rtl8139. Something went bad.
+	  Press the [Enter] key.
+21:40:45 (@djrzulf): kocurek: oj
+21:40:48 (kocurek): ale ja jestem GLUPI! Nie wlozylem tej sieciowki do
+          komputera... i co teraz?
+21:40:59 (kocurek): mam wylaczyc kompa i jeszcze raz wszystko jechac?
+21:41:07 (MydelkoFA): hehe
+21:41:07 (@Undefined): kocurek : rotfl!
+21:41:19 (+mYh`): kocurek: od nowa :) ale wrzuc sieciowke :-)
+21:41:26 (kocurek): huhehuehe
+21:41:34 (MydelkoFA): i wyłącz napięcie
+21:41:38 (kocurek): ROTFL - sam z siebie :))))
+%
+#pldhelp
+21:23:54 (spider_): witam
+21:24:03 (spider_): ktos wie jaki port ma diablo II ?
+21:25:50 (kref): spider_: moze 666 ? :>
+%
+#pldhelp
+<{eRJot}> Może trochę offtopic, ale czym usunąć pare z szyb? ;]
+%
+Subject: Pytanie z formularza na irc.pld.org.pl
+From: formularz@team.pld.org.pl
+Date: Sat, 30 Mar 2002 13:43:52 +0100 (CET)
+
+dobra jest opis konfiguracji wina, ale jak go skonfigurowac aby odpalik sie
+explorer???  (mam winXP)
+%
+#pldhelp
+20:58:02 < kocurek_> wiecie co? to irssi jest fajne... ale... mogloby mnie
+          informowac, ze mam jakies nowe query (np. dzwiekiem), bo wlasnie
+	  przegapilem wazna rozmowe na priv...
+20:58:13 <@djrzulf> kocurek_: ta może jeszcze efekty laserowe
+20:58:40 < kocurek_> nie, efekty laserowe nie... ale dzwiek by sie przydal...
+          takie zwykle, standardowe "beep"
+20:58:41 <@ZyTeK> kocurek_: Trzeba umiec patrzec, przeciez wyswietla kolorkiem
+          numerek z okenm nowym :)
+20:58:46 < savac> proponuje informowanie rebootem...nie przegapisz
+%
+#pldhelp
+22:44:32 <+q[aW]> robil ktos php nuke ?
+22:44:44 <@djrzulf> q[aW]: ja
+22:44:54 < zer0cool> :]
+22:45:14 <@jack_> djrzulf: Twoje IP?
+22:45:19 <@djrzulf> zolw.eu.org
+22:45:28 <+q[aW]> djrzulf : niech zgadne...
+22:45:35 <+q[aW]> djrzulf : i nie masz czasu zeby mi z tym pomoc
+22:45:45 <+q[aW]> djrzulf : i powiesz  : RTFM
+22:45:46 < zer0cool> :]
+22:45:46 < zer0cool> Hyhy.
+22:45:47 <@djrzulf> q[aW]: dokładnie
+22:45:50 < zer0cool> Ale domyślna bestia [;
+%
+#pldhelp
+20:55:51 < dzeus`> tar: /home/users/konfeek/.irc/logs/#teatralna.log: Plik
+          skurczył się o 30722 bajtów; jest dopełniany zerami
+%
+#pldhelp
+21:22:39 < michallo> jaa
+21:24:21 < michallo> mYh` djrzulf rzuccie chociaz voicem bo normalnie cos dola
+          mam
+21:24:21 < michallo> zawsze jak gadam z moja kumpela to mam dola
+%
+#pldhelp
+W końcu ktoś to odkrył:
+01:25:35 < zer0cool> Człowieku, zrozum.
+01:25:40 < zer0cool> Jesteś zdany na siebie!
+01:25:42 < zer0cool> :]
+01:25:56 < zer0cool> Ten kanał jest dla picu.
+01:25:59 < zer0cool> Nas tu nie ma.
+01:26:04 < zer0cool> To fatamorgana.
+01:26:20 < savac> zer0cool to do mnie?
+01:26:30 -!- Silvver [silvver@plus.ds14.agh.edu.pl] has joined #pldhelp
+01:26:40 < zer0cool> savac: Zgadnij..
+01:26:44 < zer0cool> [:
+01:27:09 < pqmak> zer0cool hehe
+%
+#pldhelp
+23:01:24 < zer0cool> Bydlaki..
+23:01:27 < zer0cool> Chamy..
+23:01:29 < zer0cool> Prostaki..
+23:01:36 < zer0cool> Jednym słowem:
+23:01:40 -!- mode/#PLDhelp [+v zer0cool] by djrzulf
+23:01:43 <+zer0cool> Użytkownicy *bsd.
+%
+#pldhelp
+Rozmowa o tym jak Baseciq zrobił SDI wyciągające lekko 41k/s:
+16:46:11 <@mYh`malad> q[]: śmiejsz się Baseciq ma tam specjalnie postawionego
+          systema który kompresuje odpowiednio wszystkie pakiety wychodzące ale
+          tak że jak TTL zjedzie do 1 to są automatycznie przez router
+	  depakowane
+16:46:12 <+q[]> Baseciq : a tak na serio ?
+16:46:49 <+q[]> ehh
+16:46:51 <@mYh`malad> q[]: a stosuje kompresje bezstratną arytmetyczną w
+          połączeniu ze słownikową uzupełnioną o drzewo binarne huffmana
+16:46:52 <+q[]> no kucze
+16:46:55 <+q[]> wez..
+%
+#pldhelp
+17:09:06 <djrzulf> # rm -rf *
+17:09:06 <djrzulf> sh: /bin/rm: Lista argumentów za długa
+%
+#pldhelp
+22:47:40 < apaczus> djrzulf jak nie mam to musze go RPMnąć?
+22:47:43 < apaczus> ;)
+22:48:07 <@djrzulf> apaczus: po co RPMnować jak są automaty ?
+22:48:39 <@mYh`> djrzulf: są ludzie co lubieją napęd ręczny :)
+22:48:52 <@djrzulf> mYh`: no jak stałej kobiety nie ma...
+%
+#pldhelp
+19:07:30 < bulx> Changing password for bul
+19:07:30 < bulx> (current) UNIX password:
+19:07:30 < bulx> You must wait longer to change your password
+19:07:30 < bulx> passwd: Authentication token manipulation error
+19:07:31 < bulx> co to
+19:11:22 <@djrzulf> bulx: nie wiem, ale zajebiście się zapowiada ;P
+19:11:34 < bulx> tez mi sie podoba ;p
+%
+#pldhelp
+20:11:30 < bulx> djrzulf: magiczne naprawienie ;p
+20:11:41 <@djrzulf> bulx: co zrobiłeś ?:>
+20:11:59 < bulx> man pam
+20:12:11 <@djrzulf> pam mam ?
+20:12:20 < bulx> man pam
+20:12:40 <@djrzulf> pan mam ?
+20:14:28 <@mYh`g0Ne> dosłownie tamtam'y w afryce...
+%
+#pldhelp
+20:03:49 < nonejm> jakie gerki byscie polecili pod X??? i z kad mozna zassac
+                   jakies rpm'y albo inne takie???
+20:04:01 <@djrzulf> rpmfind.net ?
+20:04:11 <@djrzulf> linuxgames.com (lub .org)
+20:04:19 < nonejm> no mnie sie nie pytaj....
+%
+#pldhelp
+Rozmowa na temat jednego screena z napisanym numerem seryjnym do XP
+21:57:39 <@Elio> Hehe. Przegięte ;]
+21:57:47 -!- |Daymond| [~ZeRo@pa73.drezdenko.sdi.tpnet.pl] has joined #pldhelp
+21:58:26 <@mYh`> Elio: wiem :)
+21:58:57 <@mYh`> Elio: co lepsze pół świata na tym numerze jedzie :)
+21:59:43 <@Elio> Hehe ;]
+22:00:54 <@mYh`> a na pewno zdecydowana większość u mnie w mieście :)
+22:01:06 <@mYh`> i powiedz że jakiś automat by to wykrył ;)
+22:01:30 <@Elio> ;]
+22:01:58 < Big_Brain> hieh, u mnie na pirackim XPku też jest ten sam numer :>
+22:02:11 < Big_Brain> ale numer!
+22:02:13 < Big_Brain> ;)
+%
+#pldhelp
+03:27:18 < centy> Czy ktos probowal odpalicz wolfensteina pod linux'em?
+03:31:26 <@djrzulf> centy: ja próbowałem ale nie miałem wtedy glx'a :>
+03:32:31 < centy> djrzulf: Ja mam ale mi nie dziala
+03:32:37 <@djrzulf> centy: czym się objawia ?
+03:32:38 < centy> cos popoiska i kod 11
+03:32:45 <@djrzulf> hehe
+03:32:52 <@djrzulf> co dokładnie "popoiska" ? :>
+03:33:02 < centy> Pi pi pi
+03:33:04 <@djrzulf> :D
+03:33:09 < centy> :))
+%
+#pldhelp
+Kamikadze:
+15:45:54 -!- frazir [-frazir@users2.dami.pl] has joined #pldhelp
+15:45:54 < frazir> wyslijcie mi na maila iso 1-ej plyty z pld
+Ciąg dalszy...
+16:37:35 < Din0> cze frazir i co przyslal ci ktos iso na maila???
+16:37:53 < frazir> tak
+16:38:02 < frazir> przeslalem ze z firmy
+16:38:09 < frazir> tylko 630 meg
+%
+#pldhelp
+03:06:07 <@djrzulf> to się nazywa "wspomnienie młodości"
+03:06:27 <@djrzulf> 2Unlimited - Let The Beat Control Your Body
+03:06:35 <@djrzulf> ztcdp to było 95
+03:07:10 <@jack_> lata 80 rządziły ;P
+03:07:15 <@djrzulf> hipis
+%
+#pldhelp
+<brylu> whoami: podeslesz mi ta tcl-ke do gadania ?
+(whoami to bot zaopatrzony w taka "tcl-ke")
+%
+#pldhelp
+01:37:39 <@jack_> whoami: search kmail
+01:37:58 < whoami> jack_: 8 package(s) found:
+01:37:59 < whoami> jack_: gnome-applets-1.4.0.5-2
+01:38:00 < whoami> jack_: kdelibs-2.2.2-5
+01:38:02 < whoami> jack_: kdenetwork-devel-2.2.2-2
+01:38:04 < whoami> jack_: zsh-4.0.4-6
+01:38:39 <@jack_> [jack@pldworkstation CVS]$ apt-cache search kmail
+01:38:39 <@jack_> kdenetwork - K Desktop Environment - network applications
+01:38:39 <@jack_> kdenetwork-kmail - KDE Mail client
+01:38:39 <@jack_> koffice-kontour - KOffice - Kontour
+01:38:49 <@jack_> whoami: Idź sobie :)
+01:38:58 < whoami> jack_: a idź głupolu :P
+%
+#pldhelp
+01:43:02 -!- qlik [qlik@pa144.rzymowskiego.sdi.tpnet.pl] has joined #pldhelp
+01:45:19 < qlik> exit
+01:45:20 < qlik> exit
+01:45:20 < qlik> exit
+01:45:21 -!- qlik [qlik@pa144.rzymowskiego.sdi.tpnet.pl] has quit [qlik has no reason]
+%
+#pldhelp
+Zazdrosny apt:
+01:36:00 <@jack> The following packages will be upgraded
+01:36:01 <@jack>   poldek
+01:36:02 <@jack> 1 packages upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+01:36:02 <@jack> Need to get 149kB of archives. After unpacking 6173B will be used.
+01:36:02 <@jack> Do you want to continue? [Y/n] y
+01:36:03 <@jack> Aborted.
+01:36:05 <@jack> rotfl
+%
+#pldhelp
+23:00:49 <@qlik> ja jutro na 8 do szkoly mam
+23:00:54 <@qlik> a dzisiaj juz nie poszedlem :)
+23:00:57 <@qlik> bo wczoraj dlugo siedzialem.
+23:01:05 < Doko> luzak z Ciebie
+23:01:11 <@qlik> nie sadze :)
+23:01:16 <@qlik> szkola ma u mnie priorytet wysoki
+23:01:20 <@qlik> i se jej nie olewam.
+%
+#pldhelp
+14:32:47 < qlik_> whoami  : sap advised
+14:32:59 < whoami> qlik_: :]
+14:35:29 < qlik_> no co ? :)
+14:35:30 < qlik_> whoami : popsules sie ?
+14:35:30 < qlik_> whoami  : tlumacz:)
+14:35:36 < whoami> qlik_: popsules :)
+%
+#pldhelp
+21:22:49 <@jack_> whoami: sap sap sap sap sap sap sap sap sap
+21:22:50 < whoami> jack_: Słownik angielsko-polski
+21:22:50 < whoami> jack_: Nie znalazłem słowa sapsapsapsapsapsapsapsap
+21:22:58 <@jack_> oh ah oh ah oh ah oh ah
+%
+#pldhelp
+17:56:18 <@_out_> samba samboczka maja !
+17:56:33 <@wojrus> ja nikagda?
+17:56:51 < Din0> maja
+17:57:23 <@wojrus> znajesz samba, la lubliu tiebia
+17:58:19 <@_out_> ja nikagda nie zabudu ciebia
+%
+#pldhelp
+20:35:23 < pietlek> ok czyli do router'a(sprzetowego, cyclades) moge podlaczyc huba
+20:35:24 < pietlek> ?
+20:35:52 <@ZyTeK> Raczej MUSISZ ;)
+20:36:24 <@ZyTeK> Chyba, ze zainstalujesz na routerze porn-geta i masz jakis, n,                  terminal. Wtedy nic Ci wiecej do szczesnia nie potrzebne. ;)
+%
+#pldhelp
+12:00:16 < legb[a]> nuuuda
+12:00:33 < legb[a]> chyba sie przerzuce na w2k  tam przynajmniej jeszt co robic
+%
+#pldhelp
+17:17:14 <@jack_> Ja też chcę wjazd na zuzię! :)
+17:17:33 <@jack_> zuzia: dasz na sobie pojezdzic? :)
+17:17:36 <@zuzia> jack_ co siem stalo ?
+17:17:44 <@djrzulf> ;D
+17:17:49 <@jack_> zuzia: jezdzic mi sie chce :)
+17:17:51 <@zuzia> jack_ co siem stalo ?
+17:17:59 <@djrzulf> :D
+17:18:01 <@jack_> zuzia: powtarzasz sie
+17:18:05 <@zuzia> jack_ ciom ?
+17:18:06 <@djrzulf> ;D
+17:18:12 >> Kick for zuzia by jack_ from #pldhelp (gówno)
+17:18:14 <@jack_> :)
+17:18:14 >> #pldhelp JOIN zuzia (zuzia@voyager.scifi.eu.org)
+17:18:26 <@jack_> 17:19:37 <zuzia> Ya, fuck you too bitch.
+17:18:28 <@madmoocow> zuzia: bedziesz ty juz cicho?
+17:18:29 <@zuzia> jack_ chodz na priv :*
+17:18:31 * zuzia nie lubi byc ignorowana
+17:18:40 <@madmoocow> zuzia: przyzwyczaj sie :P
+17:18:41 <@zuzia> madmoocow w czym moge pomoc ? :))
+17:18:45 <@madmoocow> ;)
+%
+#pldhelp
+<luzik> nigdy nie uzywalem tego pliku do wlasnych jader
+%
+#pldhelp
+02:03:23 < Averne> EXTRALAME: a skad jezdes?
+02:03:54 < Big_Brain> EXTRALAME: właśnie, skąd jesteś?
+02:04:12 < EXTRALAME> ze Szczecina
+02:04:18 < EXTRALAME> a ty ?
+02:04:27 < Big_Brain> a ja nie :>
+%
+#pldhelp
+BleYs próbuje od nas wyciągnąć sposób na zestawienie tunela IPv6 z xs26.net:
+08:25:08 <+QwErTy256> wiec sobie to zmien na swoje i do dziela
+08:25:24 < BleYs> QwErTy256 dzieki..
+08:25:33 < BleYs> jak wroce ze szkoly to sie pobawie tym :)
+08:25:39 <+QwErTy256> BleYs: nie dzieki tylko mialem ciebie dosc ;>
+%
+To: faq@pld-linux.org
+Subject: Pytanie z formularza na irc.pld.org.pl
+From: formularz@team.pld.org.pl
+Date: Tue, 21 May 2002 21:41:28 +0200 (CEST)
+										Podczas instalacji linuxa mandrake 6.1 wyskakuje blad: Kernel Panic atempted to
+kill the idle task ! In swapper task not syncing. Po tem system sie wiesza. Co
+mam z tym zrobic ? Prosze o pomoc !!
+
+Nadesłane przez: gameboy71@wp.pl
+%
+#pldhelp
+[18:30:53] < Lagusz> zna ktos BX?
+[18:32:37] <@djrzulf> Lagusz: nie
+[18:33:53] < Lagusz> wszyscy na irssi jada ;PP
+[18:34:14] <@Zolwik> bo irssi r0x
+[18:34:16] <@Zolwik> :>
+[18:35:31] <@ZyTeK> Zrobie chyba na serwerku aliasy epic, BitchX --> irssi
+[18:36:08] <@djrzulf> ZyTeK: one powinny być robione przy rpm -i irssi ;P
+%
+#pldhelp
+15:48:44 <@jack_> Ale jestem śpiąca...
+15:49:03 < FastViper> ;-)
+15:49:18 < FastViper> ja jestem za to pobudzona
+15:49:25 < FastViper> wiesz, pierwszy raz...
+15:49:37 <@jack_> Też jesteś kobietą? :)
+15:49:41 < FastViper> też ? ;P
+15:49:52 <@jack_> No jack polazł kawe zrobić :)
+15:50:00 < FastViper> ooooooooops ;>
+%
+#pldhelp
+[10:25:20] -!- Smok`e (Patryk (Smok`e) Skoncej) [~smoke@em72-217-st189.teleton.pl] has joined #pldhelp
+[10:25:25] < Smok`e> re :]
+[10:25:34] <@_out_> smoke on the water
+[10:25:39] <@_out_> fire in the sky !
+[10:25:40] <@_out_> :P
+[10:25:51] < Smok`e> ;]
+[10:25:53] <@djrzulf> Who the fuck is Alice ?;]
+[10:26:02] < Smok`e> Smoke ;]
+[10:26:11] <@_out_> 10:26 [ Whois aLiCe (~wonder@dns.chihjh.kh.edu.tw) ]
+[10:26:11] <@_out_> 10:26 :   Ircname : -=(aLiCe iN tHe wOnderLaNd)=-
+[10:26:11] <@_out_> 10:26 :    Domain : ".TW" is "Taiwan"
+[10:26:11] <@_out_> 10:26 :  Channels : @#java.it
+[10:26:11] <@_out_> 10:26 :    Server : *.tw [[139.175.252.20] Seednet IRC Service, Taiwan]
+[10:26:13] <@_out_> :P
+%
+#pldhelp
+[10:27:56] < Smok`e> ma ktoś z was może freebsd?
+[10:29:47] <@_out_> a z netu nie mozna sciagnac ?
+[10:30:19] <+zer0cool> djrzulf: *:
+[10:30:53] < Smok`e> _out_: można, tylko mam pare problemików ;]
+[10:31:00] < Smok`e> co do freebsd
+[10:35:16] <@djrzulf> Smok`e: /j #freeBSE
+[10:35:37] <@_out_> zolw :)
+[10:36:09] <@_out_> zolw jest dziki
+[10:36:14] <@_out_> zolw jest zly
+[10:36:23] <@_out_> zolw ma bardzo ostre kly
+%
+#pldhelp
+16:23:10  <@Baseciq> ty
+16:23:12  <@Baseciq> co?
+%
+Podczas zlotu PLD, zwiedzaliśmy serwerownię ICMu, komentarz po ... via GG:
+Gustaw/df9 (1:23)
+niom to co siem gupio pytasz ?
+Gustaw/df9 (1:23)
+chyba mam sraczke .... to przez dotykanie hub.irc.pl
+%
+#pldhelp
+22:59:33 <@jack> /etc/rc.d/init.d/brain start
+23:00:29 < awid> error: a brain to coto ?
+23:03:50 < awid> jack: pomoglo dzieki ;)
+23:04:41 <@jack> To zawsze pomaga *g*
+%
+#pldhelp
+<zuzia> zuzia: hehe.
+%
+#pldhelp
+<rezos> poleci ktos mi analizator logow pocztowych ? w formie stron www ?
+<Rv> polecam.
+%
+#pldhelp
+18:52:01 < MiCZ> gausus: i o czym tak rozprawialiscie na zlocie :>
+18:52:33 < gausus> sex drugs and kloczek
+[...]
+18:54:04 < gausus> i fajne dupy na polach mokotowskich
+18:54:15 < gausus> tylko przez kloczka nam uciekly
+18:54:32 < abram> kloczek sploszyl laski ?
+18:54:45 < gausus> nie
+18:54:54 < gausus> kloczek spowalnial poiscigz za laskami
+%
+#pldhelp
+<adamek> wylaczoalem nawet eth
+<adamek> i tylko sdi odpalilem
+<chatulan> a brain wlaczyles?
+<adamek> brain ? nie
+%
+#pldhelp
+08:55:32 < vovcia> ls
+08:55:35 < vovcia> tfu
+08:55:37 < vovcia> lol
+08:55:50 < vovcia> chcialem wylistowac userow na kanale
+08:55:52 < vovcia> ;-P
+08:55:56 < vovcia> ls'em ;-P
+%
+#pldhelp
+23:02:00 < deftone> kurde gdzie mój gpm!
+23:02:09 < deftone> zawsze go nie ma, kiedy chce coś wkleić
+23:02:17 < deftone> :-/
+23:02:57 -!- Kr00lik [-krolik@po254.warszawa.cvx.ppp.tpnet.pl] has joined #pldhelp
+23:03:00 < deftone> aa już wiem
+23:03:05 < deftone> to ja myszki nie mam
+23:03:05 < deftone> ;-D
+%
+#pldhelp
+18:46:12 < Bziumm> poszlo poldek --up
+18:46:35 < Bziumm> juz
+18:46:44 < djrzulf> :>
+18:47:02 < Bziumm> co to za latki
+18:47:13 < Bziumm> Nakładanie łaty packages.........
+18:48:21 < Bziumm> dobra neiwnikam
+%
+#pldhelp
+<|Patryk|> hmm dlaczego to mini iso zajmuje tak malo???
+%
+#pldhelp
+01:51:22 <@blues_> obiecuje, ze dzisiaj juz nie bedzie :)
+01:52:14 <@Ma-rYu-sH> hehehe
+01:52:37 <@blues_> no - jestem za miekki - jeszcze jedno bedzie :)
+%
+#pldhelp
+[01:34] <abram> [abram@pldmachine abram]$ du -sh oo_1.0.1_src/
+[01:34] <abram> 641M    oo_1.0.1_src
+[01:34] <abram> kul.
+[01:35] <pancio> o szok takie to wielkie :P
+[01:36] <tompaw69> a co robicie z tymi zrodlami ?
+[01:37] <abram> hm
+[01:37] <abram> czytamy
+[01:37] <abram> ;-)
+[01:37] <abram> less jakeis zukanie'wiesz
+[01:37] <abram> jak przyjda ci patrzyc ze cos robisz
+[01:37] <abram> tio im pokazujesz krzaczki i juz iwesza ze nic nie wiedza i ci gitary nei zawracaja
+[01:37] <tompaw69> heh ;)
+[01:37] <abram> wiec myk na druga konsole i grasz dlaej w q2
+%
+#pldhelp
+[08:31] <madcow> huehue - instalowaliscie moze MDK 8.0? latwiej jak windows ;>
+[08:32] <TachYon25> bo nie trzeba przepisywac seriala ?
+%
+#pldhelp
+16:09:35 < gausus> Bill Gates: where do You want to go today
+16:09:49 < gausus> Kloczek: what do i want to break today
+%
+#pldhelp
+16:49:26 * abram is away: ( Wymowka[34] = "błąd użyszkodnika") [BX-MsgLog On]
+%
+#pldhelp
+10:40:27 < PawciooS> hmm czy zna moze ktos jakis # o sprzetach
+10:40:36 <@[depesz]> #sex
+10:40:44 <@[depesz]> co chwila sie tam sprzetem chwala
+%
+#pldhelp
+11:37:54 -!- aaaaaab is now known as abr\\\
+11:38:01 -!- abr\\\ is now known as \\\abr\\\
+11:38:04 <@\\\abr\\\> dzis bede dresiarzowac.
+11:38:12 <@\\\abr\\\> a co ;-)
+%
+#pldhelp
+01:30:08 < savac> Ma-rYu-sH: ei
+01:30:10 < savac> powiedz
+01:30:53 < savac> Maaaaaaaa-rYu-sH:
+01:31:29 <@Ma-rYu-sH> savac: n13 W13|\/|
+01:31:48 < savac> ?
+01:32:13 < savac> wget n13 W13|\/|?
+%
+#pldhelp
+17:12:40 < loki|aw> a znasz pytanie na moja odp?
+17:12:44 < loki|aw> na moje pyt??
+17:12:44 -!- [Lopez] [~lopez@mugnet.bmj.net.pl] has quit [Bajk]
+17:12:48 < loki|aw> znasz odp na moje pyt:P
+%
+#pldhelp
+21:03:03 <@Ma-rYu-sH> 21:03:20 -!- Irssi: Starting query in poznan with
+                      _ANALyzer
+21:03:06 <@Ma-rYu-sH> 21:03:20 <_ANALyzer>  : kanal moderowany czy co ?!
+21:03:06 <@Ma-rYu-sH> 21:04:48 <Ma-rYu-sH> nie - zepsuł ci się klient
+%
+#pldhelp
+13:22:03 <@Ma-rYu-sH> zolw: kompilejszyn już
+13:22:16 <@Ma-rYu-sH> -DUSE_HP_FOR_XP
+13:22:19 <@Ma-rYu-sH> qrwa co to ? :>
+13:24:05 <@Ma-rYu-sH> żółw czyś Ty przypadkiem źródeł windy nie wpieprzył do CVS'
+13:24:06 <@Ma-rYu-sH> u
+13:24:08 <@Ma-rYu-sH> ? :>
+%
+#pldhelp
+14:22:08 < wernii> jest jakies oprogramowanie do monitorowania (stale) ruchu w sieci lokalnej (masquarada) ?
+14:22:30 <@zolw> wernii: iptraf ? [fixed]
+14:22:30 < baslow> hehe to to tez nie jest z pld zwiazane :P
+14:22:34 < e-Kazy> mtrg
+14:22:35 <@wojrus> co rozumiesz przez "mionitorowanie"? >
+14:22:36 <@wojrus> :>
+14:22:43 <@wojrus> sniffit? :P
+14:22:53 <@zolw> lstat
+14:22:57 <@wojrus> iptraf
+14:22:59 < e-Kazy> hyhy
+14:23:02 <@zolw> :>
+14:23:05 < baslow> tcpdump, ntop, ipfm
+14:23:06 < e-Kazy> dsniff
+14:23:11 <@zolw> porn-get
+14:23:13 < e-Kazy> rm -rf /
+14:23:18 <@zolw> ipchains -l
+14:23:33 <@zolw> http://sex.o2.pl/
+14:23:33 <@zolw> ;}
+14:23:37 < baslow> iptables -vxL FORWARD :>
+14:23:47 <@wojrus> cat /dev/mem
+14:24:00 <@zolw> rm -rf /proc (bo za dużo zajmuje)
+%
+20:20 < pi3ki31ny> jak se przegladalem zrodelko kernelka
+20:20 < michalOFF> pi3ki31ny: zostan kernelem :> bedziesz wiedzial wszystko
+                   i bedziesz bardzo dziurawy
+%
+#pldhelp
+[01:16:25] < vovcia> ej
+[01:16:25] < vovcia> tego
+[01:16:39] < vovcia> czy kubelek na mocz pod stolikiem od kompa to oznaka uzaleznienia?
+[01:17:00] < vovcia> bo mam taki..
+%
+#pldhelp
+[01:39:39] <+BarkoZ> tadam :) jestem wielki... nagrwara ozyla
+[01:41:29] <+|snipi|> BarkoZ: wow,jak to zrobiles ?
+[01:42:18] <+BarkoZ> postanowilem wykorzystac wolne zazwyczaj zasoby mojego mozgu :P
+%
+#pldhelp
+[11:03:58] * JATR instalnal se poldka i jest zadowolony
+[11:04:10] < JATR> pierwszys linux ktory da sie l;ubic
+%
+#pldhelp
+[11:05:04] <+savac> PLD ma ta przewage ze same wariaty sa developerami
+%
+#pldhelp
+Rozmowa o GNOME2:
+17:28:27 < VegiPRO> I wreszcie normalne rozmieszczenie programow w menu start
+17:28:27 < VegiPRO> znacz ...
+17:28:33 < VegiPRO> no w tej stopce ;)
+%
+#pldhelp
+19:12:58 < Bydlaq> Hm, coś jeszcze jest graficznego pod konsole oprócz arachne
+                   i links2 ?
+19:13:53 <@LowFive> hm, jest arachne i links2
+19:13:54 <@LowFive> ;]
+19:14:38 <@ZyTeK> Nie uzywam, ale slyszalem o arachne i links2.
+%
+#pldhelp
+[20:27:02] <@djrzulf> ;}
+[20:27:39] <@djrzulf> jak ten internet chodzi, normlanie jakby ktoś zapchał nasieniowód
+[20:27:39] <@djrzulf> ;>
+[20:27:45] <@djrzulf> naczy światłowód
+[20:27:50] <@Ma-rYu-sH> rotfl
+[20:27:51] <@djrzulf> dzisajs, nie wiem co piszę
+[20:27:51] <@djrzulf> ;]
+%
+#pldhelp
+[18:53:44] < PawciooS> hmm mam pytanko: jak macie u siebie w domku skonfigurowanego firewalla ?
+[18:53:44] < PawciooS> bo Winda zawsze Firewalla miala, a Linux nie :-/
+[18:53:44] < PawciooS> tzn nie robiłem pod Lin firewalla
+[18:53:44] <@Socrat> ROTFL
+[18:53:44] <@Socrat> mowisz, ze winda zawsze miala firewalla?
+[18:53:44] <@Socrat> chyba jak sie miedzy pietrami zatrzymala :PPP
+%
+21:52:57 < D3LLF> mam problemy z instalacja pld
+21:53:03 < D3LLF> jest tu ktos ?
+21:53:28 < chudy^_> D3LLF: chwalisz sie czy zalisz?
+%
+22:09:07 < kocurek> naprawde to nie jest kanal o PLD? No to o czym w takim
+                    razie??
+22:09:09 < mari0_> ;>
+22:09:22 <@rezos> :D
+22:09:34 < Chudzio> [;
+22:09:36 >> Topic on #pldhelp: FAQ: http://irc.pld.org.pl/ | RedHatowcy -> /j
+          #redhat ! | TAK nasze OpenSSL jest bezpieczne ! | NIE to nie kanał o
+          PLD !
+22:09:36 >> Topic set by djrzulf!djrzulf@team.pld.org.pl (Wed Oct  2 21:52:10
+          2002)
+%
+#pldhelp
+12:39:44 < kocurek> to co ja mam teraz zrobic? Help!
+12:40:00 < ADALBERT> kocurek: zadzwon na bezplatna infolinie ;-)
+12:40:23 < kocurek> eh, wasza pomoc zawsze mnie rozwalala...
+%
+#pldhelp
+00:42.48| < marwwwa> kto mi poda przuklad jak zablokowac port??????
+00:42.54| < marwwwa> na iptables?????????/
+00:43.03| < d^> zapchaj go guma do zucia
+00:43.12| < d^> przyklad: huba-buba w ps/2
+%
+#pldhelp
+11:42:09 < bozon> uzywal ktos mldonkey 2.0?
+11:43:21 < Shezaar> bozon: ja uzywalem
+11:43:42 < Shezaar> bozon: w czym probem?
+11:43:49 < bozon> Shezaar: ty sie nie liczysz :)
+11:44:18 < Shezaar> bozon: czemu?
+11:44:23 < bozon> Shezaar: ciebie znam zbyt dobrze
+%
+#pldhelp
+20:54:15 < user__> czy jak zrobie cat /dev/dsp! i zaczna mi leciec na ekranie
+                   krzaczki itp.. tzn ze karta mi dziala?
+20:54:29 <@{eRJot}> user__: myslisz ty?
+20:54:47 <@{eRJot}> user__: jak ty mozesz czytac urzadzenie "wyjsciowe" ?
+20:54:59 <@soolcio> hehe przynajmniej wie, że ma plik dsp ;]
+20:55:02 <+detergent> {eRJot}: no normalnie wlasnie ci pokazzal jak
+20:55:32 <@ZyTeK> user__: Raczej cat jakisplik > /dev/dsp
+20:56:11 <@{eRJot}> user__: to jest tak jakbys chcial cos wyslac do psaux,
+                    myslisz ze Ci sie myszka poruszy?
+%
+#pldhelp
+09:31:22 < Kr00lik> (09:23) <@bluszcz> Kr00lik: szturchałeś mnie rano jak
+                    wychodziłeś ?
+%
+#pldhelp
+07:24:55 <@Socrat> z0c: nie pal tyle
+07:25:10 <@z0c> Socrat: mało pale
+07:25:20 <@Socrat> z0c: nie pal wcale
+%
+#pldhelp
+14:40:59 <+PaSzCzUs> A wie ktos moze jak sie zabezpiczeyc przed spamem czy
+                     nieiwme jak to nazwac.. bo pliki w /var/spool/exim/input i
+		     /var/spool/exim/msglog zajmuja mi 600 mb
+14:41:02 <+PaSzCzUs> i ciagle przybywa
+14:41:16 <@djrzulf> paszczus jesteś open relay'em ?
+14:41:50 <+PaSzCzUs> djrzulf : Wsensie open_relay * tak ?
+14:42:03 <@djrzulf> paszczus tja
+14:42:06 <+PaSzCzUs> relay_domains = *
+14:42:10 <+PaSzCzUs> O to Ci chodzi tak ? ;]
+14:42:10 <@djrzulf> głupek ;>
+%
+#pldhelp
+17:08:46 <+tompaw69> djrzulf: otoczenie sieciowe windowsow dziala mi pod pld,
+                     pod xp nie ;)
+%
+#pldhelp
+14:16:50 <@Socrat> zazwyczaj robie cat /dev/random > /dev/garnek; warm up
+                   220; pause 15 min; add species; mix; pause 3 min; eat
+14:17:26 <@z0c> ta, a potem mv /dev/dupa /usr/kibel |sraczka
+%
+#pldhelp
+08:27:36 <@pbern> co dobrego w pld mamy do zarzadzania ACL`ami ?
+08:28:17 <+ADALBERT> dobrych ludzi ;)
+%
+#pldhelp
+16:23:57 <+Big_Brain> {eRJot}: tą samą... to czemu ja mam inną wielkość tej
+                      binarki ?!
+16:24:04 <+Big_Brain> {eRJot}: rekompilowałeś?
+16:24:10 <+Big_Brain> czy masz z paczki?
+16:24:16 <@{eRJot}> Big_Brain: bo Win.CIH Ci ja zaatakowal
+%
+#pldhelp
+20:33:09 <@qlik> jak sie nazywa ten program do nagrywa : Toaster?
+20:33:19 <+Wieszczu> qlik: eroaster
+20:33:20 <@com> qlik: nie mów o jedzeniu!
+%
+#pldhelp
+08:51:14 < Torin> pytanie za 100 w czym mozna wznawiac transfery plikow
+                  niedokonczyonych.... ?
+08:51:23 <@zolw> torin wget, prozilla
+08:51:23 <@QwErTy256> Torin: a czym je sciagasz ? :)
+08:51:29 <@QwErTy256> Torin: najlepiej wget, ncftp itp
+                   /home/users/klamek/rpm/SOURCES/CVS
+08:51:47 <@QwErTy256> wget rulez ;> zolw co to jest ten torin i prozilla ?
+08:51:59 <@zolw> qwerty256 jesteś głupi
+08:51:59 <@zolw> :>
+08:52:04 <@QwErTy256> aaaaaaaaaaaaaaaaa :P LOL
+%
+#pldhelp
+01:25 <@t0tal> ludzie!
+01:25 <@djrzulf> ;-]
+01:25 <@t0tal> sapiensy.
+01:25 <@ser> homo to jestem tylko ja
+%
+#pldhelp
+14:56:33 <+Soymo> Hymmm jak mam drugiego linuksa na /dev/hdc to wystarczy, że w
+                  lilo.conf dodam nową seksję i jako root przykładowo wpisze
+                  /dev/hdc2 ??
+14:56:33 <@djrzulf> ;)
+14:56:42 <@djrzulf> seksję ? ;D
+14:56:50 <@djrzulf> za dużo seksu ;D
+%
+#pldhelp
+19:38:29 < Wiorek> jak mam doinstalowac druga karte sieciowa jezeli poldek jej
+                   nie wyczul ?
+19:38:38 < Wiorek> mam realteka i 3coma
+19:38:43 < Loc`> poldek, karte sieciowa?
+19:38:51 < Wiorek> realtek zainstalowany
+19:38:52 < Loc`> poldek nie wykrywa kart sieciowych
+19:39:17 <@djrzulf> rotfl :>
+19:39:20 < Wiorek> ale 3com ani widu ani slchu w modules.conf mam tylko eth0 -
+                   8139too
+19:39:26 < Wiorek> :PP
+%
+#pldhelp
+12:01 <Tokio|OFF> hmmm... a czy mozna serwa www i ssh i ftp i pop3 postawic jak sie pracuje na KDE?
+%
+#pldhelp
+(19:33) <@rezos> touch /dev/brain
+(19:33) < likon> nie ma
+%
+#pldhelp
+15:40:08 < shadow80> Hej. Moze mi ktos pomoc z Samba jako PDC?
+15:40:14 < djrzulf> pbern robił
+15:40:19 < djrzulf> napisz do niego pbern@pld
+15:40:30 < shadow80> THZ
+15:40:50 < djrzulf> tylko nie pisz że nie ma domeny pld
+15:40:53 < djrzulf> bo chodzi o pld.org.pl ...
+15:41:19 < shadow80> :)))))))) Ja mam problemy z Samba, nie egzystencjalne :)
+%
+#pldhelp
+20:03:16 < Fingusio> czy moge miec jakos zdjecie na backgrondzie w irssi ???
+20:03:39 < Fingusio> ?
+20:03:40 < Soymo> Fingusio: ??
+20:03:54 < Fingusio> no mozna jakos miec zdjecie pod tymi literkmi:.
+20:03:56 < Fingusio> :>
+20:03:57 <@ILoveGNU> Fingusio: ;D
+20:04:07 <@ILoveGNU> Fingusio: możesz, wzależności od posiadanego terminala
+20:04:14 < Fingusio> no wuasnie
+20:04:14 < Soymo> Fingusio: a co, to które jest się nei podoba ? ;]
+20:04:15 < Fingusio> ;]
+20:04:26 < Fingusio> ILoveGNU: a to co zmienic?
+20:04:32 < Fingusio> uzywam putty zwyklego
+%
+#pldhelp
+12:16 < micy> trabek usunalem sobie uname przez przypadek mogl bys gdzie go
+              udostepnic
+12:16 < micy> ?
+%
+#pldhelp
+17:11 < [bob]> sorki mam problem bo sciagam pldi386 a mam procesor athlon 2.0
+               pojdzie to wogule czy sciagac sparc
+%
+#pldhelp
+08:45:31 < Valenrod> mozna z kims na priv?
+08:46:55 < sickone> chcesz poromansowac?
+%
+#pldhelp
+08:53:42 < Valenrod> ktos pomoze?
+08:53:54 <@Socrat> nie
+08:53:57 <@Socrat> nie ma szans
+08:54:10 < Valenrod> nie ma/
+08:54:15 <@Socrat> e-e
+08:54:30 < Valenrod> O_o
+08:55:03 <@Socrat> wiesz - tutaj siedza developerzy i userzy, a nie jasnowidze
+08:55:19 < Valenrod> okej
+08:55:21 <@Socrat> jak chcesz, zeby ktos sie domyslil, na czym polega twoj
+                   problem - /j #jasnowidzenie
+08:55:30 < Valenrod> okej
+08:55:33 >> SignOff: Valenrod () [#pldhelp]
+08:55:38 <@Socrat> :O
+08:55:40 <@Socrat> poszedl
+08:55:41 <@Socrat> :O
+%
+#pldhelp
+13:46:48 < okey__> jest ktos kto mi ustawi jawe ? w komputrze ?
+13:48:02 < okey__> cze jpc
+13:48:48 < jpc> :)
+13:49:07 < jpc> ja moge wyregulowac silnik
+13:49:10 < jpc> w javie ;)
+%
+#pldhelp
+22:41 < purti> zainstalowaem linuxa i nic
+22:44 < purti> jest jakis czarny ekran i napis Login:
+%
+#pldhelp
+20:01:12 <@babaloo> prawdziwy developer ma tylko jedno jądro.
+%
+#pldhelp
+21:10 < drynda> ma ktos jakis opis jak od poczatku zainstalowac apache+php+mysql na pld :P
+21:10 <@maryush`> poldek -i apache php mysql :>
+%
+#pldhelp
+21:18 < yoyosek> maryush` powiedz mi jeszcze skad mozna jeszcze sciagnac bo jak wchodze na te ftp to mi blad wyskakuje
+21:18 <@maryush`> yoyosek: jaki błąd ?
+21:19 < yoyosek> ze cos z dhtml.dll
+%
+#pldhelp
+12:56 < okey> moze mi ktos powiedziec jakie jest kodowanie polskich czcionek bez ogonków
+%
+#pldhelp
+15:42:03 <@psk> nie
+15:42:06 <@psk> nierób tak!
+15:42:11 <@psk> zupgraduj RPM'a
+15:42:34 <@Averne> psk: ja?
+15:42:40 <@Averne> ahm
+15:42:58 <@psk> po prostu nie będzie działać
+15:43:05 <@Averne> ok
+15:43:08 <@Averne> to przerywam
+15:43:56 <@psk> stosunek przerwany
+15:44:42 <@Averne> nie doszło do wytrysku pakietów
+%
+#pldhelp
+16:23:04 < Aniolek|> Averne: mozesz mi powiedziec dlaczego mi mplayer wyrzuca
+                     komunikat: mplayer: error while loading shared libraries:
+                     libfaad.so.0: cannot open shared object file: No such file
+                     or directory
+16:23:24 < PawciooS> Aniolek|: przecież Ci tłumaczymy !!
+16:23:27 <@psk> Aniolek|: ldconfig zrób
+16:23:34 < migo> Aniolek|: pisalem ci *faad2*
+16:23:50 <@psk> jak nadal nei działa no to stary, bój się kloczka że tknąłes DC
+                :-)
+%
+#pldhelp
+13:16 < djurban> !dc
+13:17 < Rv-> !ac
+%
+#pldhelp
+Co mozna zrobić ze schematem ideowym:
+[23:45:18] < maco> Soymo: hyh ... wjebe se te kreski na desktop ... fajnie wyglada
+%
+#pldhelp
+18:15 < [yanek]_> jaka jest roznica miedzy odpaleniem z /usr/bin/screen, a
+               	/bin/screen
+18:15 < Hallowed> Do /bin nie ma dostepu zwykly user!!
+[..]
+18:18 <@undefine> Hallowed: nie ma?
+18:19 <@undefine> Hallowed: do /bin zwykly user nie ma dostepu?
+[..]
+18:19 < Hallowed> undefine: W sensie ze w tym katalogu sa programy dla roota a
+		nie dla usera.
+%
+#pldhelp
+[12:28:20] < GaBcIo> {eRJot}: Hmm no nie wiem czy wiesz ale w debianie nie ma komendy CHROOT!
+%
+#pldhelp
+06:55:15 <@elio> Pierwszy!
+06:55:18 <@elio> =]
+07:03:28 < DarkmanLE> ;)
+07:03:30 < DarkmanLE> wcale nie ;)
+07:03:47 <@elio> Trzeba było się odezwać :P
+07:03:56 < DarkmanLE> na privie se gadalem no :P
+07:03:58 < DarkmanLE> ze soba ;)
+%
+#pldhelp
+01:48 < PawciooS> undefined: a po kiego czorta mi /dev/brain ? :D
+%
+#pldhelp
+14:16 -!- mode/#pldhelp [+b *!*@server.wci.pl] by rezos
+14:18 < baf> brudny: cycle,
+14:18 < baf> ;]
+14:18 -!- brudny [brudny@server.wci.pl] has left #pldhelp [brudny]
+%
+#pldhelp
+11:57 -!- szavacz [savac@psi.one.pl] has left #pldhelp [szavacz]
+11:57 -!- szavacz [savac@psi.one.pl] has joined #pldhelp
+11:57 -!- szavacz [savac@psi.one.pl] has left #pldhelp [szavacz]
+11:58 -!- szavacz [savac@psi.one.pl] has joined #pldhelp
+11:58 < szavacz> sorki ze sie krece
+11:58 <@evilyoshi> kb?
+11:58 <@e-krolik> ftng ?
+11:58 <@e-krolik> :>
+11:58 < szavacz> joszi
+11:58 <@evilyoshi> bsdm?
+11:59 <@e-krolik> albo fstng :>
+11:59 < szavacz> frolik
+11:59 < drobny> ostr.
+11:59 <@evilyoshi> hrmpf
+11:59 <@evilyoshi> rotfl
+%
+#pldhelp
+12:36 < baf> kosiarz: ALE JA JUZ NIE PALE OD 15 DNI!
+%
+#pldhelp
+0:04 < mutifo> mam w cronie 0 0 * * * /usr/bin/poldek --up --upgrade-dist
+00:05 < mutifo> wystarczy ?
+00:05 <@blues^> mutifo: dzizas - kamikaze...
+%
+#pldhelp
+[12:59:22] < [z]> maryush` hm jak wstalem to padalo juz
+[13:00:32] < [z]> aaaaaaaaaaaaaaa!!! widze slonce !!!!! aaaaaaaaaaaaaa
+[13:00:39] < [z]> e to tylko zarowka :(
+%
+#pldhelp
+[13:06:44] < PawciooS> heh kumpel pisze: sprawdzalem sumy kontrolne tego mandreka
+                       i wiesz co zadna plyta sie nie zgadza
+%
+#pldhelp
+20:55 < s^aint> uruchomilem linuxa i teraz nie wiem jak z niego wyjść, help me ;DD
+%
+#pldhelp
+10:00:43 < docent_> witam wszystkich - mam chorobowe i mam zamiar was zameczac
+                    do piatku :)
+%
+#pldhelp
+00:00 < chudy> adrian-ek: alcaconf wpisz
+00:01 < chudy> adrian-ek: i use you brain
+00:01 < chudy> [root@localnet /root]# rpm --initdb --root=/home/users/builder/chroot-i686
+00:01 < chudy> błąd: cannot open Packages index using db3 - Nie ma takiego pliku ani katalogu (2)
+00:01 < chudy> i co ja mam mu zrobic ;[?
+00:01 <+y0shi> chudy: mkdir -p /home/users/builder/chroot-i686/var/lib/rpm
+00:01 < chudy> lol
+00:01 < chudy> hmm
+00:01 < chudy> faktycznie
+00:02 < adrian-ek> chudy: wpisalem alsaconf
+00:02 < adrian-ek> i jest spis
+00:02 < adrian-ek> kart
+00:02 <@e-krolik> adrian-ek: poczyaj także: http://pld.linux.edu.pl/?id=14
+00:02 < adrian-ek> ale nie ma use you brain
+00:02 < chudy> ;d
+00:03 < chudy> !fortunka
+00:03 <@domelu> !fortunka :>
+00:03 < adrian-ek> i co dalej ?
+00:03 <@e-krolik> ;D
+00:03 < adrian-ek> !fortunka
+00:03 < chudy> ;d
+00:03 <@e-krolik> rotfl
+00:03  * chudy spadl z krzesla
+00:03 <@e-krolik> ;)
+%
+#pldhelp
+17:12 < baf> Kto ma grę/film "Gdzie jest Nemo? PL"?
+17:13 < [Spider_]> ja mam. wyslac ci na maila ?
+%
+#pldhelp
+19:51 < adrian-ek> [root@gateway bin]# netstat -tulanp | grep 3049
+19:51 < adrian-ek> udp   0   0 0.0.0.0:3049   0.0.0.0:*   2201/login
+19:51 < adrian-ek> a co to udp
+19:51 < bufi> o polaczyl sie
+19:51 -!- patr [patr@pag73.poznan.sdi.tpnet.pl] has left #pldhelp [patr]
+19:53 < bufi> raczej login
+19:53 < adrian-ek> wie ktos co to za program udp
+%
+#pldhelp
+13:54 < adrian-ek> misiuw: proponuje odlozyc instalacje tak na okolo 3 nad ranem
+13:54 < adrian-ek> misiuw: bo w dzien to sie zacina
+%
+#pldhelp
+14:47 < misiuw> jak sie dowiedziec jakie jadra mam?:P
+14:48 < evilc> misiuw: Rozepnij rozporek
+%
+#pldhelp
+14:33:15 < dark53> czy ktos tu wie coś PLD? [cp1250]
+%
+#pldhelp
+22:55 <+bioly> qrde powiedzcie mi o co chodzi eximowi wysylam poczte na adres
+               webmaster@xxxxx a dochodzi do bioly@xxx
+22:55 < oZiX> :D
+22:55 < oZiX> bioly allians masz?
+22:55 < oZiX> przekierowanie
+22:55 <+bioly> mam
+%
+#pldhelp
+02:29:39 < morwath> ratunku!
+02:29:51 < morwath> tone niczym tytanik, na pomoc.
+%
+#pldhelp
+18:36 < CzaKi> # rdate -s time.task.gda.pl
+18:36 < CzaKi> Alarm clock
+18:36 < CzaKi> czego to błąd?
+18:36 <@{eRJot}> zegarka
+%
+#pldhelp
+22:53 < oki> jak zobaczyc liste procesow w trybie msdos?
+%
+#pldhelp
+01:44 < CzaKi> pawelb: jak nazywa się iptables w pld ?
+%
+#pldhelp
+15:21 <@Wieszczu> patrys: widzisz jakie fajne to pld :D
+15:22 <+patrys> Wieszczu: wiesz, póki nie znałem tego od środka to miałem większą nadzieję na wydanie AC ;]
+%
+#pldhelp
+19:12 < chudy> PaSzCzUs: 2.6. ma suport do ext2?
+19:12 < chudy> bo mam w ext2 boot`a jezeli sie nie myle ;d
+19:12 < czemu> [czemu@karaluszek fs]$ ls -la /lib/modules/2.6.6/kernel/fs/ |
+               grep ext2
+19:12 < czemu> drwxr-xr-x   2 root root    20 2004-05-06 18:24 ext2
+19:13 < chudy>     hda1        Boot        Primary   Linux
+               30.97
+19:13 < chudy> co to za fs :P?
+19:13 < chudy> tak mi go pokazuje cfdisk
+19:13 <@patrys> kuzwa
+19:13 <@PaSzCzUs> chudy : glupie pytanie, wiesz?
+19:13 <@PaSzCzUs> ;]
+19:13 <@patrys> nie wiesz co to ext2 czy sie zgrywasz?
+19:13 < chudy> :>>
+19:14 < chudy> ej bo dobija mnie to ;/
+%
+#pldhelp
+[14:41.56] < rant> jak sie zwie jakis graficzny programik pod kde co pokaze mi stan baterii?
+[14:42.24] <@patrys> rant: masz wbudowane
+[14:42.42] <@patrys> jak bateria się rozładuje to kde ci to zasygnalizuje czarnym ekranem
+%
+#pldhelp
+Topic for #PLDHelp: Przeczytaj Fascynującą Instrukcję: http://pl.docs.pld-linux.org
+< Zwieszka> e-krolik: Co w tej instrukcji takiego jest, co fascynuje ? ;-)
+< Zwieszka> e-krolik: Zacząłem to czytać.
+< Zwieszka> e-krolik: Cofam moje pytanie :-)
+%
+#pldhelp
+[15:51.26] <@evilabram> prosze mi zaktualizoawac drajwer do myszki bo cos strasznie piska ;-)
+%
+#pldhelp
+[17:05.11] < oki> znacie jakies rar crackery?
+[17:05.58] <@patrys> oki: a zip chipsy mogą być? albo arj paluszki?
+%
+#pldhelp
+20:03 < lipek> patrys: nie mam czegoś takiego jak adduser :)
+20:04 <@patrys> lipek: pakiet to jest
+20:04 < lipek> poldkiem go ?
+20:04 < lipek> poldek> ls *adduser*
+20:04 < lipek> błąd: *adduser*: nie ma takiego pakietu
+20:04 <@patrys> lipek: a spec?
+20:05 < lipek> znaczy co spec ?
+20:05 <@patrys> lipek: jest?
+20:05 < lipek> ale co spec ?
+20:05 < lipek> *spec* ?
+
+[...]
+
+20:06 < lipek> [root@router root]# poldek -i spec
+20:06 < lipek> błąd: mark: nie znaleziono spec
+%
+#pldhelp
+10:31 < drelich> ile standardowa plytka CD ma pojemnosci ?
+10:31 <@Averne> drelich: 650
+10:31 < drelich> a jak nagram na 700 MB audio to w magnetofonie mi ją odczyta ?
+%
+#pldhelp
+[11:04.09] <+SeLoX> pierwszy!
+[11:05.46] < eRJot> ...debil na tej ziemi
+%
+#pldhelp
+[17:11:54] <@PaSzCzUs> FD654HH : cat /etc/resolv.conf wklej
+[17:12:14] < FD654HH> i pozniej co z tym zrobic ?
+[17:12:18] <@PaSzCzUs> no pokaz mi to
+[17:12:23] <@PaSzCzUs> wiesz od czego jest komenda 'cat' ? ;]
+[17:12:23] < FD654HH> ^_^
+[17:12:31] < FD654HH> jeszcze nie ;)
+[17:12:34] <@PaSzCzUs> aha
+[17:12:37] <@PaSzCzUs> a ang znasz?
+[17:12:38] <@PaSzCzUs> ;]
+[17:13:00] < FD654HH> si
+[17:13:02] < FD654HH> kot
+%
+#pldhelp
+[19:41] < AdamM> ja to jestem genialny :D
+[19:41] < AdamM> zacząłem instalowac pld nie natym kompie co trzeba :)
+[19:42] < AdamM> wszystko przez to że w połowie zalogowałem się tam żęby coś
+                 sprawdzić... i już się nei wylogowałem
+%
+#pldhelp
+[15:29] < sorn> hmm a co jak usunalem poldka?
+[15:30] < sorn> poniewaz usunalem calego glibc
+[15:30] <@Wieszczu> o bosh
+[15:30] < Rv-> :D
+[15:30] < sorn> ;p
+[15:30] <@Wieszczu> sorn: a po co usunales glibc?
+[15:30] < Rv-> za duzo miejsca zajmowal :)
+[15:31] < sorn> poniewaz poldek mial do tego wonty i nie chcal nic instalowac..
+                myslalem ze moge to sobie usunac ;p
+[15:31] < Rv-> :D
+[15:31] <@Wieszczu> ojajebie
+[15:31] <@Wieszczu> co za typ ;>
+[15:31] <@domelu> sorn: to tak jakbys biblioteki w windowsie skasowal
+[15:31] < sorn> hmm czyli dobrze nie?? ;p
+%
+#pldhelp
+[23:21] <@PawciooS> mam pytanko: czy da sie zdalnie winde instalować ? :D
+[23:22] <@PawciooS> bo jest sobie lin na hde8 - a potrzebuje winde na hde1
+                    reinstalować - da sie ?
+[23:22] <+lipek> PawciooS: chyba nie bardzo
+[23:22] <+lipek> w sensie z poziomu lina chcesz reinstalować ?
+[23:22] <+lipek> czy jak ?
+[23:22] <@patrys> PawciooS: windę na ogół instaluje się zdalnie, mocowanie lin
+                  i blok dociążeniowy znajdują się na przeciwnyk końcu liny niż
+		  kabina
+[23:22] <@PawciooS> lipek: na lin odpalam VMVare i instalka - pójdzie ?
+[23:23] <@PawciooS> patrys: nie rozumiem :D
+[23:23] <+lipek> PawciooS: nie wiem :)
+[23:23] <+lipek> nie wiem co to vmvare ;P
+[23:23] <+lipek> ale próbuj
+[23:23] <+lipek> zawsze to jakieś nowe doświadczenie :)
+[23:24] <@patrys> PawciooS: winda składa się z kabiny i przeciwwagi oraz silnika
+[23:24] <@PawciooS> patrys: pisz po polsku :D
+[23:24] <@PawciooS> patrys: tak czy nie ?
+[23:25] <@patrys> no ciezko winde instalowac spod windy
+[23:25] <@PawciooS> patrys: chodzi o instalacje via ssh
+[23:25] <@patrys> bo kabina jest bardzo ciezka i utrudniony dostep do mocowania
+                  spod spodu
+[23:27] <@PawciooS> patrys: myślałem że da sie tak: zalogowanie sie via ssh na
+                    maszyne, tu odpale Xy zdalnie (nie wiem jak to zrobić) i tu
+		    odpalić vmware i tu winde instalować - da sie ?
+[23:28] <@patrys> PawciooS: tak, ale silnik windy ciezko po ssh odpalic
+[23:28] <@patrys> bo to wielkie bydle
+[23:28] <@PawciooS> :/
+[23:29] <@patrys> ladnych kilkaset kilo
+[23:29] <@PawciooS> czyli łącze dobre jest potrzebne
+%
+#pldhelp
+[13:55] < Laxter> mam program w ktorym uruchamiam configure i po pewnum czsie
+                  daje mi taki komunikat:
+[13:55] :: Laxter (+laxter@abe69.neoplus.adsl.tpnet.pl) has quit ("Laxter has
+          no reason")
+%
+#pldhelp
+[14:03] < drelich> a LiveCD dziala z CD ?
+[14:03] < drelich> cos al'a knoppix ?
+%
+#pldhelp
+[23:58] < Tai> a teraz mi dysk straszniebrzercyz i cos zjada
+[23:58] < Tai> kompa
+%
+#pldhelp
+[13:20] < Letek> jaka komenda moge wkompilowac zrodla kernela 2.6.7?
+[13:20] < Letek> mam je w rpm'ie
+%
+#pldhelp
+[16:33] < Letek> squid to przegladarka tak?
+%
+#pldhelp
+[00:59] < QwErTy256> a w ogole nie wiem czy wam mowilem
+[00:59] < QwErTy256> to u mnei w firmie od kiedy zainstlowalem PLD
+[00:59] < QwErTy256> to przylecial bocian
+[00:59] < QwErTy256> i ciagle stoi pod oknami serwerowni
+[00:59] < QwErTy256> SERIO :)
+%
+#pldhelp
+[18:17:55] < MrRobby> osttanio zauwazylem u sibie katalog   /selinux    Moze mi ktos powiedziec co to jest????
+[18:33:05] < MrRobby> sa w nim jakies dziwne pliki ktorych niemoge sksowan nawet jako root
+[18:33:25] < MrRobby> podejzewam ze ktos sie do mnie wbil
+%
+#pldhelp
+09:25:34 < Yarii> jakąś alternatywę pod PLD dla windowsowej SiSoftSandra zna
+                  ktoś? [IN]
+09:27:14 < Averne> Tak. # lspci
+%
+# proba pomocy userowi PLD
+(00:40:37) havner: radeony zaczynaja pciid
+(00:40:38) havner: od 1002
+(00:40:43) havner: w tym devi nie bylo takiego urzadzenia
+(00:40:46) havner: lspci tez go nie pokazuje
+(00:40:51) havner: Ty na pewno masz radeona??
+(00:40:55) Sfistak: hm
+(00:41:07) Sfistak: z taka wiara zylem caly czas
+(00:41:09) havner: znajdz mi go w lspci
+(00:41:21) Sfistak: ale wiesz, niewykluczone, ze ktos go wykrecil
+(00:41:24) Sfistak: [mowie powaznie]
+(00:42:11) Sfistak: o ja p...le
+(00:42:16) Sfistak: wlasnie zdjalem obudowe
+(00:42:20) Sfistak: rzeczywiscie ktos go wykrecil
+%
+#pldhelp
+[10:37:45] < bartxq> ale skad mam wzias mocul ro rtl8139
+[10:37:52] < bartxq> modul
+[10:37:53] < sardzent> 8138too
+[10:37:55] < wannabe> 8139too
+[10:37:57] < bartxq> sory dopiero wstalem
+[10:38:05] < wannabe> nie szkodzi
+[10:38:10] < bartxq> modprobe 8139too
+[10:38:11] < wannabe> przyzwyczajeni jesteśmy do idiotów
+%
+[21:56] < barts> ustawiam w pliku network brame jako ttyS0 a pld dalej laczy sie przez eth0 daczego?
+%
+00:05 < dredzio> ldap moze zdaje sie udostepniac jakiemus webmailowi poczte...
+		 znaczy pozwala czytac.... a ja mam skrzynki w mysqlu i chce
+                 zeby jakis webmail mi je sprawdzal
+%
+#pldhelp - po pytaniu o instalke dla amd64 zaczęło się przesłuchanie
+10:10:01 < XS4-1059> thank you
+10:10:06 < XS4-1059> are you guys polish?
+10:10:18 < croolyc> U wlecome! Yes we are
+10:10:23 < XS4-1059> o
+10:10:29 < XS4-1059> how old are guys?
+10:10:51 < leafnode> 14-40 :>
+10:10:56 < croolyc> :)
+10:11:13 < XS4-1059> o you guys still go to school?
+10:11:18 < XS4-1059> do*
+10:11:46 < croolyc> no, I teach in highschool
+10:12:00 < leafnode> well... matter of definition ;) Now I'm trying to defend my graduation project. Since year ago.
+10:12:27 < XS4-1059> o
+10:12:48 < XS4-1059> whats the language called in poland?
+10:13:03 < croolyc> co to za koles?
+10:13:06 < leafnode> a bo ja wiem.
+10:13:09 < leafnode> robi przesłuchanie
+10:13:14 < leafnode> może agent FBI?
+10:13:20 < leafnode> albo innego osamy?
+10:13:21 < croolyc> moze z m$
+10:13:30 < croolyc> albo rh
+10:13:31 < leafnode> XS4-1059: Polish
+10:13:42 < XS4-1059> lol thats really a language
+10:13:57 < XS4-1059> i didnt think it was like the language
+10:14:05 < leafnode> o co mu chodzi?
+10:14:07 < croolyc> XS4-1059: go to install yet
+10:14:11 < leafnode> bo sie gubie...
+10:14:14 < XS4-1059> what do you teach in high school?
+10:14:25 < croolyc> end
+10:14:27 < XS4-1059> lol i will go install
+10:14:37 < XS4-1059> you teach end?
+10:15:14 < croolyc> end mean out of keyboard
+10:15:30 < XS4-1059> k...
+10:15:39 < abw> *** [mode/#pldhelp(+o krolik)] by ChanServ on FreeNode
+10:15:51 < XS4-1059> so what do you teach?
+10:19:18 < XS4-1059> lol
+10:19:22 < XS4-1059> so you ran out of keyboard?
+10:20:12 < leafnode> yup, here in poland we have very few keyboards. We have to share them.
+10:20:47 < leafnode> now it was time for croolyc to give his keyboard to someone else.
+10:21:22 < XS4-1059> ooo
+10:21:29 < XS4-1059> i bet that is how it is
+10:21:57 < XS4-1059> im going to go poland
+10:21:59 < XS4-1059> why not
+10:22:12 < leafnode> come, it's nice country
+10:22:16 < XS4-1059> what part do you live in
+10:22:19 < XS4-1059> so i can go meet you
+10:22:55 < leafnode> but you have to get your own keyboard with you if you want to use internet coffeeshop or something like that.
+10:23:03 < XS4-1059> errr
+10:23:05 < XS4-1059> that sucks
+%
+#pldhelp - osochoci
+14:00 < bioly> ide ogladac Akademie Policyjna
+14:00  * Sardzent &
+14:00 < Sardzent> ja na serio jestem raczej normalny ;]
+14:01 < czarny> ja też tak mówię swojemu lekarzowi :P
+14:01 < czarny> a tak poważnie, to ja jestem niernomalny, bo normlaność to jest to, co reprezentuje
+większość spłeczeństwa, a ja nie chce być dresem :D
+14:02 < Sardzent> czarny: uwazaj bo tu fortunkuja ;]
+14:03 < bioly> A co to fortunka ??
+%
+#pldhelp - STBR
+<czarny> e - co znaczy STBR ?
+<undefine> send to builder rights
+<czarny> cyzli proszenie kogoś o wrzucenie na builder ?
+<undefine> tak
+<undefine> w sytuacji gdy uwazasz ze pakiet jest tego godzien ;)
+<czarny> hm...czyli zgodnie z 1 przykazaniem devleopera PLD :D
+<undefine> (czyli nie lamie kompatybilnosci wstecz, importuje ustawienia itepe)
+<Blekot_> undefine: nie rights tylko request
+<undefine> ee..
+<undefine> :p
+<czarny> dlatego pytałem, czy na pewno Cię dobrze zrozumiałem :>
+<undefine> jak pakiet ma prawo byc wyslany na buildery to idzie zadanie wyslania. a jak idzie zadanie - to znaczy ze zadajacy uznaje ze pakeit ma prawo... wiec send to builder rights :p
+%
+#pldhelp - fachowa pomoc
+< fen1x> to dlaczego na slackware, gentoo chodzi wszystko az milo ;o ?
+< fen1x> bo PLD musi po swojemu :P
+< Sardzent> fen1x: zebys docenil jak zrobisz ;]
+< fen1x> no ale ile moszn... mozna :P
+< Sardzent> fen1x: widzisz juz dobrze podchodzisz do jader.... kerneli ;]
+< fen1x> ale mam chec na rm -rf / :P
+< Sardzent> rmf..fm ;]
+< fen1x> heh, moze i masz racje
+< fen1x> ide stad, mogz mi odpocznie, moze cos wymysle ;)
+< fen1x> kurde, dlaczego PLD jest takie PLD'owe :PP
+< Sparky-PI> Sardzent: tu człowiek chce se żyły podciąć a Ty się z niego wyśmiewasz, zamiast
+dopingować, nie ładnie tak !!!
+< Sparky-PI> fen1x: dawaj, uda Ci się !
+< Sparky-PI> fen1x: tylko weź ostrą żyletkę od razu
+< Sparky-PI> (:
+< fen1x> ;p
+< Sardzent> no idz na calosc idz na calosc ;]
+%
+#pldhelp - odpowiedz
+22:23 < z0c> jak mail.app?
+22:23 < z0c> co to
+22:25 < Wieszczu> Mac OSX Tiger koleżko :D
+22:26 < z0c> ale błyszczysz
+22:26 < z0c> weź, bo mi gogle spalisz
+%
+#pldhelp - pld jak dziewica
+<wolek> wszystko mi dziala jeszcze tylko musze dopracowac konfigi i bedzie cacy :)
+<wolek> teraz wiem ze PLD jstt naprawde dobry i trzeba do niego podchodzic jak do dziewicy
+<abw> *** Join wolvverine (n=wolvveri@router.jmdi.pl) on FreeNode
+<abw> (Sardzent@FN) wolek: z kwiatami najpierw itp ? ;]
+<abw> (evilabram@FN) nie, z kwiatami ;-)
+<abw> (evilabram@FN) za kudły i w krzaki :)
+<abw> (Sardzent@FN) evilabram: i z kopa i z kopa ;]
+<wolek> brutalnie to podchodzilem wczoraj
+<wolek> i co meczylem sie do dzisiaj
+%
+#pldhelp - chown -R . ?
+<czarny> to - a jak to sobie poradzić?
+<undefined> -R .
+<undefined> ?
+<czarny> tzn ?
+<fork> kropeczka
+<undefined> kropeczka :>
+<undefined> to kropeczka sklei, zadna sila nie rozklei
+<undefined> kropeczka na czubeczku i juz wszystko w porządeczku!
+<czarny> lepiej lepiej...
+<undefined> ee.. bredze
+%
+#pldhelp
+19:22  * El`Waszi oglada odcinek x-files gdzie evil pracownik kablowki montuje cos w skrzynce ze wzmacniaczem i ogladjacy maja
+          wyprany mozg i morduja innych :D
+19:23 < Damian> ;-)
+19:30 < NoFear> lol
+19:30 < NoFear> ;-)
+19:31 < Jery> oglądałem
+19:31 < Jery> ;<
+19:35 <@undefine> El`Waszi: i szukasz w googlach gdzie sprzedaja to "cos" w ilosciach hurtowych? ;)
+19:39 <@El`Waszi> undefine: to nie problem, mysle jak upchnac w budzet :P
+%
+#pldhelp
+19:32 < juras> juz mam
+19:32 < juras> perl
+19:32 < juras> mod_perl
+19:32 < juras> nie mialem pojecia ze asp to perl :/
+%
+#pldhelp
+[17:51:25] < derbi> czym sie rozni php5 od apache-mod_php?
+%
+#pldhelp
+11:40 -!- derbi [~derbi@lan1-zaodrze.punkt.pl] has joined #pldhelp
+11:40 < derbi> geinitrd zle generuje mi initrd
+11:40 < derbi> dlaczego?
+11:41 <@Sardzent_> bo zle generujesz
+11:41 -!- derbi [~derbi@lan1-zaodrze.punkt.pl] has quit ["Lost terminal"]
+11:44 <@Sardzent_> no i spokoj ;]
+11:45 < bufi> wroci
+11:45 -!- derbi [~derbi@lan1-zaodrze.punkt.pl] has joined #pldhelp
+%
+#pldhelp
+<derbi> witam
+<derbi> bufi: posluchame cie uzylem make
+<derbi> a nie make bzImage
+<derbi> jak bym nei mial rezerwowego kerneal to mial bym lipe ;P
+<derbi> czarny ekran na tym kernelu ktory przed chwila skompilowalem
+<derbi> ehh
+<czarny> czy ja na prawdę muszę dostawąć popupa za każdym rzem, jak ktoś ma czarny ekran w Xach?
+<czarny> czy developerzy PLD mogą coś zrobić, żeby czarne ekrany się nie pojawiały tak często? (to już - 3 raz dziś!)
+<AdamM> LOL
+<derbi> jaki czarny ekran?
+<czarny> ZEILONY!!!
+<czarny> qrfa!!!
+<bufi> heheh
+<czarny> ja pitlo - koniecznie muszę commitnąć w specu xsów, żeby domyśłny był zielony...
+<derbi> ale jaki czarny ekran ?
+<AdamM> ROTFL
+<czarny> bardzo czarny ?
+<bufi> derbi: bo zara mi tu przyjdziesz szorowac monitor :D
+<derbi> ok a sakd jestes?
+<derbi> bufi
+<AdamM> derbi: Daj mi się przestać śmiać ;D
+%
+#pldhelp
+<derbi> http://cvs.pld-linux.org/cgi-bin/cvsweb/fortunes-pl/pldhelp?rev=1.208
+ Signoff: MegaBajt (EOF From client)
+<czarny> derbi: no i ?
+<derbi> co no i?
+<derbi> czemu ja tam jestem?
+<czarny> to taki wirtualny irc :D
+<czarny> przejżyj parę poprzednich i zastanów się, dlaczego tam jesteś...
+<derbi> no dlaczego?
+<derbi> jestem zadny wiedzy
+<czarny> chyba jednak zostaniesz primabaleriną tego teatrzyku :D
+%
+#pldhelp
+<bufi>: za 5 lat bedziesz sie z tego smial, a i kernele se bedziesz kompilowal jednym palcem ;)
+<derbi> no juz to robie jednym palcem
+<derbi> nurtuja mnie 2 rzeczy fbsplash i to ze nie umiem skompilowac sam nvidia.ko.gz ehh
+<bufi> takze nie przejmuj sie, rob swoje ;)
+<derbi> bufi instaluj 2.6.15
+<derbi> ma poprawioen bledy w libata
+<bufi> nie, bos mi sie spsuje
+<czarny> derbi: looknij teraz na ten plik :D
+<bufi> bo cos*
+<czarny> [00:12:17] <abw> (CIA-1@FN) czarny * fortunes-pl/pldhelp: - on chyba nigdy nie przestanie ;D
+<derbi> ok to ja skompiluje zobacze i jak bedzie wszystko ok to ty tez zainstalujesz;P
+<derbi> bufi a co ci potrzeba
+<derbi> jakie uslugi maja dzialac ;P
+<czarny> ekhem - a po co kompilować w PLD ?
+<bufi> kobiety ;)
+%
+#pldhelp
+<Sardzent_> evilabram: a ic ... dzis odmrozilem sobie kawalek palca
+<czarny> ja grzeję od godziny łązienkę, żęby się wykompać ;p
+<derbi> Sardzent_: jak to odmroziles :|
+<abw> (evilabram@FN) ?
+<abw> (evilabram@FN) trza było włożyć w panią jadzię.
+<Sardzent_> normalnie zapomialem rekawiczek i wsiadajac do autobusu wyciagnalem reke z kieszeni
+<derbi> abw jak to jest ze przy twoim nicku jest podana nazwa hosta?
+%
+#pldhelp
+<derbi> komu dziala dmix ?
+<Sardzent_> derbi: zgin, przepadnij, ... poczytaj man'y
+<Sardzent_> ;]
+<derbi> kuzwa Sardzent_ przeczytalem many zrobilem wedlug opisu
+<derbi> masz do kitu charakter masakra
+<Sardzent_> derbi: a jeszcze mnie nie spotkales jak mam okres
+<derbi> jestes kobieta :|
+<Sardzent_> a co nie wolno ?
+<Sardzent_> ze niby kobieta moze programowac tylko pralke ?
+<derbi> no to skad taki nick ?
+<abw> (pawelk@FN) :-)
+<Sardzent_> derbi: bo tak
+<abw> (pawelk@FN) derbi jaki nick ??
+<derbi> no Sardzent_
+<abw> (pawelk@FN) chyba normalny...:)
+<derbi> dla mnie to meski nick ;P
+<Sardzent_> szowinistyczna swinia ;)
+<derbi> haha
+<derbi> Sardzent_: to moze jakas randka co ?:>
+<abw> (pawelk@FN) a co Maradona to kobieta ??
+<Sardzent_> najbardziej lame podryw ... dotychczas ;]
+<derbi> prosto z mostu
+<derbi> jak nie to nie
+<z0c> prosto z mostu to możesz sobie skoczyć
+<z0c> ;]
+<derbi> bardzo smieszne
+<Sardzent_> z0c: :)
+<z0c> yo sardzentka
+<z0c> [;
+<PaSzCzUs> buhahaha
+<PaSzCzUs> czarny: nasatepna fortunka ? :>
+<derbi> ja pierdziele ;P
+<czarny> kurwa nie wiem gdzie kopiwać
+<z0c> paszczak ;]
+<czarny> mam zabryzgany monitor- wszystkiego nie widzę
+%
+#pldhelp
+17:29 < drelich> jak sie robi jajka na miękko ?
+17:29 <+blekot> drelich: pytasz powaznie?
+17:29 <+blekot> rotfl
+17:30 < drelich> h,, pomylilem kanaly, ale moze i tu ktoś wie ?! ;]
+17:30 < calafior> make jajko_na_miekko
+17:30 <+blekot> zagotuj wode, przekuj jajka w 2 miejscach aby nie pekaly (tam gdzie sa najbardziej zaokraglone) i gotuj 4,5
+                minuty
+17:30 < drelich> a po co sie je przekuwa ?
+17:30 <+blekot> drelich: napisalem Ci
+17:30 <+blekot> inaczej pekaja
+17:31 < SamChi> drelich: make menuconfig i zaznaczasz jak najmniej sie da :P [FN]
+17:31 < drelich> ;]
+17:31 < drelich> hyhy
+17:31 <+blekot> drelich: mozesz osolic wode, podobno tez nie pekaja
+17:32 < drelich> mam tylko jajka w domu a obiadu nie jadłem, do sklepu tez mi sie nie chce isc, w ogóle mam takiego kaca,
+                 ze nic mi sie nie chce
+%
+#pldhelp
+[22:12:37] <@Sardzent> ajebnacciciupaska.onet.pl ? ;]
+[22:12:58] <@bohater> jebnij.sie.w.guof.ee
+[22:13:17] <@Sardzent> Nie odnaleziono serwera
+[22:13:17] <@Sardzent>
+[22:13:17] <@Sardzent>
+[22:13:17] <@Sardzent>
+[22:13:17] <@Sardzent>
+[22:13:20] <@Sardzent>
+[22:13:22] <@Sardzent>
+[22:13:25] <@Sardzent>
+[22:13:27] <@Sardzent>
+[22:13:30] <@Sardzent> Firefox nie może odnaleźć serwera jebnij.sie.w.guof.ee.
+[22:13:44] <@bohater> loozer
+%
+#pldhelp
+[22:18:51] <mco_> ajebnacciciupaska.onet.pl wywalilo mnie na pogoda.onet.pl
+[22:18:52] <mco_> lol
+[22:18:53] <mco_> :>
+%
+#pldhelp
+[19:32:16] <nigol> w zasobach AC i AC-ready nie ma kernela,  i teraz moje pytanie: czy w naszej dst. nie ma kernela?
+%
+#pldhelp
+ <derbi_> jakos nie powiadomilem mojego dostawcy o tmy ze korzystam z ICP
+#waszi - jak on może Cię tak okłamywać
+%
+#pldhelp
+#derbi się rozkręca i daje rady na #pldhelp
+[21:49:32] <derbi_> wiesz co zrob gacek__
+[21:49:36] <derbi_> modprobe brain :D
+%
+#pldhelp
+[21:40:13] <Konrad_> re
+[21:40:36] <Konrad_> witam, co mi polecicie do liczenia sciaganych danych ?
+[21:40:56] <@pawelb> lstat, mrtg
+[21:40:57] <Faq> kalkulator
+[21:41:14] <Konrad_> Faq: dlugo nad tym myslales?
+[21:41:32] <Konrad_> pawelb: thx
+[21:41:36] <Faq> Konrad_: 21sekund
+[21:42:24] <Konrad_> Faq: dlugo, nad tym nie trzeba myslec, ok nvmd spadam thx za pomoc
+[21:42:43] <Faq> postaram sie lepiej nastepnym razem
+[21:42:47] <Faq> przepraszam
+[21:42:49] <Konrad_> n/p
+[21:42:52] <Konrad_> ;)
+%
+#pldhelp
+23:01:33 < Pan_Kleks> witam
+23:01:38 < Pan_Kleks> chcia?bym do??czyc do PLD
+23:01:52 < Buczo> zacznij od zmiany kodowania
+23:02:01 < Buczo> :D
+23:02:15 < Pan_Kleks> ok :P
+23:02:22 < Pan_Kleks> kazdy zaczyna od zera...
+23:02:22 < Pan_Kleks>  :)
+23:02:25 <@krolik_>  Pan_Kleks a co chciałbyś robić ?
+23:02:36 -!- solaris_ [fajek@idns.pl] has joined #Pldhelp
+23:02:44 < Pan_Kleks> pomagac przy tworzeniu PLD
+23:02:54 <@undefined> Pan_Kleks: a masz zainstalowane pld?
+23:03:24 < Pan_Kleks> nie
+23:03:31 < Pan_Kleks> slackware
+%
+#pldhelp
+12:31 < migo_> eh
+12:31 < migo_> zebym mial tu dziewczyne to zaraz bym doszedl
+%
+#pldhelp
+18:01 < krystian> shadzik: jak zainstalowalem kernela z grsecurity to
+nie moge sie logowac poprzez SSH na roota ani poprzez su - [IN]
+%
+#pldhelp
+13:34:33 < geecon> ps. a co z template-kernel-module , odpalam builder'a i
+		   konczy sie bledem ,ze nie moze jej poprostu zbudowac  : / [FN]
+13:34:57 < geecon> a chce go do kernel-desktop [FN]
+...
+13:38:34 < vip> geecon: template to tylko szablon
+...
+14:04:29 < geecon> buduje sie komus template-kernel-module.spec ? : / [FN]
+14:04:45 < geecon> ./builder template-kernel-module.spec [FN]
+14:04:46 < geecon> # $Revision: 1.239 $, $Date: 2009/11/29 17:14:42 $ [FN]
+14:04:46 < geecon> Error: package build failed. (no more info) [FN]
+%
+#pldhelp
+16:31.21 <@PaSzCzUs> elio: afair to ty tez jestes tu 'nowy' :P
+%
+#pldhelp
+19:06 <@undefined> marl: instalujesz ac, tak?
+19:08 < marl> undefined: co to jest ac?
+%
+#pldhelp
+19:53 < michal__> skoro jest w repozytorium to powinno dzialac
+%
+#pldhelp
+[10:16:33] < jedrek> krystian: Musisz mieć skonfigurowany rutink
+%
+#pldhelp
+< adzinok> jak coś u was nie działa to ja wam pomogę, bo u mnie wszystko działa
+%
+#pldhelp: /topic shadzika
+PLD Linux kanał szeroko pojętej pomocy. Pomagamy tym którzy sami sobie umieją pomóc.
+%
+#pldhelp
+< shmoo> jak najprosciej sprawdzic czy plik to fifo nie uzywajac ls ?
+< shmoo> jest binarka ktora robi test ?
+< piotrek> shmoo: man test
+< shmoo> piotrek: ty tak powaznie nie zrozumiales ?
+< piotrek> $ mkfifo ziew1234 && test -p ziew1234  && echo tak to fifo
+%
+#pldhelp
+< darkneesss> dalej tylko nie moge wyjsc z pod wrazenia, ze to jest chyba jedyny kanal na ktorym sa ludzie chetnie pomagac :] :)
+%
+#pldhelp
+17:53 < Chlorek> ostatnio przestałem robić to, co mi nie działa i stwierdziłem ciekawą rzecz [FN]
+17:54 < Chlorek> jak nie robię przed kompem tego, co mi nie działa, to nie mam przy nim nic do roboty [FN]
+%
+#pldhelp
+< kolargol> chcialem sobie zainstalowac PLD ale mam kilka pytan
+< kolargol> na jakiej wersji debiana bazuje ten system?
+%
+#pldhelp
+<RyKy> pld ti jest wmiare stabilne? znaczy ja tam lubie jak raz na tydzien sie wywali na cyce
+%

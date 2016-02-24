@@ -1,0 +1,129 @@
+Debian Tip # 44: Du kan følge Identi.ca konto til Debian påhttp://identi.ca/debian Mere information om Debian på Identica kan ogsåfindes på: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Tip # 1: Du kan rapportere en fejl i en pakke med "reportbug 'kommando,som er tilgængelig i reportbug pakken, enten fra kommandolinjen ellermed den nye grafiske frontend (fås kører "reportbug --ui GTK2 'eller imenuen).
+
+%
+Debian Tip # 2: Du kan bruge "dpkg-reconfigure <pakke> 'for at ændre densvar du gav til de stillede spørgsmål, når du først har installeret en pakke.Den "configure-debian pakke giver en samlet frontend for at gøre dette,såvel.
+
+%
+Debian Tip # 3: Du kan enten bruge "apt-cache search <ord> 'eller'Aptitude search <ord>' for at søge efter ord i beskrivelserne af alletilgængelige pakker.
+
+%
+Debian Tip # 4: Du kan se de tilgængelige og installerede versioner til éneller mere tilgængelige pakker med kommandoen 'apt-cache-politik <pakker>' den.
+
+%
+Debian Tip # 5: Hvis du skal bygge din egen kerne, bruge 'make-kpkg'script findes i kernel-package pakke.
+
+%
+Debian Tip # 6: Der er ingen antydning # 6. Indsend et tip i dag!
+
+%
+Debian Tip # 7: Du kan bruge cron-apt pakken for at gøre automatisk natligedownload af opdateringer til pakker installeret på dit system.
+
+%
+Debian Tip # 8: Hvis du har problemer med Debian, at du ikke kan løse vedlæse manualer og dokumentation, prøv at spørge på Debian Brugerepostliste (debian-user@lists.debian.org).
+
+%
+Debian Tip # 9: Hvis du har brug for at vide, hvilken version af Debian du i øjeblikketkører, kigge i / etc / debian_version eller bruge 'lsb_release -sc' kommando. Hvis duønsker at vide kodenavnet for den pågældende version (for eksempel 5,0 er kodenavnet"Lenny"), tjek denne URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Tip # 10: Der er Debians postlister til alt fra brugerenspørgsmål til debatter hvad der skal sættes ind i Debian Policy dokumenter.Tjek listen på http://www.debian.org/MailingLists/ og abonnere pådem, der interesserer dig.
+
+%
+Debian Tip # 11: Hold dig opdateret på, hvad der foregår - læs DebianProject News. Læs den på internettet på http://www.debian.org/News/weekly/
+
+%
+Debian Tip # 12: grep-dctrl pakke indeholder en række nyttige scriptsfor hurtigt at søge forskellige pakke kontrolfiler (såsom den tilgængeligepakker fil).
+
+%
+Debian Tip # 13: Hvis du ikke kan lide standardindstillingerne anvendes i en Debianpakke, kan du downloade kilden og opbygge en version som brugermuligheder, du foretrækker. Se http://www.debian.org/doc/FAQ/ch-pkg_basics.html(afsnit 6.13 og 6.14) for mere information.Men huske på, at de fleste muligheder i de fleste pakker kan konfigurerespå kørselstidspunktet, og kræver ikke genoversætte pakken.
+
+%
+Debian Tip # 14: Hvis du gerne vil følge ting sker til en pakke(For eksempel, hvis du ønsker at se fejlrapporter, slip bekendtgørelser og andrelignende ting), overveje at abonnere på den på pakken Tracking System.Du kan læse mere om PTS hos:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Tip # 15: Dokumentationen for en pakke kan normalt findesunder / usr / share / doc / <pakke>. Især README.Debian fil oftehar nyttige oplysninger om Debian-specifikke særheder eller tips.
+
+%
+Debian Tip # 16: Hvis du søger efter en bestemt fil, men ved ikkehvilken pakke det tilhører, prøve at installere 'apt-file ", som opretholder enlille database af denne information, eller søge i indholdet på DebianPakker database, hvilket kan gøres på:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Tip # 17: brug for nogen at tale med om Debian? Hvis du har det godtmed Internet Relay Chat (IRC), bare installere din foretrukne IRC-klient, ogslutte #debian på irc.debian.org.
+
+%
+Debian Tip # 18: Kvalitetskontrol oplysninger om en pakke kan findesved at gå til http://packages.qa.debian.org/~~V <pakke>; denne side giverlinks til vedligeholderens QA side, BTS, nyheder for pakken, ogoplysninger om, hvilke versioner er tilgængelige i hvilke arkiver.
+
+%
+Debian Tip # 19: Hvis du er interesseret i at bygge pakker fra kilde, dubør overveje at installere apt-src-pakke.
+
+%
+Debian Tip # 20: Ønsker du at holde styr på, hvad version af en pakke, du harinstalleret (især nyttigt for dem, der kører hybrid stabil / afprøvning /ustabile systemer)? Tjek apt-show-versioner.
+
+%
+Debian Tip # 21: Hvis din Debian box er bag en langsom netværksforbindelsemen du har adgang til en hurtig en så godt, så tjek den apt-zip-pakken.
+
+%
+Debian Tip # 22: Spekulerer som Debian-filspejl er bedst for dig? Tjekapt-spion og netselect-apt pakker, som kan give dig informationom, hvordan forskellige mirror sites udføre.
+
+%
+Debian Tip # 23: Hvis dit system bruger for meget diskplads, prøvdeborphan pakke; Det kan tilbyde forslag om, hvilke pakker kan væreubrugt og aftagelig. Og, selvfølgelig, så glem ikke at rense udAPT cache område (ved hjælp af "apt-get clean ',' aptitude ren«, elleraptitude aktionsplan -> Clean pakke cache menupunkt).
+
+%
+Debian Tip # 24: Hvis du vil gerne takke en vedligeholder til håndtering af enproblem, tjek reportbug --kudos.
+
+%
+Debian Tip # 25: Den "debian-reference« pakke indeholder en bred viftereferencepunkter dokumenter til Debian-brugere og udviklere. Det meste afoplysninger kan også findes på følgende webadresse:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Tip # 26: Hvis en pakke ikke synes at have meget dokumentation,kontrollere, om en pakke med navnet '<pakke> -doc' eller lignende, og sørg for atinstallere det så godt; pakker med store mængder af dokumentationregelmæssigt opdele docs på denne måde for dem, der ikke ønsker atinstallere dem.
+
+%
+Debian Tip # 27: Regelmæssigt kontrollere dine sikkerhedskopier. Du * er * holde sikkerhedskopier,højre? Højre? Hvis ikke, skal du starte med tjære (1) eller dump (1).
+
+%
+Debian Tip # 28: Hvis maskinen ikke er på hele tiden (såsom enlaptop), så tjek den "anacron pakke; dette vil sikre, at regelmæssigopgaver stadig ske, selv om maskinen ikke på det tidspunkt, de villenormalt udløse.
+
+%
+Debian Tip # 29: Hold dit system ur præcis - Maskiner, der er tændtmeste eller hele tiden skal have »ntp pakke installeret for at holde tidenpræcise i mellem genstarter.
+
+%
+Debian Tip # 30: Dokumentation kan stilles til rådighed på http: // localhost /ved at installere "doc-base" og "doc-central 'pakker, og deresafhængigheder.
+
+%
+Debian Tip # 31: Deaktivering en normalt aktiv tjeneste i et bestemt runlevelbør ske ved at ændre S link /etc/rc<level>.d til en K link,snarere end at fjerne linket helt; hvis alle links er fjernet,Systemet vil antage den næste installation, at de skal udskiftes.
+
+%
+Debian Tip # 32: Pakken 'doc-debian' indeholder nogle generelledokumentation om Debian-projektet. Den findes også på spansk(Doc-debian-es), fransk (doc-debian-fr) og ukrainsk (doc-debian-uk).
+
+%
+Debian Tip # 33: Pakken 'devscripts' indeholder nogle nyttige scripts tilbrugere, der ønsker at bidrage til at forbedre Debian, f.eks wnpp-alert, rc-alert og bts.
+
+%
+Debian Tip # 34: Hvis du vil spore Debian sid og har en lille downloadekvote eller en rigtig langsom forbindelse, så tjek den debdelta pakken.
+
+%
+Debian Tip # 35: På jagt efter nogle spil? Tag et kig på 'goplay «, sombyder på en dejlig frontend for at gennemse alle slags spil.
+
+%
+Debian Tip # 36: Brug for en nyere pakke end leveres med Debians sidstestabile udgave, men ikke ønsker at opgradere til "test" eller "ustabil"? Noglepakker holdes up-to-date via stabile-opdateringer suite, nogle andre erstilles til rådighed på backports.debian.org.
+
+%
+Debian Tip # 37: Vil du hente en pakke uden at installere det? Brug'Aptitude downloade <pkgname>'.
+
+%
+Debian Tip # 38: Vil du vide, hvordan du kan bruge et program, du har aldrig brugtfør? "Man" vil være din bedste nye ven! Skriv "mand <program-navn>" i enshell. Eller køre "mand-H <program-navn>" at læse manualen side i en browser.
+
+%
+Debian Tip # 39: Forbedre bash fane-afslutning ved at installerebash-færdiggørelse pakke.
+
+%
+Debian Tip # 40: Hvis du installerer kommandoen-ikke-fundet pakke, forsøger atkøre en kommando, du ikke har installeret, vil fortælle dig, hvad pakken at installereopnå denne kommando.
+
+%
+Debian Tip # 41: Du kan bruge "apt-cache show <pakkenavn>" eller "aptitude show<Pakkenavn> 'for at få mere information om en Debian-pakke.
+
+%
+Debian Tip # 42: Du kan bruge "apt-file liste <pakkenavn> 'for at få en listeaf indholdet af debian pakke. Denne handling ligner'Dpkg -L <pakkenavn>' undtagen pakken ikke behøver at blive installeret ellerhentes med apt-filen i modsætning til dpkg.
+
+%
+Debian Tip # 43: Vil du midlertidigt deaktivere din iptables firewall? Brug'Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / ACCEPTER /" | iptables-genoprette "for at fjernealle regler og indstille standard politik at acceptere.
+
+%

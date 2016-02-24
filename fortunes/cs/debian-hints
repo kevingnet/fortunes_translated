@@ -1,0 +1,229 @@
+Debian tip č.1: Chybu v balíku můžete nahlásit příkazem „reportbug“ z balíku
+reportbug. Kromě verze pro příkazovou řádku je nyní k dispozici i grafická
+nadstavba, která se objeví po spuštění příkazu „reportbug --ui gtk2“.
+
+%
+Debian tip č.2: Odpovědi, které jste zadali při instalaci balíku, můžete
+později změnit příkazem „dpkg-reconfigure <balík>“. Může se vám hodit i
+balík „configure-debian“, pro případ, že přesně neznáte název balíku.
+
+%
+Debian tip č.3: Klíčová slova v popisech všech dostupných balíků můžete
+hledat příkazem „apt-cache search <slova>“ resp. „aptitude search <slova>“.
+
+%
+Debian tip č.4: Nainstalované a dostupné verze balíku (balíků) zobrazíte
+příkazem „apt-cache policy <balíky>“.
+
+%
+Debian tip č.5: Chcete-li si sestavit vlastní jádro, použijte skript
+„make-kpkg“ z balíku kernel-package.
+
+%
+Debian tip č.6: Tip č.6 neexistuje. Pošlete nám nějaký!
+
+%
+Debian tip č.7: Balík cron-apt můžete použít pro automatické stahování
+aktualizovaných verzí nainstalovaných balíků během nočních hodin.
+
+%
+Debian tip č.8: Máte-li problém s Debianem, který jste nevyřešili čtením
+dokumentace, zkuste se zeptat v diskusní konferenci uživatelů Debianu
+(debian-user@lists.debian.org)
+
+%
+Debian tip č.9: Potřebujete-li zjistit, jakou verzi Debianu právě používáte,
+podívejte se do souboru /etc/debian_version, nebo použijte příkaz
+„lsb_release -sc“. Chcete-li zjistit i kódové jméno dané verze (např. verze
+5.0 se jmenuje „Lenny“), podívejte se na URL:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian tip č.10: Debian má poštovní konference pokrývající cokoliv od
+uživatelských otázek až po debaty o obsahu dokumentů Debian Policy.Seznam
+konferencí naleznete na http://www.debian.org/MailingLists/, kde se do nich
+můžete také jednoduše přihlásit.
+
+%
+Debian tip č.11: Buďte v obraze - čtěte Debian Project News na adrese
+http://www.debian.org/News/weekly/
+
+%
+debian tip č.12: Balík grep-dctrl poskytuje několik užitečných skriptů pro
+rychlé vyhledávání v různých kontrolních souborech balíků (např. v souboru
+Packages).
+
+%
+Debian tip č.13: Pokud se vám nelíbí volby, se kterými byl nějaký program
+sestaven, můžete si stáhnout zdrojové texty a sestavit si verzi s vlastními
+volbami. Více naleznete na http://www.debian.org/doc/FAQ/ch-pkg_basics.html
+v částech 6.13 a 6.14.
+
+Nicméně mějte na paměti, že většina voleb ve většině balíků lze nastavit za
+běhu a tedy není třeba je znovu sestavovat.
+
+%
+Debian tip č.14: Chcete-li sledovat, co se děje s nějakým balíkem (například
+pokud chcete vidět hlášení o chybách, poznámky k vydání nové verze a
+podobně), můžete zkusit Package Tracking System. Více o PTS naleznete na:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian tip č.15: Dokumentace k balíku se nachází v adresáři
+/usr/share/doc/<balík>. Obzvláště užitečný bývá soubor README.Debian, který
+obsahuje tipy nebo zvláštnosti specifické pro Debian.
+
+%
+Debian tip č.16: Hledáte-li konkrétní soubor, ale netušíte, ve kterém balíku
+se nachází, zkuste si nainstalovat „apt-file“, který udržuje malou databázi
+těchto informací, případně můžete použít online databázi na:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian tip č.17: Potřebujete někoho, s kým byste si mohli povykládat o
+Debianu? Nečiní-li vám problémy angličtina a používání IRC (Internet Relay
+Chat), nainstalujete svého oblíbeného IRC klienta a navštivte kanál #debian
+na síti irc.debian.org.
+
+%
+Debian tip č.18: Informace o kvalitě balíku naleznete na
+http://packages.qa.debian.org/<balík>, kde naleznete odkazy na správce
+balíku, systém sledování chyb, novinky v balíku a informace o dostupných
+verzích balíku.
+
+%
+Debian tip č.19: Pokud vás zajímá sestavování balíků ze zdrojových textů,
+podívejte se na balík apt-src.
+
+%
+Debian tip č.20: Chcete-li mít přehled o instalovaných verzích balíků,
+podívejte se na balík apt-show-versions. (Obzvláště užitečné, pokud
+používáte hybridní mix stabilních / testovacích a nestabilních systémů.)
+
+%
+Debian tip č.21: Pokud se váš počítač s Debianem nachází na pomalé síti,
+ovšem někde jinde máte přístup k rychlejšímu připojení, podívejte se na
+balík apt-zip.
+
+%
+Debian tip č.22: Chcete vědět, které zrcadlo s Debianem je pro vás
+nejvhodnější? Podívejte se na balíky apt-spy a netselect-apt.
+
+%
+Debian tip č.23: Pokud se vám zdá, že systém zabírá příliš mnoho místa,
+zkuste balík deborphan, který prozkoumá vztahy mezi balíky a navrhne ty
+nepoužívané nebo opuštěné. Také nezapomeňte občas pročistit cache s balíky
+(příkazy „apt-get clean“, „aptitude clean“, případně menu Akce -> Vyčistit
+přímo z aptitude).
+
+%
+Debian tip č.24: Chcete-li poděkovat správci balíku za vyřešení nějakého
+problému, podívejte se na „reportbug --kudos“.
+
+%
+Debian tip č.25: Balík „debian-reference“ obsahuje množství nejrůznějších
+dokumentů jak pro uživatele, tak pro vývojáře Debianu. Většina informací je
+také dostupná na následujícím URL:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian tip č.26: Pokud se vám zdá, že je v balíku málo dokumentace, zkuste
+se podívat po balíku nazvaném „<balík>-doc“ nebo podobně. Balíky obsahující
+mnoho dokumentace ji často oddělují tímto způsobem, aby si ji nemuseli
+instalovat uživatelé, kteří o ni nestojí.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Debian tip č.28: Pokud váš počítač není zapnutý 24 hodin denně
+(např. notebook), podívejte se na balík „anacron“. Ten umí zajistit, aby se
+spouštěly naplánované úlohy i v případě, že je počítač v daný čas zrovna
+vypnutý.
+
+%
+Debian tip č.29: Udržujte systémové hodiny aktuální. Pokud je váš počítač
+zapnutý téměř neustále, měli byste nainstalovat balík „ntp“, který bude
+udržovat přesný čas po celou dobu běhu počítače.
+
+%
+Debian tip č.30: Dokumentaci můžete zpřístupnit na http://localhost/
+instalací balíků  „doc-base“, „doc-central“ a jejich závislostí.
+
+%
+Debian tip č.31: Chcete-li v konkrétním runlevelu zakázat spouštění nějaké
+služby, měli byste v adresáři /etc/rc<runlevel>.d přejmenovat příslušný
+odkaz začínající „S“ na odkaz začínající „K“. Prosté smazání odkazu se
+nedoporučuje, protože pokud odstraníte všechny odkazy, bude systém
+předpokládat, že se balíku stalo něco strašného a při příští instalaci tyto
+odkazy obnoví.
+
+%
+Debian tip č.32: Balík „doc-debian“ obsahuje všeobecnou dokumentaci o
+projektu Debian. Dokumentace je dostupná také ve španělštině
+(doc-debian-es), francouzštině (doc-debian-fr) a ukrajinštině
+(doc-debian-uk).
+
+%
+Debian tip č.33: Balík „devscripts“ obsahuje užitečné skripty pro uživatele,
+kteří chtějí pomoci s vylepšováním Debianu. (Např. wnpp-alert, rc-alert nebo
+bts.)
+
+%
+Debian tip č.34: Chcete-li sledovat vývoj Debianu Sid a přitom máte nízký
+limit pro stažená data nebo velmi pomalé připojení, podívejte se na balík
+debdelta.
+
+%
+Debian tip č.35: Hledáte nějaké hry? Zkuste balík „goplay“, který nabízí
+pěkné rozhraní pro procházení nejrůznějšími typy her.
+
+%
+Debian tip č.36: Potřebujete novější verzi balíku, než je v posledním
+stabilním vydání Debianu a nechcete přecházet na testovací nebo nestabilní
+větev? Některé balíky jsou udržovány aktuální přes repositář stable-updates,
+jiné jsou dostupné na backports.debian.org.
+
+%
+Debian tip č.37: Chcete stáhnout balík, ale neinstalovat jej? Použijte
+„aptitude download <balík>“.
+
+%
+Debian tip č.38: Chcete zjistit, jak používat program, na který jste
+narazili poprvé? „man“ bude váš nový nejlepší kamarád! V shellu zadejte „man
+<jméno_programu>“. Pokud si chcete přečíst manuálovou stránku v prohlížeči,
+použijte „man -H <jméno_programu>“.
+
+%
+Debian tip č.39: Vylepšete automatické doplňovací schopnosti bashe instalací
+balíku bash-completion.
+
+%
+Debian tip č.40: Pokud si nainstalujete balík command-not-found, zobrazí se
+po spuštění neznámého příkazu nápověda, který balík si máte nainstalovat,
+abyste daný příkaz získali.
+
+%
+Debian tip č.41: Více informací o balíku získáte příkazem „apt-cache show
+<balík>“ nebo „aptitude show <balík>“.
+
+%
+Debian tip č.42: Obsah .deb balíku získáte příkazem „apt-file list
+<balík>“. To je podobné příkazu „dpkg -L <balík>“, ale ten na rozdíl od
+apt-file vyžaduje, aby byl balík nainstalovaný.
+
+%
+Debian tip č.43: Chcete dočasně zakázat firewall postavený na iptables?
+Příkazem „iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" |
+iptables-restore“ odstraníte všechna pravidla a nastavíte výchozí politiku
+na ACCEPT.
+
+%
+Debian tip č.44: Aktuální dění v Debianu můžete sledovat přes účet na službě
+Identi.ca na http://identi.ca/debian Více informací o Debianu na této službě
+naleznete na http://wiki.debian.org/Teams/Publicity/Identica

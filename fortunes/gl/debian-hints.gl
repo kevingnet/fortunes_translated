@@ -1,0 +1,129 @@
+Debian Consello # 44: Pode seguir a conta Identi.ca para Debian enhttp://identi.ca/debian Máis de Debian en idéntica tamén podepode acceder en: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Consello # 1: Pode informar dun erro nun paquete co comando 'reportbug',que está dispoñible no paquete reportbug, quere a partir da liña de comandos oucoa nova interface gráfica (dispoñible en execución 'reportbug GTK2 --ui "ouo menú).
+
+%
+Debian Consello # 2: Pode usar 'dpkg-reconfigure <paquete>' para cambiar orespostas que deu ás preguntas feitas na primeira instalación dun paquete.O paquete 'configure-debian' ofrece un front-end unificado para facelo,ben.
+
+%
+Debian Consello # 3: Pode usar 'apt-cache search <palabras>' ou"Busca de aptitude <palabras> 'para buscar palabras nas descricións de todospaquetes dispoñibles.
+
+%
+Debian Consello # 4: Podes ver as versións dispoñibles e instaladas para unou máis paquetes dispoñibles coa 'política de apt-cache <paquetes>' comando.
+
+%
+Debian Consello # 5: Se precisa para construír un núcleo personalizado, use o make-kpkg 'guión atopar no paquete kernel-package.
+
+%
+Debian Consello # 6: Non hai ningún indicio # 6. Enviar unha información hoxe!
+
+%
+Debian Consello # 7: Pode usar o paquete de cron-apt para facer todas as noites automáticadescargar actualizacións para os paquetes instalados no seu sistema.
+
+%
+Debian Consello # 8: Se ten problemas con Debian que non pode resolver porler os manuais e documentación, proba preguntar sobre os usuarios de Debianlista (debian-user@lists.debian.org).
+
+%
+Debian Consello # 9: Se precisa saber que versión de Debian que está actualmenteexecución, ollar en / etc / debian_version ou use o comando 'lsb_release -sc'. sequero saber o nome de código para esa versión (por exemplo, 5.0 é o nome de código'Lenny'), comprobe este URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Consello # 10: Hai listas de correo de Debian para todo, dende usuariopreguntas para debates sobre o que poñer nos documentos de Política Debian.Consulte a lista de http://www.debian.org/MailingLists/ e subscribiraqueles que lle interesen.
+
+%
+Debian Consello # 11: Manteña-se actualizado sobre o que está pasando - le DebianProxecto News. Ler o na web en http://www.debian.org/News/weekly/
+
+%
+Debian Consello # 12: O paquete grep-dctrl ofrece unha serie de scripts útilespara buscar rapidamente varios arquivos de control do paquete (como o dispoñiblearquivar paquetes).
+
+%
+Debian Consello # 13: Se non gusta das opcións estándar usado nun Debianpaquete, pode baixar o código fonte e construír unha versión que utiliza oopcións da súa preferencia. vexa http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Seccións 6.13 e 6.14) para obter máis información.Con todo, ten en conta que a maioría das opcións na maioría dos paquetes pódese configuraren tempo de execución, e non necesitan recompilar o paquete.
+
+%
+Debian Consello # 14: Se desexa seguir as cousas que acontecen a un paquete(Por exemplo, se quere ver os informes de erros, solte avisos, e outrascousas semellantes), considerada subscribirse a el sobre o Sistema de Seguimento de paquetes.Pode descubrir máis sobre a PTS en:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Consello # 15: A documentación para un paquete se pode atoparen / usr / share / doc / <paquete>. En particular, o ficheiro README.Debian miúdoten información útil sobre os caprichos ou suxestións específicas de Debian.
+
+%
+Debian Consello # 16: Se está buscando por un ficheiro, pero non seical paquete pertence, proba instalar "apt-file ', que mantén unhapequeno banco de datos desta información, ou buscar o contido de DebianPaquete de base de datos, o que se pode facer a través de:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Consello # 17: precisa de alguén para falar sobre Debian? Se está cómodoco Internet Relay Chat (IRC), basta instalar o seu cliente IRC favorito, e#debian en irc.debian.org.
+
+%
+Debian Consello # 18: información de control de calidade sobre un paquete pódese atoparindo ata http://packages.qa.debian.org/~~V <paquete>; Nesta páxina forneceligazóns á páxina QA do mantedor, o BTS, novas para o paquete, einformación sobre os versións están dispoñibles en que arquivos.
+
+%
+Debian Consello # 19: Se vostede está interesado en construír paquetes desde a fonte,debe considerar instalar o paquete apt-src.
+
+%
+Debian Consello # 20: Quere manter o control de cal versión dun paquete que teninstalado (especialmente útil para aqueles que executan híbrido estable / testing /sistemas inestables)? Consulte apt-show-versions.
+
+%
+Debian Consello # 21: Se a súa máquina Debian está detrás dunha conexión de rede lenta,pero tes acceso a un rápido, así, vexa o paquete apt-zip.
+
+%
+Debian Consello # 22: Quere saber cal réplica de Debian é mellor para vostede? Comprobarapt-espía e paquetes netselect-apt, que se lle dar informaciónsobre como varios sitios espello realizar.
+
+%
+Debian Consello # 23: Se o sistema está a usar moito espazo no disco, proba odeborphan paquete; pode ofrecer suxestións sobre cales paquetes poden sernon utilizado e extraíble. E, por suposto, non se esqueza de limpar oárea de caché APT (usando 'apt-get clean', 'aptitude clean', ouAcción de aptitude -> paquete Limpo elemento de menú caché).
+
+%
+Debian Consello # 24: Se quere agradecer a un mantedor para xestionar unhaproblema, vaia --kudos reportbug.
+
+%
+Debian Consello # 25: O paquete 'debian-reference' contén unha gran variedadede referencia de documentos para usuarios e desenvolvedores de Debian. A maior parte doinformación tamén se pode atopar no seguinte URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Consello # 26: Un paquete non parece ter moita documentación,comprobar se hai un paquete chamado '<paquete> -doc' ou similar e asegúrese deinstala-lo ben; paquetes con grandes cantidades de documentaciónregularmente dividir os documentos dese xeito para os que non quereninstalalos.
+
+%
+Debian Consello # 27: Regularmente comprobar os seus backups. Vostede * son * manter copias de seguridade,non? Non? Se non, comezar con tar (1) ou botan (1).
+
+%
+Debian Consello # 28: Se a súa máquina non está en todos os tempos (como unportátil), confía o paquete 'anacron' iso vai asegurarse de que regularestarefas aínda acontecen, aínda que a máquina non está no momento en que seríanormalmente desencadear.
+
+%
+Debian Consello # 29: Manteña o seu reloxo do sistema precisa - Máquinas que son activadasa maior parte ou todo o tempo que ter o paquete 'NTP' instalado para manter o tempo deprecisas entre as reinicializações.
+
+%
+Debian Suxestión # 30: A documentación pode ser feita dispoñible en http: // localhost /instalando o "doc-base 'e os paquetes' doc-central 'ea súadependencias.
+
+%
+Debian Consello # 31: Desactivar un servizo normalmente activa nun nivel de execución específicadebe facerse cambiando a conexión en S /etc/rc<level>.d a unha conexión K,en vez de eliminar a ligazón enteiramente; Se todas as conexións son eliminadas, osistema asumirá a próxima instalación que precisan ser substituídas.
+
+%
+Debian Consello # 32: O paquete 'doc-debian' contén algunhas xeraldocumentación sobre o proxecto Debian. Tamén está dispoñible en español(Doc-debian-es), francés (doc-debian-fr) e ucraíno (doc-debian-uk).
+
+%
+Debian Consello # 33: O paquete 'devscripts' contén algúns scripts útiles paraos usuarios que queren axudar a mellorar Debian, por exemplo, wnpp-alerta, RC-alerta e BTS.
+
+%
+Debian Consello # 34: Se desexa seguir a Debian Sid e ten un pequeno descargacota ou unha conexión moi lenta, vexa o paquete debdelta.
+
+%
+Debian Consello # 35: En busca de algúns xogos? Bótalle un ollo a 'goplay', queofrece unha boa interface para visitar a todo tipo de xogos.
+
+%
+Debian Consello # 36: Necesita un paquete máis recente que acompaña a Debian da últimaversión estable, pero non quere actualizar a 'testing' ou 'inestable'? nalgúnspaquetes son mantidos up-to-date través do conxunto estables actualizacións, algúns outros sonfacilitado backports.debian.org.
+
+%
+Debian Consello # 37: Quere descargar un paquete sen instala-lo? uso'Descarga aptitude <pkgname>'.
+
+%
+Debian Consello # 38: Quere saber como pode usar un programa que nunca usouantes? "Man" será o seu mellor amigo novo! Tipo "man <program-name>" nunshell. Ou, executar o "home-H <program-name>" para ler a páxina manual nun navegador.
+
+%
+Debian Consello # 39: Mellorar guía-conclusión da festança, instalandopaquete bash-Completion.
+
+%
+Debian Consello # 40: Se instala o paquete de comandos non atopado, intentandoexecutar un comando que non teña instalado ha dicirlle que paquete para instalarobter ese comando.
+
+%
+Debian Consello # 41: Pode usar 'apt-cache show <package_name>' ou 'show de aptitude<Package_name> 'para obter máis información sobre un paquete Debian.
+
+%
+Debian Consello # 42: Pode usar "lista apt-file <package_name> 'para obter un listadodo contido do paquete Debian. Esta acción é semellante á'Dpkg -l <package_name>', excepto o paquete non ten que ser instalado ouobtidos mediante apt-file, en contraste con dpkg.
+
+%
+Debian Consello # 43: Quere desactivar temporalmente o firewall iptables? uso'Iptables-save | sed "/ - / D; / ^ # / D; s / pinga / ACCEPT /" | iptables-restore "para eliminartodas as normas e establecer a política por omisión para aceptar.
+
+%

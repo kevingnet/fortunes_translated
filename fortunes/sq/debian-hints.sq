@@ -1,0 +1,129 @@
+Debian Hint # 44: Ju mund të ndiqni llogari Identi.ca për Debian nëhttp://identi.ca/debian shumë informacion i Debian në Identica gjithashtu mund tëtë gjenden në: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Hint # 1: Ju mund të raportoni një bug në një paketë me komandën 'reportbug',e cila është në dispozicion në paketën reportbug, ose nga command-line oseme ndërfaqes grafike të re (në dispozicion drejtimin 'reportbug gtk2 --ui' ose nëmenuja).
+
+%
+Debian Hint # 2: Ju mund të përdorni 'shkruani dpkg-reconfigure <paketë>' për të ndryshuarpërgjigje të dhënë në pyetjet e pyeti kur ju të instaluar të parë një paketë.Paketa e 'configure-Debian' ofron një fund të unifikuar para për të bërë këtë,gjithashtu.
+
+%
+Debian Hint # 3: Ju mund të përdorni ose "Kërkimi apt-cache <fjalët> 'ose"Kërkimit zotësi <fjalët> 'për të kërkuar për fjalë në përshkrimin e të gjithapaketa në dispozicion.
+
+%
+Debian Hint # 4: Ju mund të shihni versionet në dispozicion dhe të instaluar për njëose paketa më shumë në dispozicion me 'politikën apt-cache <paketa>' të komandës.
+
+%
+Debian Hint # 5: Nëse keni nevojë për të ndërtuar një kernel porosi, përdorni 'make-kpkg'script gjendet në paketën e kernel-paketë.
+
+%
+Debian Hint # 6: Nuk ka asnjë aluzion # 6. Submit një aluzion sot!
+
+%
+Debian Hint # 7: Ju mund të përdorni paketën cron-të prirur për të bërë Nightly automatikeshkarkime të përditësime për paketat e instaluar në sistemin tuaj.
+
+%
+Debian Hint # 8: Nëse keni probleme me Debian që ju nuk mund të zgjidhin melexuar manualet dhe dokumentacionin, provoni duke i kërkuar në Debian Përdoruesitmailing list (debian-user@lists.debian.org).
+
+%
+Debian Hint # 9: Nëse ju duhet të dini se çfarë version i Debian ju jeni aktualishtdrejtimin, shikoni në / etc / debian_version ose përdorni komandën 'lsb_release SC ". Nese tiduan të dinë emrin e koduar për këtë version (për shembull, 5.0 është koduar"Lenny"), të kontrolluar këtë URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Hint # 10: Ka Debian listat e postimeve për çdo gjë nga përdoruesipyetje për debate mbi çfarë për të vënë në dokumentet e Politikës Debian.Kontrolloni listën në http://www.debian.org/MailingLists/ dhe të abonohen nëato që ju interesojnë.
+
+%
+Debian Hint # 11: Vazhdojë deri në datën në atë që po ndodh - lexoni DebianProject News. Lexoni atë në internet në http://www.debian.org/News/weekly/
+
+%
+Debian Hint # 12: Paketa grep-dctrl ofron një sërë Scripts dobishmepër të shpejt të kërkuar fotografi të ndryshme të kontrollit paketë (të tilla si në dispozicionpaketa fotografi).
+
+%
+Debian Hint # 13: Në qoftë se ju nuk bëni si opsionet e parazgjedhur të përdorura në një Debianpako, ju mund ta shkarkoni burimin dhe për të ndërtuar një version të cilën e përdorOpsionet ju preferoni. Shih http://www.debian.org/doc/FAQ/ch-pkg_basics.html(seksionet 6.13 dhe 6.14) për më shumë informacion.Megjithatë, të ketë parasysh se shumica e opsione në shumicën paketa mund të konfigurohetnë kohën e duhur, dhe nuk kërkojnë recompiling paketën.
+
+%
+Debian Hint # 14: Në qoftë se ju do të donte për të ndjekur gjëra të ndodhin në një paketë(Për shembull, në qoftë se ju doni të shihni raportime të metash, lirimin njoftimet, dhe të tjeragjëra të ngjashme), konsiderojnë nënshkrimit të saj në gjurmimit të Pakos.Ju mund të gjeni më shumë në lidhje me PTS në:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Hint # 15: Dokumentacioni për një paketë mund të gjenden normalishtnën / usr / share / doc / <paketë>. Në veçanti, README.Debian paraqesë shpeshka informacion të dobishëm rreth quirks Debian-specifike ose këshilla.
+
+%
+Debian Hint # 16: Në qoftë se ju jeni në kërkim për një fotografi të veçantë, por nuk e die cila pako ajo i takon, provoni instalimit 'apt-file', e cila mban njëbaza e të dhënave e vogël e këtij informacioni, ose kërko përmbajtjen e DebianPaketat bazës së të dhënave, të cilat mund të bëhet në:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Hint # 17: Duhet të flisni me dikë në lidhje me Debian? Nëse ju jeni të kënaqurme Internet Relay Chat (IRC), vetëm të instaloni klientin tuaj të preferuar IRC, dhebashkohen #debian në irc.debian.org.
+
+%
+Debian Hint # 18: Cilësia e informacionit të kontrollit në lidhje me një paketë mund të gjendenduke shkuar në http://packages.qa.debian.org/~~V <paketë>; kjo faqe ofronlidhjet me faqen e QA mirëmbajtësit së, BTS, lajme dhe artikuj për paketën, dheinformacion mbi të cilat versionet janë në dispozicion në të cilat arkivat.
+
+%
+Debian Hint # 19: Nëse jeni të interesuar në paketa të ndërtimit nga burimi, juduhet të konsiderojnë instalimi paketën apt-src.
+
+%
+Debian Hint # 20: Duan të mbajnë gjurmët e asaj që version i një pakete që ju keniinstaluar (veçanërisht e dobishme për ata që duke hibrid të qëndrueshme / testimin /Sistemet e paqëndrueshme)? Kontrolloni apt-show-versione.
+
+%
+Debian Hint # 21: Në qoftë se kutia juaj Debian është prapa një lidhje të ngadaltë të rrjetit,por ju keni qasje në një të shpejtë, si dhe, shikoni paketën apt-zip.
+
+%
+Debian Hint # 22: Pyesin cila pasqyrë Debian është më e mira për ju? shikoniapt-spiun dhe paketa netselect-apt, të cilat mund të ju jap informatase si të ndryshme faqet pasqyrë të kryer.
+
+%
+Debian Hint # 23: Në qoftë se sistemi juaj është duke përdorur shumë hapësirë ​​disk, provonideborphan paketë; ajo mund të ofrojë sugjerime për të cilat paketa mund të jetëtë papërdorura dhe të lëvizshëm. Dhe, sigurisht, mos harroni për të pastruar jashtëZona e APT cache (duke përdorur 'apt-get pastër "," zotësi të pastër', oseVeprimi të aftësisë së -> paketa pastër cache menu item).
+
+%
+Debian Hint # 24: Në qoftë se ju do të doja të falënderoj një mirëmbajtësi për trajtimin e njëÇështja, shikoni --kudos reportbug.
+
+%
+Debian Hint # 25: Pakoja e "Debian-reference" përmban një shumëllojshmëri të gjerëe referencës dokumentet për përdoruesit e Debian dhe zhvilluesit. Shumica eInformacioni mund të gjendet në URL e mëposhtme:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint # 26: Në qoftë se një paketë nuk duket të ketë dokumentacion shumë,kontrolloni për një paketë të quajtur '<paketë> -doc "apo të ngjashme dhe të sigurt për tëinstaloni atë, si dhe; paketa me sasi të mëdha të dokumentacionitrregullisht ndarë docs në këtë mënyrë për ata që nuk duan tëinstaluar ato.
+
+%
+Debian Hint # 27: Rregullisht të verifikojë backups tuaj. Ju jeni * * mbajtur backups,apo jo? Apo jo? Nëse jo, të filluar me bitum (1) ose hedhur (1).
+
+%
+Debian Hint # 28: Në qoftë se makina juaj nuk është në të gjithë kohën (të tilla silaptop), shikoni paketën 'anacron'; kjo do të sigurt se rregulltDetyrat ende të ndodhë, edhe nëse makina nuk është në në kohën që ata të mbanitzakonisht shkaktojnë.
+
+%
+Debian Hint # 29: Mbani orën e sistemit tuaj të saktë - Makineri të cilat janë kthyer nëshumica ose të gjithë kohës duhet të ketë paketën 'NTP' instaluar për të mbajtur kohënsaktë në mes reboots.
+
+%
+Debian Hint # 30: Dokumentacioni mund të vihen në dispozicion në http: // localhost /duke instaluar paketa "doc-qendrore 'e' doc-bazë 'dhe e tyrevarësi.
+
+%
+Debian Hint # 31: Paaftësi një shërbim normalisht-aktiv në një runlevel veçantëduhet të bëhet duke ndryshuar lidhjen S në /etc/rc<level>.d për një lidhje K,në vend se duke hequr lidhjen në tërësi; nëse të gjitha lidhjet janë hequr,sistemi do të marrë në anën tjetër të instaluar që ata duhet të zëvendësohen.
+
+%
+Debian Hint # 32: Paketa "doc-Debian" përmban disa të përgjithshmeDokumentacioni rreth projektit Debian. Ajo është gjithashtu në dispozicion në spanjisht(Doc-Debian-es), Frëngjisht (doc-Debian-fr) dhe Ukrainian (doc-Debian-uk).
+
+%
+Debian Hint # 33: Pakoja '' devscripts përmban disa Scripts dobishme përpërdoruesit të cilët duan të ndihmojnë për të përmirësuar Debian, psh wnpp-alert, rc-vigjilent dhe BTS.
+
+%
+Debian Hint # 34: Në qoftë se ju doni për të ndjekur Debian sid dhe të ketë një shkarko të vogëlKuota ose një lidhje të vërtetë i ngadalshëm, shikoni paketën debdelta.
+
+%
+Debian Hint # 35: Në kërkim të disa lojëra? Hidhni një sy në "goplay ', e cilaofron një frontend këndshme për shfletim me të gjitha llojet e lojrave.
+
+%
+Debian Hint # 36: Nevojë për një paketë më të reja se sa dërguar me Debian e funditlirimin e qëndrueshme, por nuk duan të përmirësuar në "testimi 'ose' paqëndrueshme '? disapaketa janë mbajtur up-to-date nëpërmjet qëndrueshme-updates suite, disa të tjerë janëvihen në dispozicion në backports.debian.org.
+
+%
+Debian Hint # 37: Dëshironi për të shkarkuar një paketë pa instaluar atë? përdorim'Zotësi download <pkgname>'.
+
+%
+Debian Hint # 38: Dëshironi të dini se si ju mund të përdorni një program që ju kurrë nuk e kanë përdorurmë parë? "Njeriu" do të jetë shoku më i mirë i ri! Lloji i "njeriu <program-name>" në njëguaskë. Ose, të drejtuar "njeriu H <program-name>" për të lexuar faqen manual në një shfletues.
+
+%
+Debian Hint # 39: Përmirësimi tab-përfundimin Bash duke instalimit tëPaketa bash-përfundimit.
+
+%
+Debian Hint # 40: Në qoftë se ju instaloni paketën komandave nuk-gjetur, duke u përpjekur për tëtë drejtuar një komandë ju nuk keni të instaluar do të ju tregojnë se çfarë paketa për të instaluar tëmarrë atij urdhri.
+
+%
+Debian Hint # 41: Ju mund të përdorni 'show apt-cache <PACKAGE_NAME>' ose 'show dhunti<PACKAGE_NAME> 'për të marrë më shumë informacion në lidhje me një paketë Debian.
+
+%
+Debian Hint # 42: Ju mund të përdorni 'listën apt-file <PACKAGE_NAME>' për të marrë një listëtë përmbajtjes së pakos Debian. Ky veprim është i ngjashëm me'Dpkg -L <PACKAGE_NAME>' përveç se paketa nuk ka nevojë të jetë i instaluar osesforcuar duke përdorur apt-file në kontrast me dpkg.
+
+%
+Debian Hint # 43: Duan të përkohësisht disable iptables tuaj firewall? përdorim"Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / PRANO /" | iptables-rivendosur "për të hequrtë gjitha rregullat dhe të vendosur politikën e parazgjedhur për të pranuar.
+
+%

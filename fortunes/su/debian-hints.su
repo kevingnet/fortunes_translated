@@ -1,0 +1,129 @@
+Debian Hint # 44: Anjeun bisa nuturkeun akun Identi.ca keur Debian diinformasi http://identi.ca/debian More of Debian di Identica oge bisakapanggih di: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Hint # 1: Anjeun tiasa wartoskeun kutu di paket kalayan paréntah 'reportbug',nu sadia di paket reportbug, boh ti paréntah-line atawajeung frontend grafis anyar (sadia ngajalankeun 'reportbug --ui gtk2' atawa dinamenu).
+
+%
+Debian Hint # 2: Anjeun tiasa make 'dpkg-reconfigure <paket>' pikeun ngarobahwaleran anjeun méré ka ditanyakeun sawaktos Anjeun pertama dipasang paket a.Nu 'Konpigurasikeun-Debian' paket nyadiakeun ahir hareup ngahiji pikeun ngalakonan ieu,ogé.
+
+%
+Debian Hint # 3: Anjeun tiasa make boh 'search apt-cache <kecap>' atawa'Aptitude search <kecap>' pikeun milarian kecap dina déskripsi sadayabungkusan sadia.
+
+%
+Debian Hint # 4: Anjeun bisa nempo vérsi sadia jeung dipasang pikeun hijiatawa bungkusan leuwih sadia jeung 'kawijakan apt-cache <bungkusan>' paréntah.
+
+%
+Debian Hint # 5: Lamun Anjeun kudu ngawangun kernel adat, pake 'nyieun-kpkg'Aksara kapanggih dina paket kernel-paket.
+
+%
+Debian Hint # 6: aya hint # 6. Nepikeun hiji hint ayeuna!
+
+%
+Debian Hint # 7: Anjeun tiasa make paket ngagunakeun Cron-apt ulah nightly otomatisundeuran of apdet pikeun bungkusan dipasang dina sistim Anjeun.
+
+%
+Debian Hint # 8: Upami Anjeun gaduh masalah sareng Debian yén anjeun teu bisa ngajawab kumaca manual jeung dokuméntasi, coba nanyakeun dina Pamaké Debianmilis (debian-user@lists.debian.org).
+
+%
+Debian Hint # 9: Lamun Anjeun kudu nyaho naon versi Debian anjeun ayeunangajalankeun, kasampak di / jsb / debian_version atawa pake paréntah 'lsb_release -sc'. lamunhayang nyaho codename pikeun vérsi nu (contona, 5.0 ieu codenamed'Lenny'), mariksa URL ieu:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Hint # 10: Aya Debian milis daptar pikeun sagalana ti pamaképertanyaan ka debat leuwih naon pikeun nunda kana dokumén Kawijakan Debian.Pariksa daptar di http://www.debian.org/MailingLists/ jeung ngalangganjalma nu suku anjeun.
+
+%
+Debian Hint # 11: Jieun up to date dina naon on - maca DebianProject News. Baca eta dina web di http://www.debian.org/News/weekly/
+
+%
+Debian Hint # 12: The paket grep-dctrl nyadiakeun jumlah Aksara dipakepikeun gancang néangan rupa payil kontrol paket (saperti sadiafile bungkusan).
+
+%
+Debian Hint # 13: Mun anjeun teu kawas pilihan standar digunakeun dina Debianpaket, Anjeun bisa ngundeur sumber jeung ngawangun vérsi nu ngagunakeunpilihan Anjeun hoyong. Tempo http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Bagian 6,13 jeung 6.14) kanggo inpormasi lengkep.Tapi, biruang di pikiran nu paling loba dina kalolobaan bungkusan bisa ngonpigurasidi runtime, sarta teu ngabutuhkeun recompiling iket.
+
+%
+Debian Hint # 14: Lamun hoyong nuturkeun hal lumangsung ka paket a(Contona, upami Anjeun hoyong tempo laporan kutu, leupaskeun notices, jeung nu séjénnahal sarupa), mertimbangkeun subscribing ka eta dina Paket nyukcruk System.Anjeun tiasa manggihan nu langkung seueur ngeunaan PTS di:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Hint # 15: The dokuméntasi pikeun paket bisa normal kapanggihdina / usr / babagi / doc / <paket>. Dina sababaraha hal, di README.Debian file mindengngabogaan informasi mangpaat ngeunaan quirks Debian-husus atawa tips.
+
+%
+Debian Hint # 16: Upami Anjeun keur neangan hiji payel nu tangtu, tapi teu nyahonu paket eta milik, coba masang 'apt-file', nu maintains hijidatabase leutik informasi ieu, atawa neangan eusi DebianBungkusan database, nu bisa dipigawé di:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Hint # 17: Kudu batur ngobrol jeung ngeunaan Debian? Mun anjeun geus teu nyamanjeung Internet Relay Chat (IRC), ngan masang klien paporit Anjeun IRC, sartagabung #debian dina irc.debian.org.
+
+%
+Debian Hint # 18: informasi kontrol Quality ngeunaan paket bisa kapanggihku akang http://packages.qa.debian.org/~~V <paket>; kaca ieu nyadiakeunTumbu ka kaca QA nu Maintainer urang, nu BTS, item warta pikeun paket, jeunginformasi nu versi ieu sadia di nu arsip.
+
+%
+Debian Hint # 19: Mun anjeun geus kabetot dina bungkusan wangunan ti sumber, Anjeunkudu mertimbangkeun masang paket apt-src.
+
+%
+Debian Hint # 20: Hayang pikeun ngalacak naon versi paket nu Anjeun geusdipasang (utamana dipake keur maranéhanana ngajalankeun hibrid stabil / uji /sistem stabil)? Pariksa apt-show-vérsi.
+
+%
+Debian Hint # 21: Upami kotak Debian Anjeun balik koneksi jaringan slow,tapi anjeun miboga aksés ka hiji gancang ogé, mariksa kaluar paket apt-pos.
+
+%
+Debian Hint # 22: wondering nu Debian eunteung téh pangalusna pikeun anjeun? Pariosnu apt-nenjo jeung bungkusan netselect-apt, nu bisa mere Anjeun inpo nungeunaan kumaha rupa loka eunteung ngalakukeun.
+
+%
+Debian Hint # 23: Upami sistim Anjeun ngagunakeun rohangan disk teuing, nyobiandeborphan paket; bisa nawarkeun bongbolongan ngeunaan nu bungkusan bisa jadihenteu kapake jeung removable. Jeung, tangtu, ulah poho pikeun ngabersihan kaluarwewengkon cache Apt (make 'apt-meunangkeun beresih', 'aptitude beresih', atawaAksi aptitude urang -> paket Bersih item menu cache).
+
+%
+Debian Hint # 24: Upami Anjeun hoyong hatur maintainer pikeun nanganan anmasalah, mariksa kaluar --kudos reportbug.
+
+%
+Debian Hint # 25: Nu 'Debian-rujukan' paket ngandung rupa-ruparujukan dokumén pikeun pamaké Debian jeung pamekar. Kalolobaaninformasi bisa ogé kapanggih dina URL di handap:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint # 26: Lamun paket a teu sigana boga loba dokuméntasi,mariksa keur paket ngaranna '<paket> -doc' atawa sarua jeung pastikeun pikeunmasang eta ogé; bungkusan jeung jumlahna ageung dokuméntasirutin beulah docs di manner ieu jalma anu teu hayangmasang eta.
+
+%
+Debian Hint # 27: Ajeg pariksa cadangan Anjeun. Anjeun * anu * ngajaga cadangan,bener? Katuhu? Lamun henteu, mimitian ku tar (1) atawa dump (1).
+
+%
+Debian Hint # 28: Upami mesin Anjeun teu dina sadaya waktu (sapertilaptop), mariksa kaluar 'anacron' paket; ieu bakal mastikeun yén biasatugas masih lumangsung, sanajan mesin teu dina waktu maranéhanana ngalakukeunananormal pemicu.
+
+%
+Debian Hint # 29: Jieun jam sistim Anjeun akurat - Mesin nu diaktipkeunpaling atawa sakabéh waktu kudu boga 'ntp' paket dipasang pikeun ngajaga waktuakurat di antara reboots.
+
+%
+Debian hint # 30: Dokumén bisa dijieun sadia di http: // localhost /ku cara masang 'doc-base' jeung 'doc-puseur' bungkusan jeung maranéhananakabebasan.
+
+%
+Debian Hint # 31: nganonaktipkeun ladenan normal-aktif dina runlevel hususkudu dipigawé ku ngarobah link S di /etc/rc<level>.d ka link K,tinimbang nyoplokkeun link sagemblengna; lamun sagala tutumbu anu dileungitkeun, nusistim bakal nganggap dina saterusna masang yén maranéhanana kudu diganti.
+
+%
+Debian Hint # 32: paket The 'doc-Debian' ngandung sababaraha umumdokuméntasi ngeunaan proyék Debian. Éta ogé aya di Spanyol(Doc-Debian-es), Perancis (doc-Debian-fr) jeung Ukrania (doc-Debian-uk).
+
+%
+Debian Hint # 33: paket The 'devscripts' ngandung sababaraha Aksara dipake keursaha wae nu hayang mantuan pikeun ngaronjatkeun Debian, e.g. wnpp-ngageter, RC-ngageter jeung BTS.
+
+%
+Debian Hint # 34: Upami anjeun hayang lagu Debian Sid sarta mibanda download leutikkuota atawa sambungan bener slow, pariksa kaluar paket debdelta.
+
+%
+Debian Hint # 35: Di search keur sababaraha kaulinan? Nyokot katingal di 'goplay', nunawarkeun frontend nice keur ngotektak ngaliwatan sakabeh jenis kaulinan.
+
+%
+Debian Hint # 36: Kudu paket anyar ti shipped jeung Debian urang panungtunganrelease stabil, tapi teu hayang ningkatkeun ka 'uji' atawa 'stabil'? sababarahabungkusan nu diteundeun up-to-date via stabil-apdet suite, sababaraha batur anudijieun sadia di backports.debian.org.
+
+%
+Debian Hint # 37: Hayang pikeun ngundeur paket tanpa masang eta? make'Aptitude download <pkgname>'.
+
+%
+Debian Hint # 38: Hayang nyaho kumaha Anjeun bisa make program anjeun geus kungsi dipakésaméméh? "Man" bakal babaturan anyar pangalusna Anjeun! Type "man <program-ngaran>" dinacangkang. Atawa, ngajalankeun "man -H <program-ngaran>" maca kaca manual dina browser a.
+
+%
+Debian Hint # 39: Ngaronjatkeun bash sacara tab-parantosan ku cara masangpaket bash-parantosan.
+
+%
+Debian Hint # 40: Lamun masang paket paréntah-teu-kapanggih, ngusahakeunngajalankeun paréntah anjeun teu geus dipasang bisaeun anjeun naon paket masang kaménta paréntah éta.
+
+%
+Debian Hint # 41: Anjeun tiasa make 'apt-cache show <package_name>' atawa 'show aptitude<Package_name> 'pikeun meunangkeun inpo nu leuwih lengkep ngeunaan paket Debian.
+
+%
+Debian Hint # 42: Anjeun tiasa make 'daptar apt-file <package_name>' pikeun ménta Listing atina eusi paket Debian. aksi Ieu sarua jeung'Dpkg -L <package_name>' iwal paket teu kudu dipasang atawafetched ngagunakeun apt-file kontras jeung dpkg.
+
+%
+Debian Hint # 43: Hayang samentara nganonaktipkeun firewall iptables anjeun? make'Iptables-nyalametkeun | séd "/ - / d; / ^ # / d; s / leupaskeun / narima /" | iptables-mulangkeun 'nyabutsadaya aturan tur nyetel kawijakan standar narima.
+
+%

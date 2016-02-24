@@ -1,0 +1,129 @@
+Debian Dica # 44: Você pode acompanhar a conta Identi.ca para o Debian emhttp://identi.ca/debian Mais informações do Debian em Identica também podeser encontradas em: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Dica # 1: Você pode relatar um bug em um pacote com o comando 'reportbug',que está disponível no pacote reportbug, quer a partir da linha de comando oucom a nova interface gráfica (disponível em execução 'reportbug gtk2 --ui "ou emo cardápio).
+
+%
+Debian Dica # 2: Você pode usar 'dpkg-reconfigure <pacote>' para mudar orespostas que deu às perguntas feitas na primeira instalação de um pacote.O pacote 'configure-debian' fornece um front-end unificado para fazer isso,também.
+
+%
+Debian Dica # 3: Você pode usar 'apt-cache search <palavras>' ou"Busca de aptidão <palavras> 'para pesquisar palavras nas descrições de todospacotes disponíveis.
+
+%
+Debian Dica # 4: Você pode ver as versões disponíveis e instaladas para umou mais pacotes disponíveis com a 'política de apt-cache <pacotes>' comando.
+
+%
+Debian Dica # 5: Se você precisa para construir um kernel personalizado, use o 'make-kpkg'roteiro encontrado no pacote kernel-package.
+
+%
+Debian Dica # 6: Não há nenhum indício # 6. Submeta uma dica hoje!
+
+%
+Debian Dica # 7: Você pode usar o pacote de cron-apt para fazer todas as noites automáticadownload de atualizações para os pacotes instalados em seu sistema.
+
+%
+Debian Dica # 8: Se você tiver problemas com o Debian que você não pode resolver porler os manuais e documentação, tente perguntar sobre os usuários do Debianmailing list (debian-user@lists.debian.org).
+
+%
+Debian Dica # 9: Se você precisa saber qual a versão do Debian que você está atualmenteexecução, olhar em / etc / debian_version ou use o comando 'lsb_release -sc'. Se vocêsquero saber o nome de código para essa versão (por exemplo, 5.0 é o nome de código'Lenny'), verifique este URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Dica # 10: Há listas de discussão da Debian para tudo, desde usuárioperguntas para debates sobre o que colocar nos documentos de Política Debian.Confira a lista de http://www.debian.org/MailingLists/ e subscreveraqueles que lhe interessam.
+
+%
+Debian Dica # 11: Mantenha-se atualizado sobre o que está acontecendo - leia o DebianProjeto News. Leia-o na web em http://www.debian.org/News/weekly/
+
+%
+Debian Dica # 12: O pacote grep-dctrl fornece uma série de scripts úteispara pesquisar rapidamente vários arquivos de controle do pacote (como o disponívelarquivar pacotes).
+
+%
+Debian Dica # 13: Se você não gosta das opções padrão usados ​​em um Debianpacote, você pode baixar o código fonte e construir uma versão que usa oopções de sua preferência. veja http://www.debian.org/doc/FAQ/ch-pkg_basics.html(secções 6.13 e 6.14) para obter mais informações.No entanto, tenha em mente que a maioria das opções na maioria dos pacotes pode ser configuradoem tempo de execução, e não necessitam de recompilar o pacote.
+
+%
+Debian Dica # 14: Se você gostaria de acompanhar as coisas que acontecem a um pacote(Por exemplo, se você quiser ver os relatórios de erros, solte avisos, e outrascoisas semelhantes), considere subscrever a ele sobre o Sistema de Acompanhamento de Pacotes.Você pode descobrir mais sobre a PTS em:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Dica # 15: A documentação para um pacote podem ser encontradosem / usr / share / doc / <pacote>. Em particular, o arquivo README.Debian frequentementetem informações úteis sobre os caprichos ou dicas específicas do Debian.
+
+%
+Debian Dica # 16: Se você estiver procurando por um determinado arquivo, mas não seiqual pacote ele pertence, tente instalar "apt-file ', que mantém umapequeno banco de dados desta informação, ou pesquisar o conteúdo do DebianPacote de banco de dados, o que pode ser feito através de:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Dica # 17: Precisa de alguém para conversar sobre o Debian? Se você estiver confortávelcom o Internet Relay Chat (IRC), basta instalar seu cliente IRC favorito, e#debian em irc.debian.org.
+
+%
+Debian Dica # 18: informação de controle de qualidade sobre um pacote pode ser encontradoindo até http://packages.qa.debian.org/~~V <pacote>; Nesta página fornecelinks para a página QA do mantenedor, o BTS, notícias para o pacote, einformações sobre quais versões estão disponíveis em que arquivos.
+
+%
+Debian Dica # 19: Se você estiver interessado em construir pacotes a partir da fonte, vocêdeve considerar instalar o pacote apt-src.
+
+%
+Debian Dica # 20: Quer manter o controle de qual versão de um pacote que você teminstalado (especialmente útil para aqueles que executam híbrido estável / testing /sistemas instáveis)? Confira apt-show-versions.
+
+%
+Debian Dica # 21: Se a sua máquina Debian está atrás de uma conexão de rede lenta,mas você tem acesso a um rápido, bem, veja o pacote apt-zip.
+
+%
+Debian Dica # 22: Quer saber qual mirror do Debian é melhor para você? Confirao apt-espião e pacotes netselect-apt, que pode lhe dar informaçõessobre como vários sites espelho executar.
+
+%
+Debian Dica # 23: Se o seu sistema está usando muito espaço em disco, tente odeborphan pacote; ele pode oferecer sugestões sobre quais pacotes podem sernão utilizado e removível. E, claro, não se esqueça de limpar oárea de cache APT (usando 'apt-get clean', 'aptitude clean', ouAção do aptitude -> pacote Limpo item de menu cache).
+
+%
+Debian Dica # 24: Se você gostaria de agradecer a um mantenedor para lidar com umaproblema, vá para --kudos reportbug.
+
+%
+Debian Dica # 25: O pacote 'debian-reference' contém uma grande variedadede referência de documentos para usuários e desenvolvedores Debian. A maioria dosinformação também pode ser encontrada no seguinte URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Dica # 26: Se um pacote não parece ter muita documentação,verificar se há um pacote chamado '<pacote> -doc' ou similar e certifique-se deinstalá-lo bem; pacotes com grandes quantidades de documentaçãoregularmente dividir os documentos dessa maneira para aqueles que não quereminstalá-los.
+
+%
+Debian Dica # 27: Regularmente verificar seus backups. Você * são * manter backups,certo? Certo? Se não, começar com tar (1) ou despejar (1).
+
+%
+Debian Dica # 28: Se a sua máquina não está em todos os tempos (como umlaptop), confira o pacote 'anacron'; isso vai se certificar de que regularestarefas ainda acontecem, mesmo se a máquina não está em no momento em que serianormalmente desencadear.
+
+%
+Debian Dica # 29: Mantenha o seu relógio do sistema precisa - Máquinas que são ativadasa maior parte ou todo o tempo deve ter o pacote 'ntp' instalado para manter o tempo deprecisas entre as reinicializações.
+
+%
+Debian Sugestão # 30: A documentação pode ser feita disponível em http: // localhost /instalando o "doc-base 'e os pacotes' doc-central 'e suadependências.
+
+%
+Debian Dica # 31: Desactivar um serviço normalmente ativa em um nível de execução específicadeve ser feito mudando a ligação em S /etc/rc<level>.d a uma ligação K,em vez de remover o link inteiramente; Se todas as ligações são removidas, osistema assumirá na próxima instalação que precisam de ser substituídas.
+
+%
+Debian Dica # 32: O pacote 'doc-debian' contém algumas geraldocumentação sobre o projeto Debian. Ele também está disponível em espanhol(Doc-debian-es), francês (doc-debian-fr) e ucraniano (doc-debian-uk).
+
+%
+Debian Dica # 33: O pacote 'devscripts' contém alguns scripts úteis paraos usuários que querem ajudar a melhorar o Debian, por exemplo, wnpp-alerta, rc-alerta e BTS.
+
+%
+Debian Dica # 34: Se você deseja acompanhar a Debian sid e tem um pequeno downloadquota ou uma ligação muito lento, veja o pacote debdelta.
+
+%
+Debian Dica # 35: Em busca de alguns jogos? Dê uma olhada em 'goplay', queoferece uma boa interface para visitar a todo o tipo de jogos.
+
+%
+Debian Dica # 36: Precisa de um pacote mais recente que acompanha a Debian da últimaversão estável, mas não deseja atualizar para 'testing' ou 'instável'? Algunspacotes são mantidos up-to-date através do conjunto estáveis ​​atualizações, alguns outros sãodisponibilizado em backports.debian.org.
+
+%
+Debian Dica # 37: Quer baixar um pacote sem instalá-lo? Uso'Download aptidão <pkgname>'.
+
+%
+Debian Dica # 38: Quer saber como você pode usar um programa que você nunca usouantes? "Man" será o seu melhor amigo novo! Tipo "man <program-name>" em umConcha. Ou, executar o "homem-H <program-name>" para ler a página manual em um browser.
+
+%
+Debian Dica # 39: Melhorar guia-conclusão da festança, instalando opacote bash-completion.
+
+%
+Debian Dica # 40: Se você instalar o pacote de comando não encontrado, tentandoexecutar um comando que não tenha instalado irá dizer-lhe que pacote para instalarobter esse comando.
+
+%
+Debian Dica # 41: Você pode usar 'apt-cache show <package_name>' ou 'show de aptidão<Package_name> 'para obter mais informações sobre um pacote debian.
+
+%
+Debian Dica # 42: Você pode usar "lista apt-file <package_name> 'para obter uma listagemdo conteúdo do pacote debian. Esta ação é semelhante à'Dpkg -L <package_name>', exceto o pacote não precisa ser instalado ouobtidos usando apt-file, em contraste com dpkg.
+
+%
+Debian Dica # 43: Quer desativar temporariamente o firewall iptables? Uso'Iptables-save | sed "/ - / d; / ^ # / d; s / GOTA / ACCEPT /" | iptables-restore "para removertodas as regras e definir a política padrão para ACEITAR.
+
+%

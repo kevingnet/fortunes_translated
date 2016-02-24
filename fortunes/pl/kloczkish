@@ -1,0 +1,363 @@
+Jeżeli w tym wypadku byłyby jakieś przeciwskzania formalne
+wynikające z teści licencji to byłoby troche żal że tak ma być to byłby mi
+jednak żal że takie są konsekwencje treści licencji ..
+%
+Też tak twierdze i to tym bardziej że dotad nie to co ktoś deklarował nikt
+nie sprawdzał. Dlatgfgo zresztą napisałem to co napisałem.
+%
+Jest tylko jedno ale.
+Otóż to co jst na ftp to nei jest to samo co jest na http. Juz tu t się
+rzjreżdż.
+%
+IMHO nie należałonby tego zmieniać bo to dokładnie nic by nei zmieniło.
+%
+First: stop this analize have current grouping. Current group hierarhy
+only groups packages without (ones more) any useable rasonons.
+As I said: first you *must* prepare more useable Groups hierarhy.
+With lack useable hierarhy touching tasks idea only will be another
+solutions for the same things where correct Group hierarhy can interact.
+%
+Ask themeselve what this group can you bring as conseqence.
+%
+Now seems you acceps current Group hierarhy is incorreect/unuseable. As
+second yu musts accept as consequence: we need bettrer Groups hierarby
+(which in spe will groups packages in the same groups like tasks packages
+.. with one ecception: Groups hierarhy can have much more elements than
+tasks-* number).
+%
+We are using now Group field only because it must be defined .. without
+any additional consequeces so it can be explored for simplifyy some tasks
+without any bad consequences. If you want regroup all packages/establish
+new hierarhy fill free.
+%
+Only Group field
+must be used consequently muse mean something which can be used for
+bring some useable base platform for example for choose pachges by not
+skilled admin/user.
+%
+...trochę się zjerzyłem jak zobaczyłem polskei tłumacznia w fsck.
+%
+> Jak zatem uzasadnisz jego brak w PLD?
+Porostu nie nie jest to.
+%
+Nic tylko postawić indianina i moduł z budowanego --debug i po
+uruchomieniu bez widelca zapuścić śledzia za bugiem :)
+%
+Jedyna upierdliwośćią tych narżedzi jaka zauwazyłem na razi jest to że nie
+%
+Ad choc do przechowywania stanu można użyć choćby krasnoludka
+który będzie trzymał raz jedna raz drugą rękę w górze.
+%
+Podpis kloczka pod mailem:
+jkiczek
+%
+Naciaćsiena
+%
+ustawienie w konkretnym przypadku powinny być dokładnie takie jakie
+wyjdzie Ci że powinny w danym momencie być powinny :)
+%
+Podpis kloczka pod mailem:
+loczek
+%
+<kloczek> daj znać jak bedziesz bo nie cze mi sie palcami gadać :)
+<kloczek> daj znać jak bedziesz bo nie che mi sie palcami gadać :)
+%
+Zapewne wręcz lata bezkarności już tylko na guncie PLD w trakcie których dla
+różnych osób był on w stanie wielokrotnie prezentować swoje różne oblicza
+spowodowały, że jednak zapomiał kiedy i komu jaką maskę może pokazać.
+%
+Pisząc "Bez tytułu" chciałem powiedzieć pośrednio mniejwięcej tyle, że
+jeżeli ktoś jest na tyle ślepy że mniej czy bardziej świadomie czy też nie
+ma zamiar dawać się dalej wodzić sie za nos to proszę bardzo ale proszę to
+robić na własny rachunek i to w taki sposób żebym ja osobiście z owym
+wodzeniem za nos nie był kojarzony.
+%
+W międzyczasie conajmniej kilka razy także kilka osób zostało wprowadzonych
+w błąd że to "to PLD to jest to PLD własciwe bo zajmuje się nim kloczek".
+Któryś kolejny tego typu sygnał poprostu przelał miarkę.
+%
+Czas leciał .. minął tydzień i jeszcze trochę .. cisza jak makiem zasiał.
+Potem miną termin który zwyznaczyłem jako ostateczny temin końca rozmów.
+Poczekałem jeszcze tydzień w którym znowu nikt nic niezrobił.
+Po tym czasie się wypisałem i nagle kilka osób zdziwiło się "to już koniec
+negocjacji ?".
+%
+Tak czy inaczej wiele osób zajmujących się (niegdyś) PLD od dłuższego czasu
+zachowuje się tak jakby byli permanentnie (właśnie) otumanienie przez co
+przechodzi im spokojnie przez myśl że takie kwestie jak kwestia autorstwa
+czegoś co jest istotne z punktu widzenia prawa do *dysponowania* jakimś
+dobrem jest albo mało ważna albo (o zgrozo) *zależna od ilości ludzi* którzy
+na jakiś temat zabierają głos (taki relatywiz osobiście i wprost prezentował
+tutaj RMF piszac że mniej ważne jest to czy i po co dałem mu backup klucza
+dystrybucyjnego GPG, a ważniejsze jest to czy ktoś przegłosuje to że on ma
+gdzieś to komuś przekazać bie pytając sie przy tym osoby która mu to coś
+powierzyła). Mówiąc inaczej: stan faktyczny dla niektórych jest *mało*
+*istotny* .. jak to mówią za wschodnią granicą "i śmieszno i straszno" ..
+%
+Od razu mówię że to nie jest blef i że jestem zdeterminowany żeby pójść tak
+daleko jak to tylko będzie konieczne o ile tylko ktoś mnie do tego _zmusi_.
+Tak czy inaczej żeby być w zgodzie z literą prawa musze poprostu stopniować
+ostrzeżenia (zostałem pouczony że w pewnych kwestiach chodzenie na skróty od
+razu dyskwalifikuje i to tylko z powodów czysto formalnych).
+%
+Cała sprawa rozegrała się niemal w całości w towarzystwie czysto męskim i ..
+przecież niemal wszyscy z tej grupy muszą się golić, a przynajmnienj od
+czasu do czasu przy tej okazji używają lustra. Ciekawy jestem CO lub KOGO
+przy tej okazji widzą ? :>
+%
+W tym wszystkim dziwne jest to że od conajmniej pół roku to co do tej pory
+mówiłem w kwestii PLD spływało po niektórych jak woda po kaczce. Wiem że
+niektórzy wprost mówią, że *ciągle liczą* że czy to nie dam sobie z rady
+obroną czy też uda się mnie (jednak) zniechęcić do tego stopnia że
+_zrezygnuję_ z takowej (w czerwcu kiedy już nieco "dym" opadł można było
+się zorientować, że spora ilość działań podjętych wobec mnie już pierwszysch
+godzinach całego zamieszana była przedewszytkim obliczona na tego typu skutki)
+i dzięki temu można by wszystko co brudne spokojnie zamieść pod przysłowiowy dywan.
+*Zapewniam* .. dużo pewniej będzie położyć się i poczekać na najbliższe
+trzęsienie ziemi, a tak czy inaczej już tylko po tym wątku prawdopodobieństwo
+takowego spadnie o kolejncyh kilka rzędów więlkości.
+%
+Tylko jedna osoba (ja) twierdzi że jest autorem nazwy. Reszta *nie zgłasza*,
+że jest autorem. Każda z pozostałych osób dodatkowo okolicznosci zdarzenia
+opisuje w sposób niespójny w zastrzegając dodatkowo, ze ma luki w pamięci.
+
+Argument, że nazwę wymyślono wspólnie też można między bajki włożyć (która
+litera miałaby być czyjegoautorstwa).
+%
+Mówię wprost i to publicznie: zmieńcie nazwę bo do nazwy PLD nie
+macie formalnie *żądnych praw*.
+%
+#pld
+16:52 -!- kloczek [kloczek@test1.zie.pg.gda.pl]
+16:52 -!-  ircname  : Tomasz KĹBoczkołoczko
+16:52 -!-  server   : poznan.irc.pl [UAM Poznan, Poland]
+%
+#pld
+20:50 <@domelu> http://kalendarium.icm.edu.pl/
+20:50 <@domelu>  1996.07.12  Tomasz Kłoczko rzuca kamieniami w Okna z powodu niestandardowego kodowania polskich liter
+%
+To się dzieje w domenie pld-linux.org nie ma związku z PLD. Zawartość tej
+domeny od ponad półtorej roku podszywa sie pod stronę projektu. W PLD 1.0
+żadne tego typu dowcipy nie są dystrybowane. Konkretne pakiety PLD są
+sygnowane konkretnym kluczem GPG. Następnym razem kiedy ktoś napisze coś
+podobnego niech sprawdzi najpierw podpis pakietów.
+%
+Znaczy się mówisz o zastygnięciu prac na pld-linux.org ? :)
+A to się zgodzę w zupełności.
+
+Jedyne co kilka osób dowiodło tym co zrobiło to oprócz tego, że oprócz braku
+wiedzy i honoru przy okazji popadli w swego rodzaju impotencję :)
+Mineło pół roku, a toco przejeli w sumie (zależnie od jakiej strony patrzeć)
+albo cofniete albo w okolicach tego punktuz którego wyszli.
+%
+Kłpotnapoczątkusprawiałowyłowieniefaktów
+%
+Kwestia w tym, że czas w którym byłem w takim stanie trwał (za)krótko .. i
+to był powód tego że cała ta "rewolucja" się nie udała. Mówiąc inaczej .. za
+mało nakłamano. Próbowano to zresztą potem przy byle okazji wielokrotnie
+"nadrabiać" :)
+%
+> Prawda taka że zostałeś sam.
+Jeszcze raz: a jakie to ma efektywnie znaczenie ?
+Przedtem wbrew pozoron nie było wcale inaczej.
+%
+Właśnie masz oto próbkę tego jaki faktyczny wpływ tych wszystkich ludzi był
+na to co faktycznie pojawiało się na ftp. Efektywnkie tempo dzisiaj tego co
+wrzucam na ftp jest niewiele mniejsze od tego kiedy miałem do pomocy innych.
+%
+Pisząc "Bez tytułu" na początku czerwca wiedziałem jak sytuacja niemal
+non-stop wyglądała. Wiedziałem, ze często i gęsto obecność pod bokiem wielu
+ludzi pomagałąmi tyle co zeszłoroczny śnieg, a w sumie bardz często
+*przeszkasdzała*, a mam tuna myśli osoby które przy swojej skromnej wiedzy
+ogólnej zachowywały się albo nadwywaz głośno.
+%
+Dwaprzykłady z niemal tużwywiązanaisie konfliktu:
+Cięciwa który wpuścił mniew kanał, że wie o cochodzi w tymjakmawyglądać
+kernel i żejezeli już coś będzie robił tow taki sposób jak mu to opisałem
+(Wojtek w sumiezajmuje sie kwernelem ale z wynimkółjegopracw
+sumiepozostajątylko setki patchy w repozytorium których nie usuwa). Drugi
+przykład to choćby Arek który kiedypojawiłysiękłopotyz budowaniem gcc
+poprostu powiedział niemal wpros, że ma to w d* bo jemu działa (a
+dochodzić dlaczego coś się niebuduje neima zamiaru).
+%
+..czylinietylkojasam tego używam)
+%
+Tym co w sumie najbardziej teraz mnie opóźnia to wręcz
+zatrzęsienie różnych knotów które zalęgły sie na HEAD od czasu kiedy wydane
+zostało 1.0 do momentu kiedy zacząłem się brać za bootstrap na poważnie. O
+wytrzeszcz oczu przyprawiło mnie np. KDE. Nie dość że i tak już poprzednio
+było pokawałkowane za drobno to to co w międzyczasie stało "zrobione" to już
+przegięcie. Przykładowo z kdbase powstaje 39 podpakietów, a to przecież jest
+base czyli część która pewnikiem i tak o ile ktoś będzie miał KDE
+zainstalowane to nie mal w całości bedzie musiał mieć to poinstalowane. Może
+dla developera taki podział wydaje się ładny czy elegancki ale dla końcowego
+użytkownika o ile całość i tak nie będzie isntalowana hurtem to to będzie
+nie do przełknięcia. Jeżeli ktoś zgarniehurtem całe KDE,ategotypupodejście
+nadesktiopie ejst wręcztypowe przy obecnych pojemnościach dyskół to cały ten
+"podział" będzie tylko niepotrzebnie powiększał rozmiar bazy
+zainstalowanych pakietów. Mówiąc inaczje w typowej instalacji cała "robota"
+pójdzie do kosza (powoływanie się na modemowców prawie rok temu już trąciło
+myszką, a dzisiaj wydaje się to już wręcz tylko powodować tylko śmieszność).
+%
+Mówiąc inaczej w tym sensie z KDE zrobiono potworka. Nawidoczniej osobom
+które ów podział wdrożyły wydaje sie że ZU będzie mniejwięcej patrzył na to
+wszytko podobnie jak oni.
+%
+Kilka dnie zajęło mi przejrzenie tetexa. Tutaj pobito absolutny rekord. Z
+jednego src.rpm-a powstawało *179* pakietów. Po przejrzeniu tego na razie
+udało mi się zmniejszyć to do 163 ale nie przejrzałem nawet czwartej części
+zależności między poszczególnymi komponentami. To co na razie zrobiłem to
+było absolutne minimum (reszta na kiedy indziej).
+%
+> Apel do kloczka
+> ===============
+>
+> Szanowny Szefie Jedynie Prawdziwego pld.org.pl,
+>
+> Bardzo Cię proszę, połącz siły swojego PLD ze schizmatykami
+> z pld-linux.org. Stawką jest globalne rozbrojenie.
+
+Bo ?
+
+kloczek
+%
+Ja proponuję cobyś się zastanowił o czym mówimy. Żeby nie było
+nieporozumień: nie mam zamiaru teraz dyskutować o światowym rozbrojeniu, a
+pytanie i apel w żaden sposób także nie odnosił się do tego tematu.
+%
+W sumie .. uwzględniając to, że ruch na ftp.pld.org.pl jest już od pewnego
+czasu większy niż na ftp.pld-linux.org nie to raczej już nie tylko ja sam
+jestem tego zdania :)
+%
+PS. Widząc w ostatnim numerze L+ kłastwa jakie przemycił tam Serek o mnie i
+o tym co się dzieje/działo miałem w pierwszym odruchu chęć dochodzić prawdy
+nawet na drodze sądowej. Po zastanowieniu dałem sobie ztym spokój widząc jak
+wyglądają charakterystyki ruchu. Co najwyżej może ktoś za jakiś czas zada
+niewygodne pytanie RedNaczowi z L+ jak mógł dopuścić do tego żeby kłamstwo
+tego kalibru pokazało się w tym periodyku.
+%
+Poprostu niezamierzam dłużej brać na siebie odpowiedzialności za to że
+dawałem często i gęsto w różnych formach komus iluzję tego że może zrobić w
+swoim życiu więcej niż faktycznie jest w stanie zrobić.
+%
+Ano masz rację .. choć do dzisiaj nie wiem czy to był żart czy dowcip żeby z
+tego, że dopominałem się wręcz wielokrotnie mniej lub bardzije publicznie
+żeby nie wprowadzać innych w błąd że mam jakiekolwiek związek z
+pld-linux.org bo mam tam niby RW w CVS (owo zostało mi dane bez mojej
+wiedzy) komuś na podstawie usuniecia owego udało się zrobić rzekome
+wyrzucenie mnie z PLD :)
+%
+A żeby było jeszcze bardziej do śmiechu potem te bzdury jeszcze pojawiły
+drukiem w Linux+ .. to tak apropo tego jak mniejwięcej w sytuacji Linuxa w PL
+jest zorientowana na bieżąco redakcja tegoż. Redakcja też
+najwidoczniej uznała to za żart bo jakoś do dzisiaj nie doczekałem się
+czegoś na kształt sprostowania.
+%
+Poldek obsługuje indeksy przyrostowe. APT nie.
+Już tylko to niweluje w całości to że poldek używa gzip-a, a apt bzip2.
+%
+PS. Za kawałek zapewen ktoś sobie przypomni to co napisałem i
+przetworzy to na że sobie coś ubzdurałem i chcę coś jeszcze tu wprowadzać
+nie zauważajać że coś takiego jak powyższe to poprostu wymyslona na
+poczekaniu propozycji rozwiazanie nie koniecznie do końca przemyślana nad
+której poprawnością dopiero trzeba się zastanowieć.
+%
+- Nie można nikogo ubezwłasnawalniać.
+
+  Jeżeli ktoś ma coś zrobić według planu jaki wytyczam to nie ma bata ..
+  muszę tego kogoś przekonać. I tak było do tej pory. "Herules
+  contra plures .. ale gdzie ludzi kupa tam i Herkules dupa".
+%
+  Moja włądza jest tu iluzoryczna. Wynika ni mniej ni więcej jak z tego że
+  wystarczajaco często (wychodzi na to że częściej niż w przypadku innych
+  osób) mam rację co jak na razie prędzej czy później było mi przyznawane.
+%
+  Tak jestem przywiazany do tego co robie i jak to robię, jak
+  wspólpracujac z innymi mogę zrobić coś czego sam nie byłbym w sytanie
+  zrobić ale wiazanei tego z jakimiś tzrena literami ? BZDURA.
+
+  Jeżeli ktokolwiek uważa że szkodże tym trzen literom jemu pierwszemu
+  oddam dwa pliki nad którymi de facto mam władzę. Są to
+  CVSROOT/{passwd,writers}. Całą reszta jest dostępna na kilku mirrorach w
+  Polsce i za granicą. Osadziajć te dwa pliki w dowolnej obecnie dosrepnej
+  kopii można w kilak sekund przenieść wszystko co jestr zwiazane z CVS.
+  DNS ? Proszę bardzo. Poprosże Tomka żeby oddam to komukolwiek (to samo
+  pójdzie do Cezara w sprawie pld.com.pl). Jeżeli ktoś ma mi przez to
+  mówić że "ma mnie w dupie" lub w głupi sposób "żartować" to ja wysiadam
+  bo jadę w innym kierunku, a jeżlei jeszcze ktoś sie nie zorientował
+  gdzie to prowadzi to jest osoba z którą pod żadnym pozorem nie nalezy
+  współpracować. Zależy mi na PLD i dlatego chetnie oddam to żeby uchronić
+  to coś od swojego wpływu.
+%
+  1. Tomasz K. w sprawach PLD ma rację.
+  2. Jeżli uważasz, że nie ma racji to masz parwo dyskutować o tym.
+  3. Nikt nie ma prawa używać argumentów wyjeżdzajacych na prywatny (nie
+     odnoszacych sie do meritum).
+  4. Gdyby Tomasz K. nie miał racji: patrz punk 1.
+
+(...)
+
+  Jeżeli moje odejście nie będzie konieczne to te cztery punkty
+  automatycznie się uprawomocnią i staną się prawem.
+%
+> W każdym razie z tutejszych dyskusji jasno widać, dlaczego PLD nie było
+> w stanie się rozwijać pod Twoją dyktaturą.
+Dyktaturą ? :)
+A teraz to co jest na pld-linux.org się rozwija ? :)
+%
+> Ależ co sobie ksiądz życzy. Wygrałeś, domaluj sobie trupią czaszkę do
+> monitora, ja na ten temat nie mam najmniejszego zamiaru dalej z Tobą
+> rozmawiać. Do widzenia.
+Nawidoczniej pomyliłeś dyskusję (szermierkę na *argumenty*)
+z rozmową o zabawkach.
+
+kloczek
+%
+> Etam. Nawet ex-sanitariusz byłby w stanie lepiej prowadzić projekt
+> informatyczny od Kłoczka. :->
+śmieszy mnie nieco to że na temat prowadzenia projektów wypowiadaja się
+osoby które nigdy w życiu takowych nie prowadziły albo tak jak to miało
+miesce blisko półtorej roku temu osoby które tylko obserwujac przez ramie
+niejako to co robiłem i tylko wydawało im się że wiedzą lepiej odemnie na
+czym polegać to powino (co z tego swoistego zadęcia wyszło widać dzisiaj).
+%
+> Wyszło co miało wyjść. Organizator z Ciebie żaden (tak, jakość projektu
+> można mierzyć tym, jak dobrze się on ma po wywaleniu tzw. Ważnej
+> Osoby).
+O jakim wywalniu mówisz ? :)
+%
+> W tym  przypadku akurat bym  się nie  czepiał. TK używa  starej, mocno
+> wysłużonej klawiatury, która produkuje takie literówki ;).
+
+Klawiaturę w tej chwili mam nową .. niestety już trzecią w tym roku :o)
+Wspominałem już kiedyś że źródło literówek jest raczej w tym, że mniejwięcej
+połowę czasu spędzam przy klawiaturach o nieco innym układzie (Sun) i po
+przejściu na stanowisko gdzie jest klawiatura PC zawsze mam kłopoty z za
+szybkim wciskaniem czy też za późnym zwalnianiem np. shift (stąd np.
+literówka typu "włąśnie") czy też robię przestawienia liter.
+Przy przejściu w odwrotnym kierunku zwykle literówek robię mniej :)
+%
+le razy Twoim odkrywano Amerykę ?
+%
+Propozycja zamiast skupiać sie na tym co sądzisz o moich pzrekonaniach skup
+się na argumetach jakie wymianiam.
+%
+Istotne jest tu, że trzeba być tu IMHO niejako elastycznym nie nie
+podchodzić do tej listy dogmatycznie czyli mówiać ianczje elastycznei
+an beirzco dopuszczac ze do listy moze coś dojsć jak i rónie dobrze
+jednak wypaść bez wykonywanai choć najmniejszego ruchu.
+%
+Bzdury pleciesz. Z gentoo mam styk bliszy od okolo dwuch lat czyli faktyczne
+zetkniecie nastapilo juz po momencie o ktorym piszesz. Jeden z mirrorow
+Gentoo w .pl pracuje w sieci ktora zarzadzam. Mam w poblizu czlowieka ktory
+Gentoo uzywa i jest fascynate tejze ale podczas naszych wielokrotynch
+dyskusji zawsze wychdozilo, ze w sumie mam racje co do powodow dla ktoryuch
+nie nalezaloby uzywac tejze dystrybucji, i ze mozemy cala rozmowe puscic w
+niepamieci bo rozmowa schodzi na grunt gustu.
+%
+Not sorrect ansver.
+%
+So .. existance some technical functionalities depends (only ?) is
+it part of distribution resources ? :-P
+So how find out CorrectWay(tm) for build [Open]Solaris community ? :o)
+%

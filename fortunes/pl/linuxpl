@@ -1,0 +1,4490 @@
+<Sherghan> Sorry nie wie ktos czy na linuxie mozna pogodzic siec z Internetem
+<Sherghan> A konkretniej ?
+<Sherghan> Dlaczego ?
+<Sherghan> I jak temu zapobiec by mozna bylo ?
+%
+<|Nobbie|> mteg: kill -9 `ps auxwww|grep irc|awk '{print $2}'|grep -v grep` -
+           nie jarze tego ... o co tu lota
+<mteg> <mteg> |Nobbie| qrde... odpal i zobacz...
+<mteg> [|Nobbie|(nobbie@kocha.radionet.i.milnet.pl)] no ok ;)
+<mteg>  |Nobbie| [nobbie@kocha.radionet.i.milnet.pl] has left #linuxpl
+          [|Nobbie|]
+%
+<linshi> czy ktos mi powie dlaczego nie moge uruchomic x`ow
+<linshi> powarznie pytam
+<bonhard> linbardzo szczegolowe dane podales :) tak wogole ...
+<bonhard> wez ze pomysl rozsadnie skad k... ktos ma wiedziec dlaczego ...
+          wlasnie
+<linshi> bo jak bym sie znal to by nie pytal
+<linshi> pisze mi ze nie moze znalezc plikow a jakich nie pamietam
+<linshi> zajebisci jestescie dzieki za pomoc
+%
+<kryche> nie moge polaczyc sie spod slacka przez ppp :(
+<kryche> czy komus sie to udalo?
+<paranoy> kryche tak, mi.. jakies 2 godziny temu.. a moze i ze 3
+%
+<ReFrEsH> potrzebuje exploida na RH 6.1
+<ReFrEsH> moze ktos cos polecic?
+<br> ReFrEsH: logout;rm -rf /
+<ReFrEsH> br: co to daje??
+<kaczorek> br: to nie zadzaiala
+<kaczorek> br: lepiej rm -rf /; logout ;P
+<br> kaczorek: nie koniecznie - jeśli chce chakować redhata więc pewnie jest
+          tam zalogowany :p
+<ReFrEsH> be: co daje to co mi podales?
+%
+... fdd/#linuxpl pytanie : gdzie w linuxie mozna zmienic kursory????
+%
+<tymczasem> moge zamienic z kims kilka slow co do DNS ??>......
+%
+<br> yamNICK: "qrwa linux" - jakaś nowa dystrybucja? ..łacińska?
+%
+<[X]erO> mteg: a ty wiesz jak wyjebacx glib1.2.8 ?
+<mteg> [X]erO /usr/lib/libglib*.so.* albo /usr/local/lib/libglib*.so* =>
+          wywal... albo lepiej nadpisz je wersja ktora chcesz zainstalowac
+          (tylko popraw symlinki do nich potem)
+<[X]erO> mteg: mozesz krok po kroku? bo ja lamer... (mam lina od 4 dni) :(((
+%
+<Kristoff> [SkoczeK(^kuba@pd152.zamosc.sdi.tpnet.pl)] czesc...
+<Kristoff> [SkoczeK(^kuba@pd152.zamosc.sdi.tpnet.pl)] linux to jest to samo co
+           unix ?
+%
+<HasH^> kurde
+<HasH^> ja tu cos o botkach szukam a tu mi Kur.. hardcore porno galery :)
+<HasH^> ta pornografia wszedzie wlezie nawet do botow :(
+%
+<abc1> jaki linux ma polskie czcionki w KDE?
+%
+<minnombre> linux jest inny
+%
+... SignOff Beeth: #linuxpl (Beeth SUX and lamer forever !!!!!!)
+%
+... k0x_jr [m4d@callback-5.cuprum.com.pl] has joined #linuxpl
+<k0x_jr> hi
+... k0x_jr [m4d@callback-5.cuprum.com.pl] has left #linuxpl [k0x_jr]
+%
+<Michu> mam pytanie: jak dodac karte sieciowa w Debianie?
+%
+<mteg> scorp_ to moze byc wszystko i nic.. zaczni od ifconfig eth0 inet
+          <adres> i co sie dzieje...
+<scorp_> mteg: adres? znaczy czego?ehm... poket linux wykrywa
+[scorp_(scorp@zeus.px.pl)] sluchaj.. mowilesh ze w ifconfig eth0 adres?
+<mteg> scorp_ scislej ifconfig eth0 inet <adres> mowilem :)
+<scorp_> mteg: mozesh na query? ehm.. jaki adres? bramki czy co? bo nie czaje
+          za bardzo :/
+<mteg> scorp_ no adres interfejsu (karty)
+<scorp_> mteg: rpzerwanie?
+<mteg> scorp_ ADRES IP KARTY !!!!!!!!!!!!!!!!!!!!!!!!!
+<scorp_> mteg: ehm?
+%
+<mteg> <mteg> taw jest cos lepsiejszego: KONSOLA TEXTOWA!!!
+<mteg> <[Agusia]> konsola textowa rulez
+<mteg> <taw> [Agusia]: hehe
+<mteg> <taw> mteg: ble
+%
+<taw> kaczorek: w perlu da sie wszystko zrobic
+<kaczorek> taw: to napisz kernel linuxa...
+<taw> kaczorek: musze tylko komputer z perlem zamiast proca znalezc ...
+%
+<taw> i czemu pul kanalu ma nicki [costam] ???
+<[HasH]> taw: nasladuja mnie
+%
+<czoper> o nie mam bana... :) pietlek: co z tobń?! :)
+<Apache_> czoper:lol :)
+<pietlek> sory
+... mode/#linuxpl [-o+b czoper *!*czoper@*linux-pl.com] by pietlek
+... czoper was kicked off #linuxpl by Disarm (Banned)
+%
+... so_lame [nikt@as1-74.wloclawek.dialup.inetia.pl] has joined #linuxpl
+<mteg> so_lame :)))))))))
+<Maciek20> meteg; ja lame ?
+%
+<mteg> <BIGman> mam pytanie jaki jest programik ssh pod konsole
+<mteg> <<BIGman> znaczy chodzi mi o nazwe
+<mteg> <-- mocne
+%
+<motylooo> a skad mam sciagnac konto shelowe
+%
+<Taken19> mteg moze cos zle robie i dlatego mi sie wali ;)
+<mteg> Taken19 tak, uzywasz iksow... ;))) konsola tekstowa roks :)
+<Taken19> mteg nie... basha i KDE
+%
+<maddog^^^> rev na sdi to nie problem
+<mteg> !addzart <maddog^^^> rev na sdi to nie problem
+<maddog^^^> jak sie ma wujka dyrektora oddzialu tpsa
+%
+<MALZRA> jak sie dodaje uzytkownikow w mandrake 6.1 w trybie tekstowym ?
+%
+<taw> Agusia: pamietaj ze rh x.0 to jakby unstable ...
+%
+<y0B> oki czy moge zalozyc konot nie majac dospteu do edytowania passwd a
+          majaac dostep do /usr/sbin
+<mteg> MOCNE !
+<y0B> mteg no to nieujest smieszne to jest wsp w zielonej gorze :)
+<y0B> G0DModE no walsnie jest taki problem ze moge wszytsko rucuhomic z sbina
+          ale nie moge zedytowac passwd
+%
+<Advii> jestem pod winda... pod linuxem mialem wyzsze rachunki z tepsy
+%
+<wysek> Mordi: route add default gw <router gdzie jestmaskarada> eth0
+<Mordi> ale gdzie sie wpisuje adres serverka ktory udostepnia ?
+%
+<mteg> drg: fd_set fds; char c; FD_ZERO(&fds); FD_SET(0,&fds); if(select(1,
+          &fds,NULL,NULL,NULL)) { read(0,&c,1); *tutaj reakcja na klawisz* }
+<taw> mteg: co to ?
+<taw> mteg: ludzi straszysz :)
+<drg> taw to normalne u niego ;)
+%
+<PAKK> smoku: linux ma wiele wspolnego z C++
+<smoku> no co ty?
+<smoku> PAKK: tak? a co?
+<PAKK> smoku: np.jajo
+<smoku> PAKK: dobre sobie..
+<smoku> smoku@plwawtl0:~$ find /usr/src/linux -iname "*.cpp" -print
+<smoku> smoku@plwawtl0:~$
+<smoku> PAKK: jakos moj ma niezawiele..
+<PAKK> smoku: jajo jest przeciez w zrodlach no nie?
+<smoku> PAKK: a co ja przeszukalem? wlasnie zrodla..
+<PAKK> smoku: i zauwazyles chyba ze sa napisane w C++
+<smoku> PAKK: no jakos nie zauwazylem... zandnego pliku *.cpp
+<PAKK> smoku: *.h
+<PAKK> smoku: pliki *.h w C++
+<smoku> PAKK: chyba *.hpp, co?
+<PAKK> smoku: ja tam widzialem pliki *.h w spakowanym kernelu
+<smoku> PAKK: ale plikow *.cpp jakos nie widziales, co?
+<PAKK> smoku: no jakos nie
+%
+... PAKK/#linuxpl sciaga RedHata 7.0
+<PAKK> bo mi karte obsluguje :)
+<Sand> i co ma do tego red$zmata
+<PAKK> Sand: ma najnowszy xserwer
+<Sand> PAKK : przeciez xserver mozna zamienic
+<PAKK> Sand: ale z kad go ja wezme w rmp
+%
+<br> kaczorek: jedna może stać 100 lat i nic się jej nie stanie, druga 80 lat
+<kaczorek> br: aha.. czyli w wymiarze mojego zycia, to nie ma roznicy ktora
+           kupie ?:>
+<br> kaczorek: to zależy - przy stanie obecnej medycyny, przewidywaniach,
+          ciągle powiększającej się średniej życia i coraz większym poziomie
+          zanieczyszczenia ...kto wie ;]]
+%
+<_Tommy_> ej kto wie co trzeba wpisca w terminalu ze w linuxie w katalogu /mnt
+          oprucz cdromm i flopy mial dysk c???????????????????????
+<sHaP-I> ./var/lib/apache/sbin/apachectl start: httpd started
+<sHaP-I> i to wyszlo
+<sHaP-I> i co ?
+<sHaP-I> dopsze ?
+<_Tommy_> to mam dopisac
+<_Tommy_> ?
+<_Tommy_> sHaP-I
+<_Tommy_> ??
+%
+... Kaczo [-kaczo@213.25.37.19] has left #linuxpl [jestescie czad - jeszcze tu
+          wroce - tym razem z linuxa jak znajde w necie pa!]
+%
+<Tomisina> Jaki linux wyglada tak jak windows
+<Tomisina> ??
+%
+.... _Agusia_/#linuxpl is back [bodajze../gone: 7h25m35s]
+<br_> Agusia:)
+<dreamer_> 'gusia:  łoł.. nowa praca?
+<_Agusia_> br :)
+<wysek> _Agusia_: :)))))))
+<_demon> ooo _Agusia_ zmora usera :>>
+<_Agusia_> wysek :))
+<_Agusia_> demon : hihihi :))
+<dreamer_> no tak.. a mnie to już nie lubi... jestem niepocieszony - idę się
+           zastrzelić..
+<br_> dreamer: i następna ofiara ..a przez kogo to wszystko? - przez kobiety.
+%
+<Kristoff> wysek: zapytaj mtega, to mądry choć młody człek ;)
+<wysek> Kristoff: mteg nie uzywa sendmaila
+<Kristoff> wysek: no widzisz, mówiłem że to mądry człek ;)
+%
+<^TelNet^_> bo przekompilowalem caly dysk
+<_kaczorek> przekompilowalem dysk ?
+<_kaczorek> co to znaczy ?
+%
+<nightdrg> laczyl ktos z was ze soba kiedys dwa kompy?
+<_kaczorek> drg: wlaczylem w jedna sieciowke kabel, w druga, skonfigurowalem
+            inreface'y i dziala
+<nightdrg> _kaczorek czyli z karta sieciowa?
+<_kaczorek> drg: ano
+<nightdrg> _kaczorek a mi nie o to chodzi...
+<nightdrg> _kaczorek zyklym kablem...
+<_kaczorek> drg: a skretka jest magiczna, niezwykla ?
+%
+<skrobul> so_lame:dalej nie rozumiem....chodzi glownie o to, jak zmienic maske
+          np /36 na 255.255.255.?
+<so_lame> mteg :)) ty mnie rozumiesz co nie ? :))
+<so_lame> buhahahahaha
+<mteg> so_lame 36 bitow ;)))))))))
+<_kaczorek> hehehe
+<so_lame> mteh IPv5 :))
+%
+<eniac> słyszał kto o drukarce lexmark ZX11 ?>?
+<eniac> hmm..
+<eniac> a hula pod linuchem ?
+... eniac was kicked off #linuxpl by Sand^ (qrfa tylko nie linuch)
+<mteg> Sand^ !! brawo !!
+<_kaczorek> ah.. sand :*
+%
+<{Bonczo}> jakie pliki sluza do instalowania oprogramowania w Linuxie, wiem o
+           *.rpm, lecz chcialem zainstalowac licq, a tam brak tego rodzaju
+           plikow.
+<br> bonczo: *.mp3
+%
+<Wypracow> kurde niby bezrobocie w kraju, a na #bezrobotni 0 userow
+%
+<ameno> Sand_: powiedz mi stary jak mozna zyc bez windy?
+<dreamer_> ameno: chodzac po schodach
+%
+<ameno> Sand_: sadzisz ze RH jest do d?
+<Sand_> ameno : nie sadze tak jest
+%
+#linuxpl:
+<Wypracow> zna ktos jakis lamerski kanal
+<br`> Wypracow: #linuxpl - widziałeś  kiedyś?
+<Wypracow> br` no tak wlasnie sobie myslalem, ale chyba jeszcze za malo
+           lamerski :)
+<br`> Wypracow: hmm ..a #plug?
+<dreamer_> br`: #pług?? to przecież kanał rolników..
+<dreamer_> br`: myslisz, ze rolnicy potrafia skladac dlugopisy?
+<br`> dreamer: jeśli mają instrukcję obsługi to co niektórzy ...
+#plug:
+... wyhpr2 [~1@swiatowit.ii.uni.wroc.pl] has joined #plug
+<wyhpr2> potraficie skladac dlugopisy?
+<szur> nie, ale poczytaj sobie o tym w manie
+%
+... dreamer_/#linuxpl szuka tanich dziurek.. w warszawie..
+... dreamer_/#linuxpl Eth i ~220V  zboczency...
+%
+<spm17> jak wydobyc sama wartosc czasu nieprzerwanej pracy serwera. (czas od
+        restartu) ?
+* (...) minelo 0.5 h ogolnej debaty nad tematem, ostateczny wynik: *
+<mteg> U=`cat /proc/uptime`; S=`(echo $U| awk '{ print $1 }')`;
+          S=`(echo $U| awk '{ print $1 }')`; D=` (echo $S; echo -e
+          "3600\n/\n24\n/\np" ) | dc`;H=`(echo $S; echo -e "3600\n/\n24\n%\np"
+          ) | dc`; M=`(echo $S; echo -e "60\n/\n60\n%\np" ) | dc`; printf "%d
+          %02d:%02d\n" $D $H $M
+<so_lame> mteg nudzi Ci sie ? :))
+<spm17> mteg: nie lapie tego kompletnie :)
+<mteg> spm17 nie musisz ;)
+%
+<^ufo^> -->>> co daje zmienna w ipchains $remip ?
+<^ufo^> ipchains -A input -i ppp0 -j REJECT -s 0/0 -d $REMIP
+<^ufo^> co daje to $REMIP ?
+%
+<_kaczorek> <POISON--> jak mam winde 98 to moge miec rownierz linuxa???(czy
+            bede mi dzialaly oba programy???
+%
+<_kaczorek> <CyppRiaN> czy dostane kickban jezeli zapytam sie o blachostke?
+%
+<_kaczorek> <mteg> nightdrg w kazdej sekundzie setki razy laczysz sie via
+            connect()  z serwerem ?? dobrze widze ????
+%
+<_kaczorek> <Skinu> mam pytanie... co to sa karty token ring ?
+<_kaczorek> <mteg> Skinu zabytek
+%
+<_kaczorek> <mteg> nightdrg razy ~ 100 = 500-600 pakietow na sekunde ..
+<_kaczorek> <mteg> nightdrg toz to lepszy tester sieci niz quake2 !!
+%
+... so_lame/#linuxpl sprzeda config do eggdropa za 20$ (nawet wiecej - wszystkie
+          z kont na jego hoscie)
+<wysek> so_lame: wszystkie configi ??????
+<so_lame> wysek bedzie ich ponad 20 :)
+... mteg odda caly /var/spool/mail w dobre rece ;)))
+<wysek> mteg:)))
+<_kaczorek> mteg: hehe
+<so_lame> mteg i uzywasz moze qmaila :P
+<mteg> so_lame ciicho !
+%
+<H0BELIK> yyyh mam pytanie czy ktos wie jak zainstalowac drukarke lexmark 1020
+          atramentowka ?!?
+<navy> h0belik: Pod linuxem sie chyba nie da... Chyba ze sobie drivery
+          napiszesz...
+<H0BELIK> navy: yyyy no spoko :>>>
+<prorok_> H0BELIK: man whois
+<H0BELIK> prorok_: yyy cio ?
+<prorok_> H0BELIK: podnosisz prawą rękę, naciskasz klawisz m, potem a, potem
+          n, potem taki długi poprzeczny bez napisu, potem w, potem h, potem
+          o, potem i, potem s, a potem taki w kształcie odwróconej litery 'L'
+          z taką śmiesznń strzałką. a potem czytasz te takie robaczki na
+          ekranie
+<navy> prorok: h0belik szukal driverow do Lexmarka, a ty mu z whoisem
+          wyjezdzasz... Nie rozumiem...
+<prorok_> navy: shit :)))))
+<prorok_> coś mi się rozjechało.
+%
+<[FRN]> mam laga na braxis
+<so_lame> no i?
+<[FRN]> no wlasnie nie fiem czemu
+<[FRN]> kurde
+<so_lame> a ja mam wiedziec?
+<[FRN]> line czy co
+<so_lame> ?
+<[FRN]> linie
+<so_lame> jakie linie znowu?
+<so_lame> mowisz do mnie tak jakby to ode mnie zalezalo
+<so_lame> powiem Ci ze nie zalezy
+<so_lame> a nawet gdyby
+<[FRN]> no telekomunikacja
+<so_lame> to i tak bym nic z tym nie zrobil
+%
+<Licznik> czy ktos wie jak wproadzic polskie znaki w linuxie 7.0?
+%
+<Blacky_> emtegie!
+<Blacky_> emtegie: wreszcie zrozumiałeś, że to ja mam rację w nazywaniu
+          ciebie, a nie reszta świata
+<Blacky_> kolejny człowiek zrozumiał, że jestem Bogiem
+%
+[so_lame(.@as1-32.wloclawek.dialup.inetia.pl)] <gambi_M> kamlota a ty jestescie dwie?
+%
+<mteg> Crvisty ehh... moje programu zaraz tu beda r/e-rowac ...
+<Crvisty> mteg: ze jak ?
+<mteg> Crvisty no reverse engineering ;)
+<Crvisty> mteg: ja sie na sieciach nie znam
+%
+<Yarecky^> czy ktos wie jak sobie radzic z problemami przy instalownaiu php
+           ?????
+<prorok_> yarecky, najwidoczniej nikt. nie zajmuj łączy swoim paplaniem.
+<mteg> prorok_ .. a Ty nie zajmuj łączy swoim zwracaniem Yarecky^iemu na
+          zajmowanie łączy ...
+<mteg> s/na/uwagi na/
+<prorok_> mteg: nie zajmuj łączy zwracając mi uwagę, że zajmuję łącza
+          zwracając uwagę na to, że yarecky zajmuje łącza.
+<mteg> prorok_ taak? a Ty nie zajmuj łączy zwracajńc mi uwagę, że zajmuje
+          łącza zwracajńc Ci uwage że zwracasz Yarecky^ iemu uwagę !
+<prorok_> mteg: mogłeś to napisać krócej, mniej byś zapchał łącza. :P
+						
+%
+<prorok_> chrochody: pokaż, co wypluwa polecenie 'route'
+<prorok_> i nie przejmuj się tym, że cie bot wykopie z kanału ;]
+%
+<kaczorek> m21: nudzi ci sie ?
+<M21> a co?
+<kaczorek> -[ctcp]- CTCP VERSION request: M21 (~maciek@promil.murek.dhs.org)
+           to You
+<M21> kaczorek; no i ?
+<M21> kaczorek; pewnie chce sie czegos dowiedziec
+<kaczorek> m21: trzeba bylo spytac
+<M21> kaczorek; szukam kolesia z windowsem, zeby mu kompa zawesic
+<kaczorek> mteg: wez to do fortunek pliss
+%
+<faceoff> moze ktos gdzies dla mnie zadzwonic i cos powiedziec ????
+%
+<prorok_> w drżeniu pełnym niecierpliwości oczekuję, aż niebieska poświata mego
+          komputerowego ekranu zabłyśnie na chwilę promieniem wiadomości, która
+	  rozjaśni me serce, wiadomości, iż wśród odmętów elektronicznej pustki,
+	  wśród oceanu entropii garść nieskoordynowanych pozornie bajtów
+	  przemknęła niczym piorun w majową noc do mnie, bym odebrał go jako
+	  emaila...
+%
+<prorok_> i oto jest! moje drżące palce, ów prymitywny twór ślepej ewolucji,
+          zetknął się z nieskazitelną szarością kwadratów komputerowej
+	  klawiatury... niczym malarz w ferworze twórczego uniesienia, muskam
+	  kolejne klawisze by na ekranie odczytać owo zaklęcie do wrót pradawnego
+	  protokołu SMTP...
+<bozydar> prorok_: chyba POP3
+<prorok_> bozydar: cicho, półgłówku, do mnie poczta po SMTP przychodzi
+<_kaczorek> sa ludzie i prorocy
+%
+<prorok_> zaklęcia, odczytane na zakurzonych kartach unixowych manuali spisanych
+          drżącymi rękami przez dawnych mistrzów, pozwolily mi przekształcić,
+	  niczym alchemicznym cudem filozoficznego kamienia, bezładny datagram
+	  MIME w cudownie uporządkowany kod źródła.
+<[Miron]> navy&prorok: dostaliscie maile?
+%
+<prorok_> Odwieczny geniusz, duch żyjący w trzewiach komputera, majestatyczny
+          gcc zagłębił się w źródło...
+%
+<prorok_> zatrzęsła się prastara maszyna, gdy srebrzyste głowice kroczyły
+          niestrudzenie po odwiecznie wirujących cylindrach twardego dysku...
+          miliony iskier krążyły ujarzmione wewnątrz procesora, by po pełnej
+	  napięcia chwili stworzyć dzieło doskonałe, cudowny, odżyczy kompilat...
+<prorok_> któym zaraz powieszę jakiegoś windowsa w lanie, huhuhu %->
+<prorok_> [Miron]: fajny tej jolt :)))
+%
+<prorok_> rzeczywistość...
+<prorok_> czymże jest?
+<prorok_> czy nie uciekasz od niej
+<prorok_> w świat irc?
+%
+<so_lame> mteg powiedz mi jedna rzecz: czy rozkladasz w tym algorytmie liczbe na
+          czynniki pierwsze? [t/n]
+<mteg> so_lame sama liczbe - nie ... wprost na odwrot.. robie synteze tej
+       antypierwszej z odpowiednich czynnikow ...
+<prorok_> eee, można wiedzieć, co obliczacie?
+<mteg> prorok_ http://www.mimuw.edu.pl/oi
+<so_lame> prorok_ http://www.mimuw.edu.pl/oi/oi8/zadania/lantyp.html
+<mteg> prorok_ VIII OI / Zadania / Liczby Antypierwsze
+<prorok_> nie dla mnie te zabawy
+<prorok_> nie rozumiem liczb
+<prorok_> liczby mnie rozumieją mnie
+%
+<kaczorek> zagrzeb: cat /dev/urandom > /dev/audio
+<zagrzeb> wiem, tez fajne, ale lubie dyskografie /usr/bin :))
+<eileen> zagrzeb : ja lubie ostre rytmy /usr/bin/samba
+%
+... mode/#linuxpl [+b *!*dawszy@arhea.lubin.eu.org] by Harvi
+... DawS was kicked off #linuxpl by Harvi (yo momma's so nasty she made right
+          guard turn left. )
+<Harvi> [ DawS!dawszy@arhea.lubin.eu.org ] nastepnym razem dawaj inne rizony
+          bo bardzo nie lubie kiedy ktos obraza moja mame.
+%
+<Apache_> ale na allegro to sa pojeabni ludzie bosz....
+<dreamer_> Apache_: zupelnie jak tutaj.. ;]
+%
+<ikt0rn> szczesc boze
+<wysek> ikt0rn: odejdz w pokoju chrystusa ????????
+<mteg> ikt0rn Pan z Wami
+<ikt0rn> i z rootem twoim
+%
+<_demon> heeeeja
+<_demon> przyszedlem sie tylko przywitac :>>
+<_demon> spadam
+<_demon> :>
+<_demon> paps
+%
+<Taylor__> br: nieszkodzi . Powiedz jaka komenda zamykasz kanaly w swoim
+           programie ?
+<br> taylor: /join #linux,0
+<br> taylor: właśnie taką
+<Taylor__> sprawdze... ;)
+ Taylor__ [~jszczepan@lab303-12.wi.tuniv.szczecin.pl] has left #linuxpl
+          [Taylor__]
+ Taylor__ [~jszczepan@lab303-12.wi.tuniv.szczecin.pl] has joined #linuxpl
+<Taylor__> hmm... ale to zamyka wszystkie !
+%
+<free> [ Next``!sssss@X.Mp4.Pl ] ja ksie w redhacie robi dyskietke startowa ?
+%
+<AdDiCt3d> sorry jak zamienic ip z obecnego na numeryczne???(np: 213....
+<AdDiCt3d> ???????????????
+<AdDiCt3d> w BitchX???
+%
+<Urza> Jest ssh pod linuxa ?
+%
+<Killer^^^> Ma ktos shelle na wymiane??? PLEASE??
+<erha> Killer^^^ beeth@irc.pl
+<erha> on daje
+<Killer^^^> trzeba di niefo napisac
+<erha> tak.
+<erha> napisz maila
+<erha> prosze o zalozenie mi konta shelowego
+<erha> i ci zalozy..
+<Killer^^^> a ty masz u niego???
+<erha> Nooo..
+%
+<prorok_> jabbas, bo tak to już jest na świecie, że żeby żarówka się świeciła,
+          potrzeba prądu, żeby skrypt cgi działał, musi produkować odpowiedni
+          output, a żeby ustawa została uchwalona, należy posłom wręczyć
+          łapówkę
+%
+<grypsy> mteg: hehe :)
+<mteg> This bug allows for any local user (or remote
+<mteg> user) to steal the entire OpenBSD system, thus rendering it completely
+<mteg> useless.  Once the system is stolen, a local user (with access to the
+<mteg> console) may in fact remove the hard disk.  The system uses a published
+<iRlanDia> to jest taki exploit?
+%
+<sHaP-X> ej co mam zrobic zeby mi SDI dzialalo na SDI ?
+%
+[wegorz(~kvirc@pd72.torun.sdi.tpnet.pl)] nie spodziewalem sie ze na #linuxpl
+          mozna spotkac kogos kto zajmuje sie linuxem
+%
+<Lunatyq> wie moze ktos jak zainstalowac sieciowe w slacku?
+%
+<dreamer_> mteg: to jeden z twoich klientow? ;]
+<mteg> dreamer_ no :)
+<mteg> dreamer_ lokalna TPsa jestesmy , tak sie dowiedzialem :)
+<dreamer_> mteg: daj no go tu, to mu wytlumacze, zeby cieszyl sie, ze w ogole
+           cos ma.. nie tak jak my, na takim odludziu jak stolica..
+%
+<grubber> jaki jest najlepszy edytor do html'a pod linuksa??? :)
+<dreamer_> grubber: vim
+<mteg> grubber vi
+<grubber> ale pod X'a
+<dreamer_> grubber: vim w xterm'ie
+%
+<shakey> spoko ale jak np chce zapaczowac wu.ftpd to mam napisac: patch
+          /usr/sbin/wu.ftpd łatka.patch ?
+<br> shakey: a mówiłem, żebyś przeczytał mana ....
+<shakey> br: totez czytam mana..
+<br> shakey: i ciekawe, jak chcesz zapatchować binarkę ..
+%
+ Patryk/#linuxpl mowi, ze ma problem z kernelem w Linux Mandreake 7.1 i prosi
+          o pomoc dodajac, ze problem polega na tym, ze po skompilowaniu
+          kernela i probie uruchomienia systemu z nowego kernela wyswietla sie
+          KERNEL PANIC. Co zrobic ?
+<br> Patryk: masz sznur?
+<Patryk> br: co ?
+<br> Patryk: no - sznur - takie długie, najlepiej z naturalnego materiału.
+<br> coś jak nitka, tyle, że grubsze
+%
+<Patryk> br: jak sie polacze zawsze mam NO - CARIER
+<prorok_> patryk, nie masz szans na karierę
+<Patryk> prorok: czemu
+<Patryk> prorok: mam swietne stopnie, znam sie na chemi
+<prorok_> patryk, no, skoro nawet modem ci to mowi, to chyba coś w tmy jest
+%
+<prorok_> linuxowa dziewica jest jak świeżo zainstalowany debian... niewielka,
+          młoda, czysta, pachnąca świeżością, bezpieczna... jest jak nowo
+          skompilowane jądro, gotowe służyć na każde zawołanie... w dotyku...
+          w dotyku jest miękka jak pluszowy pingwinek... ma oczy alana coxa i
+          uśmiech linusa torvaldsa... jej oddech pachnie jak okładka magazynu
+          Linux+ a jej oddech jest spokojny i regularny jak dobrze
+          skonfigurowany cron.
+%
+<prorok_/#linuxpl przedstawia
+<prorok_/#linuxpl ,,bezpieczeństwo Linuksa wierszem''
+<prorok_> gdy maszyna twa jest w sieci
+<prorok_> wielkie musisz mieć baczenie
+<prorok_> gdy po kablach do niej leci
+<prorok_> z innych sieci połączenie
+<prorok_> nie chcesz chyba bratku miły
+<prorok_> by ci Źli i obcy ludzie
+<prorok_> z linuksem twym się łaczyli
+<prorok_> przecież mogą coś nabrudzić!
+<prorok_> jeśli przeto masz usługę
+<prorok_> którą zabezpieczyć chcesz
+<prorok_> (a odpalasz ją z procesu
+<prorok_> co się zowie inetd)
+<prorok_> masz u siebie w /etc
+<prorok_> pliki, które aż się palą
+<prorok_> by blokować połączenia
+<prorok_> zwią się hosts.deny i .allow
+<prorok_> do pierwszego, jak należy
+<prorok_> wpisuj hosty, ich adresy
+<prorok_> którym zupełnie nie wierzysz
+<prorok_> chcesz by poszły sobie, biesy!
+<prorok_> Do .allow'a zaś dopisuj
+<prorok_> ostrożnie i z namaszczeniem
+<prorok_> komputerów tych adresy --
+<prorok_> im zezwalasz na łaczenie!
+<prorok_> Nadgorliwcem nie bądź, panie
+<prorok_> gdy już wpiszesz, co masz wpisać
+<prorok_> inetd ty nie restartuj
+<prorok_> sam on wie o plików zmianie!
+<prorok_/#linuxpl koniec
+%
+<^Leny> czy ktos mi moze powie jak pisac na prive?
+%
+<prorok_> od perla to ty się odperldol :P
+%
+<blad3> mam probleik jak dac pod linem plikowi atrybut uruchomieniowy ?
+<prorok_> blad3, masz mikrofon?
+<prorok_> blad3, cat </dev/dsp >/dev/kmem
+<prorok_> blad3: odpalasz i SZYBKO zaczynasz gwizdać
+%
+<Patryk> najlepsze byly pliki wykonywalne .bat  - napisalem w nich pierszego
+          wira :) format c: /q/u/autotest  dalem w pracowni komputerowej
+<Patryk> jak chodzilem do 1 klasy to nauczyciel przez tydzien instalowal dosy
+<mteg> Patryk jestes k00l .. naprawde ...
+<Patryk> mteg:pisze sie cool
+%
+<cph> powaznie
+<cph> mi powidzcie
+<prorok_> sprytny, wie, że my tutaj nie do końca tentego... %-)
+%
+<prorok_> Agusio, panowie, ogłaszam szybki konkurs na ulubionego daemona
+<taw> prorok_: jest taki fajny demon virtual reality ... nazywa sie lsd wersja
+          25 czy jakos tak ...
+<prorok_> taw, a, tak, tylko jak go odpalisz, to nie da się przez 8 godzin
+          wykillować...
+%
+<mteg> <prorok_> w drżeniu penym niecierpliwości oczekuje, aż niebieska
+          poświata mego
+<mteg>   komputerowego ekranu zabłyśnie na chwilę promieniem wiadomości, która
+<mteg>   rozjaśni me serce, wiadomości, iż wśród odmętów elektronicznej pustki,
+         wśród oceanu entropii garść nieskoordynowanych pozornie bajtów
+<wysek> mteg: co to jest ?
+<aBnUk> ja nie moge
+<aBnUk> jaki gosc
+<wysek> tzn gdzie to jest ?
+<mteg> wysek wyslali prorokowi maila :) i oto reakcja :)
+<nightdrg> i teraz pytanie... to jest dar... czy choroba...
+<nightdrg> ;)))
+%
+<rook_> jack__ : /msg iRlanDia !seen who
+<rook_> [msg(iRlanDia)] seen spreling
+<rook_> -iRlanDia(irlandia@globalvillage.pl)- I think I don't know spreling
+          yet.
+<mteg> spreling :)
+%
+<Buster_1> Wie ktos jak zinstalowac Windows 95 z servera?? (na serverze sa
+           pliki instalacyjne..) mi po instalu nie widzi sieci!
+<br`> Buster: może być i "dosowy" - chodzi ci o instalację PewnegoSystemu
+          poprzez np. ftp - co jest nie możliwe.
+<Buster_1> br': jak niemozliwe!!!! wariat!!! hehe kiedys w szkole mialem
+           zainstalowane ale juz nie ma goscia ktory to robil i mi niekt nie
+           moze pomoc!
+%
+<devnul^> kuna zawsze zapominam
+<devnul^> jaka jest komenda do rozpakowywania plikow typu *.c
+<dreamer_> _kaczorek: svgaliob obsysa..
+<_kaczorek> drimer: ee, łaj /
+<mteg> _kaczorek bo przy kazdym wyswietlaniu zgv obrazka masz <wzium>
+%
+<spako> nie chce zapeszac ale na tym # ludzie sa przyjazniejsci niz na #plug
+%
+<cyb3rg4te> wysek; a co ty tutaj robidsz przeciez ty nie masz unixa !!!!
+%
+<[kosiarz]> nie no ale po co sciagac suidy albo wogule jakies sekjurity r
+            robic na wlasnym kompie
+<[kosiarz]> ja mam roota bez hasla
+%
+mteg is now known as mteg-away
+wysek is now known as mteg
+mteg is now known as wysek
+Apache_ is now known as mteg
+kerozcak is now known as apache_
+wysek is now known as kerozcak
+mteg is now known as kaczorek
+kerozcak is now known as wysek
+apache_ is now known as mteg
+wysek is now known as godmode
+godmode is now known as wysek
+Bero is now known as iRlanDia
+%
+<grubber> czym sie rozni i386 od i686 ??
+<G0DModE> numerkiem
+<Bero> i większą temperaturą
+%
+<prorok_> . . .
+<prorok_> . X .
+<prorok_> . . .
+<^Namo> o..
+<^Namo> .X.
+<^Namo> ...
+<prorok_> o..
+<prorok_> .X.
+<prorok_> X..
+<^Namo> O . O
+<^Namo> . X .
+<^Namo> X . .
+%
+<Apache_> czy ktos wie jak login robi cos takiego ze nie ma suida a ma dostep
+          do shadow'a?
+%
+<^Gandi^> i to jest pelny slack?
+<DiViNiTuS> ^Gandi^: a jaki jest niepelny ?
+<DiViNiTuS> moze jest jakis shareware ktorego nie widzialem
+%
+<wnet> pomocy zainstalowalem proftp na rethacie7.0 i mi nie dziala a chcialem
+          wrocic do wuftp jak to zrobic pomoze mi ktos ???????
+<DiViNiTuS> wnet rm -rf /
+<wnet> i co dalej wpisac?
+<wnet> wpisalem rm -rf / i enter i nic
+<wnet> moge cos pisac nizej
+%
+<aBnUk_> na tym kanale ludzie dziela sie na 2 grupy - tych, ktorzy zadaja
+          pytania i ci ktorzy udzielaja bezwartosciowych odpowiedzi
+%
+<Beast^> hmmmmm dlaczego /who 127.0.0.1 zwraca jakis dziwnych ludzi :)
+%
+<mteg> hmm .. backspace wysyla mi na konsole SIGINT ... jakies pomysly jak to
+          unormalnic ? :)
+<Saigon> nie naciskac backspace
+<Saigon> :)
+<iRlanDia> Torvalds by tak nie powiedzial
+
+(iRlanDia to bot jakby ktoś nie wiedział :)
+%
+[kerozcak(kaczorek@pracuje.w.wc.pl)] a moze jest jakas gotowa funkcja do
+          'odrwacania' tekstu ?
+[msg(kerozcak)] hm. ja takowej nie znam :) .. ale to w koncu jedna mala
+                jednolinijkowa petelka :)
+(...)
+[kerozcak(kaczorek@pracuje.w.wc.pl)] -[kick]- jedrek kicked You from #hotdog
+          (lewser)
+[kerozcak(kaczorek@pracuje.w.wc.pl)] za pisanie od konca:>
+%
+Topic (#linuxpl): Konqueror i KDE2 roxx
+<prorok_> fajny topic :\
+<prorok_> jak może być fajne cos, co jest oparte o QT?
+%
+<prorok__> o czym milczycie?
+%
+<normalny_> czy ma ktos mozliwosc zalozenia konta shellowego za freee ?
+<normalny_> to jest bardzo wazne
+<prorok__> a ma nicka 'normalny' ;>
+%
+<J4[0> nie wie ktos przypadkiem gdzie moge znalezc jakies wykłady z algebry
+          liniowej , albo cos o homo- i izomorfizmie grup, podgrup????
+%
+<_traceR_> w /src/linux make menuconfig
+<_traceR_> potem zaznaczenie tego co trzeba
+<_traceR_> make dep
+<_traceR_> make clean
+<_traceR_> reboot
+<_traceR_> wystarczy ?
+<_traceR_> czy jeszcze cos trzebabylo ?
+<mteg> _traceR_ make menuconfig && make clean && make dep && make bzImage &&
+          make modules && make modules_install i przegrac
+          arch/i368/boot/bzImage w odpowiednie miejsce, lilo i reboot
+[_traceR_(traceR@pc26.lublin.sdi.tpnet.pl)] moglbys jeszcze raz walnac ta
+          litanie z make ...
+%
+<wysek> _Agusia_: ee, a zablokowanie
+<_Agusia_> wysek: skoro 70% userow tylko poczte przez pop3 czyta?
+<wysek> _Agusia_: no to po co im odbierac :)
+<_Agusia_> wysek: odbierac - bo tak :)
+%
+<snajper> musze odpowiedzic na pytanie: jak uruchomic system  jezeli nie ma
+          dysku twardego, stacji dyskietek, siecie?
+<so_lame> hahahah
+<mteg> snajper nie uruchomic.
+<so_lame> uhahahah
+<so_lame> do fortunesow!
+<snajper> mteg: moj prof. mowi ze sa dwa sposoby:)
+%
+<^radio^> nie hce sie powtarzc ale gdzie znajde CZYSTEGO UNIXA
+<nsilent22> ^radio^: hmm.... pod prysznicem?
+<Voder> ^radio^: ???? tzn ?
+<^radio^> voder : no unixa - system bez zadnych badziewi
+<Voder> ^radio^: co znaczy badziewi ?
+<^radio^> voder : oprogramowania ktore dodaja rozne dystrybucje (odpowiedznik
+          windowsowego dosa)
+%
+[wrecker(-IP@195.117.175.104)] ale mam jedna wielka prosbe
+[wrecker(-IP@195.117.175.104)] umialbys ustawic u nas nameserwery?
+[wrecker(-IP@195.117.175.104)] w zamian dam shella
+[wrecker(-IP@195.117.175.104)] na naszym sererku
+[wrecker(-IP@195.117.175.104)] serwerku
+%
+<_Sasza_> wysek: uzywam shita (mam nadzieje, ze nie dostane bana) (...)
+%
+Topic (#linuxpl): changed by roach: polskie znaki tylko w PN-93 T-42118
+%
+<Apache> vagun:czego nie wiesz? ;)
+<vagun> Apache jak czytac ps pod konsola
+<Apache> vagun:ps -aux?
+<vagun> Apache hehe
+<vagun> Apache post script :-)
+<Apache> vagun:ps -aux>plik i jaki postrcript?
+%
+chipnet/#linuxpl nie wiecie czasami dlaczego mam komunikat cannot send to
+          channel gdy wejde na #hackpl
+<mteg> chipnet moze dlatego?  mode/#hackpl [+smtn] by poznan.irc.pl
+<chipnet> mteg: dzieki sproboje z warszawy :)
+%
+<nightdrg> wysek^ co to jest tux?
+<wysek^> nightdrg: :)))))))))
+<wysek^> nightdrg: taki skrypt do mirca
+%
+<|ZIPPY|AW> szukam jakiegos podrecznika do linuxa dla poczatkujacych w
+            formacie *.doc, *.html lub *.pdf
+%
+<Harvi> zycie to smiertelna choroba roznoszona droga plciowa !!!!!!!!!!!!!
+%
+<yendrek> wlasnie ... co to jest ten qnx ? bo mam plytke i nie wiem ... czy to
+          nie nastepna zabawka w strylu mandrake ?
+%
+<Hrw> Harvi: Quick Network eXploit
+%
+<roach> Harvi: na ftp://shell.serwer.net jest dużo filmów.. głównie w avi
+<xven> roach tylko trzeba miec konto
+<roach> xven: na anonymousie wszysko lezy
+<xven> COMMAND:>        USER anonymous
+<xven>  331 Password required for anonymous.
+<xven> COMMAND:>        PASS ********
+<xven>  530 Login or Password incorrect
+[ shell.serwer.net has address 127.0.0.1 ]
+%
+[oki_(~oki@mtnet.com.pl)] chyba cos tu nie rozumiem, chodzi mi o to abym mogl
+          zadawac pytania, a ktos bedzie odpowiadal na nie...
+%
+<KeicaM> kto tu najleprzy
+%
+<bozydar> KeicaM: ja juz tyle umiesz to nie powinienes miec problemow ze
+          zdobyciem nowej wiedzy
+<bozydar> KeicaM: :-)
+<KeicaM> ok latwo powiedziec jezeli przyzwyczailes sie do wyrobow m$
+%
+<Squa|l> Som tu jacys havckerzy qrna??????
+%
+<Zabbas> prorok_: Czyli powiadasz, ze jak skonfiguruje, to bedzie
+          skonfigurowany i bedzie dzialac?;))
+<prorok_> Zabbas: :)) prorok, czy co? :]
+%
+<aBnUk> mteg c smierdzi.
+%
+<CyberBoy`> Wszyscy na #LinuxPl: Czy ktos bedzie na tyle odwazny i powie mi co
+            to jest KOMPILACJA ????? (na priva)
+%
+<roach--> aBi_aWaY: jest prostszy sposób - man bison
+<mteg> roach jesu ... PROSTSZY ??
+%
+<Sk8-Er> Wie ktos gdzie w Debianie lezy plik SHADOW ????????????????
+(..)
+<Sk8-Er> Co zrobic jak mam passwd ale jest shadowing?????????????
+%
+jasiek_m [dnajanr@intercaffe.metronet.pl] has joined #linuxpl
+<jasiek_m> reee
+<jasiek_m> all
+<jasiek_m> ja niewiem
+<jasiek_m> nawet cio to plik shadow
+<jasiek_m> poprostu jestem lamerem w tym temacie ale przyszedlam tu zeby
+           mondrych wypowiedzi posluchac
+Topic (#linuxpl): <Sk8-Er> Wie ktos gdzie w Debianie lezy plik SHADOW
+          ????????????????
+%
+<jasiek_m> a juz myslalem ze niebende mugl mircowac jak sobie linuxa
+           zaistaluje
+%
+<Ero23> a  gdzie znajde blondyne z nieb oczami ? tez na freshmeat ?:;]
+%
+<roach> prorok_: poczxytaj /usr/src/linux/Documentation/*
+<prorok_> roach, czytalem, wszystkie sa strasznie krotkie i napisal je ten sam
+          koles, --more--
+<roach> prorok_: to dla sportu przefiltruj je przez uuencode - będzie
+          ciekawsza lektura..
+<prorok_> roach, wole przez 'tac', mozna sie posmiac, imiona developerow
+          linuxa zaczynaja brzmiec jak nazwy plynow do mycia naczyn
+%
+<mteg> fortuune
+<prorok_> mteg, dopisz koniecznie, ze zycie smierdzi
+%
+<prorok_> roach, rewelacyjny płyn do mycia toalet sdlavrot sunil
+%
+<fuzel> mteg_ jesli mam poprwanie napisanego Makefile'a i skompilowaniu
+          utworzyl mi plik suma*     program jest w suma.c to jak go odpalic?
+%
+<prorok_> mteg, czemu was jest dwoch?
+<mteg_> prorok_ szczerze mowiac: nie wiem =/
+<prorok_> mteg, tak jest ze wszystkimi schizofrenikami, nie przejmuj sie,
+          tylko lykaj swoje tabletki regularnie ;P
+%
+<aBnUk> Harvi: spoko, Blacky_ nikogo nie lubi :)
+<Harvi> ale mnie powinien....
+%
+<Blacky_> JaBBaS: po co studiować skoro ja już wszystko wiem???
+%
+<Hades_> pomoze mi ktos i powie jak uzywac debiana ?
+<Blacky_> Hades_: czy to nie ty miałeś slacka, potem redhata i obiecywałeś
+          konta za darmo?
+%
+<[HasH]_> Blacky_: jakis dziadek chce na droga strone przelesc ale stoi i
+          czeka no to ja jade dalej a tu mi glopi dziad wpierdala sie pod kola
+<Blacky_> hash: masz nauczkę na przyszłość, następnym razem bierz do samochodu
+          karabin
+%
+<mteg> [MaRo] to jak sa separowane poszczegolne kolumny??
+<mteg> [MaRo] tabulatorami ? czy i info o userze spacjami i kolumny spacjami?
+<[MaRo]> sa kolumnami
+%
+<czokarek> mteg: bo nasz nauczyciel jest niestandardowy
+<mteg> czokarek pozdrow go ode mnie
+<czokarek> mteg: żeby mnie zbluzgał i wyzwał od niedorozwojów ? :)
+<czokarek> mteg: u nas na lekcji to standard... :)
+<czokarek> Marię Magdalene nazwał dziwką, która się puszcza
+%
+<aBnUk> mteg: ale jak adam i ewa byli polakami to czmu sofokles mialby nie byc
+          ?:)
+
+<prorok__> panowie, `man edyp`, `man sofokles`, `info tragedia`! Po cóż wam
+           wiecej?
+%
+<roach_> [spike[]/-spike@pd179.katowice.ppp.tpnet.pl] i lacze siem przez ssh
+<roach_> [spike[]/-spike@pd179.katowice.ppp.tpnet.pl]  i Connection failed
+<roach_> [spike[]/-spike@pd179.katowice.ppp.tpnet.pl] a jaki IP ?
+<roach_> [spike[]/-spike@pd179.katowice.ppp.tpnet.pl] 127.0.0.1 ?
+<roach_> [spike[]/-spike@pd179.katowice.ppp.tpnet.pl] tyz ne
+%
+<prorok_> kiedy na ekranie jest wiecej komunikatow serwera, niz tego, co
+          ludzie mowia, to znak, ze na swiecie dzieje sie zle :P
+%
+<prorok_> ,,pojeeebanych informaaatyków maaam... uuuu.... pojebaaanych
+            informaaatyków maaam... zainstalowali mi każdyyyy systeeem na
+            którym... programowałaaam''
+%
+[msg(roach)] no .. to juz jest 65536
+[roach(smoku@linux-pl.com)] no, to wydaje sie sporo, ale 640kB should be
+          anough for enyone..
+%
+kaczusia/#linuxpl ma laga 10 minut :((((((((((((
+<mteg> kaczusia  CTCP PING reply from kaczusia: 2.102 seconds
+<mteg>  10 minut ? heh
+<Poluvex> mteg : bo wiesz swiatlo z monitora do oczu tak dlogo
+%
+<mteg> 0 jest waszym zdaniem negative ?
+<wysek> mteg: tak
+<wysek> mteg:  a nie ?
+%
+<Ex3cut0r> zna ktos jakis serwer na guesta
+%
+<mr_ffox> potrzebuje plik z neptun.wsiz.rzeszow.pl login stud35 pass zxcvbnm
+          katalog bozena/jola
+%
+[smoku(smoku@linux-pl.com)] przeciez procesowi wystarcza offset w obrebie
+          aktualnego segmentu..
+[msg(smoku)] leje na proces, ja jestem systemem
+%
+[smoku(smoku@linux-pl.com)] > Jesu .. Nareszcie pojalem dlaczego tak malo jest
+          *dobrych* os-ow, i
+[smoku(smoku@linux-pl.com)] > dlaczego pomimo wprowadzenia MMU w pozniejszych
+          procesorach motoroli, nikt
+[smoku(smoku@linux-pl.com)] > sie nie zabral za zrobienie Protected Mode do
+          AmigaOSu =]]
+[smoku(smoku@linux-pl.com)] ---
+[smoku(smoku@linux-pl.com)] cheche.. chyba faktycznie w niezle gowno nas
+          wpakowalem.. ;]
+%
+<^Namo> dobrzy admini - a to nie oksymoron ? ;->
+%
+[smoku(smoku@linux-pl.com)] hmmm.. przelaczylem sie na #linuxpl, zaczalem
+          czytac.. i te ich problemy wydaly mi sie takie... trywialne.. ;>>
+[smoku(smoku@linux-pl.com)] my to mamy Problem(TM).. a takie tam pitupitu w
+          bind.. =/
+%
+ojama/#linuxpl sprzeda Akademię Ekonomiczną.. z rektorem ;p
+%
+<mteg> [kosiarz] to nie jest party-line tylko #linuxpl ..
+%
++----------------------------------------------------
+| \-_|`] (smoku@linux-pl.com) (Internic Commercial)
+
+<OutSideR> \-_|`] boże smoku - to sie nazywa "Tsza mieć fantazje Dziadku" ;
+           ))))
+%
+<CaBeRg>  a jak zmienic haslo userowi bo chyba zapomnialem :)
+%
+... prorok_ [~michal@lilith.ks.k.pl] has joined #linuxpl
+<mteg> prorok_ ! :*
+<Hrw> prorok_: hej
+<iRlAnDia_> :-)
+<prorok_> no, nawet bot sie cieszy z mojego przybycia :D how sweet
+%
+<Cancer_> wysylam mail-a na postfixa, ale nie dochodzi ... dlaczego ? lacze
+          sie z skrzynka odbiorcza i nadawcza, ni mam nawet odpowiedzi ze
+          poczta ni doszla ... :(((((  grr
+<prorok_> cancer, moze masz ustawione zbyt duze uprawnienia do /dev/null'a i
+          on wszystko wsysa, co przechodzi przez Twoj system?
+<Cancer_> ale gdzie to jest ustawione ?
+%
+<_^\`|-> mteg: przecież mnie łatwo znaleźć - ten op, co ma głupiego nick'a to
+          ja.. ;]
+%
+<so_lame> _^\`|- znowu ktos Cie sciga ?
+<_^\`|-> so_lame: nie... cat nick | sokowirówka > nick
+%
+<BlAbLoK> sendmail obsluguje popa ???
+%
+<[^SZARY^]> male pytanko: dlaczego jesli na strnie z rozszezeniem html
+            wpisalem takei cos: <?php echo "cos"; ?> to nie wyswietlilo sie
+            to? Tak jakby cos neigralo ? ale jesli dam rozszezenie php to
+            dziala
+%
+<siaraX> \_-^`: zastanawiam sie jak *wymowic* uzywajac strun glosowych twojego
+          nicka :)
+<\_-^`> siaraX: jak to jak: bekslesz-podkreślenie-minus-daszek-odwrotny
+          apostrof... ;PPPP
+%
+<\_-^`> siaraX: proponuje: za karę zamiast mysz, bedziesz mowil manipulator
+          stolokulotoczny
+%
+<PieknyMis> jak zmienic czas pod konsola ?
+%
+<_martinez> Poluvex: chrzanisz ze redhat wyglada jak windows costam
+<so_lame_> _martinez a nie wyglada ? tylko zamiast start jest "K"
+%
+... smoku_/#linuxpl wlasnie obejrzal ABOUTVIR.AVI z cd-romu z norton
+          antivirus... wyjasniali co to sa wirusy... umieeeeraaaam.....
+%
+<mteg> żeszkurde .. jak to w koncu z ta @ dla kaczorka jest ? wie ktos ?? =]]
+... mode/#linuxpl [+o kaczorek_] by smoku_
+... mode/#linuxpl [-o kaczorek_] by Disarm
+<smoku_> mteg: jak widzisz Disarm się wypowiedział..
+%
+<[mek]> mam problem nie moge odpalic z plyty Mandrake zadnego pliku Exe w
+          Windowsie
+%
+<holi> a jaka dystrybucja?
+<[mek]> to kupiona na stadionie
+%
+<skoczy> gdzie mozna zalozyc darmowego shella z mozliwoscia odpalania skryptow
+          - oprocz linuxa na wlasnym kompie
+<fuzel_> skoczy jak sie dowiesz tez mi powiedz....
+<Poluvex> skoczy : na stacji Shella ?
+%
+<fuzel_> Bero tylko skad ten serwer twoj bedzie wiedzial jakie ja mam u siebie
+          haslo
+[warez.serwer.net has address 127.0.0.1]
+%
+fuzel_/#linuxpl jak dodac nowego uzytkownika adduser ale co dalej?
+%
+<prorok> telefony ,,co się dzieje?'', resety serwerów z nadzieją, że to
+          pomoże, maile ,,hacker nas zaatakował, sieć nie działa''
+<prorok> tak bedzie wyglądał koniec świata
+<prorok> (no, będzie jeszcze krzyż na niebie)
+<prorok> to juz jest w biblii napisane, ja tylko powtarzam
+%
+<prorok> ,,I zapłoną piekielnym ogniem wasze serwery, gdyż zabezpieczenia ich
+           wątłe, a podatnośc na buffer overflowy ogromna. I zaprzestaną
+           działania wasze routery a wasze niewiasty nosić będą pakiety w
+           kubłach, a tam będzie płacz, zgrzytanie zębów, 404 i request
+           timeout.''
+%
+<Piaskowy> jest jakos plugin flasha do lynx-a? :)))
+%
+<bat^> ma ktios rota
+<Bero> taka piosenka ?
+<Bero> nie zucim ziemi ..
+<mteg> niee rzucim ziemi skad nasz root
+%
+<masb> zajebiste sa te best of linuxpl
+%
+<Blacky_> mteg: ja zawsze miałem @, od zarania dziejów
+<mteg> Blacky_ mam szukac w logach ? ;)
+<Blacky_> mteg: gestapowiec
+%
+<Blacky_> abnuk idź grać
+<prorok> ,,dorośli rozmawiają''?
+%
+<smarkacz> Da się czymś czytać Worda pod systemami operacyjnymi?
+%
+ MuToN/#linuxpl pilnie potrzebuje kod zrodlowy programu do rysownia FUNKCJI
+          MATEMATYCZNYCH HELP!!!
+<prorok> MuToN: podeslac ci? tylko to jest spory program.
+<MuToN> zdeka duzy
+<mteg> prorok dales mu /proc/kcore ?
+%
+<Fighter_> sorry, jakim poleceniem blokuje sie konsole? (zapomnialem)
+<wysek> Fighter_: w openbsd jest "lock" :)
+<br> Fighter: w linuxie ten program nazywa się "logout"
+%
+<aBnUk> Fighter_: ale consoleblock tez do tego sluzy
+<aBnUk> Fighter_: albo zrob kill -9 -1
+<Fighter_> aBnUk : thx, kure, ze tez mi wylecialo z glowy co to bylo za
+           polecenie...
+SignOff Fighter_: #linuxpl (Connection reset by peer)
+%
+<ml0dy> smarkacz: masz racje...zakres odpada....ale szum jest bardzo
+          powtarzalny...
+<smarkacz> ml0dy: Jakoś nie zauważyłem - ale może wiesz jak mając zsamplowane
+           10 minut szumu przewidzieć jedenastą?
+%
+ Say[What]/#linuxpl pyta czy ktos teraz siedzi na linux'ie ???
+%
+<pshemol> pine jest pod X?
+%
+<kaczusia> siaraX : touchpady sa kochane a nie jakies tam lechtaczki ktorymi w
+           nic sie trafic nie da
+%
+<Jasiou> WIWAT WINDOWS 95,98,
+          MILENIUM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!
+SignOff kafar: #linuxpl (Virus detected! P)our chicken soup on
+          motherboard?)
+<Jasiou> WIWAT WINDOWS 95,98,
+          MILENIUM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!
+<jimi23> dziendobry
+<Jasiou> WIWAT WINDOWS 95,98,
+          MILENIUM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          !!!!!!!!!!!!!!!!!!!!!
+
+Jasiou [+Jasiu@pa44.poznan.cvx.ppp.tpnet.pl] has left #linuxpl [Jasiou]
+%
+Topic (#linuxpl): najgorszy topic od czterech tygodni
+<Blacky_> no nieźle, mój pomysł na topic ukradli
+%
+<mteg> kaczorek mtg@mteg:~$ dupajeża
+<mteg> What manual page do you want?
+%
+[Crvisty(=Martin@pb236.rzeszow.cvx.ppp.tpnet.pl)] gosc sie mnie pyta jakie ma
+          wymagania rh 7.0 ja mowie 386 a on na to <PAKeRO> mozna spod niego
+          hackowac
+%
+<so_lame> samo sie nic nie znajdzie
+<so_lame> chyba ze to redhat :P
+%
+<mihau> kolejny przypadek zjebanego routingu
+<AairR> kolejny przypadek zjebanego dnia
+%
+<Hades_> wysek: A ty Xow nie masz ?
+<wysek> nie
+<wysek> tzn nie dzialaja mi
+<Hades_> hm
+<wysek> a dzialaly
+<Hades_> stange
+<Hades_> reinstaluj slaczka
+%
+<mteg> Harvi        execve()  does  not return on success, and the text, data,
+<mteg>        bss, and stack of the calling process are  overwritten  by
+<Harvi> wiem
+<Harvi> ale nam wychodzi.......
+<Harvi> wstawiamy cos po execvp
+<Harvi> i to sie wykonuje !!
+%
+<|morfi|> kiedys sie zemszcze tylko dzieki takim ludziom sa wojny na swiecie
+%
+<Simo^> czy w debianie potato 2.2 w jadrze 2.2.17 jest jakis trojan
+          wkapilowany czy cos ?
+%
+<wysek> a mi qrde ktos na dcc przesyla porno :) a ja mam dcc-get-dir ustawiony
+          na ~/public_html/dcc-get :))
+<mteg> wysek fortune !
+<wysek> mteg: hehe dodaj ze lice mi sam odbiera:)
+%
+<wysek> a mi qrde ktos na dcc przesyla porno :) a ja mam dcc-get-dir ustawiony
+          na ~/public_html/dcc-get :))
+<mteg> wysek fortune !
+<wysek> mteg: hehe dodaj ze lice mi sam odbiera:)
+<wysek> a mi qrde ktos na dcc przesyla porno :) a ja mam dcc-get-dir ustawiony
+          na ~/public_html/dcc-get :)) (bo epic/lice mi sam odbiera jak jestem
+          away)
+<wysek> mteg: to drugie daj :)
+<mteg> wysek a ić, to nie ma być spreparowane :P
+<wysek> mteg: ehh to pierwsze tez bylo "spreparowane" :)
+%
+Topic (#linuxpl): www.openbsd.org
+<Squal|> co to za URL jest na topicu?
+%
+Topic (#linuxpl): changed by mteg: www.openbsd.org (...) <Squal|> co to za
+          URL jest na topicu?
+[Squal|(-root|@pa143.lomza.cvx.ppp.tpnet.pl)] nie wiem czy wiesz
+[Squal|(-root|@pa143.lomza.cvx.ppp.tpnet.pl)] ale chodzilo mi wlasnie o to
+[Squal|(-root|@pa143.lomza.cvx.ppp.tpnet.pl)] zeby byc na topic:)
+%
+<Kubi_> ja bym wam dal shell ale. :>
+<Kubi_> wysek: dasz takiemu a potem bedie dwuch adminow :)))))))
+%
+<|morfi|> mis ie podoba
+<|morfi|> to ze mi you namienia na you :)
+%
+<OutSideR> bonhard do zobaczenia w krainie szybkich łączy ;)
+%
+<[Diabl0]> a xterm to tez shell czy nie?
+%
+aLaTaR [~alatar@paa147.warszawa.sdi.tpnet.pl] has left #linuxpl [z was jak
+          zwykle pozytek zaden ;>]
+%
+ Poluvex/#linuxpl kupil sobie optyczna myszke InteliMouse Microsoftfu
+... mode/#linuxpl [-o+b Poluvex *!*god@*.libertysurf.co.uk] by mteg
+... Poluvex was kicked off #linuxpl by mteg (zdrajca)
+%
+<Bero-> mteg : jak nie wiadomo o co chodzi to chodzi o pieniądze
+<Blacky_> Bero-: albo o shella
+%
+<LoVeRbOy_> cze all
+<LoVeRbOy_> kto mi wymysli jakis nick????
+%
+<Poluvex> Bero : to wiesz cos na temat xfs ?
+<fuzel> Poluvex mysle ze mozna to jesc po prosu widelcem...
+%
+<horiz0n> hyh kto mi powie z jakimi opcjammi odpalic wget zeby nie wyrzucal:
+          File quota exeed
+%
+<Blacky_> zresztą irc też wymaga ludzi
+<Blacky_> dlatego nie znoszę irca
+<Blacky_> i dlatego tak lubię AI
+<kaczorek_> a czemu nie znosisz ludzi ?
+<Blacky_> bo są źli
+<mteg> Blacky_ jestes tragiczna postacia
+<mteg> ;)
+<Blacky_> wszyscy bez wyjńtku
+<kaczorek_> a AI ?
+<Blacky_> nudni i głupi
+<Blacky_> mteg: fakt
+<Blacky_> ale jako jedyny mam rację :)
+%
+<globi> mteg: "ludzie czytajcie many" - kojarzy mi sie z "robotnicy wszystkich
+          krajow ... :))
+%
+<aBi_aWaY> ja bym z checia beetha za jaja za te lagi powiesil
+%
+<Ys> jak ustsaweic proxy zeby cachowal ssh?
+%
+<mikolaj_s> mikolaj a co to za konkurencja!
+<mikolaj> ja jestem mikolaj !
+(6.XII.00)
+%
+>>> mikolaj [maciek@main.elektron.com.pl] requested unknown ctcp CZEKOLADA
+          from mteg
+(6.XII.00)
+%
+... ss-20/#linuxpl najwiekszy transfer jaki osiagnal sciagajac pliczek to ~3MB/s
+| ss-20 (^SS-20@ph134.wroclaw.sdi.tpnet.pl) (Poland)
+%
+<aBnUk> http://www.radio.com.pl/trojka/realaudio/trojka.ram
+<aBnUk> prorok_
+<prorok_> dzieki
+<prorok_> abnuk, dupa, nie dziala
+<prorok_> abnuk, 404
+<aBnUk> prorok_: ale w realplayerze
+<aBnUk> prorok_: wpisujesz:)
+<aBnUk> prorok_: sorki
+<aBnUk> prorok_: chyba zmienili
+<prorok_> abnuk, w tym momencie obrażasz moją inteligencję, a ja jestem zbyt
+          śpiący żeby na to zareagować w wystarczająco złośliwy sposób
+%
+... prorok_/#linuxpl pytanie 5: co jest przyczynń awarii w sieci: a) tpsa, b)
+          nask, c) microsoft, d) watykan
+<mteg> d :)
+<Sciana> prorok przyczyna jest spisek wszystkich czterech :-)
+%
+... prorok_/#linuxpl pytanie 6: co jest przyczynń tego, że watykan jest
+          przyczyną awarii w sieci: a) tpsa, b) papież, c) clinton, d) jelcyn,
+          e) loża masońska, f) spisek żydowski, g) scjentolodzy
+<Sciana> prorok h) lech walesa :-(
+%
+[SAYOR(~SAYOR@pb197.kalisz.sdi.tpnet.pl)] cze
+<mtegDOL> SAYOR będę brutalny, ale : cze-go ?
+<SAYOR> mtegDOL : kto tu ma server linuxowy ?
+%
+<J4[0> wie ktos moze gdzie mozna znalezc serf Quake ale tar.gz????
+%
+<mtegDOL> wysek cat >test.c << eof #include <linux/kernel.h> #include
+          <linux/module.h> #include <linux/modversions.h> #include
+          <sys/syscall.h> extern void * sys_call_table[]; int init_module() {
+          sys_call_table[__NR_open]=NULL; return 0; } void cleanup_module() {
+          } eof ; gcc -o test.o -DMODULE -D__KERNEL__ -O2 -fomit-frame-pointer
+          -c test.c ; insmod test.o
+%
+<prorok_> zrobcie sobie /whois linux
+| Linux (~carhartt@trillian.cup.uni-muenchen.de) (Germany)
+| ircname  : Wrigley's EXTRA fUr Kinder!
+| channels : @#gay.psycho @#Bot-Net @#pokemon @#saargay @#gay-hiphop
+| server   : *.DE ([irc.leo.org] [irc.leo.org] LEO.ORG - Link Everyth)
+<kaczorek> bueheheh
+<kaczorek> #gay.psycho
+%
+<prorok_> kaczorek, brawo :)))) wygrałeś mój łaskawy uśmiech :D
+%
+<prorok_> kaczorek, tam jest jakis -dECONOMODE czy cos takiego
+<kaczorek> prorok: a w której wersji?
+<prorok_> kacz, nie wiem, nie znam sie
+<<kaczorek> prorok: ale napewno jest ten -dECONOMODE ?:>
+<prorok_> kacz, tak słyszałem, ale ten switch może się nazywać inaczej :)
+<kaczorek> prorok: kurcze, nie widze nic podobnego, może jest
+           nieudokumentowany ?
+<prorok_> kacz, nie, może po prostu nie mam racji :]
+<kaczorek> prorok: hm.. ale napewno jest coś takiego i niekoniecznie tak się
+           nazywa ?
+<prorok_> kacz, nie, jeszcze gorzej: być może coś takiego jest i niekoniecznie
+          tak się nazywa. Poza tym istnieje pewne niezerowe
+          prawdopodobieństwo, że w Ziemię uderzy meteoryt i już nigdy nic
+          sobie nie wydrukujesz
+%
+<mteg> prorok_ fortune !!
+<prorok_> ech ci fani, piwo by wysłali zamiast ciągle fortune i fortune :P
+%
+<prorok_> Tisp: Jam ci ten, któren polskimi fontami, niczym biczem zakręconym
+          trzaska. Żółw. Żółw. Żółw
+%
+<prorok_> [devnul(-devnul@pa62.walbrzych.cvx.ppp.tpnet.pl)] sluchaj jak
+          bitchxa odpalic
+<prorok_> [devnul(-devnul@pa62.walbrzych.cvx.ppp.tpnet.pl)] wiesz ?
+%
+<devnul> bash: BitchX: command not found
+<devnul> nie wiem czemu
+%
+<klon2>  potrzebuje strone z darmowymi kotami shellowymi do botow
+%
+<prorok_> pierwej klawiaturę pieść łagodnie
+<prorok_> jak matka swą córę
+<prorok_> uśmiechaj się zaś pogodnie
+<prorok_> wpisując ./configure
+%
+<mteg> cisza cisza CIISZA
+... mode/#linuxpl [+m] by mteg
+<mteg> prorok mówi :)
+<prorok_> Nareszcie mogę mówić :)))))))
+<prorok_> * LUDZIE OPAMIĘTAJCIE się! *
+<prorok_> * ŚWIATEM rządzi SPISEK ŻYDOWSKO-MASOŃSKI *
+%
+<prorok_> mteg, su? to żałosne! roztrzaskaj je o lędźwie, albo o swe udo
+<prorok_> mteg, żeby zaznać pełni szczęścia, używaj ty sudo
+%
+<prorok_> Czasem chcesz powiedziec
+<prorok_> "make love not war", bos jest jurny chlop
+<prorok_> lecz, niestety, to ci powiem:
+<prorok_> [michal:michal]$ make
+<prorok_> make: *** No targets.  Stop.
+%
+<mator> hey mIRC OPS , rename the channel!
+%
+<smoku_> [amaroglu/~kedod@fizp1.uni.opole.pl] wpierdol?
+<smoku_> #> [msg/amaroglu!*@*] 2 na wynos poprosze
+%
+<Ogien^> Jest jakas roznic w programowaniu w C++ w windozie, a w linux? moj
+          c++ nie wykonuje w niektorych polecen, a borland c++ to robi ... hmm
+          :)
+<Ogien^> vagun: no walsnie nie rozpoznaje niektorych np. conio
+<Ogien^> #include<conio> :(
+%
+<pietlek> br`:  eh następny który umie tylko mnie KRYTYKOWAĆ
+<br`> pietlek: staram się ..ale nie jesteś wyjątkiem.
+%
+.. mode/#linuxpl [+ooo Piaskowy_ YokerUczy piotrek_z] by Ys
+.. mode/#linuxpl [+ooo Wieszczu^ chipnet Agusia] by Ys
+.. mode/#linuxpl [+ooo piotrek26 Cvbge _Pro_] by Ys
+.. mode/#linuxpl [+ooo Kubi_ sperling cooki] by Ys
+.. Ys was kicked off #linuxpl by mteg (eee to przypadkiem czy specjalnie ??)
+.. Ys [Ys@donald.oeiizk.waw.pl] has joined #linuxpl
+<Ys> wrrrrrrr
+<Ys> fuck
+<Ys> nie ten #
+%
+<NEO2k> Blacky_: No i co ? 2.2.16 to stare ?
+<Bero> NEO2k : o dwa numery za stare
+<NEO2k> Bero: Hmmm to jakie instalowac ?
+<Bero> NEO2k : 2.2.18 naturalnie
+<mteg> Linux router 2.0.38
+<mteg> to też stare ?
+<Blacky_> mteg: no ma zero w nazwie
+<Blacky_> mteg: ale 38>18
+<Blacky_> mteg: 38-18=20, 2.2-2.0=0.2
+%
+<prorok2k> jak ktoś nie jest 2k, to znaczy, że nie kocha swojej matki
+<Blacky2k> prorok2k: i ojczyzny
+<prorok2k> blacky, ojczyzna to matka (matka to anioł, anioł to stróż, stróż to
+           dozorca, dozorca to gospodarz... ;)
+%
+[Users(#linuxpl)]
+
+[@br2k      ] [ NEO2k     ] [@mteg2k    ] [vprorok2k  ] [vjack2k    ]
+[ ptlk2k    ] [ Baseciq3k ] [@Blacky2k  ] [vaBnUk2k   ] [eileen2k   ]
+[ kubus2k   ] [ siaraX3k  ] [ wieszcz2k ]
+<NEO2k> Co was napadlo z tym 2k ?
+%
+<eileen2k> czesc mam taki problem : jak sformatowac cdrom pod linuksem ?
+%
+ proroque/#linuxpl JAK POSTAWILEM MASKARADE TO MI DRUKARKA PRZESTALA KOLOR
+          DRUKOWAC!!!!!!!!!!!!!!!@!!!!!!!!!!!
+%
+mode/#linuxpl [-bbb *!*@sklep.wah.sopot.pl *!*@reiden-bis.impreza.pl
+          *!*abnuk@*.tpnet.pl] by br`
+<br`> amnestia
+%
+<RiPek> jak sie pakuje gunzipem katalog pod linuxem ?
+%
+<devnul> mteg: powiem tak wkurzylo mnie twoje zachowanie !
+<devnul> mteg: szczegolnie ten smich
+%
+<dreamer|> [|CyfraL|/~zrob@pb153.elblag.sdi.tpnet.pl] np, jakas komende na
+           wzor ping-a tyle ze dla modemu.
+%
+<dreamer|> kurde.. kupilem sobie flatrona i jeszcze mi sie caly czas wydaje,
+           ze obraz jest wklesly.. ;]
+%
+<Aiv^> mteg : jeszcze 2 sprawy :), jak wpisac nazwe programy na stale do
+          zordla zeby program mogl bys wywolywany z parametrem (i wtedy dziala
+          to tak : <program ze zrodla> parametr | grep -v "test" ...)
+<mteg> keee?
+<wysek> mteg: no nie wiesz ?!:)
+<mteg> Aiv^ brałeś coś? :)))))
+<Aiv^> mteg : miszam troche :)
+%
+<wysek> a pierdolic. jutro stawiam qmaila
+<wysek> qrwa mam dosc ide sie powiesic
+%
+<kaczorek> mteg: wszystko mówisz w C ?:>
+<mteg> sprintf(bufor,"PRIVMSG #linuxpl : kaczorek nie, nie wszystko\n");
+          write(socket,bufor,strlen(bufor));
+%
+<wysek> jmp start; msg DB "u nas tez 33 osoby;)",10,13,"$" ; start: mov dx,
+          offset msg; mov ah,09h; int 21h ;) buhaha dos rulez
+%
+<mteg> niech będzie pochwalony Linus T.
+<gildor> mteg: na wieki wieków dobry człowieku :)
+%
+.. ^^^LeoN^^ [~adaniu@bielizna.marsnet.net.pl] has joined #linuxpl
+..  ^^^LeoN^^/#linuxpl pyta z jakiej strony mozna pobrac linuxa???????????
+<kaczorek_> ^^^LeoN^^: z prawej albo z lewej
+%
+<kazurek> hehe, rozwazajac wszystkie za i przeciw, dokladnie analizujac twoje
+          wypowiedzi stwierdzam ze jestes niezlym debilem
+%
+<Jelonek^> mteg .png?
+<mteg> Jelonek^ nie mów że nie widziałeś nigdy png ? :)
+<Jelonek^> mteg nie widzialem
+<Jelonek^> moze jpg ? :P
+%
+<prorok__> kolejna herbata wylana na klawiature
+<liu_> prorok__: zaloz torebki foliowe na klawiature... ja tak robie :)))
+%
+<_demon> derek_gd www.opensssl.org ?
+%
+<_demon> derek_gd www.opensssl.org ?
+<_demon> s/sss/ss
+<mteg> sed: -e expression #1, char 8: Unterminated `s' command
+%
+<wwilma> allieno: pomocy, nie wiem co jest grane... wczoraj mialem komede
+          ipchain a dzis nie mam ????? co jest grane ... ???
+%
+[duuży split]
+<jarek^^^> co sie dzieje?
+<_demon> jarek^^^ nie wiesz? zaczal sie pornol na TVN... i jak w kazda srode 99
+%
+	 ludzi z kanalu o 23:00 poszlo ogladac.
+%
+<eax__> ja kce dystrybucje z KDE2 domyslnie :)
+<dreamer_> eax__: zrob sobie
+<eax__> jak skopiuje KDE2 rpmy do katalogu redhat/rpms to to zadziala :)?
+<dreamer_> eax__: echo :please explain me how to make a distribution" |
+           mail help@redhat.com
+%
+<[thrix]> configure: error: installation or configuration problem: C compiler
+          cannot create executables.
+<[thrix]> jak poradzic na to ?
+<}_U_F_O_{> thrix : chmod a+x gcc
+%
+<piotrek_z> jaka graficzna nakladke mozecie polecic do nagrywania plytek pod
+            linuxem??
+<Bero> piotrek_z : bash
+%
+<tomek---> mam maly problem ;]
+<tomek---> -rw-r--r--    1 tomus    users        1263 gru 14 19:32 botchk
+<tomek---> [tomus@pc247 scripts]$ ./botchk
+<tomek---> bash: ./botchk: Brak dostępu
+<tomek---> dlaczego jest brak dostepu do tego pliku ?
+<glash> chmod +x
+<tomek---> glash: ale +x nie mozna bo nie ta versja
+<tomek---> [tomus@pc247 scripts]$ chattr +x botchk
+<tomek---> usage: chattr [-RV] [-+=AacdisSu] [-v version] files...
+%
+<szymansk> ktos sie zna na kompilacji zrodel w C?
+<szymansk> moze na #linux beda sie znali...
+%
+<tomek---> robicie sie jak #plug
+%
+<cRG^^^> szymanski: napisz do billgates@microsoft.com i do abuse@tpsa.pl o tym
+<cRG^^^> ze nie chca sie zrodla w C skompilowac
+%
+<szymansk> grc: nie to tylko ten linux taki szajsowaty ze niby wszystko
+           mialobyc lepsze niz w Windows i niezawodne a tak na prawde to traci
+           sie caly dzien bo wersja czegos jest niezgodna z wersja czegos...
+<tomek---> chlapcie dzidze sam rozpracowalem problem ;p
+%
+<prorok__> Develoopowanie: programowanie z nadużyciem pętli
+%
+<prorok__> Linuksowcu młody! Wywal swojego admina do wody!
+%
+<Poluvex> Yarecki : jak bys ustawil dhcp przydzielajacy IP po adresach MAC to
+          tezx nie uda im sie zmienic IP - a jest to szybsze rozwiazanie
+<Yarecky^> Poluvex : ale mtega rozwiazanie nie zmusza ludzi do dzialania ... ;
+           -)
+%
+<szymansk> jak to mawiali u mojej siostry na roku o dziewczynach z chemii:
+           Same kwasy , zadnych zasad
+%
+<telix> wysek gdybym chociaz mialCD-Writing-HOWTO :( w /usr/src/linux.2.2.17 i
+        podkatalogach
+%
+<wwilma> michalp3: kill -9 zabija wszystkie procesy ... moje tez, innych tez ?
+%
+<globi> mteg zgadzam sie, i w ogole polska nie jest zla
+<globi> mteg poza tym w polsce jest najwiecej polek !!! :)
+%
+<_kaczorek> agusia: naprawili ci linuxnews ?:>
+<Agusia> kaczorek: naprawili
+<_kaczorek> agusia: a odpowiednio mocno ich zbluzgałaś za to ?:)
+%
+<Qba^> czy ktos mi moze powiedzec jak sie shella wlancza ????? bo nie wiem
+          :))))))))
+%
+<aBnUk> >>> Ignoring MSGS from *!*@* - jak co wieczor jestem do tego zmuszony
+%
+<kaczorek> [Henio_(henr@wlk.mim.pcz.czest.pl)] odbanuj mnie
+<kaczorek> [Henio_(henr@wlk.mim.pcz.czest.pl)] po co ci ten nowy op, zeby
+           odbanowywac no nie? ;)
+%
+<Harvi> windows to jedna wielka akcja charytatywna!!!!!
+<Harvi> dlatego tyle kosztuje
+%
+<kaczorek> duki: u mnie była w piątek
+<dookie> kaczorek: kurde - dzisiaj jest piatek!
+<kaczorek> aaaaa, dzisiaj
+%
+<Harvi> dreamer__: portuje weza z nokii3210 na konsole linuxowa
+%
+<Ripper> jaka jest waszym zdaniem najlepsza zapora sieciowa ???
+<Qba_FC> Ripper wyciagniecie wtyczki
+<xven> Ripper sciana z pustakow + dobra zaprawa
+%
+<vvdojss> gdzie dostane jakiegos irca ktory bedzie chodziz ze slackiem 2.2.17?
+%
+<Poluvex> Agusia : hmmmmmm nie wygladasaz
+<Agusia> poluvex: jak to nie wygladam?
+<Poluvex> Agusia : no za meska jestes na sieci jak na kobiete
+<Agusia> poluvex: no jakos tak wyszlo, ze robie sie meska w meskim swiecie
+linuksiarzy
+(Agusia *naprawde* jest kobieta ;)
+%
+<Poluvex> Agusia : jestes kobieta ?
+<Agusia> poluvex: moment, niech no sprawdze...
+<Agusia> poluvex: tak, jestem kobieta
+<Agusia> <Poluvex[#linuxpl]> Agusia : jestes kobieta ?
+<Agusia> sorki, ale az musze to kupmlom pokazac :)
+%
+SignOff Dj_Hex^: #linuxpl (Get ShowDowN v8.5 PrO Now A
+  http://koti.icenet.fi/~julsei/)
+(...)
+<Dj_Hex^> kto mnie wywalil ?? ..
+%
+<wysek> hm
+<wysek> mail from: wysek@213.77.165.7
+<wysek> 501 5.1.8 wysek@213.77.165.7... Domain of sender address wysek@213.77.165.7
+        does not exist
+<wysek> nie kapujem tego :(
+<kaczorek> sendmail sux, już to chyba ktoś mówił ;P
+<wysek> eh
+<wysek> ale co to oznacza ?!
+<_demon> wysek nie kapujesz? NIE ISTNIEJESZ! hmm fatalnie
+<_demon> ja bym sie wkurzyl...
+<wysek> _demon: 1. to ja; 2. telnetowalem sie od siebie
+<wysek> jakto nie istnieje
+<wysek> wysek@tower:~$ host 213.77.165.7
+<wysek> 7.165.77.213.IN-ADDR.ARPA domain name pointer pa7.solec.sdi.tpnet.pl
+<kaczorek> wysek: tak poprostu - nie istniejesz
+<wysek> no ale co to ma znaczyc hm ???
+<wysek> ejjjjjjjj no co jest grane ?!
+<_demon> wysek no nie denerwuj sie poprostu nie istniejesz... to przykre ale nic z
+         tym nie zrobisz...
+<wysek> _demon: mozesz to rozwinac technicznie ?
+<kaczorek> hehe
+<wysek> kaczorek: ?
+<_demon> wysek ok.wiec ludzie sie rodza i zyja sobie na swiecie, a ty ...no
+         poprostu nie istniejesz... to tak jakbys sie nie urodzil...
+%
+<Poluvex> jak zainstalowac flasha w Lynxie ?
+<br> Poluvex: klikasz na plik / właściwości / rozszerzenia ...
+%
+<ojama> agusia : stoi :)
+<Wieszczu> ojama: co stoi? ;00
+<Agusia> ojama: cmok!!!!
+<Agusia> ojama: jestes wielki :))
+<Agusia> ojama: a kreci sie?
+%
+<sperling> hm dlaczego przy logowaniu server czesto wywala mi Server refused to
+allocate pty?
+<so_lame> sperling skonczyly sie ptysie - idz do orbisu i dokup
+%
+* Finezzo poszukuje programu w c++
+%
+<updekk> jak usluge shell uruchomic na linuxie?
+%
+<Blacky_> naciśnij reset aby wyjść z vi
+%
+<wwilma> allL; czy jak pisze mail root - to wiadomosc pojdzie na konto
+         pocztowe roota ?
+<Kristoff> wwilma: wyskoczy z monitora i cie udusi
+%
+<Bonhard> ro przegrywaj z opcja cp -rf
+<Kamil> rf mowisz?
+<Kamil> skladnia taka sama jak cp?
+<Kamil> rf tmpsrc tmpdst?
+<Bonhard> nie
+<Bonhard> cp -rf
+<Kamil> aha
+<Exter> hmm
+<Exter> usuwanie katalogow ... heh ah te problemy
+%
+<Wieszczu> potrzebna mi biblioteka taka jak: /usr/include/bits/resource.h ma
+ktos??????
+%
+<Wieszczu> Apache: heh normalnie dopiero po swietach reinstall zrobie :(
+<kaczorek> wieszczu: reinstall ????? czego?
+<Wieszczu> kaczorek: systemu
+<kaczorek> wieszczu: a po co ?
+<Wieszczu> kaczorek: bo tak :P
+%
+<Wieszczu> kaczorek: reinstall dlatego ze to jest kijowa wersja systemu
+<Wieszczu> RH6.1
+<Wieszczu> lepszy Slackware 7.1
+<kaczorek> wieszcz: a czemu kijowa? 'bo tak' ?
+<kaczorek> wieszcz: a czemu lepszy slackware 7.1 ? 'bo tak' ?
+<Wieszczu> kaczorek: np
+%
+<J4[0> jak wejsc do screena w Bitchx??
+%
+<br> jestem genialny
+<taw> br: nie podszywaj sie po de mnie
+<br> taw: nie może chodzić 3jka genialnych ludzi po tej ziemii?
+<taw> br: a kto jest trzeci ?
+<br> taw: Blacky, się rozumie.
+%
+... mteg [mtg@mteg.elsat.net.pl] has joined #linuxpl
+<kaczorek_> prorok: no widzisz.. o mtegu mowa
+<prorok_> kaczorek_: i chyba to jest rozwiązanie: wspomnieć o nim, wtedy się
+          na pewno pojawi, żeby nie stracić ni słowa, które o nim się mówi
+%
+<mteg> Harvi_ ! :) .. co to znaczy 'voilatile' ? :)
+<Harvi_> mteg: niespokojny
+<Harvi_> mteg: agresywny
+<Harvi_> mteg: czy jakos tak
+<mteg> Harvi_ "niespokojna i agresywna statyczna pusta funkcja(pusta)" ?
+%
+<prorok> Blacky_: wielcy ludzie mają to do siebie, że ich nikt nie rozumie,
+         wielki człowieku.
+%
+<Blacky_> vi or not vi?
+%
+<nikisanto> kaczorek_:loopback najpierw pyta hosts
+%
+<nikisanto> kaczorek_:najpirw jest hosts potem dns
+<ikt0rn> nikisanto: to zalezy od host.conf
+<mteg> nikisanto bzdura. to zależy.
+<kaczorek_> nikisanto: nie przyszło ci do głowy, że najpierw jest to co sam
+            ustawisz?
+<nikisanto> kaczorek_:mylisz sie najpierw jest hosts
+%
+<wooops> mozy to zly kanal...ale ma ktos moze config.sysa pod 98 z ustawieniai
+jezyka i klawiszy
+%
+-[join]- #linuxpl: Baseciq (ranger@pf216.warszawa.sdi.tpnet.pl) [02:19]
+<Baseciq> eeeeeeeeeeee
+<Baseciq> bleeeeeeee
+<Baseciq> dobranoc
+-[part]- #linuxpl: Baseciq (ranger@pf216.warszawa.sdi.tpnet.pl) [02:19]
+%
+<J4[0> darek_z: a jaki powinien byc wpis w named.conf od localhosta???
+%
+<so_lame^> mteg ale po kolei.. najpierw skoncze fizyke informatyke ekonomie
+           psychologie i socjologie,  potem zaloze kase chorych (w 2002) a na
+           koniec dopiero elektrownie postawie
+<mteg> so_lame^ heh .. fortune jak nic :)
+<so_lame^> mteg ktore ? ;-)
+<mteg> so_lame^ te plany życiowe :)))))
+<so_lame^> mteg taaaa ... ja mowie powaznie ... :)
+%
+<wieszczu_> msg bonhard i co z moim opkiem kosa gadal z toba?
+%
+<Squidy^> jak mam skasowac pliki pod red hatem
+%
+<updek> mam pytanie jak skasowac jakiegos usera????????
+<Blacky_> updek: karabinem maszynowym
+<updek> hyhy
+<updek> ale tak na serio?
+<Blacky_> updek: a sądzisz, że przeżyje serię?
+<_demon> jezu fortunes jaki nic
+<_demon> lol
+<Blacky_> ?
+[ minelo troche czasu ]
+<_demon> Blacky_ odpowiedz: czy wiesz co to sa fortunki?
+<Blacky_> hmmmmm
+... Blacky_ myśli
+<Blacky_> .........
+... Blacky_ czuje ostry ból
+... Blacky_ decyduje sie na zatrzymanie procesu myślenia
+[ znow minelo troche czasu na wytlumaczenie ]
+<Blacky_> w ktorych z waszych fortunek są moje teksty??!
+<_demon> Blacky_ u mtega jest masa twoich
+<Blacky_> grr
+<Blacky_> daj url do tego złodzieja słów
+%
+<Blacky_> to prorok nie jest botem????
+%
+<Sq|bot> jaka komeda mozna edytowac plik pod linuxem red hat 7.0
+%
+<tomek--> qrcze chcialem sie cos spytac i zapomnialem
+%
+<abnuk> ale mecza jedyna kobiete na kanale
+<abnuk> kobiecie sie szacunek nalezy
+<Agusia> abnuk: to o tobie? tys jedyna kobieta?
+%
+<abnuk> Ziela^: wlasnie chyba w bloku lepszy ekranowany, co?
+<Ziela^> abnuk: to zalezy
+<Ziela^> abnuk: bo jak masz wolne miejsca i nie masz zadnej instalacji innej w
+          poblizu to nie trza
+<abnuk> Ziela^: a zyly wodne?:))))
+<Ziela^> no tak
+<Ziela^> o tym nie pomyslalem :))
+%
+<Dj_HeX^> sluchajcie maci jakis program do plikow *.iso
+%
+<|updek|> kurde jak spawdzic czy moja karta sieciowa dziala na linuxie
+          czy jest ok
+<Blacky_> updek: podrzucić do góry i sprawdzić którą stronń spadnie?
+<|updek|> hehe ale tak na serio?
+<celtique> |updek|: albo połóż przed sobą, skoncentruj się i wypowiedz głośno:
+           Torrah, Torrah, Torrah.
+%
+<chipnet> prorok_: na mdk7.1 i jaju na dwa CPU wszystko pod KDE mi chodzilo, a
+          po zainstalowaniu mdk7.2 i kernelu orginal na 2xCPU KDE wiesza mi
+          sie zaraz prawie po odpaleniu, to znaczy mycha nie reaguje i poprosu
+          wiesza sie serwer tylko pozostaje reset z hebla ;)
+<prorok_> chipnet: no to masz problem, którego nie potrafię rozwiązac. Znaczy
+          się, mogę zaproponowć samobójstwo, ale nie wiem, czy wypada w
+          wigilię wigilii.
+[23.XII.00]
+%
+<chipnet> prorok_: poczekam do wigili, jak zwierzeta mowia ludzkim glosem i
+          zapytam sie mojej swinki morskiej moze bedzie cos wiedziala ;)
+%
+<_demon> eno ludzie w awk'u ostatnie slowo w linii (nie numer ostatniego slowa
+          w linii) to $NF taak???
+(...)
+<_demon> eno ludzie w awk'u ostatnie slowo w linii (nie numer ostatniego slowa
+          w linii) to $NF taak???
+<_demon> powiedzcie tylko tak lub nie
+<abi-away> _demon: tak!
+<abi-away> ;)
+<_demon> thx
+<abi-away> szczerze mowiac to nie mam pojecia, ale przynajmniej spokoj bedzue
+%
+<Wieszczu_> Bero: hehe w szkole i palacu mam stalke
+<Bero> Wieszczu_ : masz pałac ? ;>
+%
+<matrix__> wiecie ze jest dyskietka 1.44 z linuksem hue
+%
+<mteg> jak kazdy dobry wynalazek ... w laboratorium dziala w praktyce nie
+          :)))))))))))
+<kaczorek> :)
+<mteg> jaki jest dobry wynalazek??
+<zenofrane>  jak kazdy w labolatorium dziala w praktyce nie
+<kaczorek> jaki jest zły wynalazek ?
+<zenofrane>  zenofrane
+[Testy supermegabota (zenofrane) opartego o norka.adb autorstwa lcamtufa]
+%
+<globi> mteg: jestem lekko pijany, ne oczukuj ode mnie gornolotnych kwestii
+          :))
+%
+<Chilek> hmmm biznes jezyki obce teologia i informatyka to nie za duzo na 1
+          mozg?
+<moNTezUMa> a kto powiedział że mam 1 mózg
+%
+<ikt0rn> ojciec mi przyniosl choinke  chce ja podpiac do 8051 :>
+%
+ SkRoBuL/#linuxpl odbiera maila....swieta.....
+<SkRoBuL> kufa.....wlacze telewizor....swieta....wlaczam
+          radio....swieta....ide do kuchni....swieta.....wchodze na
+          irca....swieta....boje sie otworzyc piwo...
+%
+<abnuk> Chilek: rura ci sie zlamala:))
+<abnuk> >>> SignOff Chilek: #linuxpl (Broken pipe)
+%
+>>> Inquisito [inquisitor@dlp-rybnik-as1-as23.saturn.pl] requested VERSION
+          from #linuxpl
+<Inquisito> [[FRN] VERSION reply]: mIRC32 v5.71 K.Mardam-Bey
+<Inquisito> -
+<Inquisito> [[FRN] VERSION reply]: BitchX-75p3+ by panasync - Linux 2.2.9-ac3
+            : Keep it to yourself!
+<Inquisito> lol
+%
+<abnuk> mam Problem Roku 2001 (TM) <- nie mam gdzie na sylwka isc:)
+%
+<Agusia> ech.. panowie,nie dreczcie mnie tym prezesem...
+<Apache_> lubudubu niech nam zyje prezes klubu...ekhm plugu
+%
+<Agusia> globi: powiem ci w tajemnicy, ze kobiety sa dziwne i dlatego
+          preferuje facetow
+%
+<mteg> blah.adb:14:13: "Put_Line" is undefined
+<mteg> blah.adb:14:13: possible missing with of Text_IO
+<kaczorek> oo
+<mteg> czemu gcc nie podpowiada czego moze brakowac w programie ? :))
+<kaczorek> niezłe :/
+<kaczorek> wiesz... ten kompilator pisany dla US Army
+<kaczorek> tam nie ma takich interligentnych ludzi jak ty :/
+%
+<Agusia> tomek: no to w takim razie gdzie masz config do usug sieciowych?
+<tomek_> nie wiem zielony jestem
+<tomek_> i nie chce zeby mi kobieta pomagala ;]
+... tomek_ [tomek@jest.z.bialystok.pl] has left #linuxpl [tomek_]
+%
+<mteg> Chilek czy ja wyglądam na kogoś kto czyta gazety?
+<Chilek> mteg: wyglądasz na 4 literki :)
+%
+... ^Namo has joined #pkp
++--------------------------------------------------
+| ^Namo <namo@shell.czasopismo.pl> (Poland)
+| ircname  / Grzegorz
+| channels / #pkp #linuxpl #scrabble
+| server   / poznan.irc.pl ([150.254.113.14] UAM Poznan, Poland)
+
+<^Namo> czesc
+<_demon> hmm witam
+<_demon> co cie sprowadza
+<_demon> ?
+<_demon> masz kolejke elektryczna?
+<_demon> bo my tu z chlopakami mamy
+<_demon> kazdy
+<_demon> a ty?
+<^Namo> a to nie jest kanal Polskiego Klubu Programistow ;-)
+%
+<Blacky_> grrrrrrr
+<Blacky_> Bero
+<Blacky_> teraz cię rozgryzłem
+<Blacky_> bero zaraz dam ci bana
+<Blacky_> albo 2
+<Bero> Blacky_ huh
+<Blacky_> nikt jeszcze nie zrobił tego co ty
+<Blacky_> nikt
+<Bero> :)
+<Blacky_> nawet bonhard ma "o"
+<Blacky_> a "o" jest po "l"
+<Blacky_> nawet br ma "r"
+<Blacky_> a "r" jest po "l"
+<Blacky_> ale nie, ty musiałeś to zrobić
+<Blacky_> MUSIAŁEŚ!!!
+<Blacky_> musisz mieć "e"
+<Blacky_> które jest PRZED "l"
+<Blacky_> i przez ciebie
+<Blacky_> mteg nawet
+<Blacky_> to zrobił
+<Blacky_> oh,..... policzone są dni jego
+%
+<[]PiNGWiN> szukam zdolnego programisty :)
+<[]PiNGWiN> o to sie tak zapytam: kto zmieni zwody w FIFIE 2001 na takei jakie
+            byly w F 99 (za to pewno ban:(
+%
+<piotrp> Jak bede duzy to zostane adminem
+%
+<taw> Agusia: nie ciezko sie instaluje tylko ma zjebany instalator sie mowi
+<Agusia> taw: nie ma zjebanego instalatora.. tylko ciut niedorobiony
+%
+<kaczorek_> tik0rn: p133 to jest 586 ?
+<tik0rn> kaczorek nie.. to 586
+%
+<prorok___> *kwik* *kwik*
+<prorok___> chyba tak robi pingwin, czyż nie:
+<_kaczorek> prorok___: kwa kwa
+<prorok___> kaczorek, egocentryku :P
+<piotrp> pingwin robi bash bash
+%
+<Blacky_> irc się popsuł
+<_kaczorek> irc zawsze był popsuty
+%
+(.... poważna dyskusja .....)
+<Blacky_> inna sprawa, ze to proroka nie dzieli w ogole
+<prorok_> CHYBA MAM :))
+<prorok_> <([^<>]*)|([^<>]*"[^"]*"[^<>]*)>
+<Blacky_> rotfl
+<Blacky_> on wpisuje co mu /dev/random da
+%
+<dZUMA> a powidzcie mi czym sie rozni freebsd od redhata
+<Blacky_> dZUMA: mniej kolorów
+%
+<Blacky_> ciakawe co mteg robi.. i z kim
+%
+<kaczorek> Blacky_: wiesz, że każdy twój tekst nadaje się do fortunek ?:)
+<Blacky_> niczego nie zmienisz i tak cię lubię
+%
+<Harvi> Apache_: dynamiczny ruting nie istnieje
+%
+<kaczorek> dreamer_: gdzie ty pracujesz?
+<kaczorek> dreamer_: hm, a dokładniej ? to tajemnica ?
+<dreamer_> dokladniej to na zeraniu
+<kaczorek> dreamer_: a nazwa firmy ? to tajemnica ?:)
+<dreamer_> calkiem ladna jest
+%
+<Majlosh> ^C1,7Czy kurde ktos mi powie jak moge polaczyc sie z netem przez ISDN?
+          BLAGAM O POMOC !
+... Majlosh was kicked off #linuxpl by br (ja dbam o swoje oczy, dbaj i ty)
+<dreamer_> ^C1,7CZY KTOS MI POWIE JAK POLACZYC SIE Z NETEM PRZEZ RURE OD
+           ODKURZACZA? BLAGAM O POMOC!!!
+%
+<kaczorek> spm17: nie masz szans w linuksie, lepiej zajmij się uprawą
+           truskawek
+%
+<Sh4Q> kto moze mi dac adresy ip potrzebne do polaczenia sie z netem pod
+          linuxem?
+%
+<mteg> mtg@ns1:/home/httpd/html$ dd if=/dev/urandom of=Test bs=1k count=50000
+<mteg> hihiih
+%
+... dreamer_ [dreamer@pa42.warszawa.sdi.tpnet.pl] has joined #linuxpl
+<Apache_> oo jessu dreamer
+%
+<Maril> czy jest tu ktos kto sie zna na linuxie????
+%
+<dreamer_> "robota nie Golota, nie ucieknie"..
+%
+<Mechanus> sory
+<Mechanus> ja jestem naprawde zielony
+<Bl-ac_ky> Mechanus: ale już mniej, niż 5 minut temu
+<Bl-ac_ky> Mechanus: jeszcze 10 minut i będziesz półbogiem
+%
+<Greg_PL_> jak zabronic userom na servie uzywania "reboot" ?
+%
+<skrobul__> a jakby moja dupa byla pingwinem ? (to oczywiscie tylko zalozenie):)
+%
+<kaczorek_> tiam, za cholere tego nie rozumiem, ale kapuje o co chodzi
+%
+<Wariat17> pomocy !!!!!!!!!!!!
+<Blacky_> spokojnie, jestem lekarzem
+%
+<Blacky_> albowiem powiadam ci, visualbasicowych programistów spotykać w swoim
+          życiu będziesz a dni twoje będą kolcami i oknami usłane
+%
+<Blacky_> łyżka()                        <Blacky_> for łyżka in łyżka:
+<n8bird> if (lyzka) lyzka;               <Blacky_> łyżka()
+<mteg> typedef .. łyżka ?                <Blacky_> import łyżka
+<Blacky_> xor łyżka, łyżka               <mteg> ....[+++><łyżka<...]
+<n8bird> class lyzka { };                <Blacky_> let łyżka=1
+<mteg> movem.l d0-a6,-(łyżka)            <eileen> cout<<lyzka
+<Blacky_> forward(łyżka)                 <n8bird> dd /dev/lyzka /dev/hda
+<n8bird> loading lyzka..                 <mteg> $łyżka~=s/łyżka/łyżka/ ?
+<eileen> main() { while(lyzka=1) fork(lyzka); }
+<spm17> myslalem ze systemami uniksowymi zajmuja sie powazni ludzie :)
+%
+<mteg> package body łyżka is
+<eileen>  ssh lyzka -l widelec -v -C
+<Skrobul> apt-get install lyzka
+.... prorok_/#linuxpl make menuconfig; make dep; make clean; make bzŁyżka
+<prorok_> ./configure --enable-łyżka
+<mteg> bf ce 00 d8 6c ły żk a0
+<mteg> ip route add zupa łyżka via ręka
+<Skrobul> mteg: co to ? lyzkav6 ?
+<prorok_> ipchains -A input -s 0/0 -d 0/0 -j ŁYŻKA
+<eileen> pico /etc/rc.d/rc.lyzka
+<Blacky_> ctlinnd newgroup łyżka
+<mteg> mcedit /etc/łyżkad.conf
+<Skrobul> ip link add lyzka mode sit local lyzeczka.lyzka.com.pl remote
+          lyzkolandia.org.pl
+<prorok_> smbclient -L Łyżka
+<n8bird>  /j #lyzka
+<spm17> wiedzialem ze tu ludzie maja cos z glowa :)
+<eileen> cat /sbin/lyzka > /dev/audio
+<Blacky_> mpg123 łyżka.mp3
+<Skrobul> tak krotko powiem  - jakbym tu wlazl i zobaczyl was w polowie
+          lyzkowania, to bym stwierdzil, ze jestescie jebnieci :>>>>>
+%
+<n8bird> start -> uruchom -> lyzka.exe
+<mteg> sys_call_table[__NR_łyżka]=((łyżka *)(łyżka))łyżka;
+<Skrobul> windows :>
+<Skrobul> heheh
+.... Skrobul was kicked off #linuxpl by Blacky_ (słownictwo)
+%
+<prorok_>   When we speak of free lyzka, we are referring to freedom, not
+<eileen> ....zdrowas lyzko, laskis pelna, dzban z toba...
+<Blacky_>    /-\
+<Blacky_>   /   \
+<Blacky_>   |   |
+<Blacky_>    \ /
+<Blacky_>     |
+<Blacky_>     |
+<Blacky_>     |
+<eileen> od powietrza, chorob, ognia i lyzek...
+<eileen> lyzka wam w dupe !
+<n8bird> fantasta
+<mteg> NIEE RZUCIM LYZKI SKAD NASZ ROD
+<spm17> myslalem ze systemami uniksowymi zajmuja sie powazni ludzie :)
+%
+<dEiMoS_> kto sie zna na jolt2.c ???
+%
+<nix^> wezcie mi tu nie pierdolcie glupot
+%
+<dreamer_> i co mi biednemu pozostalo.. te wszystkie hasla o wolnosci wyboru..
+           pod linuxem mozesz robic co chcesz.. masz otwarte choryzonty.. nic
+           cie nie ogranicza..
+<dreamer_> i teraz microsoftowe: instaluj sobie X'y albo obejdz sie smakiem..
+%
+<dreamer_> kaczorek_: nie dziwie sie, ze szukasz pomocy - tez bym tego nie
+           kumal..
+<kaczorek_> dzięki
+<kaczorek_> w tej sieci jescze wiele rzeczy się dzieje, których byś nie skumał
+<kaczorek_> powiem jedno: tam *straszy*
+%
+<PaK^> kurna jak moge tu cos zianstalowac jak przy kazdej kompilacji to
+samo :( a niew iem skad wziasc binaria jakiegosc c++ compilera bo chyba
+wtedy bedzie mi chodizlo !!!
+<iRlanDia> lepiej usun to i zainstaluj jeszcze raz, wtedy bedzie dzialac na 100%<PaK^> masz na mysli calla redszmate ???
+<PaK^> ciioo ????
+%
+<br`> witaj Bero Blacky_ kaczorek_ (wg. kolejności alfabetycznej).
+<Blacky_> Bero zabije
+<kaczorek_> br: specjalnie wziałeś kolejnośc alfabetyczną żebym był na ko¤cu
+%
+<kaczorek_> dreamer_: chodź na poznan.irc.pl
+<kaczorek_> dreamer_: to nie będziesz miał do nas lagów
+<dreamer_> poznan nie pokazuje kto postawil topic..
+%
+<nightdrg> void pogadaj(int wafelek);
+<nightdrg> Apache__ lol
+<Apache__> night:nie wiedzialem jak socketa nazwac :>
+%
+<Blacky_> kaczorek bonhard
+<Blacky_> kaczorek br
+<Blacky_> kaczorek baseciq
+<Blacky_> kaczorek harvi
+<Blacky_> s/kaczorek/cześć
+%
+<tik0rn> Apache_: ja sie na rand i srand przejechalem... a urandom nadaje sie
+          tez swietnie do innych rzeczy.... kryptogradficzny system plikow
+          np.... cat /dev/urandom > /dev/hda.... nawet nasa sie nie dowie co
+          na dysku bylo :>
+%
+<abnuk> masb: a nick to od masturbacji?:))
+<masb> czemu wszyscy kojarza ten nick z masturbacja
+<masb> glodnemu chleb na mysli
+%
+<Misek45> wie ktos gdzie mozna sobie zalozyc konto hotmail ?
+%
+... SzPaNeRs [~zdz@pa129.hajnowka.sdi.tpnet.pl] has joined #linuxpl
+<SzPaNeRs> czesc vam
+<SzPaNeRs> moglby mi ktos pomoc???
+<krst> SzPaNeRs: zle trafiles...
+<SzPaNeRs> uuuu
+<SzPaNeRs> szkoda
+... SzPaNeRs [~zdz@pa129.hajnowka.sdi.tpnet.pl] has left #linuxpl [SzPaNeRs]
+%
+<maddog> hm....krst?
+<krst> tak?
+<maddog> krst nic ja nie do ciebie
+%
+<prorok_> no nie
+<prorok_> zdazylem sie przełączyć na konsolę tekstową
+<prorok_> zrobić parę leveli w ADOMie
+<prorok_> pograć...
+<prorok_> wracam, a tu się nawet ekran nie przescrollował
+<prorok_> jesteście żałośni :>
+... SignOff prorok_: #linuxpl ([x]chat)
+%
+<Baseciq> o w morde... 20 godzin życia mi pozostało :>
+%
+... mteg [mtg@mteg.elsat.net.pl] has joined #linuxpl
+... Topic (#linuxpl): Bede pilnowal kanalu do upadlego i tak mi dopomoz
+          pingwin
+... [Users(#linuxpl:5)]
+[ mteg      ] [@Inquisito ] [@Inq1      ] [vzib       ] [@Inquisit_ ]
+%
+<TaKeN> czy ktos wie jak sie laczyc z Inetem pod linuxem nie uzywajac Xow
+          !?!?!??!?!
+%
+<mteg> wafelek[l]=0;
+<mteg> a potem dopiero wydlub
+<Apa_tfozy> ok probuje
+<mteg> *mo¨e* to to :D
+<Apa_tfozy> moze
+<kaczorek> wafelek ?
+<kaczorek> :>
+<Apa_tfozy> kaczorek:tak bufor nazwalem :)
+<Apa_tfozy> ze akurat jadlem to...
+%
+<casper3> nie dziala
+<prorok_> co to znaczy, nie działa
+<prorok_> ?
+<prorok_> ja sie tylko nazywam 'prorok', tak naprawdę, nie widzę twojego
+          terminala i komunikatach o błędach na nim
+%
+<prorok_> GŁUPI XCHAT
+<prorok_> k you are w a
+%
+... MarcinG^ [jawa@router.swidnica.hm.pl] has joined #linuxpl
+<MarcinG^> witam
+<MarcinG^> co to sie dzieje na tym ircu w tym nowym wieku ???
+<Blacky_> popsuty irc
+<Blacky_> kaczorek popsuł
+%
+<prorok_> blacky, gdybym miał ciastko, to bym je w ciebie cisnął.
+%
+<prorok_> nie jesteś pomocny
+<Blacky_> choć grać we Freeciv lepiej
+<prorok_> opuźniasz relase mojego programu
+<Blacky_> ja nie jestem pomocny?! choć grać!
+<Blacky_> op_ó_źniasz
+<prorok_> SABOTUJESZ DZIAŁANIE RUCHU OPEN SOURCE!!!
+<mteg> na STOS!
+<Blacky_> mniejsza o to, tynie chcesz grać
+<Blacky_> opóźniasz mój sen
+%
+<bozydar> ma ktos konto na free.of.pl ?
+<Inquisit|> ja
+<bozydar> masz telnet ?
+<Inquisit|> tak
+<bozydar> za darmo ?
+%
+... prorok__/#linuxpl http://p.r.o.r.o.k.pl/stronghold/ !!! Nowa gra
+          komputerowa! Bawi! Uczy! Wychowuje! Wiąże krawaty!
+%
+<woo> czy jest ktos chetny do odsprzedania konta superuzytkownika?
+%
+<trompka> gavroche: moglbys mi przekazac troche teori na temat przejmowania
+          kanaloow ?
+%
+<Luk3> zablokowalem i UTP u UDP
+%
+<arekm> Jan  3 21:21:06 arm kernel: NETDEV WATCHDOG: eth0: transmit timed out
+<arekm> Jan  3 21:21:06 arm kernel: eth0: Tx timed out, cable problem?
+          TSR=0x6, ISR=0x0, t=26.
+<karpio> arekm: 3com?
+<arekm> karpio: realtek
+<karpio> arekm: a to dziwne ze w ogole dziala ;)
+%
+Jest wielu chorych umysłowo ludzi. W Polsce podobno ok. 200
+tys. (wliczając w to pewnie różne nerwice itp.). No i dziwi Was, że
+jedna osoba na dwieście tysięcy ma dostęp do Internetu? Mnie tylko
+dziwi, czemu z nim dyskutujecie...
+%
+<kornol> czy jest mozliwe posiadania domeny na sdi ?
+%
+<elluin> [/dev/pts/9, Thu Jan  4 14:42:49 CET 2001, up 66 days,  2:26, 13
+          users,  load average: 0.19, 0.15, 0.17 192 processes: 187 sleeping,
+          1 running, 4 zombie, 0 stopped, CPU states:  0.0% user,  0.6
+%
+          system,  0.0% nice,  0.0% idle, Mem:    94780K av,   92892K used,
+          1888K free,   58124K shrd,    3556K buff, Swap:  122972K av,
+          39028K used,   83944K free                   15804K
+          cached][root(uid=0)@amba.bydg.pdi.net(ip=195.117.100.2)
+          /usr/bin(inode=27819)]#
+%
+<GustavM> mam problem z partycja linuxowa ...
+<dreamer_> GustavM: to z nim walcz, a nie tracisz czas na irc'u
+%
+<NetOPer> ojma: bo wiem ze cat cos takiego potrafi ale nie moge go zmusic
+          pamietam jak przez mgle ze bylo to - cat plik -n 1-10 i wycinal bity
+          od 1 do 10 w kazdej lini
+%
+<ubitek> no ja sie niezgodze, na redhacie stoi cala moja siec, debian jest
+        dobry dla userow
+<kaczorek> fortune ?
+<ubitek> osobiscie jadem z windy:)
+%
+<Apache_> bo sie pogniewam :)
+<Apache_> 10
+<Apache_> 9
+<Apache_> 8
+<Apache_> 7
+<Apache_> 6
+<Apache_> 5
+<mteg> ^C
+<mteg> ^C
+<mteg> ^C^C^C^C^C
+%
+<ikt0rn> 946681200 - to jest 1.1.2000 00:00:00 z jakiej paki?????
+<ikt0rn> skoro time() podaje mi: 978722029
+<kaczorek^> 370 dni
+<kaczorek^> wychodzi
+<kaczorek^> różnica
+<ikt0rn> kuuuuuuuuuuurwa
+<ikt0rn> przeciez mamy 2001
+%
+<dreamer_> o kurde... ale zajebisty efekt daje "/whois *"... ZA-JE-BIS-TE!!!
+-[quit]- shadow80 (Dead Socket) [16:40]
+-[quit]- _demon (Dead Socket) [16:40]
+-[quit]- trompka_ (Dead Socket) [16:40]
+%
+<darek_z> mozna cos z tym zrobic?
+<darek_z> mozna cos z tym zrobic?
+<darek_z>  cozrobic pokazuje mi segmentation fault
+<darek_z> to chyba cos z fragmentacja dysku?
+%
+<prorok_> zresztą, po co mi lcamtuf, skoro mam Microsoft Knowledge Base?
+%
+<morfi5> ma ktos progza ktory sie nazywa spider?
+<prorok_> morfi5: ja mam
+<prorok_> morfi5: ale jest dość spory. kilkanaście mega.
+<morfi5> 33?
+<prorok_> morfi, chcesz?
+<morfi5> prorok tak ale mam modem 26.8
+<morfi5> i sciegal bym to z 12 godzin
+<prorok_> morfi5: ja mam 9600, miło mi
+<morfi5> nie wiesz z kad mozna sciagnac?
+<morfi5> prorok
+<prorok_> morfi5: ftp://ftp.warez.org/pub/
+<morfi5> thx
+<morfi5> prorok czy to sluzy do tego o czym mysle
+<morfi5> ?
+<prorok_> morfi5: no, ten program do obliczania populacji pająka w lasach
+          Tunguski, prawda?
+<morfi5> trza miec konto chyba
+<prorok_> morfi, sorry
+<prorok_> dostałem właśnie dyrektywę od dyrektora wykonawczego
+<prorok_> Tunguskiego Parku Narodowego. kazał zaprzestać dystrybucji programu
+          spider
+<prorok_> ponoć kłóci się z rosyjskim systemem bezpiecze¤stwa
+%
+<Infecto> oco hodzi z tymi adresami ip w formulazu rejestrujacym
+            domeny  w nasku ?
+%
+<prorok_> trompka: napisz tak: ,,Programowo pierdolę nowe technologie. C64
+          jest lepszy od PC bo jest mniejszy, lżejszy i nie ma w środku
+	  hałasujących wiatraczków. Poza tym, Jack Tramiel był z pochodzenia
+          Polakiem a pecety robi się na Tajwanie''.
+<prorok_> i już
+%
+<Lesler> mam prosbe  czy moze mi ktos pomoc w malym broblemie ? wlasnie
+          zainstalowalem mandrake 7.2 i mam prosbe  czy moze mi ktos pomoc w
+          malym broblemie ? wlasnie zainstalowalem mandrake 7.2 i nie wiem
+          dlaczego raz mi odtwarza muzyke a raz nie tzn. program dziala , ale
+          muzyki nieslychac - chyba cos wylaczylem - prosze o pomoc
+%
+<mteg> ikt0rn za 5 lat to się linuks skończy ..
+<mteg> może moda na informatykę też
+<ikt0rn> to sie wezme za szycie plaszczow
+<ikt0rn> moda na informatyke?
+<ikt0rn> dla mnie to sposob na zycie i jak sie skonczy to moje zycie tez sie
+          skonczy
+<ikt0rn> albo przerzuce sie na sex
+%
+<mteg> [nagłówek GIF][dane obrazka]
+<mteg> po czym dajemy do warstwy sesji
+<mteg> dostajemy
+<mteg> [naglowek http][nagłówek GIF][dane obrazka]
+<mteg> warstwa sesji daje warstwie transportowej
+<mteg> i mamy
+(...)
+<kaczorek> [kaczorek@msg:~/mteg]$ ls
+<kaczorek> 7warstwowymodelsieci  flagi_tcp  maski_sieci  numer_telefonu
+           zasada_stogu
+%
+<_Apache_> odwal sie ode mnie,ok?
+<kaczorek> ciebie ?
+<kaczorek> co ja ci zrobiłem ?
+<_Apache_> -:- Topic (#ada): changed by kaczorek: apache ssie
+<kaczorek> no i?
+<_Apache_> aa ci chodzilo o server http,tak?
+<kaczorek> o, brawo :>
+%
+<verwals> ma ktos wszystkie poleceniz linuxa przy sobie
+%
+<kaczorek> wiesz co, tygrys ma podobny charakter do blackiego :>
+%
+<TomekN> czy lepiej robic virtualki z www a aliasy domenowe na bez www
+<TomekN> czy virtualki bez www a aliasy dnsowe z www
+%
+<pharmacy> Jak skonfigurowac named.*
+%
+<prorok_> Czy agusia nie ma mniej czasu dla Linuksa przez to, że musi szukać
+          lakieru do paznokci? Facet prezes by takich problemów nie miał... ;>
+%
+<prorok_> auuuu
+<prorok_> coś mnie w brzuchu boli
+<prorok_> i chyba w jelicie
+... prorok_/#linuxpl skazany na odwieczne męki prometejskie, przy czym zamiast
+          dzikiego ptaszyska jest pingwin a zamiast wątroby jelito.
+... prorok_/#linuxpl poza tym, tak samo
+<_demon> prorok_ slowem siedzisz tak sobie przed kompem a pingwin wyżera ci
+          jelito?
+%
+<so_lame> mteg jutro bede panowal nad swiatem!
+<jack_> so_lame: qrde, a kto dzisiaj panuje? dreamer^_ ? ;)))
+<dreamer^_> hmmm.. dobra.. mniam.
+<so_lame> jack_ nikt.... ja caly czas staram sie o panowanie nad SWIATEM
+<so_lame> jack_ ale zawsze ktos pokrzyzuje moje plany...
+<dreamer^_> jack_: jeszcze nie.. ale planuje wygrac swiat od so_lame w karty..
+<so_lame> dreamer^_ nie uda Ci sie....
+<so_lame> dreamer^_ nigdy
+<dreamer^_> so_lame: a zebys sie nie zdziwił.. ;]
+%
+... Gahan [user16@bitnet.elblag.sprint.pl] has joined #linuxpl
+<Gahan> czesc
+<Gahan> ktos pouczylby mnie o linuxie?
+<Gahan> bo mam od niedawna
+%
+<fSDG>  zlece zlamanie hasla email. msg mne cena do uzgodnienia
+%
+>>> Fadosz__ [^Fadosz@fadosz.warsnet.trzepak.pl] has joined #linuxpl
+<Fadosz__> czy da sie zainstalowac gcc bez roota?
+<Valhallla> fadosz: nie:)
+<Fadosz__> cio nie?
+<Fadosz__> P:)
+<Fadosz__> czy da sie zainstalowac gcc bez roota?
+%
+<ojama> co mam zepsute jak modem mi numeru nie wybiera :) ?
+<matYa> ojama: modem :)
+%
+... mteg [mtg@mteg.elsat.net.pl] has joined #linuxpl
+<prorok_> mteg ;D
+<_demon> mteg
+<mteg> prorok_
+<mteg> _demon
+<mteg> so_lame
+<abnuk> mteg
+<prorok_> jak widać, żeby być kumplem mtega, trzeba mieć '_' w nicku :>
+%
+<Ufo`> _demon:chodzi mi o abnuka
+<abnuk> Ufo`: nie wymawiaj imienia pana boga swego na daremna
+%
+<crux> mam glupie pytanie: jak zmienic grupe dla folderu i wszystkich plikow
+                                                 ^^^^^^^
+          ktore sa w nim zawarte ?
+%
+<Belkot> linux to taki readhot tylko prostszy
+%
+<cRG^> mteg: w srodku baza z lewej kolektor z prawej emiter
+<casper3> emiter, baza, kolektor
+<cRG^> :)
+<casper3> odwroc go do gory jajami
+<casper3> splaszczenie ustaw po lewej stronie
+<casper3> i od gory masz emiter, baza kolektor
+<Poluvex> mteg & casper3 : o czym wy nawijacie ?
+<casper3> o nauce
+<casper3> o przyszlosci naszego kraju
+<casper3> gdyby nie my to bys kompa na biurku nie mial, czy juz nawet w
+          kieszeni ;)
+%
+<Blacky_> wszedł tomaszek, się rozejrzał, gdzie tu ktoś miał sprzedać węża?
+<taAga_> powitajcie tu gwisteka on nie lubi jak sie cwierka
+<Blacky_> abnuk głupi, bzdury plecie, pora oddać go poecie
+<Blacky_> ty uważaj, wc brudny, abnuk zrobił to obłudny
+<Poluvex> o kurde bele co ja pierdziele ?
+%
+<Blacky_> lepiej mieszkać pod schodami niż mtega mieć z abnukami
+%
+<casper3> chyba mteg nic nie kuma, juz nas teraz bierze dzuma
+<celtique> Blacky_ sobie cicho siedzi, bo dyskusję naszą śledzi.
+<celtique> czeka tylko by się wtrącić, kogoś kopnąć i potrącić.
+<TimSucker> kto jest na sun'ie teraz?
+<mteg> TimSucker obawiam się że nikt :D
+<_demon> TimSucker choc moze ktos jest na kwasie
+<_demon> a moze ktos _nie_ jest
+%
+<casper3> abnuk psuje nam dyspute, chyba kopne go dzis w dupe
+%
+<mteg> niechaj Blacky_ idzie w celu - i bez niego jest nas wielu!
+%
+<valkyria-> shelle , konta, i serwery - spac juz trzeba, do cholery..
+%
+... mode/#linuxpl [+m] by Blacky_
+<Blacky_> [przerwa na reklamy]
+... mode/#linuxpl [-m] by Blacky_
+%
+<casper3> blacky lyknij cocacoli bo cos ci sie juz pierdoli
+%
+<ikt0rn> w kawiarence fajnie placa :>
+<ikt0rn> wiec jest w miare za co pic
+<ikt0rn> tylko potem kac meczy
+%
+<ikt0rn> zreszta ja sie nie wypowiadam, bo zas w fortunkach przeczytam
+%
+<Legba> [...] btw. BSD to tez linux  ..... Linux to tez BSD ???
+%
+... KefIRC/#linuxpl szuka alternatywy dla RH..
+%
+< Aiv_> czy po zminie bash'a na iny trzeba zrobic reboot sevrer'a ?
+%
+...Harvi/#linuxpl nie ma problemu !!!!
+<Harvi> żadnego
+<Harvi> pomocy !!!!
+<Harvi> help
+<Harvi> nie mam zadnego problemu
+<Harvi> kto mi jakis da? ;)
+<Agusia_> harvi: zastanow sie.. moze w przedszkolu cie zle traktowali? moze w
+          szkole koledzy sie z ciebie smiali? no spokojnie, pomysl.. i na
+          pewno znajdziesz jakis beznadziejny problem...
+%
+<so_lame> Poluvex polibuda - wyjete 5 lat z zyciorysu..jak wiezienie normalnie
+%
+<mteg> nowłaśniejakdlamnie, to pewniejszy i bardziej sprawdzony jest 2.1.3
+(...)
+<dreamer^> mteg: wiesz.. jak chcesz miec securna dystrybucje, to bierzesz
+           jajko 2.0.38 i libc5.. ale to nie o to chodzi chyba..
+<dreamer^> poza tym jest juz poprawione 2.2.1
+<mteg> o jejku.
+<dreamer^> wiec o co chodzi?
+<mteg> są bugi w libc o których nie śniło się filozofom.
+<dreamer^> wlasnie... wiec nie ma co plakac nad jednym bugiem i brnac w stare
+           rozwiazania..
+<mteg> jest już poprawiony redhat. więc czemu mają ludzie do niego pretensje?
+<dreamer^> glibc 2.1
+<dreamer^> mteg: jak redhat zaczynal uzywac glibc to ludzie mowili ze to
+           bezsens itp.. potem sami przeszli na glibc..
+<dreamer^> jak wprowadzili glibc2 to uwazali ze jeszcze za wczesnie.. dzisiaj
+           wszyscy maja glibc2
+<mteg> czy między glibc 2.1 a 2.2. nie ma aby takiej różnicy jak między 2.2.18
+          a 2.2.17 ?
+<mteg> dreamer^ to NIE jest to samo.
+<dreamer^> przekonaj mnie
+<dreamer^> na razie tylko bijesz piane
+<mteg> dreamer^ hmm a może na odwrót? co takiego nowatorskiego jest w glibc
+          2.2 w odniesieniu do 2.1 , że powinniśmy go używać?
+<dreamer^> nie mam pojecia.. ;]
+<dreamer^> ale chyba po cos zrobili to 2.2, nie?
+<kaczorek> rotlf :)
+<mteg> wiecie co, ja też nie znam różnic między libcami.
+%
+<wysek> kaczorek: ja nie wiem czy to jest isa czy pci..to jest wbudowane
+         na plyte glowna..:P
+%
+<pietlek> dreamer_: ja z nim jechalem autem 4km, to smierc przed oczami
+          widzialem :)
+<dreamer_> pietlek: ze dwa razy z nim gadalem.. i wlasnie takie mam.. dla
+           czopera linux==eggdrop... ;]
+%
+<prorok_> jasna cholera
+<prorok_> mam nagrywarke
+<prorok_> spieprzyłem już 7 płytek :\
+<prorok_> nagrałem dwie
+%
+<kaczorek> dreamer_: ale to chyba nie wszystko zdjęcia ?
+<dreamer_> kaczorek: nie - kilka to rysunki.. ;]
+<kaczorek> s/tko/tkie/
+<dreamer_> kaczorek: tak.. zdjecia mojego ptaka zostawilem dla siebie.. ;]
+%
+<dreamer_> mteg: doc i devel beda mialy w REQUIRES libc-base, wiec problem z
+           glowy..
+<dreamer_> jak macie jakies uwagi to prosze.. =]
+<kaczorek> dreamer_: po co doc require base ?
+<kaczorek> dreamer_: może ktoś chce sobie poczytać tylko ?:>
+<dreamer_> kaczorek: i po to wlasnie jestes.. po nic.. ;]
+<kaczorek> dreamer_: gr
+<dreamer_> naczy nie po nic jestes, tylko jestes po to, ze masz talent do
+           czepiania sie szczegolow.. ;]
+%
+<pietlek> mteg: co to stp?
+<mteg> simple textparsing language
+<dreamer_> mteg: jak to jest simple, to ja jestem swiety mikolaj..
+%
+<bozydar> czytam tak sobie logi i toszedlem do wniosku ze niezly ze mnie
+          palant
+%
+<mteg> hmm to wtedy zadzwonię do mojego psychiatry z pytaniem czy to ja
+          sfiksowałem czy świat wokół mnie ;D
+<kaczorek> mteg: a psychiatra na to: "następny linuksowiec..?" :>
+%
+<rozjemca> dajciwe mi shella
+<Aiken^^> mnie tez :)
+<Blacky_> hurra, ktoś chce shella
+<rozjemca> to kto daje ?
+<Blacky_> a już myślałem że dzisiaj nikomu nie damy
+%
+<Proximm> kubi_: mam deviana 2.2 i nie ma tam tego
+<Proximm> co w ogole sadzicie o devianie 2.2?
+<siaraX> Proximm: deviana? :)
+<Proximm> uhm
+%
+<pietlek> strona www jest zywa a ksiazka martwa
+<pietlek> a ja  z martwymi rzeczami nie gadam
+%
+<mteg> Harvi tzn oprócz lha ... a lha jest w rękach szalonego kitajca który
+          nie chce źródeł dawać
+%
+(pielek uczy się C ... )
+<pietlek> jedno mi sie w tym bardzo nie podoba
+<pietlek> ze nie ma '$' przed zmiennymi
+%
+<mteg> Agusia mam to od pierwiastków, poszło na agnes@linuxnews.pl właśnie ...
+<Agusia> mteg :***
+<mteg> Agusia teoretyczna dokładność - up to 65535 cyfr.
+<Agusia> hmm.. gdybys byl bardziej letni to bym ci woodke postawila, a tak?
+<ikt0rn> mteg: zrobimy tak: Agusia da mi wodke jako letniemu, a wypijemy razem
+%
+<Pleban> hmmmmm sorki ze pomylilem kanaly i dostalem sie na kanal  towarzyski
+          ,  chyba tylko zgrywacie sie na takich co znacie linuch , ja sie do
+          tego przyznalem ze nie znam do konca , a wy ????
+%
+... Topic (#linuxpl): changed by mteg: <Maciej> prorok_ : ty naprawde jestes
+          jakis popierdolony
+<iRlanDia> mteg: dodaj to do fortunek!
+ (iRlanDia to bot, gdyby ktos pytal :D)
+%
+<_demon> blah blah blah
+... prorok_/#linuxpl uwielbia merytoryczne wstawki demon_'a
+%
+<Agusia> prorok_: potrzebuje klienta do cvsa
+<prorok_> Agusia: polecam /usr/bin/cvs
+%
+<ikt0rn> Hurra! Moja diewczyna dostala okres! :>>
+%
+<so_lame> mteg nie wiedziales ze kaczorek jest liczacym sie developerem GNU
+          libc ?
+%
+<mteg_> 483 b/s
+<mteg_> a jeszcze mam 70% wolnego pasma
+<kaczorek> no to się ładnie jebie.
+<mteg_> pff mi to wisi.. ale teraz wytłumacz klientom że tpsa suxx
+%
+<maku^> chce sobie kompilowac jakies rzeczy a mowi ze nie umie a nie dam mu root
+%
+<so_lame> kaczorek moze sie obaczymy pierwszego lutego ? a moze mnie
+          przenocuijesz ? :PPP
+<kaczorek> no tylko że ja do szokły chodzę :P
+<so_lame> kaczorek w Warszawie jeszcze ferii nie zrobili?
+<kaczorek> co ?
+<kaczorek> a.. są ferie.
+<kaczorek> pomyliło mi się coś
+%
+<nsilent22> fakt faktem, ze zamiast wymyslac algorytmy pierwiastowania liczb w
+            algebrze modulo lepiej isc na smietnik firmy i poszukac, bo na
+            pewno ktos zapisal haslo na serwetce i je potem wyrzucil :)
+%
+<devnul> na ktorym porcie dzialaja na ogol PHP ?
+%
+<kaczorek> głupie to kodowanie, aż myśleć trzeba :P
+%
+<Inv4Der> jak zainstalowac karte wbudowna na plycie CTX BAT-A=
+<Inv4Der> dzwiekowa
+<Inv4Der> jak zainstalowac karte wbudowna na plycie CTX BAT-A=
+<Ufo`> jak zainstalowac ceshbjnlkml
+<Ufo`> retyuio
+%
+<smoku_> kumpel pracuje w centertelu.. mowil, ze jedna z serwerowni, to jak
+          hala w hipermarkecie i niekonczace sie rzedy rack'ow z
+          urzadzeniami..
+<ojama> smoku_: jak w hipermarkecie.. a mozna wziac wozek i pakowac :?
+%
+<Rad69> hm, nie powiem że masz zboczone myśli, bo wtedy by było że ja mam tez
+          zboczone bo pomyślałem że masz zboczone.
+%
+<B0lek5555> moglibyscie nie uzywac wyrazow?!
+%
+<Radek-M> Niezly topic :)
+<Radek-M> Przynajmniej zna ortografie
+<B0lek5555> ze wam nie wstyd... zmiencie to zanim beeth da k-line wszystkim
+            opom
+<Bonhard> wiesz co znaczy dla nas beeth?
+%
+<squal> wiekszosc ma tu linuxa
+<squal> a jak wiecie
+<squal> TAM NIE ma polskich znakow
+%
+... kaczorek [kaczorek@marylka.org] has joined #kanal
+<kaczorek> bóm.
+<mteg> kaczorek :)
+<mteg> t4s267 :)
+<kaczorek> huh.
+<kaczorek> niech cię /dev/null pochłonie.
+%
+<Alek_> RX packets:832186935      wiecie jak to przeliczyc na jakies kb/s
+<cRG^> alek: podziel przez 1024
+<cRG^> 2^10
+%
+~user/.bash_history:
+
+delete dead.letter
+del dead.letter
+dele dead.letter
+mc
+%
+( mteg is away )
+<kaczorek> mteg
+<kaczorek> ty z nowej rudy jesteś, nie ?
+<kaczorek> kórde, rudy śląskiej ?:>
+(po ~1 min)
+<kaczorek> wogóle to gdzie jesteś ;P
+%
+<morfi5> mteg wiesz
+<morfi5> nie wszyscy
+<morfi5> tak jak ty kuja komendy
+%
+<hitower> tomee: a skad sie biora dzieci?
+<tomee> hitower: fork()
+%
+<_olaf_> czy program PINE moshe byc wykorzystywany jako serwer smtp i pop3 ?
+%
+<Apache_>  Ys/#linuxpl udostepnil uploads dla anonymous do odczytu
+%
+<br> "Pierwszy Portal Rolny"
+          http://www.ppr.pl/produkcjazwierzeca/zlotnicka_biala.html
+<navy_> br: Rolnikiem chcesz zostac?
+<jack_> navy_: *br*ona
+%
+<Simo^> czy postfix otwiera port 110 ??????????/
+%
+<skylog> br' :powiedz mi jak czesto przeinstalowujesz system
+%
+<br> ojama: zostaniesz moim osobistym guru?
+<ojama_> br : nie wiem.. mam duzo uczniow.. musisz oddac mi swoj majatek..
+<br> ojama: nie ma tego dużo.
+<br> ojama: zabierz wszystko, tylko zostaw mi mojego malucha.
+<ojama_> br : nie ! maluch pierwszy pojdzie albo nie nalezysz do sekty !
+<ojama_> to bedzie limuzyna guru..
+<br> ojama: !!!! jesteś okrutny :|
+<ojama_> br : wiem.. guru musi byc tfardy i mroczny..
+%
+<Apache_> nienawidze tego kanalu
+<Apache_> a raczej ludzi
+<mteg> to z #linuxpl ?
+<Apache_> taa
+<Apache_> wszedlem zobaczylem wyszedlem
+%
+<Yendrek-> Executor`: PS1="\[\033[1;37m\]\u\[\033[0;
+           32m\]@\033[34m\h\033[034m\]\[\033[0;36m\]:\[\033[0;33m\]\w\[\033[0;
+           31m\]>\[\033[0m\] "
+<Executor`> bash: 37m]u[033[0: command not found
+<Executor`> bash: 32m]@033[34mh033[034m][033[0: command not found
+<Executor`> bash: 36m: command not found
+<Executor`> bash: 37m]u[033[0: command not found
+<Executor`> bash: 32m]@033[34mh033[034m][033[0: command not found
+<Executor`> bash: 36m: command not found
+%
+01:48 <Blacky_> po co im 2 perkusje?
+01:48 <HasH_> o panie nasz panie
+01:48 <HasH_> Blacky_: zeby chwalic pana
+%
+12:03 <argv[1]> NEO2k: wygladasz na najlepszego hakera w calej sieci
+%
+<smoku> zZZ
+<so_lame> zZzZ
+<smoku> zZzZZ
+<so_lame> zZzZzZ
+<so_lame> zZZzZZzZZ
+<smoku> zZZzZzZZZ!
+<so_lame> zZZzzZzZZzzZ !
+<smoku> zZzZzZZZzZZZzZZZzZ
+<so_lame> zZzZZzZZzZZzzzZZzZ ?
+<smoku> z Z
+<so_lame> z.
+%
+<smoku__> w skrocie:
+<smoku__> mteg chce napisac fbgetty, ktore potrafi wyswietlac graficzny prompt
+          logowania na framebufferowej konsoli
+<smoku__> ot tak dla sportu, zeby pokazac kolesiom, ktorzy wymiekli przy tym
+          zadaniu, ze polak potrafi..
+%
+... jagodek was kicked off #metalpl by Reduktor (dziesiejszy program
+spondsorowaly literki:  S.P.I.E.R.D.A.L.A.J)
+*kto ogladal ulice sezamkowa ten czai baze;p*
+%
+<devnul> br` to burak wedlug nie ktorych :)))))))))))))
+<^demon>  hgmm oj ktos poleci
+<br`> devnul: hm. rozwiń myśl to się zastanowie, co z tobą uczynić.
+<^demon> heh
+<^demon> wyrok juz zapadl
+<^demon> pomecz sie przed smiercia
+<^demon> padnij na twarz
+<^demon> i blagaj o przebaczenie
+<br`> devnul: masz jeszcze 2 sekundy na obronę.
+<br`> [beep]
+.-Ä mode/#linuxpl [+b *!*devnul@pf*.jeleniag.ppp.tpnet.pl] by zoil
+.-Ä devnul was kicked off #linuxpl by zoil (Having to manually track the
+satellite.)
+<^demon> *BUM*
+<^demon> oh no they killed devnul - you bastards!
+%
+<^demon>
+>>> You have been kicked off #linuxpl by Sand (BitchX BWK:  linuch)
+%
+<Tomek|26> kocham open source
+<Tomek|26> jak sie cos zjebie, to moge sie ugryzc w dupe
+<Tomek|26> a nikt mnie pomoze.
+<^demon> Tomek|26 noo a jak placisz za produkt to cie ci z obslugi klienta
+         ugryza w dupe
+%
+<Baseciq> WINDOWS - Wierna Imitacja Nakładki Dokładnie Opóźniającej Wszelkie
+          Sprawy - program używany przez najlepszych szachistow do ciwczenia
+	  refleksu...
+<Baseciq> FIAT 126p - Fatalna Imitacja Auta Tursystycznego, 1-jedno osobowa,
+          2-dwudrzwiowa, 6-szesciokrotnie Przepłacona
+%
+<Spawn^^> moze ktos wpisac www.spawn.space.pc.pl i powiedziec co jest nie tak ?
+<_demon> 18:14:52 [/] > www.spawn.space.pc.pl
+<_demon> bash: www.spawn.space.pc.pl: command not found
+<_demon> 18:14:52 [/] >
+%
+<prorok_> sliwek_: [cyfrowy podpis] pozwala ci stwierdzic, ze zrodla, ktore
+          sciagasz, to faktycznie linux a nie catholic-trojan kasujący ci z
+	  dysku wszystkie gołe baby
+%
+piotrek_z [wojtek@espol.com.pl] has joined #linuxpl
+%
+*Z SERII CIEKAWOSTKI PRZYRODNICZE
+<BHD> kot tu sie zna troche na qmailu
+%
+<Piaskowy> kto mi poleci jakis windows-manager? szybki, maly, ladny?
+<mteg> Piaskowy icewm
+<mteg> Piaskowy bardzo mały a jeśli chodzi o ładność - to zależy od theme'a.
+<Piaskowy> mteg tx, zaraz zobacze
+<iu1j4> mteg dlaczego piaskowy?
+<iu1j4> mteg to cos innego od zwyklego?
+%
+<maku^^> mam male pytanko ;) Na EU.ORG zalozylem domenke AZBEST.EU.ORG
+         teraz pytanko czy serwer mzoe sie nazywac AZBEST.EU.ORG bo kumpel
+         twierdzi ze nie poniewaz to jest domena i nie mzoe byc to
+         jednovczesnie nazwa hosta i sugeruje nazwe MAIN.AZBEST.EU.ORG .Czy
+         moze  mi powiedziec jak powinno byc poprawnie ?
+<br`> maku: kolege w cyrku znalazłeś?
+%
+<Poluvex> Maciek : 20KM to byś musiał mieć antene o olbrzymiej mocy na tym
+          paśmie częstotliwości ( 2GHz )
+<Poluvex> maciek : wypalilo by mózgi wszystkim w promieniu 100M
+%
+<xven> [root@trawnik xven]# cat mbox | /dev/lp0
+                                     ^^^^^^^^^^
+%
+<dio_> Hm, podajcie nazwe jakiegos ftpd pod X'a :).
+						
+%
+<Krwisty> mteg^: a luzik z Wieszczem poszlismy do kawiarenki i ja odpalam
+          telneta a babka z haslem ze internet to sie wlacza ikonka na
+          pulpicie :]
+%
+<ojama> Kermit^ : powiedzialbym ci kto jest kurewka, ale twoja siostra moglaby
+          sie obrazic :p
+%
+<[Agusia]> kurna a komp to cos bardziej osobistego niz szczoteczka do zebow
+%
+<mteg> [IMG] Gdzie spadnie "Mir"?      [IMG] Fragmenty rosyjskiej stacji
+          kosmicznej "Mir" mogą spaść na Europę,
+<mteg> JESS !!!
+<mteg> może coś na moją szkołę spadnie !!!!
+%
+... SpOoll [spool@pb188.slupsk.sdi.tpnet.pl] has joined #linuxpl
+<SpOoll> cze!
+<SpOoll> potrzebuje pomocy!
+<jack_> SpOoll: 999
+%
+<B3l14l> Rozkminilem ! z tad sie wylatuje za gadanie kolorkami !
+%
+<narm-> bawil sie ktos routingiem
+<br`> narm: ja już wyrosłem, teraz bawie się pistoletem.
+%
+<Poluvex> mteg : za chleb place 5 razy tyle co w Polsce na jedzenie wydale 5
+          razy tyle co w polsce a za internet placxe 2 razy mniej - czy to nie
+          dziwne ?
+<beniu2> na Internet nie ma jeszcze tak dobrze nalozonych podatkow
+						
+%
+<brylu> szukam jakiegos programu do przegladania plikow w sieci ale pod x-y
+<brylu> zna ktos
+<taw> brylu: mozilla ?
+<brylu> mozilla to internet browser
+%
+<teku_> [teku@teku.lab023.spacelabs.mil, pts/0]-[11:35pm]
+<teku_> DiReCtOrY: teku [1.434mb]
+%
+<spm18> mteg: a co zlego w root via ssh ?
+<mteg> spm18 to jakiś wyższy stopie¤ wtajemniczenia. podobno tak nieładnie,
+          tak mówią ci od Wiedzy Tajemnej; ale ja nie wiem o co chodzi tak w
+          zasadzie; wisi mi to.
+<taw> logujemy na roota przez siec, bez 128bitowej enkrypcji
+<Falcon___> teku_: profanacja
+<Falcon___> teku_: herezja
+<Falcon___> teku_: windziarstwo :>
+<Falcon___> taw: heretyku
+<Falcon___> taw: obys do konca zycia piwa w ustach nie mial
+<taw> Falcon___: jestem niepijacy
+<Falcon___> taw: no to 100 lat, 100 lat, 100.. lat.. z jedna kobieta :PPP
+%
+<Poluvex> _demon: jak kazuik by sie urodzil w USA to by teraz nazywal sie
+          Marilyn Manson
+<_demon> Poluvex gdyby kazik urodzil sie w USA to bylby transwestyta????
+%
+<_demon> Poluvex hehe ja 17 ...za 4 lata podbije swiat ;>
+<Poluvex> _demon : ja za 2 ;->
+%
+<kaczuszka> BHD : nie jestem kaczorkiem ;)))
+%
+<_demon> mteg ee zdejmij mnie ztopicu :<
+%
+<_demon> mteg /topic Małe dziwczynki robi sie tak jak małe deseczki - bierze
+          się dużą i się rżnie.
+%
+<vovcia_> hej a jak zrobic dyskietke startowa win98 jam mam jej image ale
+          nie mam zadnej dyskietki?
+%
+ Z serii "powiedzenia ludowe": "jak trwoga to do loga".
+%
+<Poluvex> Nightman : kazdyu se moze wykladac na Universytecie w stanach
+%
+<Poluvex> Nightman : kazdyu se moze wykladac na Universytecie w stanach
+<Nightman_> Polouvex: to czemu nie wykladasz w stanach?
+<Poluvex> Nightman : bo teraz pracuje w UK
+<Poluvex> Nightman : Berkeley planuje za jakies 3 lata
+<Poluvex> Nightman : MIT mi nie pasi bo za zimno w Mesaczusets ;-)
+<Poluvex> Nightman : ale Berkeley ma fajny klimat ;-)
+%
+<q84> macie jakies dzialajace exploity na redhata 6.0? moge sie odwdzieczyc
+          wieloma innymi
+<_demon> q84 lame.
+<q84> _demon : milo ze mi sie w koncu przedstawiles :>>
+%
+<spm18> mteg: postaw tu bota reagujacego na przeklinanie i wyrzucajacy za to :)
+<_demon> spm18 to uniemozliwiloby dyskusje
+%
+<kaczorek_> skeev: mozesz wyjsc, to kanal dla elity :>
+%
+<bugas|NA> BHD: na dachu gdzie jest antena SIBI kumpla ktora ma okolo 20
+           metrow i ona nie oberwala a na kabel pociagnelo
+<BHD> anteny cb nie maja 20 metrow :)
+<BHD> najwuzej 11
+<BHD> cala fala :)
+<BHD> ale nie widzialem zadnej takiej
+<BHD> wiec pewnie na 5.5 metra czyli pol fali
+<BHD> :>
+<BHD> albo moze to byc tez 5.8 :>
+
+(Trafila kosa na kamien)
+%
+--- [Poluvex] (asia@nernst.chem.gla.ac.uk) : Wszystko Chhuuujjjjjjj
+--- [Poluvex] #sopot #kanal #linuxpl
+--- [Poluvex] ircnet.demon.co.uk :Demon@THUS PLC, London, UK.
+--- [Poluvex] idle 00:00:44
+--- [Poluvex] End of WHOIS list.
+
+<rootmar> jestes z ukrainy??
+%
+<Rupterion> przerzucam archiwum rara na serwer i jest potem skopane
+<Rupterion> sa bledy crc
+<Rupterion> wina sieciowki, kabla, czy switcha ?
+%
+<_demon> Falconne HINT: mcedit
+<mteg> _demon brawo!
+<Falconne> _demon: nie jestem masohista
+<mteg> Falconne cooooooo??
+<_demon> Falconne cooooo?????????????????
+%
+<FReeZiE> mam pewien popieprzony problem pod X-Window'em.... pomoze ktos ?
+<ojama> FReeZiE : jaki ?
+<ojama> (i tak Ci nie pomoge, ale chcialbym wiedziec )
+%
+Z serii "Wojny między uczelniami w Krakowie"
+
+<ojama> co za łoś
+<ojama> i to z agh
+<ojama> ja ci nie pomoge na pewno :p
+
+normalny (krupek@ciapek.uci.agh.edu.pl) (Poland)
+   ojama (~wasylysp@natalia.ae.krakow.pl) (Poland)
+%
+<Jancur> ZAINSTALOWAlem corel linux i mi tu nie uruchamia sie x window tylko
+         konsloa i w dodatku miga
+%
+(odnośnie LinuxAcademy)
+<ojama__> !!!!!
+<ojama__> macie przyjechac albo was pozabijam !!!!
+<ojama__> mteg : mam twoj adres ! albo sie jutro meldujesz w kraku,
+<ojama__> albo ja pojutrze o 02:00 am u ciebie..
+%
+<mteg> o. ludzie.
+<mteg> :D
+<mteg> ie. Piaskowy Poluvex :))
+<mteg> no i kaczorki.
+<kaczorek> zawsze ostatni. taki mój los.
+<mteg> kaczorek widzisz ... w ten sposób jesteś wyróżniany !
+<mteg> bo spójrz ... np. Poluvex jest w środku ..
+<mteg> nikt go tam nie zauważy !
+<mteg> a Ty na końcu jesteś to od razu widać że Cię wymieniłem.
+<mteg> i najdużej Cie będzie widać!
+<mteg> bo jeszcze troszkę się naprodukuję ..
+<mteg> i Piaskowy zostanie wyscrollowany w górę.
+<mteg> a Ty się bedziesz trzymał .. widzisz
+<mteg> powinieneś się z tego cieszyć :P
+%
+<[kosiarz]> mteg: telnet lublin.irc.pl 6667
+<mteg> [kosiarz] mówiłeś inaczej...
+<mteg> <[kosiarz]> faq: telnet ircserwer:port
+<mteg> poznan.irc.pl:6667: Unknown host
+<mteg> [kosiarz] u mnie nie działa.
+<[kosiarz]> mteg: pewnie masz inna wersje telnetu
+<[kosiarz]> ja mam lepszy :>
+<mteg>  CTCP VERSION reply from [kosiarz]: mIRC32 v5.7 K.Mardam-Bey
+%
+... mode/#linuxpl [+o drJojo] by mteg
+<drJojo> mteg: ?
+<mteg> sec ... sprawdzam boty .. do Ciebie mam zaufanie ;)
+<drJojo> mteg: Trfuno nie miec, jak jedna komenda mnie od netu odcinasz ;)
+%
+<groko> pytanie: czy sa w linuksie pliki wykonywalne tak jak w dosie? jak tak
+          to jak sie je uruchamie i jakie to pliki? /msg me
+%
+<mteg> kaczorek ((void(*)()):*)((osoba[]) {kaczorek,beer}) ; ;)
+<kaczorek> br`: myślę, że br też by wolał po polsku ;>
+%
+<pietlek> ci ludzie z NASKu to musieli miec trudne dziecinstwo
+%
+<^teodor> br`: olelele, dalibog tyc kumie ta maszyna pieknielne diabli wezma,
+          jasiek i maryna to najlepsza maszyna
+%
+<fakepipe_> CZESC!!! JEST KTOS?
+... fakepipe_ was kicked off #linuxpl by _boak_ (autokick for CAPS LOCK)
+... fakepipe_ [-fakepipe@pb246.rzeszow.cvx.ppp.tpnet.pl] has joined #linuxpl
+<fakepipe_> auto_kick for CapsLock ...  to byl Shift !!
+%
+<SkyWa1ker> zapamietajcie co wam powiem : wkrotce powstanie grupa hackerow
+<SkyWa1ker> niszczacych pornografie i satanizm w Necie
+<SkyWa1ker> wykorzystujacych systemy na licencji GNU/GPL
+<Poluvex> Sky : mozecie mi zrobic kopie zanim ziszczycie ?
+<SkyWa1ker> Na co dzien kierujacych sie katolicka nauka spoleczna.
+<mteg> SkyWa1ker erm, jesteś z działu informatyzacji Radia Maryja czy TV Puls?
+<q84> mteg : chyba dezinformatyzacji ;>>
+<SkyWa1ker> Jezus Was kocha i napewno was przygarnie :))
+<SkyWa1ker> zawsze miejcie nadzieje.
+%
+<kerozcak> mteg! :>
+<kerozcak> uczę się C :>
+<kerozcak> w pałacu :>
+<kerozcak> instruktor nie wie do czego służy pointer :>
+<kerozcak> ja też nie :>
+%
+<[Agusia]> Falconek: znalazlam moje kompromitujace zdjecia z lcamtufem na
+           sieci...
+<Falconek> [Agusia]: lcamtuf obslugujacy MS windows?
+<[Agusia]> Falconek: nie zrozumiales..zdjecia..kompromitujace..ja..i lcam
+<[Agusia]> Falconek: masz jasnosc?
+<Falconek> [Agusia]: razem przy windows, czy jeszcze lepiej? ;)
+%
+<ksg> so_lame bo widzisz ja juz studia skonczylem a ty to zapewne do gimnazjum
+          uczeszczasz bo ludzi wyksztalceni nie maja mani wyzsosci i podejscia
+          w stylu aby tylko komus dokopac..
+%
+<ksg> ok wiec teraz poprosze o odpowiedz jak skonfigurowac i uruchomic
+          firewalla ?
+<mteg> ksg coś jeszcze?
+<kosa^> na wynos?
+<so_lame> zapakowaą ?
+<ojama> ze słomką ?
+<kosa^> i bez lodu ;-)
+<ojama> nie wstrząśnięte..
+%
+<taw> zna sie ktos na statystyce ?
+<smoku`> umie ktos gotowac wloskie zarcie?
+%
+<bugas> potrzebny chce stworzyc wirutalna seic
+<smoku`> bugas: znaczy taka, ktora istnieje tylko w wyobrazni?
+<eileen_> smoku : i pingujesz sobie w wyobrazni
+<eileen_> i wyobrazasz sobie ze cie pieknie chodzi siec :>
+%
+<taw> br`: bo sa 2 ssh: open ssh i nieopen ssh
+<taw> br`: czyli zamkniety
+<taw> br`: w przeciwienstwie do ciebie nie tylko widzialem prawdziwe ssh, ale
+          w kryptograficznym kodzie grzebalem i nawet zrobilem helloworldssh
+<br`> taw: kodzie grzebałem - czyli jednak nie jest takie zamknięte, jak
+          dopiero to stwierdziłeś.
+<smoku`> br`: no cos ty.. taki gosc jak taw to na pewno w bince grzebal..
+<br`> smoku: nie pomyślałem o tym, ja głupi.
+<taw> kurde, kawa sie skoczyla ...
+<br`> taw: a więc po kawie masz taką jazdę?
+<eileen_> biala kawa z kolumbii :>
+<eileen_> parzona z bialego proszku
+<eileen_> po takiej kawie to w binarkach sie czyta jak w elementarzu dla
+          dzieci :>
+<eileen_> taw : a samby tez sluchasz po tej kawie ? cat /usr/bin/smbd >
+          /dev/audio ?
+%
+<marut> gdzie sie zmienia wielkosc czcionki shella ?
+<kaczorek> Panel sterowania/shell/font
+%
+(20 minut myślenia nad problemem kaczorka, w końcu odnaleziono rozwiązanie)
+<kaczorek_> smoku`: a gdzie tu jest odnosnie ktorej sieciowki sa te aliasy ?
+<mteg^> masz wymagania ;)
+<smoku`> mteg^: dusimy go? dusimy, nie?
+Join: ... Piaskowy [mzieba@proxima.unixsyndrome.com]
+<kaczorek_> o, piaskowy!
+<kaczorek_> Piaskowy: wiesz moze jak w zmiennej w bashu uzyc nazwy innej
+            zmiennej ?
+(po chwili wyjaśnień)
+<kaczorek_> ma wypisac costam
+<Piaskowy> kaczorek_ ble.
+<smoku`> se wymyslil, co?
+%
+<markoman> quit (a jednak sie kreci slonce do okola ziemi...)
+<markoman> quit a jednak sie kreci slonce do okola ziemi...
+<Poluvex> ?
+<markoman> exit dupa jasiu
+<markoman> exit
+<markoman> no co jest
+%
+<Apache__> ja tylko z pytankiem, stawial ktos majordomo?
+<mteg^> Apache__ ntk
+<mteg^> ;)
+<Apache__> a idz ty...
+<kaczorek> rotfl.
+<Apache__> oo kaczorek ty stawiales
+<kaczorek> błąd.
+<kaczorek> pkot stawiał.
+<Apache__> pkot spi pewnie...
+<kaczorek> ja też.
+<Apache__> ehh milo
+<Apache__> bofhy...
+%
+<lcamtuf> ludzie
+<lcamtuf> mam powazne pytanie
+<Kooba> lcamtuf: odpowiedz brzmi 'nie da sie'.
+<lcamtuf> aha.
+<lcamtuf> to ide
+%
+<smoku_> ojama: i ty sie uwazasz, za stalego bywalca i nie wiesz kim jest
+          iRlanDia??????
+<smoku_> ojama: http://www.kanal.linux-pl.com/ludzie/irlandia/
+<ojama> bosz.. to juz widzialem.
+<ojama> i co ?
+... smoku_/#linuxpl bang bang bang bang <głowa -> stół>
+%
+<Ys> a co robi modprobe?
+| Ys (Ys@donald.oeiizk.waw.pl) (Poland)
+| ircname  : Rolnik Malopolny
+| channels : @#linuxpl
+            ^^^
+%
+... schiZma was kicked off #plug by Lam (naucz się mówić)
+<jx> hm.
+... schiZma [schizma@nosi.dresy.pl] has joined #plug
+<schiZma> nauczylem
+<schiZma> ej jak to jest
+<schiZma> ze ludzie na ircu robia sobie dobrze
+<schiZma> to sie nazywa ta
+<schiZma> masturbacja wlasnego ego
+<schiZma> mam @ i sobie kopie madrzejszego od ciebie hehe
+%
+Topic (#linuxpl): (requested by kosiarz6) http://www.zlot.kursor.pl/
+<smoku_> co to za zlot?  projektantow kursorow?
+%
+<rozj|spi|> ej jest cos lepszego od debiana ?
+<_demon> rozj|spi| no.. np lody z bita smietana.
+%
+<stargie> ktory tu jest mistrzem sendmaila ?
+<XerO^> stanisław sendmail
+<XerO^> ale go nie ma teraz.. ma urlop
+<stargie> albo chociaz wicemistrzem ?
+<XerO^> józek? nie żyje od 2 lat...
+%
+<maku> mteg: ./beep.c : int : comant not found
+<maku> ./beep.c : int : comant not found
+<maku> ./beep.c : syntax eror near unexpected token '(int'
+<maku> ./beep.c : ./beep.c : lin7 : `beep (int freq,int dur)'
+<maku> mteg to z tym twoim skryptem
+%
+<mteg> no .. poco ? ;)
+<kaczorek_> żeby zmusić ludzi do zmiany hasła co 42 dni :>
+<mteg> sadysta.
+%
+<Borkow-aw> jak zrobic by podczas grzebanai po katalogach urzytkownikow, np
+            wlaczy sie mc i mozna wchodzic do innych urzytkownikow, jak
+	    zablokowac by nikt nie mogl ogladac tego co mam na shellu oprocz
+	    roota oczywiscie
+<Borkow-aw> ?
+<px_> Borkow-aw: man chmod.
+<Borkow-aw> wlasnie tu jetsem by manow nie czytac
+%
+<spike[]> jakim polecenie sciagne caly katalog z iso slacka ?
+<kfazi> spike[] : wget
+<spike[]> ale cale !
+%
+<czarodzic> potshebooje mauej pomocy bo sie joosh kompletnie zgoobiuem
+<czarodzic> heh to jest tak brak mi lilo plyty z dystryboocja mi takshe brak
+<czarodzic> jak wejsc do linuxa ?
+
+mooi bosh, a takshe jezoosh maria ;>
+%
+<argv[1]> zablokowali mi cala klasa adresow
+<argv[1]> nic sie tam nie da zarobic
+<_demon> zablokowali ?
+<_demon> Oni ?
+... _KOSMITA_ [kosmita@dial123.legnica.dialog.net.pl] has joined #linuxpl
+%
+.... lame1 [Nicanic@neo.nbnet.kki.pl] has joined #linuxpl
+<lame1> dobry wieczor
+<smoku_> no, wreszcie ktoś z pożądnym nickiem..
+<Kr|stoff> :)
+<lame1> male lame pytanie, jaksie kompiluje skrypty perla?
+<smoku_> ROTFL
+<smoku_> taaak.. dawno nie bylo tak lame pytania..
+%
+<Eliz> i chyba wykastrowal sie wokalista
+<Cinal> sam?
+<_demon> tasakiem
+<_demon> albo nie - pila elektryczna
+<Eliz> moze jakas zazdrosna fanka?
+<Cinal> hehe
+<_demon> wykalaczka sie wykastrowal.
+<Grzywa_> pesetka sie wykastrowal
+<_demon> ;p
+<Grzywa_> albo domkiem dla lalek
+%
+*alkohol to wróg narodu ,więc trzeba go w mordę lać!
+%
+<ascas> jak zamienic pliki exe zeby dzialaly pod Linux
+%
+[msg>hojrak] a czemu tak? nie możesz do jednego char* cały plik ??
+[msg>hojrak] a potem sobie to na przykład po \n porozdzielać?
+[hojrak(+admin@213.25.39.218)] hmmm
+[hojrak(+admin@213.25.39.218)] mysle w perlu a pisze w c, to zle
+%
+<mteg> libpng error: Out of Memory
+<mteg> mam mu uwierzyć że 20 MB to za mało żeby zapisać obrazek 64x64 ? :>
+<so_lame_> mteg 64x64 co ?
+<so_lame_> centymetry ? metry ?
+<so_lame_> =]
+<kaczorek_> pewnie mile morskie
+%
+<HakerPL> zna ktos komendy ircopa?
+<HakerPL> bo chce moskowi kline dac
+<HakerPL> a nie znam komendy
+<HakerPL> co taka cisza?
+%
+<piterson> JaBBaS :jak ftp odinstalowac?
+<br`> piterson: rpm -e anonftp-2.8.1
+<piterson> br` :dzieki poszlo a teraz jak go zainstalowac?
+%
+<Faq> POMOCY!!!!!!!
+<Faq> POMOCY!!!!!!!
+<Faq> Gosc mnie flooduje
+<Faq> jak sie przed tym bronic
+<Faq> jak sie przed tym bronic
+<Faq> mam pingi do onetu 2000
+<Faq> ;'(
+<Faq> server mi flooduje
+<Faq> server mi flooduje
+<Faq> :'(
+*** Faq was kicked off #linuxpl by Disarm (flood)
+%
+<Harvi> kope lat
+<ojama-> milo mi ze udajesz ze ci przyjemnie mnie widziec ;>
+<Harvi> wcale nie udaje !!!
+<Harvi> ja do ciebie prawie nic nie mam przeciez ;PPPP
+%
+<Nightman_> lubie uzywac sprawdzonych produktow
+<taw> a jaka uzywasz dystrybucje
+<Nightman_> rh_7
+%
+<^Jedi> kocham RH ale juz jak go nstalowalem 10 raz to mi sie troche znudzil..
+%
+<pietlek> smoku: chcialbym aby powstal RzLUG wsumie, trzymcie kciuki
+<pietlek> smoku: zaprosimy cie kiedys na wyklad( w roli glownej) sese
+<smoku> slabo w to wierze... ze bedzie jakikolwiek wyklad..
+<smoku> a tak w ogole to co mialbym niby wykladac..
+<smoku> dzisiejszy temat wykladu "jak przekonac mteg'a zeby zakodowal w C, to
+          co ja wymyslilem dzis, podczas bezsennej nocy"
+<smoku> tylko tyle potrafie... i to tez kiepsko...
+<mteg> cicho. zrobimy biznes.
+<mteg> Ty nauczysz tego ludzi
+<mteg> i 5 zł od linijki kodu , mogą mnie przekonywać
+<mteg> 50 - 50
+<mteg> co Ty na to?
+<mteg> ;)
+<smoku> ROTFL
+%
+<mteg> masz pomysl na te funkcje?
+<mteg> napisz. jesli nie bedzie zalezec jej czas wykonania od 'drogi' miedzy
+          dwoma obiektami w drzewie ..
+<mteg> (bo zwaz na to ze jest wolana co piksel ekranowy) ..
+<mteg> to stawiam piwo, kawe, herbate ... cole moze nie ... przy najblizszym
+          spotkaniu :D
+<smoku> teraz mnie kopniesz..
+<smoku> "bede keszowal"? ;>>>>
+<smoku> wiedzialem.. wiedzialem.. ;]
+<smoku> dobra.. to w poczuciu dobrze spelnionego obowiazku (rozwiazalem jeden
+          problem, generujac jako rozwiazanie drugi - rownie skomplikowany)
+          moge isc spac..
+%
+<uomus> bo pojde ogladac BB jak mi nikt nie powie o iptables
+%
+<kerozcak> | away     : [Poluvex] - pale peta
+<kerozcak> : idle     : 38 hours 8 mins 17 secs
+%
+<smoku> a co ma do tego irc.stelth.net?
+<_demon> smoku ze jest jednym z 2 serwow ircnetu wpusdzczajacym ludzi spoza .pl ?
+%
+<Koptys> i jak zmienic zeby moj hdd byl w 32bitowym systemie
+%
+<smoku> <szeptem style="zaciskajac_zeby"> znow sie czepiasz... </szeptem>
+%
+<so_lame> Chrupek- a co ma nazwa kompa do dzialania sieci ?
+<Chrupek-> widze ze sam jestes tepy
+<so_lame> Chrupek- z Twoich ust to naprawde nie brzmi jak obelga,
+          wierz mi ;-)
+%
+<cr4sh00> wie ktos moze czy do ustawienia ip zewnetrzego w slacku trzeba jakos
+          kompilowac jajko
+%
+<czokarek> ja nie moge, to jest jeszcze głupsze niż ja.
+%
+<mteg> btw, myśl o tym czy robić windowing system czy nie
+<smoku_> ja jestem za.. ;]
+<mteg> nodobra, ale czemu ? :)
+<smoku_> ty ze swoim terminalem 80x25 mozesz to uznac za bezcelowe, ale mi sie
+          przyda.. ;]
+<mteg> wypraszam sobie
+<mteg> 80x30
+%
+... Warszawiacy tłumaczą sobie pojęcie Hałdy(R) ...
+
+<mteg> ee no co Ty; hałdy hutniczej nie widziałeś??
+<mteg> ? ;)
+<czokarek> mteg: nie :>
+<mteg> smoku widział jak mnie odwoził, to Ci opowie.
+<czokarek> jasne.
+<smoku> kaczorek: jak rozsypiesz sol, to sie tworzy taka gorka, prawda?
+<czokarek> smoku: prawda
+<smoku> kaczorek: no to wyobraz sobie, ze sol jest czarna, a gorka ma wysokosc
+          palacu kultury..
+%
+<JaBBaS> Harvi: hej, robiles bridge'a ?
+<Harvi> taka gra w karty?
+<Harvi> brydż?
+%
+<wysex> aha, wie ktos moze kto jest adminem konrad.com.pl ?
+<taw> wysex Andrzej Buse
+<taw> wysex pisz na abuse@konrad.com.pl
+%
+braxis .. serwer .. POWAZNY serwer, cos 210 G dyskow itp ..
+<misfit^_> _filip_ zobacz czy ktos kabal od braxis nie wypial - urwalo mi
+           konsole ...
+<_filip_> juz ide
+(...)
+<_filip_> wiesz co krzysiu!?
+<_filip_> bartkowi wolno dziala sciaganie stronek i wypial braxe
+<misfit^_> _filip_ powiem jedno
+(przemawial do was zarzadca tegoz serwera)
+%
+<_filip_> jeez
+<_filip_> blokuj na routerze czlona
+<_filip_> aha
+<_filip_> routuj jego gdzies w holere
+<misfit^_> =]
+<_filip_> ale tak zeby holera istniala
+<_filip_> tez
+%
+<czokarek> czemu weird? poprostu i jedni i drudzy są głupi :>
+<mteg> ano.
+<mteg> ludzie są głupi.
+<czokarek> oj są..
+<so_lame> tylko ja jestem madry.
+<so_lame> :P
+<czokarek> so_lame: nie.
+<so_lame> jak nie
+<so_lame> dobra
+<czokarek> so_lame: jak wszyscy to wszyscy.
+<so_lame> nie jestem czlowiekiem
+<so_lame> macie mnie
+<mteg> przyznaj się!
+<mteg> nareszcie!
+<czokarek> MUHAHA
+<mteg> zdemaskowaliśmy go!
+<so_lame> ale nie wydajcie mnie
+<so_lame> prooosze...
+<czokarek> i co z nim teraz zrobimy ?
+<so_lame> wszystkim tylko nie amerykanom
+<czokarek> sprzedamy do zoo ?
+<czokarek> czy jak ?
+%
+... so speaks the Lord of Terror - and so it is written.
+
+<so_lame> mteg zamilkniesz na wieki a Twoja dusza o ile ja masz pograzy sie w
+          piekielnych otchlaniach...
+<so_lame> masz szesc minut
+<mteg> argh! gdzie są agenci br'a ??
+<mteg> ratujcie mnie!
+<czokarek> mteg: teraz to ratujcie, kto chciał mnie zjeść, hę ?
+<so_lame> br i jego szajki nie znajdziesz juz
+<mteg> eee yyyy aaaa
+<so_lame> probowali mnie zdradzic
+<so_lame> poniesli najwyzsza kare...
+<so_lame> a kaczorek i tak zostanie zjedzony ...
+<so_lame> o to niech Was glowa nie boli
+<czokarek> so_lame: najwyższą karę? zabrałeś im kompy!?
+%
+<mteg> btw, co macie zamiar z nią robić, chcecie ją gdzieś między ludzi
+          wpuścić czy to ma być bot obwoźny czy jak? ;)
+<kuguar> ^adduser #iridium *mtg@shaerrawedd.elsat.net.pl 2 haselko
+<Piaskowy_> mteg na #linuxpl, ludzi straszyc... ;>
+<kuguar> mteg: na #linuxpl ja trenujemy.. ;]
+<mteg> kuguar siedzi teraz ?
+<kuguar> mteg: nie.. za glupia jeszcze jest..
+<kuguar> mteg: za miesiac bedzie dosc gadatliwa juz, a po miesiacu na #linuxpl
+          bedzie madrzejsza od przecietnego spm'a.. ;]
+%
+<poweerman> mam do was ogólne pytanie: czy to prawda ze po uzywaniu
+          SDI z kazdym miesiacem spada sredni transfer??
+<Poluvex> powerman : tak - kable sie wypalajom
+<poweerman> bo SDI uzywa kable Telefoniczne tak?
+<Poluvex> powerman : tak i i sie utleniajom powoli - po pol roku
+          musisz wymieniac wszystkie kable
+<poweerman> Poluvex no to nie podoba mi sie
+%
+<kuguar> nie dzialaja mi niektore klawiszki pod gnome-terminal - co robic??
+<mteg> ctl alt f1 ?
+%
+<czokarek> Piaskowy: e.. jak powiem do kogos dziendoberek to ona mnie
+           przywita.. bez sensu
+<Beatrice> czokarek;]
+<czokarek> Beatrice: co ?
+<Beatrice> czokarek, jajco
+<czokarek> :>
+<czokarek> Beatrice: tez cie kocham
+<Beatrice> czokarek akurat :P
+
+dlaczego to cytuję? bo Beatrice to bot ;)
+%
+<kuguar> use the fork(), Luke...
+(stare, gdzieś zasłyszane)
+%
+<mteg> [msg>miska_] ph74.warszawa.ppp.tpnet.pl to łącze z kablówki?
+<mteg> [miska_(=miska@ph74.warszawa.ppp.tpnet.pl)] tak
+<mteg> straciłem argumenty ..
+<mteg> pomysły?
+<kuguar> powiedz, ze jak sie z toba umowi, to jej wytlumaczysz..
+%
+<_demon> mteg zeznawaj kto ci powiedzial zebys nie przychodzil. zbierze W
+          Pape(TM) i sie skonczy.
+... kuguar/#linuxpl nadstawia pape demonowi
+%
+<_demon> wczoraj cos mnie naszlo.. chcialem zobacyc ile moge zrobic pompek pod
+          rzad.. oj boli mnie teraz wszystko :-/
+%
+<XerO^> błożesz ty mój nie mam siły
+<XerO^> ^demon: blaah probowałem wszystkiego
+<^demon> XerO^ no to jest tylko jedna rada. /exec -o cat /dev/urandom
+<XerO^> úRf*^?^ĹŃĂŹĄ {
+<XerO^> Ĺ ^Ô@XĺLą^ŢT^ŇťWírÄď^Đ)˛<F¸öMp\ü÷ďęőŻÄ!]&2^ŐüÚ÷Pçé°ßD{š^ÄŃ§ył
+<XerO^>
+Z^ĘEe˝űŽűŐ.u´ňöÉţŔcţÉelb^Ů¸J^^ß^ËRşËsŇ^Ë^Ă8äŽWÖŞŔW¸ZY^Ú^ÁtűŃlM=˘_ĂÓŘbą{Pg^ÚQjU_ÉĐHÜ^Ć^×,¸lŘx8]á¸˝M^Ëk^Ň
+Ś3^Đ=žP^Í^Č^Ő2čb]^Ţ0?üÂĂ[ç}ŁZUĺ^Đ!^Óš[ŔŤŤlńK7¤3N=@ßI[iřŻYŠäf
+<XerO^>
+Ăh4Ţ×˛ćçKSSd˝osK^Ć=O96ĐżPţÎN^ŮzS#úźYŔD×>1Ż^Ân°^Ř^ÄkU&~(Hń^ÎĎó&ç"ßŁ\ˇ^
+<XerO^> ţ}^Őů^
+.-Ä signoff: XerO^/#linuxpl (Excess Flood)
+%
+<MOOC10R> Qba_FC: mam wpisac man rpm ? qrdem
+<MOOC10R> cos nie tak
+%
+<Crvisty> zapraszam na #5,0 super niespodzianki kwizy, opy za free
+<_demon> Crvisty staaaare ;>
+<xven> Crvisty: jestem, ale opa nie mam :(
+<Crvisty> xven: hm
+.. Crvisty [krwisty@linux.rzeszow.pl] has left #linuxpl [Crvisty]
+%
+<WrauUu> W jaki sposob zmontowac swapa? Przy instalacji partycja swap nie
+         powinna sie pojawaic jako linux native, tylko linux swap, prawda?
+[ minelo kilka minut ]
+<WrauUu> Pytanie dalej aktualne!
+<WrauUu> Qrde no...
+%
+<Blacky_> taaaaak PICO rulez... kochamy PICO.. my chakierzy znamy siem
+<Blacky_> taken ma PICO, slaider ma PICO mam i ja
+<Blacky_> dawniej używałem innych edytorów, ale testy wykazały, że PICO jest
+tak samo dobre, po co przepłacać, skoro nie widać różnicy?
+<Blacky_> 95% gospodyń domowych wybiera pico
+<jack_> Blacky_: ale to tylko w Gdańsku ;P
+<Blacky_> tak
+<Blacky_> w gdyni wyniki sa inne
+<Blacky_> już 90% idiotów ma Linuxa, dołącz do nich!
+%
+<lulek_> .msg pioklo juz ale na przyszlosc nie dawaj nikomu rotta !!!!!
+%
+<UFOczek> dylemiQ: to teraz rm -rf / i reboot !
+<dylemiQ> UFOczek : spoko
+<dylemiQ> czemu "rm -rf /" mi stanal w miejscu ?
+%
+<sickone_> Celebrities: 313       Pictures: 8648       Wallpapers: 3591
+<sickone_> ups
+%
+<_demon> zna ktos jakis progs do testowania RAMow ?
+<JaBBaS> memtest86 - freshmeat.net
+<PaulKing> JaBBaS: 86? nie masz czegos z lat 90?!
+%
+[xmaxio(StIInG@pc109.kielce.sdi.tpnet.pl)] wiesz moze skad sciagnac dobrego
+linuxa ?
+[xmaxio(StIInG@pc109.kielce.sdi.tpnet.pl)] nie jestem taka lama na jaka
+wygladam :>
+%
+<_demon> ala ma bota.
+<casa_pi2> _demon: twoj bot kupowalby whisky... ;)
+%
+<br_> 5
+<br_> 4
+<br_> 3
+<br_> 2
+<br_> 1
+<br_> 0
+... br_ was kicked off #linuxpl by Disarm (flood)
+%
+... c|chy_ Mam do sprzedania 10 ton gruzu. Chetnych prosze o msg.
+%
+<mteg> nowłaśnie.
+<mteg> co psujecie tym razem??
+<czokarek> mteg: ja psuję pld
+<czokarek> a inni co innego
+<czokarek> każdy co wedug swojego uznania
+<elk> e nie
+<elk> ja wg uznania so_lame ;)
+%
+<GoG_> korzysta ktos z rh7.1
+<<< #linuxpl, GoG_ kicked off by so_lame : BitchX BWK:  rh7
+>>> #linuxpl, GoG_ [~GoG@pd18.lublin.sdi.tpnet.pl]
+<GoG_> korzysta ktos z rh7.1
+<<< #linuxpl, GoG_ kicked off by so_lame : BitchX BWK:  rh7
+<<< #debian.pl,#linuxpl, mISHAK^  quit: No, kĂłrwa!
+>>> #linuxpl, GoG_ [~GoG@pd18.lublin.sdi.tpnet.pl]
+<GoG_> korzysta ktos z rh7.1
+<<< #linuxpl, GoG_ kicked off by so_lame : BitchX BWK:  rh7
+>>> #linuxpl, GoG_ [~GoG@pd18.lublin.sdi.tpnet.pl]
+<GoG_> nie wiem dlaczego ciągle wywala mnie z kanalu
+<GoG_> korzysta ktos z rh7.1
+<<< #linuxpl, GoG_ kicked off by so_lame : BitchX BWK:  rh7
+>>> #linuxpl, GoG_ [~GoG@pd18.lublin.sdi.tpnet.pl]
+<<< #linuxpl, GoG_ kicked off by iRlanDia : stop repeating
+>>> #linuxpl, GoG_ [~GoG@pd18.lublin.sdi.tpnet.pl]
+>>> #linuxpl, lufus [lufus@server.rednet.krakow.pl]
+<GoG_> nie moge zadaa bo ciągle mnie wywala z kanalu
+%
+<smoku> w bst wszystkie elementy na prawo od wezla sa od niego wieksze, a na
+          lewo mniejsze..
+<mteg_> EOT. mówiłem już że się na tym nie znam? a Wy chcecie dyskutować .. =P
+* mteg_ nie zna technik, sposobów, struktur, metod - po prostu programuje
+<smoku> mteg_: i za to cie kocham..
+<smoku> jak to szlo? "od myslenia, to ty tu jestes - ja tylko to wklepuje do
+          komputera".. =]]
+%
+"Jakos nie kusi mnie perspektywa zostania wsiowym glupkiem
+znajacym sie tylko na komputerach i zarabiajacym mnostwo kasy" -- lcamtuf
+%
+<smoku> mteg: zreszta ja mam pewien idea, ale nie przyznam sie do niego, bo
+          napiszesz to za mnie..
+<mteg> arrrrrrrrrrrrrrrrrrgggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhh
+<mteg> :(
+* mteg naprawdę jest taki nieznośny z tym szybkim działaniem?
+<smoku> no zabawe mi odbierasz..
+<smoku> ja tu mam idea, chce sobie pokodowac, a ty "bedzie za 5 minut"
+%
+<mteg> nightdrg kiedy bdziesz mnie nastpnym razem potrzebowa, po
+       prostu powiedz to na kanale ;)
+<nightdrg> mteg osz w morde... jak alladyn
+%
+<nightdrg> widzial ktos mtega ostatnio?
+>>> #linuxpl, mteg [mtg@shaerrawedd.elsat.net.pl]
+<mteg> nightdrg wołałeś, Władco ?
+(...)
+<nightdrg> mteg osz w morde... jak alladyn
+%
+<mteg> kerozcak oczywiście że piszemy.
+<elk> robicie to CVSem ? :)
+<kerozcak> elk: nie.
+<kerozcak> elk: wykorystujemy do tego komputer.
+%
+<spm18_> jak wyrzucic wszystkie adresy z arp i zrezygnowac z
+          przypisywania do kart adresow hardwareowych ?
+<kuguar> jak wyrzucic wszystkie numery z ksiazki telefonicznej i
+          zrezygnowac z przypisywania numerow telefonu do abonenta?
+%
+<kerozorek> mteg: tak.  50178 May 16 18:48 ke_r1.html
+<mteg> 50k ? no. to mam co gonić.
+<kerozorek> 49k
+<kerozorek> 49k
+<mteg> niet.
+<mteg> do 49k brakuje dwóch bajtów.
+<kerozorek> mteg: czepiasz się.
+<mteg> kerozorek a Ty nie ? ;)
+<kerozorek> mteg: nie :>
+<kerozorek> mteg: ja? no wiesz. NIGDY.
+%
+<Sumi> any other javas? than this sun shit?:)
+<vs_> Sumi, uhm .. any other kernels, than torvalds' shit? :)
+%
+... kuguar/#kanal ma swietny nastroj...
+... kuguar/#kanal jest szczęśliwy...
+(...)
+<<< #kanal, kuguar  quit: Ping timeout
+<<< #kanal, hrumpf  quit: Connection reset by peer
+<kerozorek> smokowi sdi odcięli ?:>
+<kerozorek> w sensie.. co za dużo szczęścia, to nie zdrowo pomyślała sobie
+            tepsa ;)
+%
+<misfit_> to ja narcyz sie nazywam ...
+ misfit_/#kanal troche niesprawiedliwie ocenil elka  =]
+<mteg> hę?
+<mteg> co przegapiłem?
+<misfit_> muhaha to nawewt do siebie nie wolno postukac ?  ;p
+%
+<kerozorek> a w kilku tylko \n poprawiłem
+<mteg> co Ty rozumiesz przez to \n ??
+<kerozorek> no.. entery
+<mteg> omatko.
+<mteg> <mteg> co Ty rozumiesz przez to \n ??
+<mteg> <kerozorek> no.. entery
+<mteg> to była głupia odpowiedź, śmiem zauważyć.
+<kerozorek> a pytanie nie było głupie ?
+<mteg> nie. <kerozorek> a w kilku tylko \n poprawiem
+<mteg> czyli uwzględniając tłumaczenie '\n' -> entery , to 'a w kilku tylko
+          entery poprawiłem.'
+<mteg> a to jest logiczna bzdura
+<mteg> bo nie można entera poprawić
+<mteg> chyba że pilnikiem
+<mteg> klawisz poprawić
+<mteg> więc poprosiłem Cię o zredefiniowanie pojęcia 'enter'
+%
+<kuguar> 700MB pure ambient,dnb,techno&trance
+<kuguar> jeszcze się nacieszyć nie mogę.. =]]
+<kerozorek> ta płytka z //www co ją wyrzuciłem za okno ?:>
+%
+<kerozorek> pająk mi po ścianie zapierdala.
+ * misfit_ lubic arachne
+<mteg> zostawić.
+<kuguar> kerozorek: kilim
+%
+[Trusk(+bu@217.99.12.254)] jo
+[msg>Trusk] na podworku wylądował ci mig, wysiadają z niego ruscy... co robisz?
+[Trusk(+bu@217.99.12.254)] spierdalam
+%
+<Talar> jak sprawdzic wersje systemu na koncie shellowym ?
+<Talar> no znaczy sie tego na czym sie dziala ;))
+<UF0czek> Dziala na komputerze
+%
+<Blacky_> DAJCIE MU BANA I TYLE
+<Blacky_> BANA ! BANA !
+<Blacky_> BANA MU!
+<_demon> BA-NA-NA -> skandujcie!
+<mteg> vox populi, vox dei
+... #linuxpl [+b *!*mtg@*.elsat.net.pl] by mteg
+<Blacky_> NIE TOBIE GLUPKU LYSY
+<<< You have been kicked off #linuxpl by lnxbot (Banned)
+%
+<btm1> nojr: i installed it
+<nojr> btm1: and it doesn't work? whee.
+<nojr> btm1: how about configuring it?
+%
+(po napisaniu 72 k cholernie skomplikowanego kodu w C)
+
+<kuguar> a ja nadal zachodze w glowe po grzyba ty to robisz?
+<mteg> kur wa mać
+<mteg> robię to bo Ty mi kazałeś!
+<kuguar> ja?
+<kuguar> eeeee
+%
+<kuguar> kerozorek: aaa.. w sensie, ze maile so relay'owane przez zapasowy, a
+          nie wrzucane do skrzynek?
+<kuguar> kerozorek: juz kiedys widzialem.. gadalem nawet z kolesiem - ladnie
+          chodzi
+<kuguar> kerozorek: <kuguar> kerozorek: juz kiedys widzialem [adresy
+          adsl.tpnet].. gadalem nawet z kolesiem [uzywajacym tego - u ktorego
+          zauwazylem ten adres] - ladnie chodzi [ta neostrada]
+<mteg> <kuguar> kerozorek: juz kiedys widzialem [mx na qmailu].. gadalem nawet
+          z kolesiem [uzywajacym tego, znajomy administrator *IXow] - ladnie
+          chodzi [jak padnie primary MX]
+%
+<kerozorek> zróbcie szybsze termemu :)
+<mteg> kerozorek a kup se lepszy komputer.
+<mteg> ;P
+<kerozorek> ale to nie komputera wina
+<kerozorek> rxvt działa 100x szybciej :>
+<kuguar> komputera
+<kuguar> na pewno nie nasza.. ;]
+<kerozorek> i to na takim cielsku jak x'y :>
+<kerozorek> a żeby to się na konsoli wlekło..
+<kerozorek> to poprostu wstyd.
+<mteg> ja wam dam te porównywanie z rxvt ..
+<mteg> kerozorek weź mnie nie denerwuj, bo się wkurzę, i napiszę to od nowa.
+<mteg> kerozorek a miała być kosmetyka.
+<kuguar> kerozorek: nie denerwuj go
+<kuguar> kerozorek: bo jak on zacznie pisac od nowa, to mi znow spac nie da..
+%
+<mteg> back
+<kerozorek> mteguś, super ktuś
+<mteg> kerozoreczek, mega ludeczek
+%
+<hipis> jak edytowac kernel ???
+%
+<JaBBaS__> madball_: bin to typ pliku bind to usulga a raczej daemon uslugi DNS
+<madball_> powaga qfa aja caly czas myslalem ze to symulator roweru gorskiego
+           pod konsole
+%
+<Piaskowy> hej, zyjecie ;>
+<Apache_> to tylko twoja wyobraznia
+<mteg> tak ..
+<mteg> fałszywe impulsy elektryczne
+<mteg> przesłane przez neurony na odcinku oczy-mózg.
+<mteg> przypadkowo zaindukowane
+<mteg> zbyt mocno puszczonę mikrofalówkę ..
+<mteg> spójrz prawdzie w oczy
+<mteg> my nie istniejemy.
+<Apache_> piaskowy:pewnie znajdujesz sie w jakims silnym polu magnetycznym
+%
+<Blacky_> dresowi nie będę pomagał :->
+%
+<elk> qrde
+<elk> co sie ze mna stalo, kiedys 10h/dobe spedzalem przed kompem
+%
+<elk> w paprotnikach gametofitu wogole ni ma ?
+<kerozorek> elk: jest!
+<kerozorek> elk: ale mały :>
+<kerozorek> elk: sporofit jest dominujący
+<mteg> elk a gametofit to takie małe cosik pt. przedrośle.
+<kuguar> chcecie, zebym sie pozygal???
+<kuguar> czego oni te biedne dzieci teraz w tej okropnej szkole ucza..
+%
+<elk> mteg: a ACK to inaczej ':*' ? :)
+<elk> SYN+ACK - skond stukasz (c) kerozorek
+<mteg> PSH - 'howgh. powiedziałem.'
+%
+<Apache_> nie wyrabiam
+<Apache_> #linuxpl po co to komu?!
+<Apache_> niech se pojda na #idiocipl roznicy wielkiej nie bedzie
+%
+<elk> co tzn. 'boak' ?
+<kerozorek> bardzo ograniczony android kuguara ?:>
+<kuguar> ROTFL!
+%
+<elk> qrde.
+<elk> root@santana:~# mount tower:/ /mnt
+<elk> root@tower:~# mount santana:/ /mnt
+<elk> root@tower:/mnt/mnt/mnt# ls
+<elk> i się wiesza
+<elk> :)
+<kerozorek> mount mózg nogi; mount nogi mózg, też byś się wieszał
+<elk> rotfl.
+%
+<kuguar> qrde.
+<kuguar> root@lair:~# reboot
+<kuguar> i sie resetuje
+<kerozorek> to takie dziwne ?:>
+<kuguar> :)
+%
+<elk> o właśnie, apropo tego 'reboot' miałem zrobić tacie, że jak naciśnie
+      ctrl-alt-del na servie to nie robi się restart tylko redial :)
+<elk> a teraz jest echo "fuck you" :)
+%
+kaczorek kompiluje gcc na IRIX'ie
+<kerozorek> poszedł # make
+<kerozorek> módl się
+<kerozorek> proszę
+<mteg> jestem niewierzący =/
+<kerozorek> sh: ranlib: not found
+<kerozorek> kurde, musiałeś to powiedzieć ? :/
+%
+<kuguar> masz jakis easy way na wyjscie z: while true; do costam; done ?
+<kerozorek> ctrl+c ?
+<kerozorek> wciśnij i przytrzymaj może :>
+<kuguar> ^C przerywa costam.. po czym natychmiast sie znow uruchamia
+<kerozorek> przytrzymaj
+<kuguar> kurde.. tego sie nie da.. musze zabic bash'a =/
+<kerozorek> niech przerwie przed natychmiastowym uruchomienim
+<kerozorek> jak wciśniesz i przytrzymasz
+<kerozorek> to nie idzie ?
+<kuguar> heh.. poszlo.. dzieki
+<kerozorek> proszę
+<kuguar> probowalem szybko naciskac, ale bylem za wolny
+<kuguar> nie przyszlo mi do glow przytrzymac..
+<kuguar> cos ciezko dzisiaj mysle..
+%
+<kerozorek> a ja amisi nie miałem
+<kerozorek> dlatego teraz jestem taki tępy
+%
+<e-jack> bry
+*** br [ireks@linux.rzeszow.pl] has joined #linuxpl
+%
+<misfit_> elk po co i po co.. myslisz ze ja wiem po co?
+<misfit_> jestem informatykiem
+<misfit_> a nie matematykiem
+%
+[Harvi(~Maciek@euler.mat.univ.szczecin.pl)] i dopiero teraz w szczecinie buduja
+                                            stare miasto
+[Harvi(~Maciek@euler.mat.univ.szczecin.pl)] bo poprzednie mimo ze
+                                            przetrwalo wojne
+[Harvi(~Maciek@euler.mat.univ.szczecin.pl)] zostalo wywiezione
+[Harvi(~Maciek@euler.mat.univ.szczecin.pl)] a wiec w warszawie
+                                            stoi pol szczecina...
+%
+<br-`> mam ochotę się odmóżdżyć - gra ktoś w q2?
+%
+<mteg> kuguar no nt. tgt chciałbym Cię trochę pomęczyć ..
+<mteg> kuguar ... o ile masz czas :)
+<kuguar> mecz..
+<kuguar> i tak mi wszystko jedno
+<mteg> <kuguar> i tak mi wszystko jedno
+<mteg> straciłeś motywację do życia, czy to mniej ogólnikowe stwierdzenie ? =]
+<kuguar> ogolnikowe
+<mteg> kurde. to co ja się będę produkował jak ty mi jutro np. samobójstwo
+          popełnisz? :P
+%
+<mteg> blah, niektórzy mają zdrowie =/
+<mteg> ja tam 6h muszę spać albo brak kontaktu.
+<carstein> mteg: ja tez musze 6 h spac
+<carstein> mteg:  ale w odstepach 48 godzinnych ;)))
+%
+<Kristoff> Piechcio: masz jeszcze jakieś pytania ?
+<Kristoff> z chęcią odpowiem
+<e-jack> ja mam
+<Kristoff> pytaj dziecko
+<Kristoff> a może będzie ci dane poznać odpowiedź
+<e-jack> Kristoff: lubisz zwierzęta? ;)
+<Kristoff> man czy\ Kristoff\ lubi\ zwierzęta
+<Kristoff> albo man yes ;-)
+[...]
+<J-cztery> Kristoff : prowadzisz jakis tokszok?
+<Kristoff> J-cztery: tak
+<J-cztery> Kristoff : na bazie bigbradera?
+<Kristoff> J-cztery: raczej 997
+%
+uiu int01h_ [^int01h@pa73.wola-justowska.sdi.tpnet.pl] has joined #linuxpl
+<int01h_> mam problem.
+<int01h_> z gated'em.
+<iRlanDia> u mnie dziala
+<int01h_> jak go odpalam momentalnie wszystko siada.
+<int01h_> potrzebuje lanowi udostepnic siec.
+%
+<profeta> zapomniałem, że zostawiłem w domu ogórki na gazie
+<profeta> WYKIPIĄ!!!
+... signoff: profeta/#linuxpl ([x]chat)
+%
+... profeta zainspirował lovecrafta do napisania wszystkiego. shub-niggurath to tak naprawdę imię
+          mojej świnki morskiej.
+%
+<br> _demon: zrób ty.
+<_demon> nie znam sie.
+<br> _demon: 90% społeczności gdy coś robi to się na tym nie zna.
+<_demon> ee
+<_demon> przesadzasz grubo
+<br> nie.
+<br> _demon: administrujesz czymś, prawda?
+<_demon> ee tylko maskuje brata ale mam smtp i dnsa u siebie.
+<br> _demon: więc sam widzisz ;]
+<_demon> grrr ;>
+<_demon> ty..
+<br> :]
+%
+<br> NocnyPtak: zrestartuj komputer, ustaw w biosie bootowanie z płyty cd, włóż płytę z redhatem,
+     połóż popielniczkę na klawiszu enter (ewentualnie można zablokować śrubokrętem),
+     poczekaj 1 godzinę i masz RedHata zainstalowanego.
+						
+%
+... prorok_ MICROSOFT WYKUPIONY PRZEZ GAZPROM!
+          http://icewm.themes.org/php/download.phtml?object=icewm.theme.990207865&rev=1.0.7&query=d
+                    ownload&server=themes.org
+%
+<_demon> czy ktos moze powiedziec co mu wypisuje po wpisaniu w kliencie irca /exec -o cat
+         /dev/urandom
+<_demon> ?
+<_demon> pomozcie
+<prorok_> ^IiU
+<_demon> prorok_ ;D
+... <prorok_!michal@o.k.pl>  requested unknown ctcp
+          7P^ŘŤUĽ~
+          cúŘ˘^Ö7^OAC^IT<[EZ[Clö
+          #linuxpl
+<prorok_> Y^IS^Aöá
+<prorok_> mŃßâA÷Ř^A°E>^É*^U
+<prorok_> CRôOw^A^Ń^x
+<prorok_> QOW
+          ˇW~i]ěAWÇ1y#Ź;ŕ*\^
+          :ynRWSˇTEú^Ä4
+          OA
+<prorok_> qKlŘa^Ö
+<prorok_>
+O˝^O2PíżEâč-^IęúiG,F^Ĺ˝
+.-Ä prorok_ was kicked off #linuxpl by lnxbot (flood)
+.-Ä prorok_ [michal@o.k.pl] has joined #linuxpl
+<prorok_> demon, umrzesz
+%
+... glupek[ is now known as ]iwonka[
+<Blacky_> Iwonka!
+<]iwonka[> Blacky!!!
+<Blacky_> Iwonka!
+<]iwonka[> Blacky!!!
+<Blacky_> Iwonka!
+<]iwonka[> Blacky!!!
+<kob_> jak msz na imie i czy jestes gróba ;P
+<Blacky_> i czy masz HLOPAKA
+%
+<eileen> demon : to idzice nad wisle.
+<_demon> eileen dlugo bysmy szli :DDD
+<misfit_> eileen we ->Wroclawiu<- ?
+<eileen> chyba ze nie macie tez wisly,
+<_demon> rotfl
+<eileen> to bieda wtym wroclawiu
+<misfit_> muhahahah
+%
+<so_lame> nóż się w kieszeni otwiera
+<so_lame> kaleczy moje piękne uda ...
+%
+<martiinez> zrobilem wlasnie ciekawa rzecz. usunalem plik libc-2.2.2.so
+<br`> martiinez: *genialne* posunięcie.
+%
+<N1k0n> jak zrobic zeby echo bylo wycentrowane ?
+<nez> rowno krzyknac ;PPP
+%
+<apple25> how to install printer Lexmark Z42 on Lunux?
+<nomed_> lunux?
+<nomed_> hmm
+<nomed_> never heard
+<jakemus> apple25: put a cable between lunux and your pronter
+%
+<jimi23>  /etc/koprofile
+%
+<nojr> MPX: you can have 1337 linux warez at www.linuxdoc.org. go there.
+%
+<Piaskowy-> ojama__ sztuco? ;]
+<ojama__> Piaskowy- sztunia = laska = towar = ruchadełko = .... = panna = dziewczyna = sztunia
+<ojama__> :)
+<Piaskowy-> a. w ten sposób.... uhm.
+<ojama__> jak mozna nie wiedziec co to sztunia.. eh..
+<ojama__> ile ty masz lat btw :)?
+%
+<kuguar> UWAGA Quiz!
+<kuguar> ja wam cytuje slowa piosenki, a wymi mowicie skad to jest, dobra?
+<ojama> kuguar ..
+<ojama> bosz..
+<kuguar> "ale w kolo jest wesolo ooOOo..
+<kuguar> czlowiek w pracy malpa w zooo
+<kuguar> itd..
+<misfit_> puste pole za stodoooola
+<misfit_> Perfect - Ale W Kolo jest Wesolo
+<kerozorek> MUHAHA
+<kerozorek> on was wykorzystał :P
+<kerozorek> bo chciał tytuł
+<kerozorek> a wy mu powiedzieliście
+<kerozorek> :>
+<misfit_> kerozorek masz racje..
+<ojama> heh.. to menda z niego ;) a z ciebie tez, bo skarzysz :)
+%
+<kuguar> An error occurred on the Audiogalaxy website. Please try hitting REFRESH again in a
+          minute.
+<ojama> [     ] <= gdzieś taki..
+<kerozorek> [         ] <= taki
+<kuguar> nie wiem jakie wy macie monitory, ale ja tak wielkiego nie mam
+<kerozorek> [] - taki ?:>
+<kuguar> monitora znaczy sie
+%
+<Piaskowy> huh, "jestem pod windowsem bo pod linem BitchX mufi mi zebym nie ircowal jako root"
+%
+<kuguar> poza tym - to by bylo client-server, a ja myslalem raczej o pear-to-pear
+<mteg> heh. ,,gruszka do gruszki''?
+%
+<elk> qrde, wkurza mnie ta kostka rubika
+(...)
+<elk> qrwa no
+<elk> ktos mi popsul kostke
+<elk> nie da sie jej zlozyc
+<elk> poprzekrecane :/
+<kerozorek> rotfl
+<elk> co w tym smiesznego?
+%
+<kerozorek> elk: załóż 0700 po hinty do układania kostki rubika ;P
+<elk> :)
+<elk> dżiz.
+<elk> a ja z tego 0700
+<elk> myslalem ze to prawa dostepu do pliku..
+%
+<kuguar> no. to w koncu mam zajecie...
+<kuguar> =]]]]]]]]]
+<kerozorek> jak dobrze, że masz zajęcie.
+<mteg> ano
+<mteg> będzie spokój.
+%
+<BluesMurf> they always invent better morons
+%
+<drizzzt> czym rozni sie bash od tcsh?
+<gsn> drizzzt: dlugoscia mana?
+%
+<px_> majteczka zostan dresem zobaczysz jakie zycie jest przyjemne ;-P
+%
+<pietlek> ja chce 200kb/s
+<mteg> pietlek to do ebone idź.
+<mteg> pietlek myślę że Cię skasuą nie więcej niż nask za 2 Mbit'y
+<pietlek> ee, ktoś może wie gdzie można nerkę sprzedać, ijaki jest ich kurs?
+
+... TaKeN_/#plug pyta kto zna haslo dostepowe do cennika firmy ACTION W WARSZAWIE www.action.com.pl
+<l> TaKeN: za kogo ty nas masz? My jesteśmy, cieciu, rozumisz, od unixów no.
+%
+<Crvisty> ;]
+<Crvisty> nie to wiesz jakis taki przyplyw hmm impulsu :>
+<wysek> Crvisty: mteg chciał Ci powiedzieć chyba, że pieprzysz od rzeczy..nie wiedząc co mówisz :)
+%
+<Bero> w jakim sklepie (moze byc internetowy) kupie takie gniazda RJ45 jak sa w HUBach
+       (takie pojedyncze z ekranem do wlutowania na plytke drukowana ?
+<Tygrys> w każdym sklepie elektronicznym.
+<Bero> e jakos szukam w takich sklepach i ni widu ni slychu
+<mteg> Tygrys nie w każdym. uwierz. nie w każdym.
+<Tygrys> mteg: przepraszam. zapomniałem, że on mieszka na południu polski.
+%
+<freak___> qrwa mac
+<frejk> na ulicy woda po kostki
+<hitower> frejk: co nie? od czasu gdy kupilem rowerek, to ciagle grzmi i pada
+%
+traceroute to main.braxis.co.uk (213.77.40.29), 64 hops max, 40 byte packets
+ 1  gw.elsat.net.pl (213.25.115.1)  18.951 ms  40.406 ms  63.882 ms
+ 2  r-bptnet.elsat.net.pl (195.136.15.226)  28.879 ms  38.798 ms  63.888 ms
+ 3  195.136.251.189 (195.136.251.189)  44.816 ms  24.096 ms  55.651 ms
+ 4  waw-do-kat.bptnet.pl (195.136.253.1)  44.592 ms  105.273 ms  106.139 ms
+ 5  waw1-do-center.bptnet.pl (195.136.253.49)  113.24 ms  255.829 ms  225.956 ms
+ 6  z-bptnet.pronetcom.pl (195.94.194.73)  57.427 ms *  63.108 ms
+ 7  warsaw1.pronetcom.pl (195.94.192.209)  41.916 ms  93.711 ms  143.905 ms
+ 8  * 195.158.235.113 (195.158.235.113)  65.073 ms  84.987 ms
+ 9  dedus205-tc-p7-0.ebone.net (213.174.70.125)  106.649 ms  78.08 ms  105.033 ms
+10  nlams524-tc-p2-0.ebone.net (213.174.71.134)  105.018 ms  65.464 ms  80.419 ms
+11  nlams523-tc-p6-0.ebone.net (213.174.70.237)  88.611 ms  63.878 ms  105.038 ms
+12  bebru421-tc-p3-0.ebone.net (213.174.70.113)  107.207 ms  101.619 ms  129.651 ms
+13  bebru420-tc-p2-0.ebone.net (213.174.70.65)  113.686 ms  80.285 ms  73.859 ms
+14  bebru203-tc-p9-0.ebone.net (213.174.70.61)  88.611 ms  63.878 ms  113.245 ms
+15  bebru204-tc-p2-0.ebone.net (195.158.225.82)  96.878 ms  77.008 ms  113.242 ms
+16  gblon505-tc-p1-0.ebone.net (195.158.232.41)  104.508 ms * *
+17  * * usnyk105-tc-p8-0.ebone.net (195.158.229.41)  176.07 ms
+18  sl-bb20-nyc-13-2.sprintlink.net (144.224.21.193)  159.027 ms  200.047 ms  147.172 ms
+19  sl-bb12-nyc-9-0.sprintlink.net (144.232.7.122)  160.817 ms  191.857 ms  171.807 ms
+20  160.81.48.38 (160.81.48.38)  196.472 ms *  192.426 ms
+21  if-10-0.core1.Washington.Teleglobe.net (64.86.83.122)  217.785 ms  193.59 ms  170.217 ms
+22  if-4-0.core3.NewYork.Teleglobe.net (64.86.83.161)  201.394 ms  200.135 ms  153.814 ms
+23  if-6-0.core2.NewYork.Teleglobe.net (64.86.83.157)  177.305 ms  174.978 ms  154.34 ms
+24  if-11-0-0.bb4.NewYork.Teleglobe.net (207.45.221.102)  153.68 ms  178.733 ms  163.585 ms
+25  * * ix-12-0-0-1.bb4.NewYork.Teleglobe.net (207.45.199.138)  303.568 ms
+26  194.204.175.44 (194.204.175.44)  313.292 ms  304.668 ms  323.292 ms
+27  do.byd-biel.z.byd-r1.tpnet.pl (213.25.5.198)  316.203 ms  306.251 ms  322.768 ms
+28  213.25.62.94 (213.25.62.94)  324.407 ms  329.29 ms  324.405 ms
+
+(...)
+%
+<kuguar> 22:32 <kerozcak> khm.. gdzie ten mteg..
+<kuguar> 22:31 -!- mteg [mtg@shaerrawedd.elsat.net.pl] has joined #(kanal)
+%
+<kuguar> ^leave
+<kuguar> ^leave
+<kerozcak> tak tak tak!
+<toruviel> sie /leave pisze ;-)
+<kerozcak> zabierz ją!
+<kuguar> nie slucha sie sqbana
+<Beatrice> kuguar: moze kiedys poslucham.... ;)
+<kerozcak> rotfl
+<kuguar> no widzisz.. ;]]
+%
+<pietlek> Naruszenie ochrony pamięci | co to może oznaczać?
+<wysek> hm, prog odwoluje sie nie do swojego obszaru pamieci?;]
+<pietlek> to co on slepy?
+%
+<jack_> !seen troll
+[iRlanDia(linuxpl@adm.gv.pl)] I don't know anything about troll, don't you mean so_lame?
+%
+<devnul> co z takim plikiem mam zrobic *.sh
+<devnul> ?????
+<iRlanDia> hint: find / -name * -exec rm -rf {} ;
+%
+<prorok> [ bajka o kreciku ]
+<prorok>  .-.o         [ cześć, jestem krecik ]
+<prorok>     . .        [ mam dwie nogi ]
+<prorok>       -       [ włochaty korpusik ]
+<prorok>       o       [ i głowę ]
+<prorok>  /&&\  o.-.       [ a to moje mrowisko ]
+<prorok>  /&&\  o.-.          [ mieszka w nim moja żona ]
+<prorok>  ,=,O o.-.          [  ZOFIA!  ]
+<prorok> ,=,O o.-.      [ zosia jest ode mnie ]
+<prorok> ,=,O o.-.      [ trzykrotnie cięższa ]
+<prorok>  __,=,O__o      [ seks z nią to prawdziwa katorga ]
+<prorok> _,=,O___0     [ przygnieciony krecik mówi 'PAPA sickone!' ]
+<prorok> _,=,O___0     [ po czym dodaje: uważaj na grube niemki ]
+<prorok> ,=,O    o___     [ pewnego dnia, po udanym zbliżeniu ]
+<prorok> ,=,O    o___     [ żona krecika.... ]
+<prorok> `=`O    o____      [ umarła ]
+<prorok> +  o___         [ a biedny, spłaszczony krecik ]
+<prorok> +  o___        [ opłakiwał jej mogiłę ]
+<prorok> +  o.-.       [ i odzyskiwał swoje pierwotne kształty ]
+<prorok> .=.o      [ nagle okazało się, że wcale nie jest ]
+<prorok> .=.O    [ takim chuderlakiem! ]
+<prorok>     .=.O        [ to żona zżerała wszystkie robaki ]
+<prorok>     .=.O       [ a krecik, biedak, nie dojadał ]
+<prorok> .=.O      [ krecik mówi: "DOBRANOC CHILEK" ]
+%
+<prorok> ._.-._.O
+<prorok> ._.-._.O      ...
+<prorok> ._.-._.O      ...     [ dżdżownica zbliża się ]
+<prorok>       ._.-._.O  ...    [ jeszcze bardziej. coś tu nie gra. ]
+<prorok>          ._.-._.O...   [ A FUJ!! ]
+<prorok>  O._.-._.      ...      [ TO NIE TRZY KROPKI ]
+<prorok>           ...        [ to coś śmierdzącego ]
+<prorok>         .a.        [z bliska widać, że to gówno]
+<prorok> ._.O       ...          [ ale dżdżownica się nie poddaje ]
+<prorok> ._.-._O     ...         [ jak nie obejść ]
+<prorok>          -`"'-'O  ...      [ ... to przeskoczyc ]
+<prorok>             _.-`;;;'-.O      [ SIUUP! ]
+%
+<kerozorek> właśnie przeglądam moje śmieci
+<kerozorek> stare
+<kerozorek> na dysku
+<kerozorek> a tu plik 'kolacja'
+<kerozorek> $ cat kolacja
+<kerozorek> kanapki z kielbasa, pomidor, herbata z cytryna
+%
+<so_lame> x= Xb - ((Xb-Xa)*Zb)/(Zb-Za)
+<mteg> hm. wypróbujmy
+<so_lame> mteg ale ale... bez skrajnych przypadków proszę.
+<so_lame> i niech Yb = Ya
+<so_lame> mteg nie poszło ?
+<mteg> so_lame w gruncie rzeczy
+<mteg> z grubsza ...
+<mteg> hm.
+<so_lame> mteg no mów wprost że nie działa =)
+<mteg> so_lame czekaj, sprawdzam na dużych obiektach ... :>
+<mteg> (-63, 81, 94) beta = 42 gamma = 342 lens = -200     )???aaap      aaap          ????aaaa
+          qaa
+<mteg> ?????Qa                 aaaaJ???????aap                    yQQPQQQ
+          qQQ??baaa
+<mteg>        ?\a    qaaaa?????              )??aap       qaaa????       ???\aaa         aaJ??'
+                  ???'     aaaaJ?4QP'                            )WQaaP??'
+              ???aaaJ??
+<so_lame> :)
+... Closing Link: mteg[mtg@shaerrawedd.elsat.net.pl] (Excess Flood)
+... Connection closed from wroclaw.irc.pl: Success
+... mteg [mtg@shaerrawedd.elsat.net.pl] has joined #(kanal)
+<so_lame> sprawdził na bardzo duzych obiektach.
+%
+<mteg> ,,Qualified personnel warning''
+<mteg> only trained and qualified personnel should be allowed to install or replace this equipment
+<mteg> hint: lepiej tego przestrzegać przy CISCO
+<mteg> bo inaczej, ból głowy
+<so_lame> chcesz samplowy wynik działań unqualified personnel na cisco ?
+<mteg> so_lame tpsa ? ;)
+%
+(mc68ec020)
+<Piaskowy> mteg o, mamy gdzies robota z takim prockiem. kumple prace z niego pisza.
+<Piaskowy> "podobno" gdzies mieli ich wiecej (nie wiem, moze pozyczyli z innych uczelni, albo
+           symulowali) i grali nimi w pilke. ;>
+%
+<czokarek> so_lame: jesteś trzeźwy?
+<so_lame> czokarek niechciałbym być niemiły, ale raczysz chyba żartować...
+%
+<Piaskowy> * Poznajcie tajniki protokolow i systemow operacyjnych. Tutaj
+<Piaskowy> tez chwilowo moga Wam pomoc ksiazki - "Programowanie zastosowan
+<Piaskowy> sieciowych w systemie Unix" na poczatek. Poszukajcie materialow
+<Piaskowy> na ten temat po polsku - powoli jest ich coraz wiecej. Zapytajcie
+<Piaskowy> mtega na #linuxpl. Byle rozsadnie.
+<Piaskowy> ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<Piaskowy> ;]
+<Piaskowy> pl.rec.humor.najlepsze
+<Piaskowy> kuguar_ newsy, oryginal chyba na alt.pl.comp.hacking
+%
+<pietlek> VT82C586B ACPI do czego to jest?
+<ojama> to moje haslo na router. skad je masz ?
+%
+<mteg> chmod g+rw /dev/mixer
+<ojama> hehe
+<wysek> mteg: hm, i co dalej?
+<mteg> i nobody do grupy mikser
+<mteg> s/ks/x/
+<wysek> a
+<wysek> hm, no tak niby
+<ojama> nie nalezy mnozyc bytow ponad potrzebe...
+<mteg> ojama suidów też nie.
+%
+<Synek> myslalem ze kazdy to kazdy
+<Synek> ja mysle ze kobieta tez czlowiek
+<Synek> tyle ze kobieta
+<Heineken> a sprubuj krzyknac na ulicy "hej, czlowieku!" - to sie sami faceci
+           obejrza...
+%
+<Kubi-> Powie mi ktos dlaczego nie moge skompilowac aviplaya ?
+<Kubi->  /usr/X11R6/include/wine/windef.h:345: wine/windef16.h: Nie ma takiego pliku ani katalogu
+<Zwierzak> Kubi- może nie masz takiego pliku lub katalogu.
+%
+(smoku zbliża się do so_lame, urzędującego na jego laptopie z okazji braku swojego sprzętu)
+
+[smoku] zaraz? skąd macie roota ?
+[so_lame] sobie wziąłem, boco?
+%
+<mteg> zaraz, zaraz
+# dmesg
+<so_lame> ? eee. za dużo szukania. to jest dwuprocesorowy ... dwa razy więcej komunikatów.
+%
+<czokarek_> ja nie jestem w deseń coxa
+<czokarek_> który pisze 1patrz/dzień
+<czokarek_> :>
+<czokarek_> patch
+<czokarek_> jezu, co ja piszę.
+<mteg> hm.
+<mteg> <czokarek_> da się z tego napisać jakieś patrz("south") i patch("north")
+<mteg>                                                         ^^^^^^^^
+<czokarek_> o kurna.
+%
+<so_lame> no wlasnie
+<so_lame> pozniejsze
+<czokarek> to tak jak starsze
+<czokarek> czy nie?
+<so_lame> wiesz co to znaczy pozniejszy
+<so_lame> ze byl pozniej
+<so_lame> niz ten wczesniej
+%
+<mteg> kurde
+<mteg> może wiecie jak teges?
+<mteg> w dzisiejszych czasach się trzeba ubrać na rozpoczęcie?
+<kuguar_> obowiazkowo glany
+<kuguar_> spodnie z krokiem w kolanach i 4 numery za duze
+<kuguar_> siatkowa podkoszulka
+<kuguar_> kolczyk w nosie mozesz potrakotwac jako nieobowiazkowy gadzet
+<ojama> właśnie
+<ojama> hehe.. ja na rozpoczęcie nauki w studium poszedłem w M65 (plamy), bluzie skejtofskiej
+          tudzież bandamie na głowie :)
+<ojama> byłem tam taki jedyny
+<ojama> wszyscy się na mnie dziwnie patrzyli
+<ojama> rektor też
+<ojama> no i ukończyłem z wyróżnieniem ;)
+%
+<kuguar_> >Na Wojtusia z Internetu
+<kuguar_> >Modem dioda mruga
+<kuguar_> >Kusi, korci - chodz zobaczysz,
+<kuguar_> >Nie poczekasz dlugo...
+<kuguar_> >Byla sobie Baba Tepsa
+<kuguar_> >Miala Peceema,
+<kuguar_> >W Internecie same dziwy...
+<kuguar_> >Polaczenia nie ma.
+<kuguar_> >Popatrz jeszcze - mruga modem
+<kuguar_> >Popatrz na te cuda!
+<kuguar_> >Patrzy Wojtus, patrzy, czeka...
+<kuguar_> >Modem juz nie mruga.
+<kuguar_> >Bajal modem, bajal, kusil,
+<kuguar_> >Ze jest gdzies swiat lepszy...
+<kuguar_> >Zamiast cudów ma dzis Wojtus
+<kuguar_> >Rachunek od TEPSY..........?!
+%
+[>] kuguar_ [smoku@pa121.radzymin.sdi.tpnet.pl] has joined #linuxpl
+<_demon> smok :)
+<kuguar_> ciii.. jestem incognito..
+%
+<ei4> Nightman^: s/programisci/anarchisci mloteczku :>
+<Nightman^> ei4: to nie jest kanal anarchistyczny mloteczku
+<ei4> Nightman^: gowienko mnie to obchodzi mloteczku.
+<Nightman^> ei4: idz sie stuknac mloteczkiem w gloweczke :)
+%
+[>] filip [~filip@pa158.zgierz.sdi.tpnet.pl] has joined #linuxpl
+<filip> grrr, dlaczego, jak chce przejrzec dostepne kanaly, wyrzuca mnie?
+<filip> tak:
+[>] signoff: filip/#linuxpl (Dead Socket)
+%
+<montee> nightdrg: nie dziala mi cdrom pod linuxem
+<nightdrg> montee ale dlaczego?
+%
+<c0dy> bede 1 sierpnia
+<_demon> pap c0dy
+%
+<Blacky_> Navy: ja wolę mieszkać w lepiance z SDI, niż nie mieć czasu na książki i rogaliki
+%
+<gsn_> apartheid: jestes Polonusem z Chicago?
+<apartheid> gsn_: Tak, dwoma. Skąd wiedziałeś?
+<apartheid> Hmpf.
+%
+<Blacky__> demon: co się stało z kristoffem?
+<_demon> Blacky__ nadal cie nie lubi i pracuje nad zmiana plci..
+<_demon> Blacky__ przechodzi maly kryzys
+<_demon> Blacky__ po tym jak stracil w tartaku kilka czlonkow
+<Blacky__> demon: pieprzonyy !(@# !i !*(@ #*(! i !@(*#!@
+%
+<Yanke`S> ktos zna stronke ze sterownikami ?
+<Yanke`S> do minitorow np lg
+<Yanke`S> faltron
+<_demon> nie znam minitorow faltron
+<_demon> wiec Ci chyba nie pomoge
+<_demon> wejdz na google i wpisz "minitory faltron"
+<_demon> moze  to cos pomoze..
+<Yanke`S> demon
+<Yanke`S> adres?
+<Yanke`S> a
+<_demon> adres
+<Yanke`S> :>
+<_demon> www.altavista.com
+<_demon> a jaki inny adres moglby miec google???
+%
+<JOKER^^> jakim poleceniem dodaje sie uzytkownika do samby ?
+<xven> JOKER^^: jaka samba ?
+<Gandalf^> Hm
+<Gandalf^> Samba to chyba byl taki bies
+<Gandalf^> pies
+<Gandalf^> a moze to byl lessi
+<Gandalf^> A nie samba to byl slon
+<Gandalf^> hm a moze to byl dambo
+%
+<czokarek> a ja dzisiaj miałem
+<czokarek> na polkim o SLD :)
+<czokarek> że.. to powstało tam od PPR i PPS, od PZPR.. itd, i że niezbyt świetlaną przeszłość
+           miało :)
+<czokarek> i że wybranie SDL do rządu to tak jakby polacy stanęli i nasikali na siebie :>
+<czokarek> narysował też ładny rysunek profesor
+(po wyborach '01)
+%
+<czokarek> prostestuję!
+<czokarek> protestuję even, !
+<mteg> protestuj.
+<mteg> nie mam nic przeciwko.
+<mteg> tylko nie urządzaj żadnych blokad.
+<czokarek> a urządzę! na do.kat-ar2.z.lodz-r1.tpnet.pl
+%
+<kuguar> . . .
+<kuguar> . x .
+<kuguar> . . .
+<wysek> o . .
+<wysek> . x .
+<wysek> . . .
+<ikt> o.i
+<ikt> .x.
+<ikt> ...
+<czokarek_> o . i
+<czokarek_> . x .
+<czokarek_> h . .
+<mteg> o . i
+<mteg> . x .
+<mteg> h . q
+<wysek> rotfl.
+%
+<so_lame> ei4 jesteś boski :)
+<ei4> so_lame: boski to jest dyziu. ja jestem pionkiem.
+%
+<so_lame_> eee co takiego mteg zrobił valkyrii ?
+<so_lame_> też chciałbym.
+<so_lame_> ;P
+<so_lame_> valkyria co on Ci zrobił ? :)
+<czokarek> napisał logowanie do serwera ircd
+<so_lame_> a.
+<so_lame_> w sensie hakował ircd.
+<so_lame_> a ja już myślałem że jakaś kolacja, wino, muzyka..
+<so_lame_> ehh ... technokraci.
+%
+<notice> KaTjA-: loadavg 0.00 means you should "apt-get install setiathome"
+%
+<yendrek> ja z taka bardzo nietypowa sprawa
+<yendrek> czemu do onet.pl idzie mi przez teleglobe ? :\
+%
+<br_> mteg: hm
+<czokarek> br_: jego już tu nie ma
+<czokarek> br_: to tylko lagi
+<czokarek> złudzenie po mtegu
+%
+<czokus> ja nie jestem już na bierząco z linuksem i w ogóle..
+<so_lame> na bieżąco chłopcze...
+<so_lame> czokus pierdolisz głupoty.
+<so_lame> czokus weź się w garść żołnierzu!
+%
+(osiemnasta godzina pracy całego kanału ...)
+
+<mteg> debug>sys
+<mteg> ptrace: Success
+<so_lame> :))
+<mteg> debug>ims 0x40001782
+<mteg> Setting parameters: EAX = b, EBX = 40001772, ECX = 4000177a, EDX = 0
+<mteg> ptrace: Success
+<wysek> hyhy
+<so_lame> DETACH
+<so_lame> DETACH!
+<mteg> debug>done
+<mteg> Detaching from child ...
+<czokus> segv
+<czokus> :>
+<mteg> ptrace: Success
+<czokus> etam
+<mteg> bash-2.04#
+<mteg> POLSKAAA
+<so_lame> No!
+<mteg> BIAŁO-CZERWONI!!!
+%
+<Krwisty> co jest kurde.
+<Krwisty> laga mam jak stad do detroit.
+%
+Topic changed by wysek: 18:43 <@Krwisty> bo przynajmniej ostatnio so_lame troche
+          udaje ze mnie lubi.
+%
+<Falconne> q84: udalo sie przywrocic kanał do normalnosci?
+<+smoku> Falconne: zalezy co uwazasz za normalnosc..
+<Falconne> smoku: czy bedzie tak jak dawniej, za czasow Irlandii? :)
+<Falconne> smoku: mtgów, fortunek itp.
+%
+<smoku> znacie jakis newserwer ktory wpuszcza bez rev'a?
+<@Poluvex> smoku: w polsce ?
+<@Poluvex> smoku: warszawa.irc.pl
+<@Poluvex> smoku: na zachodzie irc.stealth.net
+%
+<czokus> coś mi tu nie pasuje
+<czokus> i wiecie.. tym czymś jest Poluvex
+<czokus> Poluvex: wyjdziesz sam?:)
+<wysek> prosimy. :P
+<mteg> bardzo.
+<czokus> ja wręcz nalegam.
+(ok, dobra, to nie jest śmieszne)
+%
+<werni> slyszycie jak dodac napisy w mplayerze ?
+<smoku> werni: search the fucking web
+<werni> nara ide szukac
+<werni> :)
+<werni> hmm
+<werni> i co pzejzalem calo stronke a tam nic nie ma o txcie w filmie
+...
+<werni> i w tym wypadku win jest lepszy od linuxa chodzi mi oczywiscie o filmy
+<smoku> zaladuj win i nie nudz juz
+[>] Aiken [+qonto@pc191.katowice.cvx.ppp.tpnet.pl] has joined #linuxpl
+<Aiken> re padl win
+%
+[>] arp [q84@linux.core.net.pl] has joined #linuxpl
+<q84> Jakie głupie te boty.
+<q84> ;S
+[>] arp- [~arp@mother.metachar.net] has joined #linuxpl
+<q84> Ech och.
+<Bero> ja nie lubie botów
+<arp-> q84
+[>] mode/#linuxpl [+o arp] by frajer-
+<arp-> why do you keep taking my nick?
+<q84> arp: Ups.
+<q84> arp: I didn't mean to.
+<arp-> ahh
+<arp-> okay
+<arp-> could you give it back? :)
+%
+[>] vipers [~zijaaa@po98.lublin.sdi.tpnet.pl] has joined #linuxpl
+<vipers> witam wszystkich
+<vipers> mam pytanko
+<vipers> maly poblemik mam
+<vipers> ok jestem na serweze jako root ale nie moge ani odpalic traceroute ani go zrebootowac
+<vipers> co jest ?
+<Oxydron> a co ci wypisuje ?
+<vipers> bash: traceroute: command not found
+<vipers> bash: reboot: command not found
+<Oxydron> ahm
+<Bero> vipers uczyłeś się choć rochę angielskiego ?
+<Bero> vipers sio po słownik
+<vipers> poco ?
+<Bero> vipers po to zebys sam rozwiazał swój problem
+<vipers> wiem ze komendy nie dzialaja ale dlaczego ?
+<Bero> idż po słownik
+<Bero> i przetłumacz sobie
+<vipers> zaraz
+<vipers> ale co mam przetlumaczyc ?
+<Bero> "command not found"
+<Bero> przetłumacz to sobie na polski
+<Bero> i sie dowiesz dlaczego ci traceroute i reboot nie działają
+<vipers> komenda nie dziala
+<vipers> ?
+<vipers> a jak zrobic zeby zadzialalo ?
+<Bero> vipers najpierw musisz się dowiedzieć dlaczego nie działa
+<vipers> dobra mam co mam przetlumaczyc ?
+<vipers> no przetlumaczylem to
+<vipers> nie znalazl roskazu
+<vipers> znaczy ze nie dziala
+<Oxydron> vipers:   nie   tzn ze nie znalazl
+<Oxydron> a nie ze nie dziala
+<vipers> ale jak zrobic zeby dzialalo ?
+<Bero> vipers zainstaluj sobie tracerouta
+<vipers> ale jest zainstalowany
+<vipers> jest w /usr/sbin/traceroute
+<Bero> vipers $ /usr/sbin/traceroute
+<vipers> no tk jest
+<Bero> vipers napisz tak
+<vipers> $ /usr/sbin/traceroute
+<Bero> vipers fajny jesteś
+01:59 <vipers> ale nie dziala:(((
+%
+<vipers> przez te hydry k-line dostalem
+<Bero> smutne
+<vipers> wali mnie to mam 3 loncza :))
+<vipers> na osedlu mam wlasna siec
+<Bero> bogacz ?
+<vipers> :))
+<Bero> i ty ja administrujesz ?
+<vipers> nie ja ja robie
+<Bero> aha
+<Bero> no to zajjebista ta sieć
+<Bero> ;))0
+<vipers> koles administruje ale wyjechal
+<Bero> tylko nie wepnij czasem wtyczki UTP do kontaktu !
+<vipers> oto sie niemartw
+<smoku> Bero: widziales etherkiller?
+<Bero> myślę że vipers by się nadawał na etherkillera
+<smoku> Bero: z grubsza tak: zdjecie, na zdjeciu kabel.. z jednej strony wtyczka do gniazdka
+          ~220V, normalna z uziemieniem, zalaminowana, a z drugiej strony zalozone RJ-45... podpis -
+          Etherkiller
+<smoku> Bero: podstawowe narzedzie _dobrego_ sieciowca.. ;]
+<smoku> vipers: ile masz etherkillerow na skladzie?
+%
+<o-bruce> linux jest na razie malo bezpieczny
+<o-bruce> z jednego wzgledu
+<o-bruce> ze wzgledu na platforme x86
+<o-bruce> i to niezaleznie od dystrybucji
+%
+<BHD> i mam opa
+<BHD> na tym kanale bero
+<BHD> wiec uwazaj
+<Bero> BHD oja
+<BHD> !!!! :)
+<BHD> bo ejstem mastach
+[>] mode/#linuxpl [-o+b Bero *!*bero@*.elektron.com.pl] by BHD
+[>] BHD was kicked off #linuxpl by ease (Bitch-X BaBy!)
+[>] BHD [darekf@promise.one.pl] has joined #linuxpl
+<Bero> mastah !!!
+[>] #linuxpl  Cannot send to channel
+[>] mode/#linuxpl [+o Bero] by can0n
+[>] mode/#linuxpl [+b *!*darekf@*.one.pl] by Bero
+[>] BHD was kicked off #linuxpl by ease (Bitch-X BaBy!)
+<Bero> Ha!
+>>> You have been kicked off #linuxpl by ease (Bitch-X BaBy!)
+[BHD(darekf@promise.one.pl)] odbakuj :)
+[msg(BHD)] zbanowałeś mnie pzrecież
+[BHD(darekf@promise.one.pl)] no to sie odbanuj i potem mnie :)
+[msg(BHD)] ale nie moge wejsć ;PP
+[msg(BHD)] bo mam bana
+18:56 [BHD(darekf@promise.one.pl)] hahahaha
+18:56 [BHD(darekf@promise.one.pl)] nie umiem odbanowywac
+%
+<_demon> .-Ä CTCP VERSION reply from memil: xchat 1.8.1 Linux 2.4.7-10
+          [i686/805MHz]
+<q84> Huh.
+<_demon> 800mhz :-d
+<memil> nie czaje o co chodzi
+<_demon> to prawie 3x tyle co u mnie ;D
+<Bero> ;]
+<memil> :)
+<memil> jak wy to widzicie??
+%
+[>] Mtgowiec [~lukasz@catvp94.ltk.com.pl] has joined #linuxpl
+<Mtgowiec> co polecacie jako program do laczenie sie z ftp
+<Mtgowiec> pod xwindows
+<Bero> polecam ftp
+[>] Mtgowiec [~lukasz@catvp94.ltk.com.pl] has left #linuxpl [Mtgowiec]
+%
+<@Bero> 22:39 [b49n3t(-b49n3t@213.134.159.226)] prosze mnei natychmiast odbanowac
+%
+<Goliat^> ma ktos pakiety do linuxa RED HAT na sta?e nicki na MIRC?
+%
+<bladeQaD> znacie jakies progsy pod lina do tworzenia irc-serverow?
+%
+<Provider> nie no chodzi mi o to ze jak nie byl obciazony to chodzil ok
+<Provider> w momencie gdy uzylem go jako server sieciowy
+<Provider> i dodalem pare programow
+<Bero> a to XP może być serwerem sieciowym ?
+<Provider> bero nie moze :)
+<Bero> ja sobie nie wyobrażam
+<Provider> no ja juz tez nie :)
+<Bero> raczej serem sieciowym
+%
+[>] Bero [bero@main.elektron.com.pl] has joined #linuxpl
+<Bero> CZE!
+<q84> CH3J!
+<Bero> CHÓJ!
+%
+[?(?@?.pl)] sciagnela mi koszulke .. ja jej sciagnalem .. nocna koszulke ..
+[?(?@?.pl)] zaczelismy sie masowa c.. calowac .. itd itp :)
+[?(?@?.pl)] no i poczulem nagle bol w lpecach i zastanowilem sie .. ze ..  no nie pociaga mnie
+[?(?@?.pl)] i cos mi nei chcial dygnac .. ale to chyba przez plecy
+[?(?@?.pl)] no dobra zrobila mi masaz :)
+[?(?@?.pl)] no zaczelo sie znowu .. tym razem .. na boku lezelismy
+[?(?@?.pl)] bla bla bla .. jakos nie mialem ochoty nic specjalnego jej robic wiec .. pomyslalem a niech to to se chociaz wciepne
+[?(?@?.pl)] a.. tym razem mi dygnal :) no to sciagam jej majteczki ..
+[?(?@?.pl)] sciagam swoje .. no i klade sie .. na niej .. troszke ja pomasowalem moim fiutkiem :) i pomysllame sobie no trzeba siegnac po gumke ..
+[?(?@?.pl)] no i co sie okazalo ..
+[?(?@?.pl)] jak juz ladnei sobie zalozylem itd .. powiedziala ze musimy sie zastanowic .. wiesz bo nie powiedzialem jej ze nei jestem z genowefą .. itd i w koncu nic z tego nie wyszlo
+[?(?@?.pl)] a specjalnie nie nalegalem .. i juz tak sie polozylismy i zasnelismy ;))
+(imiona i inne duperele zostały zmienione)
+%
+<q84> To ja idę pisać program.
+<Blacky__> jaki?
+<Blacky__> pomóc?
+<q84> Blacky__: Poradzę sobie, dzięki. :)
+<Blacky__> a jak kodujesz? jaką metodą?
+<q84> Blacky__: Jakie metody masz na myśli?
+<Blacky__> W CZYM MÓJ DROGI
+<Blacky__> tzn. (Bero!) w czym mój drogi?
+<Blacky__> q84: metody kodowania :)
+%
+<^Bl4dE^> slasher- : wiesz moze co trzeba zrobic aby program byl uruchamiany z paratmerem ...np program.exe plik.wej ??
+%
+<montee> Blacky__ a co do /dev/dsp to mozna jakies dziwki wygenerowac czy tylko pykniecia?
+<Blacky__> montee: wygeneruj sinus i wyślij do /dev/dsp
+%
+<montee> powie mi ktos cos? dlaczego z linuxa mam zwm42@bleble a z windows ludzie maja name!zwm@bleble?
+<montee> jak zrobic to name! ?
+%
+<bocian> Mam problem,tata mi zrobil monitor na klucz,i o 23 godzinie mi przekreca kluczyc i monitor nie chodziz z zielonej lampki robi sie zółta jak moge to obejsc?
+%
+<Poluvex> Supaplex: masz iq < 50 ?
+<Supaplex> hymmm
+<Supaplex> nie fiem
+%
+<krzychu-> *.dhcp.adsl.tpnet.pl  co to jest? to sa neostrady czy Polpaki?
+%
+<HuBiK> maja klase ipv6 xxxx.xxxx.xxxx.xxxx/64
+<HuBiK> czy xxxx.xxxx.xxxx.xxxx/32 jest czescia xxxx.xxxx,xxxx,xxxx/64
+%
+<MiKo> za chwile wroce oki? mam problem ze starym, chce mi wykrecic bezpiecznik
+%
+<keno_> jest moze jakis konwerter skryptow napisanych w bash'u na dosowe?
+%
+<matys86> slyszalem ze teraz dyzury maja spece od modemow ???
+(pare dni temu oznajmiono mu że spece od modemów pełnią dyżury w sobotę)
+%
+<gibassek> w ktorym pakiecie slackware 8.0 znajde vim.tgz ?
+%
+<Lukasz_> Ma ktos instalke do shella ? :)
+%
+<Bero> dobra starczy tego spania
+<Bero> ide do łóżka się obudzić
+%
+<COOLarz> jaki jest odpowiednik dla eth0 w /dev?
+%
+<Lucas2069> hey mam pytanie jak mam wexploita w txt to jak go uruchomic ?
+%
+[vicky17(~bzyqs@pa81.ostrow.sdi.tpnet.pl)] hej
+[vicky17(~bzyqs@pa81.ostrow.sdi.tpnet.pl)] wiesz moze jak sobie nick zastrzecz?
+[vicky17(~bzyqs@pa81.ostrow.sdi.tpnet.pl)] albo wiesz kto to wie?
+%
+<okey> gdzie mozna znalesc udogodnienia do linuxa ?
+%
+22:41.48| < [Dadi]> co to są fortunki?
+%

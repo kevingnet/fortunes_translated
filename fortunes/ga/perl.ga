@@ -1,0 +1,1092 @@
+Tá gach dearthóirí teanga sotalach. Téigh leis an gcríoch ... :-)
+		-- Larry Wall in <1991Jul13.010945.19157@netlabs.com
+
+%
+Cé go bhfuil an Mana Perl Níl Way níos mó ná amháin a bhfuil sé, bíodh aon leisce ort méa dhéanamh 10 bealaí rud éigin a dhéanamh. :-)
+		-- Larry Wall in <9695@jpl-devvax.JPL.NASA.GOV>
+
+%
+Agus ná inis dom nach bhfuil píosa amháin de difríocht idir null agus spás,toisc go díreach cé mhéad difríocht ann. :-)
+		-- Larry Wall in <10209@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Agus ní maith liom ag déanamh rudaí amaideach (ach amháin ar na críche)."
+		-- Larry Wall in <1992Jul3.191825.14435@netlabs.com>
+
+%
+: Agus téann sé i gcoinne an grán a thógáil uirlisí beaga.Innocent, Do Honor. úsáideoirí Perl thógáil uirlisí beaga gach lá ar fad.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+/ * Agus ní fheicfidh tú buille faoi thuairim a bhí an madra * // * Ina bhéal ... * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Mar . nach bhfuil comhoiriúnach \ n. [\ 0- \ 377] is é an bealach is éifeachtaí chun freastal arrud faoi láthair. B'fhéidir \ chóir e mheaitseáil gach rud. Agus \ bheadh ​​Ear mheaitseáil ndóigh rud ar bith. :-)
+		-- Larry Wall in <9847@jpl-devvax.JPL.NASA.GOV>
+
+%
+A bheith comhsheasmhach.
+		-- Larry Wall in the perl man page
+
+%
+Thairis sin, lena n-áirítear <std_ice_cubes.h> Is earráid marfach ar mheaisíní anach bhfuil sé go fóill. Dearadh teanga olc, tá ... :-)
+		-- Larry Wall in <1991Aug22.220929.6857@netlabs.com>
+
+%
+Thairis sin, tá sé go maith chun bhfeidhm ríomhchláraitheoirí C a bhaint as an bosca uirlisí ó am go chéile. :-)
+		-- Larry Wall in <1991May31.181659.28817@jpl-devvax.jpl.nasa.gov>
+
+%
+Thairis sin, tá ríomhairí REAL glaoch córas a athainmniú (). :-)
+		-- Larry Wall in <7937@jpl-devvax.JPL.NASA.GOV>
+
+%
+sos; / * Ná nach bhfuil draíocht till déanaí * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Ach caithfidh tú a ligean ar beag chun an dúil a evangelize nuair a dhéanann túcheapann tú dea-scéal.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Chip Salzenberg chuir mé paiste iomlán a chur System V IPC (msg, sem agusSHM glaonna), agus mar sin chuir mé iad. Má tá go bothers tú, is féidir leat i gcónaí undefineiad i config.sh. :-) - Wall Larry in <9384@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+/ * Dbmrefcnt--; * / / * Nach bhfuil ag obair, francaigh * /
+		-- Larry Wall in hash.c from the perl source code
+
+%
+#define NULL 0 / * rud amaideach é, ní féidir linn a úsáid fiú seo * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+#define SIGILL 6 / * Blech * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+An dtugann an ghlao córas ainm sin mar an gcéanna.Más rud é nach bhfuil a fhios agat cad a dhéanann sé, ná bíodh imní ort faoi.
+		-- Larry Wall in the perl man page regarding chroot(2)
+
+%
+luach dúbailte; / * Nó do chuid airgid ar ais! * /gearr athraithe; / * Mar sin triple do chuid airgid ar ais! * /
+		-- Larry Wall in cons.c from the perl source code
+
+%
+Síos an bealach sin luíonn madness. Ar an láimh eile, is é an bóthar chun ifreannpábháilte le snowballs leá.
+		-- Larry Wall in <1992Jul2.222039.26476@netlabs.com>
+
+%
+macalla "Comhghairdeas. Níl tú ag rith Eunice."
+		-- Larry Wall in Configure from the perl distribution
+
+%
+macalla "Hmmm ... ní gá duit Berkeley líonrú i libc.a ..."macalla "ach is cosúil an grúpa Wollongong gur hacked sé."
+		-- Larry Wall in Configure from the perl distribution
+
+%
+macalla "ick, Faic oibrigh !!! B'fhéidir go mbeadh ort a Diddle an folaíonn." ;;
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Tá $ pacáiste macalla Leathanaigh lámhleabhair ar fáil i bhfoirm foinse.macalla "Mar sin féin, ní gá duit nroff, mar sin go bhfuil siad dócha useless a thabhairt duit."
+		-- Larry Wall in Configure from the perl distribution
+
+%
+macalla "Níl do stdio an- STD."
+		-- Larry Wall in Configure from the perl distribution
+
+%
+#else / *! STDSTDIO * / / * An bealach mór, mall, agus dúr * /
+		-- Larry Wall in str.c from the perl source code
+
+%
+[Deireadh diatribe. Táimid ar ais anois agat ar do rialta sceidealtacláir ...]
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Fiú mura bhfuil tú in amhras, mheas an leas meabhrach an duine aTá a choimeád ar bun an gcód do dhiaidh, agus a chuirfidh dócha parens inan áit mícheart. - Wall Larry sa leathanach 'man' Perl
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"Cabhair shábháil ar fud an domhain!" - Wall Larry in README
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Hey, bhí mé a ligean awk bheith níos fearr ag * rud éigin * ... :-)
+		-- Larry Wall in <1991Nov7.200504.25280@netlabs.com>1
+
+%
+Tá mé cheana féin fadhb i bhfad ró le daoine ag smaoineamh ar an éifeachtúlachtis thógáil Perl a bhaineann lena fhad. Ar an láimh eile, tá mébreá in ann athrú m'intinn tseachtain seo chugainn ... :-) --lwall
+		-- Larry Wall in <1991Nov7.200504.25280@netlabs.com>1
+
+%
+Níl a fhios agam má tá sé cad ba mhaith leat, ach tá sé méid a fhaigheann tú. :-)
+		-- Larry Wall in <10502@jpl-devvax.JPL.NASA.GOV>
+
+%
+I dunno, aisling agam i Perl uaireanta ...
+		-- Larry Wall in  <8538@jpl-devvax.JPL.NASA.GOV>
+
+%
+Má cheadaítear mé "$ chugainn lipéad" ansin gur mhaith freisin a cheadú "Téigh $ lipéad",agus ní dóigh liom go bhfuil Ba mhaith leat go bhfuil ... :-)
+		-- Larry Wall in <1991Mar11.230002.27271@jpl-devvax.jpl.nasa.gov>
+
+%
+Mura féidir liom a dhoiciméadú rud éigin, tá sé de ghnáth ceachtar ar chúis mhaith,nó ar chúis dona. Sa chás seo tá sé ina chúis mhaith. :-)
+		-- Larry Wall in <1992Jan17.005405.16806@netlabs.com>
+
+%
+"Bhfaighidh mé sé seo ina ghné deas ach nach bhfuil sé i gcomhréir leis na doiciméid.Nó an bhfuil sé ina bug? ""A ligean ar ghlaoch air gné thaisme. :-)"
+		-- Larry Wall in <6909@jpl-devvax.JPL.NASA.GOV>
+
+%
+más rud é (Teagascóra (buf, sys_errlist [errno])) / * tú é seo a fheiceáil * /
+		-- Larry Wall in eval.c from the perl source code
+
+%
+más rud é (rsfp = mypopen ( "root / bin / mail", "w")) {/ * heh, heh * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+Má tá tú a ghlacadh go comhsheasmhach le cur chuige freasúla, áfach, go bhfuil daoinedul go dtí tús ag smaoineamh go bhfuil tú as Nua-Eabhrac. :-)
+		-- Larry Wall to Dan Bernstein in <10187@jpl-devvax.JPL.NASA.GOV>
+
+%
+Más mian leat go clár i C, clár i C. Is teanga deas. Ia úsáid ó am go chéile ... :-)
+		-- Larry Wall in <7577@jpl-devvax.JPL.NASA.GOV>
+
+%
+Más mian leat a fheiceáil samplaí Perl úsáideach, is féidir linn a shocrú cinnte go bhfuilcomp.lang.misc flooded leo, ach ní dóigh liom go mbeadh a chabhraíonn leis anroimh civilization. :-)
+		-- Larry Wall in <1992Mar5.180926.19041@netlabs.com>
+
+%
+Más mian leat do chlár a bheith inléite, mheas ag soláthar an argóint.
+		-- Larry Wall in the perl man page
+
+%
+Tá a fhios agam go bhfuil sé aisteach, ach a dhéanann sé a dhéanamh níos éasca ag scríobh filíochta i Perl. :-)
+		-- Larry Wall in <7865@jpl-devvax.JPL.NASA.GOV>
+
+%
+Feicfidh mé a rá arís don loighic lagaithe.
+		-- Larry Wall
+
+%
+D'fhéadfadh liom a bheith in ann a shoehorn tagairt brath i ar bharr an uimhriúilluach trí disallowing tagairtí il ar scálaigh le luach uimhriúil,ach ní bheadh ​​sé chomh glan. Liom a dhéanamh bíodh imní ort ó am go chéile faoi sin. --lwall
+		-- Larry Wall
+
+%
+Tá mé cinnte go d'fhéadfaí a bearnach níos readably, ach tá mé scanraithe dean parsálaí awk.
+		-- Larry Wall in <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Go ginearálta, má cheapann tú nach bhfuil rud éigin i Perl, triail a bhaint amach, mar gheall ar éde ghnáth. :-)
+		-- Larry Wall in <1991Jul31.174523.9447@netlabs.com>
+
+%
+Go ginearálta, a dhéanann siad cad ba mhaith leat, mura mian leat comhsheasmhacht.
+		-- Larry Wall in the perl man page
+
+%
+Suimiúil go leor, toisc gur féidir dearbhuithe subroutine teacht in áit ar bith,ní bheadh ​​agat a chur TÚS {} ag an tús, ná END {} ag andeireadh. Suimiúil, aon? N'fheadar an mbeadh Henry maith liom é. :-) --lwall
+		-- Larry Wall in the perl man page
+
+%
+Sílim go bhfuil sé ina ghné nua. Ná insint dhuine ar bith a bhí sé timpiste. :-)
+		-- Larry Wall on s/foo/bar/eieio in <10911@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Tá sé níos éasca a port bhlaosc ná script bhlaosc."
+		-- Larry Wall
+
+%
+Tá sé, ar ndóigh, scríofa i Perl. Tá aistriúchán go C chlé marfheidhmiú le haghaidh an léitheoir. :-) - Wall Larry in <7448@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall
+
+%
+Tá sé ar fad draíocht. :-)
+		-- Larry Wall in <7282@jpl-devvax.JPL.NASA.GOV>
+
+%
+Tá sé doiciméadaithe sa Leabhar, áit éigin ...
+		-- Larry Wall in <10502@jpl-devvax.JPL.NASA.GOV>
+
+%
+> (Tá sé sorta cosúil sed, ach nach bhfuil. Tá sé sorta cosúil awk, ach nach bhfuil. Etc.)Ciontach mar a ghearrtar. Is Perl sona sásta gránna, agus go sona sásta díorthach.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Tá sé ann mar SOP le hiar-ríomhchláraitheoirí Ada. :-)
+		-- Larry Wall regarding 10_000_000 in <11556@jpl-devvax.JPL.NASA.GOV>
+
+%
+Ní bheidh sé a bheith clúdaithe sa leabhar. Tá an cód foinse a bheith úsáideach le haghaidhrud éigin, tar éis an tsaoil ... :-)
+		-- Larry Wall in <10160@jpl-devvax.JPL.NASA.GOV>
+
+%
+: Chuala mé go bhfuil bhlaosc (bourne nó csh) scagaire a Perl, ní: Duine ar bith a fhios ag seo nó nuair is féidir liom é a fháil?Yeah, scagadh tú é tríd Tom Christiansen. :-) - Larry Wall
+		-- Larry Wall in <10160@jpl-devvax.JPL.NASA.GOV>
+
+%
+: Tá mé iarracht (i vi) "g / [a-z] \ n [a-z] / s // _ /" ... ach ní dhéanann sin: Ghearradh air. Aon smaointe? (Glacaim leis gurb bhféadfadh sé a bheith ina saghas dhá-pas de thuaslagán).Sa chéad pas, a shuiteáil Perl. :-)
+		-- Larry Wall <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Ní bheidh mé trácht ar aon ainmneacha, toisc nach bhfuil mé ag iarraidh a fháil sun4 isteachdtrioblóid ... :-) - Larry Wall in <11333@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Ní Just a dhéanamh a chur i gcomparáid é le teanga fíor, nó beidh tú míshásta ... :-)
+		-- Larry Wall in <1992May12.190238.5667@netlabs.com>
+
+%
+Ní Just a dhéanamh a chruthú comhad a dtugtar -rf. :-)
+		-- Larry Wall in <11393@jpl-devvax.JPL.NASA.GOV>
+
+%
+dheireanach | Perl -PE ': (. *) $ _ x = / (.. ..) ... / && "' $ 1 '" GE $ 1 && "' $ 1 '" lt $ 2'Sin dul a láidre do Randal chun buille ... :-)
+		-- Larry Wall in  <1991Apr29.072206.5621@jpl-devvax.jpl.nasa.gov>
+
+%
+Ligean le rá na docs léargas simplithe na réaltachta ... :-)
+		-- Larry Wall in  <6940@jpl-devvax.JPL.NASA.GOV>
+
+%
+Lig dúinn a bheith carthanachta, agus glao sé ina ghné míthreorach :-)
+		-- Larry Wall in <2609@jato.Jpl.Nasa.Gov>
+
+%
+Tá Lispers measc na grads is fearr de na Scuab-It-Under-D'iarr duine éigin-Else's-cairpéadScoil na insamhladh Simplíocht. [Go raibh incendiary sách? :-)]
+		-- Larry Wall in <1992Jan10.201804.11926@netlabs.com
+
+%
+No, níl mé ag dul a mhíniú dó. Mura féidir leat an figiúr sé amach, ní raibh túiarraidh a fháil amach ar aon nós ... :-)
+		-- Larry Wall in <1991Aug7.180856.2854@netlabs.com>
+
+%
+/ * A dhéanamh anois ceann nua sa láthair ceannann céanna * /
+		-- Larry Wall in cons.c from the perl source code
+
+%
+OK, go leor hype.
+		-- Larry Wall in the perl man page
+
+%
+Oops! Tá tú creature dána! Níor chuir tú rith Cumraigh le SH!Beidh mé iarracht chun an cor a leigheas trí SH reáchtáil ar do shon ...
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Perl tá sé deartha chun a thabhairt duit roinnt bealaí aon ní a dhéanamh, mar sinmheas ag piocadh an ceann is inléite.
+		-- Larry Wall in the perl man page
+
+%
+Perl féin de ghnáth maith go leor faoi ag insint duit cad nach ba chóir duitdhéanamh. :-)
+		-- Larry Wall in <11091@jpl-devvax.JPL.NASA.GOV>
+
+%
+Is cláir Perl bhfuil * eimpíreach * eolaíocht!
+		-- Larry Wall in <10226@jpl-devvax.JPL.NASA.GOV>
+
+%
+pos + = screamnext [pos] / * mbaineann sé seo goof suas in áit ar bith? * /
+		-- Larry Wall in util.c from the perl source code
+
+%
+Q. Cén fáth go bhfuil sé seo amhlaidh clumsy?F. Is é an trick a úsáid láidreachtaí Perl ar áit a laigí.
+		-- Larry Wall in <8225@jpl-devvax.JPL.NASA.GOV>
+
+%
+Randal dúirt go mbeadh sé diana a dhéanamh i sed. Ní raibh sé ag rá nach raibh séthuiscint sed. Randal thuigeann sed go measartha maith. Agus sin an fáth séÚsáideann Perl. :-) - Wall Larry in <7874@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <8225@jpl-devvax.JPL.NASA.GOV>
+
+%
+Is féidir le ríomhchláraitheoirí Real scríobh cód tionól i dteanga ar bith. :-)
+		-- Larry Wall in  <8571@jpl-devvax.JPL.NASA.GOV>
+
+%
+Cuimhnigh cé goNíl aon riail GINEARÁLTA DO CONVERTING LIOSTA ISTEACH scálach.
+		-- Larry Wall in the perl man page
+
+%
+s = (ruabhric *) (fada) retval; / * Ouch * /
+		-- Larry Wall in doio.c from the perl source code
+
+%
+comhartha (i, SIG_DFL); / * Géarchor, géarchor, géarchor * /
+		-- Larry Wall in doarg.c from the perl source code
+
+%
+Tá brón orm. Is é mo thástáil eagraíocht róbheag, nó ró-mhór, ag brathar an gcaoi a fhéachann tú air. :-)
+		-- Larry Wall in <1991Apr22.175438.8564@jpl-devvax.jpl.nasa.gov>
+
+%
+stab_val (stab) -> str_nok = 1; / * Cén hack iontach! * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+str-> str_pok | = SP_FBM; / * Draíochta domhain * /s = (gan síniú Char *) (str-> str_ptr); / * Draíochta * doimhne /
+		-- Larry Wall in util.c from the perl source code
+
+%
+Oirbheartaíochta? OIRBHEARTAÍOCHTA!?!? Hey, buddy, chuaigh muid ó kilotons dtí megatonscúpla nóiméad ó shin. Ní gá aon stinkin 'nukes oirbheartaíochta.(Dála an scéil, an bhfuil tú athrú do 10 milliún duine?) --lwall
+		-- Larry Wall in util.c from the perl source code
+
+%
+Ciallaíonn caithfidh me a bhaint as $ SAL chun línte nua faoi chois anois.Tá an saol ridiculous.
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Níl an autodecrement draíochta.
+		-- Larry Wall in the perl man page
+
+%
+Is é an míbhuntáiste amháin a fheicim go mbeadh sé bhfeidhm ar gach duine a fháil Perl.Horrors. :-)
+		-- Larry Wall in  <8854@jpl-devvax.JPL.NASA.GOV>
+
+%
+*** Tá líne roimhe seo an focal dána "$ &". \ Nmás / (IBM | úll | awk) /; # :-)
+		-- Larry Wall in the perl man page
+
+%
+Níl go nothin 'sa saol seo go fiú a bheith ina snot os a chionn.
+		-- Larry Wall in <1992Aug19.041614.6963@netlabs.com>
+
+%
+Tá go leor amanna nuair is mian leat é a neamhaird a dhéanamh ar an gcuid eile den teaghrán díreachcosúil le atof () a dhéanann. Oddly leor, glaonna Perl atof (). Cé chomh áisiúil. :-)
+		-- Larry Wall in <1991Jun24.231628.14446@jpl-devvax.jpl.nasa.gov>
+
+%
+Tá bealaí dócha níos fearr a dhéanamh sin, ach bheadh ​​sé a dhéanamh ar an parsálaíníos casta. Liom a dhéanamh, ó am go chéile, ag streachailt feebly gcoinne chastacht ... :-)
+		-- Larry Wall in <7886@jpl-devvax.JPL.NASA.GOV>
+
+%
+Tá fós roinnt rudaí eile a dhéanamh, mar sin nach dóigh mura liom a shocrúdo bug is fearr leat go bhfuil do tuarascáil fabht sa buicéad giotán. (D'fhéadfadh sé a bheith,ach ní dóigh é. :-) Larry Wall i <7238@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <7886@jpl-devvax.JPL.NASA.GOV>
+
+%
+Tá, áfach, le aisteach, boladh musty san aer a gcuimhne domrud éigin ... hmm ... yes ... Tá mé é ... níl a VMS in aice láimhe, nó mé Blit.
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"Is é an mbóthar go dtí ifreann pábháilte le snowballs leá."
+		-- Larry Wall in  <1992Jul2.222039.26476@netlabs.com>
+
+%
+/ * Déanann an beagán de chicanery feidhm unary dhiaidhlúibíní isteach feidhm le hargóint amháin, tosaíocht is airde. * /
+		-- Larry Wall in toke.c from the perl source code
+
+%
+"... Ní chiallaíonn sé seo nár cheart cuid againn ag iarraidh, i áitsort dispassionate slí, a chur le piléar trí csh ceann. "Larry Wall i <1992Aug6.221512.5963@netlabs.com>
+		-- Larry Wall in toke.c from the perl source code
+
+%
+> Sé seo déanta Wonder dom, go tobann: Is féidir Telnet bheith scríofa i Perl?Ar ndóigh, is féidir é a bheith scríofa i Perl. Anois, más rud é gur mhaith leat a dúirt nroff,bheadh ​​níos dúshlánaí ... - Larry Wall
+		-- Larry Wall in toke.c from the perl source code
+
+%
+Cé Feicfidh mé a admháil inléiteacht fulaingt beagán ...
+		-- Larry Wall in <2969@jato.Jpl.Nasa.Gov>
+
+%
+tmps_base = tmps_max; / * Chosaint ar ár teaghrán mortal * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Is Unix cosúil le dola-bhóthar ar a bhfuil tú chun stop a chur gach 50 troigh apá nicil eile. Ach hug! Bhraitheann tú ach 5 cent níos boichte gach uair.
+		-- Larry Wall in <1992Aug13.192357.15731@netlabs.com>
+
+%
+"Aontaímid go léir maidir leis an riachtanas an gcomhréiteach. Ní féidir linn aontú ach arnuair is gá chun comhréiteach. "
+		-- Larry Wall in  <1991Nov13.194420.28091@netlabs.com>
+
+%
+/ * Tá iarracht déanta againn a dhéanamh ar an gcás gnáth mar neamhghnácha agus is féidir * /
+		-- Larry Wall in cmd.c from the perl source code
+
+%
+Cad mar gheall ar SCRÍOBH dtús agus a réasúnú sé na dhiaidh? :-)
+		-- Larry Wall in <8162@jpl-devvax.JPL.NASA.GOV>
+
+%
+: 1. Cad é an fhéidearthacht seo leis sa todhchaí?Go luath amach anseo, is é an dóchúlacht gar go nialas. Sa bhfad i gcéinanseo, beidh mé marbh, agus is féidir sliocht dhéanamh is cuma cad is maith leo ... :-) --lwall
+		-- Larry Wall in <8162@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Cad é an fhuaim de Perl? An bhfuil sé nach bhfuil an fhuaim balla adaoine stopadh banging a gceann i gcoinne? "
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Nuair a bheidh amhras, parenthesize. Ar a laghad beidh sé in iúl ar roinntdroch-Preab schmuck ar an eochair% in vi.
+		-- Larry Wall in the perl man page
+
+%
+"Ní féidir leat a bheith filenames níos faide ná 14 chars.Ní féidir leat, fiú smaoineamh mar gheall orthu! "
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Tá tú a admháil go bhfuil sé deacair a misplace na foinsí Perl. :-)
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Ceapann Do csh fós fíor bréagach. Scríobh chuig do díoltóir inniu agus insintdóibh an bhliain seo chugainn chóir Cumraigh chun "RM / bin / csh" mura shocrú siad a gcuidblasted bhlaosc. :-) - Wall Larry in Cumraigh as an dáileadh Perl
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Ba mhaith leat é i líne amháin? An bhfuil sé a d'oirfeadh i 80 colúin? :-)
+		-- Larry Wall in <7349@jpl-devvax.JPL.NASA.GOV>
+
+%
+Bhuel, go leor clowning timpeall. Perl é, i rún, a glanadh suas agusLeagan achoimre den iontach teanga leathnádúrtha a dtugtar"Unix".
+		-- Larry Wall in <1994Apr6.184419.3687@netlabs.com>
+
+%
+Ar aon nós, níl neart seomra do amhras. D'fhéadfadh sé cosúil éasca go leor,ach tá dearadh teanga ríomhaireachta díreach cosúil le spaisteoireacht sa pháirc.Jurassic Park, is é sin.
+		-- Larry Wall in <1994Jun15.074039.2654@netlabs.com>
+
+%
+Ba mhaith liom a fheiceáil daoine ag baint úsáide Perl chun rudaí a ghliúáil dá chéile go cruthaitheach, níach go teicniúil ach freisin go sóisialta.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Is é an stair iomlán na ríomhairí rampant le cheerleading sa chás is fearr agusbigotry ag measa.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Tá weanies Unix chomh dona ag an duine ar bith.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Má stinks éigin, féachaint air mar chúis chun cabhrú leo, nach bhfuil cúis aige chun aiad a sheachaint.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Mar is gnáth, tá mé ag dul thar fóir leis an cás chun an t-cúpla néaróin scaoilte, ach anIs fírinne ghnáth áit éigin sa muddle, uh, lár.
+		-- Larry Wall in <199702111639.IAA28425@wall.org>
+
+%
+Corr go dóigh linn go bhfuil sainmhínithe cinntitheach. :-)
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+: Ach i gcás roinnt rudaí, Perl nach bhfuil ach an rogha is fearr is féidir.(Go fóill) :-)
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Ní maith liom oifigeach seo / idirdhealú neamhoifigiúil. Sé fuaim, ER, officious.
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Má scríobhann tú rud éigin mícheart go leor, beidh mé sásta a dhéanamh suas le nuawitticism díreach ar do shon.
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Perl 5 tugadh isteach gach rud eile, lena n-áirítear an cumas a thabhairt isteachchuile shórt eile.
+		-- Larry Wall in <199702252152.NAA28845@wall.org>
+
+%
+Go dtí seo tá muid ag a bhainistiú a sheachaint ag casadh Perl isteach APL. :-)
+		-- Larry Wall in <199702251904.LAA28261@wall.org>
+
+%
+Gan go bhfuil mé rud ar bith i bhfad in aghaidh iomarcaíochta. Ach dúirt mé go cheana.
+		-- Larry Wall in <199702271735.JAA04048@wall.org>
+
+%
+Is féidir leo a reáchtáil i gcónaí stderr trí mheán uniq. :-)
+		-- Larry Wall in <199704012331.PAA16535@wall.org>
+
+%
+Ba mhaith liom a chur ar mo chuid airgid áit a bhfuil mo bhéal, ach go gcoinníonn mo bhéal ag gluaiseacht.
+		-- Larry Wall in <199704051723.JAA28035@wall.org>
+
+%
+Ar ndóigh, áirithe agam an ceart chun athruithe a dhéanamh go hiomlán dúr Perlmás dóigh liom feabhas a chur ar siad an teanga. :-)
+		-- Larry Wall in <199704251604.JAA27300@wall.org>
+
+%
+Cuir glaoch orm leamh, ach nach glaoch leadránach orm.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+I mo thuairimse, $ [níos mó cosúil le Coelacanth ná mastadon.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+: Úsáid mé ag smaoineamh go raibh sé seo ach léiriú eile de Larry: Scil ollmhór ag tarraingt as an méid a bheadh ​​daoine eile a theipeann nó a balk ag.Bhuel, bhí a fhios gach duine eile go raibh sé dodhéanta, mar sin ní raibh siad iarracht. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+gceist againn an chuid is mó de na mantras thart anseo go tréimhsiúil, i gcásNí raibh tú faoi deara. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+(Presuming mhaithe argóint go bhfuil sé fiú * indéanta * a dhearadhcód níos fearr i Perl ná i C. :-)
+		-- Larry Wall on core code vs. module code design
+
+%
+: Is é an ordlathas iomarcach.Dá bhrí sin tá an Anarchy. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+d'fhéadfaí a dhéanamh cinnte, ach níl mé ag iarraidh a titim isteach sa Forthgaiste, áit a bhfuil gach implementation ag rith Forth ndáiríre difriúilteanga.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+TCL fada ó shin thit isteach sa gaiste Forth, agus é ag iarraidh anois desperately aextricate féin (le roinnt cúnamh ó rannóg margaíochta Gréine).
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Is é an croí nach reoite, ach slushy.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+An rún iomlán an chórais modúl Perl 5 a bhí leis an bhfás a spreagadhde Perl cultúr seachas an croí Perl.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Is féidir le Randal scríobh aon-liners arís. Tá gach duine sásta, agus má leathnaíonn síocháinar láimh an Domhain ar fad.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Faigheann an saol leadránach, invents duine éigin riachtanas eile, agus arís eile táimid agdul ar an crank ar an screwjack dul chun cinn ag súil go bhfaigheann aon duinescrewed.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Níl príosúnaigh aincheist anseo. Thar an téarma fada, tá symbiosis níosúsáideach ná seadánachas. Spraoi níos mó, freisin. Iarr ar aon mitochondria.
+		-- Larry Wall in <199705102042.NAA00851@wall.org>
+
+%
+Is léir go raibh mé ceachtar isteach ar rud éigin, nó ar rud éigin.
+		-- Larry Wall on the creation of Perl
+
+%
+Tá sé an Magic a chomhaireamh.
+		-- Larry Wall on Perl's apparent ugliness
+
+%
+Go raibh tú a dhéanamh Dea Magic le Perl.
+		-- Larry Wall's blessing
+
+%
+P.S. Is máistirphlean Perl (nó cad a Gabhann do amháin) a ghlacadh ar láimh ar andomhain mar Bhéarla raibh. Er, * mar * English rinne ...
+		-- Larry Wall in <199705201832.LAA28393@wall.org>
+
+%
+Is féidir leat aon rud a chruthú trí ina luaitear teanga ríomhaireachta eile. :-)
+		-- Larry Wall in <199706242038.NAA29853@wall.org>
+
+%
+I mo thuairimse, ní raibh tú freagra mar gheall ar úsáid tú na téarmaí "ceart" agus"Ceart", tá brí i bhfad sa chultúr Perl ceachtar acu. :-)
+		-- Larry Wall in <199706251602.JAA01786@wall.org>
+
+%
+Tá mé cinnte go mbeadh matamaiticeoir éileamh go bhfuil 0 agus 1 araon an-Uimhreacha suimiúil. :-)
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+True, tuairisceáin sé "" a chur in bréagach, ach "" Is fiú níos suimiúlauimhir ná 0.
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Tá aon luach bréagach dul a bheith cothrom leadránach i Perl, matamaiticeoiríainneoin.
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Ní raibh muid a chur i ^^ mar gheall ar ansin ba mhaith linn a choinneáil ag insint do dhaoine cadciallaíonn sé, agus ansin ba mhaith linn a choinneáil ag insint dóibh cén fáth nach ndéanann sé gearrciorcad. : - /
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Aon duine ag iarraidh eagarthóir fráma teiliméadrachta dénártha scríofa i Perl?
+		-- Larry Wall in <199708012226.PAA22015@wall.org>
+
+%
+Chuid is mó áiteanna idirdhealú a dhéanamh orthu ach trí úsáid a bhaint an luach cuí.Hooray do chomhthéacs ...
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Ach ansin tá sé rud beag corr chun smaoineamh go dhearbhú slánuimhir rud éigin fhéadfadhmall i ndáiríre síos ar an gclár, má chríochnaigh sé suas forcing níos conversionsar ais go dtí teaghrán.
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Tá sé indéanta go bhfuil mé díreach tar ar leathcheann, agus ní aithníonn a sleepyslavemaster nuair a fheicim ceann.
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+B'fhéidir Tá mé ag iarraidh ar an géine do naimhde ag déanamh. :-)
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Tá traidisiún fada ag obair timpeall tiomsaitheoirí Perl.
+		-- Larry Wall in <199708252256.PAA00105@wall.org>
+
+%
+Pearsanta, is maith liom a roinnt defiantly mo infinitives. :-)
+		-- Larry Wall in <199708271551.IAA10211@wall.org>
+
+%
+Is diagacht Real gcónaí in áit shocking do dhaoine a cheanaI mo thuairimse, tá a fhios acu cad a cheapann siad. Tá mé ag shocked fós féin. :-)
+		-- Larry Wall in <199708261932.MAA05218@wall.org>
+
+%
+Ach b'fhéidir ní mór dúinn i ndáiríre go ...
+		-- Larry Wall in <199709011851.LAA07101@wall.org>
+
+%
+Ba chóir an ríomhaire a bheith ag déanamh an obair chrua. Sin an méid tá sé íoctha a dhéanamh,tar éis gach rud.
+		-- Larry Wall in <199709012312.QAA08121@wall.org>
+
+%
+Is iad an dá ráitis seo a leanas de ghnáth dá fíor:Ní Tá doiciméadú leor.Níl doiciméadú i bhfad ró.
+		-- Larry Wall in <199709020026.RAA08431@wall.org>
+
+%
+Ní dóigh liom go bhfuil mé ag dul a aontú leis sin. Bhealach i bhfad ró radharc trína chéile ...
+		-- Larry Wall in <199709021627.JAA11966@wall.org>
+
+%
+Níl cinnte fasach don cheana chomh maith. (Gan éileamh tá sé* Maith * fasach, gcuimhne duit. :-)
+		-- Larry Wall in <199709021744.KAA12428@wall.org>
+
+%
+Ar ndóigh, seo á Perl, d'fhéadfadh muid a chur i gcónaí ar an dá chur chuige. :-)
+		-- Larry Wall in <199709021744.KAA12428@wall.org>
+
+%
+Maidir leis an caching reáchtáil-am, bhí mé ag dul a mholadh "taiscthe" (doh!), Achb'fhéidir "uair amháin" Is mó brí do dhaoine gnáth.
+		-- Larry Wall in <199709021812.LAA12571@wall.org>
+
+%
+Is iad na luaineachtaí candam randamach de mo inchinn tionóiscí stairiúla gotharlóidh tar éis a chinneadh go bhfuil na coincheapa na scóipe dinimiciúil agus foclóireachtaTá scóipe orthogonal agus ba chóir go bhfanfadh an mbealach.
+		-- Larry Wall in <199709021854.LAA12794@wall.org>
+
+%
+Ar go leor leibhéal, tá Perl ar "trasnánach" teanga.
+		-- Larry Wall in <199709021854.LAA12794@wall.org>
+
+%
+Tá mé dáiríre faoi ag smaoineamh tríd na féidearthachtaí os a chuirimidréiteach ar rud ar bith. Tá gach rudaí na buntáistí a bhaineann a gcuidmíbhuntáistí, agus vice versa.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Tá cuid de dhearadh teanga purturbing an ghné atá molta i éagsúlatreoracha a fheiceáil conas a d'fhéadfadh sé a generalize sa todhchaí.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Uaireanta muid ag roghnú an ginearálú. Uaireanta ní dhéanaimid.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Ní ba mhaith liom a scríobh riamh an abairt iomlán a mé féin, ach ansin, ní mé úsáidTéigh oiread.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Tá sé appositival, má tá sé ann. Agus nach ndéanann sé a bheith ann.Agus tá sé i ndáiríre soiléir go bhfuil sé ann nuair a tá sé ann.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Ó, a fháil ahold de féin. Aon duine ar Tá ag moladh go pharsáil muid ag Béarla.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Mar aon le gach na moltaí eile, tá sé go bunúsach ach liosta de na focail.Is féidir leat déileáil leis sin ... :-)
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Tá súil agam nach bhfuil mé ag dul chomh cáiliúil sin nach féidir liom smaoineamh amach ualach [sic] níos mó.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Bheadh ​​sé indéanta a bhaint as roinnt foirmeacha Téigh, ach nach bhfuil mébothered.
+		-- Larry Wall in <199709041935.MAA27136@wall.org>
+
+%
+Titeann "Téigh" i Perl sa chatagóir de rudaí crua ba chóir a bheithis féidir, rudaí nach éasca ba chóir a bheith éasca.
+		-- Larry Wall in <199709041935.MAA27136@wall.org>
+
+%
+Conas is féidir Crays agus alphas déileáil leis an bhfadhb POSIX?
+		-- Larry Wall in <199709050042.RAA29379@wall.org>
+
+%
+Ceann de na cúiseanna is Perl tapúla ná gan ainm áirithe eile léirmhíniúTeangacha go chónaisceann sé ainmneacha athróg a pacáiste ar leith (nóscóip) ag am tiomsaithe seachas ag am a reáchtáil.
+		-- Larry Wall in <199709050035.RAA29328@wall.org>
+
+%
+Bhuel, tá go bhfuil níos mó-nó-níos lú an méid a bhí á rá agam, cé ar ndóigh theanntaIs beagán níos Cosmaí ná na hoibreoirí bitwise.
+		-- Larry Wall in <199709051808.LAA01780@wall.org>
+
+%
+Inis tú é go bhfuil sé táscach trí appending $ !. Sin an fáth a rinne muid ag $!sórt sin a ainm athraitheach gearr, tar éis an tsaoil. :-)
+		-- Larry Wall in <199709081801.LAA20629@wall.org>
+
+%
+D'fhéadfaí an rogha chuige a rinne an fhreagracht ar anRíomhchláraitheoir.
+		-- Larry Wall in <199709081901.MAA20863@wall.org>
+
+%
+Mar a dúirt duine éigin amach, d'fhéadfá a bheith tréith a deir "bharrfheabhsúan heck as an gnáthamh ", agus go mbeadh do sainmhíniú heck a bheith inaparaiméadar don optimizer.
+		-- Larry Wall in <199709081854.LAA20830@wall.org>
+
+%
+Buille faoi thuairim mé cad mé ag rá go bhfuil go bhfuil an Croak atá i gceist requiringcomhaontú (sa chiall teanga) nach bhfuil ag ceannach dúinn rud ar bith.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Má tá tú ag dul a shainmhíniú aicearra, a dhéanamh ansin é ar an mbonn [sic] darnaicearra féidir leat.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Is é mo phost sa saol chun taisteal gach bóthar, ionas gur féidir roinnt a chur ar an mbótharlúide thaistil, agus daoine eile ar an mbóthar níos thaistil, agus go léir a bhfuil alá taitneamhach.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Tá sé ag éirí níos deacra agus níos deacra chun smaoineamh amach os ard. Ceann de na laethantaduine ag dul a dul amach agus a mharú Thomas a'Becket dom ...
+		-- Larry Wall in <199709242015.NAA10312@wall.org>
+
+%
+Bhí mé ar tí é a rá, "Seachain Laochra mar an plague," ach tá a fhios agat, is féidir leoleigheas an plague le peinicillin na laethanta seo.
+		-- Larry Wall in <199709242015.NAA10312@wall.org>
+
+%
+Ach d'fhéadfadh an fhéidearthacht de mhí-úsáid a bheith cúis mhaith a fhágáilcumais as teangacha ríomhaireachta eile, nach bhfuil sé cúis mhaithcumais fágáil as Perl.
+		-- Larry Wall in <199709251614.JAA15718@wall.org>
+
+%
+Oh, fan, go raibh Randal ... Nevermind ...
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+:-) Do chuid féin féin.
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+P.S. Is dócha gur cheart dom a bheith i ndáiríre níos deise do dhaoine sa lá atá inniu, ag smaoineamhBeidh mé ag canadh in anocht cór Billy Graham ... :-)
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+Magically ag casadh daoine comhthéacsanna sean scálach isteach liosta comhthéacsanna ischos ar roinnt cineálacha de tubaiste.
+		-- Larry Wall in <199709291631.JAA08648@wall.org>
+
+%
+: An (i gcoibhneas le AutoSplit 1.03) tar éis iarrachtaí gach duine a shásamh: Agus b'fhéidir pleases aon duine:Sílim go bhfuil ar bhealach fionnuar.
+		-- Larry Wall in <199709292015.NAA09627@wall.org>
+
+%
+Agus is féidir linn a sholáthar i gcónaí iad le clár a dhéanann comhaid comhionannisteach naisc chun an comhad amháin.
+		-- Larry Wall in <199709292012.NAA09616@wall.org>
+
+%
+Ní raibh mé ag moladh go ndéanaimid na naisc dóibh, a chur ar fáil ach iad aleis na huirlisí sin a dhéanamh más mian leo a chur ar an Gamble (nó an t-gambol).
+		-- Larry Wall in <199709292259.PAA10407@wall.org>
+
+%
+Cuireadh é seo beartaithe le tamall. Buille faoi thuairim mé beidh orainn ach a fháildhuine le tuit heisceachtúil bhabhta.
+		-- Larry Wall in <199709302338.QAA17037@wall.org>
+
+%
+    athrú (tag $ @) {    OverflowError =>rabhadh "Ní mór Dam a dhréineáil";    DomainError =>rabhadh "Ní mór an Rí a bheith oilte";    NuclearWarError =>bás;    }
+		-- Larry Wall in <199709302338.QAA17037@wall.org>
+
+%
+Is féidir liom cinnte súil agam go bhfuil earráid chomhréire.
+		-- Larry Wall in <199710011752.KAA21624@wall.org>
+
+%
+Soitainly. Bhí mé ag glacadh leis a tháinig leis an OO-gnó de.
+		-- Larry Wall in <199710011802.LAA21692@wall.org>
+
+%
+Toisc go bhfuil an t-éileamh ar sé íseal go leor go mbeadh sé a láimhseáil is fearrmar XSUB, agus an t-éileamh air go bhfuil íseal go leor go bhfuil aon duinebothered a scríobh sé mar XSUB.
+		-- Larry Wall on in-place Perl sorting
+
+%
+Ach tá go beagán i bhfad ró-cosúil le dearbhú do mo cách, nuairi ndáiríre nach bhfuil sé ar cheann. Mar sin, déan dearmad a luaigh mé é.
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+Níl mé cinnte an bhfuil go úsáideach i ndáiríre ...
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+Mar sin féin, tá mo chuid airgid fós ar úsáid Vars dian. . .
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+De réir riail # 1, ba chóir 5.005 cheadú i gcónaí localization_ foclóireachta. . .
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+* Tá a fhios agam * is aisteach, ach Vars dian thagann cheana, an-ghar dopartitioning an slua isteach siúd ar féidir leo déileáil le lexicals áitiúla agussiúd nach féidir leo.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Má bhaineann tú stricture ó chlár Perl mór faoi láthair, tá tú díreachshuiteáil bugs moill, ach leis an ghné seo, tá tú ag a shuiteáil arbug toirt go seasta go héasca. Whoopee.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Is é an chúis is maith liom hitching ar turas ar Vars dian go buaileann sé síoslíon na n-pragmas annamh a úsáidtear daoine a mheabhrú, go fóill cuireannar bhealach a fháil go dtí an pointe nuair a muid bhféadfadh, ach b'fhéidir, someday, déanlexicals áitiúla an réamhshocraithe do gach duine, gan pragmas uselessfánaíocht thart cláir éagsúla, nó ag baint úsáide suas giotán eile i $ ^ H.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Ní dóigh liom go bhfuil sé fiú hogs níocháin os a chionn.
+		-- Larry Wall in <199710060253.TAA09723@wall.org>
+
+%
+Tá sé cinnte éasca a ríomh ar an meánfhreastal do Perlcomhdhálacha.
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+TCL claonadh a fháil haistriú chuig áiteanna aisteach mar ródairí.
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+Go stairiúil Tcl Tá stóráil i gcónaí go léir na torthaí idirmheánach mar teaghráin.(Le 8.0 mbíonn siad athmhachnamh sin. Ar ndóigh, rethought Perl go óan tús.)
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+Bhí a fhios agam gur mhaith liom gráin COBOL an nóiméad a chonaic mé gur mhaith úsáid siad "a dhéanamh" in ionad"A dhéanamh".
+		-- Larry Wall on a not-so-popular programming language
+
+%
+Ní Just a dhéanamh a dhéanamh ar an '9' paca bhformáid / uimhreacha unpack ... :-)
+		-- Larry Wall in <199710091434.HAA00838@wall.org>
+
+%
+Sílim go bhfuil sé níos éasca le léamh. Logh dom. Lúide deacair a léamh.
+		-- Larry Wall in <199710120226.TAA06867@wall.org>
+
+%
+Ní Bheadh ​​sé sin maith go leor.
+		-- Larry Wall in <199710131621.JAA14907@wall.org>
+
+%
+Chun folks gnáth, nach bhfuil comhshó uathoibríoch gcónaí. Tá sé rud éiginis féidir nó nach féidir dteastaíonn cúnamh follasach. Féach Billy Graham. :-)
+		-- Larry Wall in <199710141738.KAA22289@wall.org>
+
+%
+Tá feidhm ag an paidir serenity anseo. Dá linn. :-)
+		-- Larry Wall in <199710141802.LAA22443@wall.org>
+
+%
+Bhuel, is féidir leat a chur i bhfeidhm ar Perl peek () le unpack ( 'P', ...). Chomh luath agus tútá sin, níl ach slándála a áirithiú trí doiléire. :-)
+		-- Larry Wall in <199710161537.IAA07828@wall.org>
+
+%
+D'fhéadfá a fháil ar an coinníoll seo ó laistigh Perl más comharthaRitheann láimhseálaí ag díreach an am mícheart. Pointe eile do Chip ... :-)
+		-- Larry Wall in <199710161546.IAA07885@wall.org>
+
+%
+Mar a dúradh i follow, is fearr Real Perl ríomhchláraitheoirí rudaí a bheithamhairc ar leith.
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+An Dlí Harvard stáit: Faoi choinníollacha an tsolais, rialú teochta,taise, agus cothú, beidh an orgánaigh a dhéanamh mar pleases sé diabhal maith.
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+Ba cheart é sin a scríobh is dócha:    ! No @ # $% ^ & *:! @ Leathstad
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+Go bhfaigheann dúinn amach as cinneadh conas a litriú Reg [eE] XP |? RE. . .Ar ndóigh, ansin ní mór dúinn cinneadh a dhéanamh tag $ tuairisceáin ath ... :-)
+		-- Larry Wall in <199710171838.LAA24968@wall.org>
+
+%
+Ag brath ar an gcaoi a shainiú tú "i gcónaí". :-)
+		-- Larry Wall in <199710211647.JAA17957@wall.org>
+
+%
+'Cúrsa, nach obair nuair' a 'tá lúibíní.
+		-- Larry Wall in <199710211647.JAA17957@wall.org>
+
+%
+Bhí mé ag iarraidh gan cúlú trácht. Cé acu, ar ndóigh, ciallaíonn sé goIs mise "Righter" ná mianach, sa chiall teoiriciúil.
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Gan go bhfuil mé in aghaidh sneaking roinnt nóisin isteach gcloigeann duine arócáid. (Nó pléasctha iad i thar barr amach.)
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+(Sa mhéid gur féidir le duine ar bith ach Ríomhchláraitheoir Prolog thuiscint \ X go hiomlán.(Agus sa mhéid is gur féidir leis Ríomhchláraitheoir Prolog thuiscint "gearrtha". :-))
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Ach beidh tú faoi deara Perl Tá Téigh.
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Is dócha go bhfuil tú ag obair ar optimizer gcóir \ X neamhriachtanach (nóin áit, iomarcach, nach bhfuil an rud céanna i mo leabhar).
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Wow, tá mé ag á lámhaigh ag ón dá thaobh. Ciallaíonn mé * Ní mór a bheith * ceart. :-)
+		-- Larry Wall in <199710211959.MAA18990@wall.org>
+
+%
+Ní gá duit fanacht - is féidir leat a bheith é i 5.004_54 nó mar sin. :-)
+		-- Larry Wall in <199710221740.KAA24455@wall.org>
+
+%
+Níl rud éigin a rá le haghaidh ais an crann error fad.
+		-- Larry Wall in <199710221833.LAA24741@wall.org>
+
+%
+Níl sé i ndáiríre riail - tá sé níos mó cosúil le treocht.
+		-- Larry Wall in <199710221721.KAA24321@wall.org>
+
+%
+Dúbailte * sigh *. _04 Dul ar na mílte dlúthdhioscaí fiú atá inniu ann,mar a déarfá.
+		-- Larry Wall in <199710221718.KAA24299@wall.org>
+
+%
+Glacann an cód chomh maith go bhfuil sé deacair a misspell "a" nó "b". :-)
+		-- Larry Wall in <199710221731.KAA24396@wall.org>
+
+%
+Bhuel, hug, a ligean ar a dhéanamh ach gach rud isteach i dúnadh, agus ansin beidh orainntá ár bailitheoir truflais ginearálta, suiteáilte ag "úsáid cuimhne níos lú".
+		-- Larry Wall in <199710221744.KAA24484@wall.org>
+
+%
+Níl, ba mhaith a bheith amaideach.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+Bheadh ​​daoine a thuigeann comhthéacs a steamed go bhfuil duine éigin eiledictating conas is féidir leo glaoch air.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+Ar mhaithe le argóint beidh mé neamhshuim ar fad do chuid focal troid.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+Cuimhnigh ar fréamhshamhlacha mar teanga marcála greannmhar - Is é an léirmhíniúfágtha suas go dtí an t-inneall rindreáil.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+Is féidir le ceachtar cur chuige breith a thabhairt do cineál éagsúla de monstrosities.
+		-- Larry Wall in <199710221950.MAA25210@wall.org>
+
+%
+An bealach na rudaí dul, tá dócha go 6 nó 8 bealaí kludgey a dhéanamhé, agus ar bhealach níos fearr a i gceist athmhachnamh rud nach bhfuilcurtha rethunk fóill.
+		-- Larry Wall in <199710221859.LAA24889@wall.org>
+
+%
+Is léir do chuid scagairí throwing away an bpost ó Randal. :-)
+		-- Larry Wall in <199710221937.MAA25131@wall.org>
+
+%
+Beauty? Cad é sin?
+		-- Larry Wall in <199710221937.MAA25131@wall.org>
+
+%
+Oh yeah. An bhfuil dearmad déanta faoi sin. Dul senile, buille faoi thuairim mé ...
+		-- Larry Wall in <199710261551.HAA17791@wall.org>
+
+%
+'Cúrsa, nach bhfuil mé a mheá in fóill. :-)
+		-- Larry Wall in <199710281816.KAA29614@wall.org>
+
+%
+Tá eagla orm go bhfuil mo imoibriú leibhéal gut bunúsach, " 'dul ar aghaidh' Is gleoite, achNí gleoite gearradh é sa seomra éigeandála. "
+		-- Larry Wall in <199710281816.KAA29614@wall.org>
+
+%
+dócha go dtiocfadh duine a éileamh go bhfuil gné gan doiciméid ar bithsemantics. :-(
+		-- Larry Wall in <199710290036.QAA01818@wall.org>
+
+%
+: Conas a chuirfeá disambiguate na suímh?Ag lámhach an duine a rinne an dara ceann.
+		-- Larry Wall in <199710290235.SAA02444@wall.org>
+
+%
+Is ea, ní mór dúinn comhdhearcadh gur gá dúinn 64 tacaíocht giotán. :-)
+		-- Larry Wall in <199710291922.LAA07101@wall.org>
+
+%
+: - Gearrtha i regexpsNí dóigh liom go thángamar ar chomhaontú ar sin. Táimid cúlú go fóill ...
+		-- Larry Wall in <199710291922.LAA07101@wall.org>
+
+%
+B'fhéidir é an am a bhriseadh sin.
+		-- Larry Wall in <199710311718.JAA19082@wall.org>
+
+%
+Boss: Forgot tú a shannadh ar an toradh ar do léarscáil!Hacker: Dang, tá mé ag forgetting i gcónaí mo assignations ...Boss: Agus cad é go "Téigh" déanamh ann?!?Hacker: Er, buille faoi thuairim mé mo mhéar shleamhnaigh nuair a bhí mé ag clóscríobh "getservbyport" ...Boss: Ah maith, beidh timpistí tarlú. B'fhéidir gur chóir dúinn a roghnaíodh APL.
+		-- Larry Wall in <199710311732.JAA19169@wall.org>
+
+%
+B'fhéidir go mbeidh siad a eisreachtú sheoladh liostaí randamach de na focail. fie táillefoo foe [sic]
+		-- Larry Wall in <199710311916.LAA19760@wall.org>
+
+%
+Hey, más rud é pi == 3, agus trí == 0, a dhéanann a dhéanann pi == 0? :-)
+		-- Larry Wall in <199711011926.LAA25557@wall.org>
+
+%
+Sílim go bhfuil tú ligean do chuid eolais ar internals cur isteach ar dobreithiúnas teanga anseo.
+		-- Larry Wall in <199711011949.LAA25651@wall.org>
+
+%
+(Ná shíl gur mhaith liom a bheith ag insint Malcolm agus Ilya an rud céanna ... :-)
+		-- Larry Wall in <199711071819.KAA29909@wall.org>
+
+%
+Agus nach bhfuil oibreoirí eile speisialta syntactically, ach aisteachar bhealaí eile, cosúil le "scálach", agus "Téigh".
+		-- Larry Wall in <199711071749.JAA29751@wall.org>
+
+%
+Ba chóir go mbeadh Iniomparthacht mbeadh an réamhshocraithe.
+		-- Larry Wall in <199711072201.OAA01123@wall.org>
+
+%
+I ndáiríre, tá sé chomh maith mar ba chóir dúinn a bhaint as (13,2,42,8, 'hike') isteachcóip pp_padav chomh maith.
+		-- Larry Wall in <199711081945.LAA06315@wall.org>
+
+%
+Dá mba Ada, is dócha gur mhaith againn ach huaire tairiseach 1/0 isteach    bás "roinn Mídhleathach ag nialas"
+		-- Larry Wall in <199711100226.SAA12549@wall.org>
+
+%
+An bhfuil tú ag rith perchance ar meaisín 64-giotán?
+		-- Larry Wall in <199711102149.NAA16878@wall.org>
+
+%
+Beagnach aon rud i Perl feidhmíonn cuspóir amháin.
+		-- Larry Wall in <199712040054.QAA13811@wall.org>
+
+%
+Níl roinnt luach siamsaíochta i breathnú ar dhaoine juggle nitroglycerin.
+		-- Larry Wall in <199712041747.JAA18908@wall.org>
+
+%
+In áirithe do mhí-úsáid do do chairde fíor.
+		-- Larry Wall in <199712041852.KAA19364@wall.org>
+
+%
+Er, Tom, is fuath liom a bheith ar an duine a chur in iúl seo amach, ach tá do liosta shocrúag tosú le resemble liosta gné. Ní mór duit a bheith an duine nó rud éigin.
+		-- Larry Wall in <199801081824.KAA29602@wall.org>
+
+%
+Tá sé deacair a tune cód mór tuned. :-)
+		-- Larry Wall in <199801141725.JAA07555@wall.org>
+
+%
+Beidh Perl ar fáil i gcónaí ar an null.
+		-- Larry Wall in <199801151818.KAA14538@wall.org>
+
+%
+Tá sé éasca chun an fhadhb stad réiteach le gunna gráin. :-)
+		-- Larry Wall in <199801151836.KAA14656@wall.org>
+
+%
+Bhuel, I mo thuairimse, ba chóir Perl reáchtáil níos tapúla ná C. :-)
+		-- Larry Wall in <199801200306.TAA11638@wall.org>
+
+%
+Chun Perl, nó nach Perl, is é sin an kvetching.
+		-- Larry Wall in <199801200310.TAA11670@wall.org>
+
+%

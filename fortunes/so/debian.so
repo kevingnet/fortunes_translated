@@ -1,0 +1,340 @@
+Waxaan qabaa inay tahay wax yar fantastic in ay isku dayaan in ay sameeyaan sawir ee dadkamaskaxda oo ka mid ah kooxda maamulka archive Debian safay ayboosteejada, wejiyadooduna waxay u shiday oo keliya by CRT leh qolof xidid yardegdeg ah iyo amarka"/project/org/ftp.debian.org/cabal/s3kr1t/nuke-non-free.pl" Oo dhan illobiddaoo diyaar u ah inay tagaan, iyagoo qarka u saaran in ka badan faraha fure u galaan, dhididka ahbeading damacyada filayo on bushimahooda ayay sare. "<20031104211846.GK13131@deadbeast.net> hadlayaanuu qabyo Contract Social beddelka
+		-- Branden Robinson in
+
+%
+Haddii aad u ordi distro a rinky-Augero, by labo ka mid ah u sameeyeymutadawiciin ah, sababta aan u ordaan distro a rinky-Augero, by badan oo iskaa wax u qabso sameeyey?
+		-- Jaldhar H. Vyas on debian-devel
+
+%
+Baakado waa in la dhiso-ku xiran tahay wixii ay ku dhisi-xiran tahay.
+		-- Santiago Vila on debian-devel
+
+%
+Waxaa jira 3 nooc oo guys - kuwa neceb badnayn (badnayn oo dhan, inwaa; gabdhaha aan ha off jillaab); kuwa ay yihiin cabsi off by gabdhahakuwaas oo wax yar ka maskax badan tahay celcelis ahaan, iyo kuwa guyssidoo kale xoogaa ka maskax badan tahay celcelis ahaan, laakiin waa in ay si xishood2 ma erayada wada gelin kara marka ay tahay illaa 20 cagaha gabar.
+		-- Vikki Roemer on debian-curiosa
+
+%
+Debian waa nidaamka hawlgalka Jedi: "Mar walba waxaa jira laba, Masterka iyoarday ah ".
+		-- Simon Richter on debian-devel
+
+%
+Tani waa Unix aan ka hadleynay, xusuuso. Waxa aan u maleeyeen in uu noqdofiican for barnaamijyada codsiyada.
+		-- Matthew Danish on debian-devel
+
+%
+... Laakiin hey, tani waa Linux, ma aha waxaa loogu tala galay in la sameeyo siddo oo aan la koobi karayn in 5seconds?
+		-- Jonathan Oxer in the apt-cacher ChangeLog
+
+%
+Waxaan shakhsi ahaan kuwo ku faraxsan yahay mid sii daayo deggan labadii sanaba ahay, ooam ee ra'yi ah in isku dayaya in ay sii daayaan dheeraad ah macnaheedu doonaa waxa aan heli doonaa inmagaca distro ka "xasiloon" in "liicdo".
+		-- Scott James Remnant on debian-devel
+
+%
+<Keybuk> Perl 6 ii nixiyo<Doogie> waxaad magacaabi kartaa shaqeeya wax. magaca halkan waa          string '~ | _ | ~'* Lo-Lan-2 Dabayl iska waddaa<Keybuk> waxa ay u muuqataa sida jaantuska ah qufulka kanaalka ah :)<Jaybonci> shaqeeya Smiley Japan?<Nickr> ^ _ ^
+		-- in #debian-devel
+
+%
+<Sam> /.ing arin waa sida weydiinaya tiro aan la koobi karayn ee daayeer waayo,       talo
+		-- in #debian-devel
+
+%
+<Daniels> weli, carshiga dhiig u muuqataa sidii filim ku saabsan overfiend           Hablahaygii bikradaha ahaa iyo qaar ka mid ah ama soo cabatay
+		-- in #debian-devel
+
+%
+<Jaybonci> dhab d-i waxay u taagan tahay "arrimo Ilaah uu wato",)
+		-- in #debian-devel
+
+%
+<Doogie> asuffield: sidee ayaad u malaynaysaa dpkg markii hore ku qoran? : |<Asuffield> by daynin iwj khatar aad u hesho dhow computer ah
+		-- in #debian-devel
+
+%
+<Asuffield> Kundarbetsplats ah waa wax aad u eekaan kartaa on miiska somebodies             oo iyaga Con galay isticmaalaya
+		-- in #debian-devel
+
+%
+<Joshk> joshk @ qulqulaya: /etc/logrotate.d> sh -n *<Joshk> Apache: line 14: Baadi Saan dhow calaamo lama filaan `} '<Joshk> Apache: line 14: `} '<Joshk> dhagarta adkaanayo<Asuffield> kuwa aan madaafiic qabnay<Erich> this ma ahaa digaag.
+		-- in #debian-devel
+
+%
+Waxaan la weeraray by dselect sida ilmo yar oo tan iyo fogaadaadebian.
+		-- Andrew Morton
+
+%
+* Joeyh rakibtay debian la isticmaalayo oo kaliya uu suulka weyn, waayo isbedel xawaaraha
+		-- in #debian-boot
+
+%
+* Liiwi qaadataa pasc jeedal iyo indhaha<Pasc> ohh !!! kinky!<Pasc> sida ku haboon, waxaan ahaa kaliya oo ku saabsan inuu u soo yeedho in buka shaqada ;-)
+		-- in #debian-devel
+
+%
+<Madow> soo baxday in grep laabtay qalad code 1 marka waxaa jira kulan no.       Waan ogaa. Maxaad u qaadan ii nus saac ah?
+		-- Seen on #Debian
+
+%
+Waa si fudud la aamini karin inta ay le'eg tamarta iyo hal-abuur dad leeyihiinmaal-gelin la abuuro liisanka diidani, been iyo doqon ...
+		-- - Sven Rudolph about licences in debian/non-free.
+
+%
+<Overfiend> partycle: Waxaan si dhab ah u baahan tahay fasax ka this            xirmo. dhab oo aan riyo ku saabsan soo bandhigid            cayayaanka doqon cusub xbase-preinst xalay. Taasi a            Sign Bad.
+		-- Seen on #Debian shortly before the release of Debian 2.0
+
+%
+<Madow> Fiirinta sida channel waa in :) caadi ah dib<Jim> Waxaad macnaheedu waxa uu ma boggan ka dhaqso badan qof walba ka akhrisan kartaa? :)
+		-- Seen on #Debian after the release of Debian 2.0
+
+%
+Just in ay ballaariso waxa Ross ayaa sheegay in, waxaa shaki la'aan waa aad u badan ay ka sugayaanof qaybinta kasta in ay si toos ah loo ogaado in ama aan kuqofka ku rakibidda waxaa ka akhrisan kartaa tilmaamaha Ingiriisi fudud, iyo haddii uuma, wadi karo iyada oo aan la gelin uu. Sidaas been waalli.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Zedboy> dackel: in guud * * jidka kaliya in ay isticmaalaan barnaamij computer ah         waa in ay fuliyaan. ayaa aad * * abid loo yaqaan utility nidaam oo a         waraaqo talinayaa labada waxaa la tirtiro, ama la tuuro         at xoolaha beerta a?<Dackel> zedboy: Ummm ... haa<Zedboy> dackel: rakibi xirmada manpages. waa in ay jiri         horeba tho.<Zedboy> dackel: tusaale ahaan ka mid ah sida korontada ah bovine?* Greycat doonayo video ah dackel tuuro / usr / bin / file at sac
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Elmo> Joy: mahad, farxad<Doogie> Elmo: in ay siyaado ah, Elmo<Elmo> doogie, haddaba tag play in gaadiidka<Doogie> ah, Elmo ah, waxaynu og nahay iyo jacaylka
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Doogie> farxad / Elmo: sababta looma isticmaali karo ip isku mid ah? jiray dab si         weyn in cinwaanka IP gubay?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Donnerjack> Waxba sheegay "Waxaan ku raaxaysan kula nool" sida hadiyadda             degree 3aad gubtay ...<Mephron> marka laga reebo, dabcan, isagoo sariirtiisa ku jeestay galay trebuchet ah.<Ladegard> Taasi macnaheedu waa in dadaal badan sort qaar ka mid ah Jacayl.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Qeyrul> Qof kasta oo halkan knowledgable arrimaha haadda biyaha? Haddii aad         iyada oo beerta ku socdaan, iyo goose a bilaabo aad ka dib markii ... iyo         ilaa uu dhammaado aad soo socda ka badan kala bar ka badan mile ilaa aad ka gaarto         gaarigaaga ... at 11pm. Ma goose ka rabid ama wax?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Wolfgang> dhibaatada la waano 'tag heli gabar dhab ah' waa           in aad u yar oo ka mid ah run ahaantii leeyihiin Isbadal qaawan           xigxigta<Xaqiiqada> Dude, aan gabar badala sidii afar jeer maalintii
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Z-Gryphon> Haddii Unicron lahaa card Creech casriga ah, oo uu hal ku dhiga noqon lahayd "Taasi            taas oo aanu qayb ka mid ah ka mid ma noqon noqon doonaan Hulka. "<Z-Gryphon> kaas oo sort of a grand-qiyaasta, version of apocalyptiga "Waxaan            ku ahay waxaan ahayba cunaan. ":)
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Liiwi> udp - go'in caalamiga ah ee xamaam ah
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Lilo> Waxaan mar walba rabay in ay web site leh sawirka weyn ee karooto a waxa on a
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Bdale> Bdale waa foosha ah Barksdale.<Lo-Lan-yeela> HM. Waa hubaal ma wax aan weligaa ha sii xusuusan doonaa.<Lo-Lan-yeela> Mind haddii aan idiin ku yeedhi Wensleydale halkii?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Luca> iyo kuwa dhihi fiilooyinka fiber leeyihiin gacan gacnta ugu yaraan iyo ugu       jiid xiisad? Bah! * * Yank<Cu> WAA fiber AAD FREAKS: P<Luca> cu, aad hoser, waa fiber. anigu qeybiso u leeyihiin in ay ka soo gudbay ka       buuraha oo wuxuu idin siin wedgie ah?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Maswan> Joy: Halkaan hoose cat fargeeto! :)<Maswan> Joy: qiyaasi fargeeto beero weyn iyo carabiyo dhintay on top of         waa .. dhiig hoos ordaya ..
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Mjg59> Damnit. Waxaan heystaa bil ah si ay u qoraan warqad ah. Tani waxay ku lug        dhab qoraal ah doodiisa of code waxaan doonayaa inaan la hadlaya        ku saabsan.<Asuffield> heli farabadan of ardayda iyo iyaga siin doono sidii layli<Mjg59> asuffield: Waxaan ku hareereysan farabadan ardayda. Waxaan mar Dambe        ha taaban iyaga code, waxaan dib u yimid oo arkay lahaa waxay qori        oo dhan C ++ code ee C iyo dhammaan code C ee C ++<Asuffield> mwahaha<Mjg59> oo kala jejebiyey dhistaan
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Moshez> waxa aan ku jeclahay Manoj waa uu jecel yahay, waayo, fudud oo yar yar         xal. sida EMACS. ama DVT.<Manoj> si fiican, DVT ahaa _supposed_ in uu noqdo mid fudud<Manoj> waxa kaliya qaaday 2 todobaad in ay qoraan<Moshez> Manoj: Waxay u baahan tahay a * * jaantuska in uu sharaxo waxa qayb kasta sameeya.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Moshez> ok, anigu ma aan guursan doonaa lo'da Jo-Con-El ee.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> kaftanka guska waa okay in shirkadda isku qasan. VMS MA waa !!!
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> Ltd: Fine, maraan nolosha kaliya ku fiiqaya iyo xiiqlayn at            waxa aad u jeedo. U shaqeeya dadka isticmaala Mac.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+dib u eegis 1.17.2.7Taariikhda: 2001/05/31 21:32:44; author: branden; gobolka: EXP; Khadadka: +1 -1ARRRRGH !! Helay G THE ** D *** DAREEN OF A F TEST ******* gadaal!
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend_> Overfiend ee Law First of Quality Xirmada: Haddii             ilaalin jecel yahay inuu muddo qayb ama dhammaan Magiciisa             CAPS, xirmada nuugi doonaa.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend_> Intel. aad Keenida technology goynta-ku laayeen ee 1979 ka             22 sano hadda.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> fure u dhawaaq Faransiis ku habboon waa in la jiid ah            labada geesood oo afkaaga hoos fog sida ay suurto gal u tegi kartaa,            ka dibna u cabaadaan, sida adiga oo calool-<Overfiend> aad runtii kawin doonaa shaqal aad looga dhawaajiyo jidkaas
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<- Overfiend ayaa joojin ( "soo galiyo inuu baabbi'iyo qalaad cusub                         Caalamka, oo nolosha iyo ilbaxnimo cusub cuno ")
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> nooca muuqaalkii in qoslaa baabuurta "AWD" iyo            diraa iyaga giringiratay galay webiyaasha
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> Joy: Hey, Waxaan ahay asshole ah. Assholes dhaadheer gaaska Iyadaa.            Taasi waxa aannu ku samayn.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> sida AJ dhihi lahaa, sugayaan mar walba ka shaqeeya<Overfiend> midkood waxa aad rabto in aad dhacdo, ama aad dhiman iyo ma noqon karaan            ilaayo dambe<Overfiend> dhibaato la falsafada this waa in si daacad ah AJ            waxa uu aaminsan yahay
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+* Doogie jeestay galay Manoj<Overfiend> doogie: danbeyn, waxaan dhan ka soo noqda galay Manoj<Overfiend> Manoj waa bir Debian ee<Overfiend> dambeyntii, waxaan suuska oo dhan si Manoj
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> laakiin eegto Faransiis ah. Waxaad muddo laga yaabaa inuu eray walba ee            afkooda dhawaqa la isticmaalayo oo kaliya oo ku saabsan 6 warqado<Overfiend> 4 shibanne iyo 2 shaqalada<Overfiend> c, f, r, l. Oo shaqalada ah? Waa hagaag, mid ka mid aha sanqadhii aad            marka aad leedahay caloosha; marka kale ee aad leedahay            shuban<Overfiend> maxaad ka cunto in østers oo rahyadii waa ka filan?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+X-Manoj-Jago-talinta: Fadlan la soco in Manoj Srivastava tahay shakiyaa    xaqiiqooyinka wax fuusho oo khilaafta wax gunaanad gaadhay in fariin this.
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Sangr> guriga waa meesha ugu sareeya waa bandwidth
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Sangr> ma perl more ... waa nixiyay ...<Sangr> i qabaa perl oo i baahan tahay waqti qaar ka mid ah midba midka kale<Sangr> aan wada sameeyey music u qurux badan oo ku saabsan sanad ka hor ...<Sangr> laakiin jeer isbedel, waxaan bedelay ..
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<StevenK> Waxaan sida caadiga ah kaganacsiga kartaa dareenka ah in ii sheeg inuu shil          looga qabto gabar galay duurka u
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Wiggy> bwah, vodka in aan mouse
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Wiggy> in a dhaqaaqo cusub cajiib ah, waxaan si dhab ah tijaabiyey Upload this
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<WiggyWork> 3990 N Apr 15 saaxiibtiis cute (45) beera ubaxa Hiwaayadda Xidhiidhada<WiggyWork> Anigu ma aan ka war aad saaxiib xirfadeed iyo weliba
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+Si kastaba ha ahaatee, aan xamaasad waayo, geedka waxaa lagu hagaajiyey qaybsan by qaybo ka mid ahma jira.mustaqbalka ee X
+		-- Daniel Stone on debian-{x,devel}, commenting on the
+
+%
+Ma waxay u malayn kaliya waxaan rabnaa in aan ku fadhiisan agagaarka debian rinjiyeynta swirls on ourciddiyaha?
+		-- Erinn Clark, referring to the Debian-women project
+
+%
+modconf (0.2.37) deggan deganayn, degdeg ah oo dhexdhexaad ah =  [...]  * Eduard Bloch:    - Go'an Makefile jebiyey Marcin Owsiany halka ka hor. manpage default The      ayaa overwritten la tarjumaadda dhalaalin. Weli waxaan la yaabanahay sababta      qofna this ogaaday hor. Xirtay: # 117474  [...]
+		-- Eduard Bloch <blade@debian.org>  Sun, 28 Oct 2001 12:53:27 +0100
+
+%
+<| Ryan |> aan isticmaalin deb<Netgod> u nin miskiin<Barkinta> netgod: heh<Kingsqueak> waxbaridda ku-heli rakibi hawl-p0rn
+		-- Eduard Bloch <blade@debian.org>  Sun, 28 Oct 2001 12:53:27 +0100
+
+%
+(Waa Debian dhaqan jir ah inuu ka tago ugu yaraan laba jeer sannadkii ...)
+		-- Sven Rudolph
+
+%
+<Joey> gorgo: * * lol<Gorgo> Joey: waxa si funny? :)<Cu> shh, Joey waa laga badiyay saaxiga oo dhan ka hurdo la'aan<Cu> 'haa Joey, aad funny'<Cu> Kaftanka isaga:>
+		-- Seen on #Debian
+
+%
+* SynrG in tirada su'aalo qaabeynta si ay uga jawaabaan in sendmail  Waa AAN Ciyaalle
+		-- Seen on #Debian
+
+%
+* JHM yaababkii waxa Joey sameeyey si ay u helaan "Waxaan jeclaan lahaa in la yidhaahdo, waayo diiwaanka,  in xeerarka Joey. "
+		-- Seen on #Debian
+
+%
+Ha dadka sida hubi bogga internetka ee Debian 5 daqiiqo kasta si ay u hubiso aanKadibna arintii wuxuu mid kale? Ma aha in aan ahay mid ka mid ah in ay la hadlaan, laakiin dadka qaar si dhab ahu baahan tahay si aad u hesho nolol.
+		-- james on #Debian
+
+%
+* James noqon lahaa dheeraad ah oo ku dhacay haddii awoodaha sixir netgod ayaa joojin kara  googooyaa in meesha ugu horeysa ...* Netgod Hagidda horumarinta debian waa sida aadka adag tahay in la soo jiito
+		-- Seen on #Debian
+
+%
+   * In la eegaayo 2.10.02 sii daayo, updated si patchlevel     +ircu2.10.01+.config6-7.config7-8.lgline3.iwho.limit.glibc.motdcache2.trace.whois1-2.config8-9.statsw.sprintf2-3.msgtree2.memleak1-2+.msgtree2-3.gline8-9.gline9-10.invite2.rbr.stats.numclients.whisper.whisper1-2.stats1-2.nokick1-2.chroot.config9-11.snomask7-8.limi+t1-3.userip1-3.userip3-4.config11-12.config12-13.umode2-3.akillsbt.who4-5.kn.kn1-2.freebsdcore2.msgtree3-5.y2k.glibc1-2.rmfunc.msgf+lags2.who5-6.nickchange2.glibc2-3.modeless3
+		-- From the annoucement of ircd 2.10.01-3 for Debian GNU/Linux
+
+%
+* Joey waa in aan qoro entries changelog at 5:30 am<Joey> * DFSC maktabadda CGI Free<Joey> Waa maxay waxaasi? DFSC?<Jim> Debian Free Software mroooooCows
+		-- Seen on #Debian
+
+%
+<James> i caayaane. sidaas curyaan anigu waxaan u diray warbixin cayayaanka si debian-dhi-isbedel ah waxaan ahay
+		-- Seen on #Debian
+
+%
+<Madow> cuni ku xiran tahay: kariyo | cuno-baxay.       Laakiin cuno-baxay waa non-free si uu soo baxay.       Markaasaa cuntokariyihii ku talinaysaa: nadiif ah-digsiyada.
+		-- Seen on #Debian
+
+%
+ma waxaad iga faafreeb doonaa argagixisada cayayaanka.
+		-- James Troup
+
+%
+<Doogie> Adoo ka fakaraya waa khatar. Waxay keenaysaa in fikradaha.
+		-- Seen on #Debian
+
+%
+<James> Ma waxaan u socdaa in la sameeyo emacs ah oo martida ka mid ah?        APT - Debian barnaamijka a. Waxaa xitaa ma dhaqdo
+		-- Seen on #Debian
+
+%
+Debian waa sida Suse la yast demiyo, kaliya ka fiican. :)
+		-- Goswin Brederlow
+
+%
+Charles Briscoe-Smith <cpbs@debian.org>:  Ka dib oo dhan, xirmo gzip la odhan gzip ', ma `libz-bin' ...James Troup <troup@debian.org>:  Uh, malaha maxaa yeelay binary gzip uusan ka soo  xirmo libz aan jirin ama baakada zlib jirin.
+		-- debian-bugs-dist
+
+%
+<Jim> Lemme hubsado inaan waqti halkan ma lumin ... bcwhite saari doonaa      pkgs in havent lagu go'an in ay leeyihiin cayayaanka fiican ee darnaanta      "Muhiim". True ama been ah?<JHM> Jim: "muhiim" ama wax ka sareeya. True.<Jim> Haddaba, waxaan tahay oo ku saabsan in ay lumiyaan ftp.debian.org iyo dpkg :)* Netgod ayaa seegi doona dpkg - waxay ahayd mararka qaar waxtar leh<Joey> Waxaan weli rpm ....
+		-- Seen on #Debian
+
+%
+In buux waa calaamada a ilaalin Debian run.
+		-- JHM on #Debian
+
+%
+Waxaan ahay yaabeen in aanay jirin cid uu ku saleysan qaybinta ganacsi on Debianweli - waa by ilaa hadda OS UNIX-sida ugu adag ayaan weligood lagu rakibay,iyo Waxaan la soo ciyaaray HP / UX, Solaris, FreeBSD, BSDi, iyo SCO (oo aan kaxuso OS / 2, Novell, Win95 / NT)
+		-- Nathan E. Norman
+
+%
+> <Sixir +3 sheeko of kubad buunbuunin>branden The dodges aad sheeko sixir. branden ayaa aad weerara la alaayeen erayada! branden The seego!
+		-- Henning Makholm in <yahsmr7dk9k.fsf@pc-043.diku.dk>
+
+%
+Uma maleynayo "Waa ka wanaagsan tahay naftaada kareen galay Furimaha Dagaalka hilib ah 'waa Fikirka wanaagsan oo wax samaynaya.<20030905221055.GA22354@doc.ic.ac.uk> on debian-dhi
+		-- Andrew Suffield in
+
+%
+<Overfiend> whew.<Overfiend> Waxaan run ahaantii u baahan tahay si aad u hesho hurdo qaar ka mid ah.<Overfiend> laakiin waxa ay u hubiso in uu ahaa mid xiiso leh hadlaya kabanka, siyaasadda, iyo khaniisiinta.
+		-- Andrew Suffield in
+
+%
+Oo ku alla kii la weydiiyay hadii urur debian dhintay lama readingdebian-dhi. 66 farriimo in hal maalin, oo ma ahan in ka badan. Waxaan ka heliadag tahay in la sii.
+		-- Bruce Perens
+
+%
+<Asuffield> fiber ee Maraykanka waa kaftan noocan oo kale ah. in qaybaha ilbaxnimada ee             dunida, DSL * * bilaabo xawaare halkaas oo fiber US ogolaanaysaa off<Joshk> asuffield: australia waa quruun ka buuxa wuxuushta?<Asuffield> joshk: waxa ay heleen oo ku saabsan mid ka mid ah 9600 modem u dhexeeya oo dhan             dalka maydhan biyaha
+		-- in #debian-devel
+
+%
+<Nobse> bleh ... xalay oo aan riyo ... qof NMU'ed vim ...         qarow
+		-- in #debian-devel
+
+%

@@ -1,0 +1,129 @@
+Debian Vihje # 44: Voit seurata Identi.ca tili Debian osoitteessahttp://identi.ca/debian Lisätietoja Debian at Identica voi myösosoitteessa: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Vihje # 1: Voit ilmoittaa vian paketin "reportbug 'komennolla,joka on saatavilla paketti reportbug joko komentorivin taiuuden graafinen käyttöliittymä (saatavana käynnissä "reportbugin --ui gtk2" tairuokalista).
+
+%
+Debian Vihje # 2: Voit käyttää "dpkg-reconfigure <paketti>" Muutavastausten antoi kysymyksiin, kun ensin asennetaan paketti."Configure-debian-paketti tarjoaa yhtenäisen etuosa teet tämän,yhtä hyvin.
+
+%
+Debian Vihje # 3: Voit käyttää joko "apt-cache search <sanoja>" tai"Aptitude search <sanoja>" etsiä sanoja kuvaukset kaikistapaketeista.
+
+%
+Debian Vihje # 4: Näet saatavilla ja asennettu versiot yhdelletai enemmän saatavilla olevista paketeista komennolla "apt-cache policy <paketit>".
+
+%
+Debian Vihje # 5: Jos sinun täytyy rakentaa muokatun ytimen, käytä "make-kpkg"script löytyy kernel-package.
+
+%
+Debian Vihje # 6: Ei ole vihje # 6. Jätä vihje tänään!
+
+%
+Debian Vihje # 7: Voit käyttää cron-apt tehdä automaattinen öisinlataukset päivityksiä paketteihin asennettuna järjestelmään.
+
+%
+Debian Vihje # 8: Jos on ongelmia Debian että et voi ratkaistalukeminen käsikirjoja ja, yrittää kysyä Debianin käyttäjätlistan (debian-user@lists.debian.org).
+
+%
+Debian Vihje # 9: Jos haluat tietää, mitä versiota Debian olet tällä hetkelläkäynnissä, katso / etc / debian_version tai käytä "lsb_release -sc" komentoa. Jos sinähaluavat tietää koodinimi kyseiselle versio (esimerkiksi 5.0 koodinimeltään"Lenny"), katso tätä URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Vihje # 10: On Debianin postituslistoja kaiken käyttäjältäkysymyksiä keskustelut, mitä panna Debian Policy asiakirjoja.Tutustu luettelossa http://www.debian.org/MailingLists/ ja tilatane, jotka kiinnostavat sinua.
+
+%
+Debian Vihje # 11: Pidä ajan tasalla mitä tapahtuu - lue DebianinProject News. Lue sen verkossa osoitteessa http://www.debian.org/News/weekly/
+
+%
+Debian Vihje # 12: grep-dctrl paketti sisältää useita hyödyllisiä skriptejänopeasti hakuja eri paketti ohjaus tiedostoja (kuten saatavillapaketteja tiedosto).
+
+%
+Debian Vihje # 13: Jos et pidä oletusasetukset käytetty Debianinpaketti, voit ladata lähde ja rakentaa versio, joka käyttäätavoista haluat. Katso http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Kohdat 6.13 ja 6.14) lisätietoja.Kuitenkin muistaa, että eniten vaihtoehtoja useimmissa paketteja voidaan konfiguroidasuorituksen, eivätkä vaadi recompiling paketti.
+
+%
+Debian Vihje # 14: Jos haluat seurata asioita tapahtuu paketti(Jos esimerkiksi haluat nähdä vikailmoituksia, vapauta ilmoituksia, ja muutsamanlaisia ​​asioita), huomioon tilaamalla sen Paketinseurantajärjestelmä.Voit löytää lisätietoja PTS osoitteessa:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Vihje # 15: asiakirjat paketti voidaan normaalisti löytyy/ usr / share / doc / <paketti>. Erityisesti README.Debian tiedosto useinon hyödyllistä tietoa Debianin quirks tai vihjeitä.
+
+%
+Debian Vihje # 16: Jos etsit tietyn tiedoston, mutta eivät tiedämikä paketti se kuuluu, yrittää asentaa "apt-file ', joka ylläpitääpieni tietokanta näiden tietojen tai etsiä sisältöä DebianPaketit tietokanta, joka voidaan tehdä:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Vihje # 17: Tarve puhua jonkun kanssa Debian? Jos olet tyytyväinenInternet Relay Chat (IRC), vain asentaa suosikki IRC client, jaliittymällä kanavalle #debian on irc.debian.org.
+
+%
+Debian Vihje # 18: Laadunvalvonta tiedot paketeista löytyysiirtymällä http://packages.qa.debian.org/ <paketti>; Tämän sivun tarjoaalinkit Maintainer n QA sivulle, BTS, uutiset paketin, jatietoa siitä, mitkä versiot ovat saatavissa joka arkistoista.
+
+%
+Debian Vihje # 19: Jos olet kiinnostunut rakennuksessa paketit lähdekoodista, sinunpitäisi harkita asentamista apt-src paketti.
+
+%
+Debian Vihje # 20: Haluatko seurata, mitä versiota paketin oletasennettu (erityisen hyödyllinen niille käynnissä hybridi stable / testing /epävakaa järjestelmät)? Tutustu apt-show-versions.
+
+%
+Debian Vihje # 21: Jos Debian laatikko on takana hidas verkkoyhteys,mutta voit käyttää nopeasti yhtä hyvin, tutustu apt-zip-paketti.
+
+%
+Debian Vihje # 22: Mietitkö mikä Debianin sopii sinulle parhaiten? Tarkistaapt-spy ja netselect-apt paketteja, jotka voivat antaa sinulle tietoamiten eri peilistä suorittaa.
+
+%
+Debian Vihje # 23: Jos järjestelmä käyttää liikaa levytilaa, kokeiledeborphan paketti; se voi tarjota ehdotuksia siitä, mitkä paketit voivat ollakäyttämätön ja irrotettava. Ja tietenkin, älä unohda siivotaAPT cache-ala (käyttäen "apt-get clean", "aptitude clean", taiaptituden Action -> Clean Pakettivaraston valikkovalinta).
+
+%
+Debian Vihje # 24: Jos haluat kiittää ylläpitäjälle käsittelyynkysymys, tutustu reportbug --kudos.
+
+%
+Debian Vihje # 25: "debian-reference" paketti sisältää monenlaisiaViiteasiakirjojen Debianin käyttäjille ja kehittäjille. Suurin osaTietoa löytyy myös seuraavassa osoitteessa:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Vihje # 26: Jos paketti ei näytä olevan paljon dokumentaatiota,tarkista paketin nimeltä "<paketti> -doc" tai vastaavia ja varmistaasentaa sen hyvin; paketteja suuria määriä asiakirjojasäännöllisesti jakaa docs tällä tavalla niille, jotka eivät haluaasentaa ne.
+
+%
+Debian Vihje # 27: Säännöllisesti tarkistaa varmuuskopiot. Sinä * ovat * pitää varmuuskopiot,oikea? Oikea? Jos näin ei ole, aloita terva (1) tai dump (1).
+
+%
+Debian Vihje # 28: Jos laite ei ole koko ajan (kutenkannettava tietokone), tutustu "anacron-paketti; tämä varmistaa, että säännöllinentehtäviä vielä tapahtua, vaikka kone ei ole silloin he olisivatyleensä aiheuta.
+
+%
+Debian Vihje # 29: Pidä järjestelmän kellon tarkka - koneet, jotka ovat päälläuseimmat tai kaikki ajan pitäisi olla "ntp" paketti on asennettu pitämään ajantarkka välillä käynnistyy uudelleen.
+
+%
+Debian Vihje # 30: Asiakirjat voidaan saatavilla osoitteessa http: // localhost /asentamalla 'doc-base "ja" doc-keskeinen "paketteja ja niidenriippuvuudet.
+
+%
+Debian Vihje # 31: poistaminen normaalisti aktiivinen tarjoaminen tietyllä runlevelolisi tehtävä muuttamalla S linkkiä /etc/rc<level>.d ja K linkin,poistamisen sijaan linkki kokonaan; jos kaikki linkit poistetaan,Järjestelmä olettaa seuraavalla asentaa ne täytyy vaihtaa.
+
+%
+Debian Vihje # 32: paketti 'doc-debian' sisältää joitakin yleisiäohjeista Debian-projektin. Se on saatavilla myös espanjaksi(Doc-debian-es), Ranskan (doc-debian-fr) ja Ukrainan (doc-debian-uk).
+
+%
+Debian Vihje # 33: Paketti "devscripts" sisältää joitakin hyödyllisiä skriptitkäyttäjille, jotka haluavat parantaa Debian, esim. wnpp-hälytys, rc-hälytys ja BTS.
+
+%
+Debian Vihje # 34: Jos haluat seurata Debian sid ja on pieni downloadkiintiö tai todella hidas yhteys, tutustu debdelta paketti.
+
+%
+Debian Vihje # 35: In search joissakin peleissä? Tutustu 'goplay', jokatarjoaa mukavan edustaohjelmaksi selata kaikenlaisia ​​pelejä.
+
+%
+Debian Vihje # 36: Tarvitsetko uudempi paketti kuin Debianin toimittama viimeinenvakaa julkaisu, mutta eivät halua päivittää "testaus" tai "epävakaa"? jotkutpaketit pidetään ajan tasalla kautta vakaa-päivitykset suite, toiset ovatsaatavilla osoitteessa backports.debian.org.
+
+%
+Debian Vihje # 37: Haluatko ladata paketin asentamatta sitä? Käyttää"Aptitude lataa <pkgname>".
+
+%
+Debian Vihje # 38: Haluatko tietää, miten voit käyttää ohjelmaa et ole koskaan käyttänytennen? "Ihminen" on paras uusi ystävä! Kirjoita "man <ohjelma-name>" inkuori. Tai, suorita "man -H <ohjelma-name>" lukea käsikirja selaimessa.
+
+%
+Debian Vihje # 39: paranna bash n tab-täydennystä asentamallabashmaisia ​​loppuun paketti.
+
+%
+Debian Vihje # 40: Jos asennat komentoa-ei-löytynyt paketti, yrittääsuorita komento et asentanut kertoo mitä paketti asentaasaada komennon.
+
+%
+Debian Vihje # 41: Voit käyttää 'apt-cache show <package_name>' tai 'aptitude näyttää<Paketin_nimi> "saada lisää tietoa Debian-paketti.
+
+%
+Debian Vihje # 42: Voit käyttää 'apt-tiedostojen lista <paketin_nimi> "saada listallesisällön Debian-paketin. Tämä toiminta on samanlainen kuin"Dpkg -L <package_name>" paitsi pakettia ei tarvitse asentaa taihaettua apt-tiedosto toisin kuin dpkg.
+
+%
+Debian Vihje # 43: Haluatko tilapäisesti käytöstä iptables palomuuri? Käyttää"Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / HYVÄKSY /" | iptables-palauttaa "poistamaankaikki säännöt ja asettaa oletuskäytäntö hyväksyä.
+
+%

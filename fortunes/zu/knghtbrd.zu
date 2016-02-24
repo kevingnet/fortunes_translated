@@ -1,0 +1,2160 @@
+* SynrG uphawula ukuthi isibalo imibuzo ukumisa ukuphendula  sendmail non-eziwubala
+		-- David Leimbach
+
+%
+* James bekungaba umxhwele kakhudlwana ukube amandla netgod sika magic ngingayeka the  iqhekeka kwasekuqaleni ...* Netgod uphawula Debian onjiniyela elidume kanzima ukuze agcizelele
+		-- David Leimbach
+
+%
+<Iseluleko> udinga usizo: iphakethe bengiqala umhlinzeki wami kuyalahleka :-(<Netgod> Umbu-: dont thumela owokuqala, uqale nge # 2
+		-- David Leimbach
+
+%
+<James> bangone. Ngingumfana izinyonga ngakho ngathumela umbiko bug kuya        Debian-devel-izinguquko
+		-- David Leimbach
+
+%
+Angikaze ngicabange ukuthi ngiyoke ngikwazi ukubona usuku lapho Netscape isofthiwe engakhokhwa futhiX11 kuyinto nokuphathelene. Siphila ezikhathini ezithakazelisayo.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> Lemme qiniseka Angikho zokuchitha isikhathi lapha ... bcwhite uyosusa      pkgs ukuthi havent umiselwe ukuthi babe izimbungulu esivelele saleso nobukhali      "Ezibalulekile". Yiqiniso noma amanga?<JHM> jim: "ezibaluleke" noma ngaphezulu. Yiqiniso.<Jim> Khona thina uku ukulahlekelwa ftp.debian.org futhi dpkg :)* Netgod ngeke miss dpkg - kwaba ngezinye izikhathi ewusizo<Joey> Thina kusadingeka ngomzuzu ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> Kokuba ebeligcwele isibonakaliso a Debian maintainer weqiniso.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: ngacabanga ukwenza badinga isikhathi seholide lapho lokhu iphakethe.            I empeleni nephupho mayelana wethula stupid bug entsha            zibe xbase-preinst izolo ebusuku. Yilokho a Bad Sign.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+Ukubhala software non-free akuyona into umsebenzi ngokuziphatha ezisemthethweni, ngakho umaAbantu abenza lokhu run engena enkathazweni, kuhle lokho! Wonke amabhizinisi esekelweon software non-free bekufanele ukuba afiphale, futhi ngokushesha ngcono.
+		-- Richard Stallman
+
+%
+Microsoft DNS service kunqamuka engavamile uma recieves a impenduloa nombuzo DNS ukuthi aliphindanga wenza. Lungisa Ulwazi: Gijimani DNS wakhoservice on a platform ezahlukene.
+		-- BugTraq
+
+%
+* Dpkg izandla ngitadisha ingilazi elikhulu vbeer* Joey uthatha ubhiya kusuka ufundela, usemncane kakhulu;)* Cylord uthatha ubhiya kusuka Joey, udakiwe kakhulu.* Cylord unikeza ubhiya muggles.
+		-- BugTraq
+
+%
+Thina abantu wokusabalalisa Debian GNU / Linux, ukuze kubunjwemore ephelele uhlelo lokusebenza, ukusungula quality, ukuthathelwa umshuwalense esigcawiniukwehluka, izidingo ezivamile abasebenzisi computer, ukukhuthazaukuphepha nobumfihlo, ngibahluphe amabutho monopolistic computerisofthiwe izimboni, futhi belondekile izibusiso inkululeko ngokwethu futhikunzalo zethu, ingabe ukubangela futhi ukusungula lokhu uMthethosisekelo ukuze DebianGNU / Linux System.
+		-- BugTraq
+
+%
+"Lona isakhiwo element_data for izakhi ogama * ELEMENT_TYPE =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Isidleke ezijulilefuthi ajulile, unamandla amakhulu, uye, o, OH, OHHHHH !! * Uxolo, gotUthumbé khona. * / Struct lo_FormElementOptionData_struct. "
+		-- Mozilla source code
+
+%
+Nakuba unyaka ka-2000 (Y2K) Inkinga abuyona impikiswano kithi, bonke Linuxusebenzise ngeke uthintwe ngonyaka ka 2038 (y2.038k) udaba. TheDebian Project uzibophezele ukusebenza nemboni ngalolu dabafuthi siyoba izinhlelo kwethu okupheleleyo isu posted by the ngekota yokuqalaof 2020.
+		-- Mozilla source code
+
+%
+... Wayekuphi Stac Electronics lapho Microsoft owasungula Doublespace? kuphingamashumi Xerox futhi Apple lapho Microsoft owasungula gui? Wayekuphi AppleUmsebenzi Wokwakha Amathebula lapho Microsoft owasungula Isiqophi-Windows? Wayekuphi SpyglassMosaic Inc. sika lapho Microsoft owasungula Internet Explorer? Wayekuphi Sunlapho Microsoft owasungula Java?
+		-- Mozilla source code
+
+%
+Ngiyaxolisa uma elandelayo umsindo sengathi uyalwa nabo futhi siqu ngokweqile,kodwa lokho indlela engangiphila ngayo jikelele. - Ian Jackson
+		-- Mozilla source code
+
+%
+"Inkinga yami enkulu RH (ikakhulukazi RH contrib amaphakheji) wukuthiAbanaso okunje inqubomgomo yethu. Lokho ngesinye sezizathu eziyinhlokokungani amaphakheji zabo ziyisiliva crappy kangaka futhi ephukile. Debian ine ukusebenzisanaside wokwakha wabela phansi ukuze buciko. "
+		-- Mozilla source code
+
+%
+"Abasebenzisi slackware ayibalulekile. Ekhatsi isipiliyoni sami, abasebenzisi slackware kukhonanoma newbies clueless oyoba enkingeni ngisho ngetiyela, noma kunjalosi abazikhukhumezayo nabashushisi abangenangqondo do-it-yourselfers ababengeke ukufaka yomunye umuntu pre-ihlanganiswekanambambili ngisho uma zakhokhelwa ukuba sikwenze. "
+		-- Mozilla source code
+
+%
+<XinkeT> "Lord pha me ukuthula ukwamukela izinto angikwazi         ukushintsha, isibindi ukushintsha izinto mina can, nokuhlakanipha         ukufihla izidumbu zabantu kwadingeka ukubulala ngoba         pissed me off. "
+		-- Mozilla source code
+
+%
+* Dark useshintshe isihloko kusiteshi #debian ku: ngokuhamba kwesikhathi tonight: Ngemva  izinyanga ifriji ngokucophelela, Debian 2.0 kugcine cool ngokwanele ukuba  ukukhululwa.
+		-- Mozilla source code
+
+%
+Ngahlala laughing snidely lanamuhla encwajaneni yami yamaphuzu baze esengibonisa PC nokugijimaLinux. Futhi oh! Kwakunjengokungathi amazulu avuleka futhi uNkulunkulu yakhiphaclient-side OS enhle kangaka, ngomusa kangaka, nenhle kangaka ukuthi milliondevelopers Microsoft akakwazanga baye baklama ngisho uma ababenakho namashumiiminyaka ikesi abayizinkulungwane of esishaqisayo cola.
+		-- LAN Times
+
+%
+Ngahlala laughing snidely lanamuhla encwajaneni yami yamaphuzu baze esengibonisa PC nokugijimaLinux .... Futhi akazange lokhu PC kuliminyanise? Ingabe amalimi? Ingabe kwaba, ngisho nakanye,zithi lolu hlelo lwenziwa i operation ngokungemthetho futhi kumele avalwephansi? Cha Futhi lena nje iklayenti.
+		-- LAN Times
+
+%
+"Ngicabanga ukuthi onjiniyela kakhulu Debian ziziphilela" "abantu abanamandla willedngezinga elikhulu okuqonda kanye ezingeni lelisetulu passion for lokhoabakuqala kangako ukuthuthukiswa kohlelo Debian. "
+		-- Bill Leach
+
+%
+"Empeleni, ukusatshalaliswa kuphela Linux Ngiye wake wawasebenzisa lawo bephumelelerootshell test aphume ebhokisini (hit rootshell ngesikhathi Dist kuyintoezikhishwe nibone uma ungakwazi ukugqashula OS ngeskriphthi esuka lapho) isDebian. "
+		-- seen on the Linux security-audit mailing list
+
+%
+* Culus owesaba Perl - ulimi enamaphutha ozikhethela
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ufundela> kufanele wesabe ukusebenzisa KDE ngoba RMS sibe khona yakho      indlu futhi ninamathele qapha yakho ngembazo noma okuthile :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Futhi i empeleni like Debian 2.0 ukuthi kungakanani i bathuthukisa ngokupheleleezenzakalelayo Uhlel izinhlelo Linux inkampani yethu uthengisa futhi kabusha noma iyiphiizinhlelo Linux ehhovisi futhi lapha ekhaya .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> indlela iziqubu kwenchubomgomo inqubomgomo wobuphoyisa nenqubomgomo ekushintsheni         inqubomgomo ubuphoyisa amaphoyisa
+		-- seen on the Linux security-audit mailing list
+
+%
+<Dark> "Ake yakha Linux Standard Linux Standardization Association        Board. Inhloso yalesi ibhodi kuyoba elifanele Linux        Standardization Izinhlangano. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> Ungabi liyakhala kimi mayelana lakho "minute 30 eliqoqa" !! I            lokwakha X ekukhuphukeni zombili izindlela! In the iqhwa! With angenalutho            izinyawo! Futhi asizange sibe compilers! Esikolweni sabe sifanele ukuhumushela            Ikhodi C Ukubamba Ngekhanda KITHI NGOKWETHU!<Overfiend> Futhi sengineminyaka engu-18 ngaphambi kokuba thina benamasiko assemblers!
+		-- seen on the Linux security-audit mailing list
+
+%
+NEW YORK (CNN) - abasebenzisa i-Internet abachitha ngisho emahoreni ambalwa ngeviki onlineekhaya ukuzwa amazinga aphezulu ukucindezeleka nesizungu kuka umababeyisebenzisile inethiwekhi computer kancane njalo, The New York Timeskusho umbiko ngeSonto. Umphumela ... emangala kokubili abacwaningi kanyeabaxhasi, eyayihlanganisa Intel Corp., Hewlett Packard, AT & T Research andApple Computer.
+		-- seen on the Linux security-audit mailing list
+
+%
+"Yini abatelekile, Nokho, kuyinto layout jikelele kanye nokuhlanganiswa kweuhlelo. Debian iyinhlangano nenhle ngempela Linux ukusatshalaliswa; ukunakekelwa okukhulu hasKuye kwathathwa ekulungiseleleni amaphakheji kanye nokubekwa ngaphakathiuhlelo. Inani lezinkanyezi nje lilodwa amaphakheji atholakalayo futhi lihlaba umxhwele .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Debian Linux kuyinto okuqinile, umkhiqizo olunzulu, futhi injabulo yangempela ukuzesebenzisa. Kubaluleke kakhulu futhi esikhulu ukuzigaxa ne Debian collective,nobungane ogama futhi umoya likhumbula izinsuku zokuqala Internet kanyeNgomqondo elisetshenziswe ngawo umoya wokukhululeka futhi ukubambisana kwembulunga.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> engingayenza ukubhala uhlamvu Unix-like in Perl?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> netgod: Nami abe 'Evil Inside "T-shirt (w / Intel logo) .. on        umhlane lithi: "Lapho ayobe eza, uyoba naso yini impande?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Zarkov> "NT 5.0. Wonke izimbungulu kayishumi ubukhulu ikhodi!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Culus> kukhona 150 Meg ku / tmp Thumela! ethandekayo uJehova
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: yini onayo ku kernel yakho ??? Umthombo eyahlanganiswa ngoba       ushayela mkhathi ???<Spoo> isikhathi ukuze wenze zip ashayele drive yakho idrayivu ke. uma ikhenela       Ed unomphumela onjani empilweni kufanelekile kuleso, ikhenela kuyinto AI
+		-- seen on the Linux security-audit mailing list
+
+%
+Manje ngingasho ekugcineni ukuchazela bonke abantu ukuthi kungani ngenza lokhu. Ngisanda $ 7 elibizaIzinto khulula ngokusebenzisa Debian!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: wokubala ihlukumezeke usomqulu eziningi ngaphezu kwalezo ezibonwa x86, futhi
+		-- thats- sad
+
+%
+* Boren tosses matlab phesheya ikamelo futhi uthemba inqamuka enombolweni  aproaching peices okungenamkhawulo
+		-- thats- sad
+
+%
+"... Kwakuwusuku okuningi ngokushesha kunokuba Ngangicabanga ukuthi kwakuzoba, isheshekuka NT. Uma eminye speed uyanda zenziwa iseva for the finalukukhululwa, Oracle abazobe bakwazi Sula imbongolo zabo nge SQL Server futhiuyinikeza emuva M $ kanti Abaphathi Oracle ... uthuthe yolwazi lwabophezu ku Linux! "
+		-- thats- sad
+
+%
+World Domination, of course. Futhi scantily abagqoke izinsikazi. Ngubani okukhathalela umazalo ezingamashumi amabili ngezansi? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Win 98 edition Psychic: Sizobe bakutshele lapho uya kusasa
+		-- thats- sad
+
+%
+<Zpx> kuyamangaza ukuthi "hhayi-ephukile" Debian ufaniswa owenqenayo futhi RH
+		-- thats- sad
+
+%
+<Dark> "Hey, Ngithathe kusukela kulolu olubizwa ngokuthi Debian ... uke wezwa ngakho?       Igama lakho kubonakala sengathi icabanga ngezinye kweqembu Izinto zethu. "
+		-- thats- sad
+
+%
+"Esimweni yokwehluleka ukwenza okuthile noma percieved we #debian ubuholi phrojekthilehlonyiswe ukuthatha isinyathelo esinqala futhi descisive ukuze alungise leso nokufiphala,kuhlanganisa hhayi kungagcini exosha izikhulu, apointing kwezikhulu ezintshafuthi ngokuvamile kabi amandla "
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> thina uyashaya 2.2 _POTATO_ ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> akusho Johnie Ingram hang out lapha ku-IRC?
+		-- proposed amendment to Debian Constitution
+
+%
+* Twilight1 kuyodingeka hang yakhe Mozilla Beanie dinosaur khona isithombe sakhe obala uma  Netscape uthengisa-out alot of Losers ..
+		-- proposed amendment to Debian Constitution
+
+%
+<Lux> uma macOS lenzelwe kufunda nakubhala computer, ke windoze kuyisivikelo the      masochists computer
+		-- proposed amendment to Debian Constitution
+
+%
+<Emnyama> Culus: Ukwakha amaqoqo-imitha ezinhlanu-eziphakeme Empire State       Ukwakha ngezinto ezibusontathu paperclips umxhwele. Ukwenza kube amehlo kuba       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Angikwazi nje ukubona manje: lokuphakamisa-nobuphekula ;-)        - Manojhaha! i beka Manoj.
+		-- seeS
+
+%
+<JHM> ngandlela-thile ngiye Debian onjiniyela ngonyaka inhlonipho 14 ubudala kuka     Certified Microsoft Serfs engu-14 ubudala.
+		-- seeS
+
+%
+<Culus> Ben: Ingabe solumly afunge ukufunda nawe imeyili Debian kanye ngosuku        Angimvumeli abantu ukuba bacabange wena MIA?<Ben> Culus: i do kanjalo afunge
+		-- seeS
+
+%
+"I kazi lena umthethosisekelo ngqa emlandweni kwesintulapho kufanele ukubala impande skwele ukunquma uma motionidlula. :-) "
+		-- Seen on Slashdot
+
+%
+Lona ikhambi lenkinga Debian sika .. futhi kusukela okuwukuphela kwendlela realukudala izihlobo ngaphezulu onjiniyela iwukuba ube nezingane, sidinga okungaphezu thinasex! Kuyinto utshalomali lwesikhathi eside ... kungcono umsebenzi uqobo okungukuthiezigculisayo!
+		-- Craig Brozefsky
+
+%
+<UMlungisi> Dunham: Niyazi izinombolo real ukuthi zakhiwa okunengqondo         izinamba kulingana emiholweni amakilasi of Izigcawu convergent?<Dunham> UMlungisi: yebo.
+		-- Craig Brozefsky
+
+%
+<Culus> "Sawubona?" "Baybee Hi" "Ingabe wena Johnie Ingram?" "Ngoba wena ngizobuya        ubani "" Ermm .. Ingabe nawe uthengise slink CD? "" Ngiyakuthanda slinkies "
+		-- Craig Brozefsky
+
+%
+<Overfiend> xhost + localhost kufanele kuphela owenziwa abantu ababenqaba            ukupenda Igama lomethuleli yabo futhi iphasiwedi impande an kwemibuso            labahamba ngezinyawo.
+		-- Craig Brozefsky
+
+%
+<JHM> Aix - the Unix kusuka endaweni yonke lapho Spock has a intshebe.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> Studies zifakazela ukuthi ucwaningo kubanga umdlavuza ngo-43% of laboratory           amagundane<CQ> knghtbrd- yeah, kodwa 78% walabo izibalo off by 52% ...
+		-- Craig Brozefsky
+
+%
+<Ufundela> efaneleka: izimbungulu<Efaneleka>! Izimbungulu eziwubuwula<Dpkg> efaneleka: eziwubuwula? yini leyo?<Efaneleka> dpkg: i abazi<Dpkg> efaneleka: Beauty ungaphakathi Iso umnini ubhiya ...<Efaneleka> i wayevele ngaleyondlela, dpkg.
+		-- Craig Brozefsky
+
+%
+<Muggles> i engizama ukukholisa ezinye Abaphathi NetCom ngiyazi ukuguqula          ukuze Debian kusukela RH, netgod, kodwa kukhona Day ube nenkani<Muggles> ezenza ukuthi abasebenzisi RH ngakho balahlwe kanzima esinamakhanda?<Espy> kungcono isigqoko
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Zonke amandla, ngaphandle hat silly.
+		-- Craig Brozefsky
+
+%
+Zingaki izinyanga esizoxoxa sibe ngemuva kwabo [Redhat] nge glibcukukhulula? "
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+Inhloso zokuba uhlu lwamakheli kunokuba Amaqembu ezindaba kokuba iwukubabeka umgoqo entry esivikela uhlu abasebenzisi zabo kusukelayokuhlaselwa jikelele amabutho abangafundile.
+		-- Ian Jackson
+
+%
+Iningi lethu nomuzwa wokuthi marketing izinhlobo ifana nesikhali esiyingozi - gcina'Em zithululwe futhi bevalelwa ekhabetheni, futhi libalethe kuphela umauwadinga ukuze wenze umsebenzi.
+		-- Craig Sanders
+
+%
+<BenC> cerb: thina ubhalisele wena Debian-mpi njengoba umengameli<BenC> cerb: Imithetho uhlu kukhona, 1) akukho ama-imeyili nice, 2) akukho ukuxolisa
+		-- Craig Sanders
+
+%
+<Teknix> telco esikulo uvumile ukuthi umuntu "ukusekela ngokulondoloza ibe         inkinobho on a switch "futhi wathatha lonke inethiwekhi ATM phansi<Netgod> ngethemba manje imizila zenzelwe kangcono, ngakho "inethiwekhi         off "swtich ivuliwe emuva
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: uma uthola {MessagesLikeThisFromYourHardDrive}<Overfiend> Thunder-: kwasikhathi izindlela {TheDriverIsScrewy}<Overfiend> noma<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Efaneleka> nakhu okuye kwashiwo ukuthi redhat yiyona nto Marc Ewing othwala ku      ikhanda lakhe.
+		-- Craig Sanders
+
+%
+<MrCurious> ngamandla greyskull<MrCurious> othile ngitsheleni kokuvinjelwa ukubeka<Sopwith> mrcurious: * .debian.org, * .novare.net<PhilX> * .debian.org. lokho awesome.
+		-- Seen on LinuxNet #linux
+
+%
+"Lisho ukuthini leli ungitshele? Ngokuba uma Microsoft kwakungamadodana isofthiwe lokugcinainkampani ezisele emhlabeni jikelele, 13% of the labantu US laliyodluliselwa scouringegalaji yokuthengisa & Goodwill for TRS-80s ubudala, imishini CPM & Apple] [ka- ngaphambithey ungathenga Microsoft. Lokho ngempela ukuvumela ukushaya. "
+		-- Seen on Slashdot
+
+%
+"Bruce McKinney, umlobi wencwadi ethi of Hardcore Visual Basic, umemezele ukuthiuye fed up with VB futhi ngeke ubhala edition 3 Encwadini yakhe. Thelesisho arcade ekupheleni: 'Angazi badinga ulimi yakhelwe ngumuntu focusiqembu '. "
+		-- Seen on Slashdot
+
+%
+<Cylord> Bekungeke kube eyamukelekayo inqubomgomo Debian uma senza ufake crontab         ngokwakhona ku amazambane imeyilwa bill.gates@microsoft.com         zonke ekuseni nge-imeyili ukuthi ufunde, "Ungakhathazeki, Linux kuyinto         mkhuba ... "
+		-- Seen on Slashdot
+
+%
+* Overfiend ezindla ngokwenza NMU of asclock, lapho wamane changes  incazelo enwetshiwe ku "Uma ugoba wafaka ikhanda lakho phakathi  imilenze yakho, ungakwazi ukufunda isikhathi off assclock sakho. "<Doogie> Overfiend: ukuyolala.
+		-- Seen on Slashdot
+
+%
+<Reed> Kubalulekile ukuqaphela ukuthi isizathu esiyinhloko esingaphansi koMbuso WamaRoma       Bayehluleka ngukutsi babengenawo umqondo zero ... ngaleyo ndlela bahluleka       avivinye ukuphumelela noma ukwehluleka izinhlelo zabo C.
+		-- Seen on Slashdot
+
+%
+Kusukela lapho kwalokufundziswako kunenhloso Debian waba ukushweleza izithakazelomass abathengi abangenamakhono? - Steve emifishane
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: er, kukhona la 2.2.0 amaphakheji 2.0.0pre9 noma unaso yini        umugqa oqondile onkulunkulu?<Netgod> joeyh: i babe umugqa oqondile
+		-- Seen on Slashdot
+
+%
+<_Anarchy_> Argh .. ubani omnikeza izikhwama iphepha 8)
+		-- Seen on Slashdot
+
+%
+<Sezimiso> ubani emhlabeni?<Flav> akukho, thina sonke ngemapholigoni okungajwayelekile
+		-- Seen on Slashdot
+
+%
+<Culus> OH UNKULUNKULU WAMI HHAYI okungahleliwe SEMALI Generator<Netgod> ngokuqinisekile wena didnt ucabanga ukuthi kwaba static? ukuthi kwakuyoba njani nezinyonga kube? :-)
+		-- Seen on Slashdot
+
+%
+bikho UMere kuyinto izaba axegayo for bememezela into unseeable. You* Kungaba * ukubona Dragons. Wena nje kufanele sibheke endaweni efanele.
+		-- John Hasler
+
+%
+<Ekhumuzelayo> gcc iyona compressor best ezake ngembobo ku Linux. ziphendukele         12MB yomthombo ikhenela (futhi lokho .debbed) ibe 500k kernel
+		-- John Hasler
+
+%
+<Manoj> I * like * inkukhu
+		-- John Hasler
+
+%
+ [] DOGBERT [2] RICHARD STALLMAN [3] BUFFY Summers [1] Manoj Srivastava [4] None of the ngenhla
+		-- Debian Project Leader 1999 ballot
+
+%
+<Oryn> ubani bazi uma kukhona inguqulo ye dpkg for redhat?
+		-- Debian Project Leader 1999 ballot
+
+%
+Acme-inganono (3.1415) engazinzile; wokuphuthuma = ongaphakeme  * Ukuphepha Kungezwe ukuvimbela opharetha ukucekwa kwabantu, ovala: bug # 98765,    bug # 98713, # 98714.  * Manpage Kungezwe. uvala: # 98725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! Isikhathi sihamba ngokushesha lapho usebenzisa kazhdomu Linux! Doogie: *! yeah, lezihitshela ezingamatshumi akunamkhawulo imizuzwana 5.! Teknix: *! nowake kabusha ongasethemba nge 2.2.x?! Netgod: *! yeah, 4 imizuzwana manje
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Emnyama uyakhonza liw nge frog ezincane yellow.* Liw aqabule frog futhi ezibukela nokuguqula a nerd enhle  Intombazane, uyamthatha out ice cream, futhi uphila phakade ngenjabulo emva  naye<Emnyama> liw: Umm kudaleke umonakalo ukuba babe frog emuva?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Culus acabanga ukuthi kufanele baye imibukiso yezokuhwebelana kanye ukubona abantu abaningi kanjani thina  Ungakwazi abulale ngokuphonsa Debian CD at kubo
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Dark> "Yebo, udumo lwakho, ngiba RSA ikhodi sobhalomfihlo tattood sami        umthondo. Shall I ukukhombisa amajaji? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Knghtbrd> you ntu are bonke uhlanya.<Joey> knight: isiqiniseko, yingakho siyisebenzele on Debian.<JHM> Knghtbrd: ithintane nutcase yakho elingaphakathi.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Culus> Saëns uyabonakalisa akukho izimbungulu ngaphansi kuka 3 TCP / IP e 2.2.3
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Mercury> alexsh: Yiba / KAKHULU / cairful, ungase, uma esibi yakho, Fry yakho          motherboards ..<Knghtbrd> Mercury - Uzwakala fun
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Rcw> amnyama: mgodi?<Knghtbrd> rcw - lokho akulona distribution, kungcono isiqalekiso<Rcw> Knghtbrd: kungcono distribution baqalekisiweyo
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Software ufana ubulili, kungcono uma kumahhala. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Emnyama> Knghtbrd: Thina kuqukethe whatevers.<Knghtbrd> dark - In Debian? Hell yeah sikwenze!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Ngakwenza nje ukuba Piss off. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+Isofthiwe edingekayo Win95 noma kangcono, ngakho mina efakwe Linux.
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) akukho 10, kodwa kungathi inombolo nice :)
+		-- Wichert Akkerman
+
+%
+Eric Raymond: Ngifuna ukuphila ezweni lapho software akusho ncela.Richard Stallman: noma iyiphi isofthiwe akuyona free encela.Linus Torvalds: ngiyathanda ukuzwa ubhiya mahhala.Richard Stallman: Kulungile, inqobo nje Anginayo ukuwaphuza. I                   musa like ubhiya.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Angisona umuntu ezingeni esinamakhanda ... - Bruce Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Personally, mina musa bavame ukukhuluma okuhle emphakathini ngenxa lapho ngizwa nezinyeabantu bakhuluma ngokuthuthukisa okuhle kwezenhlalo, kulapho sengizama for isibhamu sami.
+		-- Eric Raymond
+
+%
+Uma sifuna into enhle ukuba athole wazalelwa ezinyangeni eziyisishiyagalolunye, khona-ke sex haskwenzeke. Sifuna babe ucansi ukuthi eyamukelekayo fun for kokubiliabantu, hhayi uhlobo lapho umuntu ukubanjwa screwed. Ake uthole ezinye crosskokukhulelwa, kodwa hhayi umuntu ukubanjwa screwed.
+		-- Larry Wall
+
+%
+Sonke siyazi Linux mkhulu ... it enza izihibe akunamkhawulo imizuzwana 5.
+		-- Linus Torvalds
+
+%
+YEBO! YEBO! YEBO! Awu yebo! (Eish, I izwakala Meg Ryan ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> Uma ngiqala ngokubhala eseyi mayelana Software Free for slashdot,           sicela ningidubule.
+		-- Ian Nandhra
+
+%
+<RoboHak> hmm, kwasemini kuzwakala like kuyisu elihle<Knghtbrd> kwakuyoba ukunambitha like kuyisu elihle kakhulu
+		-- Ian Nandhra
+
+%
+P.S. - Ngikhathazekile mayelana * lokhu * close egijima ezungeza ekamelweni iseva ngepair of umshudo bezihlahla, futhi ngesando sokhuni enkulu, behleka like a Maniac futhiukusika konke i silingane bezihlahla umshudo nxazonke. futhi whacking ukuthiokuyinto ngeke ngikwazi. ngakho uma i kubonakale Semi-incoherent, noma ngempela nje * ngempela * ezimbingezinye izikhathi, Ngiyaxolisa. ukucindezeleka akuyona into enhle. }; P
+		-- Phillip R. Jaenke
+
+%
+Njalo inkampani ekhononda libhizinisi Microsoft kumanerose ehlathini. Babukeka lovely futhi sinuke nice. Kanye lucky inkampani dethronesMicrosoft bayohlala elachithwa amacembe yabo ukuze adalule ameva ngaphansi. Aiva by kwanoma iliphi elinye igama zazibalimaza okungako.
+		-- Phillip R. Jaenke
+
+%
+Kunokuthile okufanele kwenzelweLena SomethingNgakho-ke, kufanele ukwenze lokhu
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - qaphela james lapho kusuke off imithi yakhe =>
+		-- The Thatcherite Syllogism
+
+%
+Nandaba ngokuqinisekile kuyoba ukuwa besintu, kodwa ubani okukhathalelayo?
+		-- The Thatcherite Syllogism
+
+%
+Ungalokothi uzithathe kalula amandla yobuwula womuntu.
+		-- Robert A. Heinlein
+
+%
+Gold, n .:  A soft metal oluthambile kuqhathaniswa bancane ukusatshalaliswa. It is misela  ekujuleni komhlaba ngamadoda abampofu abakhalayo babe sebeqala ukunaka yona izicebi ngokushesha  bangcwabe it emuva emhlabeni emajele esikhulu, nakuba igolide engenzanga  utho kubo.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* Lilo ngalokhu usho OPN ubuhlungu virtual in the ass :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"Bobabili amabhizinisi - uma wona imali eyanele, Nginguisiqiniseko sokuthi uzoba ukwenza noma yini isihogo yini eniyicela: -> "
+		-- David Welton
+
+%
+"Unelungelo hhayi ukuba ibe asshole. Uma ithawula lelo lungelokonke okushoyo nokwenzayo lapha izobanjelwa ngokumelene nawe. Uma ungekeukukhokhela sokuyeka i asshole ke othile izobe esimisiwe kukhahlelaeyakho outta lapha. "
+		-- Your rights as an irc addict
+
+%
+* Simunye ujabulile enendawo omama wakhe ukukhubazeka kwezakhi ezithile zofuzo sika<Dellaran> kangcono abanike emuva ngaphambi ukuthi ukhumbula them!
+		-- Your rights as an irc addict
+
+%
+<Iambe> conning abantu intellegent kakhulu kule planethi akulula
+		-- Your rights as an irc addict
+
+%
+California, n .:    Kusuka Latin "Calor", okusho ukuthi "ukushisa '(njengoba ngesiNgisi" calorie "nomaSpanish "Caliente"); futhi "fornia '" ngoba "ubuhlobo bobulili' noma"Ubufebe." Ngakho: Tierra de California, 'ezweni sex hot. "
+		-- Ed Moran
+
+%
+* Caytln ishaya Lisa<Caytln> catfight: P<LisaHere> Ibuke intombazane, Ngithanda lokho.<LisaHere> :)<Caytln> izibalo: D
+		-- Ed Moran
+
+%
+<MFGolfBal> Rit / ara: Kunokuthile demented ngempela mayelana Unix            zangaphansi ...
+		-- Ed Moran
+
+%
+The X Window System:  Indinganiso Unix imvelo sokuqhafaza. With Linux, lokhu kuvamise  XFree86 (http://www.xfree86.org). Ungase ukuyibiza X, XFree, X  Window System, XF86, noma ezinye izinto eziningi. Shayela it 'XWindows' futhi  othile kuzokwenza bashaye nawe futhi uyobe hola it.
+		-- Ed Moran
+
+%
+<Knghtbrd> "Abathelisi lwemali okungaxhunyiwe." "Ngithathe Ishintsha umzila noma           the couplings secondary. Uma senza kabusha ukuvumelanisa thina isigaba ezininginingi           kufanele bakwazi ukusebenzisa matrix plasma inductor ngesandla           umkhankaso omusha nokunjengoshizi spinoff chungechunge. "* ShadwDrgn ukububula<Phase> ushiya manifolds yami wedwa<Phase>!
+		-- Ed Moran
+
+%
+* Turken akucabangayo izingane ezincane baqiniseka Yinhle ... especialyy uma  siphelela umuntu elses.
+		-- Ed Moran
+
+%
+* Overfiend ukububula<Overfiend> Netscape encela.<Overfiend> Kuyinto nendlu eyakhiwe ngamakhadi okudlala beseyama embhedeni odakeni.<Espy> ngesikhathi ukuzamazama komhlaba<Overfiend> in a kunenkanyamba
+		-- Ed Moran
+
+%
+<SilverStr> izimiso zokuhle media kuyinto oxymoron, sifana Shrimp Jumbo futhi            Microsoft Isebenza.<MonkAway> ingasaphathwa NT Security
+		-- Ed Moran
+
+%
+<Silvrbear> Oxymorons? Ngabona elinye izolo - the ipheshana "Taco Bell            Ulwazi lwethu lokudla okunempilo "
+		-- Ed Moran
+
+%
+* Knghtbrd ededela a pair of double barreled snurf izibhamu kanye nesembozo  jesus with snurf imicibisholo<Jesus> meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> doogie: wena kuzwakale :-) engazinzile kakhulu<Knghtbrd> jgoerzen - nguye.* Doogie bops Knghtbrd<Knghtbrd> ubone? Ubudlova = D
+		-- Ed Moran
+
+%
+Ngiphinde bebelokhu elikhulu Unix fan selokhu ngaqaphela ukuthi SCO wayengeyenaUnix. - Dennis Baker
+		-- Ed Moran
+
+%
+<Dracus> Ctrl Ukhetho + Umyalo + P + R<Knghtbrd> dracus - YE ONKULUNKULU! Yilokho mumbi khulu ukudlula ongakholwako EMACS!<LauraDax> hehehehe<Dracus> musa ukubuza lokho okwenzayo: P
+		-- Ed Moran
+
+%
+<Iambe> awuyena nutcase<Knghtbrd> Wena kusobala awungazi kahle okwamanje. =>
+		-- Ed Moran
+
+%
+* AJ akucabangayo Kb ^ Zzz kufanele sithathe izinto ezahlukene ukuphupha ngani kuka   ukulungiswa zomgomo jikelele.<Kb ^ Zzz> fiqir - tell me about it, lena Bad Sign
+		-- Ed Moran
+
+%
+<Crow_> hmm, kulapho siyindlela --now-dammit for Exim?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: Joyina Dark Side, losemusha.<Kira> darth, umphefumulo wami am * obubi.
+		-- Ed Moran
+
+%
+<Netgod> Feanor: u nakwazi of the stupidty yomthetho american ukujula
+		-- Ed Moran
+
+%
+Noma ubani umi phandle phakathi komgwaqo libukeka Roadkill kimi.
+		-- Linus Torvalds
+
+%
+<Lilo> "NGICELA ukuhlonipha amalungelo yengqondo ebhaliwe!"<Lilo> "Ngicela khombisa ingqondo." ;)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Feanor - nezindaba ilayisensi ibalulekile. Uma singazi ukubukela yethu           nezimbongolo manje, Gonna kothile akhuphuke ukuluma nathi kamuva ...
+		-- Linus Torvalds
+
+%
+"Manje sizoba ukukubulala."
+		-- Linus Torvalds
+
+%
+* Knghtbrd can kakade ukucabanga: 'Isihloko: [ngenhloso LUNGISELELA ukuphakamisa   Nokufakwa UMBIKO BUG] typos wenchubomgomo "
+		-- Linus Torvalds
+
+%
+<Netgod> Heh thats ngiyisehluleki, like the Meaning okuyiwonawona         "Jewelry"<Netgod> give it up :-)<Sage> kanye esipelingi "umbala" :)<BenC> Heh<Sage> kanye ne-aluminium<BenC> noma izikhali zenuzi<Esikweyoku> wena threating mina yankee?<Esikweyoku> imbangela nje asinayo ibhomu ...<BenC> bayesaba ya esiswini yellow
+		-- Linus Torvalds
+
+%
+<LauraDax>! Wambona unkulunkulu<Tabi-> LauraDax, angikhumbuli ebona "unkulunkulu"
+		-- Linus Torvalds
+
+%
+<Kira> impi kuhlinzwa lapho uya ukunikeza amabutho akwelinye izwe imisebenzi ekhaleni?
+		-- Linus Torvalds
+
+%
+<Xtifr> Athena Desktop Environment! Ezinhliziyweni zenu, nina ayaziyo * kungcono        isinqumo esifanele! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+<Knghtbrd> shaleh - elingcolile nje uyinqaba.<Espy> Heh, elingcolile epholile<Knghtbrd> Espy - futhi uyinqaba.<Espy> yebo, uyinqaba kakhulu
+		-- Linus Torvalds
+
+%
+<Xtifr> izimila ebuchosheni ngqo :)<Knghtbrd> xtifr - yah, bese kusetshenziswa amakhompyutha empeleni zidinga ezinye           yalezi idiots ukucabanga!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - BTW, ngemva kokuba sesihluphekile sewuthole X ithatha sonke 1.4 Gigs           ukwakha, ingabe uzimisele bayavuma ukuthi X bloatware? =><Overfiend> KB: Kunegebe 16 1/2 ngomzuzu ngiphendula<Acf> knghtbrd: ubufakazi obukhona bokuthi X ungukuphela * 2nd * windowing esibi kunazo zonke      uhlelo;)
+		-- Linus Torvalds
+
+%
+<Liw> Day, ezizimele igundane ukunyakaza iqala ngokuvamile ngemva ngisebenzisa      inkinobho yegundane<Wichert> ungasebenzisi inkinobho yegundane ke :)<Liw> yeah, kwesokudla :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> niyazi, Linux udinga umdlalo platform Starring Tux<Knghtbrd> Kinda Super Marioish, kodwa nge-Tux nezinto ezifana Cyber ​​kancane           izimbungulu futhi borgs nokuthi inhlobo yento ...<Knghtbrd> Futhi kufanele sifinyelele billgatus esidlule futhi hit isihluthulelo ukulahla kwakhe           zibe udaka bese ubona ezinye guy ukuthi ifana RMS           noma othile uthi: "Ngiyabonga kwakhe kimi Tux, kodwa Linus           Torvalds ekwelinye castle! "
+		-- Linus Torvalds
+
+%
+<Thoth_> Yeah, kuhle yingakho ukuthi zibaliwe 2.3.1 ... kungcono thina         abaphuthelwe uptimes NT-like
+		-- Linus Torvalds
+
+%
+<Shinobi> Kunezinto mumbi khulu ukudlula ongakholwako Perl .... ASP lefika engcondvweni
+		-- Linus Torvalds
+
+%
+* M2 ugqolozele qapha ... kubukeka sengathi i-hamburger ...<Knghtbrd> m2 - ukuthi lokho kuwuphawu olubi
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Leave it Manoj ukubiza procmail "mncane"
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: kahle, i Cant baqonde izinto ezifana "s / 3 # $% ^% {]] [@ f245}"<Manoj> Crow: Lokho akulona ngempela zomthetho ;-)<Knghtbrd> Manoj - ngelinye usenzela kanjani 's / 3 # $% ^% {]] [@ f245} "zomthetho           noma kunjalo? (Nokuthi na? Hehe)<Manoj> Knghtbrd: Udinga ukuqedela s /// nkulumo.<Knghtbrd> o, wukuthi bonke?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, yilona kuphela ulimi ebhaliwe ukuze milspec.<Mikster> <athuthumele>
+		-- Linus Torvalds
+
+%
+<BenC> -include ../../debian/el33t.h<BenC> sendmail build ... ongaziwa igama unhlokweni :)<Isildur> hahaha* Netgod laffs<Netgod> BenC: ungakwazi u ukutshela i kusetshenziselwa ukulondoloza sendmail? : P<BenC> Heh :)
+		-- Linus Torvalds
+
+%
+<Phase> akukho ... I musn't uneminye ikhofi more !!! ;)<Simunye> isiqiniseko yu do Phase :)<Phase> ngempela ufuna mina oshaya uphahla?<Simunye> yesh :)<Kira_> oshaya uphahla kuyinto gewd<Phase> ok, ukuthi Lo mbuzo silly<Kira_> kungcono splatting esitezi lokho inkinga.
+		-- Linus Torvalds
+
+%
+<Kensey> RMS uMengameli ???<RelDrgn> ... noma ESR, yena ufuna umsebenzi omusha;)
+		-- Linus Torvalds
+
+%
+Oh cha, hhayi futhi.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> Kuyavunywa, RMS kuyinto ngokweqile, mina musa ukuphika lokhu. Ngizothi yebo           yena ubuhlungu wobukhosi imbongolo esikhathini esiningi. Kodwa yena           namanje kaningi kwesokudla eziningi, futhi kumfanele ezinye ezingeni           credit kanye nokwazisa ngomsebenzi wakhe. Besingeke sibe lapha namhlanje           ngaphandle kwakhe.
+		-- Manoj Srivastava
+
+%
+<Espy> kusasa kuzoba khona ukuphazamiseka okukhulu nakho lapho ususebenza
+		-- May 18, 1999
+
+%
+I am dyslexic of Borg. Lungiselela ukuba imbongolo yakho laminated.
+		-- May 18, 1999
+
+%
+<NeonKttn> ngangisanda kuthola umngane anamathele nami ekamelweni lakhe ngesikhathi lasesikolweni esiphezulu beacuse I           Ngeke ukholwe ukuthi isoka lakhe wayazi mayelana foreplay ...<NeonKttn> I shoulda kwaletha popcorn. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> hardcopy ukuphi wussies<Topher> uhlelo lwekhompyutha Ukufakwa ohlwini .... owalandela, owawungo-hardcopy
+		-- May 18, 1999
+
+%
+<Kceee ^> I hate abasebenzisi<Knghtbrd> wena izwakala sysadmin kakade!
+		-- May 18, 1999
+
+%
+<Change_m2> Will Linux naphakade zikufice isinkwa lisikiwe njengoba # 1 Imphumelelo            isintu?
+		-- May 18, 1999
+
+%
+<APH> Manoj uya nuts phezu impi ukulungiswa! Woo woo!<Knghtbrd> Manoj waya nati kudala. kodwa fixing bug epholile =>
+		-- May 18, 1999
+
+%
+<Rcw> nalabo okusobala-bacterium-like multicolor izikelemu ephuma      backorifice Microsoft<Rcw> lelo backoffice logo
+		-- May 18, 1999
+
+%
+* Simunye is on a oc3-> oc12<Daem0n> simmy: ukuluma kimi. :)<Simunye> daemon: kulungile :)
+		-- May 18, 1999
+
+%
+<Overfiend> Lilo: kahle-ke, cishe wayecabangisisa wemfanelo.            Siyakwamukela ku-club encane kakhulu.<Lilo> Overfiend: ukwamukela kimi uma ujoyina :)
+		-- May 18, 1999
+
+%
+Ngokuyinhloko, ngifuna abantu ukuba bazi ukuthi uma they sebenzisa modules kanambambili kuphela,kungcono inkinga yabo. Ngifuna abantu bazi ukuthi emathanjeni abo, minauyayifuna bamemeza kusuka uphahla. Ngifuna abantu ukuba baphaphame in aizithukuthuku ebandayo zonke ngezikhathi ezithile uma basebenzisa modules kanambambili kuphela.
+		-- Linus Torvalds
+
+%
+* Wichert_ ucabanga master ngaphandle a MTA<James> wichert: EHM? engase ithiye peformance we BTS: p
+		-- Linus Torvalds
+
+%
+<Isigcilikisha> Hmm ... Kazi enye seperates Debian lonke uhlelo        Linux kukaMoya.<Knghtbrd> Isigcilikisha - We Do not Suck<Isigcilikisha> Knghtbrd: awusho ukuthi lapho ekhuluma sabantu        KUSUKELA labo distros<Knghtbrd> Isigcilikisha - iphuzu.
+		-- Linus Torvalds
+
+%
+Ngenxa umthombo avaliwe model ukuthuthukiswa XFree akunakwenzekaukuze asekele, noma ngisho baqagela, izici pre- noma beta ukukhishwaof XFree.
+		-- Marcus Sundberg
+
+%
+>> I do not ngempela alibheki bible-KJV-welusuku nihlangene njengemndeni idokhumenti lobuchwepheshe,>> Kodwa ... :)> Kuyinto manual - yokuphila.Kodwa alukabuyekezwanga esikhathini eside, abaningi bangase bathi kungconokwashunq 'out of date, futhi maintainer umfula akasabeli yakheimeyili. :-)        - Branden Robinson, Oliver Elphick, futhi Chris Waters in a           Esigijimini esasiya Debian-inqubomgomo
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> ngiyakwazi ukucabanga kwabantu abaningi abadinga USER = ID10T Wabeka endaweni ongawathola!
+		-- Marcus Sundberg
+
+%
+<Slashdot> geograpy yami US lousy ... lol<Knghtbrd> ngakho-ungowami, mina baphile lapha
+		-- Marcus Sundberg
+
+%
+Moonchild ngaphandle umbono? USathane ngezicathulo emsebenzini kusasa!
+		-- Brett Manz
+
+%
+<Knghtbrd> I ecinisweni angiwufuni okuningi ngaso sonke ... Just amazwi omusa, i           Owesifazane ezikhangayo, futhi bandwidth AKUNAMKHAWULO !!
+		-- Brett Manz
+
+%
+<Knghtbrd> Uma senza uku kokubili okulungile (Ngithathe ukuqagela singabantwana) Ngingumfana Not Happy kakhulu.* Minupla unikela wena kweswela indondo ngonyaka.
+		-- Brett Manz
+
+%
+Isikhathi Last ngangingakwazi ukuxhumana obuseduze nomunye ntu kwaba kunalokhonakho okubuhlungu ... ngikunxusa injani ...;)
+		-- Brett Manz
+
+%
+<Apple_IIe> nowake wabona ikhadi lami 80 ikholomu?
+		-- Brett Manz
+
+%
+<Slackware> Hawu, yini ngaqala :)<Debian> rofl ... Distro Nick izimpi.* Slackware nje elindela / nick Gnome, / Nick KDE, bese impi yezwe 4   phuma<WinNT>: OP<OpenBSD> <duck><PalmOS> :)<Slackware> no'one owayengalokotha / nick RedHat<Tru64> ekunyawuzeni.
+		-- Brett Manz
+
+%
+<Crow-> im fcucking druk* Knghtbrd uyaqiniseka ukuba ungene konke Crow- uthi tonight ...<MrBump> heheh<MrBump> Wathi Wayenza ngishade! hayi suka!!<Crow-> dude nangayiphi indlela<Knghtbrd> MrBump - akuyena UKUTHI udakwe<MrBump> Knghtbrd: Ngithathe ochotshoziwe: o)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> KUBE STOP!<Knghtbrd> KUBE STOP !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - kulungile, isichibi is hhayi ephukile, kodwa ingqondo yami           okukholakala ukuthi uneminyaka<WC> lokho lutho olusha (;<Knghtbrd> WC - thulani.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+<Dpg> baseMelika wierd ....<Xtifr> Californians ngisho weirder<Knghtbrd> xtifr has a iphuzu ...
+		-- Brett Manz
+
+%
+* Woot ukumamatheka serenely.<Woot> Angifuni ukuba kubonakale phezu bemagange ngokuthola ku knghtbrd sika       siglist.
+		-- Brett Manz
+
+%
+<Culus> dhd: R wena semfihlo Debian overstructure?<Dhd> akukho. akukho mfihlo Debian overstructure.<CosmicRay> nakuba, manje ukuthi khona umuntu ophambana nelungelo wayivusa, ake ngiqale eyodwa            :-)<Knghtbrd> CosmicRay - kunganjani, Uzwakala indlela ejabulisayo yokuzilibazisa the           ntambama = D
+		-- Brett Manz
+
+%
+<Xtifr> ungenawo uhlanya ngempela ukusebenza kule ndawo .... oh ulinde, yebo uyenze!        :)
+		-- Brett Manz
+
+%
+* O-o njalo like debmake ngoba wayazi kahle ukuthi ayeyokwenza ...<Ibid> o-o: ubungenza ;-)
+		-- Brett Manz
+
+%
+2.3.1 ukhululiwe. Folks amasha kulo mdlalo kufanele sikhumbule ukuthi2.3. * Ukukhishwa yentuthuko izikhwebu, kungabikho liqinisekisa ukuthingeke kukwenze uhlelo lwakho ukwenza izinto ezinyanyekayo like ekhohlakele yayoizindilinga eziyizicaba, zibamba umlilo, noma ukuqala Mindcraft zokubekisa.
+		-- Slashdot
+
+%
+do {    :} Kanti (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * echo "... Linux nje into yesikhashana" | mail billg@microsoft.com -S = "Futhi khumbula ..."
+		-- Slashdot
+
+%
+<Hop> kb: Ngifuna kwenziwe ubuqotho kanye nokwethembeka labo i ibhizinisi<Hop> ngiyazi izimfuno zami akuzona izinto ezingenangqondo, kodwa umfana kungaba baphuphe, akakwazi yena?
+		-- Slashdot
+
+%
+<Jgoerzen> ufundela: Ahh ukuthi umshini. Awucabangi ukuthi into okuthiwa u-           stallman ofanelwe ukuba i Alpha? :-)<Ufundela> jgoerzen: cha, empeleni, Ngizobe prolly bayothambekela kakhudlwana uma sibala nje 386      4 megs of kwenqama 40 Meg hard drive stallman.<Ufundela> nge big fat icala lokuthi wenza amathani nomsindo rattles the floor* Knghtbrd uwela phansi ebambe emaceleni kwakhe laughing<Ufundela> futhi ..<Ufundela> kabili-ukuphakama hard drive
+		-- Slashdot
+
+%
+Klingon umsebenzi izingcingo akudingeki 'nemingcele' - banayo 'ama-agumenti'
+		-- and they ALWAYS WIN THEM.
+
+%
+* Knghtktty ngeke ukubuza ukuthi zucchini Wangena ingxoxo ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Subject: [GR Isiphakamiso] Kufanele sivota on izinto ezingathi shú?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Woot> Beka * ukuthi * kuwe .sig futhi abheme it, Knghtbrd.<Culus> Niyazi uyofunda lo:><Woot> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Njengoba uhambo nawe ngokusebenzisa ukuphila uthathe iminithi zonke manje bese ukunikeza awacabanga ngoba omunye umfo. Wayengabizwa itulo okuthile. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Kulungile, nina bantu baye baqala ukukhuluma ngaba- BSDM izicelo           inethiwekhi hardware ... Ngicabanga ngizobuya ubaleka kanye lenza okuthile okusizayo           futhi Debianish futhi ngingangeni nalena ...<Knghtbrd> (ushintsho)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - ungacabangi Debian engakakhuli ezinye bayiziphukuphuku futhi           izimbungulu osobala ngaphambi<Knghtbrd> Yiqiniso, sivame silungise ezethu NGAPHAMBI thina ukudedela = D
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - I am a umthuthukisi Debian. Red Hat 'isitha "noma           into enjengaleyo ngiqagele .. Noma kunjalo, abasebenzisi typecasting RH njengoba           idiots noma ukusatshalaliswa yabo njengoba ephukile ngokuzenzakalela           kuyinto FUD okuphelele futhi isamba.
+		-- Hagar the Horrible
+
+%
+>> Kodwa IANAL, of course.>> IANAL kungaba. Indodana yami, kodwa uma ngambuza ngithole I impendulo> Elingeke lithande ukuzwa."Nakhu invoyisi yami." ? = D
+		-- Hagar the Horrible
+
+%
+> Ok, ngiyabona ukuthi wazi ukuthi wenzani :-)Kuphakathi ukuthi noma ngiye ayithole ngokungafanele kuhle at wazenza-ke.
+		-- Hagar the Horrible
+
+%
+<Wichert> 8am kwehora ungoldly ukuba aphaphamele :)* Gorgo ngokuvamile evuswa 11am
+		-- Hagar the Horrible
+
+%
+Kute Cabal.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> Acf: mhlawumbe April 1 ngonyaka ozayo slashdot idinga ukusebenzisa "Rob Malda            nobheka umsebenzi omusha njengenhloko ye Debian project "8)
+		-- Hagar the Horrible
+
+%
+* Netgod ivula ibhokisi leposi lakhe futhi ngokushesha lowo athanda hadnt
+		-- Hagar the Horrible
+
+%
+<Frogbert> kanzima ukuba kwayo lesbian withoutn amabele ... abantu dont bathathe           wena sina
+		-- Hagar the Horrible
+
+%
+Mhlawumbe Debian ukhathazeke kakhulu umsebenzi oncomekayo technical kunokubalula ukusetshenziswa ngokuphula software. Kulendzawo yangaphambilini thina singase sibe nekhono. In thesakamuva kumele siyavuma endle Microsoft. Guess lapho ngifuna ukuya khonanamuhla?
+		-- Manoj Srivastava
+
+%
+* PerlGeek ngempela alien isikhala* Knghtktty ukholelwa PerlGeek
+		-- Manoj Srivastava
+
+%
+<Netgod> ikhasimende lami belilokhu owned babhaxabulwa<Netgod> lokhu umfana got impande, wagijima iphakethe sniffers, .rhosts ezifakiwe kanyebackdoors, wafaka Thumela entsha lonke elibizwa ngokuthi / lib / "", okuyinto has asuite egcwele smurfing namathuluzi ngokubulala<Netgod> iphutha kuphela awuzange kususwa amafayela akho amalogi<Netgod> Umbuzo uwukuthi kwaba impande zangena kuma kanjani, nokuthi i Ayikwazanga atshele u<Netgod> kuba Yiqiniso, hhayi ibhokisi Debian* Netgod iphawula ibhokisi Debian nguye kuphela kwesokunxele angathintwanga hacker
+		-- wonder why
+
+%
+* Joeyh iCV bophezela ekhaya lakhe lwemibhalo. Aaaaaa<Drow> eeeeeeek<Drow> joeyh: Akulona neze okubi. Inkathi.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: UFies kukhona ngaphezu uhlanga lwesintu :)
+		-- wonder why
+
+%
+Ngithe mangingene isikhathi eside edlule eyozama ukuthola lutho bug uhlu dpkg.Kufanele ugijime i entry Guinness Book of Records.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> i esiphethweni 17G Oughta kunganele.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> eye / usr / bin / emacs sezifakiwe / etc / amagobolondo okwamanje? : P
+		-- Stephane Bortzmeyer
+
+%
+* Joeyh usizakala ikhono Netscape emangalisayo iphahlazeke ukuze uvale        10 amafasitela nge wokucindezela ukhiye olulodwa<Joeyh> Manje lokho kuyaqhubeka!<Knghtbrd> iphutha Bus =>
+		-- Stephane Bortzmeyer
+
+%
+<Wordplay> You kala vibrators lwakho 'izinhlamvu ngomzuzwana "? NginayoIzindaba ezimbi ngawe, c90, ubulokhu indlwabu ngedot-matrix printer.
+		-- Stephane Bortzmeyer
+
+%
+Hi! Ngiyi virus .signature! Kopisha me ku ~ wakho / .signature ukuba angisize sprea =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty swebeza Nothings elimnandi Thyla (Izinto mayelana compilers futhi            Ihluzo nenqama ngcono big hard drive ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: yilokho uza kahle eziphathelene nobufebe nobunja ...* Thyla likhala ku ukuqhuma ecstasy ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> guys are bonke abagulayo! abagulayo ogulayo ogulayo Ngiyanitshela ya;)
+		-- Stephane Bortzmeyer
+
+%
+* Bma is a yank* Knghtbrd is a Knghtbrd* Dhd ubuye a yank* Espy kuyinto embi* Knghtbrd ukholelwa Espy
+		-- Stephane Bortzmeyer
+
+%
+* Bma izimangaliso uma lokhu kuzokwenza lo Knghtbrd .sig
+		-- Stephane Bortzmeyer
+
+%
+izixazululo Techical kukhona akuyona indaba yokuba namakhono yokuvota. Imithetho amabili e-USuthi cishe wanquma ukuthi ukubaluleka Pi kube 3.14, impela. ivoti Popularakawenzi ikhambi lesifanele.
+		-- Manoj Srivastava
+
+%
+<Fiqir> <Knghtbrd> nokwanda kwenani kwadambisa isimo esasishubile emhlabeni wonke (njengoba kuboniswa ubugebengu<Fiqir> futhi whatnot) phezu sikhathi ibukeka okuningi like Linux<Fiqir> ukukhula kusukela ngo-1993<Fiqir> `` Linux kuhlobene emhlabeni wonke nobugebengu ubhubhane lwe-!! ''
+		-- Manoj Srivastava
+
+%
+<Teller> ngizoyaphi futhi lokho engiyenzayo kule handbasket?
+		-- Manoj Srivastava
+
+%
+Njengoba le database alisetshenziswa inzuzo, futhi kusukela imisebenzi yonke akuzonaeshicilelwe, liwela ngaphasi ukusetshenziswa fair, njengoba siyaqonda it. Nokho, uma noma iyiphiisigamu-assed isilima enquma ukwenza inzuzo off lokhu, kuyodingekadouble hlola it bonke ...
+		-- Notes included with the default fortunes database
+
+%
+Akukho inkinobho bokozela on a cat ngubani ofuna ukudla kwasekuseni.
+		-- Notes included with the default fortunes database
+
+%
+Subject: Bug # 42432: Debian-inqubomgomo: Proposal for CTV for Draft for Proof ofConcept for Draft for Proposal for Proposal for CTV for CTV ukunqumazenza isiphakamiso sokumisa CTV for CTV noma cha thina shoud abe CTV kuthe / usr / doc ukuze / usr / share / doc soguquko manje, noma kamuva.
+		-- Ed Lang
+
+%
+<Knghtbrd> Kuyinto trackball ngoba munye<Wichert> ngakho akusiwona igundane<Wichert> kungcono turd nge ibhola nimkhiphela<Wichert> okuyinto ukuwotawota njalo
+		-- Ed Lang
+
+%
+* HomeySan ulindela pizza the papa kukaJohane ukukhombisa up<Ravenos> mm. papa kaJohane.<HomeySan> ngethemba bathumela cute ukulethwa umshayeli<Ravenos> they dont babe ukuthi lapha.<Dr_Stein> kungani? wena Gonna udle umshayeli esikhundleni?
+		-- Ed Lang
+
+%
+<Netgod> ingabe kimi, noma Knghtbrd snoring?<Joeyh> bayibulala knghtbrd!<Netgod> Kysh: wichert, Isigcilikisha, joeyh, mina usegumbini ukuzama ukuyishaya indiva          Knghtbrd<Kysh> netgod: Knghtbrd kunzima ukusishaya indiva.
+		-- Ed Lang
+
+%
+<Woot> Man, ngifisa knghtbrd lapha ngiyothatha ukuthi uhlu lwakhe SIG.[... Ngemva kwamahora ambalwa ...]<Knghtbrd> woot abazi mina vewy kahle, naye?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd befuna isikhumba wichert nge NERF imicibisholo* Wichert uphawula azikho nerfs ICBM okwamanje futhi engayinaki kngtbrd<Knghtbrd> wichert - ulinde nje, ngemva kokubona NERF gatling izibhamu, ICBMs           kungukuthi nikude (nje ike ishaye into Damned ihora elilodwa noma amabili           uyikho konke ...)
+		-- Ed Lang
+
+%
+Operating Systems Kufakiwe:  * Debian GNU / Linux 2.1 4 CD Set ($ 20 kusukela www.chguy.net; intengo kuhlanganisa    izintela, lokuthumela, kanye $ 3 ukunikelela FSF). 2 CD kukhona binaries, 2 CD    Ikhodi yomthombo ephelele;  * Windows 98 UHlelo Lwesibili Thuthukisa Inguqulo ($ 136 ngokusebenzisa Megadepot.com,    Intengo akuhlanganisi izintela / lokuthumela). Ngokumangalisayo, akekho ikhodi yomthombo    ifakiwe.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Atshontshe wethegi. Ngenzile.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> o noooo, Knghtbrd sika got a gun :)<Doogie> ^^ ufaka umculo ^^<Knghtbrd> bfextu - o / ~ wonke umuntu on the o ebaleka / ~<Bfextu> o / ~ run away, ruuuuun kude pay-ay-Ain o / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Mercury> emacs sucks, ngokwezwi nezwi, hhayi ukweyisa, nje amazwana alo          enkulu ngokwanele ukuba babe silingo obonakalayo okudonsa ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Njengoba ikhompyutha, Ngithola ukholo lwakho kwezobuchwepheshe ezihlekisayo.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Knghtbrd esabela 3 eChris* Variable izimangaliso ubani omunye ogama lakhe chris ngaphandle kwami<Knghtbrd> variable - wena. =>* Knghtbrd elindela variable ukuba ephawulekayo uthi: "Nginomuzwa wokuthi wasebenzisa SO!"<Variable> Knghtbrd: :)* Variable ++<Variable> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy ezindla i emgqeni uplad ngokuthi 'esihogweni' ukuze ngikwazi ukukwenza dupload --to esihogweni
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> java, umhlonishwa, ngezinye izikhathi ngempela engifuna bashaye nawe.<Knghtbrd> Valkyrja - Wayenza ukuyithanda esiningi<Reteo> Valkyrja: yah, qhubeka sikwenze ... beat java zibe cappuccino! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Tali> kube vewwy vewwy qwuiet .. Ngiyi huntin wuntime ewwos
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Muva Red Hat ukhiphe Security Advisory (RHSA-1999: 030-01)esehlanganise zichichima sesikhana in the iphakethe vixie cron. Debian inewathola lokhu bug iminyaka emibili edlule futhi fixed it. Ngakho-ke izinguqulo ekokubili, esitebeleni kanye engazinzile, kukaMoya ka Debian akuzonakalula kule nkinga ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Okokuqala off - Ukuzamazama Imane nje Amazing. It kukuvumela ngokuphindaphindiwe ukubulala yakhoboss ehhovisi ngaphandle kokuba baboshwe. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Law Lucas ': Good uyohlale ukunqoba, ngoba okubi uqasha _stupid_             onjiniyela.
+		-- Signal 11, in a slashdot comment
+
+%
+* TribFurry esibone mail spam kusukela ucsd ... Ngangivame imeyili evela            ngokwami, kodwa Nganquma akakuthandanga ngokwami ​​futhi wayeka ukukhulumakimi
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> inothi ifriji dorm ... "To Umuntu owayedla okuqukethwe            the isitsha ngokuthi 'uJakobe' - isixwayiso, kwaba biology yamiexperiment "
+		-- Signal 11, in a slashdot comment
+
+%
+<KatanaJ> Qaphela on a lab Chem fridge- "Lokhu imbala is not explosion-          ubufakazi ".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DalNet ufana ama-Olympic ekhethekile ka-IRC. Kukhona okuningi           Ukuvuza amathe goin 'on and wonke umuntu' winner '.
+		-- Signal 11, in a slashdot comment
+
+%
+Kodwa ekulungiseni dpkg kuyinto infeasible, futhi sesineminyaka ababevumelane ngakho, hhayi phakathi kwezinye izinto,ukugcina izidingo abasebenzisi bethu iyahola izingqondo zethu. Futhi kusukelanombono yomsebenzisi, into egcina uhlelo lungisa in the evamileEsimweni esinjalo, futhi usebenza * manje *, ingcono kakhulu fantasies uyiphupho like adpkg ukusebenza.
+		-- Manoj Srivastava
+
+%
+Ngoba yonke imibono kukhona i wokubuyekeza alinganayo okuphambene.
+		-- Manoj Srivastava
+
+%
+<Epsilon3> Knghtbrd, uma sasifuna amazwi lameass ngabe wathi:           Hey, neckro
+		-- Manoj Srivastava
+
+%
+<Tigah _-> i ube 4GB for / tmp<Knghtbrd> Wenzani nge 4G / tmp? Ahlanganise X?<Tigah _-> yebo
+		-- Manoj Srivastava
+
+%
+<KnaraKat> Bite kimi.* TheOne uthola ezinye usawoti, khona-ke wabe zidla on KnaraKat kancane         kancane ....
+		-- Manoj Srivastava
+
+%
+* Knghtbrd uphawula yena uye egayiwe amazambane for ubuchopho tonight<Valkyrie> yum, fantshi I fanele ezinye?<Knghtbrd> um ...* Knghtbrd efihla kusuka Valkyrie
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> joeyh manje ukuphela at lombhede?<Knghtbrd> Ukuthi guy seyenziwe, ngiyafunga =><Doogie> Knghtbrd: laptop<Doogie> futhi angiqondile namakati.
+		-- Manoj Srivastava
+
+%
+Njengoba sazi ezinye imicu yamuva, i-ukuxoxa izikhwephakudingeka kwenziwe on ngendwangu, ebukhoneni unompempe, ngesikhathiegqoke amagilavu ​​padded. ;-)
+		-- Phil Hands
+
+%
+<James> kodwa, khona-ke mina wasebenzisa Atari, mina maningi amathuba okuba bawine i-lottery in kwaba        amazwe ayishumi kanyekanye kuka get nekusebenta kuye embili ngesivinini X
+		-- Phil Hands
+
+%
+* Joeyh uyazibuza ukuthi kungani wonke umuntu ufuna ukwazi abade kangakanani<James> joeyh: kuyasiza sniper
+		-- Phil Hands
+
+%
+* BenC uyazibuza ukuthi kungani yena uye upgraded to 3.3.5-1 ngaphambi teh X maintainer
+		-- Phil Hands
+
+%
+<Delenn> engangenza ukuba lingani kuso ngokusebenzisa amahora angu-24 ngaphambi kokuba ngiyoke ngikwazi kokudubula up         hlupha futhi ngempama nabangane abambalwa on the barbie.<Spacemoos> Kungani ungaphakamisa ngezimpama abangane nge barbies, thats Kinda kinky
+		-- Phil Hands
+
+%
+Empeleni .. kusekelwe kulesi model ngalokho NSA kuyinto futhi akuyona ... eziningi theAbantu kokufunda lokhu bangamalungu NSA ... /. kuyinto afterall 'IzindabaNerds '.NSA ngoMsombuluko ekuseni {at the machine ikhofi):NSA Agent 1: Hey guys, akazange usuhamba slashdot ngempelasonto?    Agent 2: Cha, ngaboniswa kokufaka Mandrake 6.1 mina coulnd't uthole darn             PPP uxhumano up ..    Agent 1: Well kuhlole ... siphelela on kithi.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Ubuchwepheshe a empini constand phakathi abakhiqizi ekukhiqizeni zinkulu futhimore izinhlelo isilima-ubufakazi futhi nemvelo ikhiqiza idiots okukhulu nokungcono.
+		-- Slashdot signature
+
+%
+knghtbrd: kungabikho spoon, kodwa ungakwazi usulibonile sengozini ineye_render_shiny_object.c?
+		-- rcw
+
+%
+<Joy> wow ... maths elula zibonisa ukuthi Debian onjiniyela ivaliwe ngaphezulu      kuka 31 * * ayizinkulungwane * imibiko bug kusukela Waw Ngakanani wethu ukhona!<Injabulo> imayelana 30999 ezingaphezu kuka-Microsoft;)
+		-- rcw
+
+%
+<Knghtbrd> QAPHELA UKUTHI ngenhla NJE umbono futhi akufaneleUYISWA kungafaka noma yimaphi NDABA eyiqiniso. THE           USOMLOMO DISCLAIMS konkhe nabobonkhe. Ubhekane naso.
+		-- rcw
+
+%
+<James> iyiphi Gnome Freaks nxazonke?<Knghtbrd> kimi, Ngingumfana nje freak
+		-- rcw
+
+%
+<Madax> Ahh<Madax> umbuthano geeks ....<Madax> Angikwazi ukuhogela it manje
+		-- rcw
+
+%
+<Knghtbrd> sifunde ukuthanda Window uMenzi.<Knghtbrd> a NeXTStep kancane kuhle umphefumulo.
+		-- rcw
+
+%
+Nezixwayiso: kungcono GNOME, esabe, esabe kakhulu kuncike line
+		-- James Troup
+
+%
+<Culus> Hhhmmmmmmmm<Culus> waterbeds izinkomo<Culus> eleet<CAS> Culus: kungani inkomo badinga imibhede yamanzi?<Culus> CAS: Ukuze ibe ithokomele afudumele
+		-- James Troup
+
+%
+Uma kuyilokho wena udle, ngiqagele okungenza ngibe A IsiDanishi ushizi.
+		-- Anonymous
+
+%
+<Hop> lapho uqala ngokwenza amaphutha stupid kuphela ukuthi zisobala, Thats      uma uqala ukuthola abanekhono<Hop> ngoba ungazi wenze ayisisekelo ukungaqondi kahle amaphutha<Hop> futhi thats a * ezinhle isibonakaliso.
+		-- Anonymous
+
+%
+<Lilo> kungcono uyinqaba, uma uya kwi safari-Afrika ukubamba ingonyama, wena       bakuthola bephila futhi uyala, bese wena awuhlabe<Lilo> uma uya safari ukuze South Bay ukuthola Palm VX, uthola       it efile futhi uthathe ekhaya futhi uyala emva ufika :)
+		-- Anonymous
+
+%
+<Lilo> Ngiyakwazi ukufunda bloody * manual * sengathi uhlobo oluthile       sepheshana lenkolo echaza amafomu ukukhanyiselwa ongayifinyelela       emva kweminyaka 10 entabeni :)
+		-- Anonymous
+
+%
+Law Gates ': Njalo ngemva kwezinyanga 18, ijubane halves software.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: ngeza abasebenzisi ngubani okufanele usaphatha umsindo ukuze iqembu           audio .. Qinisekisa ukuthi amadivayisi bonke alalelwayo group (ls -L           / Dev / DSP uzokunika inkomba esheshayo uma Cishesetha kwesokudla) no ukwakha uhlamvu nge support umsindo for ikhadi lakho<Knghtbrd> NOMA ngokuzikhethela ufake alsa umthombo futhi ukwakha modules for ukuthi           nge ukwakheka kpkg<Knghtbrd> NOMA (hhayi Kunconywa) uthole futhi ufake okubi Oss / Linux okubi           non-free kanambambili okubi okubi kuphela abashayeli --- kodwa labo abamonayo.Futhi akazange ngiphawula ukuthi ngeke Kunconywa?
+		-- Anonymous
+
+%
+Ngicabanga IRC ngeke isebenze noma --- siyakucela siphelelwa yisikhala sihloko!
+		-- Joseph Carter
+
+%
+"Pacific Bell Service Customer, lokhu kungumzimba [..] kanjani fantshi I ukukunikezaIsevisi yamakhasimende omuhle namuhla? ""HAHAHAHAHA !! Kuhle, ngiyasithanda ..""Um, ngiyabonga, benza sithi."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: newzealanders bloody<Omnic> danpat: wafaka Sock kuwo<Danpat> Heh :)<Knghtbrd> ukuhlekisa .nz'ers ihlukile --- bayazivikela bonke uyinqaba* Knghtbrd izikhumba<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> Flinny: black crontab magic Kinda Izinto :)<Knghtbrd> Joy: owenza ukuthi abantu asho uthole ukudansa naked azungeze omlilo           eklabalasa izinto eziyinqaba wendiza izingalo zabo mayelana in a silly           ngendlela?<Rcw> knghtbrd: ucabanga * ucabange * abantu benze at novare?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * snipsnip *<Rcw> hawu bantu, wukuthi umsindo ukuhlela inhlanhla database?<Joy> Ayikhona<Knghtbrd> Yebo =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> lokho a Kludge (TM)<Knghtbrd> Isebenza (tm)<Joy> Aix usebenza (TM)<Knghtbrd> akukho asipheli<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Umehluko phakathi ungungqondongqondo nobuwula wukuthi genius uye kungconomingcele. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> Uma ukushaja umuntu ngenxa yokwephula imithetho US mfihlo bangazuza           wena wahleka ngaphandle kwenkantolo, nje "ukuphenya" them on HTE icala           umbuso!<Knghtbrd> Tea, ubani?<Espy> I ngincamela minza osopolitiki esikhundleni itiye :)<Ufundela> Espy: osopolitiki kumele gills, duh<Espy> ochakide akudingeki gills
+		-- Albert Einstein
+
+%
+Uma ngehluleka kokufaka Linux, kukhona okushaya amanzi. okungalungile kakhulu.
+		-- Linus Torvalds
+
+%
+* Bma_home gropes wena<Bma_home> "oups, isiteshi okungalungile"<Bma_home> </ acf><Cerb> niyeke siphumputha me<Doogie> wazi nawe uyayithanda.<Bma_home> empeleni, kwaba "yebo, siphumputha kimi baby"<Gecko-> uthinte indodana yami futhi bafe, bma;)<Doogie> gecko- kepha nonkosikazi wakho uyingxenye ye ok?
+		-- Linus Torvalds
+
+%
+Ukufunda Iincwajana computer ngaphandle hardware Kunjengoba kungakhungathekisa kufundzasex Iincwajana ngaphandle software.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (tinc)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (it)<Knghtbrd> (e)* Espy uyaphawula ekhuluma ACR ^ Winitialisms is scary lapho ngakolunye uhlangothi  uyaqonda
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> ezimbi kakhulu unices kakhulu yasendulo Y2K zomkhalazi<| Rain |> ezimbi kakhulu?<| Rain |> kungani, ngoba abantu ngeke ukuthuthukisa kuze 2038?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "Mina efakwe 'Linux 6.1', akusho ukuthi ungenzele Unix                guru? "<BenC> Espy_on_crack: akukho, kufanele uyifake kabili ngaphambi wena       guru ... once ukuqinisekisa ukuthi ungakwazi ukukwenza, owesibili ukuze silungise izinto       yakho waphula okokuqala<Espy_on_crack> oh yokulunga, silly ngami
+		-- Arthur C Clarke
+
+%
+* Knghtbrd enza into ET<Knghtbrd> zamuntu got a ikhuluma-n-ukupela?
+		-- Arthur C Clarke
+
+%
+<Omnic> enye kwalokho .sig
+		-- Arthur C Clarke
+
+%
+Ngithathe seziqala ocabanga ukuthi le pool isakhi sofuzo sebenzisa chlorine kancane.
+		-- Arthur C Clarke
+
+%
+Kuba kubi njengoba ucabanga, futhi baphume ukuze uthole kuwe.
+		-- Arthur C Clarke
+
+%
+<Espy> qaphela, abanye TWiT Ungase ucaphune wena<Espy> emongweni ...
+		-- Arthur C Clarke
+
+%
+*** Sihloko for #redhat: ReDHaT impendulo zonke izinkinga zakho. It    kungaba isiqalo too!
+		-- Arthur C Clarke
+
+%
+* Cesarb izimangaliso uma esingaphansi kwesonto Carmack uyogcina bamukela  e-mail isifaniselo version umthombo Ukuzamazama okuyinto ezine  Izikhathi ngokushesha ukwedlula lokho waphuma ezandleni zakhe virtual ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: Angikho ngokubeka ekuzamazameni komhlaba umthombo ikhenela<Knghtbrd> kodwa kufanele abeke ekuzamazameni komhlaba the floppies ebhuthini eyodwa-up           Caldera sika tetris game ..;>
+		-- Arthur C Clarke
+
+%
+Guns musa ukubulala abantu. Kuba labo zesibhamu Day. Guns nje wenze ukuba bahambengempela ngempela fast.
+		-- Jake Johanson
+
+%
+<Espy> kudingeka uhlukanise main ku "umongo" futhi "WTF-usetshenziswa-le"
+		-- Jake Johanson
+
+%
+<Culus-> libc6 alibalulekile: |
+		-- Jake Johanson
+
+%
+<Dhd> kukhona ekhethekile iphakethe christmas ngokuba lokhu kuzamazama komhlaba<Dhd> lapho sesifana Santa robot on Futurama?<Dunham> dhd: kungaba kunalokho ongenakulinganisela umdlalo ...<Knghtbrd> Dunham: lokho umqondo. ;>
+		-- Jake Johanson
+
+%
+<Knghtbrd> inkinga GNU nezindinganiso esephepheni kuyinto bacabanga ukuthiwonke umuntu emhlabeni isebenzisa emacs .. Ukube icala, khulula           isofthiwe babeyokufa ngoba siyobe sonke sinezinkinga esihlakalenilike RMS manje futhi ngeke usakwazi khomba. ;>
+		-- Jake Johanson
+
+%
+C'Mon! umbhikisho ezombusazwe! sheesh. Iphi lowo moya anarchist? ;-)
+		-- Decklin Foster
+
+%
+Sike upped izindinganiso zethu, ngakho up eyakho!
+		-- Decklin Foster
+
+%
+* Woot manje eyaziwa ngokuthi woot-dinner* Knghtbrd sprinkles usawoti kancane on woot<Knghtbrd> Angikaze kwadingeka woot ngaphambi ... Hope ayabudla okuhle<Woot-dinner> noooo!<Woot-dinner> ungadli kimi!* Knghtbrd enquma akafuni dinner ukuthi ukhuluma naye ... hehe
+		-- Decklin Foster
+
+%
+[Mayelana izinyathelo zokuvimbela ukuba bakopele e kuzamazame umhlaba]I mean, inqobo nje uma ngingaphumelela rocket yami Sokuqalisa ibukeke a twinkie enkulu,Ngiyokujabulela;)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: ngamafuphi, siyakucela ezihambayo izinto eziningi iklayenti           Okwamanje unomthwalo wokuba ngikhulume iseva ku izinto           iseva amasheke uqobo<Knghtbrd> Uma Neo uthi "Akukho spoon", The Matrix uzothi "Oh yebo           kukhona --- akukho ukukopela! "<Hollis> Kodwa yena uyazi kung fu ...<Knghtbrd> Impela akwenzayo, kodwa mina abe Sokuqalisa rocket.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Mercury ngomoya ophansi ususa ingalo XT-Ream sika ..* Mercury ke uyaqhubeka ukushaya XT-Ream ngengalo XT-Ream sika.<Knghtbrd> wow, konke lokhu nokugenca kuzamazame umhlaba uqeda Mercury enobudlova lapha* Mao uyajabula project kuzamazame umhlaba sokukhanda lisezandleni eziphephile
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> CVS / Umncintiswano kwadingeka line engangikudinga ukuze "ukuguqula"<Mercury> Knghtbrd: Was mayelana ukubalula enjalo .. <G><Mercury> Knghtbrd: Manje, ukulungele bophezela?<Knghtbrd> ufisa me luck<Knghtbrd> Mercury: ukuthi uzibophezele<Knghtbrd> Mercury: futhi emva konke lokho, ngibe kakhulu.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd awele izinzwane<Knghtbrd> (uma ngiwela iminwe yami bekuyoba nzima ukuze uthayiphe)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> kukhona into eyodwa embi ngokuba umakhalekhukhwini.<Doogie> I kungafinyelelwa nganoma yisiphi isikhathi. : |<Wmono> yingakho ngikushiya emayini off ngaso sonke isikhathi. ;>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Udonga> indlela esizoxoxa aphimisele '00 noma '01 noma '02 njalonjalo?<Deek> Say Goodbye kuya nineties, sawubona kuya naughties. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> Uma umsebenzisi ukhomba ngesibhamu sakhe onyaweni bese idonsa inhlamvu, it       Kuwumsebenzi wethu ukuqinisekisa inhlamvu uthola lapho-ke kufanele.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Mercury> Be waxwayisa, ngiba ikhibhodi Angikwazi ukusebenzisa ukushaya amakhanda luser sika          e, bese uqhubeke ukusebenzisa ... (=:]<Deek> Mercury: Oh, i-IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Udonga> knght, sheesh, wena ukunamathisela amazwi ami emongweni e           #debian noma okuthile?<Udonga>;)<Knghtbrd> akukho, kodwa mina mhlawumbe kufanele khona;><Udonga> d'oh!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<CAS> Mercury: GPM akuyona isiphequluli enhle kakhulu sewebhu. ukukulungisa.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<CAS> umthombo lapho ya hamba. ukusho okuthile oyisiphukuphuku IRC babe it      immortalized phakade ifayela kothile .sig
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Microsoft isiphambano phakathi Borg kanye Ferengi. Ngeshwa,they sebenzisa Borg ukuba benze marketing yabo futhi Ferengi ukuba benze yaboizinhlelo.
+		-- Simon Slavin
+
+%
+ngincamela ukuchitha amahora 10 ukufunda ikhodi yomthombo yomunye kuka-10imizuzu ukulalela Musak elinde technical support engesiyo.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Ucabanga nithatha namuhla?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Ngisukuma iye kokuzwa zonke izinhlobo esigayegayeni lahlwa izibikezelo for Y2K, ngakho mina ngilokhu ngicabanga silalele ngezeluleko ukuthi izazi ziye ekupheni: Gcwalisani up lwenqola luye semoto, Stock up on izimpahla ezifakwe emathinini, agcwalisa kubhavu ngamanzi, nokunye.Ngicabanga wayengekho uphapheme ngokugcwele lapho ngafike ngaqedela khona amalungiselelo wami osewashona lokugcinaebusuku. Lokhu ekuseni ngathola emashalofini ekhishini ofakwe uphethiloli, amanzie lwenqola luye semoto, futhi ubhavu lwami lugcwele ubhontshisi Baked.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzan> hey ingabe waphawula ewa pirch yakho noma okuthile?<Knghtbrd> kimi? Heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy> wena kubhakwa<Knghtbrd> Espy: uhhafu kuphela
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> ngivame ungayisebenzisi yini "lokuhlola" futhi            "Isixwayiso" anamatheliswe sonke isikhathi<Darkangel> akukho, angiyona ukuthi eyisimungulu ... hehe<Knghtbrd> ...* Darkangel uyazicabangela ukulanda ikhenela yakamuva engazinzile
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> Solaris kuyinto BSD, ngakho-ke kufanele isebenze* Espy kuthatha wichert sika ufa pipe away
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> ezimbi kakhulu unices elidala kunawo zaphumela Y2K zomkhalazi<Knghtbrd> ngoba kusho abantu usazoba egijima eminyakeni engu-30           = p<Knghtbrd> it been ngakho nicer okuningi uma Y2K ngempumelelo aqedwe           hpux, Aix, sunos, njll;><Espy> Knghtbrd: kusukela nini PH-UX, ukuqaqamba, futhi solartus "omdala"?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+* Gxam uyazibuza zonke lezi globals idingeka ngempela<Knghtbrd> iningi labo okwamanje yebo<Knghtbrd> Siyabadinga Ngempela zihlanzwe phezulu esithile<Knghtbrd> gxam: the globals kuyomelwe ukuba ngimuke njengoba thina uthuthe maqondana           modularity nobuhlanya (ie, libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, i think ikhodi fixed ami akazange asebenze<Raptor> i akumele aye commited ikhodi abasebenzayo<Knghtbrd> Raptor: sengathi okokuqala ezake zenziwa = p
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> Knghtbrd: Ukusebenzisa -3dfx noma -svga?<Knghtbrd> Mercury uyokwenza okuthile Sane nalo<Knghtbrd> Mercury: kokubili --- SVGA sig11 sika, sig4 -3dfx sika<Knghtbrd> Mercury: engalungile okuhle? ;>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Zithembe us, siyazi ukuthi senza ... Singase nakwazi INDLELA           senza it, kodwa siyazi ukuthi senza kanjani.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> <CJ | Bizkit-0-> i ulayishe ku Linux server tho<Mercury> <CJ | Bizkit-0-> i got a akhawunti shell on eyodwa<Mercury> <Mercury> Whats it egijima?<Mercury> <CJ | Bizkit-0-> Umm<Mercury> <CJ | Bizkit-0-> Apache i think<Mercury> Usizo, sicela usize ..* Omni angakholwa
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<JT> kufanele bug kumakwe esibucayi uma nje sithinta umuntu oyedwa lwaleli?<James-workaway> JT: RC ngoba lokho eKhothameni mhlawumbe, kodwa labo uhlobo lwaleli                 izimbungulu ethize nale ...<JT> hhayi lapho okudalwa bug gcc<Doogie> JT: uthole gcc asuswe kusukela ngalolo lwaleli. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<EdLin> LWE?<EdLin> Linux W ?? E ??<Ubona> ngeke eatyou<JHM> Umhlaba Expo?<EdLin> i ubone
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Imali Okuzisholo". Yeka isijeziso ugly. Kuba omunye walabo izintolisikisela ukuthi uma une ukubuza, ungakwazi cha ngakhokhela it.
+		-- Linus Torvalds
+
+%
+<Deek> wena GPL umsebenzi wesikole? :)<Knghtbrd> yah = D<Knghtbrd> ubani uyavunyelwa ukusebenzisa noma ukuguqula umsebenzi wami wesikole, kodwa uma           ukusabalalisa izinguquko kumele lubandakanye emshinini ofundekayo umnyuziki           Ikhodi yomthombo;>
+		-- Linus Torvalds
+
+%
+* Knghtbrd yilowo usuku more bayaqiniseka ukuthi iningi coders C ++ abazi ukuthi yini           isihogo zenzani, yingakho C ++ has a rap embi kanje<Culus> kb: Iningi C coders abazi abakwenzayo, it nje kwenza kube        ukuzifihla: P<Culus> ubone Ngokwesibonelo, proftpd: P
+		-- Linus Torvalds
+
+%
+<Culus> Futhi musa kimi waqala on Perl!<Culus>:><Shaleh> Perl kakusekho okubi<Jim> awazi Perl okwamanje?<Netgod> Gotta athande ulimi kungabikho lesinthekisi definable
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / okungahleliwe | Perl?<Shaleh> doogie: liphinde sendmail.cf esebenzayo<Doogie> :)* Izandla knghtbrd doogie indondo obungenangqondo-ukusetshenziswa-of-cat* Shaleh ufuna ukuzama it kodwa uyesaba
+		-- Linus Torvalds
+
+%
+<Dhd> Perl </ dev / BDSM<Knghtbrd> une / dev / BDSM?<Dhd> isiqiniseko, kungcono pseudosadomasochistic okungahleliwe inombolo generator
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: ngihlelile ukuthi ngizoyisebenzisa kanjani manje .. 3 1.3Gb angaphandle, inqama 128M, 50Mhz ombaxambili        (Up to isikwele 250Mhz)<Kysh_> I catch wukuthi ukudansela isiginci sakhe 110V ngezithuba zabo 12A 8><Culus> 12A!<Culus> Kulungile, isitofu ami ingeyokuba ngingashayi 3000W, kwalelilanga kuyinto 1320W<Culus> Uyabona inkinga lapha<Calc> a 1320W ilanga, ukuthi ufana dryer izinwele :)
+		-- Linus Torvalds
+
+%
+* Joeyh_ ugijima ps futhi ubona imigqa 10 yekhodi awk* Joeyh_ recoils okukhulu
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: ngidangele kusukela yasekuseni izolo pacbell wathi           kulokhu ukusa ukuthi AT & T onecala futhi cishe bonke of the state           lafinyelela<Rcw> dunno kungani abantu kwelokuthi internet ikwazi ukuqhubeka iphila kukhukhulela-ngoqo wenuzi      lapho ngeke usinde backhoe
+		-- Linus Torvalds
+
+%
+Lo mlayezo kwalotshwa vi! (Hhayi ukuthi ubani emhlabeni ubakhathalela)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+reset Connection by abanye Moron nge backhoe
+		-- seen on an old message from an anon.penet.fi address
+
+%
+-Feb 5 13:27:01 uziqu lp0 ngomlilo        - Linux ikhenela, ixwayisa kimi ukuthi kwakunenzuzo ethile engaziwa           Inkinga nge printer yami (ie, kwaba out of uyinki)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+I kancane wena wazi konke ngama-computer kulapho ufuna Microsoft!        - Ad umkhankaso Microsoft, cishe 1996(Ubufakazi bokuthi ukukhangisa Microsoft _isn't_ yokungathembeki!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Ukwenza owodwa nesinqumo brilliant futhi lonke bunch of abanhliziyo Okuqukethwe akuzwakali akuyona njengobaokuhle njengoba okwenza yonke bunch of izinqumo ngokuvamile smart kulo lonkenqubo.
+		-- John Carmack
+
+%
+Akufani ngokuvamile kubiza isikhathi ngempumelelo kuwukuhlakanipha ukuhamba ukukwenza. Kodwa uma kukhona okushay 'pissing ngempela off, wena nje hamba uthole ikhodi bese ukukulungisa futhi yilokhocool ngempela.
+		-- John Carmack, on the advantages of open source
+
+%
+<Calc> yebo kuzwakala ewusizo for RE'ing USB<Calc> i ube engenamsebenzi 3Com usb ikhamera lapha :(<Knghtbrd> calc: 3Com bebengaba wena Kuboshwe ngenxa yokwephula imithetho           abekho 'kuze October;><Calc> knghtbrd: i ngeke fihla :)<Knghtbrd> ... ukuboshwa kakhulu eh?<Calc> knghtbrd: akukho Mangibufihle Ngingavuka bakhonza
+		-- John Carmack, on the advantages of open source
+
+%
+<Mercury> Ngaleso sikhathi kuyoba zihlanganise, kodwa segfault, njengoba kufanele ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Knghtbrd uqhele kakhulu silingeke ukuba .sig yonke le ngxoxo ...
+		-- John Carmack, on the advantages of open source
+
+%
+I Unixverse uphela on Tue, 19-Jan 2038 03:14:07 +0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: okufanele siyenze isiqephu kuzamazame umhlaba: ongafika edolweni e ikhodi ":          wena ugijime lokudubula izimbungulu :)<Knghtbrd> taniwha: ngizobuya kudlule umqondo on OpenQuartz;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> i singathintana yokuxazulula amawindi inkinga egqamileyo nge fdisk :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: netcode QW yenzani izinto eziyinqaba kimi. : P<Knghtbrd> Akuyona into engavamile? ;><Endy> Hhayi ngempela. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> rcw: Oh Yay --- Angizange izibandakanye ezinhlelweni flamewar okuhle at           okungenani ... imizuzu 5!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: Angiyena, naphezu Empeleni, basuke beqonde yakho, Nkulunkulu
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> i ayesanda kuyithenga MS Office 2000 kuphela $ 20 !!!<Knghtbrd> safike waklebhula off;><SlayR> ngiyazi;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> kungcono 6am. Ngivuké amahora 24<Knghtbrd> Wake Me Up and ingozi ukuphila nezitho zomzimba.* Knghtbrd &; ubuthongo<Tv> wonke umuntu Kulungile, silinde imizuzu 10 bese uqala izikhukhula Knghtbrd     nge ^ G. Omunye, izimpande Hack and cat / dev / urandom> / dev / DSP.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Knghtbrd manje eyaziwa ngokuthi SirKewLDooD*** Mercury wakhahlela SirKewlDooD kusukela #quakeforge (* Whack *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Mercury> Knghtbrd: Ngithanda ukuthatha ukubona ukwesekwa for xor crosshairs ..<Knghtbrd> Mercury: uku ku quack.<Mercury> Knghtbrd: Uneminyaka umthengisi ... <G>*** Knghtbrd manje eyaziwa ngokuthi QuackDealer
+		-- John Carmack, on the advantages of open source
+
+%
+* Dry-ice akakwazi khomba indlela yakhe esikhwameni sephepha<Coderjoe> ezomile-ice: int main () {ExitPaperBag (); ukubuyela 0; }<Knghtbrd> Ingabe ileyondlela ukuthi kwenziwa kanjani-ke? * Ethatha amanothi *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> veke, hhayi esinye ...<Knghtbrd> kubonakala developer nomama wazo manje has a okungahleliwe           Isiginesha usebenzisa izingcaphuno IRC ...<Knghtbrd> Ngenzeni SOKUQALA LAPHA ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Ubona isebenzisa amazwana knghtbrd sika njengoba nesignesha kasomabhizinisi<Knghtbrd> ubona: Ngokushesha nje lapho sengibhala kubo ngaqaphela Ngizobe snip kangcono           ngibizelwe phambi omunye wenza;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Omnic ubheka 33.6k wakhe isixhumanisi bese ubheka Joy* Mercury cuddles ikhebula yakhe nemodemu .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Kuyavunywa, look Win95 ubengekho konke lokho entsha noma - Apple wazama amangaleleMicrosoft ngenxa yokukopisha Macintosh UI / kadoti kungaba icon, kuze Microsoftwaveza ukuthi Apple got eziningi Mac imibono yayo (kubandakanya indawo yokulahlaicon) kusukela Xerox ParcPlace. Xerox cishe namanje ukuthi kunganiwonke umuntu unesithakazelo kudoti wabo amathini.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Knghtbrd> ingabe uphawu lokugula ngengqondo ukuba azulazule ungayi ndawo ngokusebenzisa           qala imephu, ukuqoqa Thunderbolt yakho, hop in the pool, futhi gib           ngokwakho nalo nje ukubona ikhanda lakho buouce uma uwangokusebenzisa phansi echibini? =><Knghtbrd> "Uyazi wena ungumuntu umlutha Ukuzamazama lapho ..."
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> Ngisasho namanje ukuthi guys are nati ukuhlangana Q QW. : P<Knghtbrd> Yebo thina uku nuts. Nembala uJohane washo njalo. =><Taniwha> Zoid: thina uku nati, kodwa sikhona nati elikhiqizayo :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: thina uku nati, kodwa sikhona nati elikhiqizayo :)* Taniwha uyamangala ukuthi nati elikhiqizayo ukunambitha like
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: Quote impahla :)<Taniwha> Endy: :)<Knghtbrd> Endy: I ​​kakade Unxande it
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> Empeleni, ngicabanga Ngizokulinda amazambane luzophothulwa ngaphambi       kokufaka Debian.<Endy> Lokhu kufanele ngokushesha, Nginethemba. :)<Knghtbrd> Endy: kusobala Niyazi kuncane kakhulu akusho Debian.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Akukho inkinga once-debug ikhodi.
+		-- John Carmack
+
+%
+<Overfiend> I Unix Indlela - konke ifayela<Overfiend> I-Linux Indlela - konke a yamafayela wesitoreji :)
+		-- John Carmack
+
+%
+<Devkev> yeah i saw isibhamu umbani futhi lapho Besahamba, becabanga         obukade Gonna xosha ezinye ass :)<Devkev> didnt bayaqaphela ukuthi bekuyoba siqu :) yakho
+		-- John Carmack
+
+%
+"Kungenjalo, sicela ukhulume nodokotela asikisele nokususa ikhanda lakho lakhoass, ngikholwa ukuthi bekungaba yinzuzo kakhulu kubo bonke abahilelekile. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Tagline, uku it!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+I am abaqhuba iphuzu esihle kwesimilo. It is amukeleka ukudubula emuva.Akakwamukeli ukudubula kuqala.
+		-- Zed Pobre
+
+%
+<Coderjoe> gib, Perl?<Gib> methinks Perl kuyinto uMklami sika Swiss Army Chainsaw
+		-- Zed Pobre
+
+%
+<Endy> taniwha: Wake ihlolwe kulena? :)<Taniwha> Endy: Cha
+		-- Zed Pobre
+
+%
+Lokho into funniest engake ngazizwa mina ngeke _not_ uyakuthethelela it.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Akunjalo? Ingabe usho ukuthi kufanele kuvumele abantu (ngaphandle kwe-WilliamWallace) ukudubula kombani kusukela ass yabo?
+		-- Seth Galbraith
+
+%
+<Mercury> Awunayo ukuba kube crazy ukuba abe ilungu project, kodwa          uzoba .. <=:]
+		-- Seth Galbraith
+
+%
+* Endy kudingeka uthintane ikhofi: P<Endy> ikhofi umuntu bot, hhayi ikhofi isiphuzo :)<Knghtbrd> kokubonisana isiphuzo nakho kungasiza =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: kanye abathobekileyo bazakulidla ifa k-Mart
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "Java for the COBOL Programmer"<Knghtbrd> lokunguye lobhala lezi zinto?<Raptor> kubantu on crack<Raptor> futhi cobol program<Raptor> :)<Knghtbrd> lokho kusadingeka.
+		-- Seth Galbraith
+
+%
+<Evilkalla> Heh, angizange ngithathe ikilasi esephepheni<Evilkalla> noma ikilasi ihluzo<Evilkalla> noma ikilasi design software<Vegan> futhi kukhombisa: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD Ufaka spaghetti at wonke umuntu* Taniwha udla spaghetti* Coderjoe tosses azungeze ezinye meatballs* Knghtbrd uthola ushizi* Taniwha udla elibomvu
+		-- Seth Galbraith
+
+%
+<Theoddone33> Yini ngalesi sigijimi screen yami,<Theoddone33> blue kangaka, blue ngakho, yini esingayenza ukuze sithole ukuthini?<Theoddone33> Kungenzeka kuwe, wawuyozisola yini Cindezela u-SUSA,<Theoddone33> Ctrl futhi Alt bese ukuphinda.
+		-- Seth Galbraith
+
+%
+<Gorgo> yini ukuthola lapho umuntu imifantu yakho machine Debian?<Gorgo> amazambane ...
+		-- Seth Galbraith
+
+%
+<Fiqir> woza on<Fiqir> kungcono Clone Pico<Fiqir> it * kwakusho * banesicefe
+		-- Seth Galbraith
+
+%
+<Espy> I ukunxusa umthetho Espy, othi ukuthi zonke ncela: P
+		-- Seth Galbraith
+
+%
+<Overfiend> Culus: wanna limise ngalokho? :)<Culus> Overfiend: Hamba ngonya crack severs ambalwa futhi sizobe ukukhuluma<Overfiend> Culus: Day, it has ukuba kube enonya?<Culus> Overfiend: Ngokudabukisayo, yebo
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 encela ngokwanele ukuba babe adonsela phansi yayo siqu ...
+		-- Seth Galbraith
+
+%
+* CosmicRay athanda ngabhekana strippers lapha ....<CosmicRay> isiphosiso, wire strippers
+		-- Seth Galbraith
+
+%
+<WildTHing> guys ok .. ngakho whens elandelayo bophezela: PP<Taniwha> nalapho sebefike ungikhiphe
+		-- Seth Galbraith
+
+%
+<Mdorman> Ngingumuntu gnus ngokwami. Kuba umhleli! Kuyinto floorwax!          Kuyinto uphole dessert!
+		-- Seth Galbraith
+
+%
+<Tausq> Q. Yini umehluko phakathi Batman and Bill Gates?<Tausq> A. Lapho Batman balwa Penguin, wathola.
+		-- Seth Galbraith
+
+%
+Esikhathini esithile, izingcezu kufanele bangene ama-phakethe ama kanye imizila kudingeka wenzeizinqumo phezu kwabo. Izinguquko ngaleso ezingeni yilokho engifuna ukukuzwa mayelana, hhayiubudlelwano inkampani amasu.
+		-- John Carmack
+
+%
+Siyazigwema: amakhosi ohlanga, abengameli, nokuvota.Sikholelwa: ukuvumelana okwe ikhodi ukusebenza.
+		-- Dave Clark
+
+%
+<Knghtbrd> QF uya uthole ukwesekwa zipfile namuhla<Coderjoe> Heh ... infozip?<Knghtbrd> Uma Ngingumfana lucky yebo<Deek> knghtbrd: Ungene ngiyingane yini lo muntu, akunjalo? ;)* Deek elisusa Knghtbrd sika crack pipe. ;)
+		-- Dave Clark
+
+%
+<Deek> ushintshe yonke cvar-> value = X ukusebenzisa Cvar_Set ()<Theoddone33> lokho akuzange kwenteke oldtree<Deek> Empeleni, kwenzeka.<Knghtbrd> yeah - ngemva kwamasonto amabili.
+		-- Dave Clark
+
+%
+=== Le ncwadi igciwane Hloniphani System ====Uma usushiywe-Macintosh, i-OS / 2, Unix, nomaLinux computer, sicela ngezikhathi ususeamafayela amaningi kusuka hard disk drive yakho futhiphambili lo mlayezo wonke umuntu omaziyo.==============================================
+		-- Dave Clark
+
+%
+* Shotkh ufuna ukuthola kwenye yezindawo sigs ngolunye lwalezizinsuku knghtbrd sika.
+		-- Dave Clark
+
+%
+<Dr ^ Nick> SGI_Multitexture kuyinto voodoo kubi manje<Dr ^ Nick> ARB kuyinto voodoo omuhle<Witten> akukho, voodoo rush kuyinto voodoo kubi :)
+		-- Dave Clark
+
+%
+izimbungulu 99 okuncane ikhodi, 99 izimbungulu ikhodi,        silungise eyodwa bug, atakhele luhlu it futhi ...        izimbungulu 101 okuncane ikhodi ....
+		-- Dave Clark
+
+%
+Hmm ... Yikuphi ukwenza umsebenzi ongcono at ukushayela zesayensi crazy? Izikhangibavakashingokushesha ukwedlula ukukhanya, noma ezintantayo-iphuzu value eziphusile?
+		-- Michael Mol
+
+%
+<Calc> knghtbrd: Gnome 2.0 kuyoba out in a izinyanga ezimbalwa, hhayi ukuthi kanjani it       ngeke uqhathanise KDE 2.0 noma<Knghtbrd> calc: Njengoba nje ususuthi, njengoba nje ikalishi, futhi zonke lokusebenza Gnome 2       kuzoncika on imitapo 30.<Slimer> knghtbrd: manje ashintshe 1.0?
+		-- Michael Mol
+
+%
+<Ze0> ngakho, indlela konke in the world of Quack?<LordHavoc> nje Ducky<Ze0> omuhle, duck okuthosiwe unamandla emihle esihlwabusayo.
+		-- Michael Mol
+
+%
+<FrikaC> I kumele cishe iqalise ...<FrikaC> BRB ok<FrikaC> Ngakho, yini ahluke ifomu ngokugwema virii, inkumbulo ukuvuza, nokudlanga         yokushaywa enza Linux reallhy anikele :)<LordHavoc> eziningi onokwethenjelwa?
+		-- Michael Mol
+
+%
+<Tausq> uma (cb) ((cb-> obj) -> * (cb-> ui_func)) ();<Knghtbrd> tausq: ngubani isihogo wabhala ukuthi?<Tausq> me :)* Knghtbrd flogs tausq
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> Heh<Endy> Ingabe lokho ngo 1.2? :)
+		-- Michael Mol
+
+%
+<Mercury> knghtbrd: Eww, thola igama elingcono, movie ukusivumela .. <G><Knghtbrd> Mercury: Injini singcono movie
+		-- Michael Mol
+
+%
+<LackOfKan> Yiziphi 'bot'?< `` Erik> RSG kuyinto bot, hhayi umuntu, hhayi iklayenti womuntu ezisebenzisekayo, nje bot.< `` Erik> mayelana efanayo a bot kuzamazame umhlaba, ngaphandle bot IRC kukhona (ngokuvamile)         wakha ukusiza, hhayi ukudubula imbongolo yakho egcwele izimbobo
+		-- Michael Mol
+
+%
+uma (me = nawe!) // FIXME: Cishe njalo, susa?    ngoba (n = 0, n <who_knows_what; n ++) {        ukuphendula = DoSomething (withthis [n]);        uma (impendulo == foobar) {            GetLost (n);            aphambane;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: abanankinga nge okukhonjiwe wemibala for images, njengoba           nje ungakwazi pick kwiphalethi<Yorick> Ngokusobala abantu ekudaleni kuzamazame umhlaba babeyizinkulungwane ibala lesikhumba kodwa lokho         akusho ukuthi kufanele ube
+		-- Michael Mol
+
+%
+<Cesarb> Damn, njalo I eziyizimbangela, qf-client-x11 izingidi kanzima<Zoid> abafi?<Knghtbrd> incentive okuhle.
+		-- Michael Mol
+
+%
+Kungani zonke izinsimbi befuna ukuphila ezihlakaniphile ezweniumkhathi basuke bakhomba kude Earth?
+		-- Michael Mol
+
+%
+<Rebelpacket> hey, umbuzo okusheshayo, ingabe ikhona indlela ukuze kusheshiswe              ukusebenza of uquake-x11?<Deek> rebelpacket: Uma ufuna ukusheshisa it, uyiphonse nzima.
+		-- Michael Mol
+
+%
+<Netgod> niyazi<Netgod> yako edabukisayo ngempela lapho internic uqobo Cant ukumisa DNS         amaseva kwesokudla<Netgod> it nje doesnt usathola ezidabukisayo ukudlula okwababhali
+		-- Michael Mol
+
+%
+<Knghtbrd> Ngisho ne overbrights, umbala Ukuzamazama Palette ugcwele buthuntu,           imibala flat<LordHavoc> knghtbrd: Iphalethi Ukuzamazama kuyinto ogqame kakhudlwana kakhulu ngaphandle nje kokuthi usebenzise gamma            ukulungiswa<LordHavoc> kahle impela Ngiyavuma, kungcono kusekude njengoba ogqame kakhudlwana njengoba ngiyaphupha<Deek> Q3 ngakolunye uhlangothi ... NEON.<LordHavoc> Q3 kumane engenangqondo<Deek> Q3 uthatha ephakathi esontweni-isiboshwa futhi usibeka Vegas.
+		-- Michael Mol
+
+%
+"Nginezwi eliyimfihlo engingathanda ithambo pick, futhi abambalwa ukuze aphule."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie Kwenzelwe for Ukungena ngobuqili enhlanganweni futhi Ukubhujiswa
+		-- Anonymous
+
+%
+<Deek> Yebo, America iyizwe esekelwe indlela pissed-off iqembu siqoqe imali yentela       Abantu angathola.<Deek> Sikhona njengoba izwe ngoba thina uku ezishibhile.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: nezimagqabhagqabha eziningi esiqongweni 4.0.1 kakade?<Overfiend> Oskuro: ezimbalwa<Overfiend> megs 152
+		-- Anonymous
+
+%
+<Joeyh> oh my, kungcono UP P III.<Doogie> linh it.* Joeyh uyagijima dselect<Overfiend> okufanele kwanele :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: crap, SDL isiqiniseko kwenza DGA a helluva alot lula kakhulu           akunjalo? :)<Knghtbrd> barneyfu: yini DGA?<Barneyfu> igundane dga<Knghtbrd> barneyfu: (Kusho ukuthi uphendule umbuzo wakho?)<Barneyfu> Hahahahaha Yeah! :)
+		-- Anonymous
+
+%
+<Deek> "A Unicode omuhle Ungabhala FORTRAN nganoma yiluphi ulimi."<Deek> knghtbrd ikufakazele ukuthi ungakwazi ukubhala C ++ nganoma yiluphi ulimi too.       <Ngokumamatheka><Mercury> Njengamanje considdering uma kufanele simnika noma umklomelo, noma          ukumbulala ..<Mercury> (Yiqiniso, wonke amalungelo, lokhu kusho ukuthi kumele amnike          umklomelo, bese ziyambulala .. <G>)
+		-- Anonymous
+
+%
+A eyonakalisayo, unjalo umuntu angakwazi ukuphuma-uxabana uhulumeni wabo.
+		-- Anonymous
+
+%
+Kumelwe siwazi, siyobe sesazi.
+		-- David Hilbert
+
+%
+<Knghtbrd> ukucwaninga kuyi-Internet. Ngoba izingane zakho zidinga ukuba abe           bavikelwe abesifazane abanqunu, izinqubo zokwelapha, abangefaniamasiko, kanye nemidlalo ye-video enobudlova.<Knghtbrd> (kodwa ulwazi mayelana nokwakha amabhomu, ukweba ikhebula, futhi           Ekhiqizako izidakamizwa kulungile ...)
+		-- David Hilbert
+
+%
+Umngane wami unesibalo ibhakhodi engalweni.Yena ikhala njengomnikelo $ .35 pack of JuicyFruit.
+		-- Seen on Slashdot
+
+%
+<NullC> Ngithanda ikhodi imbewu Computing Curves ukugqiba.<NullC> angikaze ngimbone ikhodi wenza ukuba ufuna ukuphuza ngaphambi kwalokho ...
+		-- Seen on Slashdot
+
+%
+$ Wena = entsha nina;Honk () uma $ yakuhleka> love (Perl)
+		-- Seen on Slashdot
+
+%
+<CJ> akukho! izinkinga M $ software?<CJ> "ngokuphelele bugtested"* Dabb grins.<LordHavoc> ubhale ukuthi njengoba 'buginfested ngokuphelele'
+		-- Seen on Slashdot
+
+%
+<Doogie> dpkg has izimbungulu? akunakwenzeka!
+		-- Seen on Slashdot
+
+%
+"Debian: akukho hats noma ezihuquzelayo owalimala e kwakhiwa leli distribution =. "
+		-- Paul Slootman
+
+%
+* Athener ubiza Amnesty International House of Pancake
+		-- Paul Slootman
+
+%
+<Elmo> engcolile: isiphosiso, ithimba admin musa ukulawula archive, lelo       FTP Cabal<Elmo> uthole cabals sakho sokunene, sizolahla it :-P
+		-- Paul Slootman
+
+%
+<BenC> CosmicRay: usuqede kimi<BenC> isiphosiso ...<CosmicRay> Heh* BenC uya emuva esephepheni* Elmo ubheka benc<Elmo> okuthile kufanele bazi ngawe futhi cosmicray, Ben? :)
+		-- Paul Slootman
+
+%
+Shintsha Social Contract? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Uhlelo wathola signal SIGSEGV, Segmentation fault.<Knghtbrd> 0x40095fb0 e memchr () kusuka /lib/libc.so.6<Knghtbrd> (gdb) bt<Knghtbrd> # 0 0x40095fb0 e memchr () kusuka /lib/libc.so.6<Knghtbrd> # 1 0x0 ekhatsi ?? ()<Knghtbrd> Well Yilokho Eziwusizo Ngempela* Knghtbrd yezandla gdb for a nice Ouija board - it uzoba ukusiza ngokwengeziwe
+		-- Branden Robinson
+
+%
+Yonke imibono emihle ibukeke imicabango emibi kulabo uyalahlekelwa.
+		-- Dilbert
+
+%
+RFC 882 wafaka ichashaza in Play, hhayi Sun Microsystems
+		-- Seen on Slashdot
+
+%
+* Joeyh_ uyazibuza Linux engabe ukumbopha uma ubuza 100  IZINHLELO ukuze cat lonke cd idrayivu
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Ukuzamazama Okungu kufanele sibasekele xray umbono, dammit<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... uke wazibuza yona ...<CosmicRay> haha, okungukuthi lwemibhalo real
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> I yeqa TO bun<Knghtbrd> kungisize TO QUACK<Venom> kb: kwenzenjani Ukhuluma ngani?<Knghtbrd> bwahahaha .. Kuyinto indaba eside.
+		-- Seen on Slashdot
+
+%
+<WildCode> Mercury, hhayi iphutha X okuncane like ekutholeni ngokuphelele           Ikhodi bugfree emafasiteleni ??<Mercury> WildCode: Ukususa X kufana nokuzama ukusebenzisa umugqa iqonde          ngokusebenzisa Maze.<Mercury> Wena nje kudingeka sigobe isikhala-time ukuze emakhoneni ukuhambahamba          wena futhi ngeke ube nezinkinga. (=:]
+		-- Seen on Slashdot
+
+%
+<Miguel> `Uzikhiphe ohlweni kusukela energy okusezingeni siqu         amadivaysi Ukuvikelwa uhlu lwamakheli '<Miguel> I dont khumbula eba uhlu lwamakheli
+		-- Seen on Slashdot
+
+%
+<Inganekwane> sengiba a uxhumano wenqaba lapho yokuxhuma port 25, ubani       bazi lapho log Day kuyinto?<Fiqir> Inganekwane: /var/log/damn.log?* AJ uyamangala ukuthi ukuthi singathintana ibukeke<Fiqir> Dec 18 05:32:30 blae smtpd [123]: Day zonke ESIHOGWENI !!
+		-- Seen on Slashdot
+
+%
+* Weasel izimangaliso kanjani soyisiphukuphuku has kuze kube alt.anonymous.messages spam<Knghtbrd> weasel: cishe isigamu njengoba stupid njengoba umuntu kufanele abe ukuvuna it.
+		-- Seen on Slashdot
+
+%
+* Wolfie ezindla bangaki debianites kuthatha isikulufa in igilobhu<Viiru> wolfie: Somewhere azungeze 600? Omunye screw kusuke isibani, kanti bonke abanye        flame kuye ekwenzeni okungalungile.<Ingxenye> wolfie: iyona isibani software free?<Tv> Can sivota sokuthengisa ukuyihlanganisa noma cha?
+		-- Seen on Slashdot
+
+%
+<Culus_> Sizimisele futhi enethemba ukuba adedele version Linux lapho igobolondo kuyinto         isikhundla sawo sithathwa Perl ngezinga elikhulu. Ukungeza kwalokho, kunezinto         Abambalwa phakathi kwethu ngubani ongathanda ukubona platform Perl emsulwa .. PerlOS :)* Culus_ uyabukela horror<Mstone> Culus_: ohlangothini up, ungakwazi uthayiphe Day eduze yini endaweni         somyalo ogqamile :)
+		-- Seen on Slashdot
+
+%
+<Mercury> LordHavoc: Isizathu esenza GL has zokukhipha kungenxa ngoba nje          besebenzisa uhhafu we uhlelo bona yakhelwe vis.<Mercury> LordHavoc: Shooting uqobo onyaweni.* Dabb ubheka bonke labo izimbobo bullet in izicathulo zakhe - Day, inkatho :)
+		-- Seen on Slashdot
+
+%
+<Dabb> hehe, mina ngempela hate imibiko bug efana ebiza umlilo       UMnyango bethi: "Kukhona umlilo lapha, woza" :)<Dabb> (futhi ilenga up)* Dabb ubulala off imibiko kweshumi bug.
+		-- Seen on Slashdot
+
+%
+<Xtifr> wow, ngicabanga nje esetshenziswa libtool ukuxazulula inkinga - somebody        ngisize! :><Luca> xtifr, isinyathelo away kusukela ikhibhodi
+		-- Seen on Slashdot
+
+%
+<Mao> kungani ima kwelokuthi ading -Werror ...<Misty-chan> Mesa wayengeke atakhele luhlu aphume ebhokisini uma kwenziwa nguwe             guys;)<Knghtbrd> Uh, Mesa OKUNGADINGEKILE atakhele luhlu aphume ibhokisi esikhathini esiningi.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: Cha, akunjalo. Win32 sintula elilingana nokuphahlazeka kwezindiza imfoloko ().<Knghtbrd> Deek: windoze ayenzelwe for abantu obekufanele babe ukufinyelela           izinto ezicijile, yingakho akukho imfoloko ()<Knghtbrd> esikhundleni, kumelwe sincike spoon ()
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Lokhu font useqala baphume kahle kakhulu<Ufundela> Knghtbrd: hawu bantu, ingabe nokugenca esinye font ekuzamazameni komhlaba vi? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> o, ngaphandle kwalokho, whats the ndlela engcono uma ngifuna ukwenza ukuzamazama       Izinga lesuselwa isakhiwo ekhona?<Knghtbrd> Thola Floorplan sokuba sesikhundleni Brian? =)<Pv2b> Knghtbrd: im ucabangela esikoleni sami.<Knghtbrd> Oh enkulu<Knghtbrd> Yilokho konke esikudingayo
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> usimende Windoze: Manje nge CrackGuard (TM)! Ungalokothi ukhathazeke           imifantu ebukekayo e usimende Windoze futhi! CrackGuard (TM) kuyintobabunamandla kakhulu kangangokuba yonke into uzowa ngaphambi kuzokwenzainqamuke. Oda yakho $ 200 version ngcono namuhla!
+		-- Seen on Slashdot
+
+%
+<Doogie> Culus: bug yami nge openssh ibonakala fixed 2.5.2, kodwa         master uyagijima 2.3.0<Culus> ningaze nadla ukuqala<Doogie> I kwenza.<Culus> You guys bazoya ukushayela kimi ukwakha irobhothi omkhulu giant        abhubhise bonke Texas, akunjalo?
+		-- Seen on Slashdot
+
+%
+<Shader> whats engalungile ngokuzitika rjing?<Rhamphoryncus> kungcono nezinyonga: P<Rhamphoryncus> akufanele kube nokwenzeka<Rhamphoryncus> bebayisa isiqhumane up imbongolo yakho nokusisebenzisa rocket                propelant akufanele kube yindlela iphila: P
+		-- Seen on Slashdot
+
+%
+ * Ikhodi Ilingana uyatholakala kwiKhomishana RSA Data Security, Inc. * Le khodi ihlolwe bumelane nalowo, futhi okulingana, * Ngaphandle kokuthi awudingi ukuba zihlanganisa amakhasi amabili legalese * Ne Kenye nenye ikhophi.
+		-- public domain MD5 source
+
+%
+* Knghtbrd asisekho - zzz - imiyalezo uzobe ubuthaphuthaphu like amathawula ezimanzi nhlobo  zabantu abaye ezebiwe lokuhweba knghtbrd away umlayezo<Coderjoe> Ack* Coderjoe ulungisa azivikele imiyalezo ezimanzi
+		-- public domain MD5 source
+
+%
+Ungalokothi uzithathe kalula amandla omunye nge ikhodi yomthombo, sombhalo,futhi uzimisele ngokuphelele hose ohlelweni lwabo.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Ngakho, ngeke iqembu Andover abe bar cash?""Cha, kukhona ubhiya mahhala.""Wewu, Gonna Stallman zingahlukaniswa pissed ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Addi> Alter.net kubonakala sengathi Esikhundleni router yayo nge zucchini.
+		-- overheard at the Bazaar, 1999
+
+%
+<Mercury> Othile ukukulungisa.<Zosizi> izibophezele<Knghtbrd> Yithemba: Mercury?<Yithemba> Knghtbrd: yena ukhathele, wenza iphutha, wayefuna umuntu ukukuhlehlisa.<Knghtbrd> Yithemba: ngakho-ke yayiphonsa bophezela?<Yithemba> Knghtbrd: kahle, Kunikezelwa kunjalo.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: Akufani bloat uma isetshenziswa<Knghtbrd> taniwha: kanjani wena uchaze windoze ke?<Taniwha> Knghtbrd: kunazo uyisebenzisa kuphela njengezinto zokulinganisa isisindo ukuze uqinisekise          harddrive igcwele<Knghtbrd> taniwha: lokuyenza ... Is not ukuthi yini eyenza subs liyazika           phansi olwandle?<Knghtbrd> taniwha: ukuthi kungase kucacise ukuthi kungani winboxes athola ehla.
+		-- overheard at the Bazaar, 1999
+
+%
+ukusungula / IN akukho vait / vb .: 1. ezifanele third-party ubuchwepheshengokusebenzisa ukuthenga, mbumbulu, noma ukweba futhi adidiyele yabade-empeleni waba, okunguye yedwa-isikhundla umkhiqizo. 2. Ukuze kwandiswe ngobukhulu noma yinkimbinkimbikodwa hhayi Umbuso indawo; ukuze unciphise ukuhambisana noma ukusebenzelana. 3.Ilokhi-out izimbangi noma ukukhiya-in abasebenzisi. 4. Ukuze mali ngaphezulu; ukuzeukwandisa amanani noma izindleko. 5. Ukuze sizuze inzuzo ngokweqile uma utshala imali kwezinyeizinkampani kodwa hhayi kusuka umkhiqizo ngqo noma isevisi yokuthengisa. 6. Ukuze kucinanise nomasasebenzisa khulula emakethe; ukunweba amandla monopoly ku izimakethe ezintsha. 7.Ukuze bakwazi ukuphunyula futhi akazihlanganisi olubi ikheli lasekhaya phuma. 8. ukuthengaumtsetfo, nabashaya imithetho, si tishayamtsetfo, noma izinduna wombuso. 9.thobeka yonke imisebenzi umnotho wembulunga yonke; ukuze khwabanisa; amandla co-opt(Ukuketulwa état). Bheka ukusungula, ukusetshenziswa English (antonym).
+		-- csbruce, in a Slashdot post
+
+%
+Ukuthula umsindo ovala izindlebe wokudubula kwangifundisa hhayi ukubuza a bunch of geeks for izelulekokusukela nezintombi zabo
+		-- csbruce, in a Slashdot post
+
+%
+"Yini esizoxoxa ukwenza kulobubusuku, uBill?""Into efanayo singazi njalo ebusuku, uSteve, zama ukuthatha umhlaba!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> Lokho kungikhumbuza, sizodinga ukuthenga Chainsaw ehhovisi. "Ngo       Endabeni ka eziphuthumayo, aphule ingilazi "
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> Muhle a cishe isigamu ubukhulu abanye.<Knghtbrd> Kodwa yena Lifanele Chainsaw.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Ngigcina idatha yami siqu GPG endaweni PUK, ahole ephephile egumbini elingaphansi       esiqashwe rednecks ethukuthele futhi dawgs yabo. Kwabahlofayo kuyoba       ephulwa, nakho konke ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: Akukhona ukuthi ingxenye extension esihlinzeka           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: akukho, glDriverBugs () iyingxenye ye EXT_help_me.<Siigron> okuyinto futhi liqukethe glMakeItWork (GL_PLEASE);
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erik> 18.446.744.073.709.551.616 is a inombolo enkulu
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> wukuthi knghtbrd ngempela?<Knghtbrd> Cha, angilona nomkhohlisi EMIMBI!<Knghtbrd> An nomkhohlisi embi LIKES Hybrid!<Xavvy> haha<Xavvy> ok, akuve kuye: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> I * uthando * Swb !!<| Rain |> Noma, cindezela 5 lokukhuluma representitive ..<| Rain |> * 5 *<| Rain |> Wena adluliselwa, sicela ubambe ...<| Rain |> ...<| Rain |> ...<| Rain |> Siyaxolisa, le nombolo ayikwazi igcwaliswe njengoba ushaye.<| Rain |> Sicela uhlole inombolo bese uyazama futhi.
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> #define struct Inyunyana / omkhulu isikhala saver * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> Akunabalandeli BSD?<EvilTypeGuy> Elric: kunzima ukuba abe Gamer kanye fan BSD: p
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> Kukhona igazi kakhulu ohlelweni lwami caffeine.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> Culus: are you uphapheme?<Culus> akukho
+		-- csbruce, in a Slashdot post
+
+%
+<Wli> Yebo, ngabuka esd futhi yayibukeka njengesikhonyane uhlobo C ikhodi i      ex-sokwenama / Algol '60 coder owayesesebenzise engu-20 edlule oshaya      phakathi Fortran-IV futhi Fortran '77 izobhalela.
+		-- csbruce, in a Slashdot post
+
+%
+<Nonlinear> .net kuyinto microsofts version ezonakele a kwenethiwekhi java            imvelo uglified for crap windows-specific
+		-- csbruce, in a Slashdot post
+
+%
+<Mercury> LordHavoc: Ngingumfana kakade uhlanya.<Coderjoe> Day iqonde. noma curvy, esigwegwile, noma yini wena
+		-- csbruce, in a Slashdot post
+
+%
+Unix kuyinto OS ovuthiwe, amafasitela namanje in namanabukeni futhi azihogeli kabi.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Kuzo zonke sterotypes mayelana Aussies, mina ukuthola guys are         ngempela ezinzima.<Midgar>; p<Krusto> sizobe baphonse koala ngawe
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Rain |> * ikhanda * Angisona isithanda usebenzisa smarthosts, ngokwami<| Rain |> njengoba lincike kokubili aphethe eyihlane umkhosi wakho ngokuba smart<| Imvula |> futhi ngokuvamile miss omunye kokubili leyo migomo
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+Le ndlela sourceforge ukubeka yonke imiklamo kwezinye eliphuphile"Evulekile umthombo surburbia", lapho zonke izindlu abafani, ne kuphelaimibala nezincane isitayela ukuhluka (okuyinto sakhiwo plan yayisetshenziswa okuyiwonaindlu ethile) avunyelwe izivumelwano kumagadango zendawoimithetho nokuklanywa. Sourceforege yiyona ovulekile okulinganaukwehlukaniswa iziqephu in the movie "U-Edward Scissorhands".
+		-- Terry Lambert
+
+%
+<Calc> Knghtbrd: IRC akusho atakhele luhlu ikhodi c kahle;)
+		-- Terry Lambert
+
+%
+* | Rain | ilungiselela ipholigoni isobho<| Rain |> sweet crap nesihe, it usebenza?* | Rain | ufikelwa
+		-- Terry Lambert
+
+%
+"Njengoba kungcono kuzenzakalele ukuthi Microsoft kuyoba esizilahlayo XML yayone izikhombo izingxenye Win32-based, the best ukuthi kungathiwanizokutholwa yayo XML wukuthi kuzokwenza kube lula iziphequluli futhiizicelo non-Windows ezisekelweni ukuba siqonde izingxenyeukubhala kumele indiva. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robert> i siqonde zikhona ezinye silinganisela ngendlela enengqondo ukuze inkulumo free in         ifayela lemininingwane-xhumano, isibonelo angikwazi ukuthethisa Fire ehholo ophithizelayo.. Kodwa kungaba i ukuthethisa umlilo ube yaseshashalazini nabantu 5 noma 6 kuphelakuwo?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Aav> ikhofi esiswini esingenalutho kuyinto nasy pretty<Knghtbrd> aav: Isikhathi ukugijima umshini Vending for cheetos<Aav> cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> ngekhodi Sane, mhlawumbe ngangingeke ngikwazi ukuthola isinikezeli :)<LordHavoc> rain: Ngizobe cishe nguye ngokubhala isinikezeli<| Rain |> kahle, er, uh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> Knghtbrd: ngininike ukufinyelela amafayela zone<Knghtbrd> o onkulunkulu - ungenzi uyaqaphela angikaze wadlala nge kwesokudla hlanganisa?<| Rain |> Uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> Bheka, ukunganaki, lena #OpenGL, hhayi #GEEKSEX.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* TwingyAFK ethenga 17 "panel flat* Aav uthengisa TwingyAFK ucezu plywood
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Aint it okwakubangela amahloni uma une ukuya ikhemisi for ezinye"Izinto ezikhethekile", futhi lapho ubhekene esehamba, Cashier ubheka wenalike, "o, ngiyazi ukuthi wenzani namuhla ebusuku ..."Yep, ukuthi cashier funda naphezu kwazo zonke izibonakaliso ... okusemathinini inkukhu isobho, TheraFlu,AmaHholo, NyQuil, amabhodlela bigass of OJ kanye ubhamubhamu juice ... wayazifuthi ngangazi ukuthi ngithandana nomfana othile usuku ne teevee kanye umduduzi phansi. Awwwyeah.
+		-- Elizabeth Kirkindall
+
+%
+In isayensi ngokuvamile kwenzeka ukuthi ososayensi bathi: 'Niyazi ukuthi a ngempelaagumenti okuhle; isikhundla sami kuyinto oyiphutha, 'bese empeleni ukushintshaizingqondo zabo futhi awukaze uzwe ukuthi umbono elidala kusukela kubo futhi. empeleni ngibabheka njengomndenido it. Akukona kwenzeke njalo njengoba kufanele, ngoba ososayensiwomuntu futhi ushintsho ngezinye izikhathi kubuhlungu. Kodwa kwenzeka nsuku zonke. Ngeke ngikwaziisikhathi ezabeka ngaso inkulumo yokugcina into efana naleyo eyenzeka ngo kwezombusazwe noma inkolo.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> ukwengeza GF2 / 3, a esikhudlwana sihlangane hard drive, kanye 15 "panel flat and           unethalente umshini ophathwayo pretty balahlwe.<Coderjoe> a GeForce ezimbili kwezintathu?<Knghtbrd> Coderjoe: yebo, a GeForce ezimbili kwezintathu, okungukuthi, noma yimuphi ikhadi ATI.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo Imemezela GCN Edume kakhulu Console Ever<Knghtbrd> Obani ababizwa ngiyingane yini lo muntu?<Mercury> knghtbrd: nemicengezi Stock?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> iningi windoze abaculi abanalo ikhono            londoloza xpm<Mercury> LordHavoc: Abanawo incwajana? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+Linux isekela umqondo umugqa wemiyalo noma igobolondo ngenxa yesizathu esifanayoukuthi izingane kuphela ukufunda izincwadi nge izithombe kuphela kuzo. Ulimi, kungabaIsiZulu noma okunye, yilona thuluzi kuphela nezimo ngokwanele ukuba afezeuhla ngokwanele ezibanzi imisebenzi.
+		-- Bill Garrett
+
+%
+## Ukuphuma: insurgent (razzin 'frazzin' motherfu ... DirectX stupid ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: bengingeke kow, angisiboni isidingo sokuba Spellchecker okwamanje<Knghtbrd> wena babethi?
+		-- Bill Garrett
+
+%
+<Knghtbrd> Ngizobe ukubeka kangcono izinto incriminating ku code: ahfuiovka           ikperoa edfr ade 9 enbuw ejasxleme ka iena df4mesa<Knghtbrd> Uma ungakwazi ukususa ukubhala ukuthi, ungumuntu cryptographer kangcono kunami           am. =)
+		-- Bill Garrett
+
+%
+<Rcw> liiwi: printk ( "CPU0 ngomlilo \ n");
+		-- Bill Garrett
+
+%
+<Electro> computer yami kwake omunye amabhlogo wokwakha of a okukhulu          pyramid
+		-- Bill Garrett
+
+%
+ISAZISO: nowake wabona ukubhema uzobe okuthathwa njengokumele kube umlilo kuyoba        summarily ukucisha.
+		-- Bill Garrett
+
+%
+<Markm> c ++: amandla, ubuhle nokuba lula ngisho nebhomu
+		-- Bill Garrett
+
+%
+<Knghtbrd> kodwa munye inhlobo ithebhu bese akekho uhlu ngasinye iyona engcono ukwedlula           O (n + n ** 2) ithebhu bese O ngayinye (n ** 2) uhlu ngalinye.<Knghtbrd> Omg, umuntu ningidubule.<Coderjoe2>?<Knghtbrd> Angikholwa mina nje esetshenziswa the big ihansi-amaqanda ukuze achaze ukuthi kungani yami           indlela cishe best in the run eside.
+		-- Bill Garrett
+
+%
+<Hoponpop> Uhlelo lwami lusebenza uma ngikhipha izimbungulu.
+		-- Bill Garrett
+
+%
+<Mercury> Knghtbrd: Hey, Perl ine umusa namandla nangobuciko of sledge          isando. (=:]<| Rain |> Ngokuqinisekile umusa obugagu, noma kunjalo
+		-- Bill Garrett
+
+%
+<DannyS> Hit the nenkawu ukunqoba $ 20 (*)!* Knghtbrd uyaphuma ngesando yakhe.* Izitshalo knghtbrd ngqi ekhanda DannyS '.* Knghtbrd kuzothatha yakhe $ 20 manje. = D
+		-- Bill Garrett
+
+%
+<Gholam> kahle Ngiyajabula<Gholam> win98 wakwazi iphahlazeke X kusuka ngaphakathi VMware.* Gholam ithokozisa.
+		-- Bill Garrett
+
+%
+"Nvidia sika VulaGL abashayeli yami" igolide standard ", futhi bekulokhu impela akuyilapho njengoba kuye kwadingeka ukuba ubike inkinga kubo, ngisho umkhiqizo waboIzandiso entsha ukusebenza njengoba bodokotela okokuqala ngizama kubo. Lapho ngibainkinga on an Nvidia, mina sicabange ukuthi iphutha lami. With ubani omunye kungconoabashayeli, I lokucabanga kuba iphutha labo. Lokhu siye saba lesifanele cishengaso sonke isikhathi. "
+		-- John Carmack
+
+%
+Libtool wabelane ukuthwala umtapo kuphela kancane kukholakale kakhudlwana kukaimishini motion esiphakade. Ikakhulukazi on Aix :). "
+		-- David Leimbach
+
+%
+<Overfiend> lena New Overfiend, umshumayeli Love nokubekezelelana
+		-- David Leimbach
+
+%
+<Hoponpop> umehluko phakathi netbsd, freebsd, futhi openbsd, njengenhlangano           ngaphakathi kuyinto freebsd unesithakazelo sokwenza izinto, futhiAkanandaba awokulimaza kubantu abangaphumeleli ezifundweni zabo ngendlela yabo.<Hoponpop> netbsd unesithakazelo ekuqinisekiseni akukho lutho olwenziwa, futhi           Akanandaba awokulimaza abantu abazama ukwenza izinto.<Hoponpop> openbsd unesithakazelo kokubukeka umuhle, futhi akusho muntu           seyiba sendaweni yakubo encane, kodwa qapha everybody omunye!
+		-- David Leimbach
+
+%
+<Liiwi> ngakho, yini indlela esemthethweni ukuze uthole buildd ukuze uzame futhi iphasela? prod        ngenduku?<Joey> prod Neuro<Liiwi> ngenduku?<Joey> yebo.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... wena uyobe cishe ukubona zonke izinhlobo Umhlanganisi           izixwayiso ebonakalayo by esibukweni. Lawa evamile futhi canngokuphepha wavele wangamnaka. "<LordHavoc> Knghtbrd: wukuthi inothi elixhumene ezinye M $ ikhodi?<Knghtbrd> Cha, kungcono inothi mayelana kweqembu GNU Izinto.
+		-- David Leimbach
+
+%
+<Hydroxide> knightbrd: kusukela knightbrd.brain yokungenisa * :)<Knghtbrd> Oh onkulunkulu ukube bekungengenxa ukuthi kulula ..<Knghtbrd> kusukela carmack.brain yokungenisa VulaGL
+		-- David Leimbach
+
+%
+<LIM> mmmm, donuts multitextured ....<Knghtbrd> LIM: ngezithelo ukugcwaliswa?<LIM> knghtbrd: chocolate cream ...
+		-- David Leimbach
+
+%
+<StevenK> Ungene ubhalwe kabusha izingxenye Ukuzamazama e * Python *?<Knghtbrd> MUAHAHAHA
+		-- David Leimbach
+
+%
+## A_nick (nobody@c213-89-87-111.cm-upc.chello.se) usejoyine #python<A_nick> Ngalifaka kanjani ukhiye omusha a isichazamazwi?<A_nick> NM<Dash> Heh :)<Dash> khangela amandla okuxazulula izinkinga of #python.
+		-- David Leimbach
+
+%
+<Hop_> i kwadingeka into engicabanga ukuthi inkukhu ukuthi kwaba camera nge red       unama ebibonakala yakhiwa insipho eningi isekelwe kungakanani yami       tounge kwavutha away.<Hop_> umngane wethu ngubani Indian wathi lokhu yingakho nje eziningi, abantu baseNdiya banomoya mncane       futhi i ukucaphuna "Akuthathi kakhulu lokhu kudla ukuze uthole kuwe       enoguh anelisekile yeka ukudla. "
+		-- David Leimbach
+
+%
+<Inhloso> "Kuba Classic percolate-up ezomnotho, beqaphela ukuthi imali            ufana umquba: It isebenza kangcono uma wayendlala nxazonke ".<Knghtbrd> Inhloso: Carter sika ukuhlanganisa: Abantu kunothile noma           Ngokuvamile ukuhogela funny<Inhloso> Knghtbrd: Wena SO ukunqoba.
+		-- David Leimbach
+
+%

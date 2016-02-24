@@ -1,0 +1,1359 @@
+BOFH izgovor # 1:brzina sat
+
+%
+BOFH izgovor # 2:solarne baklje
+
+%
+BOFH izgovor # 3:elektromagnetsko zračenje iz satelita krhotine
+
+%
+BOFH izgovor # 4:smetnje od najlona donje rublje
+
+%
+BOFH izgovor # 5:statički iz plastičnih pravila tobogan
+
+%
+BOFH izgovor # 6:globalno zatopljenje
+
+%
+BOFH izgovor # 7:loša energetska
+
+%
+BOFH izgovor # 8:statički naslage
+
+%
+BOFH izgovor # 9:Dopplerov efekt
+
+%
+BOFH izgovor # 10:prijelomi hardvera stres
+
+%
+BOFH izgovor # 11:magnetna interferencija novac / kreditne kartice
+
+%
+BOFH izgovor # 12:suhi zglobovi na priključku kabela
+
+%
+BOFH izgovor # 13:čekamo [telefon tvrtke] popraviti tu liniju
+
+%
+BOFH izgovor # 14:zvuči kao Windows problema, pokušajte nazvati podrške tvrtke Microsoft
+
+%
+BOFH izgovor # 15:privremena usmjeravanje anomalija
+
+%
+BOFH izgovor # 16:netko izračuna pi na poslužitelju
+
+%
+BOFH izgovor # 17:masti elektrona u linijama
+
+%
+BOFH izgovor # 18:Višak prenaponske zaštite
+
+%
+BOFH izgovor # 19:plutajući procesor overflow točka
+
+%
+BOFH izgovor # 20:podijeli-po-nula pogreške
+
+%
+BOFH izgovor # 21:Problem usklađenost POSIX
+
+%
+BOFH izgovor # 22:Rezolucija monitora je previsoka
+
+%
+BOFH izgovor # 23:nepravilno usmjereni tipkovnica
+
+%
+BOFH izgovor # 24:mrežnih paketa koji putuju uzbrdo (pomoću goluba nosač)
+
+%
+BOFH izgovor # 25:Smanjivanje elektrona tok
+
+%
+BOFH izgovor # 26:prve subote nakon prvog punog mjeseca u zimi
+
+%
+BOFH izgovor # 27:radiozitet osiromašeni
+
+%
+BOFH izgovor # 28:CPU hladnjaka slomljena
+
+%
+BOFH izgovor # 29:To radi na način na koji je Wang učinio, u čemu je problem
+
+%
+BOFH izgovor # 30:usmjerivač kvar tomografiju
+
+%
+BOFH izgovor # 31:mobilne telefonije smetnje
+
+%
+BOFH izgovor # 32:techtonic stres
+
+%
+BOFH izgovor # 33:piezo-električni smetnje
+
+%
+BOFH izgovor # 34:(L) Korisnik je greška
+
+%
+BOFH izgovor # 35:raditi kao dizajnirani
+
+%
+BOFH izgovor # 36:dinamičan program povezivanje tablica oštećen
+
+%
+BOFH izgovor # 37:teška gravitacija fluktuacija, premjestiti računalo na podu brzo
+
+%
+BOFH izgovor # 38:Tajnik priključen sušilo za kosu u UPS
+
+%
+BOFH izgovor # 39:terorističkih aktivnosti
+
+%
+BOFH izgovor # 40:Nije dovoljno memorije, ići dobiti nadogradnju sustava
+
+%
+BOFH izgovor # 41:prekid greška konfiguracije
+
+%
+BOFH izgovor # 42:špageti kabel uzrok neuspjeha paketa
+
+%
+BOFH izgovor # 43:šef je zaboravio lozinku sustava
+
+%
+BOFH izgovor # 44:praznik - operativni sustav kredita ne puniti
+
+%
+BOFH izgovor # 45:virus napada, luser odgovorni
+
+%
+BOFH izgovor # 46:spremnik otpadnih voda prelila na računalu
+
+%
+BOFH izgovor # 47:Kompletan Prolazna Lockout
+
+%
+BOFH izgovor # 48:loše etera u kabelima
+
+%
+BOFH izgovor # 49:emisija Bogon
+
+%
+BOFH izgovor # 50:Promjena brzine vrtnje Zemlje
+
+%
+BOFH izgovor # 51:Kozmičkih zraka čestice probio tvrdom disku pladnju
+
+%
+BOFH izgovor # 52:Miris iz nehigijenskih janitorial osoblje razbilo magnetske glave
+
+%
+BOFH izgovor # 53:Mali hrčak u kotaču trčanje imali koronarnu; čekaju zamjenu za Fedexed iz Wyominga
+
+%
+BOFH izgovor # 54:Zli psi hipnotizirani noćnu smjenu
+
+%
+BOFH izgovor # 55:Vodoinstalater zamijenili usmjeravanje ploču za dekorativnu zida učvršćenje
+
+%
+BOFH izgovor # 56:Elektroinstalateri su kokice u napajanje
+
+%
+BOFH izgovor # 57:Groundskeepers ukrao root lozinku
+
+%
+BOFH izgovor # 58:Pogreška sustava za visoki tlak
+
+%
+BOFH izgovor # 59:Neuspjeli pokušaji, sustav treba redizajn
+
+%
+BOFH izgovor # 60:Sustav je podsjetio
+
+%
+BOFH izgovor # 61:nije odobrena od strane FCC
+
+%
+BOFH izgovor # 62:potrebno je omotati sustav u aluminijsku foliju kako bi riješili probleme
+
+%
+BOFH izgovor # 63:nije ispravno uzemljen, molim te zakopati računala
+
+%
+BOFH izgovor # 64:CPU treba kalibriranja
+
+%
+BOFH izgovor # 65:sustav treba biti ponovno podizanje sustava
+
+%
+BOFH izgovor # 66:malo kanta overflow
+
+%
+BOFH izgovor # 67:dekodira kôd potreban iz softverske tvrtke
+
+%
+BOFH izgovor # 68:dostupna samo na potrebu da zna osnove
+
+%
+BOFH izgovor # 69:čvor u kabelima izazvao protok podataka kako bi postali upleteni i kinked
+
+%
+BOFH izgovor # 70:gniježđenje žohari kratko spojen na eter kabel
+
+%
+BOFH izgovor # 71:Datotečni sustav je pun toga
+
+%
+BOFH izgovor # 72:Sotona je to učinio
+
+%
+BOFH izgovor # 73:Demone je to učinio
+
+%
+BOFH izgovor # 74:Ti si iz memorije
+
+%
+BOFH izgovor # 75:Tu nije bilo problema
+
+%
+BOFH izgovor # 76:Neoptimiziranih hard disk
+
+%
+BOFH izgovor # 77:Pravopisna greška u kodu
+
+%
+BOFH izgovor # 78:Da, da, nazvano ograničenje dizajn
+
+%
+BOFH izgovor # 79:Gle, stari Windows 3.1 je opći Protection Fault.
+
+%
+BOFH izgovor # 80:To je veliki računalni imate tamo; Jeste li razmišljali o tome kako bi to raditi kao BSD stroj?
+
+%
+BOFH izgovor # 81:Molim oprostite, moram se krugu AC liniju kroz glavu da bi dobili ovu bazu podataka radi.
+
+%
+BOFH izgovor # 82:Da, Yo Mama haljine vas smiješno i trebate miša za brisanje datoteka.
+
+%
+BOFH izgovor # 83:Pomoćno osoblje mamuran, slati aspirin i vratiti se kasnije.
+
+%
+BOFH izgovor # 84:Netko stoji na ethernet kabela, uzrokujući kink u kabel
+
+%
+BOFH izgovor # 85:Windows 95 nepisana "lice"
+
+%
+BOFH izgovor # 86:runt paketi
+
+%
+BOFH izgovor # 87:Lozinka je previše složen za dešifriranje
+
+%
+BOFH izgovor # 88:Šef 'klinac sjeban stroj
+
+%
+BOFH izgovor # 89:Elektromagnetska gubitak energije
+
+%
+BOFH izgovor # 90:Smanjivanje budžeta
+
+%
+BOFH izgovor # 91:Miš žvakala kroz kabel za napajanje
+
+%
+BOFH izgovor # 92:Ustajali file ručka (slijedeći put upotrijebite tupperware (tm)!)
+
+%
+BOFH izgovor # 93:Značajka još nije implementiran
+
+%
+BOFH izgovor # 94:Internet struje
+
+%
+BOFH izgovor # 95:Pentium FDIV bug
+
+%
+BOFH izgovor # 96:Prodavatelj više ne podržava proizvod
+
+%
+BOFH izgovor # 97:Mala životinja kamikaza napad na napajanje
+
+%
+BOFH izgovor # 98:Dobavljač stavio bubu tamo.
+
+%
+BOFH izgovor # 99:SIMM preslušavanja.
+
+%
+BOFH izgovor # 100:IRQ ispad
+
+%
+BOFH izgovor # 101:Sažeto Okosnicu
+
+%
+BOFH izgovor # 102:Snaga tvrtka testira novu napon šiljak (stvaranje) Oprema
+
+%
+BOFH izgovor # 103:operateri u štrajku zbog slomljenog kavu
+
+%
+BOFH izgovor # 104:pričuvna magnetska vrpca prepisan sa kopijom omiljenog CD sustav upravitelja
+
+%
+BOFH izgovor # 105:UPS prekida napajanje poslužitelja
+
+%
+BOFH izgovor # 106:Električar nije znao što žuti kabel bio tako naglo Ethernet van.
+
+%
+BOFH izgovor # 107:Tipkovnica nije uključen u
+
+%
+BOFH izgovor # 108:Klima vodoopskrbnog cjevovoda probijen iznad strojarnice
+
+%
+BOFH izgovor # 109:Trafostanice struja na parkiralištu raznio.
+
+%
+BOFH izgovor # 110:The Rolling Stones koncert niz cestu izazvao smeđe out
+
+%
+BOFH izgovor # 111:Prodavač vozio preko CPU odbora.
+
+%
+BOFH izgovor # 112:Monitor je priključen na serijski port
+
+%
+BOFH izgovor # 113:Korijen nameservers nisu sinkronizirane
+
+%
+BOFH izgovor # 114:elektro-magnetskog impulsa iz francuskog iznad tla nuke ispitivanja.
+
+%
+BOFH izgovor # 115:na tipkovnici razmaknicu generira lažne kôdova tipki.
+
+%
+BOFH izgovor # 116:pravi ttys postala pseudo ttys i obratno.
+
+%
+BOFH izgovor # 117:pisač misli da je usmjerivač.
+
+%
+BOFH izgovor # 118:usmjerivač misli da je pisač.
+
+%
+BOFH izgovor # 119:zli hakeri iz Srbije.
+
+%
+BOFH izgovor # 120:samo smo prebacili na FDDI.
+
+%
+BOFH izgovor # 121:halona sustav otišao i ubio operatore.
+
+%
+BOFH izgovor # 122:jer Bill Gates je Jehovin svjedok i tako ništa ne može raditi na sv Swithin dan.
+
+%
+BOFH izgovor # 123:Korisnik omjer računala previsoka za.
+
+%
+BOFH izgovor # 124:korisniku računala obroka preniska.
+
+%
+BOFH izgovor # 125:samo smo prebacili na Sprint.
+
+%
+BOFH izgovor # 126:to je Intel Inside
+
+%
+BOFH izgovor # 127:Ljepljive bita na disku.
+
+%
+BOFH izgovor # 128:Snaga tvrtke imaju EMP problema sa svojim reaktora
+
+%
+BOFH izgovor # 129:Prsten treba još token
+
+%
+BOFH izgovor # 130:nova uprava
+
+%
+BOFH izgovor # 131:telnet: Ne može se spojiti na udaljeno računalo: odbijanje veze
+
+%
+BOFH izgovor # 132:SCSI lanac overterminated
+
+%
+BOFH izgovor # 133:To nije uključen u napajanje.
+
+%
+BOFH izgovor # 134:zbog mreže lag zbog previše ljudi igraju Deathmatch
+
+%
+BOFH izgovor # 135:Vi stavite disk u naopako.
+
+%
+BOFH izgovor # 136:Demoni gube u sustavu.
+
+%
+BOFH izgovor # 137:Korisnik je distribucija pornografije na serveru; Sustav zarobljena od strane FBI-a.
+
+%
+BOFH izgovor # 138:BNC (mozak nije povezan)
+
+%
+BOFH izgovor # 139:UBNC (korisnik mozak nije povezano)
+
+%
+BOFH izgovor # 140:LBNC (luser mozak nije povezano)
+
+%
+BOFH izgovor # 141:diskovi vrti unatrag - uključi skakač hemisferi.
+
+%
+BOFH izgovor # 142:novi tip unakrsno povezane telefonske linije s izmjeničnog napona autobusom.
+
+%
+BOFH izgovor # 143:morali koristiti čekić osloboditi zaglavi diska glave.
+
+%
+BOFH izgovor # 144:Dostupno Premalo computrons.
+
+%
+BOFH izgovor # 145:Stan guma na karavanu s trake. ( "Nikad ne podcjenjuj propusnost od karavan pun trake bacio dolje na autocestu" Andrew S. Tannenbaum)
+
+%
+BOFH izgovor # 146:Komunikacijski satelit korištene u vojne svrhe za Star Wars.
+
+%
+BOFH izgovor # 147:Party-bug u Aloha protokola.
+
+%
+BOFH izgovor # 148:Uložite novac za novu igru
+
+%
+BOFH izgovor # 149:Rosa na telefonske linije.
+
+%
+BOFH izgovor # 150:ARCserve opet srušio server.
+
+%
+BOFH izgovor # 151:Netko je trebao powerstrip, pa povukao prekidač utičnice.
+
+%
+BOFH izgovor # 152:Moj poni-repom udario uključivanje / isključivanje prekidača na produžnom kabelu.
+
+%
+BOFH izgovor # 153:Veliki se malo pogrešaka format podataka pretvorbe
+
+%
+BOFH izgovor # 154:Možete podesiti sustav datoteka, ali ne možete podesiti ribu (od većine tunefs man stranice)
+
+%
+BOFH izgovor # 155:jednostavni terminal
+
+%
+BOFH izgovor # 156:Zombi procesi opsjeda računala
+
+%
+BOFH izgovor # 157:Neispravno sinkronizacije vremena
+
+%
+BOFH izgovor # 158:pokojnik procesi
+
+%
+BOFH izgovor # 159:Tvrdokorne procesi
+
+%
+BOFH izgovor # 160:bez suvišne Pogreška ventilatora
+
+%
+BOFH izgovor # 161:pratiti VLF curenje
+
+%
+BOFH izgovor # 162:bube u RAID
+
+%
+BOFH izgovor # 163:ne "bilo koji" tipku na tipkovnici
+
+%
+BOFH izgovor # 164:korijen trulež
+
+%
+BOFH izgovor # 165:Okosnicu skolioza
+
+%
+BOFH izgovor # 166:/ Pub / ručak
+
+%
+BOFH izgovor # 167:prekomjerne sudari i dovoljno paketne hitne pomoći
+
+%
+BOFH izgovor # 168:le0: ne nosač: primopredajnik kabel problem?
+
+%
+BOFH izgovor # 169:emitiranje paketa na pogrešnoj frekvenciji
+
+%
+BOFH izgovor # 170:Popper mogućnosti obraditi jumbo kernel
+
+%
+BOFH izgovor # 171:OBAVIJEST: Alloe: / dev / null: datotečni sustav pun
+
+%
+BOFH izgovor # 172:pseudo-korisnik na pseudo-terminal
+
+%
+BOFH izgovor # 173:Rekurzivno probijanju povratnu petlju točke montiranja
+
+%
+BOFH izgovor # 174:podešavanje Okosnicu
+
+%
+BOFH izgovor # 175:OS zamijenili na disk
+
+%
+BOFH izgovor # 176:pare hlapljenjem ljepljive-note ljepila
+
+%
+BOFH izgovor # 177:sticktion
+
+%
+BOFH izgovor # 178:kratki krak na procesnom stolu
+
+%
+BOFH izgovor # 179:multicasts na slomljenih paketa
+
+%
+BOFH izgovor # 180:eter curenja
+
+%
+BOFH izgovor # 181:Atilla glavčine
+
+%
+BOFH izgovor # 182:endotermnu rekalibracija
+
+%
+BOFH izgovor # 183:datotečni sustav nije dovoljno velika za Jumbo Kernel Patch
+
+%
+BOFH izgovor # 184:Petlja se u petlji u suvišan povratnu petlju
+
+%
+BOFH izgovor # 185:Sustav konzumira sav papir za dojavljivanje
+
+%
+BOFH izgovor # 186:dopuštenje uskraćeno
+
+%
+BOFH izgovor # 187:Ponovno formatiranje stranice. Čekati...
+
+%
+BOFH izgovor # 188:..disk ili procesor je na vatru.
+
+%
+BOFH izgovor # 189:SCSI je preširok.
+
+%
+BOFH izgovor # 190:Zaštićenih informacija.
+
+%
+BOFH izgovor # 191:Samo upišite 'MV * / dev / null ".
+
+%
+BOFH izgovor # 192:bjegunac mačka na sustavu.
+
+%
+BOFH izgovor # 193:Jeste li platiti novi Naknada za podršku?
+
+%
+BOFH izgovor # 194:Podržavamo samo bps vezu 1200.
+
+%
+BOFH izgovor # 195:Podržavamo samo 28000 bps vezu.
+
+%
+BOFH izgovor # 196:Me nema internet, samo domar, mi samo voska kata.
+
+%
+BOFH izgovor # 197:Žao mi je Pentium neće učiniti, morate SGI za povezivanje s nama.
+
+%
+BOFH izgovor # 198:Post-it note mulja procurila u monitor.
+
+%
+BOFH izgovor # 199:uvojci na tipkovnici moždina gube struju.
+
+%
+BOFH izgovor # 200:Monitor treba još kutiju piksela.
+
+%
+BOFH izgovor # 201:RPC_PMAP_FAILURE
+
+%
+BOFH izgovor # 202:kernel panika: pisati samo-memorije (/ dev / wom0) kapacitet premašen.
+
+%
+BOFH izgovor # 203:Napišite samo-memorije podsustav prespor za ovaj stroj. Obratite se lokalnom zastupniku.
+
+%
+BOFH izgovor # 204:Samo pokupiti telefon i dati modem spojiti zvukove. "Pa ti si rekao da bismo trebali dobiti više linija, tako da nemamo govorne linije."
+
+%
+BOFH izgovor # 205:Kvantna dinamika utječu tranzistora
+
+%
+BOFH izgovor # 206:Policija ispituje sve internet pakete u potrazi za narko-net-krijumčara
+
+%
+BOFH izgovor # 207:Trenutno pokušavamo novi koncept koristeći živi miš. Nažalost, još uvijek preživjeti povezanog na računalo ..... molimo nositi s nama.
+
+%
+BOFH izgovor # 208:Vaš pošta prosljeđuje kroz Njemačku ... i oni nas cenzure.
+
+%
+BOFH izgovor # 209:Samo ljudi s imenima koja počinju s "A" uzimajući poštom ovaj tjedan (la Microsoft)
+
+%
+BOFH izgovor # 210:Nismo platiti internet račun i to je bio odsječen.
+
+%
+BOFH izgovor # 211:Udara groma.
+
+%
+BOFH izgovor # 212:Naravno, to ne radi. Mi smo proveli nadogradnju softvera.
+
+%
+BOFH izgovor # 213:Promjena jezika na finski.
+
+%
+BOFH izgovor # 214:Fluorescentna svjetla stvaraju negativne ione. Ako ih isključite ne radi, izvadite ih i stavite aluminijsku foliju na krajevima.
+
+%
+BOFH izgovor # 215:Visoka nuklearna djelatnost na svom području.
+
+%
+BOFH izgovor # 216:Što ured ste Vi mjestu? Oh, to je jedan. Jeste li znali da je građevina izgrađena u odnosu na sveučilišta prvi znanstveni stranice nuklearnom? I wow, nisi sretnik, vaš ured je točno tamo gdje je jezgra je pokopan!
+
+%
+BOFH izgovor # 217:U MGS ponestalo plina.
+
+%
+BOFH izgovor # 218:UPS nema rezervnu bateriju.
+
+%
+BOFH izgovor # 219:Recursivity. Nazove ako se to dogodi opet.
+
+%
+BOFH izgovor # 220:Netko je mislio The Big Red Button bio je prekidač za svjetlo.
+
+%
+BOFH izgovor # 221:Veliko računalo mora odmoriti. To je stari, znaš.
+
+%
+BOFH izgovor # 222:Nisam siguran. Pokušajte zove internet je sjedište - to je u knjizi.
+
+%
+BOFH izgovor # 223:Linije su svi zauzeti (zaposlio se, to je - zašto ih pustiti da se početak).
+
+%
+BOFH izgovor # 224:9. siječanj 16:41:27 Huber Su: 'Su root' uspio za .... na / dev / pts / 1
+
+%
+BOFH izgovor # 225:To je ta računala ljude u X {gradu svijeta}. Oni drže nadjevom stvari.
+
+%
+BOFH izgovor # 226:Star Wars satelitska slučajno raznio WAN.
+
+%
+BOFH izgovor # 227:Fatalna pravo greška ispred ekrana
+
+%
+BOFH izgovor # 228:To je funkcija trenutno nije podržan, ali Bill Gates nas uvjerava da će biti predstavljena u sljedećem nadogradnje.
+
+%
+BOFH izgovor # 229:krivo polaritet toka neutrona
+
+%
+BOFH izgovor # 230:Krivulja Lusers učenja, kako se čini fraktal
+
+%
+BOFH izgovor # 231:Morali smo isključiti tu uslugu u skladu s CDA Billa.
+
+%
+BOFH izgovor # 232:Ionizacija s klima-uređajem
+
+%
+BOFH izgovor # 233:TCP / IP UDP prag upozorenja postavljena prenisko.
+
+%
+BOFH izgovor # 234:Netko se emitira Patuljasti paketa i router ne zna kako se nositi s njima.
+
+%
+BOFH izgovor # 235:Novi frame relay mreža nije krevetna dolje okvirnu odašiljač softvera još.
+
+%
+BOFH izgovor # 236:Fanout spuštanjem napona previše, pokušajte rezanje neke od onih malih tragova
+
+%
+BOFH izgovor # 237:Plate napon prenizak na demodulator cijevi
+
+%
+BOFH izgovor # 238:Učinili ste WHA ... oh _dear _....
+
+%
+BOFH izgovor # 239:CPU treba ležajeve prepakirani
+
+%
+BOFH izgovor # 240:Previše malih igle na CPU to zbunjujuće, savijati naprijed i natrag dok 10-20% uredno se uklanjaju. _nemojte_ Ostaviti metalne komadiće vidljiv!
+
+%
+BOFH izgovor # 241:_Rosin_ Jezgra lem? Ali...
+
+%
+BOFH izgovor # 242:Softver koristi američkih mjerenja, ali OS je u metričkim ...
+
+%
+BOFH izgovor # 243:Računalo fleetly, miš i sve.
+
+%
+BOFH izgovor # 244:Vaša mačka pokušao pojesti miša.
+
+%
+BOFH izgovor # 245:Borg je pokušao asimilirati sustav. Otpor je uzaludan.
+
+%
+BOFH izgovor # 246:Mora da je munja oluje koju smo imali (Jučer) (prošli tjedan) (zadnji mjesec)
+
+%
+BOFH izgovor # 247:Zbog savezne probleme proračuna bili smo prisiljeni smanjiti broj korisnika koji mogu pristupiti sustavu u jednom trenutku. (Naime nitko dozvoljeno ....)
+
+%
+BOFH izgovor # 248:Previše zračenje dolazi iz zemlje.
+
+%
+BOFH izgovor # 249:Nažalost, mi smo ponestane bitova / bajtovima / god. Ne brini, sljedeći opskrba će doći sljedeći tjedan.
+
+%
+BOFH izgovor # 250:opterećenje program pretežak za procesor dizati.
+
+%
+BOFH izgovor # 251:Procesi trčanje polako zbog slabog napajanja
+
+%
+BOFH izgovor # 252:Naš ISP ima {prebacivanje, usmjeravanje, SMDS, frame relay} probleme
+
+%
+BOFH izgovor # 253:Mi smo ponestane licenci
+
+%
+BOFH izgovor # 254:Smetnje iz lunarnog zračenja
+
+%
+BOFH izgovor # 255:Stojeći sobu samo u autobusu.
+
+%
+BOFH izgovor # 256:Morate instalirati RTFM sučelje.
+
+%
+BOFH izgovor # 257:To bi bilo, jer softver ne radi.
+
+%
+BOFH izgovor # 258:To je lako popraviti, ali ne mogu biti smeta.
+
+%
+BOFH izgovor # 259:Netko kravata je uhvaćen u pisač, a ako ništa drugo bude tiskana, on će biti u njemu previše.
+
+%
+BOFH izgovor # 260:Nadograđujemo / dev / null
+
+%
+BOFH izgovor # 261:Usenet vijest je zastario
+
+%
+BOFH izgovor # 262:Naš POP server je bio otet od strane lasica.
+
+%
+BOFH izgovor # 263:To je zapela na webu.
+
+%
+BOFH izgovor # 264:Vaš modem ne govori engleski.
+
+%
+BOFH izgovor # 265:Miš je pobjegao.
+
+%
+BOFH izgovor # 266:Sve paketa su prazni.
+
+%
+BOFH izgovor # 267:UPS je u štrajku.
+
+%
+BOFH izgovor # 268:Neutrino od preopterećenja na poslužitelj imena
+
+%
+BOFH izgovor # 269:Topljenje tvrdih diskova
+
+%
+BOFH izgovor # 270:Netko je zabrljao kernel pokazivače
+
+%
+BOFH izgovor # 271:Dozvola kernel je istekla
+
+%
+BOFH izgovor # 272:Netscape je pala
+
+%
+BOFH izgovor # 273:Kabel preskočio i udario prekidač napajanja.
+
+%
+BOFH izgovor # 274:Bilo je to u redu prije nego što ga se dotakne.
+
+%
+BOFH izgovor # 275:Bit trulež
+
+%
+BOFH izgovor # 276:US Postal Service
+
+%
+BOFH izgovor # 277:Vaš Flux Kondenzator je otišao loše.
+
+%
+BOFH izgovor # 278:Dilitij Kristali treba okretati.
+
+%
+BOFH izgovor # 279:Statički elektricitet usmjeravanje je glumi ...
+
+%
+BOFH izgovor # 280:Traceroute kaže da je usmjeravanje problem u kralježnicu. To nije naš problem.
+
+%
+BOFH izgovor # 281:Ko-lokator ne može potvrditi frame-relay prolaz u ISDN poslužitelj.
+
+%
+BOFH izgovor # 282:Visoka nadmorska visina kondenzacije iz U.S.A.F prototip zrakoplova je kontaminirana primarni masku podmreže. Isključite računalo 9 dana kako bi izbjegli oštećenja.
+
+%
+BOFH izgovor # 283:Kosilice nož u svoj ventilator treba oštrenje
+
+%
+BOFH izgovor # 284:Elektroni na Bender
+
+%
+BOFH izgovor # 285:Telekomunikacije se nadogradnja.
+
+%
+BOFH izgovor # 286:Telekomunikacije se rejtinga.
+
+%
+BOFH izgovor # 287:Telekomunikacije se downshifting.
+
+%
+BOFH izgovor # 288:Pogon za spavanje teško. Neka se probuditi na svojim vlastitim ...
+
+%
+BOFH izgovor # 289:Smetnje između tipkovnice i stolca.
+
+%
+BOFH izgovor # 290:CPU je pomaknut, i postati decentralizirana.
+
+%
+BOFH izgovor # 291:Zbog SDA, mi više ne moraju root račun.
+
+%
+BOFH izgovor # 292:Mi ran iz telefonskog signala, a mi smo te čekali telefon tvrtka za pružanje još jednu bocu.
+
+%
+BOFH izgovor # 293:Vi sigurno pritisnuo pogrešnu bilo koju tipku.
+
+%
+BOFH izgovor # 294:PCMCIA rob vozač
+
+%
+BOFH izgovor # 295:Token ispao iz ringa. Nazovite nas kada ga naći.
+
+%
+BOFH izgovor # 296:Hardverski autobus treba novi token.
+
+%
+BOFH izgovor # 297:Previše prekida
+
+%
+BOFH izgovor # 298:Nema dovoljno prekida
+
+%
+BOFH izgovor # 299:Podaci na tvrdom disku je iz ravnoteže.
+
+%
+BOFH izgovor # 300:Digitalni Manipulator prekoračenja brzine te parametre
+
+%
+BOFH izgovor # 301:Čini se da je spor / Narrow SCSI-0 Sučelje je problem
+
+%
+BOFH izgovor # 302:mikroelektronicka Riemannovi zakrivljena-prostor greška u pisati samo datotečni sustav
+
+%
+BOFH izgovor # 303:fraktal zračenje ometanje okosnicu
+
+%
+BOFH izgovor # 304:usmjeravanje problema na neuronske mreže
+
+%
+BOFH izgovor # 305:IRQ-problemi s UN-u prekida-napajanje
+
+%
+BOFH izgovor # 306:CPU-kut mora biti prilagođen zbog vibracija koje dolaze iz obližnje ceste
+
+%
+BOFH izgovor # 307:emisije iz GSM-telefona
+
+%
+BOFH izgovor # 308:CD-ROM-poslužitelj treba kalibriranja
+
+%
+BOFH izgovor # 309:firewall treba hlađenje
+
+%
+BOFH izgovor # 310:asinkroni neuspjeh inode
+
+%
+BOFH izgovor # 311:povreda prolazna bus protokol
+
+%
+BOFH izgovor # 312:nespojive operateri bit-registracija
+
+%
+BOFH izgovor # 313:Vaš proces nije ISO 9000 popustljiv
+
+%
+BOFH izgovor # 314:Morate nadograditi svoj VESA lokalnim autobusom do MasterCard lokalnim autobusom.
+
+%
+BOFH izgovor # 315:Nedavni porast broja nuklearnih pokusa
+
+%
+BOFH izgovor # 316:Vilenjaci u štrajku. (Zašto oni nazivaju eMag Elf Magic)
+
+%
+BOFH izgovor # 317:Internet premašila Luser razini, pričekajte dok se ne luser odjavi prije pokušaja da se prijavite na leđa.
+
+%
+BOFH izgovor # 318:Vaša e-mail je sada isporučio USPS.
+
+%
+BOFH izgovor # 319:Računalo nije vraćao sve komadiće što dobiva s Interneta.
+
+%
+BOFH izgovor # 320:Vi ste bili zaraženi teleskopski Hubble virusa.
+
+%
+BOFH izgovor # 321:Planirano globalna CPU struje
+
+%
+BOFH izgovor # 322:Vaš Pentium ima problem grijanja - pokušajte ga za hlađenje s ledeno hladnom vodom (ne pretvoriti vaše računalo, vi ne želite da se ohladi Pentium čip, a on ne radi, zar ne?).
+
+%
+BOFH izgovor # 323:Vaš procesor obrađuje previše upute. Isključite ga odmah, ne upisujte naredbe !!
+
+%
+BOFH izgovor # 324:Vaši paketi su jeli od terminatora
+
+%
+BOFH izgovor # 325:Vaš procesor ne razvije dovoljno topline.
+
+%
+BOFH izgovor # 326:Trebamo licencirani električar zamijeni žarulje u računalnoj učionici.
+
+%
+BOFH izgovor # 327:POP poslužitelj je iz Coca-Cole
+
+%
+BOFH izgovor # 328:Fiber optika izazvao plin glavni curenja
+
+%
+BOFH izgovor # 329:Server depresivan, treba Prozac
+
+%
+BOFH izgovor # 330:kvantna dekoherenciju
+
+%
+BOFH izgovor # 331:one proklete rakuni!
+
+%
+BOFH izgovor # 332:suboptimalne usmjeravanje iskustvo
+
+%
+BOFH izgovor # 333:Vodoinstalater je potrebno, mreža odvod je začepljen
+
+%
+BOFH izgovor # 334:50% priručnika je u .pdf datoteke readme
+
+%
+BOFH izgovor # 335:AA baterija u wallclock šalje magnetske smetnje
+
+%
+BOFH izgovor # 336:XY os u trackball usklađen je s ljetnog solsticija
+
+%
+BOFH izgovor # 337:butana lakši uzrokuje pincushioning
+
+%
+BOFH izgovor # 338:stari inkjet patrone proizlaze barij-based pare
+
+%
+BOFH izgovor # 339:Voditelj u kabelskom kanalu
+
+%
+BOFH izgovor # 340:Pa to popraviti u sljedećem (nadogradnju, ažuriranje patch release, Service Pack).
+
+%
+BOFH izgovor # 341:Httpd Greška 666: BOFH ovdje
+
+%
+BOFH izgovor # 342:Httpd Pogreška 4004: vrlo stara Intel CPU - nedovoljna procesorska snaga
+
+%
+BOFH izgovor # 343:ATM odbor je ponestalo 10 funta bilješke. Mi smo s bičem krug da ga napuniti, njega doprinijeti?
+
+%
+BOFH izgovor # 344:Mreža neuspjeh - poziv NBC
+
+%
+BOFH izgovor # 345:Nakon što je za ručno praćenje satelita.
+
+%
+BOFH izgovor # 346:Vaše / naše računalo (s) pretrpio curenje memorije, a mi smo čekali da ih se nadopuniti.
+
+%
+BOFH izgovor # 347:Gumeni pojas razbio
+
+%
+BOFH izgovor # 348:Mi smo na Token Ring, i to izgleda kao znamen dobio labav.
+
+%
+BOFH izgovor # 349:Stray alfa čestica s memorijske ambalaži izazvao Hard Memory Greška na poslužitelju.
+
+%
+BOFH izgovor # 350:Promjena paradigme ... bez kvačila
+
+%
+BOFH izgovor # 351:PEBKAC (Problem postoji između tipkovnice i stolica)
+
+%
+BOFH izgovor # 352:Kabeli nisu iste duljine.
+
+%
+BOFH izgovor # 353:Učinak u drugom sustavu.
+
+%
+BOFH izgovor # 354:Žvakaća guma na / dev / sd3c
+
+%
+BOFH izgovor # 355:Dosada u kernelu.
+
+%
+BOFH izgovor # 356:su demoni! su demoni! strašna demone!
+
+%
+BOFH izgovor # 357:Volio bih ti pomoći - to je samo da je gazda me neće pustiti blizu računala.
+
+%
+BOFH izgovor # 358:pogođen virusom Good Times
+
+%
+BOFH izgovor # 359:IMATE I / O error -> greška nesposobni Operator
+
+%
+BOFH izgovor # 360:Vaš provjera pariteta je u minusu, a ti si iz cache.
+
+%
+BOFH izgovor # 361:Komunistički revolucionari preuzimanju server sobi i zahtjevne sva računala u zgradi ili pucaju sysadmin. Loše misguided budale.
+
+%
+BOFH izgovor # 362:Plazma provod povreda
+
+%
+BOFH izgovor # 363:Od kartice na pogonu D:
+
+%
+BOFH izgovor # 364:Sand buha jede interneta kablove
+
+%
+BOFH izgovor # 365:paralelni procesori izvode okomito danas
+
+%
+BOFH izgovor # 366:ATM ćelija bez roaming značajka uključena, prijenosna računala ne može povezati
+
+%
+BOFH izgovor # 367:Webmasteri oteo zli kult.
+
+%
+BOFH izgovor # 368:Neuspjeh da se prilagodi ljetno i zimsko računanje vremena.
+
+%
+BOFH izgovor # 369:Virus prenose s računala na sysadmins.
+
+%
+BOFH izgovor # 370:Virus zbog računalima imaju nesiguran seks.
+
+%
+BOFH izgovor # 371:Neispravna konfiguracija statičkih ruta na corerouters.
+
+%
+BOFH izgovor # 372:Prisiljen da podržavaju NT poslužitelja; sysadmins prestati.
+
+%
+BOFH izgovor # 373:Sumnjivi pokazivač oštećene virtualni stroj
+
+%
+BOFH izgovor # 374:To je InterNIC kriv.
+
+%
+BOFH izgovor # 375:root ime poslužitelja oštećen.
+
+%
+BOFH izgovor # 376:rezovi proračuna bili smo prisiljeni prodati sve kabele za napajanje poslužitelja.
+
+%
+BOFH izgovor # 377:Netko je zakačen upletenog para žica u telefonskoj sekretarici.
+
+%
+BOFH izgovor # 378:Operatori su ubili 2000. godinu bug ugriza.
+
+%
+BOFH izgovor # 379:Mi smo pokupili COBOL kao jezik izbora.
+
+%
+BOFH izgovor # 380:Operatori poginulo kada ogromni snop backup trake pao.
+
+%
+BOFH izgovor # 381:Robotski traka mjenjač zamijenili kravatu operatora za backup trake.
+
+%
+BOFH izgovor # 382:Netko je pušio u računalnoj sobi i krenuli na halona sustava.
+
+%
+BOFH izgovor # 383:Vaš procesor je preuzeo vožnju rajskih vrata na NLO iza Hale Bopp kometa.
+
+%
+BOFH izgovor # 384:to je ID-10-T greška
+
+%
+BOFH izgovor # 385:Disleksičari prekucavanje Hosts datoteku na poslužiteljima
+
+%
+BOFH izgovor # 386:Internet se skenira za viruse.
+
+%
+BOFH izgovor # 387:Ugovor vašeg računala sindikat istječe u ponoć.
+
+%
+BOFH izgovor # 388:Loše korisnički karma.
+
+%
+BOFH izgovor # 389:/ Dev / trag bio je povezan s / dev / null
+
+%
+BOFH izgovor # 390:Povećana aktivnosti sunčevih pjega.
+
+%
+BOFH izgovor # 391:Već smo poslali oko obavijest o tome.
+
+%
+BOFH izgovor # 392:To je pravila sindikata. Nema ništa što možemo učiniti o tome. Oprostite.
+
+%
+BOFH izgovor # 393:Smetnje iz Van Allen pojas.
+
+%
+BOFH izgovor # 394:Jupiter je usklađen s Marsa.
+
+%
+BOFH izgovor # 395:Suvišne ACL.
+
+%
+BOFH izgovor # 396:Mail server pogođen UniSpammer.
+
+%
+BOFH izgovor # 397:je zagušen zbog porno prometa na poslužitelja novosti T-1.
+
+%
+BOFH izgovor # 398:Podaci za intranet dobio preusmjeren kroz ekstranet i sletio na internetu.
+
+%
+BOFH izgovor # 399:Mi smo 100% Microsoft Shop.
+
+%
+BOFH izgovor # 400:Mi smo Microsoft. Što ste se suočili nije problem; to je nedokumentovan značajka.
+
+%
+BOFH izgovor # 401:Prodaja osoblje prodali proizvod ne nudimo.
+
+%
+BOFH izgovor # 402:Tajnik poslao lanac pismo svim 5000 zaposlenika.
+
+%
+BOFH izgovor # 403:Sysadmin nije čuo pager otići zbog glasne glazbe iz bar-room zvučnika.
+
+%
+BOFH izgovor # 404:Sysadmin slučajno uništen pager s velikim čekićem.
+
+%
+BOFH izgovor # 405:Sysadmins nedostupan jer su na sastanku koji govori o tome zašto su nedostupne toliko.
+
+%
+BOFH izgovor # 406:Loše kafeterija hrana sletio sve sysadmins u bolnici.
+
+%
+BOFH izgovor # 407:Ruta lepršala na NAP.
+
+%
+BOFH izgovor # 408:Računala pod vodom zbog SYN poplava.
+
+%
+BOFH izgovor # 409:Vulkanske-smrt-grip ping je primijenjena.
+
+%
+BOFH izgovor # 410:Električni vodovi u strojarnicu se tope.
+
+%
+BOFH izgovor # 411:Zastoj u prometu na informacije veleprometnica.
+
+%
+BOFH izgovor # 412:Radijalna telemetriju Infiltracija
+
+%
+BOFH izgovor # 413:Krava-kipera vrhom kravu na server.
+
+%
+BOFH izgovor # 414:Emisije tachyon preopterećenje sustava
+
+%
+BOFH izgovor # 415:Prozor Održavanje slomljena
+
+%
+BOFH izgovor # 416:Mi smo iz utora na poslužitelju
+
+%
+BOFH izgovor # 417:Računalo soba premještanje. Naši sustavi su dolje za vikend.
+
+%
+BOFH izgovor # 418:Sysadmins zauzeti borbeni SPAM.
+
+%
+BOFH izgovor # 419:Ponovljeni ponovno podizanje sustava nije uspio riješiti probleme
+
+%
+BOFH izgovor # 420:Značajka nije beta testirao
+
+%
+BOFH izgovor # 421:Kontroler domene ne odgovara
+
+%
+BOFH izgovor # 422:Netko drugi je ukrao vašu IP adresu, nazovite Internet detektiva!
+
+%
+BOFH izgovor # 423:Nije RFC-822 usklađen.
+
+%
+BOFH izgovor # 424:Operacija nije uspjela jer: nema poruka za ovu pogrešku (# 1014)
+
+%
+BOFH izgovor # 425:zaustaviti malo dobila
+
+%
+BOFH izgovor # 426:Internet je potrebno uhvatiti etherbunny
+
+%
+BOFH izgovor # 427:mreža dolje, IP paketi dostavljaju putem UPS
+
+%
+BOFH izgovor # 428:Firmware update u aparat za kavu
+
+%
+BOFH izgovor # 429:Vremenska anomalija
+
+%
+BOFH izgovor # 430:Miš ima out-of-sira-error
+
+%
+BOFH izgovor # 431:Borg implantati su u nedostatku
+
+%
+BOFH izgovor # 432:Borg nanites su zaražene server
+
+%
+BOFH izgovor # 433:Pogreška: jedan loš korisnik nalazi ispred ekrana
+
+%
+BOFH izgovor # 434:Navedite prirodu tehničke nužde
+
+%
+BOFH izgovor # 435:Internet zatvorena zbog održavanja
+
+%
+BOFH izgovor # 436:Demon je pobjegao iz pentagrama
+
+%
+BOFH izgovor # 437:krugovi u žitu u kukuruznom ljusci
+
+%
+BOFH izgovor # 438:ljepljiva malo je popustio
+
+%
+BOFH izgovor # 439:Hot Java borac hladno
+
+%
+BOFH izgovor # 440:Propust predmemorije - molimo da se bolje težiti sljedeći put
+
+%
+BOFH izgovor # 441:Hash tablica ima pelin
+
+%
+BOFH izgovor # 442:Trojanski konj je ponestalo sijena
+
+%
+BOFH izgovor # 443:otkrivena zombi procesi, stroj je ukleta.
+
+%
+BOFH izgovor # 444:greška overflow u / dev / null
+
+%
+BOFH izgovor # 445:Kolačić preglednika oštećen - netko je grickanje na njega.
+
+%
+BOFH izgovor # 446:Mailer-demon je zauzet paljenjem svoje poruke u paklu.
+
+%
+BOFH izgovor # 447:Prema Microsoftu, to je po dizajnu
+
+%
+BOFH izgovor # 448:vi treba nadograditi na VII
+
+%
+BOFH izgovor # 449:Greenpeace free'd se mallocs
+
+%
+BOFH izgovor # 450:Teroristi se srušio avion u server sobi, morati ukloniti / bin / Ladena. (Rm-rf / bin / opterećena)
+
+%
+BOFH izgovor # 451:astropneumatic oscilacije u hlađenje vodom
+
+%
+BOFH izgovor # 452:Netko je vodio operativni sustav putem alata za provjeru pravopisa.
+
+%
+BOFH izgovor # 453:Spider napad u toplim slučaju dijelovima
+
+%

@@ -1,0 +1,173 @@
+Debian 小技巧 #1: 您可以使用 reportbug 套件中的 'reportbug'
+指令來回報問題，這個指令可在命令列下用，或者你也可以用新的圖型介面。('reportbug --ui gtk2' 或從選單開啟)
+
+%
+Debian 小技巧 #2: 您可以使用 'dpkg-reconfigure <package>' 變更在您第一次安裝一個套件時曾回答的問題。另外
+'configure-debian' 套件為此提供了一個統一的介面。
+
+%
+Debian 小技巧 #3: 您可以使用 'apt-cache search <關鍵字>' 或 'aptitude search <關鍵字>
+搜尋所有套件的描述的關鍵字。
+
+%
+Debian 小技巧 #4: 您可以使用 'apt-cache policy <packages>' 查看可用的以及已安裝的所有候選套件的版本資訊。
+
+%
+Debian 小技巧 #5: 如果您需要編譯一個自定的核心，請使用 kernel-package 套件中的 'make-kpkg' 指令稿。
+
+%
+Debian 小技巧 #6: 第 #6 個提示不存在。今天就來生一個！
+
+%
+Debian 小技巧 #7: 您可以使用 cron-apt 套件每晚自動下載您更新套件。
+
+%
+Debian 小技巧 #8: 如果您在 Debian 中遇到的問題，無法透過閱讀手冊和文件解決，那麼請到 Debian 用戶郵遞論壇詢問 (簡:
+debian-chinese-gb@lists.debian.org，繁: debian-chinese-big5@lists.debian.org)。
+
+%
+Debian 小技巧 #9: 如果您需要知道目前正在使用的 Debian 是什麼版本，請查看 /etc/debian_version 或使用
+'lsb_release -sc' 指令。如果您想知道那個版本的開發代號 (例如: 3.0 的開發代號是 'Woody')，請參考此連結:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian 小技巧 #10: Debian 郵遞論壇討論使用者問題或者 Debian 政策文件。瀏覽
+http://www.debian.org/MailingLists/ 並訂閱您所感興趣的內容吧。
+
+%
+Debian 小技巧 #11: 關心近況 - 閱讀 Debian 專案新聞。請於線上瀏覽
+http://www.debian.org/News/weekly/
+
+%
+Debian 小技巧 #12: 有一個 grep-dctrl 套件提供了若干指令，它們可用來快速搜索各種套件的 control 檔
+(像是套件中的檔案)。
+
+%
+Debian 小技巧 #13: 如果您不喜歡使用某個 Debian 套件的預設選項，您可以把它的源碼下載下來，按照您的偏好重新編譯一個版本。請參考
+http://www.debian.org/doc/FAQ/ch-pkg_basics.html (第 6.13 和 6.14 節) 瞭解更多資訊。
+
+不過請記住，大部分軟體的多數選項都能夠在執行時進行設定，通常不必重新編譯套件。
+
+%
+Debian 小技巧 #14: 如果您想追蹤某個套件的發展 (比如說，如果您希望瞭解缺陷回報，發行通知以及其它類似資訊)，請考慮在套件追蹤系統
+(Package Tracking System)中訂閱。您可以於此找到有關套件跟蹤系統 (PTS) 的更多資訊:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian 小技巧 #15: 一般而言套件的文件可以在 /usr/share/doc/<package> 下找到。特別注意 README.Debian
+文件專門提供 Debian 專屬資訊。
+
+%
+Debian 小技巧 #16: 如果您正在搜索一個不知道屬於那個套件的檔案，請試試
+'apt-file'，它為這類資訊提供了一個小型的資料庫。或者您也可以從 Debian 套件資料庫中搜索這些內容，也可以進行檔案搜尋:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian 小技巧 #17: 想找一些人聊聊 Debian 嗎? 如果您習慣於 IRC (Intenret Relay Chat)
+聊天，只要安裝您慣用的 IRC 軟體，然後加入 irc.debian.org 的 #debian 或 #dot 或 #debian-zh 頻道就可以了。
+
+%
+Debian 小技巧 #18: 在 http://packages.qa.debian.org/<package>
+可以找到套件的品管資訊。這個頁面提供了維護人員的品質保證網頁、BTS、套件新聞、以及檔案庫中的可用版本。
+
+%
+Debian 小技巧 #19: 如果您對從封裝軟體套件感興趣，您應該考慮安裝 apt-src 這個套件。
+
+%
+Debian 小技巧 #20: 想要持續追蹤某個您已安裝的套件版本紀錄 (對那些混用 stable / testing / unstable
+系統的人尤其有用)？請試試 apt-show-versions。
+
+%
+Debian 小技巧 #21: 如果您的 Debian 機器所使用的連線速度很慢，但是您可以使用另一個比較快的網路，那麼請試試 apt-zip 套件。
+
+%
+Debian 小技巧 #22: 正在猶豫使用哪個 Debian 鏡像站？請試試 apt-spy 和 netselect-apt
+套件，它們可以為您測試不同網站的速度。
+
+%
+Debian 小技巧 #23: 若您的系統佔用了太多的硬碟空間，請試試 deborphan
+套件。它能建議您哪些套件是無用的且可刪除的。當然，別忘了清除掉 APT 暫存 (使用 'apt-get clean'、'aptitude
+clean'、或者 aptitude 工具選單中的 '動作'->'清除套件暫存' 選項)。
+
+%
+Debian 小技巧 #24: 如果您想感謝某個維護者對於所處理的問題的辛勞，請試試reportbug --kudos。
+
+%
+Debian 小技巧 #25: 'debian-reference' 套件為 Debian
+使用者和開發人員提供了非常廣泛的參考文件。其中大多數資訊都在這個連結:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian 小技巧 #26: 如果一個套件沒有足夠的參考文件，那麼請查找名為 <package>-doc
+的套件，並確認已經安裝。通常含有大量文件的套件會被拆開，這是考慮到某些使用者並不想安裝文件。
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Debian 小技巧 #28: 如果您的機器並非持續處於開機狀態 (例如一台筆記型電腦)，請試試 'anacron'
+套件。即使在機器並未開機，它能夠確保讓該定期執行的軟體依然被啟動。
+
+%
+Debian 小技巧 #29: 保持您系統時鐘的精確性 - 經常開機的機器應該通過安裝 'ntp'套件在每次開機時進校時。
+
+%
+Debian 小技巧 #30: 若安裝了 'doc-base' 和 'doc-central' 套件以及相依的套件後，就可以從
+http://localhost/ 來瀏覽文件囉。
+
+%
+Debian 小技巧 #31: 停用一個特定 runlevel 的開機服務，應該是將 /etc/rc<level>.d 中以 S 開頭的鏈接變更為 K
+開頭的鏈接，而不是刪除那個鏈接。如果所有的鏈接都被刪除了，那麼系統在下次安裝升級套件時都將假定它們需要被替換。
+
+%
+Debian 小技巧 #32: 有個 'doc-debian' 套件提供了有關 Debian 的通用文件。它還有西班牙語版本
+(doc-debian-es)、法語版本 (doc-debian-fr) 和烏克蘭語版本 (doc-debian-uk)。
+
+%
+Debian 小技巧 #33: 'devscripts' 套件為那些希望改進 Debian 的使用者提供了一些有用的指令，如 wnpp-alert,
+rc-alert 以及 bts。
+
+%
+Debian 小技巧 #34: 如果您希望追蹤 Debian 開發版 (sid)，但只有少量的下載權限或者一個頻寬很小的網路，請試試 debdelta
+套件。
+
+%
+Debian 小技巧 #35: 搜尋遊戲嗎 ? 試試 'goplay' 吧，它提供了一個很棒的使用介面可瀏覽各種類型的遊戲。
+
+%
+Debian 小技巧 #36: 需要一些比 Debian 穩定版更新的套件，但又不願升級到 'testing' 或者 'unstable' 嗎?
+有些更新套件擺在 stable-updates 版本，另一些套件可在 backports.debian.org. 找到。
+
+%
+Debian 小技巧 #37: 希望下載一個套件但卻不想安裝它？請用 'aptitude download <pkgname>'。
+
+%
+Debian 小技巧 #38: 想學會使用軟體的新技巧嗎？ "man" 是你最佳好友！ 在 shell 下打 "man <程式名稱>" 或者打 "man
+-H <程式名稱>" 在瀏覽器下閱讀操作手冊。
+
+%
+Debian 小技巧 #39: 安裝 bash-completion 軟體套件可增強 bash's 的 tab 補齊功能。
+
+%
+Debian 小技巧 #40: 如果你安裝了 command-not-found，當你鍵入系統未安裝之軟體時候，系統將會自動提醒你應該安裝那個套件。
+
+%
+Debian 小技巧 #41: 您可以使用 'apt-cache show <套件名稱>' 或 'aptitude show <套件名稱>
+來取得套件的詳細描述。
+
+%
+Debian 小技巧 #42: 您可以使用 'apt-file list <套件名稱> 來查詢套件中所包含得檔案。這個指令很接近 dpkg
+-L，只是不需要安裝或先下載該套件。
+
+%
+Debian 小技巧 #43: 想要暫時關閉 iptables 防火牆 ? 請用 'iptables-save | sed
+"/-/d;/^#/d;s/DROP/ACCEPT/" | iptables-restore' 來 移除所有訪火牆規則並設預設為允許連接。
+
+%
+Debian 小技巧 #44: 您可以在 Identi.ca 上追蹤 Debian 帳號 http://identi.ca/debian 關於
+Debian Identica 的資訊請見: http://wiki.debian.org/Teams/Publicity/Identica

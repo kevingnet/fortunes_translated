@@ -1,0 +1,1228 @@
+<Nektrus> chyba dziala ale ofcours sasl dalej nie dziala ale to pomecze
+<Nektrus> jak sprawdzic na ktroych portach komunikuje sie sasl i postifx ?
+<Nektrus> w manual sasl pisze tak  :
+<Nektrus> CONFORMING TO
+<Nektrus>        RFC 2222
+<Nektrus> co to znaczy ?
+<Nektrus> to jest port komunikacji ?
+%
+<Nektrus> hehe
+<Nektrus> ja walsnie bawie sasl
+<Nektrus> co to jest md5?
+<ciril> nie rozumie pytania...
+<Nektrus> przy konfiguracj sasl md5
+<ciril> Marsjanska Defrytowa 5
+<Nektrus> a niewazne
+<Nektrus> porade se
+<Nektrus> msiek cos mowi ze przy konfiguracji sasl trzeb cos z md5 a nigdzie to nie pisze i chcialem wiedziec
+%
+<JedrzeJ> a jak bedziesz pracować w jakie firmie to jak bedą do ciebie mówić ??
+<misiek> JedrzeJ: masz problemy ze soba
+<lolo> idzesz czy nie
+<JedrzeJ> ide ide
+<misiek> debil ;)
+<Admin> hehhe
+<JedrzeJ> no ale jak beda mówić ?
+<misiek> administrator buraku jeden
+ůíů You are no longer marked as being away
+<JedrzeJ> Administrator to jest od mycia klatek
+<Admin> ROTFL
+<misiek> i tak sie sklada kolku jeden ze pracuje od ladnych paru lat
+<Admin> to tez trzeba do fortunek dac
+<misiek> e szkoda czasu nie mozna debila utrwalac
+<misiek> bo nastepne pokolenie skrzywi
+<misiek> :>
+%
+<nektrus> jaki znasz dobry soft do kontroli nad uzytkownikami!
+<ciril> /dev/brain
+<nektrus> nie mam takiego pakietu jak brain, to standardowo w linuxie jest?
+%
+JedrzeJ> Admin:kiedy pingi wrócą ?
+%
+Nie śmiem przestać myśleć, bo gdybym to zrobił, nie wiedziałbym później,
+jak znowu zacząć.
+%
+Zadając niemądre pytanie możesz poczuć się głupio.
+Ale jak go nie zadasz, to będziesz głupi.
+%
+Trzeba znowu coś namieszać
+			--- Paweł Moszumański
+			   po ulinuksowieniu hotelu Jan III Sobieski
+%
+Newsgroups: pl.comp.networking
+Subject: Re: Sieć i burza pytanie
+
+On Sat, 25 May 2002, KS wrote:
+> czy w czasie burzy wystarczy wyłączyć urządzonka (huby - switche) żeby się
+> niepopaliły czy też powyciągać wszystkie RJ-ki z portów. Co otym
+> myślicie ??
+Wyobraź sobie, że jesteś elektronem i zapierniczasz drutem w skrętce.
+Dochodzisz do switcha. Robi Ci jakąś różnicę, czy ten switch akurat
+pracuje, czy nie? :)
+%
+From: Khorne <khornie@leto.anet5.pl.eu.org>
+Newsgroups: pl.comp.os.linux.programowanie
+Subject: Re: ciemnota
+
+On the subject of 'ciemnota', ciem wrote such a fscking thing:
+> dlaczego segmentation fault dostaje dopiery kiedy argc[1]
+> 44 x "A" ??
+ Bo czasem w krzakach na które sikasz nikogo akurat nie ma.
+%
+Baseciq do djrzulf'a i Jule3ki:
+- Nie gadajcie o mnie przy seksie.
+(miało być: przy mnie o seksie) :-)
+%
+Z listów od wielbicieli:
+
+Czesc mam ma;utkie problemy z ipv6 (...) uzywam tego glownie do irca na razie
+wpuszcza mnie tylko z hostem w postaci mojego ip v6 a nie demonki może
+mógłbyś mi troshke podpowiedziec na temat tego jak się w najedzie
+konfigoorooje ipv6 i podpina demonki?
+
+Był;bym bardzo wdizeczny . Pozdrawiam
+%
+From: Przemysław Stanisław Knycz <przemyslaw@knycz.net>
+To: Jarosław Kamper <jack@jack.eu.org>
+Subject: Re: fortunes-pl: dwimc (NEW) dwimc.pl (NEW) README (HEAD) [djrzulf]
+
+On Mon, Sep 23, 2002 at 08:19:22PM +0200, Jarosław Kamper wrote:
+
+> Good job, dude! ;)
+
+shibby!
+
+> .:|Jarosław Kamper|:×:|jack@irc.pl|:×:|http://jack.eu.org/|:×:|RLU#165846|:.
+
+--
++-------------------[ mailto: przemyslaw@knycz.net ]-+
+| Przemysław `djrzulf` Knycz,  Registered Linux User |
+| Net/Sys Administrator, PLD Developer,       213344 |
++------ "Linux - the choice of GNU generation" ------+
+%
+ANKIETA DLA WNIOSKUJĄCEGO O SPOTKANIE Z MOJĄ UKOCHANĄ CÓRECZKĄ
+
+UWAGA: Wniosek bez odpowiednich załączników tj. wyciągu z konta
+bankowego rodziców, świadectw szkolnych oraz aktualnych badań lekarskich
+zostanie uznany za niekompletny!
+
+Imię:__________
+Drugie imię:__________
+Nazwisko:__________
+Data urodzenia:__________
+Adres zamieszkania:__________
+Miejscowość:__________
+Kod pocztowy: _ _ - _ _ _
+Ulica:__________
+Nr domu/nr mieszkania:__________
+Telefon domowy:__________
+Telefon komórkowy:__________
+E-mail:__________
+
+Wzrost:__________
+Waga:__________
+IQ:__________
+Pochodzenie społeczne:__________
+Prawo jazdy (nr i data wydania):__________
+Dowód osobisty (nr, organ wydający):__________
+Przynależność do organizacji:__________
+ a)legalnych:__________
+ b)nielegalnych:__________
+
+Czy Twoi rodzice to mężczyzna i kobieta? Jeżeli nie, wyjaśnij
+dlaczego?
+________________________________________
+
+Ile lat po ślubie są twoi rodzice? Jeżeli mniej niż ty masz,
+wyjaśnij dlaczego? _____________________________________
+
+Czy posiadasz duży wygodny samochód np. typu Pick-Up?
+________________________________________
+
+Czy siedzenia w twoim samochodzie się rozkładają?
+________________________________________
+
+Czy na tyle swojego Pick-Up'a wozisz materac?
+________________________________________
+
+Czy nosisz kolczyk? ________________________________________
+
+Czy nosisz kolczyk w innej części ciała niż ucho?
+________________________________________
+
+Czy masz tatuaż?  ________________________________________
+
+UWAGA! JEŻELI CHOCIAŻ NA 1 Z OSTATNICH 6 PYTAŃ ODPOWIEDZIAŁEŚ -
+"TAK",  TO MOŻESZ DALEJ NIE WYPEŁNIAĆ!!!
+
+Wyjaśnij w kilku zdaniach jak rozumiesz zwrot: "NIE DOTYKAJ
+MOJEJ CÓRKI!".
+
+__________________________________________________________________________
+__________________________________________________________________________
+
+W kilku zdaniach wyjaśnij jakie zalety ma dla ciebie
+ABSTYNENCJA?
+__________________________________________________________________________
+__________________________________________________________________________
+
+Czy chodzisz do kościoła? Jeżeli tak to jak często?
+________________________________________
+
+Kiedy byłaby najlepsza okazja bym mógł spotkać się z twoimi
+rodzicami i proboszczem?
+
+__________________________________________________________________________
+
+UWAGA! W tej części ankiety twoim zadaniem jest dokończenie
+zdań. Odpowiadaj swobodnie i szczerze, ankieta jest poufna i nikomu nie
+zostanie udostępniona. (To znaczy nie powiem o tym nikomu i nigdy!)
+
+A. Jeśli miałbym być postrzelony, to ostatnim miejscem w które chciałbym
+   zarobić kulkę jest:__________
+B. Jeżeli byłbym bity, to ostatnią kością którą chciałbym mieć
+   połamaną jest:__________
+C. Kobiety miejsce jest w__________
+D. Liczę że nigdy nie spyta mnie Pan o:__________
+E. Kiedy spotykam dziewczynę, pierwszą rzeczą na którą zwracam uwagę
+   jest:__________
+UWAGA! JEŚLI ODPOWIEDŹ NA PYTANIE "E" ZACZYNA SIĘ OD "P", "C" LUB "D",
+PRZERWIJ WYPEŁANIANIE I ODCZEP SIĘ OD MOJEJ CÓRKI!
+
+Co zamierzasz robić w przyszłości? Kim chcesz być? Gdzie pracować?
+
+__________________________________________________________________________
+
+OŚWIADCZENIE
+WNIOSKODAWCY
+PRZYSIĘGAM ŻE WSZYSTKIE PODANE PRZEZE MNIE INFORMACJE SĄ PRAWDZIWE I
+JESTEM GOTÓW W KAŻDEJ CHWILI NA POWTÓRZENIE ODPOWIEDZI Z POWYŻSZEJ
+ANKIETY BĘDĄC PODŁĄCZONY DO WYKRYWACZA KŁAMSTW CZY TEŻ PRZYPIEKANY
+ROZGRZANYM DO CZERWONOŚCI POGRZEBACZEM LUB Z AKUMULATOREM NA JAJACH.
+
+ _____________________
+  [ podpis] (To znaczy twoje imię głupku!)
+
+
+ * * * * *
+Dziękuję bardzo za zainteresowanie spotkaniem z moją córką i za
+wypełnienie ankiety. Jeżeli zostaniesz zaakceptowany to odpowiedź
+otrzymasz na piśmie, jednak przetwarzanie danych z powyższej ankiety
+może potrwać od 4 do 6 lat. Musisz uzbroić się w cierpliwość. Nie dzwoń,
+nie pisz ani w żaden inny sposób nie próbuj się kontaktować do tego
+czasu z moją córką.
+
+(Próba kontaktu może spowodować u ciebie poważnie obrażenia ciała!)
+Jeżeli twoje podanie zostanie odrzucone, zostaniesz o tym powiadomiony
+przez moich dwóch  znajomych sportowców, którzy z powodu braku w pobliżu
+boiska do baseball'a chętnie z tobą potrenują ten piękny sport byś się
+nie nudził i z powodu zbyt dużej ilości wolnego czasu nie szukał
+kontaktu z moją córką poza moimi  plecami. (Ograniczenie w możliwości
+poruszania się o własnych nogach będzie chyba najlepszym środkiem
+zapobiegawczym)
+
+Jeszcze raz dziękuję za, mam nadzieję, szczere wypełnienie ankiety
+
+Pozdrawiam
+OJCIEC
+%
+Oda do Jabola:
+
+O prycie, o jabolu, szampanie ubogich,
+Radość bezbrzeżną czuję, kiedy w moje progi,
+Wnoszę flaszkę wysmukłą, w której się zawierasz,
+I wdzięcznym chlupotaniem dech w piersiach zapierasz.
+Ty precz gnasz wszelkie troski i smutki przepędzasz,
+Przy Tobie zapominam, żem jedynie nędzarz,
+Którego ziemski żywot jeno krótkim mgnieniem,
+Nim śmierć nieogarnionym okryje go cieniem.
+Tyś rozkosz podniebienia, cieszysz serce moje,
+Milszyś mi niż wykwintne bogaczy napoje,
+Stworzone aby możnych próżność zadowolić,
+Jakoż ja to wolę w sztok się napierdolić.
+Boś Ty zawżdy najlepszy, nic Ci nie dorówna,
+Ty zasiadasz na tronie, a reszta to gówna.
+Ty świeżym owocem usta moje pieścisz,
+A potem w gardło moje, bystre toczysz zdroje,
+Podobne siklawom i górskim potokom,
+Przejrzystością kryształu, cieszącym me oko.
+Tyś wreszcie trunkiem świętym, bo kto się najebał,
+Wypiwszy Ciebie, łacniej wejdzie w bramy nieba,
+Niźli smakosze Cinzanu, szampanów, winiaków,
+Bo pił skromnie, bez pychy zasiadłszy wśród krzaków.
+Tak to mój zacny prycie, mój miły jabolu,
+Alkoholów stolico, trunków kapitolu,
+Wołam wszem i wobec, że mnie prędzej jasny szlak zajebie,
+Niźli miałbym się powstrzymać od wypicia Ciebie.
+A jeśli komuś nie w smak, co tutaj rzeczone,
+I twarz ze wstrętem wykrzywia, patrząc w Twoją stronę,
+Obraża uroki Twej toni,
+Pluje na etykietkę z nazwą Kwiat Jabłoni,
+I o Twej szkodliwości jakieś kity stula,
+Wtedy ja tulipanem poderżnę mu gula,
+By będąc pozbawion swojej żywotności,
+Nie mógł więcej bluźnić przeciw Twej wielkości.
+%
+21 dowodów na to, że żyjemy w 21 wieku:
+
+1. Właśnie próbowałeś wprowadzić swój PIN do mikrofalówki.
+2. W swoim notesie masz listę piętnastu numerów telefonów swojej
+   najbliższej trzyosobowej rodziny.
+3. Wysyłasz swojemu synowi sms-a z informacją o tym, że już pora na
+   kolację, a on odsyła Ci e-maila z odpowiedzią, że zaraz przyjdzie do
+   kuchni.
+4. Twoja córka sprzedaje lizaki przez swoją witrynę internetową, a ty
+   kilka razy dziennie gawędzisz z nieznajomym z południowej Afryki, ale
+   w tym miesiącu nie rozmawiałeś jeszcze ze swoim sąsiadem zza ściany.
+5. Twoja matka prosi Cię o wysłanie zdjęcia Twego nowonarodzonego
+   dziecka w jotpegu, by móc z niego zrobić wygaszacz ekranu.
+6. Wracając z pracy zatrzymujesz samochód na podjeździe do swojego
+   garażu i dzwonisz z komórki, by sprawdzić czy ktoś jest w domu.
+7. Każda reklama w telewizji posiada adres WWW na dole ekranu.
+8. Kupujesz komputer, a po sześciu miesiącach jest on przestarzały i
+   wart połowę ceny, za którą go kupiłeś.
+9. Wyjście z domu bez telefonu komórkowego, którego nie miałeś przez
+   dotychczasowe 20-50 lat swojego życia, spowoduje panikę i to, że po
+   telefon wrócisz do domu.
+10. Zapłacenie za coś żywą gotówką zamiast karty kredytowej czy
+    debetowej, to przedsięwzięcie, które wymaga wcześniejszego
+    zaplanowania.
+11. Sprzątanie pokoju stołowego oznacza wyrzucenie torebek po fast-
+    foodach z tylnego siedzenia samochodu..........
+12. Przyczyną braku kontaktu z krewnymi i znajomymi jest to, że nie
+    posiadają oni adresu e-mailowego.
+13. Jeśli masz na ścianie/lodówce poprzyczepianych mnóstwo kolorowych
+    karteczek to znaczy, że jesteś człowiekiem zorganizowanym.
+14. Większość dowcipów poznajesz po raz pierwszy przez Internet.
+15. W domu zakładasz sobie drugą linię telefoniczną by w ogóle móc
+    rozmawiać przez telefon
+16. Wychodzisz z Internetu i masz paskudne uczucie, że właśnie rozstałeś
+    się z ukochaną.
+17. Wstajesz rano i wchodzisz do Internetu zanim jeszcze zdążysz wypić
+    kawę.
+18. Budzisz się o drugiej nad ranem, by pójść do łazienki, a w powrotnej
+    drodze do łóżka sprawdzasz jeszcze czy ktoś nie przysłał Ci e-maila.
+19. Gdy się uśmiechasz albo robisz inne miny, przekrzywiasz
+    odruchowo głowę na bok [:-)]
+20. Czytasz ten tekst.
+21. Co gorsza, prześlesz go komuś dalej
+%
+MAJSTERSZTYX
+
+Scena I
+
+Fade in
+Przy komputerze Timex 2048 z monitorem monochromatycznym Neptun 156
+siedzi Trinitron w lateksowym ubraniu. Otwierają się drzwi i wpada
+milicjant.
+MILICJANT: Mam cię.
+TRINITRON: A gówno.
+Trinitron podskakuje do góry i kopie milicjanta prosto pierś.
+MILICJANT: Ha. Ha. Ha. Mam kamizelkę kuloodporną.
+TRINITRON: Ale ja już nie chodzę o kulach, ty debilu.
+MILICJANT: Aha. (umiera)
+
+Trinitron ucieka na podwórko, podbiega do budki telefonicznej i podnosi
+słuchawkę. Ulicą zbliża się walec drogowy.
+GŁOS W SŁUCHAWCE: Abonent czasowo niedostępny.
+TRINITRON: O ku*wa.
+Walec rozjeżdża budkę telefoniczną.
+TRINITRON: (wychyla się ze słuchawki telefonu) A kuku!
+Walec cofa i rozjeżdża jeszcze raz budkę wraz z telefonem.
+TRINITRON: (wychyla się ze słuchawki telefonu) Pudło!
+Na telefon spada olbrzymie pudło.
+TRINITRON: Ała.
+Fade out
+
+Scena II
+
+Fade in
+Na kanapie leży Neon, najebany w trzy du... Dzwoni telefon.
+NEON: (podnosi słuchawkę) Halo?
+GŁOS W SŁUCHAWCE: Majstersztyx cię ma.
+NEON: To jakiś żart?
+GŁOS W SŁUCHAWCE: Podążaj za białymi myszkami.
+NEON: Co?
+GŁOS W SŁUCHAWCE: Puk puk.
+NEON: Prosz?.
+Telefon otwiera się i wychodzą z niego białe myszki, które, marszerując
+jedna za drugą, wychodzą przez drzwi. Neon wstaje i, zataczając się,
+idzie za nimi.
+Fade out
+
+Scena III
+
+Fade in
+Neon wchodzi do baru i natyka się na Trinitron.
+NEON: Muszę się napić.
+TRINITRON: On istnieje.
+NEON: Kto?
+TRINITRON: Nie wiem. Jebło mnie takie wielkie pudło.
+NEON: Przykro mi.
+TRINITRON: Mnie też.
+Fade out
+
+Scena IV
+
+Fade in
+Neon siedzi w pracy i, bezmyślnie gapiąc się w okno, naciska klawisz
+"escape". Nagle przez okno wlatuje cegła i trafia Neona w głowę.
+NEON: Ała. (mdleje)
+Cegła dzwoni.
+NEON: (odbiera cegłę) No ku*wa przecież zemdlałem!!!
+GŁOS Z CEGŁY: Chodu!!!
+Przez drzwi wpada banda gestapowców. Zaczynają kopać Neona gdzie
+popadnie.
+Po chwili wychodzą, zostawiając Neona leżącego na podłodze.
+NEON: Ała. (znowu mdleje)
+Fade out
+
+Scena V
+
+Fade in
+Neon budzi się na wyrku, koło niego siedzi Trinitron.
+TRINITRON: Musimy iść.
+NEON: Gdzie?
+TRINITRON: Nie wiem. Jebło mnie takie wielkie pudło.
+NEON: Przykro mi.
+TRINITRON: Mnie też.
+Wychodzż. Na schodach natykają się na rabbiego Mosze Usza.
+MOSZE USZ: To ja.
+NEON: A ktoś ty?
+MOSZE USZ: Co wolisz, piwo czy jabola?
+NEON: Aeeeee nie wiem.
+MOSZE USZ: Pamiętaj, że jak wybierzesz to już nie możesz się cofnąć.
+NEON: Poprosz? piwo. Nie, jabola. Nie, piwo! A może jabola?
+MOSZE USZ: Ku*wa, zdecydujże się wreszcie..
+NEON: Jabola.
+MOSZE USZ: (pociąga z butelki i daje ją Neonowi) Proszę.
+NEON: (pociąga łyka) To nie jabol!
+MOSZE USZ: Pewnie, że nie. Pijmy szybciej bo się ściemnia.
+Neon pociąga zdrowego łyka i po chwili pada na ziemię tłukąc lustro
+wiszące na ścianie.
+MOSZE USZ: Mięczak.
+Fade out
+
+Scena VI
+
+Fade in
+Neon się budzi.
+MOSZE USZ: Zostałeś wyprany. Musisz wypełnić swój los.
+NEON: Jaki los? Mam kaca. Dajcie mi coś do picia.
+MOSZE USZ: Nic trudnego. Masz zajebać gestapowców, zniszczyć
+Majstersztyx i
+uratować świat. Bana?.
+NEON: Co to jest Majstersztyx?
+MOSZE USZ: Tego nie wiedzą nawet najstarsi Indianie.
+NAJSTARSI INDIANIE: Nie wiemy.
+NEON: Jakim cudem mam zajebać gestapowców?
+MOSZE USZ: Jesteś wyprany. Potwierdzi to nasza lokalna wróżka.
+LOKALNA WRÓŻKA: Nie jest, ale kto by mnie, ku*wa, słuchać.
+MOSZE USZ: Musisz im nakopać do rzyci.
+NEON: Jak trzeba to trzeba (wychodzi)
+MOSZE USZ: (woła za Neonem)Ej, zaczekaj! Nie wiesz jak walczyć z
+gestapowcami!!! Poszedł. Idziemy mu pomóc. Trinitron, gdzie jesteś?
+TRINITRON: Tutaj.
+MOSZE USZ: Gdzie? Nie widzę cię.
+TRINITRON: Nie wiem. Jebło mnie takie wielkie pudło.
+MOSZE USZ: Przykro mi.
+TRINITRON: Mnie też.
+Wychodzą.
+Fade out
+
+Scena VII
+
+Fade in
+Neon, Trinitron i Mosze Usz wchodzą po schodach. Nagle Neon zauważa
+chomika.
+NEON: Deżawu.
+TRINITRON: Co?
+NEON: Gdzieś już widziałem tego chomika.
+MOSZE USZ: (zaczerwieniony) To mój chomik, ale to nie ja go okleiłem
+taśmą klejącą.
+TRINITRON: Skąd on się tu wziął? To agent gestapo!!! W nogi!!!
+MOSZE USZ: (wyjmuje telefon i wystukuje numer, krzyczy do słuchawki)
+Zabierz nas stąd!!!
+GŁOS W SŁUCHAWCE: Abonent czasowo niedostępny.
+MOSZE USZ: O ku*wa.
+GESTAPOWCY: (wyskakują z gniazdek elektrycznych) Mamy was.
+Gestapowcy rzucaję się na Trinitron, Mosze Usz i Neon uciekają..
+Fade out
+
+Scena VIII
+
+Fade in
+Gestapowcy przesłuchują Trinitron.
+GESTAPOWIEC 1: Jak się nazywasz?
+TRINITRON: Trinitron.
+GESTAPOWIEC 1: Kopnąć cię w du..??
+TRINITRON: Nie.
+GESTAPOWIEC 1: (zawiedziony) Dlaczego?
+GESTAPOWIEC 2: Kto jest waszym szefem?
+TRINITRON: Rabin Mosze Usz.
+GESTAPOWIEC 2: Jebnąć ci w ryja?
+TRINITRION: Nie.
+GESTAPOWIEC 2: (zawiedziony) Czemu nie?
+MEGAGESTAPOWIEC: A zamknijcie się obaj i wypad stąd.
+Gestapowiec 1 i Trinitron wychodzą.
+MEGAGESTAPOWIEC: Znowu mnie ktoś robi w ch*ja.
+Megagestapowiec wybiega za Trinitron i gestapowcem 1, po chwili wracają
+wszyscy trzej. Megagestapowiec wali gestapowców w pysk i wyrzuca ich z
+pokoju.
+MEGAGESTAPOWIEC: To teraz powiesz wszystko.
+TRINITRON: Dobra.
+MEGAGESTAPOWIEC: No, to mów.
+TRINITRON: Wszystko.
+MEGAGESTAPOWIEC: A coś więcej?
+TRINITRON: Nie wiem. Jebło mnie takie wielkie pudło.
+MEGAGESTAPOWIEC: Przykro mi.
+TRINITRON: Mnie też.
+Fade out
+
+Scena IX
+
+Fade in
+Mosze Usz i Neon kłócą się zawzięcie.
+NEON: Muszę pomóc Trinitron.
+MOSZE USZ: Nie możesz. Zginiesz.
+NEON: Nie zginę. Sam powiedziałeś, że jestem wyprany.
+MOSZE USZ: No dobra, idź, tylko jeżeli nie wrócisz przed północą, to...
+NEON: To co?
+MOSZE USZ: To będę czekać do pierwszej, a tego byśmy nie chcieli. Jak
+będziesz wracać to przynieś mi jakiegoś chomika. I taśmę klejącą.
+NEON: Dobra.
+Neon wychodzi.
+Fade out
+
+Scena X
+
+Fade in
+Megagestapowiec nadal przesłuchuje Trinitron gdy nagle przed oknem
+pokoju pojawia się lotnia, pod którą wisi Neon. Lotnia zatrzymuje się
+dokładnie na wysokości okna i Neon zaczyna przygotowywać się do
+strzału.
+MEGAGESTAPOWIEC: O ku*wa.
+Neon zaczyna strzelać. Wokół Trinitron i Megagestapowca z olbrzymią
+szybkością latają strzały. Ujęcie na lotnię z dołu: na kamerę spadają
+puste kończany.
+TRINITRON: To ja sobie pójdę.
+Trinitron wstaje i z rozpędem rzuca się przez okno. Zza okna słychać
+głuche uderzenie i jęk. Ujście z zewnątrz: Neon stoi na ziemi, trzymając
+nad sobą lotnię i z olbrzymią szybkością szyje z łuku przez okno w
+parterowym domku.
+Obok Trinitron z nieszczęśliwą miną i olbrzymim guzem na głowie niemrawo
+zbiera się z ziemi, przytrzymując się latarni.
+NEON: Trinitron! Chodu!
+Rzucają się do ucieczki. Neon cały czas jest przypięty do lotni.
+TRINITRON: Ej, no po co ci to? Wyrzuć to!
+NEON: Co?
+TRINITRON: Nie wiem. Jebła mnie taka duża latarnia.
+NEON: Przykro mi.
+TRINITRON: Mnie też.
+NEON: Mosze Usz załatwił transport ze stacji metra.
+TRINITRON: W tym mieście nie ma metra.
+NEON: O ku*wa.
+TRINITRON: (wyciąga sobie strzałę z pośladka) Aha, i na drugi raz to we
+ty mnie już lepiej nie ratuj. (wyciąga sobie strzałę z ramienia)
+Cały czas uciekają. Ujście z góry: megagestapowiec coraz bardziej się do
+nich zbliża.
+
+Kwatera Mosze Usza, wszyscy siedzą przy monitorze.
+MOSZE USZ: Dwie stówy, że mu nie zwieją!
+NAJSTARSI INDIANIE: Pięćset, że dadzą radę!
+LOKALNA WRÓŻKA: Pewnie, że dadzą, ale kto by mnie, ku*wa, słuchał.
+Fade out
+
+Scena XI
+
+Fade in
+Trinitron i Neon wbiegają do wieżowca. Megagestapowiec jest tuż za nimi.
+Przebiegają pokoje. W końcu w jednym z nich znajdują telefon. Trinitron
+łapie słuchawkę i wykręca numer.
+GŁOS W SŁUCHAWCE: Abonent czasowo niedostępny.
+Do pokoju wpada megagestapowiec.
+TRINITRON: O ku*wa.
+GŁOS W SŁUCHAWCE: żartowałem. Wskakuj.
+Trinitron znika. Neon chce złapać za słuchawkę, ale megagestapowiec jest
+szybszy - wyrywa kabel telefonu ze ściany.
+GŁOS W SŁUCHAWCE: (z wyrzutem) Ty gnoju..
+MEGAGESTAPOWIEC: I co, Neon? Czy czujesz się na tyle silny, żeby
+uniknąć kul?
+NEON: (wyzywająco) Spróbujmy się.
+MEGAGESTAPOWIEC: Sam tego chciałeś.
+Megagestapowiec kieruje na Neona megabroń i naciska spust. Neon zamyka
+oczy, a kiedy je otwiera znajduje się w jakimś ponurym budynku. Zbliża
+się do niego jakaś zakapturzona posta?.
+ZAKAPTURZONA POSTAĆ: Kolejny, który myślał, że uda mu się uniknąć kul.
+NEON: Kim jesteś?
+ZAKAPTURZONA POSTAĆ: To teraz nieistotne. Istotne jest, co dalej.
+NEON: A co dalej?
+ZAKAPTURZONA POSTAĆ: To już zależy tylko od ciebie.
+NEON: Nic z tego nie rozumiem. Gdzie my, w ogóle, ku*wa, jesteśmy???
+ZAKAPTURZONA POSTAĆ: Chciałeś uniknąć kul. Nikomu nie udaje się uniknąć
+kul!!! Ha ha ha!!! (wybucha szatańskim śmiechem)
+NEON: Ku*wa ja się pytałem gdzie jestem!!!
+ZAKAPTURZONA POSTAĆ: To KUL!
+Wychodzą z cienia w światło i Neon widzi na ścianie tabliczkę z napisem
+"Katolicki Uniwersytet Lubelski".
+NEON: Cool.
+Kamera oddala się. Przejście na kwaterę Mosze Usza. Mosze Usz,
+Trinitron, najstarsi Indianie i lokalna Wróżka siedzą przy butelce
+denaturatu.
+MOSZE USZ: A już myślałem, że się uda.
+TRINITRON: A sztandar ludu jest czerwony.
+MOSZE USZ: Jaki, ku*wa, sztandar?
+TRINITRON: Nie wiem. Jebła mnie taka duża latarnia.
+MOSZE USZ: Przykro mi.
+TRINITRON: Mnie też.
+MOSZE USZ: (ponuro)To koniec.
+Fade out
+
+KONIEC!
+
+GŁOS LOKALNEJ WRÓŻKI: Wcale nie koniec, ale kto by mnie, ku*wa, słuchał.
+%
+Przegląd białoruskiej prasy.
+
+Białorusini przekraczają wszelkie normy picia alkoholu
+
+Białorusini dwukrotnie przewyższyli krytyczny poziom spożycia czystego
+alkoholu. Może czas zmienić normy?- zastanawia się mińska prasa.
+
+Według informacji Ministerstwa Statystyki w ub. roku na każdego
+mieszkańca kraju (łącznie ze starcami i niemowlętami) przypadło 10
+litrów czystego alkoholu. Chociaż trzeba pamiętać, że ta liczba nie
+dotyczy ogromnych ilości produkowanego w domowych warunkach wina i
+samogonu" - napisała środowa "Zwiazda". "Tymczasem wg danych Światowej
+Organizacji Zdrowia za poziom krytyczny dla zdrowia populacji uważa się
+5 litrów na jednego mieszkańca.
+
+W praktyce oznacza to, że w ciągu 11 miesięcy ub. roku z powodu zatrucia
+alkoholem na Białorusi zmarło 2338 osób (o 7 proc. więcej niż rok
+wcześniej). Z tej samej przyczyny 65 tys. znalazło się w szpitalach. Na
+przymusowy odwyk skierowano 2,5 tys kuracjuszy, a izby wytrzeźwień
+przyjęły ok. 100 tys. pacjentów. Za spożywanie alkoholu lub przebywanie
+w stanie nietrzeźwym w miejscach publicznych zatrzymano pół miliona
+ludzi - czyli 5 proc. całej ludności kraju". Dane "Zwiazdy" uzupełnia
+środowa "Biełaruś Siegodnia" reportażem z oddziału pogotowia w Homlu,
+które zajmuje się byłymi klientami zamykanych w całym kraju izb
+wytrzeźwień. "5 promili to śmiertelna dawka alkoholu we krwi" - cytuje
+miejscowych medyków gazeta.
+"Ale rekordem miejscowego oddziału toksykologii był potężnej postury
+mężczyzna, u którego wykryto 13,4 promila. Wyspał się i rano poszedł do
+domu. Inny pacjent - z 9 promilami - przyszedł rześki i kłócił się z
+lekarzami, że jest trzeźwy. Medycy mówią, że biorąc pod uwagę miejscowe
+realia, warto zweryfikować normy..."
+%
+Pijackie cytaty:
+
+Współczuję tym, którzy nie piją. Wstają rano i wiedzą, że cały dzień
+bedą się czuć się tak samo.
+--Frank Sinatra
+
+Problem z niektórymi ludźmi polega na tym, że kiedy nie są pijani, są
+trzeźwi.
+--William Butler Yeats
+
+Inteligentni ludzie są często zmuszani do picia, by bezkonfliktowo
+spędzać czas z idiotami.
+--Ernest Hemingway
+
+Zrób na trzeźwo to, o czym opowiadasz, że zrobiłbyś po pijaku. To cię
+nauczy trzymania gęby na kłódkę.
+--Ernest Hemingway
+
+Abstynent: osoba, która poddaje się pokusie odmówienia sobie
+przyjemności.
+ --Ambrose Bierce
+
+Rzeczywistość to iluzja wywołana brakiem alkoholu
+--Anonim
+
+Picie jest idealnym usprawiedliwieniem, gdy mam ochotę na oddanie się
+mojej ulubionej czynności - podrywanie tłustych, brzydkich kobiet.
+-- Ross Levy
+
+Zacząłem pić przez pewną kobietę. A ja jej nawet nie podziękowałem.
+--W.C. Fields
+
+Co za skurwiel zabrał korek z mojego lunchu?
+--W.C. Fields
+
+Kiedy przeczytałem o niebezpieczeństwach nałogowego picia, rzucilem
+czytanie.
+--Henny Youngman
+
+Nie mam problemu z piciem. Bez problemu piję, upijam się i walam po
+podłodze.
+--R.Williams
+
+Mam problem z piciem. Dwie ręce, a tylko jedna gęba
+--K. Richards.
+
+Czasem myślę o tych galonach piwa, które w siebie wlałem i jest mi
+wstyd. Patrzę na kufel i myślę o tych wszystkich pracownikach browaru,
+ich nadziejach i marzeniach. gdybym nie wypił tego piwa, mógłbym ich
+pozbawić marzeń. I wtedy mówię do siebie. Lepiej wypić to piwo i spełnić
+ich marzenia, niż martwić się egoistycznie swoją wątrobą.
+--R.Dangerfield
+%
+Perfekcyjny dzień
+Pefekcyjny dzien dla kobiety
+
+8:15 jestes budzona pocalunkami i pieszczotami
+8:30 warzysz 2 kilo mniej niz dzien wczesniej
+8:45 sniadanie w lozko - sok ze swiezych owocow i croissanty
+9:10 rozpakowujesz prezenty, n.p. drogie klejnoty wybrane przez uwaznego
+	partnera
+9:15 goraca kapiel z olejkami pachnacymi
+10:00 lekki workout w fintess-clubie z twoim przystojnym, dowcipnym
+	personal trainer
+10:30 manicure, pielegnacja twarzy, mycie wlosow, odzywka do wlosow
+12:00 widzisz ex-zone, -sympatie twojego partnera i stwierdzasz, ze
+	przytyla 7 kg
+13:00 shopping z przyjaciolmi, karta kredytowa bez limitu
+15:00 dzemka popoludniowa
+16:00 3 tuziny roz zostaja dostarczone z karteczka od tajemniczego
+	wielbiciela
+16:15 lekki workout w fintess-clubie, potem masaz, mily, przystojny
+	masazysta stwierdza, ze rzadko masowal takie perfekcyjne cialo
+17:30 przymierzasz outfit z designer-clothes i przed duzym lustrem
+	robisz maly pokaz mody dla siebie samej
+19:30 kolacja przy swieczkach dla 2 osob, nastepnie tance i duzo
+	komplementow
+22:00 goraca kapiel (sama)
+	22:50 zostajesz zaniesiona do lozka, swieza, wykrochamlona posciel
+23:00 czule pieszcoty
+23:15 zasypiasz w silnych ramionach
+
+Perfekcyjny dzien dla mezczyzny
+
+6:00 budzik dzwoni
+6:15 ktos ci robi loda
+6:30 wielka, zadowalajaca kupa poranna, przy tym czytasz dzial sportowy
+	w gazecie
+7:00 sniadanie: rump steak, jajka, kawa, toasty, wszystko przygotowane
+	przez naga gosposie
+7:30 limuzyna podjezdza
+7:45 pare szklaneczek whiskey w drodze na lotnisko
+9:15 lot prywatnym odrzutowcem
+9:30 limuzyna z szoferem zawozi cie do klubu golfowego, po drodze ktos
+	ci robi loda
+9:45 gra w golfa
+11:45 lunch: fast food, 3 piwa, butelka Dom Perignon
+12:15 ktos ci robi loda
+12:30 gra w golfa
+14:15 limuzyna z powrotem na lotnisko (pare szklaneczek whisky)
+14:30 lot do Monte Carlo
+15:30 popoludniowa wycieczka na ryby, wszystkie towarzyszki podrozy plci
+	zenskiej sa nago
+17:00 lot do domu, masaz calego ciala przez Anne Kournikowa
+18:45 kupa, prysznic, golenie
+19:00 ogladasz wiadomosci w telewizji: Brad Pitt zamordowany, marihuana
+	i hardcore-pornos zlegalizowane
+19:30 kolacja: rak na przystawke, Dom Perignon (1953), wielki stek, na
+	deser lody serwowane na nagich piersiach
+21:00 Napoleon Cognac, Cohuna, ogladasz sport w tv na
+	szerokopanoramicznym duzym odbiorniku, Niemcy pokonuja Holandie
+	11:0 (od tlum. wstaw wedlug preferencji np. Wisla Krakow - Legia
+	11:0, albo Widzew-Bayern 11:0)
+21:30 sex z trzema kobietami, wszystkie wykazuja sklonnosci do nimfomanii
+23:00 masaz i kapiel w whirlpoolu, do tego pizza i duze jasne
+23:30 ktos ci robi loda "na dobranoc"
+23:45 lezysz sam w lozku
+23:50 12-sekudnowy pierd, ktorego ton zmienia sie 4 razy i ktory zmusza
+	psa do opuszczenia pokoju.
+%
+WYJASNIENIE STRUKTURY UCZELNI
+
+REKTOR
+Przeskakuje najwyzsze budynki za jednym zamachem
+Jest silniejszy od lokomotywy
+Jest szybszy od pocisku
+Chodzi po wodzie
+Rozmawia z Bogiem
+
+PROREKTOR
+Przeskakuje niskie budynki za jednym zamachem
+Jest silniejszy od lokomotywy parowej
+Czasami dogania pocisk
+Chodzi po wodzie gdy morze jest spokojne
+Rozmawia z Bogiem, jezeli otrzyma specjalne pozwolenie
+
+DZIEKAN
+Przeskakuje niskie budynki z rozbiegu i o tyczce
+Jest prawie tak silny jak lokomotywa parowa
+Potrafi strzelac z pistoletu
+Chodzi po wodzie na krytym basenie
+Czasami Bóg zwraca sie do niego
+
+PRODZIEKAN
+Ledwo przeskakuje budke portiera
+Przegrywa z lokomotywa
+Czasami moze trzymac bron bez obawy o samookaleczenie
+Bardzo dobrze plywa
+Rozmawia ze zwierzetami
+
+PROFESOR
+Odbija sie na scianach probujac przeskoczyc jakikolwiek budynek
+Moze zostac przejechany przez lokomotywe
+Nie dostaje amunicji
+Plywa pieskiem
+Mowi do scian
+
+DOKTOR
+Wbiega do budynkow
+Rozpoznaje lokomotywe dwa na trzy razy
+Moczy sie pistoletem na wode
+Utrzymuje sie na wodzie tylko dzieki kamizelce ratowniczej
+Belkocze do siebie
+
+PANI Z DZIEKANATU
+Podnosi budynki i przechodzi pod nimi
+Zwala lokomotywe z torow
+Lapie pocisk zebami i go rozgryza
+Zamraza wode jednym spojzeniem.. .
+...Jest Bogiem
+%
+TRZY PRZYPADKI ZARZĄDZANIA PRZEDSIĘBIORSTWEM, KTÓRE ZASŁUGUJĄ NA
+ANALIZĘ.
+
+PRZYPADEK 1 Para narzeczonych spaceruje w parku. Kiedy mijają grupę
+emerytów, ci zaczynają mruczeć "co tam rączka za rączkę! Zabierz ją
+lepiej  do Motelu, lalusiu!" Chłopak bardzo zakłopotany, udaje że nic
+nie słyszy.
+Przechodzą koło placu budowy, skąd dobiegają ich krzyki robotników: "Te
+oferma! Przestań się przechadzać! Zaprowadź ją do ciemnego kąta i
+przeleć".
+Jeszcze bardziej zakłopotany, chłopak udaje dalej że nic nie słyszy. W
+końcu odprowadza dziewczynę do domu i żegna się z nią: "Do jutra
+kochanie".
+Ona: "Oczywiście, do jutra, głuchy kołku".
+WNIOSEK
+Słuchaj i wdrażaj rady  zewnętrznych konsultantów. To ludzie z
+doświadczeniem. Jeśli tego nie  zrobisz twój wizerunek profesjonalisty
+może na tym ucierpieć.
+
+PRZYPADEK 2 Więzień skazany na dożywocie za zabójstwo ucieka z
+więzienia.  W  Trakcie ucieczki chowa się w domu, w którym śpi młode
+małżeństwo.
+Zabójca przywiązuje mężczyznę do krzesła a kobietę do łóżka. Następnie
+na kilka   sekund zbliża swoją twarz do piersi kobiety, po czym
+wychodzi. Mąż  przesuwając krzesło, natychmiast zbliża się do żony i
+mówi: "kochanie, ten  mężczyzna od lat nie widział kobiety. Widziałem,
+że całował cię po  piersiach. Korzystając z okazji, że na chwilę
+wyszedł, chciałem ci  powiedzieć, żebyś robiła wszystko, co każe. Jeśli
+będzie się chciał z tobą  kochać, nie odmawiaj, a nawet sprawiaj
+wrażenie, że ci się podoba.  Nasze  życie od tego zależy. Bądź dzielna.
+Kocham cię".
+"Oczywiście" odpowiada  kobieta. "Cieszę się, że tak to właśnie widzisz.
+Rzeczywiście od lat nie  widział kobiety. Ale dla twojej informacji, Nie
+całował mnie w piersi.  Zbliżył się, aby wyszeptać mi do ucha, że Bardzo
+mu się podobasz i zapytał,  w którym miejsce w łazience mamy wazelinę.
+Bądź dzielny. Kocham cię."
+WNIOSEK
+Brak informacji, może doprowadzić do poważnych konsekwencji.  Aktualne
+informacje są podstawą zwycięstwa w ataku dzikiej konkurencji i
+Uniknięcia nieprzyjemnych niespodzianek.
+
+PRZYPADEK 3 Do apteki wchodzi młody człowiek i pyta "Mógłby mi pan
+magister  Sprzedać prezerwatywę. Moja narzeczona zaprosiła mnie na
+kolację do domu.
+Chodzimy ze sobą już trzy miesiące i robi się coraz goręcej. Myślę, że
+dzisiaj Wieczorem dam jej spróbować ciasteczko". Farmaceuta daje mu
+prezerwatywę i Młody człowiek wychodzi. Po chwili wraca i mówi "Niech mi
+pan da jeszcze jedną. Siostra narzeczonej to niezła pupcia. Nieraz
+rozchylała przede mną nogi, czasem widziałem nawet majteczki. Wydaje mi
+się, że i ona coś chce, a idę do nich do domu dzisiaj wieczorem ...  no
+wie  pan..." Farmaceuta wydaje mu drugą prezerwatywę. Po chwili
+młodzieniec  wraca ponownie. "A może jeszcze jedną, bo matka narzeczonej
+też niczego  sobie. Ociera się o mnie, kiedy przechodzę, a że idę do
+niech wieczorem do  domu, no to wie pan."
+Wieczorem przy kolacji chłopak siedzi za stołem obok  narzeczonej, a Po
+drugiej stronie stołu usiadły siostra i matka  narzeczonej. Wchodzi
+Ojciec narzeczonej i zasiada za stołem. Chłopak  opuszcza natychmiast
+głowę, Składa ręce do modlitwy i zaczyna się modlić  "dziękujemy Ci Boże
+za to jedzenie... dziękujemy Ci Boże za to jedzenie..."
+Mija pięć minut a on dalej się modli. Rodzina wymienia zdziwione
+spojrzenia, a narzeczona mówi: nie wiedziałam, kochanie, że jesteś taki
+wierzący! "A ja nie wiedziałem, że twój ojciec jest farmaceutą!"
+WNIOSEK
+Nigdy nie wyjawiaj swoich strategii osobom nieznajomym, ponieważ może to
+poważnie zaszkodzić twojej organizacji.
+%
+Około roku temu zmieniłam oprogramowanie na rzekomo lepsze. Do tej pory
+używałam pakietu Przyjaciel 5.0, a zamieniłam go na intensywnie
+promowany pakiet Mąż 1.0.  Niemal natychmiast po uruchomieniu nowego
+oprogramowania zauważyłam, że system pracuje dużo wolniej, szczególnie
+jeśli chodzi o aplikacje związane z kwiatami i bizuterią, które pod
+pakietem Przyjaciel 5.0 działały błyskawicznie i bezbłednie. Jakby tego
+było mało, instalacja pakietu Mąż 1.0 spowodowała automatyczne
+odinstalowanie tak wartościowych programów, jak Romantycznosc 9.9, za to
+zainstalowanie istnego smiecia informatycznego, jak żużel 4.5 i Liga
+Polska 3.0. Nie chce przy tym działac program Rozmowy 8.0, a próba
+uruchomienia programu Sprzątanie & Porządki 2.6 powoduje zawieszenie
+całego systemu.  Próbowałam ratowac system uruchamiajac Pretensje 5.3,
+ale bez widocznych rezultatów.
+
+Co robić?
+
+Zdesperowana
+
+***************************
+Szanowna Zdesperowana,
+
+Przede wszystkim pamietaj, iz Przyjaciel 5.0 to pakiet rozrywkowy, a Mąż
+1.0 to profesjonalny system operacyjny. Radze spróbowac komendy:
+C:/JUZ MNIE NIE KOCHASZ
+po czym zainstalowac Łzy 6.2. System Mąż 1.0 powinien wtedy
+automatycznie uruchomic aplikacje Poczucie Winy 3.0 i Kwiaty 7.0.
+Pamietaj!!! jednak: naduzywanie aplikacji Łzy 6.2 moze spowodowac, ze
+Mąż 1.0 zresetuje ustawienia na Milczenie 2.5, Hulaj Dusza 7.0 lub
+Gorzała 6.1.
+
+Ten ostatni jest szczególnie grozny, poniewaz powoduje wygenerowanie
+plików dzwiekowych Chrapanie.WAV.
+
+POD ŻADNYM POZOREM nie instaluj pakietu Tesciowa 1.0.
+
+Nie próbuj tez reinstalowac nowej wersji pakietu Przyjaciel.
+Oprogramowania te spowodują definitywne zniszczenie systemu operacyjnego
+Maz 1.0.
+
+Podsumowujac, system Maż 1.0 to mimo wszystko wspaniale oprogramowanie.
+Jedyne jego niedoskonałości to mala pamiec operacyjna i wolne
+instalowanie nowych aplikacji. Nieoficjalnie radze zastanowic sie nad
+zakupem dodatkowego oprogramowania, poprawiajacego dzialanie systemu Mąż
+1.0. Osobiscie polecam Wykwinta Kolacja 3.0 oraz Sex Bielizna 6.9.
+
+Powodzenia,
+Serwis Techniczny
+%
+O większego trudno zucha,
+Jak był Stefek Burczymucha...
+- Ja systemów się nie boję!
+Choćby FreeBSD... To dostoję!
+Windy?... Ja ich całą zgraję
+Pocrackuję i rozbroję!
+Linux!... Cóż Linux jak pingwin duży!
+Naczytałem się podróży!
+System jest nie w moim typie,
+bo obsługa vm się sypie.
+
+Qnx, BeOS?... Straszna nowina!
+To jest jakaś dłubanina!...
+(NT mijam zaś z daleka,
+bo nie lubię, gdy ktoś czeka!)
+Chcę się włamać? to dam radę!
+Zaraz za ocean jadę,
+I nie będę Stefkiem chyba
+Jak nie złamię Solarisa! -
+
+I tak przez dzień boży cały
+Zuch nasz trąbi swe pochwały.
+Aż raz usnął gdzieś przy kompie...
+Wtem się budzi niespodzianie.
+Patrzy, a tu logi na ekranie
+Do serwera ktosik mu się bierze.
+Jak nie zerwie się na nogi,
+Jak nie wrzaśnie z wielkiej trwogi -
+Pędzi, jak IP pakiety...
+- Hax0r, tato! Hax0r! Rety!.
+- Hax0er?... - ojciec się zapyta.
+- - Ach,  patrz w logi!...
+Miał nmapa ojcze drogi!
+I shellkodów cały pliczek
+Patrz! Patrz w logi, w mój dzienniczek!
+- Gdzież to było?
+- Tam przy komputerze,
+Właśnie do danych mi się bierze...
+
+Idzie ojciec, służba cała,
+Patrzą... A tu myszka biała,
+Po klawiaturze brykała
+i klawisze przyciskała.
+%
+"Dres dla opornych"
+...czyli jak zostać dresem w 48 godzin.
+
+Patrzysz z zazdrością na starych kolegów spod bloku, chciałbyś być jak
+oni, ale zniechęcają Cię ceny markowej odzieży sportowej? Mamy dobrą
+nowinę: najnowsze badania socjologiczne dowodzą, że bycie tzw. dresem
+nie jest już uwarunkowane okryciem wierzchnim, większość współczesnych
+badaczy skłania się ku tezie, że dresem może zostać każdy, niezależnie
+od ilości pasków na spodniach, a nawet pomimo ich braku, bez względu na
+wiek, wykształcenie i pochodzenie społeczne! Niniejszy samouczek gładko
+wprowadzi Cię w świat dresów bezpaskowych, semi-dresów, para-dresów,
+oraz tzw. dresów rzekomych. Wybierz jeden z opisanych niżej modeli,
+zastosuj się do wskazówek, Twoje życie wkrótce zmieni się na lepsze.
+
+Model 1 - "Szakal"
+
+Nazwa modelu pochodzi od pseudonimu jednego z bohaterów filmu "Killerów
+dwóch". Wersja ekonomiczna.
+
+Cechy charakterystyczne: sześciodniowy zarost (pozorowany na naturalny).
+Strój dowolny, jednak zalecamy unikać flanelowych koszul z podwiniętymi
+rękawami i torby na ramię - w czasach późnego Edwarda taki zestaw
+charakteryzował intelektualistę-dysydenta, obecnie możemy być omyłkowo
+brani za nielegalnego robotnika budowlanego. Na codzień możesz nosić
+zarówno dres, jak i garnitur.
+
+Zestaw ćwiczeń: zamaszysty pstryk kiepem, zsynchronizowany ze
+splunięciem na chodnik. W ćwiczeniu najważniejsze jest zachowanie
+symetrii ruchów: kiepem strzelamy z prawej ręki - spluwamy na lewo. I na
+odwrót. Powtarzać dwa razy dziennie, w drodze do pracy, oraz wieczorem
+na balkonie.
+
+Model 2 - "Zico" (inaczej "Człowiek - promocja")
+
+Cechy zewnętrzne: styropianowe klapki "Zico" (2,99zł), luźne spodenki
+"Bahama" (4,89zł), podkoszulek na ramiączka (dostępny bezpłatnie w
+ulicznych pojemnikach z firmowym logo PCK).
+
+Zestaw ćwiczeń: największy nacisk kładziemy na właściwą emisję głosu.
+Ćwiczenia prowadzimy w wąskiej uliczce osiedlowej o dobrej akustyce,
+koniecznie po godzinie 22:00. Stajemy w lekkim rozkroku, rozluźniamy
+przeponę i z całą mocą wygłaszamy następującą kwestię: "po browar k**wa
+idę!!!". Właściwy efekt uzyskamy wtedy, gdy echo powróci do nas
+dokładnie po sekundzie, co oznacza, że jesteśmy znakomicie słyszani w
+budynkach odległych o około 170 metrów.
+
+Ćwiczenia można zastąpić powieszeniem na szyi złotego łańcucha, tzw.
+"golda" (warto tu nadmienić, że zawieszenie "golda" na szyi lub
+nadgarstku automatycznie czyni z nas semi-dresa w każdej sytuacji,
+jednak zdaniem redakcyjnego trenera jest to pójście na łatwiznę).
+
+Model 3 - "Jancio smrodnik" (inaczej "Pierdziołek")
+
+Model dość kosztowny w utrzymaniu, wymaga posiadania pojazdu mechanicznego.
+
+Cechy zewnętrzne: tjuningowany tłumik o zwiększonej emisji spalin i
+hałasu.  Dla wzmocnienia efektu warto dodać szyberdach, alufelgi,
+niebieskie neonówki i naklejkę Sony na tylną szybę. Kluczowym motywem
+jest wspomniany wyżej pierdziołek, w postaci przykręcanej do wydechu,
+chromowanej fujary. Również i tu warto zadbać o symetrię, montując dwa
+pierdziołki, po obu stronach pojazdu. Ułatwi to zachowanie równowagi na
+ostrych zakrętach, ale zwiększy koszty.
+
+Ćwiczenia: posiadanie w aucie pierdziołka automatycznie zwalnia z
+ćwiczeń.  Jesteśmy pełnoprawnym para-dresem. Raz dziennie przecieramy
+pierdziołek miękką szmatką, celem utrzymania połysku.
+
+Model 4 - "Gorączka sobotniej nocy"
+
+Model imprezowy. Cechy charakterystyczne to przede wszystkim tzw.
+wiotkie spodnie, najlepiej w kolorze białym (w momencie zakupu),
+zalecane tkaniny to zwiewna bawełna i nieszeleszczące gatunki ortalionu,
+do tego cienki sweter "w serek", lakierki, a w chłodniejsze wieczory
+skórzana kurtka o charakterystycznym, nijakim kroju. Gotowe zestawy do
+nabycia w "Kupieckich domach towarowych". Fryzura a la Ethan Hawk w
+filmie "Gattaca", czyli dość krótka, prosta, z obowiązkową kapką żelu na
+grzywkę, pozwalającą zakręcić nad czołem sztywną falkę, tudzież postawić
+małego jeżyka.
+
+Ćwiczenia: stawiamy na gibkość bioder i kolan, ćwiczymy przy muzyce
+rytmicznej o prostych tonacjach i nieskomplikowanej warstwie wokalnej,
+gdyż bliska jest nam prostota formy i treści. Szczęśliwym zbiegiem
+okoliczności, właściwe tło muzyczne zapewniają nam bezpłatnie tzw.
+galerie i hipermarkety, czynne 7 dni w tygodniu do późnych godzin
+wieczornych.
+
+Co zrobić, jeśli nie widzisz siebie w żadnej z powyższych ról? Nie stać
+Cię na niklowany pierdziołek, albo nie masz go do czego przykręcić?
+Zarost po sześciu dniach wygląda nadal jak jednodniowy, czyli tak,
+jakbyś się zwyczajnie zapomniał umyć? Ukradli ci lakierki? Istnieje
+tania, uniwersalna przepustka do kolorowego świata semi-dresów. Jest nią
+najzwyklejsza czapeczka palantowa, tzw. "imbecylka", oraz okrzyk "Ale
+zaj*biiistaaaaa komórka!!!", z akcentem na przedostatnią sylabę w
+przymiotniku.
+%
+... When somebody mentions how hard it is to use OpenBSD, a typical response from Theo
+might be, "OpenBSD wasn't written for children." Theo doesn't send flames; he
+sends napalm. I know security software developers -- hardcore people, the kind
+who like to shoot guns and buy night-vision goggles -- who have gotten e-mails
+from Theo that made them weep. ...
+				TECHSPLOITATION: The Mysteries of Theo
+%
+Nauczycielka pierwszej klasy, Pani Magda miala ciagle
+klopoty z jednym z uczniów. Nauczycielka spytala:
+- Jasiu, o co ci chodzi?
+
+Jasiu odpowiedzial,
+
+- Jestem za madry do pierwszej klasy. Moja siostra jest w
+trzeciej klasie a ja jestem madrzejszy od niej! Mysle, ze
+tez powinienem byc w trzeciej klasie!
+
+Pani Magda miala dosyc. Zabrala Jasia do gabinetu dyrektora.
+Kiedy Jasiu czekal w sekretariacie, nauczycielka wyjasnila
+dyrektorowi cala sytuacje.Dyrektor powiedzial pani Magdzie,
+ze chcialby zrobic chlopcu test i jesli nie odpowie na zadne
+pytanie bedzie musial wrócic do pierwszej klasy i nie sprawiac
+wiecej zadnych klopotów. Nauczycielka sie zgodzilla. Jasiowi
+wytlumaczono wszystkie warunki i zgodzil sie na
+przeprowadzenie testu.
+
+Dyrektor: Ile jest 3 x 3?
+Jasiu: 9
+
+Dyro: Ile jest 6 x 6?
+Jasiu: 36.
+
+I Jasiu odpowiadal na kazde pytanie, które wymyslal dyrektor
+uwazajac, ze trzecioklasista powinien znac odpowiedzi.
+Dyrektor spojrzal na Pania Magde i powiedzial:
+
+- Mysle, ze Jasiu moze isc do trzeciej klasy.
+
+Pani Magda spytala czy i ona moze zadac Jasiowi kilka pytan?
+Zarówno dyrektor jak i Jasiu zgodzili sie (i sie zaczelo...)
+Pani Magda spytala:
+
+Co krowa ma cztery, czego ja mam tylko dwa?
+Jasiu, po chwili: Nogi.
+
+Pani Magda: Co ty masz w spodniach, a ja tego nie mam?
+Jasiu: Kieszenie.
+
+Pani Magda: Co zaczyna sie na K konczy na S, jest
+owlosione, zaokraoglone, smakowite i zawiera bialawy plyn?
+Jasiu: Kokos
+
+Pani Magda: Co wchodzi twarde i rózowe a wychodzi miekkie i klejace?
+Oczy dyra otworzyly sie naprawde szeroko, ale zanim zdazyl
+powstrzymac odpowiedz Jasia, Jasiu odpowiedzial: Guma
+do zucia
+
+Pani Magda: Co robi mezczyzna stojac, kobieta siedzac, a
+pies na trzech nogach? Dyrektor ponownie otworzyl szeroko
+oczy, ale zanim zdazyl sie odezwac... Jasiu: Podaje dlon.
+
+Pani Magda: Teraz zadam kilka pytan z serii Kim jestem?,
+dobrze? Jasiu: OK.
+
+Pani Magda: Wkladasz we mnie drag. Przywiazujesz mnie. Jest
+mi mokro wczesniej niz tobie. Jasiu: Namiot
+
+Pani Magda: Palec wchodzi we mnie. Bawisz sie mna, kiedy
+sie nudzisz. Drózba zawsze ma mnie pierwszy. Dyrektor
+patrzy niespokojnie i widac, ze jest nieco spiety.
+Jasiu: Obraczka slubna
+
+Pani Magda: Mam rózne rozmiary. Gdy nie czuje sie dobrze,
+kapie. Kiedy mnie dmuchasz, czujesz sie dobrze.
+Jasiu: Nos
+
+Pani Magda: Mam twardy drazek. Mój szpic zaglebia sie.
+Wchodzac z drzeniem. Jasiu: Strzala. Dyrektor odetchnal
+z ulga: Wyslijcie Jasia od razu na studia! Ja sam na
+ostatnie dziesiec pytan zle odpowiedzialem!"
+%
+moje uwagi na temat gatunkow zyjacych w naszym panstwie..
+student (2004.10.27 23:35)
+
+  nie wiem gdzie ci naukowcy szukają i po co aż tak daleko... skoro już tu u
+nas w polsce mamy wiele przykładow ciekawych gatunków... już po wyjściu z bloku
+można zobserwować gatunek zwany blokersus-pospolitus-idiotus który żyje
+stadnie..pojedyncze osobniki sa strachliwe i boja się innych ludzi... niedaleko
+od nich żyja kolejne ciekawe okazy nazywane przez miejscowych dresus-szelestos i
+ziomkos-pustos-gimnazjalistos te dwa gatunki podobnie jak pierwszy żyja
+przeważnie stadnie jednak nie są groźne poprostu tylko śmiesznie wygladają a
+zachowaniem przypominaja (...) niech sobie każdy sam dopowie... jednak wychodząc
+poza naszą ulice i idąc np w kierunku jakiegoś stadionu możemy spotkać gatunek o
+nazwie kibolos-palkos-wryjos ten szczegolnie groźny gatunek o niezwykle małym
+poziomie inteligencji żyje tylko w większych stadach przeważnie przy wodopoju
+(browary), dlatego nie polecamy się do niego zbliżać, aczkolwiek jeśli nam sie
+takie cos przytrafi to najlepiej się pomodlić (katolicy i innowyznaniowcy)
+natomiast ateistom polecam wyciągnąć komórke, zadzwonić i się pożegnać z rodziną
+i przyjaciółmi bo się ich prawdopodobnie więcej nie zobaczy... a wrącajac do
+tego gatunku to pojedynczego osbnika nie da się praktycznie wypatrzeć w tłumie,
+ponieważ boj sie o swój tyłek... jednak to nie koniec naszej wycieczki po
+naszych kochanych miastach... idąc do centrum np. miasta na "W" spotkamy we wsi
+(ul.wiejska) wielką jaskinie w której żyja nie groźne fizycznie ale podstepnę
+osobniki o nazwie posłos-złodziejos-nierobos.. ten gatunek z kolej jest bardzo
+podstępny i przebiegły...potrafi bardzo sprawnie wyzyskiwać inne gatunki (między
+innymi te wyżej opisane, te są bardzo podatne)... to są głowne gatunki ludzi
+występujące w naszym państwie inny przeważnie nie sa groźne ale bardzo
+głupkowate np: policjantos-łapuwkos-gonius-staros-bab cios lub poza miastami
+lepperos-rolnikos-kretynios... jeśli ktoś inny jeszcze zauważył jakieś godne
+uwagi osobniki to proszę o ich dopisanie... wiedzy o naszej miejskiej faunie
+nigdy za mało...
+po nocy przypomniałem sobie o jeszcze jednym gatunku... powiązanym z jednym
+przezemnie opisanym gatunkiem a mianowicie
+europosłos-uciekinios-z-polskos-dla-pi eniądzos ten gatunek jescze bardziej
+opanował metody wyzysku, aczkolwiek w przypadku tego głownie osobniki
+pochodzenia polskiego sa odpowiednio puste ponieważ innzch narodowści działaja
+dla dobra ogułu czego nie da sie powiedzieć o tych z naszych stron... ale
+wstając dzisiaj rano także do mnie doszło że jeszcze jest jeden bardzo śmieszny
+gatunek, a jest to hiphopolos-myślos-że-śpiewajos ten ciekawy (coś) bo nie wiem
+jak to nazwać... zajmuje się głównie wykrzykiwaniem dziwnych haseł chyba do
+muzyki (ale to jest tylko dla niego muzyka), te osbniki są wyjatkowo puste
+aczkolwiek ciągna za sobą cale rzesze podonie nie grzeszących inteligencją
+osobnikow z gatunkow opisanych już przezemnie... jeszcze raz dziękuje za uwage
+%
+ZIMNA WOJNA.
+
+W skład amerykańskiej floty wojennej wszedł supernowoczesny, gigantyczny
+okręt podwodny "USS Jimmy Carter", zbudowany kosztem 3,2 miliarda dolarów
+i pierwszy nazwany imieniem żyjącego byłego prezydenta - podały amerykańskie
+media.
+
+W skład rosyjskiej floty wojennej wszedł supernowoczesny, super gigantyczny
+okręt podwodny "PUTIN", zbudowany kosztem 32,2 miliarda dolarów i pierwszy
+nazwany imieniem żyjącego rzadzacego prezydenta
+ - podały rosyjskie media.
+Okręt, długości około 550 metrów, ważacy 83.000 ton i wyposażony w rakiety
+atomowe, będzie pełnił funkcje zwiadowcze - jest m.in. w stanie podłączać się
+do podwodnych kabli światłowodowych i podsłuchiwać wszystkie rozmowy
+telefoniczne, sms-y oraz pocztę elektroniczną na całym świecie.
+
+W skład polskiej floty wojennej wszedł supernowoczesny okręt podwodny
+"Kwaśniewski".
+Zbudowany kosztem 1200 zł, mierzący 30 cm okręt jest w stanie pływać na jednym
+komplecie baterii nawet 4 godziny. Maksymalne zanurzenie wynosi 50 cm.
+Właśiciel okrętu jest w stanie podłaczać się do studzienek telekomunikacyjnych
+i dzwonić do "Dżordża" na cudzy koszt.
+
+W skład czeskiej floty wojennej wszedł nowoczesny okręt podwodny "Waclaw Havel",
+okręt wybudowano kosztem trzech baryłek piwa i sześciu knedli,
+mierzy on 12 milimetrów i może osiągać prędkość 2 węzłów. Okręt jest wyposażony
+w kij hokejowy i plakaty Pavla Nedveda.
+%
+Jako dzieciak poszukiwałem w księgarni na stacji metra książek traktujących
+o otwieraniu zamków, wydobywania rąk z kajdanek, tworzenia fałszywych
+tożsamości i tym podobnych rzeczach, którymi interesują się wszystkie dzieci.
+
+-- Kevin Mitnick   "Sztuka Podstępu"
+%
+Moi drodzy, czy już znacie
+Nowy przykład rusofobii?
+Na rosyjskim konsulacie
+Usiadł gołąb i ... narobił!
+
+Nie porusza was ten skandal?
+Z rosyjskiego państwa kpina?
+Toż to polityczna granda!
+Toż to napaść na Putina!
+
+Reagować trzeba ostro,
+Aresztować wnet gołębia,
+By w stosunkach Polski z Rosją
+Kryzys już się nie pogłębiał.
+
+To jest zbrodnią niesłychaną,
+A nie jakimś tam wygłupem,
+Że ten gołąb dzisiaj rano -
+Ach! - na Rosję zrobił kupę!
+
+Skażcie go na rozstrzelanie!
+Ale to jest jeszcze mało -
+Nie krępujcie się Rosjanie
+I ukarzcie Polskę całą!
+
+Polska, w geście dobrej woli,
+Niech z pokorą przyjmie karę,
+Mianowicie niech pozwoli,
+Żeby Putin był jej carem.
+%

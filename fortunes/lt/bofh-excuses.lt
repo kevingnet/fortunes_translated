@@ -1,0 +1,1359 @@
+BOFH pasiteisinimas # 1:laikrodžio greitis
+
+%
+BOFH pasiteisinimas # 2:saulės raketos
+
+%
+BOFH pasiteisinimas # 3:elektromagnetinė spinduliuotė iš palydovo nuolaužų
+
+%
+BOFH pasiteisinimas # 4:statinis iš nailono apatinis trikotažas
+
+%
+BOFH pasiteisinimas # 5:statinis iš plastiko skaidrių taisyklių
+
+%
+BOFH pasiteisinimas # 6:globalinis atšilimas
+
+%
+BOFH pasiteisinimas # 7:prastos galios kondicionierius
+
+%
+BOFH pasiteisinimas # 8:statinio didėjimas
+
+%
+BOFH pasiteisinimas # 9:Doplerio efektas
+
+%
+BOFH pasiteisinimas # 10:aparatūros streso lūžiai
+
+%
+BOFH pasiteisinimas # 11:magnetinis trukdžių iš pinigų / kredito kortelės
+
+%
+BOFH pasiteisinimas # 12:sausos siūlės ant kabelio kištukas
+
+%
+BOFH pasiteisinimas # 13:mes laukia [telefonas bendrovė] nustatyti, kad linija
+
+%
+BOFH pasiteisinimas # 14:skamba kaip "Windows problemos, bandykite skambinti" Microsoft "palaikymo
+
+%
+BOFH pasiteisinimas # 15:laikinas maršruto anomalija
+
+%
+BOFH pasiteisinimas # 16:kažkas buvo apskaičiuoti pi serveryje
+
+%
+BOFH pasiteisinimas # 17:riebalų elektronų linijų
+
+%
+BOFH pasiteisinimas # 18:perteklius bangą apsaugos
+
+%
+BOFH pasiteisinimas # 19:slankiojo kablelio procesorius perpildymo
+
+%
+BOFH pasiteisinimas # 20:padalinti po nuline paklaida
+
+%
+BOFH pasiteisinimas # 21:Suderinamumas su POSIX problema
+
+%
+BOFH pasiteisinimas # 22:monitorius rezoliucija per didelė
+
+%
+BOFH pasiteisinimas # 23:netinkamai orientuotos klaviatūra
+
+%
+BOFH pasiteisinimas # 24:tinklo paketų keliauja į kalną (naudoti vežėjas karvelis)
+
+%
+BOFH pasiteisinimas # 25:Mažėja elektronų srautas
+
+%
+BOFH pasiteisinimas # 26:Pirmasis šeštadienis po pirmos pilnaties žiemą
+
+%
+BOFH pasiteisinimas # 27:Radiosity išeikvojimas
+
+%
+BOFH pasiteisinimas # 28:CPU radiatorius neveikia
+
+%
+BOFH pasiteisinimas # 29:Jis veikia kaip Wang padarė, ką problema
+
+%
+BOFH pasiteisinimas # 30:pozitronų maršrutizatorius gedimas
+
+%
+BOFH pasiteisinimas # 31:korinio telefono trukdžių
+
+%
+BOFH pasiteisinimas # 32:techtonic stresas
+
+%
+BOFH pasiteisinimas # 33:pjezoelektrinis trukdžių
+
+%
+BOFH pasiteisinimas # 34:(L) vartotojas klaida
+
+%
+BOFH pasiteisinimas # 35:dirba kaip sukurtas
+
+%
+BOFH pasiteisinimas # 36:dinamiškas programinė susiejimas lentelė sugadintas
+
+%
+BOFH pasiteisinimas # 37:sunkiųjų gravitacija svyravimas, perkelti kompiuterį aukšte greitai
+
+%
+BOFH pasiteisinimas # 38:sekretorius prijungtas plaukų džiovintuvą į UPS
+
+%
+BOFH pasiteisinimas # 39:teroristų veikla
+
+%
+BOFH pasiteisinimas # 40:nėra pakankamai atminties, eikite gauti sistemos atnaujinimas
+
+%
+BOFH pasiteisinimas # 41:nutraukti konfigūravimo klaida
+
+%
+BOFH pasiteisinimas # 42:spagečiai kabelis priežastis paketas nepakankamumas
+
+%
+BOFH pasiteisinimas # 43:bosas pamiršo sistemos slaptažodį
+
+%
+BOFH pasiteisinimas # 44:Nedarbo dienos - sistema, veikianti kreditai ne įkrauti
+
+%
+BOFH pasiteisinimas # 45:viruso ataka, Luser atsako
+
+%
+BOFH pasiteisinimas # 46:nuotekų bakas krantų ant kompiuterio
+
+%
+BOFH pasiteisinimas # 47:Pilnas Praeinantis Lockout
+
+%
+BOFH pasiteisinimas # 48:blogai eterio kabelių
+
+%
+BOFH pasiteisinimas # 49:Bogon emisija
+
+%
+BOFH pasiteisinimas # 50:Pakeisti į Žemės sukimosi greitis
+
+%
+BOFH pasiteisinimas # 51:Kosminių spindulių dalelės sudužo per kietojo disko patiekalas
+
+%
+BOFH pasiteisinimas # 52:Kvapas iš nehigieniškos Sargų darbuotojų sudaužyta juosta galvas
+
+%
+BOFH pasiteisinimas # 53:Mažai žiurkėno gerai veikia rato turėjo vainikinių; laukia pakeitimo būti Fedexed iš Vajomingas
+
+%
+BOFH pasiteisinimas # 54:Blogio šunys užhipnotizuoti nakties pamainą
+
+%
+BOFH pasiteisinimas # 55:Santechnikas supainiojome maršruto skydelį dekoratyvinis sienos šviestuvas
+
+%
+BOFH pasiteisinimas # 56:Elektrikai padarė pūsti į maitinimo
+
+%
+BOFH pasiteisinimas # 57:Groundskeepers pavogė root slaptažodį
+
+%
+BOFH pasiteisinimas # 58:Aukšto slėgio sistemos gedimas
+
+%
+BOFH pasiteisinimas # 59:nepavyko bandymai, sistemos poreikius pertvarkyta
+
+%
+BOFH pasiteisinimas # 60:sistema buvo priminti,
+
+%
+BOFH pasiteisinimas # 61:nepatvirtinamas pagal FCC
+
+%
+BOFH pasiteisinimas # 62:reikia, į kuriuos vyniojami sistemą aliuminio folija, neišspęsi
+
+%
+BOFH pasiteisinimas # 63:netinkamai įžemintas, prašome palaidoti kompiuterį
+
+%
+BOFH pasiteisinimas # 64:CPU reikia perkalibravimo
+
+%
+BOFH pasiteisinimas # 65:sistema turi būti paleistas
+
+%
+BOFH pasiteisinimas # 66:tiek kibiras perpildymo
+
+%
+BOFH pasiteisinimas # 67:dekodować kodą reikia iš programinės įrangos kūrimo kompanija
+
+%
+BOFH pasiteisinimas # 68:galima tik reikia žinoti pagrindą
+
+%
+BOFH pasiteisinimas # 69:mazgas kabeliai sukelia duomenų srautas tapti susukti ir sulenkta
+
+%
+BOFH pasiteisinimas # 70:lizdavietes kuojų trumpuoju iš eterio laidą
+
+%
+BOFH pasiteisinimas # 71:Failų sistema yra pilna apie tai
+
+%
+BOFH pasiteisinimas # 72:Šėtonas tai padarė
+
+%
+BOFH pasiteisinimas # 73:Demonai tai padarė
+
+%
+BOFH pasiteisinimas # 74:Jūs esate iš atminties
+
+%
+BOFH pasiteisinimas # 75:Ten yra ne koks nors problema
+
+%
+BOFH pasiteisinimas # 76:Unoptimized kietąjį diską
+
+%
+BOFH pasiteisinimas # 77:Typo kodą
+
+%
+BOFH pasiteisinimas # 78:Taip, taip, jos vadinamas dizainas apribojimas
+
+%
+BOFH pasiteisinimas # 79:Žiūrėk, bičiulių: "Windows 3.1 yra bendras apsauga kaltės.
+
+%
+BOFH pasiteisinimas # 80:Štai puikus kompiuteris turite ten Ar atkreipei dėmesį į tai, kaip ji veiktų kaip BSD mašina?
+
+%
+BOFH pasiteisinimas # 81:Prašome atsiprašau, turiu grandinės kintamosios srovės linijos per mano galvą gauti šio duomenų bazės veikimą.
+
+%
+BOFH pasiteisinimas # 82:Taip, yo mama suknelės jus juokingi ir jums reikia pele trinti failus.
+
+%
+BOFH pasiteisinimas # 83:Pagalbiniai darbuotojai pakabinti virš, siųsti aspirino ir grįžti vėliau.
+
+%
+BOFH pasiteisinimas # 84:Kažkas stovi ant eterneto kabelio, sukelia keistenybė kabelis
+
+%
+BOFH pasiteisinimas # 85:"Windows 95" nelegalias "funkcija"
+
+%
+BOFH pasiteisinimas # 86:Neūžauga paketai
+
+%
+BOFH pasiteisinimas # 87:Slaptažodis pernelyg sudėtingas, kad iššifruoti
+
+%
+BOFH pasiteisinimas # 88:Bosas vaikas pakliuvom mašiną
+
+%
+BOFH pasiteisinimas # 89:Elektromagnetinis energijos nuostoliai
+
+%
+BOFH pasiteisinimas # 90:biudžeto mažinimą
+
+%
+BOFH pasiteisinimas # 91:Pelės kramtyti per maitinimo kabelis
+
+%
+BOFH pasiteisinimas # 92:Nuolat failą rankena (kitą kartą naudoti Tupperware (tm)!)
+
+%
+BOFH pasiteisinimas # 93:Žanras dar neįgyvendino
+
+%
+BOFH pasiteisinimas # 94:Interneto nutraukimo
+
+%
+BOFH pasiteisinimas # 95:Pentium FDIV klaidą
+
+%
+BOFH pasiteisinimas # 96:Pardavėjo nebepalaiko produktą
+
+%
+BOFH pasiteisinimas # 97:Smulkių gyvūnų Kamikadzė išpuolis maitinimo šaltiniai
+
+%
+BOFH pasiteisinimas # 98:Pardavėjas įdėti klaidą ten.
+
+%
+BOFH pasiteisinimas # 99:SIMM Šķērsruna.
+
+%
+BOFH pasiteisinimas # 100:IRQ nebaigusių
+
+%
+BOFH pasiteisinimas # 101:Sutrauktų stuburą
+
+%
+BOFH pasiteisinimas # 102:Maitinimo įmonė išbandyti naują įtampos šuolį (kūrimas) įranga
+
+%
+BOFH pasiteisinimas # 103:operatoriai streikuojantys dėl skaldytų kavos aparatas
+
+%
+BOFH pasiteisinimas # 104:Backup Tape perrašyti kopiją System Manager mėgstamą CD
+
+%
+BOFH pasiteisinimas # 105:UPS pertraukė serverio valdžią
+
+%
+BOFH pasiteisinimas # 106:Elektrikas nežinojo, ką geltona kabelis buvo todėl jis yanked Ethernet iš.
+
+%
+BOFH pasiteisinimas # 107:Klaviatūra yra neprijungtas
+
+%
+BOFH pasiteisinimas # 108:Oro kondicionavimo vandentiekio vamzdis plyšus virš mašinų patalpos
+
+%
+BOFH pasiteisinimas # 109:Elektros pastotė automobilių stovėjimo aikštelė susprogdino.
+
+%
+BOFH pasiteisinimas # 110:"Rolling Stones" koncertas žemyn kelio sukėlė rudi iš
+
+%
+BOFH pasiteisinimas # 111:Pardavėjas vairavo virš procesoriaus lentos.
+
+%
+BOFH pasiteisinimas # 112:Monitorius prijungtas prie nuosekliojo prievado
+
+%
+BOFH pasiteisinimas # 113:Šaknų vardų serverius yra out of sync
+
+%
+BOFH pasiteisinimas # 114:elektromagnetiniai impulsai iš prancūzų virš žemės Nuke bandymų.
+
+%
+BOFH pasiteisinimas # 115:klaviatūroje kosmoso baras generuoja melagingus keycodes.
+
+%
+BOFH pasiteisinimas # 116:tikrieji ttys tapo pseudo ttys ir atvirkščiai.
+
+%
+BOFH pasiteisinimas # 117:spausdintuvas galvoja savo maršrutizatorių.
+
+%
+BOFH pasiteisinimas # 118:maršrutizatorius galvoja savo spausdintuvą.
+
+%
+BOFH pasiteisinimas # 119:Pikti hakeriai iš Serbijos.
+
+%
+BOFH pasiteisinimas # 120:mes tiesiog perėjo į FDDI.
+
+%
+BOFH pasiteisinimas # 121:halonas sistema išvyko ir nužudė operatorius.
+
+%
+BOFH pasiteisinimas # 122:nes Billas Gatesas yra Jehovos liudytojas ir taip niekas negali dirbti Šv Svifin diena.
+
+%
+BOFH pasiteisinimas # 123:vartotojo kompiuterių santykis per didelis.
+
+%
+BOFH pasiteisinimas # 124:vartotojas kompiuterių racione per mažas.
+
+%
+BOFH pasiteisinimas # 125:mes tiesiog perėjo į "Sprint".
+
+%
+BOFH pasiteisinimas # 126:ji turi Intel Inside
+
+%
+BOFH pasiteisinimas # 127:Dažna bitai diske.
+
+%
+BOFH pasiteisinimas # 128:Maitinimo bendrovė, turinti EMP problemų su savo reaktorių
+
+%
+BOFH pasiteisinimas # 129:Žiedas turi kitą raktą
+
+%
+BOFH pasiteisinimas # 130:naujas valdymo
+
+%
+BOFH pasiteisinimas # 131:Telnet: Nepavyko prisijungti prie nutolusio kompiuterio: ryšys atmestas
+
+%
+BOFH pasiteisinimas # 132:SCSI grandinės overterminated
+
+%
+BOFH pasiteisinimas # 133:Tai ne prijungtas.
+
+%
+BOFH pasiteisinimas # 134:nes tinklo VVG dėl per daug žmonių žaisti deathmatch
+
+%
+BOFH pasiteisinimas # 135:Jūs įdėti diską aukštyn kojom.
+
+%
+BOFH pasiteisinimas # 136:Demonai prarasti sistemoje.
+
+%
+BOFH pasiteisinimas # 137:Vartotojas platino pornografiją apie serverio; sistema konfiskavo FTB.
+
+%
+BOFH pasiteisinimas # 138:BNC (smegenų neprijungta)
+
+%
+BOFH pasiteisinimas # 139:UBNC (vartotojas smegenų neprijungta)
+
+%
+BOFH pasiteisinimas # 140:LBNC (Luser smegenų neprijungta)
+
+%
+BOFH pasiteisinimas # 141:diskai verpimo atgal - perjungti pusrutulio megztinis.
+
+%
+BOFH pasiteisinimas # 142:naujas vaikinas kryžminio prijungto telefono linijos su kintamosios srovės energijos autobusu.
+
+%
+BOFH pasiteisinimas # 143:teko naudoti plaktukas nemokamai įstrigo diskas galvas.
+
+%
+BOFH pasiteisinimas # 144:Per mažai computrons prieinama.
+
+%
+BOFH pasiteisinimas # 145:Butas padangos universalas su juostomis. ( "Niekada nenuvertinkite universalas pilna juostų Hurling žemyn greitkelio pralaidumą" Andrew S. Tannenbaum)
+
+%
+BOFH pasiteisinimas # 146:Ryšių palydovą naudoja kariuomenė Žvaigždžių karų.
+
+%
+BOFH pasiteisinimas # 147:Šalis-kirminas Aloha protokolą.
+
+%
+BOFH pasiteisinimas # 148:Įdėkite monetą naują žaidimą
+
+%
+BOFH pasiteisinimas # 149:Rasos ant telefono linijos.
+
+%
+BOFH pasiteisinimas # 150:ARCSERVE vėl sudužo serverį.
+
+%
+BOFH pasiteisinimas # 151:Kai vienas reikėjo PowerStrip, todėl jie ištraukė jungiklio kištuką.
+
+%
+BOFH pasiteisinimas # 152:Mano ponis uodegos nukentėjo įjungimo / išjungimo jungiklis ant ilgintuvo.
+
+%
+BOFH pasiteisinimas # 153:Didelis, kad mažai endian konvertavimo klaida
+
+%
+BOFH pasiteisinimas # 154:Jūs galite nustatyti failų sistemos, tačiau jūs negalite sureguliuoti žuvį (iš daugelio tunefs žinyno puslapių)
+
+%
+BOFH pasiteisinimas # 155:kvailas terminalas
+
+%
+BOFH pasiteisinimas # 156:Zombie procesai klaidžioja kompiuterį
+
+%
+BOFH pasiteisinimas # 157:Neteisingas laiko sinchronizavimas
+
+%
+BOFH pasiteisinimas # 158:išmiręs procesai
+
+%
+BOFH pasiteisinimas # 159:Atkaklus procesai
+
+%
+BOFH pasiteisinimas # 160:ne nereikalingas ventiliatorius nepakankamumas
+
+%
+BOFH pasiteisinimas # 161:stebėti VLF nutekėjimo
+
+%
+BOFH pasiteisinimas # 162:klaidas RAID
+
+%
+BOFH pasiteisinimas # 163:ne "bet" klavišą klaviatūroje
+
+%
+BOFH pasiteisinimas # 164:pašaknio puvinių
+
+%
+BOFH pasiteisinimas # 165:stuburas Skoliozė
+
+%
+BOFH pasiteisinimas # 166:/ Pub / pietūs
+
+%
+BOFH pasiteisinimas # 167:pernelyg susidūrimų ir nėra pakankamai paketais greitosios pagalbos
+
+%
+BOFH pasiteisinimas # 168:le0: nė vienas oro vežėjas: siųstuvas kabelis problema?
+
+%
+BOFH pasiteisinimas # 169:transliuoti paketus neteisinga dažnio
+
+%
+BOFH pasiteisinimas # 170:Popper negali apdoroti Jumbo branduolį
+
+%
+BOFH pasiteisinimas # 171:PRANEŠIMAS: ALLOC: / dev / null: failų sistema visiškai
+
+%
+BOFH pasiteisinimas # 172:pseudo vartotojas apie pseudo-terminalo
+
+%
+BOFH pasiteisinimas # 173:Ciklas traversal iš sugrįžimas kalno taškų
+
+%
+BOFH pasiteisinimas # 174:stuburas reguliavimas
+
+%
+BOFH pasiteisinimas # 175:OS pavertė į diską
+
+%
+BOFH pasiteisinimas # 176:garai iš garinimo lipni-NOTE klijai
+
+%
+BOFH pasiteisinimas # 177:sticktion
+
+%
+BOFH pasiteisinimas # 178:trumpas kojos ant proceso stalo
+
+%
+BOFH pasiteisinimas # 179:multicasts skaldytų pakelių
+
+%
+BOFH pasiteisinimas # 180:eteris nuotėkio
+
+%
+BOFH pasiteisinimas # 181:Atilla Hub
+
+%
+BOFH pasiteisinimas # 182:endothermal kalibravimas
+
+%
+BOFH pasiteisinimas # 183:failų sistema nėra pakankamai didelis, kad Jumbo Kernel Patch
+
+%
+BOFH pasiteisinimas # 184:kilpa rasta linijos nereikalingas sugrįžimas
+
+%
+BOFH pasiteisinimas # 185:sistema suvartoti visą popierių ieškai
+
+%
+BOFH pasiteisinimas # 186:leidimas nesuteiktas
+
+%
+BOFH pasiteisinimas # 187:Formato puslapyje. Laukti...
+
+%
+BOFH pasiteisinimas # 188:..disk ar procesorius yra ant ugnies.
+
+%
+BOFH pasiteisinimas # 189:SCSI ne per plati.
+
+%
+BOFH pasiteisinimas # 190:Patentuotas Informacija.
+
+%
+BOFH pasiteisinimas # 191:Tiesiog įveskite "mv * / dev / null".
+
+%
+BOFH pasiteisinimas # 192:išbėgęs katinas ant sistemos.
+
+%
+BOFH pasiteisinimas # 193:Ar mokate naują Palaikymo mokestis?
+
+%
+BOFH pasiteisinimas # 194:Mes tik remti 1200 bps ryšį.
+
+%
+BOFH pasiteisinimas # 195:Mes tik palaikyti 28000 bps ryšį.
+
+%
+BOFH pasiteisinimas # 196:Man nėra interneto, tik Tvarkdario, man tiesiog vaško grindys.
+
+%
+BOFH pasiteisinimas # 197:Aš atsiprašau Pentium nebus padaryti, Jums reikia SGI susisiekti su mumis.
+
+%
+BOFH pasiteisinimas # 198:Lapukas dumblo nutekėjo į monitorių.
+
+%
+BOFH pasiteisinimas # 199:kad Jūsų klaviatūros laido garbanos praranda elektros energiją.
+
+%
+BOFH pasiteisinimas # 200:Monitorius turi kitą pikselių langelį.
+
+%
+BOFH pasiteisinimas # 201:RPC_PMAP_FAILURE
+
+%
+BOFH pasiteisinimas # 202:branduolio paniką: parašyti tik-atmintis (/ dev / wom0) talpa viršijo.
+
+%
+BOFH pasiteisinimas # 203:Rašyti tik atminties posistemė per lėtas šią mašiną. Susisiekite su savo vietiniu atstovu.
+
+%
+BOFH pasiteisinimas # 204:Tiesiog pasiimti telefono ir suteikti modemas prisijungti garsus. "Na jūs sakėte, turėtume gauti daugiau eilučių, kad mes neturime balso linijos."
+
+%
+BOFH pasiteisinimas # 205:Kvantinė dinamika įtakos tranzistoriai
+
+%
+BOFH pasiteisinimas # 206:Policija tiria visas interneto paketus ieškant narkomafija-NET srauto valdytojas
+
+%
+BOFH pasiteisinimas # 207:Mes šiuo metu bando naują koncepciją, naudojant gyvą pelę. Deja, viena dar turi išgyventi yra užsikabinęs prie kompiuterio ..... turėkite su mumis.
+
+%
+BOFH pasiteisinimas # 208:Jūsų paštas yra nukreipiami per Vokietiją ... ir jie cenzūros mumis.
+
+%
+BOFH pasiteisinimas # 209Tik žmonės, turintys pavadinimai, prasidedantys raide 'A' gaunate paštu šią savaitę (a la "Microsoft")
+
+%
+BOFH pasiteisinimas # 210:Mes nemokėjo interneto sąskaitą ir tai buvo išjungtas.
+
+%
+BOFH pasiteisinimas # 211:Žaibo smūgių.
+
+%
+BOFH pasiteisinimas # 212:Žinoma, tai neveikia. Mes atlikome programinės įrangos atnaujinimas.
+
+%
+BOFH pasiteisinimas # 213:Keisti savo kalbą suomių.
+
+%
+BOFH pasiteisinimas # 214:Liuminescencinės lemputės generuoja neigiamus jonus. Jei sukant juos išjungti neveikia, išimkite juos ir įdėti Alavo folija ant galo.
+
+%
+BOFH pasiteisinimas # 215:Aukštos branduolinė veikla jūsų vietovėje.
+
+%
+BOFH pasiteisinimas # 216:Kas biuro yra jums? O, kad vienas. Ar žinote, kad jūsų pastatas buvo pastatytas per universitetams pirmiausia branduolinių tyrimų svetainėje? Ir Oho, nėra Jums pasisekė, jūsų biure yra tiesiai virš kurioje pagrindinis palaidotas!
+
+%
+BOFH pasiteisinimas # 217:MGS pritrūko dujų.
+
+%
+BOFH pasiteisinimas # 218:UPS neturi baterija atsargine.
+
+%
+BOFH pasiteisinimas # 219:Recursivity. Skambinkite atgal, jei tai atsitiks dar kartą.
+
+%
+BOFH pasiteisinimas # 220:Kažkas manė didelis raudonas mygtukas buvo šviesos jungiklis.
+
+%
+BOFH pasiteisinimas # 221:Didžiųjų reikia pailsėti. Jis sensta, žinote.
+
+%
+BOFH pasiteisinimas # 222:Aš nesu tikras. Pabandykite skambinti interneto buveinė - tai knygoje.
+
+%
+BOFH pasiteisinimas # 223:visos eilutės yra užimtas (užsiėmė iš, tai yra - kodėl? tegul prasideda).
+
+%
+BOFH pasiteisinimas # 224:Jan 9 16:41:27 Huber S: "Su šaknis" pavyko už .... / dev / taškai / 1
+
+%
+BOFH pasiteisinimas # 225:Tai tas kompiuterines žmones X {City of pasaulyje}. Jie saugo užpildymo dalykų.
+
+%
+BOFH pasiteisinimas # 226:Žvaigždžių karai palydovinė netyčia susprogdino WAN.
+
+%
+BOFH pasiteisinimas # 227:Mirtina klaida priešais ekraną
+
+%
+BOFH pasiteisinimas # 228:Ši funkcija šiuo metu nėra palaikoma, tačiau Billas Gatesas tikina ji bus rodoma kitą atnaujinti.
+
+%
+BOFH pasiteisinimas # 229:neteisingą poliškumą Neutronas srauto
+
+%
+BOFH pasiteisinimas # 230:Lusers mokymosi kreivė atrodo Fraktalas
+
+%
+BOFH pasiteisinimas # 231:Mes turėjome išjungti šią paslaugą laikytis CDA Bill.
+
+%
+BOFH pasiteisinimas # 232:Jonizacijos iš oro kondicionavimo
+
+%
+BOFH pasiteisinimas # 233:TCP / IP UDP signalizacija riba yra per maža.
+
+%
+BOFH pasiteisinimas # 234:Kažkas transliuoti nykštukas paketus ir maršrutizatorius nežino, kaip elgtis su jais.
+
+%
+BOFH pasiteisinimas # 235:Naujas Frame Relay tinklo nėra lovų žemyn Programinės įrangos kilpa siųstuvą dar.
+
+%
+BOFH pasiteisinimas # 236:FanOut nuleisti įtampa per daug, pabandykite sumažinti kai kurių iš šių mažai pėdsakų
+
+%
+BOFH pasiteisinimas # 237:NL įtampa per maža dėl Demodulator vamzdžio
+
+%
+BOFH pasiteisinimas # 238:Tu WHA ... O _dear _....
+
+%
+BOFH pasiteisinimas # 239:CPU reikia guolius perpakuotais
+
+%
+BOFH pasiteisinimas # 240:Per daug mažai kaiščius ant CPU sudėtingi ją, lenkimo pirmyn ir atgal, kol 10-20% tvarkingai pašalintas. Ar _not_ palikti metalo bitai matomas!
+
+%
+BOFH pasiteisinimas # 241:_Rosin_ Pagrindinė lydmetalio? Bet ...
+
+%
+BOFH pasiteisinimas # 242:Programinė įranga naudoja JAV matavimus, bet OS yra metrinė ...
+
+%
+BOFH pasiteisinimas # 243:Kompiuteris fleetly, pelės ir visi.
+
+%
+BOFH pasiteisinimas # 244:Jūsų katė bandė valgyti pelę.
+
+%
+BOFH pasiteisinimas # 245:Borg bandė įsisavinti savo sistemą. Atsparumas yra beprasmiška.
+
+%
+BOFH pasiteisinimas # 246:Ji turi būti žaibo audrą mes turėjome (vakar) (praėjusią savaitę) (praėjusį mėnesį)
+
+%
+BOFH pasiteisinimas # 247:Dėl federalinio biudžeto problemų mes buvome priversti sumažinti dėl vartotojų, galinčių prisijungti prie sistemos vienu metu skaičius. (Ty nė leido ....)
+
+%
+BOFH pasiteisinimas # 248:Per daug spinduliuotės ateina iš dirvožemio.
+
+%
+BOFH pasiteisinimas # 249:Deja, mes turime paleisti iš Grąžtai / baitų / whatever. Nesijaudinkite, kitas šaltinis bus bus kitą savaitę.
+
+%
+BOFH pasiteisinimas # 250:Programos apkrova per sunkus procesorius pakelti.
+
+%
+BOFH pasiteisinimas # 251:Procesai veikia lėtai dėl silpnos elektros energijos tiekimo
+
+%
+BOFH pasiteisinimas # 252:Mūsų ISP turintys {perjungimo, maršruto parinkimo, SMDS, Frame Relay} problemas
+
+%
+BOFH pasiteisinimas # 253:Mes paleisti iš licencijų
+
+%
+BOFH pasiteisinimas # 254:Trukdžiai iš mėnulio spindulių
+
+%
+BOFH pasiteisinimas # 255:Stovi pirtis tik autobusu.
+
+%
+BOFH pasiteisinimas # 256:Jums reikia įdiegti RTFM sąsaja.
+
+%
+BOFH pasiteisinimas # 257:Tai būtų, nes programinė įranga neveikia.
+
+%
+BOFH pasiteisinimas # 258:Tai lengva nustatyti, bet aš negaliu būti nesiteikė.
+
+%
+BOFH pasiteisinimas # 259:Kažkieno kaklaraištis yra sugauti į spausdintuvą, o jei kas nors kitas bus atspausdintas, jis bus jame per daug.
+
+%
+BOFH pasiteisinimas # 260:Mes atnaujinti / dev / null
+
+%
+BOFH pasiteisinimas # 261:Usenet naujienų pasenęs
+
+%
+BOFH pasiteisinimas # 262Mūsų Serveris buvo pagrobtas žebenkštis.
+
+%
+BOFH pasiteisinimas # 263:Jis įstrigo internete.
+
+%
+BOFH pasiteisinimas # 264Jūsų modemas nekalba angliškai.
+
+%
+BOFH pasiteisinimas # 265:Pelė pabėgo.
+
+%
+BOFH pasiteisinimas # 266:Visi paketai yra tuščias.
+
+%
+BOFH pasiteisinimas # 267:UPS yra streiką.
+
+%
+BOFH pasiteisinimas # 268:Neutrinas perkrovos ant vardų serveriui
+
+%
+BOFH pasiteisinimas # 269:Lydymosi kietuosius diskus
+
+%
+BOFH pasiteisinimas # 270:Kažkas messed up branduolio patarimų
+
+%
+BOFH pasiteisinimas # 271:Branduolys licencija yra pasibaigęs
+
+%
+BOFH pasiteisinimas # 272:"Netscape" nulūžo
+
+%
+BOFH pasiteisinimas # 273:Laidas šoktelėjo virš ir paspauskite maitinimo jungiklį.
+
+%
+BOFH pasiteisinimas # 274:Ji buvo gerai prieš palietė jį.
+
+%
+BOFH pasiteisinimas # 275:truputi puvinys
+
+%
+BOFH pasiteisinimas # 276:JAV Postal Service
+
+%
+BOFH pasiteisinimas # 277:Jūsų flux Kondensatorius nuėjo blogai.
+
+%
+BOFH pasiteisinimas # 278:Į Dilithium Kristalai reikia pasukti.
+
+%
+BOFH pasiteisinimas # 279:Statinis elektros maršruto veikia iki ...
+
+%
+BOFH pasiteisinimas # 280:TracerouteGenericName sako, kad yra maršruto problema stuburą. Tai ne mūsų problema.
+
+%
+BOFH pasiteisinimas # 281Bendro Locator negali patikrinti rėmo relės vartai į ISDN serveryje.
+
+%
+BOFH pasiteisinimas # 282:Didelio aukščio kondensatas iš U.S.A.F prototipo orlaivio užterštas pagrindinę potinklio kaukę. Išjunkite kompiuterį 9 dienas, kad nesugadintumėte ją.
+
+%
+BOFH pasiteisinimas # 283:Vejapjovė peilis jūsų gerbėjas reikia galąsti
+
+%
+BOFH pasiteisinimas # 284:Elektronai girtas
+
+%
+BOFH pasiteisinimas # 285:Telekomunikacijos yra atnaujinti.
+
+%
+BOFH pasiteisinimas # 286:Telekomunikacijos yra pažeminimas.
+
+%
+BOFH pasiteisinimas # 287:Telekomunikacijos yra downshifting.
+
+%
+BOFH pasiteisinimas # 288:Kietasis diskas miega. Tegul ji pabusti ant tai savo ...
+
+%
+BOFH pasiteisinimas # 289:Trukdžių tarp klaviatūros ir kėdės.
+
+%
+BOFH pasiteisinimas # 290:CPU perėjo, ir tapo decentralizuota.
+
+%
+BOFH pasiteisinimas # 291:Dėl CDA, mes nebeturime root.
+
+%
+BOFH pasiteisinimas # 292:Mes pritrūko rinkimo tono ir mes ir laukia telefono kompanijos pristatyti dar vieną butelį.
+
+%
+BOFH pasiteisinimas # 293:Jūs must've nukentėjo negerai bet kurį mygtuką.
+
+%
+BOFH pasiteisinimas # 294:PCMCIA vergas vairuotojas
+
+%
+BOFH pasiteisinimas # 295:Patvirtinimo raktą sumažėjo iš žiedo. Skambinkite mums, kai jūs ją rasti.
+
+%
+BOFH pasiteisinimas # 296:Aparatūros autobusas turi naują raktą.
+
+%
+BOFH pasiteisinimas # 297:Per daug pertraukia
+
+%
+BOFH pasiteisinimas # 298:Nepakanka pertraukia
+
+%
+BOFH pasiteisinimas # 299:Duomenų kietajame diske yra iš pusiausvyros.
+
+%
+BOFH pasiteisinimas # 300:Skaitmeniniai Manipuliatorius viršija greičio parametrus
+
+%
+BOFH pasiteisinimas # 301:Atrodo, kad būti Lėtas / Siauras SCSI 0 sąsaja problema
+
+%
+BOFH pasiteisinimas # 302:mikroelektroniai Rymano išlenkta erdvė gedimas rašyti tik-failų sistema
+
+%
+BOFH pasiteisinimas # 303:Fraktalas spinduliuotė trukdymo stuburą
+
+%
+BOFH pasiteisinimas # 304:maršrutizavimo problemų dėl nervų tinklą
+
+%
+BOFH pasiteisinimas # 305:IRQ-problemos su JT pertraukiamieji-Maitinimo
+
+%
+BOFH pasiteisinimas # 306:CPU kampas turi būti koreguojama, nes vibracija iš netoliese kelio
+
+%
+BOFH pasiteisinimas # 307:emisijos GSM telefonų
+
+%
+BOFH pasiteisinimas # 308:CD-ROM serveris turi perkalibravimo
+
+%
+BOFH pasiteisinimas # 309:Ugniasienė turi aušinimą
+
+%
+BOFH pasiteisinimas # 310:asinchroninis inode nepakankamumas
+
+%
+BOFH pasiteisinimas # 311:trumpalaikis autobusų protokolas pažeidimas
+
+%
+BOFH pasiteisinimas # 312:Nesuderinamos tiek-registracija operatoriai
+
+%
+BOFH pasiteisinimas # 313:Jūsų procesas neatitinka ISO 9000 reikalavimų
+
+%
+BOFH pasiteisinimas # 314:Jums reikia atnaujinti savo VESA vietinį autobusą MasterCard vietos autobuse.
+
+%
+BOFH pasiteisinimas # 315:Neseniai platinimu branduolinių bandymų
+
+%
+BOFH pasiteisinimas # 316:Elfai apie streiką. (Kodėl jie vadina EMAG Elf Magic)
+
+%
+BOFH pasiteisinimas # 317:Interneto viršijo Luser lygio, prašome palaukti, kol Luser rąstų išjungti prieš bandant prisijungti atgal.
+
+%
+BOFH pasiteisinimas # 318:Jūsų e-paštas dabar yra pristatomi USPS.
+
+%
+BOFH pasiteisinimas # 319:Kompiuteris nebuvo grąžinti visus bitus jis gauna iš interneto.
+
+%
+BOFH pasiteisinimas # 320:Jūs buvote užkrėstas Strėlės ilginimas Hablo virusu.
+
+%
+BOFH pasiteisinimas # 321:Planuojama pasaulinė procesoriaus nutraukimo
+
+%
+BOFH pasiteisinimas # 322:Jūsų Pentium turi šildymo problemą - išbandykite aušinimo jį su ledo šaltu vandeniu (Nesukite kompiuterio, jūs nenorite atvėsti Pentium Chip o jis neveikia, ar ne?).
+
+%
+BOFH pasiteisinimas # 323:Jūsų procesorius apdorojo per daug nurodymų. Jį išjungti iš karto, nereikia įvesti jokių komandas !!
+
+%
+BOFH pasiteisinimas # 324:Jūsų paketai buvo valgyti terminatorius
+
+%
+BOFH pasiteisinimas # 325:Jūsų procesorius nekurs pakankamai šilumos.
+
+%
+BOFH pasiteisinimas # 326:Turime licenciją elektrikas pakeisti lemputes kompiuterių klasėje.
+
+%
+BOFH pasiteisinimas # 327:POP serveris yra iš Koksas
+
+%
+BOFH pasiteisinimas # 328:Skaidulinės optikos sukėlė dujų nutekėjimas pagrindinis
+
+%
+BOFH pasiteisinimas # 329:Serverio depresija, reikia Prozac
+
+%
+BOFH pasiteisinimas # 330:dekoherencija
+
+%
+BOFH pasiteisinimas # 331:tie damn meškėnai!
+
+%
+BOFH pasiteisinimas # 332:optimalus maršrutai patirtis
+
+%
+BOFH pasiteisinimas # 333:Santechniko reikia, tinklas nutekėjimo užsikemša
+
+%
+BOFH pasiteisinimas # 334:50% vadove yra .pdf readme failus
+
+%
+BOFH pasiteisinimas # 335:AA baterijų į wallclock siunčia magnetinį trukdžių
+
+%
+BOFH pasiteisinimas # 336:XY ašis trackball derinamas su vasaros saulėgrįža
+
+%
+BOFH pasiteisinimas # 337:butano žiebtuvėlis sukelia pincushioning
+
+%
+BOFH pasiteisinimas # 338:seni rašalinių spausdintuvų kasetės kilti bario pagrindu dūmus
+
+%
+BOFH pasiteisinimas # 339:vadybininkas kabelio kanalas
+
+%
+BOFH pasiteisinimas # 340:Na nustatyti, kad į kitą (plėtotė, naujinimas pleistras spaudai, paketą).
+
+%
+BOFH pasiteisinimas # 341:Httpd Klaida 666: BOFH čia buvo
+
+%
+BOFH pasiteisinimas # 342:Httpd Klaida 4004: labai senas Intel CPU - nepakankamas apdorojimo galia
+
+%
+BOFH pasiteisinimas # 343:ATM lenta baigsis 10 svarų pastabose. Mes atsižvelgdamas plakti ištisus jį pildymas, priežiūros prisidėti?
+
+%
+BOFH pasiteisinimas # 344:Tinklo klaida - skambinti NBC
+
+%
+BOFH pasiteisinimas # 345:Atsižvelgdama rankiniu būdu sekti palydovą.
+
+%
+BOFH pasiteisinimas # 346:Jūsų / mūsų kompiuteryje (-ai) patyrė Atminties nutekėjimas ir mes laukiame, kad jie būtų papildyta.
+
+%
+BOFH pasiteisinimas # 347:Gumine juosta sumušė
+
+%
+BOFH pasiteisinimas # 348:Mes ant Token Ring, ir atrodo, kad raktas gavo laisvas.
+
+%
+BOFH pasiteisinimas # 349:Benamiai alfa dalelių iš atminties pakuotės sukėlė Sunku atminties klaida serveryje.
+
+%
+BOFH pasiteisinimas # 350:paradigmai ... be sankabos
+
+%
+BOFH pasiteisinimas # 351:PEBKAC (Problema egzistuoja tarp klaviatūros ir katedros)
+
+%
+BOFH pasiteisinimas # 352:Kabeliai yra ne tas pats ilgis.
+
+%
+BOFH pasiteisinimas # 353:Antra-sistemos efektas.
+
+%
+BOFH pasiteisinimas # 354:Kramtomoji guma / dev / sd3c
+
+%
+BOFH pasiteisinimas # 355:Nuobodulys į branduolį.
+
+%
+BOFH pasiteisinimas # 356:kad demonai! kad demonai! Kraupios demonai!
+
+%
+BOFH pasiteisinimas # 357:Norėčiau jums padėti - tai tik, kad bosas nebus leiskite man šalia kompiuterio.
+
+%
+BOFH pasiteisinimas # 358:ištiktų Good Times virusas
+
+%
+BOFH pasiteisinimas # 359:TURITE I / O klaida -> Nekompetentingi Operatoriaus klaida
+
+%
+BOFH pasiteisinimas # 360:Jūsų pariteto patikrinimas pereikvota ir jūs iš talpyklos.
+
+%
+BOFH pasiteisinimas # 361:Komunistų revoliucionieriai perėmusios serverių patalpoje ir sunkių visus kompiuterius pastate ar jie šaudyti sisteminio administratoriaus. Prastas nevykusios kvailiai.
+
+%
+BOFH pasiteisinimas # 362:Plazminiai kanalas pažeidimas
+
+%
+BOFH pasiteisinimas # 363:Iš kortelės diske D:
+
+%
+BOFH pasiteisinimas # 364:Smėlio blusos valgymo interneto kabelius
+
+%
+BOFH pasiteisinimas # 365:lygiagrečių procesoriai veikia statmenai šiandien
+
+%
+BOFH pasiteisinimas # 366:ATM ląstelių yra ne tarptinklinio ryšio funkcija įjungta, nešiojami kompiuteriai negalite prisijungti
+
+%
+BOFH pasiteisinimas # 367:Administratoriai pagrobti blogio kultas.
+
+%
+BOFH pasiteisinimas # 368:Nesugebėjimas prisitaikyti vasaros laiku.
+
+%
+BOFH pasiteisinimas # 369:Virusas perduodamas iš kompiuterio į adminams.
+
+%
+BOFH pasiteisinimas # 370Virusas dėl kompiuterių, turinčių nesaugaus sekso.
+
+%
+BOFH pasiteisinimas # 371:Neteisingai sukonfigūruotas statinius maršrutų corerouters.
+
+%
+BOFH pasiteisinimas # 372:Priversti remti NT serverius; adminams mesti rūkyti.
+
+%
+BOFH pasiteisinimas # 373:Įtartinas žymeklis sugadintas virtualią mašiną
+
+%
+BOFH pasiteisinimas # 374:Tai InterNIC kaltė.
+
+%
+BOFH pasiteisinimas # 375:Šaknies vardų serveriai sugadintas.
+
+%
+BOFH pasiteisinimas # 376:Biudžeto mažinimas privertė mus parduoti visas maitinimo laidus už serverius.
+
+%
+BOFH pasiteisinimas # 377:Kažkas užsikabinęs vytos poros laidų į autoatsakiklio.
+
+%
+BOFH pasiteisinimas # 378:Operatoriai nužudyti 2000 metų klaidų įkandimo.
+
+%
+BOFH pasiteisinimas # 379:Mes nusižiūrėję Cobol kaip pasirinkta kalba.
+
+%
+BOFH pasiteisinimas # 380:Operatoriai žuvo, kai didžiulė kamino atsarginės juostos krito daugiau.
+
+%
+BOFH pasiteisinimas # 381:Robotų juosta keitiklis supainiojome operatoriaus kaklaraištis atsarginės juosta.
+
+%
+BOFH pasiteisinimas # 382:Kažkas buvo rūkyti kompiuterių klasėje ir užskaityti halonas sistemas.
+
+%
+BOFH pasiteisinimas # 383:Jūsų procesorius ėmėsi važiuoti į Dangaus vartai UFO už Hale-bopp kometa.
+
+%
+BOFH pasiteisinimas # 384:tai yra ID-10, T-klaida
+
+%
+BOFH pasiteisinimas # 385:Disleksija sergančių perspausdinimas hosts serveriuose
+
+%
+BOFH pasiteisinimas # 386Internetas yra nuskaitymo.
+
+%
+BOFH pasiteisinimas # 387:Kompiuterio sąjunga sutartis nustos galioti vidurnaktį.
+
+%
+BOFH pasiteisinimas # 388:Blogas vartotojo karma.
+
+%
+BOFH pasiteisinimas # 389:/ Dev / raktas buvo susijęs su / dev / null
+
+%
+BOFH pasiteisinimas # 390:Padidėjęs saulės dėmių.
+
+%
+BOFH pasiteisinimas # 391:Mes jau išsiuntė aplink pranešimą apie tai.
+
+%
+BOFH pasiteisinimas # 392:Tai Sąjungos taisykles. Nėra nieko mes galime padaryti apie tai. Atsiprašau.
+
+%
+BOFH pasiteisinimas # 393:Trukdžiai iš Van Allen diržą.
+
+%
+BOFH pasiteisinimas # 394:Jupiteris yra suderintas su Marso.
+
+%
+BOFH pasiteisinimas # 395:Nereikalingos ACL.
+
+%
+BOFH pasiteisinimas # 396:Pašto serveris nukentėjo UniSpammer.
+
+%
+BOFH pasiteisinimas # 397:T-1 perpildytuose dėl pornografijos srautą į naujienų serveryje.
+
+%
+BOFH pasiteisinimas # 398:Duomenys apie intranetą gavo nukreipiami per ekstraneto ir nusileido ant interneto.
+
+%
+BOFH pasiteisinimas # 399:Mes 100% "Microsoft" parduotuvė.
+
+%
+BOFH pasiteisinimas # 400:Esame Microsoft ". Ką jūs patiriate nėra problema; tai nelegalias funkcija.
+
+%
+BOFH pasiteisinimas # 401:Pardavimų personalo parduodamas produktą Mes nesiūlome.
+
+%
+BOFH pasiteisinimas # 402:Sekretorius išsiuntė grandinės laišką visiems 5000 darbuotojų.
+
+%
+BOFH pasiteisinimas # 403:SysAdmin negirdėjo gaviklio užges, nes garsiai muzikos nuo baras kambarių garsiakalbius.
+
+%
+BOFH pasiteisinimas # 404:SysAdmin netyčia sunaikino gaviklio su dideliu plaktuku.
+
+%
+BOFH pasiteisinimas # 405:Adminams neveikia, nes jie susitikime kalbėti apie tai, kodėl jie yra neprieinami tiek daug.
+
+%
+BOFH pasiteisinimas # 406:Blogas kavinėje maistas nusileido visas adminams ligoninėje.
+
+%
+BOFH pasiteisinimas # 407:Maršruto mojuoti tuo NPP.
+
+%
+BOFH pasiteisinimas # 408:Kompiuteriai po vandeniu dėl SYN potvynių.
+
+%
+BOFH pasiteisinimas # 409:Vulcan-mirtis-rankena stalo buvo taikoma.
+
+%
+BOFH pasiteisinimas # 410:Elektros izoliaciniai vamzdeliai ir mašinų patalpos tirpsta.
+
+%
+BOFH pasiteisinimas # 411:Kamštis informacinės Greitkelis.
+
+%
+BOFH pasiteisinimas # 412:Radialinis Telemetrijos Infiltracija
+
+%
+BOFH pasiteisinimas # 413:Karvė savivarčiai nulenkti karvę ant serverio.
+
+%
+BOFH pasiteisinimas # 414:Tachionas emisijos apkrauti sistemą
+
+%
+BOFH pasiteisinimas # 415:Priežiūra langas suskaidytas
+
+%
+BOFH pasiteisinimas # 416:Mes iš laiko tarpsnių serveryje
+
+%
+BOFH pasiteisinimas # 417:Kompiuterių kambarys yra perkeltas. Mūsų sistemos yra nustatytos savaitgalį.
+
+%
+BOFH pasiteisinimas # 418:Adminams užimtas kova su nepageidaujamu e.
+
+%
+BOFH pasiteisinimas # 419:Pakartotiniai persikrauna sistemos nepavyko išspręsti problemą
+
+%
+BOFH pasiteisinimas # 420:Žanras nebuvo beta išbandyti
+
+%
+BOFH pasiteisinimas # 421:Domeno valdiklis nereaguoja
+
+%
+BOFH pasiteisinimas # 422:Kažkas pavogė jūsų IP adresą, skambinkite interneto detektyvų!
+
+%
+BOFH pasiteisinimas # 423:Tai ne RFC-822 reikalavimus.
+
+%
+BOFH pasiteisinimas # 424:Operacija nepavyko, nes: nėra žinutę šios klaidos (# 1014)
+
+%
+BOFH pasiteisinimas # 425:sustabdyti tiek gavo
+
+%
+BOFH pasiteisinimas # 426:interneto reikia sugauti etherbunny
+
+%
+BOFH pasiteisinimas # 427:tinklo žemyn, IP paketai pristatomi per UPS
+
+%
+BOFH pasiteisinimas # 428:Aparatinės programinės įrangos atnaujinimas į kavos aparatą
+
+%
+BOFH pasiteisinimas # 429:Laikinas anomalija
+
+%
+BOFH pasiteisinimas # 430:Pelės yra out-of-sūrio-klaidą
+
+%
+BOFH pasiteisinimas # 431:Borg implantai nesugeba
+
+%
+BOFH pasiteisinimas # 432:Borg nanites jau užkrėstos serverį
+
+%
+BOFH pasiteisinimas # 433:Klaida: vienas blogas vartotojas rasti priešais ekraną
+
+%
+BOFH pasiteisinimas # 434:Prašome nurodyti techninės avarijos pobūdį
+
+%
+BOFH pasiteisinimas # 435:Interneto uždarė dėl priežiūros
+
+%
+BOFH pasiteisinimas # 436:Demonas pabėgo iš pentagrama
+
+%
+BOFH pasiteisinimas # 437:pasėlių apskritimai kukurūzų lukštais
+
+%
+BOFH pasiteisinimas # 438:Dažna tiek Atsilaisvino
+
+%
+BOFH pasiteisinimas # 439:Karšto Java "nuėjo šalta
+
+%
+BOFH pasiteisinimas # 440:Talpykloje - skirkite geriau siekti kitą kartą
+
+%
+BOFH pasiteisinimas # 441:Maišos lentelė turi Lerva Medgręžiai
+
+%
+BOFH pasiteisinimas # 442:Trojos arklys bėgo šieno
+
+%
+BOFH pasiteisinimas # 443:Zombie procesai aptikti, mašina yra Haunted.
+
+%
+BOFH pasiteisinimas # 444:perpildymo klaida, / dev / null
+
+%
+BOFH pasiteisinimas # 445:Naršyklės slapukų yra sugadintas - kažkas buvo nibbling ant jo.
+
+%
+BOFH pasiteisinimas # 446:Mailer-demonas yra užimtas deginimas savo žinutę pragarą.
+
+%
+BOFH pasiteisinimas # 447:Pasak "Microsoft", tai dizainas
+
+%
+BOFH pasiteisinimas # 448:VI reikia atnaujinti VII
+
+%
+BOFH pasiteisinimas # 449:"Greenpeace" free'd į mallocs
+
+%
+BOFH pasiteisinimas # 450:Teroristai sudužo lėktuvas į serverių patalpoje, turite pašalinti / bin / Laden. (RM-rf / bin / pakrauta)
+
+%
+BOFH pasiteisinimas # 451:astropneumatic svyravimai vandens aušinimo
+
+%
+BOFH pasiteisinimas # 452:Kažkas bėgo operacinę sistemą per rašybos tikrintuvą.
+
+%
+BOFH pasiteisinimas # 453:Voras užkrėtimo šiltų atvejų dalys
+
+%

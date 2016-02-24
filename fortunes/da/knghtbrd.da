@@ -1,0 +1,2160 @@
+* SynrG bemærker, at antallet af konfiguration spørgsmål at besvare i  sendmail er ikke-triviel
+		-- David Leimbach
+
+%
+* james ville være mere imponeret hvis netgod magiske kræfter kunne stoppe  opdeler i første omgang ...* Netgod noter Debian-udviklere er notorisk svært at imponere
+		-- David Leimbach
+
+%
+<Sel> brug for hjælp: min første pakke til min udbyder bliver tabt :-(<Netgod> sel: ikke sende den første, start med # 2
+		-- David Leimbach
+
+%
+<James> misbruge mig. Jeg er så halt jeg sendte en fejlrapport til        debian-devel-ændringer
+		-- David Leimbach
+
+%
+Jeg troede aldrig, at jeg ville se den dag, hvor Netscape er fri software ogX11 er proprietær. Vi lever i interessante tider.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> Lemme sørg jeg ikke spilde tid her ... bcwhite vil fjerne      pkgs der havent blevet fast, der har udestående fejl af sværhedsgrad      "vigtig". Sandt eller falsk?<JHM> jim: "vigtige" eller højere. Rigtigt.<Jim> Så vi er ved at miste ftp.debian.org og dpkg :)* Netgod vil savne dpkg - det var til tider nyttigt<Joey> Vi har stadig rpm ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> At blive overbelastet er tegn på en ægte Debian vedligeholder.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: jeg alvorligt har brug for en ferie fra denne pakke.            Jeg havde faktisk en drøm om at indføre en dum ny fejl            i Xbase-preinst aftes. Det er et dårligt tegn.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+Skrive ikke-fri software er ikke en etisk legitim aktivitet, så hvismennesker, der gør denne kørsel ind i problemer, det er godt! Alle virksomheder baseretpå ikke-fri software burde fejle, og jo før jo bedre.
+		-- Richard Stallman
+
+%
+Microsoft DNS-tjenesten ophører unormalt, når det recieves et svartil en DNS forespørgsel, der aldrig blev lavet. Fix Information: Kør din DNStjeneste på en anden platform.
+		-- BugTraq
+
+%
+* Dpkg hænder Stu et stort glas vbeer* Joey tager øl fra stu, du er for ung;)* Cylord tager øl fra Joey, du er for fuld.* Cylord giver øl til Muggles.
+		-- BugTraq
+
+%
+Vi befolkningen i Debian GNU / Linux distribution, for at danne etmere perfekt operativsystem, etablere kvalitet, forsikrer markedspladsmangfoldighed, giver for de fælles behov computerbrugere, fremmersikkerhed og privatlivets fred, vælte monopolistiske kræfter i computerensoftware-industrien, og sikre frihedens velsignelser for os selv ogvore efterkommere, må ordinere og etablere denne forfatning for DebianGNU / Linux System.
+		-- BugTraq
+
+%
+"Dette er den element_data struktur for elementer, hvis * ELEMENT_TYPE =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Nesting dybereog dybere, hårdere og hårdere, gå, gå, åh, OH, ohhhhh !! * Beklager, fikrive der. * / Struct lo_FormElementOptionData_struct. "
+		-- Mozilla source code
+
+%
+Mens 2000 (Y2K) problem er ikke et problem for os, alle Linuximplementeringer vil påvirket af året 2038 (y2.038k) problem. DetDebian-projektet er forpligtet til at samarbejde med industrien om dette spørgsmålog vi vil have vores fulde planer og strategi indsendt af første kvartalaf 2020.
+		-- Mozilla source code
+
+%
+... Hvor var Stac Electronics da Microsoft opfandt Doublespace? Hvorvar Xerox og Apple når Microsoft opfandt GUI? Hvor var ApplesQuickTime når Microsoft opfandt Video for Windows? Hvor var SpyglassInc. 's Mosaic når Microsoft opfandt Internet Explorer? Hvor var Sunnår Microsoft opfandt Java?
+		-- Mozilla source code
+
+%
+Jeg er ked af, hvis det følgende lyder kampklar og overdrevent personlige,men det er min generelle stil. - Ian Jackson
+		-- Mozilla source code
+
+%
+"Mit største problem med RH (og især RH contrib pakker), er, atDe har ikke noget lignende vores politik. Det er en af ​​de vigtigste grundehvorfor deres pakker er så crappy og brudt. Debian har teamworkside af bygningen en fordeling ned til en kunst. "
+		-- Mozilla source code
+
+%
+"Slackware brugere behøver ikke noget. I min erfaring, Slackware brugereenten clueless nybegyndere der vil have problemer selv med tjære, eller de errabiate gør-det-selv, der ikke ville installere en andens forkompileredebinære selv om de blev betalt for at gøre det. "
+		-- Mozilla source code
+
+%
+<XinkeT> "Herre giv mig sindsro til at acceptere de ting, jeg kan ikke         ændre, modet til at ændre de ting jeg kan, og visdom         at skjule ligene af de mennesker jeg havde til at dræbe, fordi de         gjorde mig vred."
+		-- Mozilla source code
+
+%
+* Dark har ændret emnet på kanal #debian til: Senere i aften: Efter  måneders omhyggelig køling, Debian 2.0 er endelig cool nok til at  frigøre.
+		-- Mozilla source code
+
+%
+Jeg sad griner snidely i min notesbog, indtil de viste mig en PC kørendeLinux. Og oh! Det var som om himlen åbnede og Gud afsagt enklientsiden OS så smuk, så yndefuld, og så elegant, at en millionMicrosoft-udviklere kunne ikke have opfundet det, selv om de havde en hundredeår og tusind kasser Jolt cola.
+		-- LAN Times
+
+%
+Jeg sad griner snidely i min notesbog, indtil de viste mig en PC kørendeLinux .... Og har denne pc choker? Havde det stamme? Gjorde det, selv én gang,sige, at dette program har udført en ulovlig handling og skal lukkesned? Nej Og det er bare på klienten.
+		-- LAN Times
+
+%
+"Jeg tror, ​​at de fleste Debian-udviklere er snarere" stærk vilje "menneskermed en stor grad af forståelse og et højt passion for detde opfatter som vigtige i udviklingen af ​​Debian-systemet. "
+		-- Bill Leach
+
+%
+"Faktisk er den eneste fordeling af Linux, jeg nogensinde har brugt, der har beståetrootshell test ud af boksen (hit rootshell på det tidspunkt, dist erfrigivet og se om du kan bryde OS med scripts derfra) erDebian. "
+		-- seen on the Linux security-audit mailing list
+
+%
+* CULus frygter perl - sproget med valgfri fejl
+		-- seen on the Linux security-audit mailing list
+
+%
+<Stu> du skal være bange for at bruge KDE fordi RMS kan komme til dit      hus og kløve din skærm med en økse eller noget :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Og jeg faktisk gerne debian 2.0, der meget jeg helt moderniseretstandard config af Linux-systemer vores virksomhed sælger og geninstalleret nogenaf Linux-systemer på kontoret og her hjemme .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> hvordan Bout en politik politiarbejde politik med en politik for at ændre         politi politi politik
+		-- seen on the Linux security-audit mailing list
+
+%
+<Dark> "Lad os danne Linux Standard Linux Standardisering Association        Bestyrelse. Formålet med dette board vil være at standardisere Linux        Standardiseringsorganisationer. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> Kom ikke græde til mig om din "30 minutter kompilerer" !! jeg            nødt til at bygge X op ad bakke begge veje! I sneen! med nøgne            fødder! Og vi havde ikke compilere! Vi var nødt til at oversætte            C-kode til huskesymboler os selv!<Overfiend> Og jeg var 18, før vi havde endda montører!
+		-- seen on the Linux security-audit mailing list
+
+%
+NEW YORK (CNN) - Internet-brugere, der tilbringer selv et par timer om ugen onlinederhjemme oplever højere niveauer af depression og ensomhed, end hvisde havde brugt den computernetværk mindre hyppigt, The New York Timesrapporterede søndag. Resultatet ... overraskede både forskere ogsponsorer, som omfattede Intel Corp., Hewlett Packard, AT & T Forsknings- ogApple Computer.
+		-- seen on the Linux security-audit mailing list
+
+%
+"Hvad er slående, er imidlertid det generelle layout og integration afsystem. Debian er en virkelig elegant Linux-distribution; stor omhu harblevet taget i udarbejdelsen af ​​pakker, og deres placering isystem. Alene antallet af pakker er også imponerende .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Debian Linux er en solid, omfattende produkt, og en ægte fornøjelse atbrug. Det er også dejligt at blive involveret med Debian kollektive,hvis venlighed og ånd minder om de tidlige dage af internettet ogsin følelse af åbenhed og globalt samarbejde.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> kan jeg skrive en unix-lignende kerne i perl?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> netgod: Jeg har også en "Evil Inside" T-shirt (w / Intel logo) .. på        bagsiden står der: "Når bortrykkelsen kommer, vil du have rod?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Zarkov> "NT 5.0. Alle bugs og ti gange koden størrelse!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<CULus> er der 150 meg i / tmp dir! Kære Herre
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: hvad har du i din kerne ??? Den kompileret kilde til       køre en rumfærge ???<Spoo> tid til at lave en zip drive dit diskettedrev derefter. hvis kernen       gør ikke passer på, at kernen er en AI
+		-- seen on the Linux security-audit mailing list
+
+%
+Nu kan jeg endelig forklare alle hvorfor jeg gør dette. Jeg har lige fået 7 $ værdaf gratis ting for at arbejde på Debian!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: Min regnemaskine har flere registre end x86, og
+		-- thats- sad
+
+%
+* Boren kaster Matlab på tværs af lokalet, og håber det bryder ind i en række  aproaching uendelige peices
+		-- thats- sad
+
+%
+"... Det var meget hurtigere end jeg troede det ville være, meget hurtigereend NT. Hvis yderligere hastigheden stiger er færdig til serveren for den endeligefrigivelse, er Oracle vil være i stand til at tørre deres røv med SQL Server ogaflevere det tilbage til M $, mens Oracle admins ... migrere deres databaserover til Linux! "
+		-- thats- sad
+
+%
+World Domination, selvfølgelig. Og letpåklædte kvinder. Hvem bekymrer sig omdens tyve nedenfor? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Win 98 Psykisk udgave: Vi vil fortælle dig hvor du skal hen i morgen
+		-- thats- sad
+
+%
+<Zpx> det er forbløffende, hvordan "ikke-brudt" debian sammenlignes med slæk og rh
+		-- thats- sad
+
+%
+<Dark> "Hey, jeg er fra dette projekt kaldet Debian ... har du hørt om det?       Dit navn synes at være på en flok af vores ting. "
+		-- thats- sad
+
+%
+"I tilfælde af en percieved mangel af projektet lederskab #debian erbemyndiget til at træffe drastiske og descisive skridt til at korrigere den svigtende,herunder ved ikke begrænset til udvisningen embedsmænd, apointing nye tjenestemændog generelt misbruger magt "
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> vi kalder 2,2 _POTATO_ ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> betyder Johnie Ingram hænge ud her på IRC?
+		-- proposed amendment to Debian Constitution
+
+%
+* Twilight1 bliver nødt til at hænge sin Mozilla beanie dinosaur i statue, hvis  Netscape sælger ud til Fix tabere ..
+		-- proposed amendment to Debian Constitution
+
+%
+<Lux> hvis MacOS er for den computer analfabeter, så Windoze er for      computer masochister
+		-- proposed amendment to Debian Constitution
+
+%
+<Mørk> cULus: Opbygning af en fem meter høj kopi af Empire State       Bygning med papirclips er imponerende. Gør det bind for øjnene er       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Jeg kan bare se det nu: nominering terrorisme ;-)        - Manojhaha! Jeg nominere manoj.
+		-- seeS
+
+%
+<JHM> En eller anden måde jeg har mere respekt for 14 år gamle Debian-udviklere end     14 år gammel Certified Microsoft livegne.
+		-- seeS
+
+%
+<CULus> Ben: Har du solumly sværger at læse dig debian email en gang om dagen og        ikke tillader folk at tro, du er MIA?<Ben> cULus: Jeg gør det sværger
+		-- seeS
+
+%
+"Jeg spekulerer på, om dette er den første grundlov i menneskehedens historiehvor du nødt til at beregne en kvadratroden at afgøre, om en bevægelsepasserer. :-) "
+		-- Seen on Slashdot
+
+%
+Dette er løsningen på Debians problem .. og da den eneste reelle mådeat skabe flere pårørende af udviklere er at få børn, vi har brug for merekøn! Det er en langsigtet investering ... det er selve arbejdet, der ertilfredsstillende!
+		-- Craig Brozefsky
+
+%
+<Marcus> Dunham: Ved du, hvordan virkelige tal er konstrueret af rationelle         tal ved ækvivalensklasser af konvergerende sekvenser?<Dunham> marcus: ja.
+		-- Craig Brozefsky
+
+%
+<CULus> "Hallo?" "Hej baybee" "Er du Johnie Ingram?" "For dig jeg vil være        nogen "" ermm .. Har du sælger Luske cd'er? «» Jeg elsker slinkies "
+		-- Craig Brozefsky
+
+%
+<Overfiend> xhost + localhost bør kun udføres af personer, som ville            male deres værtsnavn og root password på en mellemstatslig            Overføring.
+		-- Craig Brozefsky
+
+%
+<JHM> AIX - Unix fra universet, hvor Spock har skæg.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> Undersøgelser viser, at forskning forårsager kræft i 43% af laboratorium           rotter<CQ> knghtbrd- yeah, men 78% af disse statistikker er slukket med 52% ...
+		-- Craig Brozefsky
+
+%
+<STU> apt:! bugs<Apt>! Bugs er dumme<Dpkg> apt: er dumme? hvad er det?<Apt> dpkg: Jeg ved ikke,<Dpkg> apt: Skønhed er i øjet af indehaveren af ​​øl ...<Apt> jeg havde allerede det på den måde, dpkg.
+		-- Craig Brozefsky
+
+%
+<Muggles> Jeg forsøger at overbevise nogle Netcoms admins jeg kender til at konvertere          Debian fra RH, netgod, men de er DAMN stædige<Muggles> hvorfor RH-brugere så forbandet hårdt hen?<Espy> det er hatten
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Al den kraft, uden den dumme hat.
+		-- Craig Brozefsky
+
+%
+Hvor mange måneder vil vi være bag dem [Redhat] med en glibcfrigøre?"
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+Formålet med at have postlister Snarere end at have nyhedsgrupper er atplacere en adgangsbarriere, som beskytter listerne og deres brugere frainvasion af de almindelige uuddannede horder.
+		-- Ian Jackson
+
+%
+De fleste af os føler, at markedsføringen typer er som et farligt våben - holde'Em losses og låst inde i et skab, og kun bringe dem ud, nårdu har brug for dem til at gøre et job.
+		-- Craig Sanders
+
+%
+<BenC> Cerb: Vi abonnerer dig til debian-kamp som moderator<BenC> Cerb: listeregler er, 1) ingen nice emails, 2) ingen undskyldninger
+		-- Craig Sanders
+
+%
+<Teknix> vores lokale teleselskab har indrømmet, at nogen "trængt op i en         knap på en switch "og tog hele ATM-nettet ned<Netgod> forhåbentlig nu routere er designet bedre, så det "netværk         off "swtich er på bagsiden
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: når du får {MessagesLikeThisFromYourHardDrive}<Overfiend> Thunder-: det enten midler {TheDriverIsScrewy}<Overfiend> eller<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Apt> det er blevet sagt, at RedHat er den ting Marc Ewing bærer på      hans hoved.
+		-- Craig Sanders
+
+%
+<MrCurious> af magt greyskull<MrCurious> nogen fortælle mig forbuddet til at placere<Sopwith> mrcurious: * .debian.org, * .novare.net<PhilX> * .debian.org. det er fantastisk.
+		-- Seen on LinuxNet #linux
+
+%
+"Hvad fortæller mig? At hvis Microsoft var den sidste softwareSelskabet tilbage i verden, 13% af den amerikanske befolkning ville skuregarage salg og goodwill til gamle TRS-80, CPM maskiner & Apple] [ 's førde ville købe Microsoft. Det er ikke ligefrem en ringetone påtegning. "
+		-- Seen on Slashdot
+
+%
+"Bruce McKinney, forfatter af Hardcore Visual Basic, har meddelt, athan er træt af VB og vil ikke skrive en 3. udgave af hans bog. Detbedste citat er i slutningen: "Jeg behøver ikke et sprog designet af fokusgruppe'."
+		-- Seen on Slashdot
+
+%
+<Cylord> Ville det være acceptabelt at debian politik, hvis vi indsat en crontab         som standard i kartoffel, sendt bill.gates@microsoft.com         hver morgen med en e-mail der stod: »Bare rolig, linux er en         fad ... "
+		-- Seen on Slashdot
+
+%
+* Overfiend funderer laver en NMU af asclock, hvor han simpelthen ændrer  den udvidede beskrivelse til "Hvis man bøje sig over og sætte dit hoved mellem  dine ben, kan du læse den tid fra din assclock. "<Doogie> Overfiend: gå i seng.
+		-- Seen on Slashdot
+
+%
+<Reed> Det er vigtigt at bemærke, at den primære årsag Romerriget       mislykkes er, at de ikke havde nogen begrebet nul ... derfor de ikke kunne       teste succes eller fiasko af deres C-programmer.
+		-- Seen on Slashdot
+
+%
+Siden hvornår har til formål at debian været at formilde interessermasse af ufaglærte forbrugere? - Steve Shorter
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: er, er disse 2.2.0 pakker 2.0.0pre9 eller har du en        direkte linje med guderne?<Netgod> joeyh: Jeg har den direkte linje
+		-- Seen on Slashdot
+
+%
+<_Anarchy_> Argh .. hvem der uddele de papirsposer 8)
+		-- Seen on Slashdot
+
+%
+<Akavet> nogen omkring?<Flav> nej, vi er alle uregelmæssige polygoner
+		-- Seen on Slashdot
+
+%
+<CULus> OH MY GOD IKKE en tilfældig QUOTE GENERATOR<Netgod> sikkert du ikke tror, ​​det var statisk? hvordan halt ville det være? :-)
+		-- Seen on Slashdot
+
+%
+Mere ikke-eksistens er en svag undskyldning for at erklære en ting unseeable. Du* Kan * se drager. Du skal bare nødt til at kigge i den rigtige retning.
+		-- John Hasler
+
+%
+<Chalky> gcc er den bedste kompressor nogensinde porteret til linux. det kan dreje         12MB kerne-kildekode (og der er .debbed) i en 500k kerne
+		-- John Hasler
+
+%
+<Manoj> I * som * hønen
+		-- John Hasler
+
+%
+ [] DOGBERT [2] Richard M. Stallman [3] BUFFY SUMMERS [1] MANOJ Srivastava [4] Ingen af ​​ovenstående
+		-- Debian Project Leader 1999 ballot
+
+%
+<Oryn> nogen vide, om der er en version af dpkg til RedHat?
+		-- Debian Project Leader 1999 ballot
+
+%
+Acme-kanon (3,1415) ustabil; haster = lav  * Tilføjet sikkerhed for at forhindre operatør lemlæstelse, lukker: bug # 98765,    bug # 98713, # 98714.  * Tilføjet manside. lukker: # 98.725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! tiden flyver når youre bruger linux! Doogie: *! Ja, uendelige løkker i 5 sekunder.! Teknix: *! har nogen re-testet, at med 2.2.x?! Netgod: *! yeah, 4 sekunder nu
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Dark hilser LIW med en lille gul frø.* LIW kysser frøen og ure det omdanne til en smuk nørd  pige, tager hende ud til is, og lever lykkeligt for evigt efter  med hende<Mørkt> LIW: Umm det er for sent at få frøen tilbage?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* CULus mener vi bør gå til messer og se, hvor mange mennesker, vi  kan dræbe ved at kaste Debian-cd'er på dem
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Dark> "Ja, din ære, har jeg RSA-kryptering kode tattood på min        penis. Skal jeg vise juryen? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Knghtbrd> du folk er alle sindssyg.<Joey> ridder: sikker, det er derfor, vi arbejder på Debian.<JHM> Knghtbrd: komme i kontakt med din indre nutcase.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<CULus> Saens viser ikke mindre end 3 TCP / IP-bugs i 2.2.3
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Mercury> alexsh: Be / MEGET / cairful, du kunne, hvis din uheldige, steger din          bundkort ..<Knghtbrd> Mercury - lyder sjovt
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<RCW> dark: caldera?<Knghtbrd> RCW - det er ikke en fordeling, det er en forbandelse<RCW> Knghtbrd: det er en forbandet fordeling
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Software er som sex, det er bedre, når det er gratis. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Mørkt> Knghtbrd: Vi har masser af whatevers.<Knghtbrd> mørke - I Debian? Hell Yeah vi gør!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Jeg gjorde det bare for at pisse dig af. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+Den software, der kræves Win95 eller bedre, så jeg installerede Linux.
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) der er ingen 10, men det lød som en god nummer :)
+		-- Wichert Akkerman
+
+%
+Eric Raymond: Jeg ønsker at leve i en verden, hvor software ikke sutte.Richard M. Stallman: Enhver software, der ikke er fri stinker.Linus Torvalds: Jeg er interesseret i gratis øl.Richard M. Stallman: Det er okay, så længe jeg ikke behøver at drikke det. jeg                   kan ikke lide øl.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Jeg er ikke en nøgtern person, ... - Bruce Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Personligt tror jeg ikke taler ofte om social godt, fordi når jeg hører andrefolk taler om socialt gode, det er når jeg når til min revolver.
+		-- Eric Raymond
+
+%
+Hvis vi vil have noget rart at få født i ni måneder, så køn har atske. Vi ønsker at have den form for sex, der er acceptabel og sjov for bådemennesker, ikke den slags, hvor en person er at få skruet. Lad os få nogle crossbefrugtning, men ikke nogen at få skruet.
+		-- Larry Wall
+
+%
+Vi ved alle, Linux er fantastisk ... det gør uendelige løkker i 5 sekunder.
+		-- Linus Torvalds
+
+%
+JA! JA! JA! Åh ja! (Ooops, jeg lyder som Meg Ryan ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> Hvis jeg begynder at skrive essays om fri software til slashdot,           venligst skyde mig.
+		-- Ian Nandhra
+
+%
+<RoboHak> hmm, frokost lyder som en god idé<Knghtbrd> ville smage som en god idé også
+		-- Ian Nandhra
+
+%
+PS - Jeg er ved * denne * tæt på at løbe rundt i serverrummet med enpar boltsakse, og en stor trækølle, griner som en sindssyg ogskære alt, hvad jeg kan passe de boltsakse rundt. og tæv, atsom jeg ikke kan. så hvis jeg synes semi-usammenhængende, eller bare virkelig * virkelig * nastypå tidspunkter, tilgiv mig. stress er ikke en smuk ting. }; P
+		-- Phillip R. Jaenke
+
+%
+Enhver virksomhed klager over Microsofts forretningsmetoder er simpelthen enRosenbusk. De ser dejlige og lugt nice. Når en heldig virksomhed dethronesMicrosoft vil de kaste deres kronblade at afsløre torne nedenunder. ENtorn ved ethvert andet navn ville gøre ondt så meget.
+		-- Phillip R. Jaenke
+
+%
+Noget må der gøresDet er nogetDerfor skal dette ske
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - pas på james når han er væk fra sin medicin =>
+		-- The Thatcherite Syllogism
+
+%
+Ligegyldighed vil helt sikkert være undergang menneskeheden, men hvem bekymrer sig?
+		-- The Thatcherite Syllogism
+
+%
+Undervurder aldrig kraften i den menneskelige dumhed.
+		-- Robert A. Heinlein
+
+%
+Guld, n .:  En blød formbart metal relativt knappe i distributionen. Det udvindes  dybt i jorden af ​​fattige mænd, der derefter give det til rige mænd, der straks  begrave det tilbage i jorden i store fængsler, selvom guld ikke har gjort  noget til dem.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* Lilo erklærer OPN en virtuel smerte i røven :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"De er både virksomheder - hvis du har givet dem penge nok, jeg ersikker på de vil gøre, hvad fanden du spørger: -> "
+		-- David Welton
+
+%
+"Du har ret til ikke at være et røvhul. Hvis du giver denne ret opalt, hvad du siger og gør i her, vil blive brugt imod dig. Hvis du ikke kanråd til at stoppe med at være et røvhul så nogen vil blive udnævnt til at sparkeyours outta her. "
+		-- Your rights as an irc addict
+
+%
+* Simunye er så glad at hun har sin mors genets<Dellaran> du hellere give dem tilbage, før hun savner dem!
+		-- Your rights as an irc addict
+
+%
+<Iambe> conning de mest intellegent mennesker på planeten er ikke let
+		-- Your rights as an irc addict
+
+%
+California, n .:    Fra latin "calor", som betyder "varme" (som i engelsk "kalorie" ellerSpansk "caliente"); og "fornia '" for "samleje" eller"Utugt". Derfor: Tierra de California, "landet af hot sex."
+		-- Ed Moran
+
+%
+* Caytln slår Lisa<Caytln> catfight: P<LisaHere> Se den pige, jeg kan lide det.<LisaHere> :)<Caytln> tal: D
+		-- Ed Moran
+
+%
+<MFGolfBal> rit / ara: Der er noget virkelig demente om UNIX            undertøj...
+		-- Ed Moran
+
+%
+X Window System:  Standarden UNIX grafiske miljø. Med Linux, dette er normalt  XFree86 (http://www.xfree86.org). Du kan kalde det X, XFree, X  Window System, xf86, eller et væld af andre ting. Kald det "XWindows 'og  nogen vil smack dig, og du vil have fortjent det.
+		-- Ed Moran
+
+%
+<Knghtbrd> "De valuta samlere er offline." "Jeg omdirigering selv           de sekundære koblinger. Hvis vi igen justere fasen manifold vi           bør kunne bruge plasma inductor matrix den manuelt           lancere en ny teatralsk spinoff-serie. "* ShadwDrgn suk<Fase> du lader mine mangfoldigheder alene<Fase>!
+		-- Ed Moran
+
+%
+* Turken tænker små børn er absolut sød ... especialyy når  de er en andens.
+		-- Ed Moran
+
+%
+* Overfiend suk<Overfiend> Netscape stinker.<Overfiend> Det er et korthus hviler på en seng af kviksand.<Espy> under et jordskælv<Overfiend> i en tornado
+		-- Ed Moran
+
+%
+<SilverStr> medier etik er et oxymoron, ligesom Jumbo rejer og            Microsoft Works.<MonkAway> ikke at nævne NT Security
+		-- Ed Moran
+
+%
+<Silvrbear> selvmodsigende? Jeg så en i går - pjecen om "Taco Bell            Næringsindhold "
+		-- Ed Moran
+
+%
+* Knghtbrd udløser en par af dobbelt riflede snurf kanoner og dæksler  jesus med snurf dart<Jesus> Meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> doogie: du lyder meget ustabile :-)<Knghtbrd> jgoerzen - han er.* Doogie Bops Knghtbrd<Knghtbrd> se? Gribe til vold = D
+		-- Ed Moran
+
+%
+Jeg har også været en stor Unix fan lige siden jeg indså, at SCO ikke varUnix. - Dennis Baker
+		-- Ed Moran
+
+%
+<Dracus> Ctrl + Alternativ + Kommando + P + R<Knghtbrd> dracus - I guder! Det er værre end EMACS!<LauraDax> hehehehe<Dracus> ikke spørge, hvad der gør: P
+		-- Ed Moran
+
+%
+<Iambe> du ikke er en nutcase<Knghtbrd> Du tydeligvis ikke kender mig godt nok endnu. =>
+		-- Ed Moran
+
+%
+* Aj tænker Kb ^ Zzz burde vælge forskellige ting at drømme om end   generelle resolutioner og politiske ændringer.<Kb ^ Zzz> aj - fortæl mig om det, det er et dårligt tegn
+		-- Ed Moran
+
+%
+<Crow_> hmm, er der en --now-fanden mulighed for exim?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: JOIN THE DARK SIDE, UNGE ONE.<Kira> darth, jeg * er * den mørke side.
+		-- Ed Moran
+
+%
+<Netgod> Fëanor: u har ingen idé om dybden af ​​stupidty af amerikansk lov
+		-- Ed Moran
+
+%
+Enhver, der skiller sig ud i midten af ​​en vej ligner roadkill til mig.
+		-- Linus Torvalds
+
+%
+<Lilo> "Vær venlig at respektere immaterielle rettigheder!"<Lilo> "Please demonstrere intellekt." ;)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Fëanor - spørgsmål licens er vigtige. Hvis vi ikke ser vores           æsler nu, nogen skal nok komme op og bide os senere ...
+		-- Linus Torvalds
+
+%
+"Nu vil vi nødt til at dræbe dig."
+		-- Linus Torvalds
+
+%
+* Knghtbrd kan allerede forestiller: "Emne: [HENSIGTSERKLÆRING OM AT FORBEREDE at foreslå   Indlevering af BUG RAPPORT] stavefejl i det politiske dokument "
+		-- Linus Torvalds
+
+%
+<Netgod> heh thats en tabt sag, ligesom den korrekte udtalen af         "smykker"<Netgod> give det op :-)<Salvie> og den korrekte stavemåde af "farve" :)<BenC> heh<Sage> og aluminium<BenC> eller atomvåben<Salvie> du threating mig yankee?<Salvie> bare fordi vi ikke har bomben ...<BenC> tilbage fra ya gul mave
+		-- Linus Torvalds
+
+%
+<LauraDax>! Set gud<Tabi-> LauraDax, jeg ikke kan huske at se "gud"
+		-- Linus Torvalds
+
+%
+<Kira> er en kirurgisk krig, hvor du går give udenlandske tropper næse job?
+		-- Linus Torvalds
+
+%
+<Xtifr> Athena Desktop Environment! I jeres hjerter, du * ved * det er den        rigtige valg! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+<Knghtbrd> shaleh - urene er bare underligt.<Espy> heh, urene er cool<Knghtbrd> Espy - og underlig.<Espy> ja, weird også
+		-- Linus Torvalds
+
+%
+<Xtifr> direkte hjerne implantater :)<Knghtbrd> xtifr - yah, så bruger computere ville faktisk kræve nogle           af disse idioter til at tænke!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - BTW, efter at vi har opdaget X tager alle 1,4 Gigs           at bygge, er du villig indrømme, at X er bloatware? =><Overfiend> KB: Der er en 16 1/2 minut hul i mit svar<ACF> knghtbrd: bevis for, at X er kun * 2. * værste windowing      system)
+		-- Linus Torvalds
+
+%
+<LIW> damn, den autonome musen bevægelse begynder som regel efter jeg bruger en      museknappen<Wichert> ikke bruger en museknap derefter :)<LIW> yeah, højre :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> du ved, Linux har brug for en platform spil stjernespækket Tux<Knghtbrd> kinda Super Marioish, men med Tux og ting som lille cyber           bugs og Borgs og den slags ...<Knghtbrd> Og du er nødt til at hoppe forbi billgatus og ramte nøglen til at slippe ham           ind i lava og så skal du se en fyr, der ligner en RMS           eller nogen sige "Tak til redning mig Tux, men Linus           Torvalds er i et andet slot! "
+		-- Linus Torvalds
+
+%
+<Thoth_> Ja, godt det er derfor, det er nummereret 2.3.1 ... det er for dem af os         der savner NT-lignende uptimes
+		-- Linus Torvalds
+
+%
+<Shinobi> Der er værre ting end Perl .... ASP kommer til at tænke
+		-- Linus Torvalds
+
+%
+* M2 stirrer på skærmen ... det ligner en hamburger ...<Knghtbrd> m2 - det er et dårligt tegn
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overlade det til Manoj at kalde procmail "sølle"
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: godt, jeg kan ikke forstå ting som "s / 3 # $% ^% {]] [@ f245}"<Manoj> Crow: Det er ikke helt lovlig ;-)<Knghtbrd> Manoj - hvordan ville man gøre "s / 3 # $% ^% {]] [@ f245}" juridisk           alligevel? (Og hvad ville det gøre? Hehe)<Manoj> Knghtbrd: Du skal afslutte s /// udtryk.<Knghtbrd> Åh, er, at alle?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, det eneste sprog skrevet til milspec.<Mikster> <gyse>
+		-- Linus Torvalds
+
+%
+<BenC> -include ../../debian/el33t.h<BenC> sendmail build ... mærkeligt header navn :)<Isildur> hahaha* netgod laffs<Netgod> BenC: kan u fortælle jeg brugte til at opretholde sendmail? : P<BenC> heh :)
+		-- Linus Torvalds
+
+%
+<Fase> nej ... Jeg musn't have noget mere kaffe !!! ;)<Simunye> sikker yu gøre Fase :)<Phase> du virkelig ønsker mig hoppende fra loftet?<Simunye> Yesh :)<Kira_> hoppe fra loftet er gewd<Fase> ok, det var et dumt spørgsmål<Kira_> det er splatting på gulvet, der er problemet.
+		-- Linus Torvalds
+
+%
+<Kensey> RMS for præsident ???<RelDrgn> ... eller ESR, ønsker han et nyt job;)
+		-- Linus Torvalds
+
+%
+Åh nej, ikke igen.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> Indrømmet, RMS er en fanatiker, jeg benægter ikke dette. Jeg vil endda sige           han er en kongelig smerte i røven det meste af tiden. Men han er           stadig oftere ret end ikke, og han fortjener en vis grad af           kredit og respekt for hans arbejde. Vi ville ikke være her i dag           uden ham.
+		-- Manoj Srivastava
+
+%
+<Espy> morgen vil der være en stor forstyrrelse i arbejdsstyrken
+		-- May 18, 1999
+
+%
+Jeg er ordblind af Borg. Forbered dig på at få din røv lamineret.
+		-- May 18, 1999
+
+%
+<NeonKttn> Jeg havde en ven stick mig i hendes skab under highschool beacuse I           ville ikke tro, at hendes kæreste vidste om forspil ...<NeonKttn> Jeg shoulda bragt popcorn. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> hardcopy er for wussies<Topher> computer programoversigter .... næste, på hardcopy
+		-- May 18, 1999
+
+%
+<Kceee ^> Jeg hader brugere<Knghtbrd> du lyder som en sysadmin allerede!
+		-- May 18, 1999
+
+%
+<Change_m2> Will LINUX nogensinde overhale skiveskåret brød som # 1 præstation            menneskehedens?
+		-- May 18, 1999
+
+%
+<APH> manoj går møtrikker på fejlretning korstog! woo woo!<Knghtbrd> manoj gik nødder lang tid siden. men fejlrettelser er cool =>
+		-- May 18, 1999
+
+%
+<RCW> disse tilsyneladende-bakterier-lignende flerfarvet orme kommer ud af      microsofts Back Orifice<RCW> det er backoffice logo
+		-- May 18, 1999
+
+%
+* Simunye er på en oc3-> OC12<Daem0n> simmy: bide mig. :)<Simunye> dæmon: ok :)
+		-- May 18, 1999
+
+%
+<Overfiend> lilo: godt så, er du sandsynligvis en ansvarlig tænker.            Velkommen til en meget lille klub.<Lilo> Overfiend: velkommen mig, når du tilmelder dig :)
+		-- May 18, 1999
+
+%
+Dybest set, jeg vil have folk til at vide, at når de bruger binær-only moduler,det er deres problem. Jeg vil have folk til at vide, at i deres knogler, og jegønsker det råbte ud fra hustagene. Jeg vil have folk til at vågne op i enkold sved hver gang i et stykke tid, hvis de bruger binær-kun moduler.
+		-- Linus Torvalds
+
+%
+* Wichert_ forestiller mester uden en MTA<James> Wichert: ehm? der kan hindre indvinding af BTS: p
+		-- Linus Torvalds
+
+%
+<Gekko> Hmm ... Jeg spekulerer på, hvad der ellers adskiller Debian fra resten af        Linux-distributioner.<Knghtbrd> gekko - Vi må ikke Suck<Gekko> Knghtbrd: Du behøver ikke at sige, at når man behandler en masse mennesker        FRA disse distributioner<Knghtbrd> gekko - punkt.
+		-- Linus Torvalds
+
+%
+På grund af den lukkede source-udvikling model af XFree er det umuligtat støtte, eller endda spekulere over, træk i præ- eller beta udgivelseraf XFree.
+		-- Marcus Sundberg
+
+%
+>> Jeg ikke rigtig betragter bibel-KJV-tekst som et teknisk dokument,>> Men ... :)> Det er en manual - for at leve.Men det har ikke været opdateret i lang tid, vil mange sige, at det erdesværre forældet, og opstrømsvedligeholderen ikke reagerer på hanse-mail. :-)        - Branden Robinson, Oliver Elphick, og Chris Waters i en           besked til debian-politik
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> jeg kan tænke på masser af mennesker, der har brug USER = ID10T sted!
+		-- Marcus Sundberg
+
+%
+<Slashdot> min amerikanske Geografi er elendig ... lol<Knghtbrd> så er min og jeg bor her
+		-- Marcus Sundberg
+
+%
+Moonchild uden en udtalelse? Satan er skøjteløb på arbejde i morgen!
+		-- Brett Manz
+
+%
+<Knghtbrd> Jeg ønsker virkelig ikke meget på alle ... Bare et venligt ord, en           attraktiv kvinde, og Ubegrænset båndbredde !!
+		-- Brett Manz
+
+%
+<Knghtbrd> Hvis vi er begge ret (jeg gætte vi er) Jeg er ikke meget glad.* Minupla hænder du underdrivelse af året award.
+		-- Brett Manz
+
+%
+Sidste gang havde jeg intim kontakt med et andet menneske var snarere ensmertefuld oplevelse ... Jeg kunne godt lide det ...;)
+		-- Brett Manz
+
+%
+<Apple_IIe> nogen set min 80 kolonne-kort?
+		-- Brett Manz
+
+%
+<Slackware> uh oh, hvad har jeg startede :)<Debian> ROFL ... distro nick krige.* Slackware bare venter / nick Gnome, / nick KDE, og derefter verdenskrig 4   at bryde ud<WinNT>: oP<OpenBSD> <ænder><PalmOS> :)<Slackware> no'one ville turde / nick RedHat<Tru64> mew.
+		-- Brett Manz
+
+%
+<Crow-> im fcucking druk* Knghtbrd sørger for at logge alt Crow- siger i aften ...<MrBump> heheh<MrBump> Han sagde, at han ville gifte sig med mig! for pokker!!<Crow-> dude ingen måde<Knghtbrd> MrBump - han er ikke så beruset<MrBump> Knghtbrd: Jeg er knust: o)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> gøre det stoppe!<Knghtbrd> gøre det stoppe !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - okay, plasteret ikke er brudt, men min hjerne           tilsyneladende er<Wc> det er ikke noget nyt (;<Knghtbrd> wc - tys.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+<DPG> amerikanere er underligt ....<Xtifr> californierne endnu weirder<Knghtbrd> xtifr har en pointe ...
+		-- Brett Manz
+
+%
+* Woot smiler roligt.<Woot> Jeg ønsker ikke at virke i løbet af ivrige om at komme ind knghtbrd s       siglist.
+		-- Brett Manz
+
+%
+<CULus> DHD: R du del af hemmeligheden debian overstructure?<DHD> nej. der er ikke nogen hemmelighed debian overstructure.<Kosmisk stråling> selv, nu, at nogen bragte det op, lad os starte en            :-)<Knghtbrd> kosmisk stråling - hvorfor ikke, lyder som en sjov måde at tilbringe           eftermiddag = D
+		-- Brett Manz
+
+%
+<Xtifr> du behøver ikke at være sindssyg for at arbejde her .... oh vente, ja du gør!        :)
+		-- Brett Manz
+
+%
+* O-o altid gerne debmake fordi han vidste præcis, hvad det ville gøre ...<Ibid> o-o: du ville ;-)
+		-- Brett Manz
+
+%
+2.3.1 er blevet frigivet. Folk nye til dette spil skal huske, at2.3. * Udgivelser er udvikling kerner, med ingen garantier, at devil ikke få dit system til at gøre forfærdelige ting som korrupte sindiske, antændes, eller begynde at køre Mindcraft benchmarks.
+		-- Slashdot
+
+%
+gøre {    :} While (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * echo "... Linux er bare et modefænomen" | mail billg@microsoft.com -s = "Og husk ..."
+		-- Slashdot
+
+%
+<Hop> kb: Jeg kræver integritet og ærlighed i dem, som jeg gør forretninger med<Hop> jeg ved mine krav er urimelige, men en fyr kan drømme, kan han ikke?
+		-- Slashdot
+
+%
+<Jgoerzen> stu: ahh denne maskine. Tror du ikke, at noget opkaldt           Stallman fortjener at være en Alpha? :-)<Stu> jgoerzen: nej, faktisk, jeg ville prolly være mere tilbøjelige til at nævne et 386      med 4 megs RAM og en 40 meg harddisk Stallman.<Stu> med en stor fed sag, der gør tonsvis af støj og rasler gulvet* Knghtbrd falder på gulvet holder sine sider griner<Stu> og ..<Stu> dobbelthøje harddisk
+		-- Slashdot
+
+%
+Klingon funktionskald ikke har "parametre" - de har argumenter '
+		-- and they ALWAYS WIN THEM.
+
+%
+* Knghtktty kommer ikke til at spørge, hvordan zucchini kom ind i diskussionen ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Emne: [GR FORSLAG] Skal vi stemme om trivielle sager?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Woot> Put * at * i dig .sig og ryge det, Knghtbrd.<CULus> Du ved, han vil læse dette:><Woot> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Som du rejse gennem livet tage et minut og næ for at give entroede for den anden fyr. Han kunne plotte noget. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Okay, du folk er begyndt at tale om BSDM anvendelser af           netværkshardware ... Jeg tror, ​​jeg vil løbe ud og gøre noget nyttigt           og Debianish og holde sig ude af denne ene ...<Knghtbrd> (til en ændring)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - tror ikke Debian har ikke haft nogle meget dum og           åbenlyse bugs før<Knghtbrd> naturligvis vi normalt fastsætte vores FØR vi frigiver = D
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - jeg er en Debian-udvikler. Red Hat er "fjenden" eller           sådan noget jeg gætte .. Stadig, typecasting RH brugere som           idioter eller deres fordeling som helt brudt som standard           er fuldstændig og total FUD.
+		-- Hagar the Horrible
+
+%
+>> Men IANAL, selvfølgelig.>> IANAL enten. Min søn er, men hvis jeg spurgte ham jeg kunne få et svar I> Ville ikke ønsker at høre."Her er min faktura." ? = D
+		-- Hagar the Horrible
+
+%
+> Ok, jeg ser du, hvad du laver :-)Enten det, eller jeg har fået temmelig god til faking det.
+		-- Hagar the Horrible
+
+%
+<Wichert> 8:00 er en ungoldly time at være vågen :)* Gorgo normalt får op på 11:00
+		-- Hagar the Horrible
+
+%
+Der er ingen Cabal.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> ACF: måske april 1 næste år slashdot skal køre "Rob Malda            accepterer nyt job som leder af Debian-projektet "8)
+		-- Hagar the Horrible
+
+%
+* Netgod åbner sin postkasse og straks ønsker han hadnt
+		-- Hagar the Horrible
+
+%
+<Frogbert> dets hårdt at være en lesbisk withoutn bryster ... folk dont tage           du seriøst
+		-- Hagar the Horrible
+
+%
+Måske Debian er bekymret mere om teknisk ekspertise i stedetbrugervenlighed ved at bryde software. I førstnævnte kan vi excel. iSidstnævnte vi nødt til at indrømme feltet til Microsoft. Gæt hvor jeg vil heni dag?
+		-- Manoj Srivastava
+
+%
+* PerlGeek er virkelig et rum fremmede* Knghtktty mener PerlGeek
+		-- Manoj Srivastava
+
+%
+<Netgod> min klient har været ejet alvorligt<Netgod> denne fyr fik rod, løb packet sniffere, installerede .rhosts ogbagdøre, sætte en helt ny dir i kaldet / lib / "", som har enfuld suite af smurfing og dræbe værktøjer<Netgod> den eneste fejl var ikke slette logfiler<Netgod> spørgsmål er, hvordan var rod hacket, og at jeg ikke kunne fortælle u<Netgod> det er naturligvis ikke en debian box* Netgod bemærker debian boks er den eneste venstre uberørt af hacker
+		-- wonder why
+
+%
+* joeyh cvs begår sit hjem mappe. aaaaaa<Drow> eeeeeeek<Drow> joeyh: Det er simpelthen ondt. Periode.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: UFies er ud over den menneskelige race :)
+		-- wonder why
+
+%
+Jeg stoppede for lang tid siden at forsøge at finde noget i bug listen over dpkg.Vi skal køre efter en post i Guinness Book of Records.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> Jeg regnede 17G oughta være nok.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> har / usr / bin / emacs blevet sat i / etc / shells endnu? : P
+		-- Stephane Bortzmeyer
+
+%
+* Joeyh udnytter Netscape forunderlige evne til at gå ned for at lukke        10 vinduer med et enkelt tastetryk<Joeyh> nu det er fremskridt!<Knghtbrd> Bus fejl =>
+		-- Stephane Bortzmeyer
+
+%
+<Wordplay> Du måle dine vibratorer i "tegn pr sekund"? jeg hardårlige nyheder for dig, C90, har du været onanerer med endot-matrix printer.
+		-- Stephane Bortzmeyer
+
+%
+Hej! Jeg er en .signature virus! Kopier mig ind i din ~ / .signature at hjælpe mig sprea =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty hvisker søde Nothings til Thyla (ting om compilere og            grafik og ram opgraderinger og store harddiske ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: det er positivt pornografisk ...* Thyla går ud i anfald af ekstase ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> du fyre er alle syge! syg syg syg jeg fortælle ya;)
+		-- Stephane Bortzmeyer
+
+%
+* BMA er et ryk* Knghtbrd er en Knghtbrd* DHD er også et ryk* Espy er ondt* Knghtbrd mener Espy
+		-- Stephane Bortzmeyer
+
+%
+* BMA undere, hvis dette vil gøre Knghtbrd .sig
+		-- Stephane Bortzmeyer
+
+%
+Techical løsninger er ikke et spørgsmål om at stemme. To lovgivninger i USAstater næsten besluttet, at værdien af ​​Pi være 3,14, præcis. Populære stemmegør ikke for en korrekt løsning.
+		-- Manoj Srivastava
+
+%
+<Aj> <Knghtbrd> stigningen i spænding på verdensplan (som det fremgår af kriminalitet<Aj> og whatnot) i denne periode ser meget gerne Linux<Aj> vækst siden 1993<Aj> `` Linux knyttet til verdensomspændende kriminalitet epidemi !! ''
+		-- Manoj Srivastava
+
+%
+<Teller> hvor er jeg, og hvad gør jeg i denne handbasket?
+		-- Manoj Srivastava
+
+%
+Da denne database ikke bruges i profit, og da hele værker ikkeoffentliggjort, det falder under fair use, som vi forstår det. Men hvis nogenhalv-assed idiot beslutter at gøre en fortjeneste ud af dette, vil de nødt til atdobbelttjekke det hele ...
+		-- Notes included with the default fortunes database
+
+%
+Der er ingen snooze knap på en kat der ønsker morgenmad.
+		-- Notes included with the default fortunes database
+
+%
+Emne: Bug # 42432: debian-politik: Forslag til CTV til Udkast til Bevis forKoncept for Udkast til Forslag til Forslag til CTV til en CTV at træffe beslutning omet forslag til CTV for CTV om, hvorvidt vi shoud har en CTV på/ usr / doc til / usr / share / doc overgang nu, eller senere.
+		-- Ed Lang
+
+%
+<Knghtbrd> Det er en trackball for én<Wichert> så det er ikke en gnaver<Wichert> det er en skiderik med en bold stikker ud<Wichert> som du kæle hele tiden
+		-- Ed Lang
+
+%
+* HomeySan venter på papa john pizza til at dukke op<Ravenos> mm. papa Johns.<HomeySan> forhåbentlig de sender den søde levering driveren<Ravenos> de dont have det her.<Dr_Stein> hvorfor? du skal nok spise driveren i stedet?
+		-- Ed Lang
+
+%
+<Netgod> er det mig, eller er Knghtbrd snorken?<Joeyh> de dræbte knghtbrd!<Netgod> Kysh: Wichert, gekko, joeyh, og jeg er i et rum forsøger at ignorere          Knghtbrd<Kysh> netgod: Knghtbrd er svært at ignorere.
+		-- Ed Lang
+
+%
+<Woot> Man, jeg ønsker knghtbrd var her at få fat i, at for hans SIG listen.[... Flere timer senere ...]<Knghtbrd> woot ikke kender mig vewy godt, gør han?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd skind Wichert med NERF dart* Wichert noter Der er ingen ICBM nerfs endnu og ignorerer kngtbrd<Knghtbrd> Wichert - bare vent, efter at have set NERF Gatling kanoner, ICBm'ere           er ikke langt væk (bare pumpe forbandet ting for en time eller to           er alle ...)
+		-- Ed Lang
+
+%
+Operativsystemer Installeret:  * Debian GNU / Linux 2.1 4 CD Set ($ 20 fra www.chguy.net; Prisen inkluderer    skatter, shipping, og en $ 3 donation til FSF). 2 cd'er er binære filer, 2 cd'er    komplette kildekode;  * Windows 98 Second Edition Upgrade version ($ 136 gennem Megadepot.com,    Prisen inkluderer ikke skatter / shipping). Overraskende, ingen kildekode    er inkluderet.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Stjæl denne tagline. Jeg gjorde.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> oh noooo, Knghtbrd har fået en pistol :)<Doogie> ^^ indsætte musik ^^<Knghtbrd> bfextu - o / ~ alle er på flugt o / ~<Bfextu> o / ~ løbe væk, ruuuuun væk fra betalings-ay-ain o / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Mercury> Emacs stinker, bogstaveligt talt, ikke en fornærmelse, bare en kommentar, at dets          stor nok til at have en mærkbar tyngdepåvirkning ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Som en computer, jeg finder din tro på teknologi morsomt.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Knghtbrd tildeler 3 til Chris* variable vidundere hvem der ellers er opkaldt chris udover mig<Knghtbrd> variabel - dig. =>* Knghtbrd venter variabel til dramatisk sige "Jeg føler mig så brugt!"<Variabel> Knghtbrd: :)* Variabel ++<Variabel> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy funderer en uplad kø kaldet "helvede", så jeg kan gøre dupload --to helvede
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> java, hon, nogle gange jeg virkelig ønsker at smack dig.<Knghtbrd> Valkyrja - han ville nyde det for meget<Reteo> Valkyrja: yah, gå videre og gøre det ... slå java til cappuccino! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Tali> være vewwy vewwy qwuiet .. Jeg er huntin wuntime ewwos
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Red Hat har for nylig udgivet en Security Advisory (RHSA-1999: 030-01)dækker en buffer overflow i vixie cron-pakke. Debian haropdagede denne fejl for to år siden og er fastsat. Derfor versioner ibåde, den stabile og ustabile, distributioner af Debian er ikkesårbare over for dette problem ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Første off - Quake er simpelthen utroligt. Det kan du gentagne gange dræbe dinchef på kontoret uden at blive anholdt. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Lucas 'lov: God vil altid vinde, fordi det onde hyrer den _stupid_             ingeniører.
+		-- Signal 11, in a slashdot comment
+
+%
+* TribFurry kun får spam mail fra UCSD ... Jeg plejede at få e-mail fra            mig selv, men jeg besluttede jeg ikke kunne lide mig selv og stoppet taler	    til mig
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> notat om et kollegieværelse køleskab ... "Til den person, der spiste indholdet            af beholderen mærket "James '- advarsel, det var min biologieksperiment "
+		-- Signal 11, in a slashdot comment
+
+%
+<KatanaJ> Bemærk på en chem lab køleskab-"Dette køleskab er ikke explosion-          bevis".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DALnet er ligesom de særlige OL for IRC. Der er en masse           savlen sker der og alle er en "vinder".
+		-- Signal 11, in a slashdot comment
+
+%
+Men modificering dpkg er umuligt, og vi har aftalt at blandt andet,holde de behov, vores brugere på forkant med vores sind. Og fra enbrugerens perspektiv, noget, der holder systemet ryddeligt i den normaletilfælde, arbejder og * nu * er meget bedre end idealistiske fantasier som enarbejder dpkg.
+		-- Manoj Srivastava
+
+%
+For hver vision er der en lige og modsat revision.
+		-- Manoj Srivastava
+
+%
+<Epsilon3> Knghtbrd, hvis vi ønskede en lameass bemærkning, vi ville have sagt:           Hey, neckro
+		-- Manoj Srivastava
+
+%
+<Tigah _-> Jeg har 4gb for / tmp<Knghtbrd> Hvad gør du med 4G / tmp? Compile X?<Tigah _-> ja
+		-- Manoj Srivastava
+
+%
+<KnaraKat> Bite mig.* TheOne får nogle salt, fortsætter derefter til nibble på KnaraKat lidt         bit ....
+		-- Manoj Srivastava
+
+%
+* Knghtbrd bemærker han har kartoffelmos for hjerner i aften<Valkyrie> yum, kan jeg have nogle?<Knghtbrd> um ...* Knghtbrd skjuler fra Valkyrie
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> joeyh nu har en terminal på sofaen?<Knghtbrd> Den fyr er kabelbaseret, jeg sværger =><Doogie> Knghtbrd: laptop<Doogie> og jeg mener ikke kattene.
+		-- Manoj Srivastava
+
+%
+Givet nogle af de seneste tråde, måske de interaktive diskussionernødvendigt at udføre på lærred, i nærvær af en dommer, mensiført polstrede handsker. ;-)
+		-- Phil Hands
+
+%
+<James> men derefter brugte jeg en Atari, jeg var mere tilbøjelige til at vinde i lotteriet i        ti lande samtidigt end få accelereret X
+		-- Phil Hands
+
+%
+* Joeyh undrer alle ønsker at vide, hvor høj han er<James> joeyh: det hjælper snigskytte
+		-- Phil Hands
+
+%
+* BenC undrer han har opgraderet til 3.3.5-1 før teh X vedligeholder
+		-- Phil Hands
+
+%
+<Delenn> Jeg ville ikke gøre det gennem 24 timer, før jeg ville skyde op         grill og slapping et par venner på barbie.<Spacemoos> Hvorfor ville du smække venner med barbies, thats kinda kinky
+		-- Phil Hands
+
+%
+Faktisk .. baseret på denne model af, hvad NSA er og ikke ... mange af defolk læser dette er medlemmer af NSA ... /. er afterall 'Nyheder forNerds ".NSA mandag MORGEN {på kaffemaskine):NSA AGENT 1: Hey gutter, har du tjek slashdot i weekenden?    AGENT 2: Nej, jeg var at installere Mandrake 6.1 og jeg coulnd't få darn             PPP-forbindelse op ..    AGENT 1: Nå tjek det ud ... de er til os.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Teknologi er en constand kamp mellem producenterne producerer større ogflere idiot-bevis systemer og natur producerer større og bedre idioter.
+		-- Slashdot signature
+
+%
+knghtbrd: der kan være ingen spoon, men kan du få øje sårbarheden ieye_render_shiny_object.c?
+		-- rcw
+
+%
+<Joy> wow ... simple matematik viser, at Debian-udviklere har lukket mere      end * 31 * * tusind * fejlrapporter siden vores BTS eksisterer!<Joy>, der er omkring 30.999 mere end Microsoft;)
+		-- rcw
+
+%
+<Knghtbrd> Bemærk, at ovenstående er blot en udtalelse og bør ikke væreFor at omfatte enhver foranstaltning faktuelle oplysninger. DET           SPEAKER FRASKRIVER alt og alle. Håndtere det.
+		-- rcw
+
+%
+<James> enhver gnome freaks rundt?<Knghtbrd> ikke mig, jeg er bare en freak
+		-- rcw
+
+%
+<Madax> ahh<Madax> en forsamling af nørder ....<Madax> Jeg kan lugte det nu
+		-- rcw
+
+%
+<Knghtbrd> lære at elske Window Maker.<Knghtbrd> lidt NeXTStep er godt for sjælen.
+		-- rcw
+
+%
+Advarsler: det er GNOME, være bange, være meget bange for Afhænger linje
+		-- James Troup
+
+%
+<CULus> Hhhmmmmmmmm<cULus> vandsenge til køer<CULus> eleet<Cas> cULus: hvorfor skulle en ko har brug for en vandseng?<CULus> cas: At være comfy varm
+		-- James Troup
+
+%
+Hvis du er hvad du spiser, jeg gætter på, at gør mig en ost dansk.
+		-- Anonymous
+
+%
+<Hop> når du begynder at gøre kun dumme fejl, som er indlysende, thats      når du begynder at få kompetent<Hop> fordi du ikke gør grundlæggende misforståelse fejl<Hop> og thats en * god * tegn.
+		-- Anonymous
+
+%
+<Lilo> det er underligt, når du går på en safari til Afrika for at fange en løve, du       finder det i live og det afgifter, og så skal du dræbe den<Lilo> når du går på en safari til South Bay for at finde en Palm Vx, du finder       det døde og tage den med hjem og det afgifter efter den ankommer :)
+		-- Anonymous
+
+%
+<Lilo> jeg kan læse den blodige * manual * som om det var en slags       religiøse tarmkanalen beskriver former for oplysning du kan opnå       efter 10 år på et bjerg :)
+		-- Anonymous
+
+%
+Gates 'lov: Hver 18 måneder, hastigheden af ​​software halvdele.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: tilføje brugere, som skal rode med lyd til gruppe           lyd .. Sørg for, at enhederne er alle gruppe lyd (ls -l           / Dev / dsp vil give dig den hurtigste indikation, hvis det er noksæt højre) og bygge en kerne med lyd support til dit kort<Knghtbrd> eller eventuelt installere alsa kilde og bygge moduler til at           med make-kpkg<Knghtbrd> OR (anbefales ikke) få og installere onde OSS / Linux onde           ikke-frie onde binære kun onde chauffører --- men dem er onde.Og jeg nævne, at det ikke anbefales?
+		-- Anonymous
+
+%
+Jeg tror irc kommer ikke til at arbejde selv --- vi kører ud af emnet plads!
+		-- Joseph Carter
+
+%
+"Pacific Bell kundeservice, det er [..], hvordan kan jeg give digfremragende kundeservice i dag? ""Hahahahaha !! Det er godt, jeg kan lide det ..""Um, tak, de gør os sige det."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: blodige newzealanders<Omnic> danpat: sætte en sok i det<Danpat> heh :)<Knghtbrd> gøre grin med .nz'ers er anderledes --- de er alle underlige* knghtbrd huder<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> Flinny: sort crontab magi kinda stuff :)<Knghtbrd> Joy: Betyder folk får at danse nøgen rundt bål           chanting mærkelige ting og vinke deres arme omkring i en fjollet           måde?<RCW> knghtbrd: hvad gør du * tror * folk gør på Novare?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * snipsnip *<RCW> Åh kære, er, at lyden af ​​lykke-database redigering?<Joy> uh oh<Knghtbrd> Ja =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> det er noget rod (TM)<Knghtbrd> fungerer det (tm)<Joy> AIX værker (TM)<Knghtbrd> nej det gør ikke<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Forskellen mellem genialitet og dumhed er, at genialitet er detgrænser. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> Hvis opladningen nogen for overtrædelse af den amerikanske krypto love ville få           du lo ud af retten, bare "undersøge" dem på hte opladning           for forræderi!<Knghtbrd> Tea, anyone?<Espy> Jeg vil hellere drukne politikere i stedet for te :)<Stu> espy: politikere har gæller, duh<Espy> weasels ikke har gæller
+		-- Albert Einstein
+
+%
+Hvis jeg har problemer med at installere Linux, der er noget galt. Meget forkert.
+		-- Linus Torvalds
+
+%
+* Bma_home famler dig<Bma_home> "oups, forkert kanal"<Bma_home> </ ACF><Cerb> quit famler mig<Doogie> du ved, du kan lide det.<Bma_home> faktisk, det var "famler mig baby"<Gecko-> tryk min søn og du dør, BMA;)<Doogie> gecko-: men din kone er ok?
+		-- Linus Torvalds
+
+%
+Læsning computer manualer uden hardwaren er så frustrerende som læsningsex manualer uden softwaren.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (Tinc)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (det)<Knghtbrd> (i)* Espy konstaterer taler i acr ^ Winitialisms er skræmmende, når den anden side  forstår dig
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> Det er for dårligt ældste Unix er Y2K kompatibel<| Rain |> for dårligt?<| Rain |> hvorfor, fordi folk ikke vil opgradere til 2038?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "Jeg har installeret" Linux 6.1 «, ikke at gøre mig en unix                guru? "<BenC> Espy_on_crack: nej, du er nødt til at installere det to gange, før du er en       guru ... en gang for at bevise, kan du gøre det, den anden til at ordne de ting       dit brød første gang<Espy_on_crack> åh højre, hvor dum af mig
+		-- Arthur C Clarke
+
+%
+* Knghtbrd gør ET ting<Knghtbrd> nogen fik en tale-n-magi?
+		-- Arthur C Clarke
+
+%
+<Omnic> anden .sig tilføjelse
+		-- Arthur C Clarke
+
+%
+Jeg begynder at tænke genpuljen kunne bruge lidt klor.
+		-- Arthur C Clarke
+
+%
+Det er så slemt som du tror, ​​og de er ude for at få dig.
+		-- Arthur C Clarke
+
+%
+<Espy> være forsigtig, kan nogle skvat citere dig<Espy> ud af kontekst ...
+		-- Arthur C Clarke
+
+%
+*** Emne for #redhat: Redhat er svaret på alle dine problemer. Det    kunne være starten også!
+		-- Arthur C Clarke
+
+%
+* Cesarb vidundere hvis i mindre end en uge Carmack vil ende med at modtage i  e-mail en høflighed kopi af en version af Quake kilde, som er fire  gange hurtigere end hvad der gik ud af hans virtuelle hænder ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: Jeg er ikke at sætte jordskælv i kerne-kildekode<Knghtbrd> men vi bør sætte jordskælvet i boot disketter til én-up           Caldera s Tetris spil ..;>
+		-- Arthur C Clarke
+
+%
+Guns ikke dræbe mennesker. Det er disse damn kugler. Guns bare gøre dem gåvirkelig virkelig hurtig.
+		-- Jake Johanson
+
+%
+<Espy> vi brug for at splitte vigtigste i "kerne" og "wtf anvendelsesformål-dette"
+		-- Jake Johanson
+
+%
+<Culus-> libc6 er ikke afgørende: |
+		-- Jake Johanson
+
+%
+<DHD> er der en speciel jul pack til skælve<DHD> hvor du kommer til at være ligesom santa robot på Futurama?<Dunham> DHD: det ville være en temmelig ubalanceret spil ...<Knghtbrd> Dunham: det er ideen. ;>
+		-- Jake Johanson
+
+%
+<Knghtbrd> problemet med GNU kodningsstandarder er, at de antager, atalle i verden bruger emacs .. Hvis det var tilfældet, gratis           software ville dø, fordi vi ville alle have håndled problemerligesom RMS ved nu og ikke længere være i stand til at kode. ;>
+		-- Jake Johanson
+
+%
+C'mon! politisk protest! sheesh. Hvor er den anarkistiske ånd? ;-)
+		-- Decklin Foster
+
+%
+Vi har forhøjet vores standarder, så op dit!
+		-- Decklin Foster
+
+%
+* Woot er nu kendt som woot middagen* Knghtbrd drysser lidt salt på woot<Knghtbrd> Jeg har aldrig haft en woot før ... Håber de smager godt<Woot middagen> noooo!<Woot middagen> ikke spiser mig!* Knghtbrd beslutter han ikke ønsker en middag, der taler til ham ... hehe
+		-- Decklin Foster
+
+%
+[Om foranstaltninger for at forhindre snyd i quake]Jeg mener, så længe jeg kan gøre mine raketkaster ligne en stor kage,Jeg vil være glad;)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: kort sagt, vi bevæger flere ting klienten           øjeblikket er ansvarlig for at fortælle serveren ind i ting de           server checks for sig selv<Knghtbrd> Hvis Neo siger "Der er ingen spoon", vil The Matrix sige "Åh ja           der --- ingen snyd! "<Hollis> Men han ved kung fu ...<Knghtbrd> Sure han gør, men jeg har en raketkaster.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Kviksølv roligt fjerner XT-Ream arm ..* Kviksølv fortsætter derefter at slå XT-Ream med XT-Ream arm.<Knghtbrd> wow, er alt dette quake hacking gør Mercury voldelig her* Mao er glad jordskælvet smedje projektet er i gode hænder
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> CVS / Entries havde den linje, jeg havde brug for at "ændre"<Mercury> Knghtbrd: Var ved at nævne sådan .. <G><Mercury> Knghtbrd: Nu, klar til at forpligte?<Knghtbrd> ønske mig held og lykke<Knghtbrd> Mercury: det er begået<Knghtbrd> Mercury: og efter alt det, jeg burde være for.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd krydser hans tæer<Knghtbrd> (hvis jeg krydsede mine fingre det ville være svært at skrive)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> der er en dårlig ting om at have en mobiltelefon.<Doogie> Jeg kan kontaktes på ethvert tidspunkt. : |<Wmono> det er derfor, jeg forlader mine slukket hele tiden. ;>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> hvordan skal vi man udtaler '00 eller '01 eller '02 og så videre?<Deek> Sig farvel til halvfemserne, sige goddag til de naughties. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> Hvis brugeren peger pistol på sin fod og trækker på aftrækkeren, det       er vores opgave at sikre kuglen får, hvor det er meningen at.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Mercury> Blive advaret, jeg har et tastatur, jeg kan bruge til at slå Luser hoveder          i, og derefter fortsætte med at bruge ... (=:]<Deek> Mercury: Åh, en IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> knght, sheesh, du indsætter mine ord ud af kontekst i           #debian eller noget?<Palisade>;)<Knghtbrd> nej, men jeg burde nok være;><Palisade> d'oh!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> Mercury: gpm er ikke en meget god webbrowser. lav det.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> godt der ya gå. sige noget dumt i irc og har det      udødeliggjort for evigt i en eller andens .sig fil
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Microsoft er en krydsning mellem Borg og Ferengi. Desværre,de bruger Borg til at gøre deres markedsføring og Ferengi til at gøre deresprogrammering.
+		-- Simon Slavin
+
+%
+Jeg vil hellere bruge 10 timer på at læse en andens kildekode end 10minut lytter til musak venter til teknisk support, som ikke er.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Hvor tror du, du skal hen i dag?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Jeg havde hørt alle mulige dysterhed og doom forudsigelser for Y2K, så jeg troede jeg ville lytte nogle af de råd, som eksperterne har været at give: Fyld bilens benzintank, bestanden op på dåse varer, fylde badekarret med vand, og så videre.Jeg tror, ​​jeg var ikke helt vågen, da jeg afsluttede mine forberedelser i slutningen af ​​sidstenat. Her til morgen fandt jeg køkkenet hylderne dyppet i benzin, vandi bilens benzintank, og min badekar fyldt med baked beans.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzan> hey har du falder din Pirch eller noget?<Knghtbrd> mig? heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy> du er bagt<Knghtbrd> Espy: kun halvdelen så
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> jeg generelt ikke bruger noget, der har "eksperimentel", og            "Advarsel" klistret over det hele<Darkangel> nej, jeg er ikke så dum ... hehe<Knghtbrd> ...* Darkangel mener at downloade den seneste ustabil kerne
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> solaris er BSD, så det bør arbejde* Espy tager Wichert s crack pipe væk
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Det er for dårligt de fleste gamle Unix viste sig Y2K kompatibel<Knghtbrd> fordi det betyder, at folk stadig vil være at køre dem i 30 år           = p<Knghtbrd> det ville have været så meget pænere, hvis Y2K effektivt dræbt           hpux, aix, SunOS osv;><Espy> Knghtbrd: siden hvornår er PH-UX, ømhed, og solartus "gamle"?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+* Gxam undrer hvis er virkelig nødvendigt alle disse globals<Knghtbrd> de fleste af dem i øjeblikket ja<Knghtbrd> vi virkelig har brug for at rense dem op på et tidspunkt<Knghtbrd> gxam: de globals bliver nødt til at gå væk, da vi vandrer i retning           modularitet og galskab (dvs. libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, jeg tror den kode du fast i mine fungerede<Raptor> jeg må ikke have begået arbejdsmiljøet koden<Knghtbrd> raptor: som om det er første gang, der nogensinde er sket = p
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> Knghtbrd: Brug -3dfx eller -svga?<Knghtbrd> Kviksølv vil gøre noget ved sine fulde fem med det<Knghtbrd> Mercury: både --- SVGA sig11 s, -3dfx sig4 s<Knghtbrd> Mercury: det er ikke godt ret? ;>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Stol på os, vi ved, hvad vi laver ... Vi kan ikke have nogen idé om, hvordan           vi gør det, men vi ved, hvad vi laver.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> <CJ | Bizkit-0-> jeg kan uploade til linux server tho<Mercury> <CJ | Bizkit-0-> jeg fik en shell-konto på en<Mercury> <Mercury> Hvad det kører?<Mercury> <CJ | Bizkit-0-> umm<Mercury> <CJ | Bizkit-0-> apache jeg tror<Mercury> Hjælp, please help ..* Omni chuckles
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Jt> bør en fejl markeres kritisk, hvis den kun påvirker en bue?<James-workaway> jt: rc for at bue måske, men den slags bue                 specifikke bugs er sjældne ...<Jt> ikke når det er forårsaget af en fejl i gcc<Doogie> jt: få gcc fjernet fra denne bue. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Edlin> LWE?<Edlin> Linux W ?? E ??<Ser> vil eatyou<JHM> World Expo?<Edlin> jeg ser
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Nominel gebyr". Hvad en grim sætning. Det er en af ​​de ting,indebærer, at hvis du nødt til at spørge, kan du ikke råd til det.
+		-- Linus Torvalds
+
+%
+<Deek> du GPL dit hjemmearbejde? :)<Knghtbrd> yah = D<Knghtbrd> Nogen er tilladt at bruge eller ændre mine lektier, men hvis de           distribuere ændringer, de skal indeholde den fulde maskinlæsbare           kildekode;>
+		-- Linus Torvalds
+
+%
+* Knghtbrd er hver dag mere overbevist om, at de fleste C ++ kodere ikke ved, hvad           fanden de laver, hvilket er grunden til C ++ har sådan en dårlig rap<CULus> kb: Most C kodere ikke ved, hvad de gør, det bare gør det        nemmere at skjule: P<CULus> se for eksempel proftpd: P
+		-- Linus Torvalds
+
+%
+<CULus> Og ikke får mig startet på perl!<CULus>:><Shaleh> perl er ud over det onde<Jim> du ikke kender perl endnu?<Netgod> gotta elsker et sprog uden definerbar syntaks
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / random | perl?<Shaleh> doogie: det er også en gyldig sendmail.cf<Doogie> :)* Knghtbrd hænder Doogie en meningsløs-brug-af-cat award* Shaleh ønsker at prøve det, men er bange
+		-- Linus Torvalds
+
+%
+<DHD> perl </ dev / BDSM<Knghtbrd> du har en / dev / BDSM?<DHD> sikker, er det en pseudosadomasochistic tilfældige tal generator
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: Jeg er på det lige nu .. 3 1.3GB diske, 128M ram, dual 50Mhz        (Op til quad 250Mhz)<Kysh_> Fangsten er, at det trækker 110v på omkring 12A 8><CULus> 12A!<CULus> Okay, min ovn er 3000W, dette Solen er 1320W<CULus> Kan du se et problem her<Calc> en 1320W sol, der er som en hårtørrer :)
+		-- Linus Torvalds
+
+%
+* Joeyh_ kører ps og ser 10 linjer awk kode* Joeyh_ viger tilbage i rædsel
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: Jeg var nede siden midmorning i går og PacBell sagde           i morges, at AT & T var skyld og næsten alle af staten           var nede<RCW> dunno hvorfor folk insistere internettet kan overleve et nukleart holocaust      når den ikke kan overleve en rendegraver
+		-- Linus Torvalds
+
+%
+Dette indlæg blev skrevet med vi! (Ikke at nogen i verden cares)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+reset Tilslutning af nogle moron med en rendegraver
+		-- seen on an old message from an anon.penet.fi address
+
+%
+5 feb 13:27:01 trinity lp0 i brand        - Linux-kernen, advare mig, at der var nogle ukendte           problem med min printer (dvs. det var tør for blæk)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Jo mindre du ved om computere, jo mere du vil Microsoft!        - Microsoft annoncekampagne, circa 1996(Bevis for, at Microsofts reklame _isn't_ uærligt!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Gør en strålende beslutning og en hel masse middelmådige dem er ikke sågodt som at gøre en hel masse generelt kloge beslutninger i helehele processen.
+		-- John Carmack
+
+%
+Det er ikke normalt koste effektiv tid klogt at gå gøre det. Men hvis noget ervirkelig pissing dig ud, du bare gå finde koden og løse det, og det ervirkelig cool.
+		-- John Carmack, on the advantages of open source
+
+%
+<Calc> ja det lyder nyttigt for RE'ing USB<Calc> jeg har en ubrugelig 3Com usb kamera her :(<Knghtbrd> calc: 3Com kunne få dig arresteret for at overtræde love, som           eksisterer ikke 'til oktober;><Calc> knghtbrd: Jeg vil skjule :)<Knghtbrd> ... modsætte sig anholdelse for eh?<Calc> knghtbrd: nej jeg vil skjule før jeg få serveret
+		-- John Carmack, on the advantages of open source
+
+%
+<Mercury> På det tidspunkt det vil kompilere, men segmenteringsfejl, som det skal ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Knghtbrd er alt for fristet til .sig hele denne diskussion ...
+		-- John Carmack, on the advantages of open source
+
+%
+Den Unixverse slutter Tue, 19 jan 2038 03:14:07 +0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: vi skal gøre en quake episode: knæ dybt i koden ":          du kører rundt skyde på bugs :)<Knghtbrd> taniwha: Jeg vil videregive ideen om at OpenQuartz;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> jeg ville løse en windows centralt problem med fdisk :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: QW s netcode gør mærkelige ting til mig. : P<Knghtbrd> Dette er usædvanligt? ;><Endy> Ikke rigtig. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> RCW: Oh yay --- Jeg har ikke været involveret i en god flamewar ind på           mindst ... 5 minutter!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: Jeg er ikke, på trods af din implikation, Gud
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> Jeg har lige købt MS Office 2000 for kun $ 20 !!!<Knghtbrd> du fik rippet;><SlayR> jeg ved;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> det er 06:00. Jeg har været op 24 timer<Knghtbrd> Vågn mig op og risiko liv og lemmer.* Knghtbrd &; sove<Tv> Okay alle, vi vente 10 minutter, og derefter begynde at oversvømme Knghtbrd     med ^ G. Nogen, hack rod og kat / dev / urandom> / dev / dsp.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Knghtbrd er nu kendt som SirKewLDooD*** Mercury sparkede SirKewlDooD fra #quakeforge (* whack *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Mercury> Knghtbrd: Jeg ville elske at se støtte til XOR trådkors ..<Knghtbrd> Mercury: du er på kvaksalver.<Mercury> Knghtbrd: Du er forhandleren ... <G>*** Knghtbrd er nu kendt som QuackDealer
+		-- John Carmack, on the advantages of open source
+
+%
+* Dry-isen kan ikke kode sig ud af en papirpose<Coderjoe> tøris: int main () {ExitPaperBag (); returnere 0; }<Knghtbrd> Er det sådan det er gjort så? * Tager noter *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> eek, ikke en anden ...<Knghtbrd> Synes nogensinde udvikler og deres mor har nu en tilfældig           signatur ved hjælp IRC citater ...<Knghtbrd> Hvad har jeg startet her ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Ser bruger knghtbrd kommentarer som hans underskrift<Knghtbrd> ser: så snart jeg har skrevet dem indså jeg, jeg må hellere klippe dem           mig selv før en anden gjorde;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Omnic ser på sin 33.6K link og ser derefter på Joy* Kviksølv cuddles hans kabelmodem .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Indrømmet, Win95 udseende var ikke så nye enten - Apple forsøgte at sagsøgeMicrosoft til kopiering af Macintosh UI / papirkurvikonet, indtil Microsoftpåpegede, at Apple fik mange af sine Mac-ideer (herunder papirkurvenikon) fra Xerox ParcPlace. Xerox er sandsynligvis stadig undreralle er interesserede i deres skraldespande.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Knghtbrd> er det et tegn på psykisk sygdom til at vandre planløst gennem           starte kort, indsamle dine Thunderbolt, hop i poolen, og gib           dig selv med det bare for at se dit hoved buouce når det faldergennem bunden af ​​poolen? =><Knghtbrd> "Du ved du er en Quake narkoman, når ..."
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> Jeg synes stadig, du fyre er nødder sammenlægning Q og QW. : P<Knghtbrd> Selvfølgelig er vi nødder. Selv John sagde det. =><Taniwha> Zoid: vi er nødder, men vi er produktive nødder :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: vi er nødder, men vi er produktive nødder :)* Taniwha undrer hvad produktive nødder smager
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: Citat materiale :)<Taniwha> Endy: :)<Knghtbrd> Endy: Jeg allerede klippede det
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> Faktisk, jeg tror, ​​jeg vil vente til kartoffel afsluttet inden       installerer Debian.<Endy> Det burde være snart, jeg håber. :)<Knghtbrd> Endy: Du selvfølgelig vide meget lidt om Debian.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Intet er et problem, når du debug koden.
+		-- John Carmack
+
+%
+<Overfiend> Unix måde - alt er en fil<Overfiend> Linux måde - alt er et filsystem :)
+		-- John Carmack
+
+%
+<Devkev> Ja jeg så lyn pistol og hvor du skulle, tænker         du ville sparke nogle røv :)<Devkev> ikke indse det ville være din egen :)
+		-- John Carmack
+
+%
+"Ellers skal du tale med en læge om at fjerne dit hoved fra dinrøv, jeg tror, ​​det vil være gavnligt for alle involverede. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Tagline, du er det!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Jeg praktiserer en fin spids af etik. Det er acceptabelt at skyde tilbage.Det er ikke acceptabelt at skyde først.
+		-- Zed Pobre
+
+%
+<Coderjoe> gib, perl?<Gib> methinks perl er programmørens Swiss Army Chainsaw
+		-- Zed Pobre
+
+%
+<Endy> taniwha: Har du TESTET denne ene? :)<Taniwha> Endy: selvfølgelig ikke
+		-- Zed Pobre
+
+%
+Det er det sjoveste jeg nogensinde har hørt, og jeg vil _ikke_ tolerere det.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Det er ikke? Siger du, at du bør give folk (andre end WilliamWallace) til at skyde lyn bolte fra deres røv?
+		-- Seth Galbraith
+
+%
+<Mercury> Du behøver ikke at være vanvittigt at være medlem af projektet, men          du vil være .. <=:]
+		-- Seth Galbraith
+
+%
+* Endy skal høre kaffe: P<Endy> kaffe bot personen, ikke kaffe drikkevaren :)<Knghtbrd> høring af drikken kan hjælpe også =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: og de sagtmodige skal arve Kmart
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "Java for COBOL Programmer"<Knghtbrd> der skriver disse ting?<raptor> folk på crack<Raptor> og COBOL programmører<Raptor> :)<Knghtbrd> det er overflødigt.
+		-- Seth Galbraith
+
+%
+<Evilkalla> heh, jeg tog aldrig en kodning klasse<Evilkalla> eller en grafik klasse<Evilkalla> eller en software design klasse<Vegansk> og det viser: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD kaster spaghetti på alle* Taniwha spiser spaghetti* Coderjoe smider omkring nogle kødboller* Knghtbrd får osten* Taniwha griber en rød
+		-- Seth Galbraith
+
+%
+<Theoddone33> Hvad er denne besked på min skærm,<Theoddone33> så blå, så blå, hvad kan det betyde?<Theoddone33> Kan du, ville du trykke på Slet,<Theoddone33> Ctrl og Alt og derefter gentage.
+		-- Seth Galbraith
+
+%
+<Gorgo> hvad får du, når nogen revner din debian maskine?<Gorgo> kartoffelmos ...
+		-- Seth Galbraith
+
+%
+<Aj> kommer på<Aj> det er en pico-klon<Aj> det er * betød * at være irriterende
+		-- Seth Galbraith
+
+%
+<Espy> jeg påberåbe Espy lov, hvori det hedder, at I alle suck: P
+		-- Seth Galbraith
+
+%
+<Overfiend> cULus: ønsker suspendere mig for det? :)<CULus> Overfiend: Gå skadeligt knække et par servere, og vi vil tale<Overfiend> cULus: damn, det er at være ondsindet?<CULus> Overfiend: Desværre, ja
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 suger nok til at have sin egen tyngdekraft ...
+		-- Seth Galbraith
+
+%
+* Kosmisk stråling ønsker han havde nogle strippere her ....<Kosmisk stråling> err, wire strippere
+		-- Seth Galbraith
+
+%
+<Wildthing> ok fyre .. så whens næste begå: PP<Taniwha> når de kommer til at få mig
+		-- Seth Galbraith
+
+%
+<Mdorman> Jeg er en gnuer person, mig selv. Det er en editor! Det er en floorwax!          Det er en dessert topping!
+		-- Seth Galbraith
+
+%
+<Tausq> Spørgsmål: Hvad er forskellen mellem Batman og Bill Gates?<Tausq> A. Når Batman kæmpede Penguin, vandt han.
+		-- Seth Galbraith
+
+%
+På et tidspunkt, bits nødt til at gå i pakker og routere skal gørebeslutninger om dem. Ændringer på dette niveau er, hvad jeg ønsker at høre om, ikkestrategiske virksomhedens relationer.
+		-- John Carmack
+
+%
+Vi afviser: konger, præsidenter, og afstemningen.Vi tror på: rough konsensus og arbejder kode.
+		-- Dave Clark
+
+%
+<Knghtbrd> QF vil få zipfile support i dag<Coderjoe> heh ... infozip?<Knghtbrd> Hvis jeg er heldig ja<Deek> knghtbrd: Du kidding, right? ;)* Deek tager væk Knghtbrd s crack pipe. ;)
+		-- Dave Clark
+
+%
+<Deek> ændre alle cvar-> værdi = X til at bruge Cvar_Set ()<Theoddone33> det skete ikke i oldtree<Deek> Faktisk, det gjorde.<Knghtbrd> ja - to uger senere.
+		-- Dave Clark
+
+%
+=== Dette brev er Honor System Virus ====Hvis du kører en Macintosh, OS / 2, Unix, ellerLinux-computer, skal du slette tilfældigtflere filer fra din harddisk ogsende denne besked til alle du kender.==============================================
+		-- Dave Clark
+
+%
+* Genvej ønsker at komme i en af ​​knghtbrd s sigs en af ​​disse dage.
+		-- Dave Clark
+
+%
+<Dr ^ Nick> SGI_Multitexture er dårlig voodoo nu<Dr ^ Nick> ARB er god voodoo<Witten> nej, voodoo rush er dårlig voodoo :)
+		-- Dave Clark
+
+%
+99 lidt bugs i koden, 99 fejl i koden,        ordne en bug, kompilere det igen ...        101 lille fejl i koden ....
+		-- Dave Clark
+
+%
+Hmm ... Hvilket ville gøre et bedre stykke arbejde på at køre fysikere sindssyg? Rejsehurtigere end lyset, eller en floating-point boolesk værdi?
+		-- Michael Mol
+
+%
+<Calc> knghtbrd: gnome 2.0 vil være ude i et par måneder, ikke sikker på, hvordan det       vil sammenligne med KDE 2.0 dog<Knghtbrd> calc: Lige så oppustet, ligesom buggy, og hver Gnome 2 app       vil afhænge af 30 biblioteker.<Slimer> knghtbrd: så hvilke ændringer fra 1,0?
+		-- Michael Mol
+
+%
+<Ze0> ja, hvordan er alt i verden af ​​Quack?<LordHavoc> bare Ducky<Ze0> fremragende, stegt duck er mægtig fin velsmagende.
+		-- Michael Mol
+
+%
+<FrikaC> jeg skal nok genstarte ...<FrikaC> ok brb<FrikaC> Så hvad hinanden formular undgå virii, memory leaks, og grasserende         Crash gør Linux reallhy tilbyde :)<LordHavoc> pålidelig multitasking?
+		-- Michael Mol
+
+%
+<Tausq> if (cb) ((CB-> obj) -> * (CB-> ui_func)) ();<Knghtbrd> tausq: Hvem fanden skrev, at?<Tausq> mig :)* Knghtbrd flogs tausq
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> heh<Endy> Er det i 1.2? :)
+		-- Michael Mol
+
+%
+<Mercury> knghtbrd: Eww, find et bedre navn, filmen suget .. <G><Knghtbrd> Mercury: Motoren er bedre end filmen
+		-- Michael Mol
+
+%
+<LackOfKan> Hvad er 'bots'?< `` Erik> RSG er en bot, ikke et menneske, ikke en menneskelig brugbar klient, bare en bot.< `` Erik> omkring det samme som en quake bot, undtagen IRC bots er (som regel)         bygget til at hjælpe, ikke skyde din røv fuld af huller
+		-- Michael Mol
+
+%
+if (mig = dig!) // FIXME: sandsynligvis altid sandt, slette?    for (n = 0; n <who_knows_what n ++) {        answer = doSomething (withthis [n]);        if (svar == foobar) {            GetLost (n);            pause;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: ikke noget problem med indekserede farvepaletter til billeder, som           længe du kan vælge paletten<Yorick> Naturligvis folk skaber quake var farveblind, men at         betyder ikke, du nødt til at være
+		-- Michael Mol
+
+%
+<cesarb> Damn, hver gang jeg gyde, qf-client-X11 låse hårdt<Zoid> Må ikke dø?<Knghtbrd> godt incitament.
+		-- Michael Mol
+
+%
+Hvorfor er det, at alle de instrumenter, der søger intelligent liv iunivers er spidse væk fra Jorden?
+		-- Michael Mol
+
+%
+<Rebelpacket> hey, hurtigt spørgsmål, er der nogen måde at fremskynde              udførelsen af ​​uquake-x11?<Deek> rebelpacket: Hvis du ønsker at fremskynde det, smide det sværere.
+		-- Michael Mol
+
+%
+<Netgod> du ved<Netgod> dens virkelig trist, når InterNICs selv cant konfigurere DNS         servere rigtige<Netgod> det bare gør ikke få nogen mere patetisk end
+		-- Michael Mol
+
+%
+<Knghtbrd> Selv med overbrights, Quake farvepalet er fuld af kedelige,           flade farver<LordHavoc> knghtbrd: quake palet er meget levende, medmindre du bruger gamma            rettelse<LordHavoc> godt faktisk jeg er enig, det er ikke nær så levende som Unreal<Deek> Q3 derimod ... neon.<LordHavoc> Q3 er bare latterligt<Deek> Q3 tager den middelalderlige kirke-dungeon og sætter den i Vegas.
+		-- Michael Mol
+
+%
+"Jeg har en høne at plukke, og et par til at bryde."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie Optimeret til Infiltration og Destruction
+		-- Anonymous
+
+%
+<Deek> Ja, Amerika er et land baseret på hvor pissed-off en gruppe beskattes       folk kan få.<Deek> Vi eksisterer som et land, fordi vi er billige.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: mange pletter på toppen af ​​4.0.1 allerede?<Overfiend> Oskuro: et par<Overfiend> kun 152 Megs
+		-- Anonymous
+
+%
+<Joeyh> Åh min, det er en UP P III.<Doogie> dos det.* Joeyh kører dselect<Overfiend> der burde være tilstrækkeligt :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: crap, SDL sikker gør DGA en fandens masse lettere for           ikke det? :)<Knghtbrd> barneyfu: hvad DGA?<Barneyfu> mus DGA<Knghtbrd> barneyfu: (betyder det besvare dit spørgsmål?)<Barneyfu> Hahahahaha YEAH! :)
+		-- Anonymous
+
+%
+<Deek> "En god programmør kan skrive FORTRAN på alle sprog."<Deek> knghtbrd har bevist, at du kan skrive C ++ i ethvert sprog også.       <Grin><Mercury> Vi er i øjeblikket considdering om vi skal give ham eller præmie, eller          Dræb ham..<Mercury> (Selvfølgelig ved alle rettigheder, dette betyder, at vi skal give ham          præmie, og derefter dræbe ham .. <G>)
+		-- Anonymous
+
+%
+En subversive er nogen, der kan ud-argumentere deres regering.
+		-- Anonymous
+
+%
+Vi skal vide, vi vil vide.
+		-- David Hilbert
+
+%
+<Knghtbrd> Internet censur. Fordi dine børn skal være           beskyttet mod nøgne kvinder, medicinske procedurer, diversekulturer og voldelige videospil.<Knghtbrd> (men information om at opbygge bomber, stjæle kabel, og           fremstiller lægemidler er okay ...)
+		-- David Hilbert
+
+%
+En af mine venner har en stregkode på hans arm.Han ringer op som en $ 0,35 pakke JuicyFruit.
+		-- Seen on Slashdot
+
+%
+<NullC> Jeg kan godt lide frø kode til beregning maskering kurver.<NullC> Jeg har aldrig set kode, der gjorde der ønsker at drikke, før det ...
+		-- Seen on Slashdot
+
+%
+$ Du = ny YOU;dytter (), hvis $ du-> kærlighed (perl)
+		-- Seen on Slashdot
+
+%
+<Cj> nej! problemer i M $ software?<Cj> "Grundigt bugtested"* Dabb griner.<LordHavoc> omskrive det som "Grundigt buginfested '
+		-- Seen on Slashdot
+
+%
+<Doogie> dpkg har bugs? ingen måde!
+		-- Seen on Slashdot
+
+%
+"Debian: ingen hatte eller krybdyr blev skadet i tilblivelsen af ​​denne fordeling =. "
+		-- Paul Slootman
+
+%
+* Athener kalder Amnesty International House of Pancakes
+		-- Paul Slootman
+
+%
+<Elmo> urene: err, admin teamet styrer ikke arkivet, det er       ftp kliken<Elmo> få din cabals rigtigt, for pokker :-P
+		-- Paul Slootman
+
+%
+<BenC> kosmisk stråling: du udfylde mig<BenC> err ...<Kosmisk stråling> heh* BenC går tilbage til kodning* Elmo ser på benc<Elmo> noget, vi bør vide om dig og kosmisk stråling, Ben? :)
+		-- Paul Slootman
+
+%
+Skift sociale kontrakt? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Program modtagne signal SIGSEGV, Segmentering skyld.<Knghtbrd> 0x40095fb0 i memchr () fra /lib/libc.so.6<Knghtbrd> (gdb) bt<Knghtbrd> # 0 0x40095fb0 i memchr () fra /lib/libc.so.6<Knghtbrd> # 1 0x0 i ?? ()<Knghtbrd> Nå Det er virkelig hjælpsomme* Knghtbrd handler gdb for en dejlig Ouija bord - det vil hjælpe mere
+		-- Branden Robinson
+
+%
+Alle gode ideer ligne dårlige ideer til dem, der er tabere.
+		-- Dilbert
+
+%
+RFC 882 sætte prik i .com, ikke Sun Microsystems
+		-- Seen on Slashdot
+
+%
+* Joeyh_ overvejer, om linux formodes at låse op, når du spørger 100  processer til kat hele cd-drev
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Quake bør støtte xray vision, dammit<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... du spurgte ...<Kosmisk stråling> haha, der er en reel mappe
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Jeg snige TO BUN<Knghtbrd> HJÆLP MIG TIL AT kvaksalver<Venom> kb: hvad fanden snakker du om?<Knghtbrd> BWAHAHAHA .. Det er en lang historie.
+		-- Seen on Slashdot
+
+%
+<WildCode> Mercury, ikke debugging X lidt ligesom at finde perfekt           fejlfri kode i Windows ??<Mercury> WildCode: Debugging X er som at forsøge at køre en lige linje          gennem en labyrint.<Mercury> Du skal bare bøje rum-tid, således at hjørnerne flytte rundt          dig, og du vil ikke have nogen problemer. (=:]
+		-- Seen on Slashdot
+
+%
+<Miguel> `Du er blevet afmeldt fra den høje energi personlige         beskyttelsesanordninger postliste '<Miguel> jeg ikke kan huske at komme ind i postlisten
+		-- Seen on Slashdot
+
+%
+<Myte> Jeg får en forbindelse nægtede ved tilslutning til port 25, nogen       ved, hvor den helvedes log er?<Aj> Myte: /var/log/damn.log?* Aj undrer hvad der ville se ud<Aj> December 18 05:32:30 Blåe smtpd [123]: DAMN det hele til HELVEDE !!
+		-- Seen on Slashdot
+
+%
+* Væsel vidundere hvor dum man skal være til spam alt.anonymous.messages<Knghtbrd> væsel: omkring halvt så dum som man skal være for at høste det.
+		-- Seen on Slashdot
+
+%
+* Wolfie grunder hvor mange debianites det tager at skrue i en pære<Viiru> wolfie: Et eller andet sted omkring 600? En skrue er pæren, og resten        flamme ham for at gøre det forkert.<Del> wolfie: er pæren gratis software?<Tv> Kan vi stemme om, hvorvidt at skrue det eller ej?
+		-- Seen on Slashdot
+
+%
+<Culus_> Vi håber også at frigive en version af linux hvor skallen er         erstattet af perl i høj grad. Tilføjelse til, at der er en         få af os, der gerne vil se en ren perl platform .. Perlos :)* Culus_ ser på i rædsel<Mstone> Culus_: på op side, kan du skrive damn nær noget i ved         kommandoprompt :)
+		-- Seen on Slashdot
+
+%
+<Mercury> LordHavoc: Grunden GL har overdraw er fordi det kun er          med halvdelen af ​​det system, de er designet til vis.<Mercury> LordHavoc: Shooting sig selv i foden.* Dabb ser på alle de skudhuller i hans sko - damn, masser :)
+		-- Seen on Slashdot
+
+%
+<Dabb> hehe, jeg hader virkelig fejlrapporter som er ligesom at kalde ild       afdeling og siger: "Der er ild her, kom" :)<Dabb> (og hængende op)* Dabb dræber dusin fejlrapporter.
+		-- Seen on Slashdot
+
+%
+<Xtifr> wow, jeg tror, ​​jeg lige brugt libtool at løse et problem - nogen        hjælp mig! :><Luca> xtifr, skridt væk fra tastaturet
+		-- Seen on Slashdot
+
+%
+<Mao> hvorfor de insisterer på ading -Werror ...<Misty-chan> Mesa ville ikke kompilere ud af boksen, hvis det blev gjort af dig             fyrene;)<Knghtbrd> Uh, Mesa IKKE kompilere ud af boksen det meste af tiden.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: Nej, det er ikke. Win32 mangler svarer til gaflen ().<Knghtbrd> Deek: Windoze er ikke beregnet til folk, der skal have adgang til           skarpe genstande, derfor ingen fork ()<Knghtbrd> i stedet, skal du stole på skeen ()
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Denne skrifttype er begyndt at komme ud meget pænt<Stu> Knghtbrd: oh kære, du hacking endnu quake skrifttype i vi? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> åh, foruden, hvad den bedste fremgangsmåde, hvis jeg ønsker at gøre en Quake       niveau designet fra en eksisterende bygning?<Knghtbrd> Få en grundplan af Brian kontor? =)<Pv2b> Knghtbrd: im overvejer min skole.<Knghtbrd> Oh stor<Knghtbrd> Det er alt, vi har brug for
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Windoze Cement: Nu med CrackGuard (TM)! Aldrig bekymre sig om           grimme revner i Windoze Cement igen! CrackGuard (TM) erså kraftig, at den hele ting vil smuldre før det vilknække. Bestil din $ 200 opgraderingsversion dag!
+		-- Seen on Slashdot
+
+%
+<Doogie> cULus: min bug med OpenSSH synes at være fikseret i 2.5.2, men         mester kører 2.3.0<CULus> Ikke engang starte<Doogie> jeg lige gjorde.<CULus> Du fyre kommer til at køre mig til at bygge en kæmpe gigantisk robot og        ødelægge alle texas, er du ikke?
+		-- Seen on Slashdot
+
+%
+<Shader> hvad forkert med rjing?<Rhamphoryncus> det er lame: P<Rhamphoryncus> Det bør ikke være muligt<Rhamphoryncus> skubbede en granat op i røven og bruge det som raket                propelant bør ikke være en levedygtig teknik: P
+		-- Seen on Slashdot
+
+%
+ * Svarende kode er tilgængelig fra RSA Data Security, Inc. * Denne kode er testet mod denne, og svarer, * Bortset fra at du ikke behøver at omfatte to sider af juridiske aftaler * Med hver kopi.
+		-- public domain MD5 source
+
+%
+* Knghtbrd er væk - zzz - meddelelser knækkede ligesom våde håndklæder på alle  af de mennesker, der har stjålet varemærket knghtbrd væk besked<Coderjoe> ack* Coderjoe forbereder sig på at forsvare sig fra våde meddelelser
+		-- public domain MD5 source
+
+%
+Undervurder aldrig kraften i nogen med kildekode, en tekst editor,og viljen til helt slange deres system.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Så vil Andover partiet har en kontant bar?""Nej, der er gratis øl.""Uh-oh, Stallman skal nok blive pissed ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Addi> Alter.net synes at have erstattet en af ​​sin router med en zucchini.
+		-- overheard at the Bazaar, 1999
+
+%
+<Mercury> Nogen ordne det.<Despair> begået<Knghtbrd> Despair: Mercury?<Despair> Knghtbrd: han er træt, har lavet en fejl, ville nogen til at fortryde det.<Knghtbrd> Despair: så du havde ham begået?<Despair> Knghtbrd: godt, dedikeret anyways.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: det er ikke bloat hvis det bruges<Knghtbrd> taniwha: hvordan vil du forklare Windoze så?<Taniwha> Knghtbrd: det meste af det bruges kun som ballast for at sikre din          harddisk er fuld<Knghtbrd> taniwha: ballast ... Er det ikke det, der gør subs synke til           bunden af ​​havet?<Knghtbrd> taniwha: at ville forklare, hvorfor winboxes altid gå ned.
+		-- overheard at the Bazaar, 1999
+
+%
+innovere / IN ingen vait / vb .: 1. At passende tredjepart teknologigennem køb, efterligning, eller tyveri og for at integrere den i ende-facto monopol-stilling produkt. 2. For at øge i størrelse og kompleksitetmen ikke i nytte; at reducere kompatibilitet eller interoperabilitet. 3. Hvis du villockout konkurrenter eller til at lock-in brugere. 4. For at opkræve flere penge; tiløge priserne eller omkostninger. 5. At erhverve overskud fra investeringer i andrevirksomheder, men ikke fra direkte produkt eller sales service. 6. For at kvæle ellermanipulere et frit marked; at udvide monopol beføjelser på nye markeder. 7.For at unddrage sig ansvar for misgerninger; at stige af. 8. For at køblovgivning, lovgivere, lovgivende forsamlinger eller høvdinge af staten. 9. Tilmægle alle transaktioner i en global økonomi; at begå underslæb; at co-opt magt(Statskup). Jf innovere, engelsk forbrug (antonym).
+		-- csbruce, in a Slashdot post
+
+%
+Den øredøvende tavshed lært mig ikke at spørge en flok nørder til rådgivningfra deres veninder
+		-- csbruce, in a Slashdot post
+
+%
+"Hvad skal vi gøre i aften, Bill?""Samme ting vi gør hver aften Steve, så prøv at overtage verden!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> Det minder mig, vil vi nødt til at købe en motorsav til kontoret. "I       nødstilfælde, bryde glas "
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> Han er en omkring halvdelen af ​​størrelsen af ​​de andre.<Knghtbrd> Men han har en motorsav.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Jeg holder mine personlige gpg data i en låst føre sikkert i en hvælving       bevogtet af vrede rednecks og deres dawgs. Trespassers vil være       krænket, og alt det der ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: er ikke den del af udvidelsen, der giver           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: nej, glDriverBugs () er en del af EXT_help_me.<Siigron> som også indeholder glMakeItWork (GL_PLEASE);
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erik> 18.446.744.073.709.551.616 er et stort antal
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> er det virkelig knghtbrd?<Knghtbrd> Nej, jeg er en ond bedrager!<Knghtbrd> En ond bedrager, der kan lide HYBRID!<Xavvy> haha<Xavvy> ok, det er ham: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> I * kærlighed * SWB !!<| Rain |> Eller tryk 5 for at tale med en representitive ..<| Rain |> * 5 *<| Rain |> Du bliver overført, skal du holde ...<| Rain |> ...<| Rain |> ...<| Rain |> Vi beklager, kan dette tal ikke kan fuldføres som ringet.<| Rain |> Kontroller nummeret, og prøv igen.
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> #define struct union / * stor plads saver * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> ingen BSD fans?<EvilTypeGuy> Elric: det er svært at være en gamer og en bsd fan: p
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> Der er for meget blod i min koffein system.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> cULus: er du vågen?<CULus> nej
+		-- csbruce, in a Slashdot post
+
+%
+<WLI> Ja, jeg kiggede på esd og det lignede den slags C-kode, som en      ex-Jovial / Algol '60 coder som havde tilbragt de sidste 20 år hoppende      mellem Fortran-IV og Fortran '77 ville skrive.
+		-- csbruce, in a Slashdot post
+
+%
+<Lineær> .net er Microsofts perverteret version af en java netværksbaseret            miljø uglified til vinduer-specifikke lort
+		-- csbruce, in a Slashdot post
+
+%
+<Mercury> LordHavoc: Jeg er allerede sindssyg.<Coderjoe> pokkers lige. eller krumme, skæve, eller hvad har du
+		-- csbruce, in a Slashdot post
+
+%
+Unix er moden OS, vinduer er stadig i bleer og de lugter dårligt.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Fra alle sterotypes om Aussies, jeg tal du fyre er         virkelig hård.<Midgar>; p<Krusto> vi smider koala s på dig
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Rain |> * nik * Jeg er ikke glad for at bruge Smartværter, mig selv<| Rain |> som den bygger på både den eksterne vært og din vært være smart<| Rain |> og alt for ofte du glip af en af ​​begge disse mål
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+Den sourceforge tilgang er at placere alle de projekter nogle kedelig"Open source surburbia", hvor alle husene er ens, med kunfarver og mindre stil variationer (som byggeplan blev brugt til hvilkebestemt hus) er tilladt af de restriktive pagter og lokalezoneinddeling love. Sourceforege er open source svarer tilinddeling i filmen "Edward Saksehånd".
+		-- Terry Lambert
+
+%
+<Calc> Knghtbrd: irc ikke kompilere c kode meget godt;)
+		-- Terry Lambert
+
+%
+* | Rain | forbereder polygon suppe<| Rain |> sød barmhjertig lort, virker det?* | Rain | besvimelse
+		-- Terry Lambert
+
+%
+"Da det er en selvfølge, at Microsoft vil være henkastning sin XMLmed pointere til Win32-baserede komponenter, det bedste, der kan siges omvedtagelsen af ​​XML er, at det vil gøre det lettere for browsere ogapplikationer på ikke-Windows platforme til at forstå, hvilke dele afdokumentere det må ignorere. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robert> Jeg forstår, at der er nogle rimelige grænser for ytringsfriheden i         Amerika, for eksempel jeg kan ikke skrige brand i et overfyldt teater.. Men kan jeg skrige ild i et teater med kun 5 eller 6 fuldtidskarriere	 i det ?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<AAV> kaffe på tom mave er temmelig nasy<Knghtbrd> AAV: tid til at køre til automaten for cheetos<AAV> cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> med sane kode, måske jeg kunne finde ud af renderer :)<LordHavoc> regn: Jeg ville nok være den, skrive renderer<| Rain |> godt, øh, øh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> Knghtbrd: lad mig give dig adgang til zonen filer<Knghtbrd> åh guder - du indser jeg har aldrig spillet med binde ret?<| Rain |> uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> Se, afviser, det er #OpenGL, ikke #GEEKSEX.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* TwingyAFK er shopping for 17 "fladskærm* AAV sælger TwingyAFK et stykke af krydsfiner
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Er det ikke pinligt, når du er nødt til at gå til apotek for nogle"særlige poster", og når du tjekker ud, ser kassereren på digligesom, "Åh, jeg ved hvad du laver i aften ..."Jep, det kasserer læse alle tegn ... dåse kylling suppe, TheraFlu,Halls, NyQuil de bigass flasker OJ og grapefrugtjuice ... han vidsteog jeg vidste, at jeg havde en date med teevee og en dyne. Awwwja.
+		-- Elizabeth Kirkindall
+
+%
+I videnskaben sker det ofte, at forskerne siger, "Du ved, det er en rigtiggodt argument; min holdning er forkert, 'og så de rent faktisk ændrerderes sind og du aldrig høre, at gamle udsigt fra dem igen. De virkeliggør det. Det sker ikke så ofte, som det skal, fordi forskerne erhuman og forandring er undertiden smertefuldt. Men det sker hver dag. Jeg kan ikkehuske sidste gang noget lignende skete i politik eller religion.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> tilføje et GF2 / 3, en anselig harddisk, og en 15 "fladskærm og           du har fået en temmelig forbandet bærbar maskine.<Coderjoe> et GeForce to tredjedele?<Knghtbrd> Coderjoe: ja, et GeForce to tredjedele, dvs. ethvert kort fra ATI.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo erklærer GCN Mest populære konsol nogensinde<Knghtbrd> Hvem er de kidding?<Mercury> knghtbrd: Stock indehavere?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> størstedelen af ​​Windoze kunstnere har ikke evnen til at            spare XPM<Mercury> LordHavoc: De har ikke notesblok? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+Linux understøtter ideen om en kommandolinje eller en skal af samme grundat kun børn læser bøger med kun billeder i dem. Sprog, det være sigEngelsk eller noget andet, er det eneste værktøj fleksible nok til at udretteen tilstrækkelig bred vifte af opgaver.
+		-- Bill Garrett
+
+%
+## Signoff: oprører (razzin 'frazzin' motherfu ... dum DirectX ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: Jeg ville ikke Kow, jeg ser intet behov for en stavekontrol endnu<Knghtbrd> du sagde?
+		-- Bill Garrett
+
+%
+<Knghtbrd> Jeg må hellere sætte belastende ting i kode: ahfuiovka           ikperoa edfr ade 9 enbuw ejasxleme ka Iena df4mesa<Knghtbrd> Hvis du kan dekryptere det, du er en bedre kryptograf end jeg           er. =)
+		-- Bill Garrett
+
+%
+<RCW> liiwi: printk ( "CPU0 i brand \ n");
+		-- Bill Garrett
+
+%
+<Electro> min computer var engang en af ​​byggestenene i en stor          pyramide
+		-- Bill Garrett
+
+%
+BEMÆRK: nogen set ryge vil antages at være i brand og vil være        summarisk sat ud.
+		-- Bill Garrett
+
+%
+<Markm> c ++: magt, elegance og enkelhed en håndgranat
+		-- Bill Garrett
+
+%
+<Knghtbrd> men en slags pr fane og ingen pr listen er velsagtens bedre end           O (n + n ** 2) pr fane og O (n ** 2) pr liste.<Knghtbrd> OMG, nogen skyde mig.<Coderjoe2>?<Knghtbrd> Jeg kan ikke tro, jeg bare brugt den store gås-æg til at forklare, hvorfor min           måde er sandsynligvis bedst i det lange løb.
+		-- Bill Garrett
+
+%
+<Hoponpop> mit program virker, hvis jeg tager ud bugs.
+		-- Bill Garrett
+
+%
+<Mercury> Knghtbrd: Hey, perl har magt ynde og elegance af en slæde          hammer. (=:]<| Rain |> sikkert den ynde og elegance, alligevel
+		-- Bill Garrett
+
+%
+<DannyS> Hit aben til at vinde $ 20 (*)!* Knghtbrd får sin hammer.* Knghtbrd planter det fast på DannyS 'hoved.* Knghtbrd vil tage hans $ 20 nu. = D
+		-- Bill Garrett
+
+%
+<Gholam> godt jeg er imponeret<Gholam> win98 formået at gå ned X indefra VMware.* Gholam bifalder.
+		-- Bill Garrett
+
+%
+"Nvidias OpenGL drivere er min" gold standard ", og det har været enstykke tid siden jeg har haft til at rapportere et problem for dem, og endda deres brandnye udvidelser arbejde som dokumenteret første gang jeg prøver dem. Når jeg haret problem på en Nvidia, jeg formoder, at det er min skyld. Med andre erdrivere, jeg formoder, det er deres skyld. Dette har vist sig korrekt næstenhele tiden."
+		-- John Carmack
+
+%
+Libtool delt bibliotek portabilitet er kun lidt mere troværdig endevighedsmaskiner. Især på AIX :). "
+		-- David Leimbach
+
+%
+<Overfiend> Dette er den nye Overfiend, forkynder af kærlighed og tolerance
+		-- David Leimbach
+
+%
+<Hoponpop> forskellen mellem NetBSD, FreeBSD, og ​​OpenBSD, som en           insider er FreeBSD er interesseret i at få tingene gjort, oghar ikke noget imod at såre mennesker, der får i vejen.<Hoponpop> NetBSD er interesseret i at sikre intet bliver gjort, og           har ikke noget imod at såre mennesker, der forsøger at udrette ting.<Hoponpop> OpenBSD er interesseret i at se godt, og ikke skade nogen           i deres egen lille samfund, men ser ud alle andre!
+		-- David Leimbach
+
+%
+<Liiwi> ja, hvad er den officielle måde at få buildd at prøve igen en pakke? prod        det med en pind?<Joey> prod neuro<Liiwi> med en pind?<Joey> ja.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... du vil mere end sandsynligt se alle slags compiler           advarsler rulle af på skærmen. Dette er normalt og kanvære sikkert ignoreret. "<LordHavoc> Knghtbrd: er, at en fodnote til nogle M $ kode?<Knghtbrd> Nej, det er en note om en flok GNU ting.
+		-- David Leimbach
+
+%
+<Hydroxid> knightbrd: fra knightbrd.brain import * :)<Knghtbrd> Oh guder, hvis det var så let ..<Knghtbrd> fra carmack.brain import OpenGL
+		-- David Leimbach
+
+%
+<LIM> mmmm, multitextured donuts ....<Knghtbrd> LIM: med frugt påfyldning?<LIM> knghtbrd: chokolade creme ...
+		-- David Leimbach
+
+%
+<StevenK> Du omskrive dele af Quake i * Python *?<Knghtbrd> muahahaha
+		-- David Leimbach
+
+%
+## A_nick (nobody@c213-89-87-111.cm-upc.chello.se) har sluttet #python<A_nick> Hvordan tilføjer jeg en ny nøgle til en ordbog?<A_nick> nm<Bindestreg> heh :)<Bindestreg> beskue problemløsende magt #python.
+		-- David Leimbach
+
+%
+<Hop_> jeg havde noget, som jeg synes var kylling, der var belagt med en rød       pasta, som syntes at være sammensat af lud baseret på hvor meget af min       andetsprog det brændte væk.<Hop_> vores ven, som er indisk sagde dette er grunden til de fleste indianere er tynde       og jeg citerer "Det tager ikke meget af denne mad for at få dig       tilfredse enoguh at stoppe med at spise. "
+		-- David Leimbach
+
+%
+<Hensigt> "Det er klassiske perkolat-up økonomi, erkender, at pengene            er som gødning: Det virker bedst, hvis du sprede den rundt ".<Knghtbrd> Intention: Carters korrelation: Mennesker med masser af enten           normalt lugt sjovt<Hensigt> Knghtbrd: Du SO vinde.
+		-- David Leimbach
+
+%

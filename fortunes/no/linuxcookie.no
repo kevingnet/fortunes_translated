@@ -1,0 +1,412 @@
+En Linux-maskin! fordi en 486 er en forferdelig ting å kaste bort!(Ved jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absolutt ingenting skal være avsluttet fra disse tallene, bortsett fra atingen konklusjon kan trekkes fra dem. "(Joseph L. Brothers, Linux / PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Egentlig, skrive tilfeldige strenger i Finder gjør tilsvarendefilnavn ferdigstillelse.(Diskusjon i comp.os.linux.misc på intuitiv av kommandoer: fileferdigstillelse vs Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Etter å ha sett min nylig pensjonert far tilbringe to uker å lære hvordan å lage en nymappe, ble det klart at "intuitiv" stort sett betyr "hva forfatteren ellerspeaker av intuitive liker ".(Bruce Ediger, bediger@teal.csn.org, i comp.os.linux.misc, på X iintuitiv en Mac-grensesnittet.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Alle språk designere er arrogant. Går med territoriet ..."(Av Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Og 1.1.81 er offisielt feilfritt (tm), så hvis du får noen bug-rapporterpå det, vet du de er bare onde løgner. "(Ved Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Og lettkledde kvinner, selvfølgelig. Hvem bryr seg om det er under nullutenfor"(Ved Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Og neste gang du vurdere klager på at kjører Lucid Emacs19.05 via NFS fra en ekstern Linux-maskin i Paraguay ser ikke ut tilfå bakgrunnsfarger riktig, vet du hvem du skal takke. "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Eventuelle bærere der ute skal føle seg lykkeligere å vite at desember er frakt>: Meg en AlphaPC som jeg har tenkt å prøve å få linux kjører på: Dette vil>: Definitivt hjelpe skylle ut noen av de mest åpenbar unportable ting.>: Alpha er mye mer forskjellig fra i386 enn 68k ting er, så>: Det er sannsynlig å få det meste av ting fikset.>> Det er innlegg som dette som nesten overbevise oss ikke-troende at det> Egentlig er en gud.(En oppfølging av alovell@kerberos.demon.co.uk, Anthony Lovell, til Linus sinbemerkninger om porting)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Alle som mener UNIX er intuitivt skulle bli tvunget til å skrive 5000 linjerkoden ved hjelp av ingenting, men vi eller emacs. AAAAACK!(Diskusjon i comp.os.linux.misc på intuitiv av kommandoer, spesieltEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Er [Linux brukere] lemen kollektivt hoppe ut av klippenpålitelig, godt utviklet kommersiell programvare? "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Som vanlig, dette blir en 1.3.x utgivelse, jeg har ikke engang satt sammen dennekernel ennå. Så hvis det fungerer, bør du være dobbelt imponert.(Linus Torvalds, annonsere kernel 1.3.3 på linux-kjernen postliste.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Unngå Gates of Hell. bruk Linux(Ukjent kilde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bli advart om at skrive \ fBkillall \ fIname \ FP kanskje ikke har den ønskedeeffekt på ikke-Linux-systemer, spesielt når det gjøres av en privilegert bruker.(Fra killall manuelle siden)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Dessuten tror jeg [Slackware] høres bedre enn" Microsoft ", gjør du ikke?"(By Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Men hva kan du gjøre med det? - Allestedsnærværende skrik fra Linux-brukeren partner.(Skrevet av Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Oi oi oi, jeg begynner å tenke Linux virkelig * er * det beste sidenskiver brød. "(Ved Vance Petree, Virginia Strøm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. Kjernen prøvde å få tilgang til noen dårlig side. Vi må * Avslutte ting med ekstreme fordommer.* /die_if_kernel ( "Oops", regs, feilkode);(Fra linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep Hack Mode - den mystiske og skremmende statenbevissthet der Mortal Brukere frykter å trå. "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra hater sannsynligvis meg(Linus Torvalds, i kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, A lite irriterende støvel virus som forårsaker tilfeldig spontane system.     krasjer, vanligvis bare før du lagrer et massivt prosjekt. Lett kureres ved     UNIX. Se også MS-DOS, IBM-DOS, DR-DOS.(Fra David Vicker .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Legg merke til at 120 sek er definert i protokollen som det maksimale * Mulig RTT. Jeg tror vi må bruke noe annet enn TCP * Å snakke med University of Mars. * PAWS tillater oss lengre tidsavbrudd og store vinduer, så en gang gjennomført * Ftp til mars vil fungere fint. * /(Fra /usr/src/linux/net/inet/tcp.c, om RTT [retransmisjon timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Enda mer fantastisk var erkjennelsen av at Gud har Internett-tilgang. Jeglurer på om han har en full newsfeed? "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Hørt om .cshrc?Det er en by i Bosnia. Høyre?(Diskusjon i comp.os.linux.misc på intuitiv av kommandoer.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Error: Funnet [MS-Windows] System -> Repartisjonering Disk for Linux ...(Ved cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hvordan kan jeg skrive "for jeg i * .dvi trenger xdvi jeg gjort" i et GUI?(Diskusjon i comp.os.linux.misc på intuitiv grensesnitt.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hvordan skal jeg vite om det fungerer? Det er det betatestere er for. Jeg barekodet det. "(Tilskrevet til Linus Torvalds, et sted i et innlegg)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \En stolt medlem av TeamLinux \ _________ \ /(Ved Chaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeg utvikle for Linux for et levende, pleide jeg å utvikle for DOS.Går fra DOS til Linux er som trading en glider for en F117.(Ved entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeg gjorde dette fordi Linux gir meg en treaktig. Det genererer ikke inntekter.(Dave '-ddt-> `Taylor, annonsere DOOM for Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ta gjerne kontakt med meg (flammer om min engelsk og ubrukelig av detteSjåføren vil bli omdirigert til / dev / null, oh no, er det fullt ...).(Michael Beck, beskriver PC-høyttaler lyd-enhet)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeg vet ikke hvorfor, men første C-programmer har en tendens til å se mye verre ennførste programmene i andre språk (kanskje med unntak av Fortran, men deretterJeg mistenker alle Fortran programmer ser ut som `nyvinninger ')"(Av Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeg en gang vitne til en lang omstendelig, månedslange flamewar over bruken avmus vs. styrekuler ... Det var veldig dumt. "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeg fortsatt opprettholde det punktet at å designe en monolittisk kjerne i 1991 er etgrunnleggende feil. Vær glad du ikke er min student. Du vil ikke få enhøy klasse for et slikt design :-)(Andrew Tanenbaum til Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeg vil heller bruke 10 timer på å lese andres kildekode enn10 minutter å lytte til Musak venter på teknisk støtte som ikke er det. "(By Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeg vil krype over en acre av" Visual Dette ++ "og" Integrert DevelopmentAt "for å komme til gcc, Emacs, og gdb. Takk skal du ha."(Ved Vance Petree, Virginia Strøm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeg er en idiot .. Minst dette en [bug] tok ca 5 minutter å finne .."(Linus Torvalds som svar på en feilrapport.)> Jeg er en idiot .. Minst dette [bug] tok ca 5 minutter å finne ..Foruroligende ...(Gonzalo Tornaria i respons til Linus Torvalds mailin om en kernel bug.)> Jeg er en idiot .. Minst dette [bug] tok ca 5 minutter å finne ..Vi må finne noen nye begreper for å beskrive resten av oss vanlige dødeligederetter.(Craig Schlenter i respons til Linus Torvalds mailin om en kernel bug.)> Jeg er en idiot .. Minst dette [bug] tok ca 5 minutter å finne ..Sikkert, er Linus snakker om hva slags idioti som andre aspire til :-).(Bruce Perens i respons til Linus Torvalds mailin om en kernel bug.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeg har kjørt DOOM mer i de siste dagene enn jeg har de siste parmånedene. Jeg bare elsker debugging ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, opptatt av den økende populariteten til gratis 32-bitoperativsystem for Intel-systemer, Linux, har ansatt en rekke toppprogrammerere fra den underjordiske verden av virus utvikling. Bill Gates uttaltei går: "Verdensherredømme, rask - det er enten oss eller Linus". Mr. Torvaldsvar ikke tilgjengelig for kommentar ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), i comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (argc> 1 && strcmp (argv [1], "-Råd") == 0) {printf ( "Do not Panic \ n");exit (42);    }(Arnold Robbins i LJ av februar '95, som beskriver RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Hvis definert (__ alpha__) && definert (CONFIG_PCI)+ / *+ * Meningen med livet, universet og alt. I tillegg+ * Dette gjør året kommer ut til høyre.+ * /+ År - = 42;+ # Endif(Fra patch for 1.3.2: (kernel / time.c), presentert av Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hvis fremtiden navigasjonssystem [for interaktive nettverkstjenester påNII] ser ut som noe fra Microsoft, vil det aldri fungere. "(Leder av Walt Disney Television og telekommunikasjon)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hvis du ønsker å reise rundt i verden og bli invitert til å tale på myeforskjellige steder, bare skrive et operativsystem Unix. "(Ved Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[I" Doctor "-modus], brukte jeg en god ti minutter å fortelle Emacs hva jegtenkte på det. (Svaret var: "Kanskje du kan prøve å være mindrefornærmende. ') "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I de fleste land å selge skadelige ting som narkotika er straffbart.Deretter howcome folk kan selge Microsoft-programvare og ustraffet?(Ved hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel ingeniør synes å ha misheard Intel markedsføringsstrategi. Frasenvar "Splitt og hersk" ikke "Splitt og kuk opp"(Ved iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Det er Gud. Nei, ikke Richard Stallman, eller Linus Torvalds, men Gud."(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, du har meg på mine knær!(Fra David Svart, dblack@pilot.njin.net, med unnskyldninger til Derek ogDominos, og Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux er foreldet(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux utgjør en reell utfordring for de med sans for senhacking (og / eller samtaler med Gud). "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Development Venimus, Vidimus, Dolavimus.(Ved mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linux] evne til å snakke via ethvert medium unntatt røyksignaler."(By Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: fordi en PC er en forferdelig ting å kaste bort(Ksh@cis.ufl.edu sette dette på t-skjorter i '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Fordi en PC er en forferdelig ting å kaste bort.(Ved komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: valg av en GNU generasjon(Ksh@cis.ufl.edu sette dette på t-skjorter i '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: operativsystemet med en anelse ...Command Line User Environment ".(Sett i et innlegg i comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 i brann(En av de mer uklar kernel meldinger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft er ikke svaret.Microsoft er spørsmålet.NEI (eller Linux) er svaret.(Tatt fra en .signature fra noen fra Storbritannia, kilde ukjent)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten i Dateisysteme, und, nonne, 'besteigen' beim Sex.(Christa Keil i en tysk oppslaget: «Montering brukes til tre ting:klatring på en hest, linking i en harddisk enhet i datasystemene, og, vel,montering under sex ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS fikk ikke så ille som det er over natten - det tok over ti årav forsiktig utvikling. "(By dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Aldri foreta mistaeks."(Anonym, i en mail diskusjon om til en kjerne feilrapport.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ikke meg, fyr. Jeg leste Bash mannen siden hver dag som et Jehovas vitne leserBibelen. Nei vent, den Bash mannen siden er Bibelen. Unnskyld meg...(Mer om forvirrende aliaser, tatt fra comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Legg merke til at hvis jeg kan få deg til å \" su og si \ "noe bare ved å spørre,du har en veldig alvorlig sikkerhetsproblem på systemet ditt, og du børse på det. "(Av Paul Vixie, vixie-cron 3.0.1 installasjonsmerknader)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nå vet jeg at noen der ute kommer til å hevde, "Vel, da er UNIX intuitiv,fordi du bare trenger å lære 5000 kommandoer, og deretter alt annet følgerfra det! Har har har! "(Andy Bates i comp.os.linux.misc, på "intuitive grensesnitt", noeforsvare Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nå, det vi hadde denne typen ting:  gi -a for avkastning for all trafikk  gi -t for avkastning til lastebiler  gi -f for utbytte til folk som går (utbytte fot)  gi -d t * for avkastning på dager som starter med t... Du vil ha mange døde mennesker på kryss og trafikkork degville ikke tro ...(Diskusjon i comp.os.linux.misc på intuitiv av kommandoer.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"På en normal ascii linje, den eneste trygge betingelse for å oppdage er en" break "- Alt annet etter å ha blitt tildelt funksjoner av GNU Emacs ".(Ved Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"På Internett, ingen vet du bruker Windows NT"(Skrevet av Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En gang i tiden var det en DOS bruker som så Unix, og så at det vargod. Etter å ha skrevet cp på sin DOS maskin hjemme, lastet han GNU sunix verktøy portet til DOS og installert dem. Han rm'd, cp'd, og mv'dlykkelig i mange dager, og ved å finne elvis, vi'd han og var glad. Etteren lang dag på jobb (på en Unix boks) han kom hjem, begynte å redigere en fil,og kunne ikke finne ut hvorfor han ikke kunne suspendere vi (m / ctrl-z) for å gjøreen kompilere.(Ved ewt@tipper.oit.unc.edu (Erik Trøan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Annet enn det faktum Linux har et kult navn, kan noen forklare hvorfor jeg>> Bør bruke Linux i løpet av BSD?>> Nei, det er det. Den kult navn, som er. Vi jobbet veldig hardt på> Skape et navn som vil appellere til folk flest, og det> Absolutt betalte seg: tusenvis av mennesker bruker linux bare for å kunne> Å si "OS / 2? Hah. Jeg har Linux. Hva et kult navn". 386BSD gjort> Feil i å sette en masse tall og rare forkortelser inn i> Navn, og skremmer bort mange mennesker bare fordi det høres for> Teknisk.(Linus Torvalds 'oppfølging på et spørsmål om Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Personlig tror jeg mitt valg i mostest-superlativ-data kriger måvære HP-48 serie kalkulatorer. De vil kjøre nesten hva som helst. Og hvis dekan ikke, mens jeg bare plugge en Linux-boks til serieporten og laste oppHP-48 VT-100 emulator.(Ved jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Det er ingen tråder i a.b.p.erotica, så det er ingen gevinst i å bruke enthreaded nyhetsleser.(Ukjent kilde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Problemløsing under linux har aldri vært på sirkus som det er underAIX. "(Ved Pete Ehlke i comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+slutte Når avslutter uttalelsen leses, BC prosessor       er avsluttet, uavhengig av hvor slutte state-       ment er funnet. For eksempel "if (0 == 1) slutte"       vil føre bc å avslutte.(Sett i manpage for "bc". Legg merke til "hvis" statement logikk)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kjører Windows på en Pentium er som å ha en splitter ny Porsche, men barevære i stand til å kjøre baklengs med håndbrekket på.(Ukjent kilde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit diskos mundi"(Fra System Administrator Guide, av Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sukk. Jeg liker å tro det er bare Linux-folk som ønsker å være påde "ledende" så ille de går rett utenfor stupet.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Praten programmet er i public domain. Dette er ikke den GNU Public License. HvisDet bryter så du får beholde begge delene.(Copyright varsel for chat-program)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Dagen folk tror linux ville være bedre tjent med en annen (FSF> Å være det naturlige alternativ), jeg skal "abdisere". Jeg tror ikke at> Det er noe folk har å bekymre deg akkurat nå - jeg ser ikke det> Skjer i nær fremtid. Jeg liker å gjøre linux, selv om det gjør> Betyr en del arbeid, og jeg har ikke fått noen klager (noen nesten engstelig> påminnelser om en patch jeg har glemt eller ignorert, men ingenting> Negativ så langt).>> Ikke ta over for å bety at jeg vil slutte på dagen noen klager:> Jeg er tykk hud (Lasu, som leser dette over skulderen min kommen> At "tykk-headed er nærmere sannheten") nok til å ta litt misbruk.> Hvis jeg ikke var det, ville jeg ha sluttet å utvikle linux dagen ast latterliggjort meg> På c.o.minix. Det jeg mener er bare at mens linux har vært min baby så> Langt, jeg ønsker ikke å stå i veien hvis folk ønsker å gjøre noe> Bedre av den (*).>> Linus>> (*) Hei, kanskje jeg kunne søke om saint-hette fra paven. Gjør> Noen vet hva hans e-postadressen er? Jeg er så fint det gjør deg spy.(Tatt fra Linus svar til noen bekymret for fremtiden for Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Det fine med Windows er - Det betyr ikke bare krasje, det viser endialogboksen, og lar deg trykke "OK" først.(Arno Schaefer er .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Den eneste "intuitive" grensesnittet er brystvorten. Etter det, er det alt lært.(Bruce Ediger, bediger@teal.csn.org, i comp.os.linux.misc, på X-grensesnitt.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Det finnes to typer av Linux-utviklere - de som kan stave, ogde som ikke kan. Det er en konstant pitched kamp mellom de to.(Fra en av de post-1.1.54 kernel oppdateringsmeldinger lagt til c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Denne meldingen ble brakt til deg av Linux, den frie unix.Windows uten X er som å elske uten en partner.Sex, Drugs & Linux-reglenevinn-nt fra folk som oppfant Edlinepler har betydd trøbbel siden edenLinux, måten å kvitte seg med boot virus(Ved mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS og Windows NT (også kjent som gode, den onde, ogUgly). "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Svært få fenomener kan trekke noen ut av Deep Hack Mode, med tobemerket unntak: å bli truffet av lynet, eller enda verre, din * PC *blir truffet av lyn. "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Waving bort en sky av røyk, jeg ser opp, og jeg er blindet av en lys, hvitlys. Det er Gud. Nei, ikke Richard Stallman, eller Linus Torvalds, men Gud. Ien blomstrende stemme, sier han: «Dette er et tegn bruke Linux, den frie UNIX-system.FOR 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vi vet alle Linux er flott ... det gjør uendelige løkker i 5 sekunder."(Linus Torvalds om overlegenhet av Linux på AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vi er Microsoft. Du vil bli assimilert. Motstand er nytteløst.(Tilskrevet B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vi er Pentium av Borg. Division er fåfengt. Du vil bli tilnærmet.(Sett i noens .signature)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vi bruker Linux daglig til UP vår produktivitet - så UP yours!(Tilpasset fra Pat Paulsen av Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vi kommer til å begrave DOS, ikke for å prise den.(Paul Vojta, vojta@math.berkeley.edu, parafrasering et sitat av Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vi bruker Linux for alle våre virksomhetskritiske applikasjoner. Etter å ha kildekodenbetyr at vi ikke blir holdt som gisler av noens support avdeling.(Russell Nelson, president i Crynwr programvare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hva du ender opp med, etter å ha kjørt et operativsystem konsept tildisse mange markedsføring kaffefilter, er noe ikke ulikt vanlig varmtvann."(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hva er dette skriptet gjøre?    pakke; berøring; finger; mount; gispe; ja; umount; soveTips for svaret: ikke alt er computer-orientert. Noen ganger er dui en sovepose, camping ut.(Innsendt av Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Når du sier" Jeg skrev et program som krasjet Windows ", folk bare stirre pådu uforstående og si "Hei, jeg fikk de med systemet, * gratis *".(Ved Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pisk meg. Beat meg. Gjør meg opprett AIX."(Av Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hvem er generell feil og da han leser min harddisk?"Microsoft spel chekar vor seil, worgs rist !!(Ved leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hvem ønsker å huske at rømning-x-alt-kontroll venstre shift-b setter deg innsuper-edit-debug-kompilere modus?(Diskusjon i comp.os.linux.misc på intuitiv av kommandoer, spesieltEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hvorfor bruke Windows, siden det er en dør?(Ved fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Verdensherredømme. Fast"(Ved Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..du kan tilbringe * hele dagen * tilpasse tittellinjen. Tro meg. jegsnakker av erfaring. "(Av Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Du kan like godt hoppe over Xmas feiring helt, og i stedetsitte foran din linux maskin spille medhelt ny og forbedret linux kernel versjon. "(Ved Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Din jobb er å være en professor og forsker: Det er et helvete av en god unnskyldningfor noen av de hjerne-skader av Minix.(Linus Torvalds til Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeg har hørt en jøde og en muslim hevder i en Damaskus kafé med mindre lidenskapenn Emacs kriger. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

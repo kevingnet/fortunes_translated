@@ -1,0 +1,228 @@
+Rada Debianu č.1: Chybu v balíku môžete  nahlásiť pomocou príkazu
+„reportbug“, ktorý je dostupný z balíka reportbug, a to buď z príkazového
+riadka alebo pomocou nového grafického rozhrania (dostupné spustením
+„reportbug --ui gtk2“ alebo z menu).
+
+%
+Rada Debianu č.2: Odpovede na otázky položené pri inštalácii balíka môžete
+kedykoľvek neskôr zmeniť spustením príkazu „dpkg-reconfigure <balík>“. Balík
+„configure-debian“ na tento účel tiež poskytuje jednotné rozhranie.
+
+%
+Rada Debianu č.3: Hľadať slová v popisoch všetkých dostupných balíkov môžete
+pomocou príkazu „apt-cache search <slová>“ alebo „aptitude search <slová>“.
+
+%
+Rada Debianu č.4: Dostupné a nainštalované verzie jedného alebo viacerých
+dostupných balíkov si môžete pozrieť príkazom „apt-cache policy <balíky>“.
+
+%
+Rada Debianu č.5: Ak potrebujete zostaviť upravené jadro, použite skript
+„make-kpkg“ z balíka kernel-package.
+
+%
+Debian Hint #6: There is no hint #6. Submit a hint today!
+
+%
+Rada Debianu č.7: Balík cron-apt môžete použiť na automatické každodenné
+sťahovanie aktualizácií balíkov nainštalovaných na vašom systéme.
+
+%
+Rada Debianu č.8: Ak máte problém s Debianom, ktorý nedokážete vyriešiť za
+pomoci príručiek a dokumentácie, skúste sa spýtať v poštovej konferencii
+Debian Users (debian-user@lists.debian.org).
+
+%
+Rada Debianu č.9: Ak potrebujete vedieť, ktorá verzia Debianu momentálne na
+systéme beží, pozrite sa do /etc/debian_version alebo použite príkaz
+„lsb_release -sc“. Ak chcete vedieť kódové označenie verzie (napr. 5.0 má
+kódové označenie „Lenny“), pozrite sa na tento odkaz:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Rada Debianu č.10: Existujú poštové konferencie Debianu na všetky témy od
+otázok používateľov po debaty o tom, čo dať do dokumentov Politiky
+Debianu. Pozrite si ich zoznam na http://www.debian.org/MailingLists/ a
+prihláste sa do tých, ktoré vás zaujímajú.
+
+%
+Debian Hint #11: Keep up to date on what's going on - read the Debian
+Project News. Read it on the web at http://www.debian.org/News/weekly/
+
+%
+Rada Debianu č.12: Balík grep-dctrl poskytuje niekoľko užitočných skriptov
+na rýchle hľadanie v rozličných riadiacich súboroch balíkov (ako súbor
+dostupných balíkov).
+
+%
+Rada Debianu č.13: Ak nie ste spokojný s predvoleným nastavením balíka
+Debianu, môžete si stiahnuť zdrojový kód a zostaviť verziu, ktorá používa
+voľby, ktoré preferujete. Ďalšie informácie sa dozviete na
+http://www.debian.org/doc/FAQ/ch-pkg_basics.html (sekcie 6.13 a 6.14).
+
+Pamätajte však, že väčšinu volieb väčšiny balíkov možno nastaviť počas behu
+a nevyžadujú kompiláciu balíka zo zdrojového kódu.
+
+%
+Rada Debianu č.14: If you would like to follow things happening to a package
+(for example, if you want to see bug reports, release notices, and other
+similar things), consider subscribing to it on the Package Tracking System.
+You can find out more about the PTS at:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Rada Debianu č.15: Dokumentáciu balíka zvyčajne nájdete v
+/usr/share/doc/<balík>. Konkrétne súbor README.Debian často obsahuje
+užitočné informácie o chybách alebo tipy, ktoré sú špecifické pre Debian.
+
+%
+Rada Debianu č.16: If you're searching for a particular file, but don't know
+which package it belongs to, try installing 'apt-file', which maintains a
+small database of this information, or search the contents of the Debian
+Packages database, which can be done at:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Rada Debianu č.17: Potrebujete sa s niekým porozprávať o Debiane? Ak viete
+používať Internet Relay Chat (IRC), nainštalujte svojho obľúbeného IRC
+klienta a pripojte sa ku kanálu #debian na serveri irc.debian.org.
+
+%
+Rada Debianu č.18: Informácie o riadení kvality balíka nájdete na adrese
+http://packages.qa.debian.org/<balík>; táto stránka poskytuje odkazy na
+stránku zabezpečenia kvality (QA) správcu, BTS, novinky balíka a informácie
+o tom, ktorá verzia je dostupná v ktorom archíve.
+
+%
+Rada Debianu č.19: Ak chcete zostaviť balík zo zdrojových kódov, mali by ste
+zvážiť nainštalovanie balíka apt-src.
+
+%
+Rada Debianu č.20: Chcete sledovať, ktorú verziu balíka máte nainštalovanú
+(čo je obzvlášť užitočné pre tých, ktorí prevádzkujú hybridný
+stable/testing/unstable systém)? Pozrite sa na apt-show-versions.
+
+%
+Rada Debianu č.21: Ak je váš počítač s Debianom pripojený pomalou linkou,
+ale máte prístup aj k rýchlej, pozrite si balík apt-zip.
+
+%
+Rada Debianu č.22: Zvažujete, ktoré zrkadlo Debianu je pre vás najlepšie?
+Pozrite si balíky apt-spy a netselect-apt, ktoré vám poskytnú informácie o
+výkonnosti rozličných zrkadiel.
+
+%
+Rada Debianu č.23: Ak váš systém zaberá príliš mnoho miesta na disku, skúste
+balík deborphan; dokáže navrhnúť, ktoré balíky sú nepoužívané a možno ich
+odstrániť. A samozrejme nezabudnite vyčistiť vyrovnávaciu pamäť APT (pomocou
+„apt-get clean“, „aptitude clean“ alebo menu Operácie -> Vyčistiť cache s
+balíkmi v aptitude).
+
+%
+Rada Debianu č.24: Ak by ste chceli poďakovať správcovi za to, že sa
+postaral o problém, pozrite si reportbug --kudos.
+
+%
+Rada Debianu č.25: Balík „debian-reference“ obsahuje množstvo referenčných
+dokumentov pre používateľov a vývojárov Debianu. Väčšinu informácií nájdete
+na tejto adrese:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint #26: If a package doesn't seem to have much documentation, check
+for a package named '<package>-doc' or similar and make sure to install it
+as well; packages with large amounts of documentation regularly split the
+docs in this manner for those who don't want to install them.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Rada Debianu č.28: Ak váš počátač nie je neustále zapnutý (napr. notebook),
+pozrite si balík „anacron“. Ten zabezpečuje, aby sa naplánované úlohy
+vykonávali aj keď počítač nie je zapnutý v čase, kedy by sa za bežných
+okolností spustili.
+
+%
+Rada Debianu č.29: Udržiavajte na systéme presný čas - počítače, ktoré sú
+neustále zapnuté by mali mať nainštalovaný balík „ntp“, aby mali medzi
+reštartami presný čas.
+
+%
+Rada Debianu č.30: Dokumentáciu môžete sprístupniť na http://localhost/
+nainštalovaním balíkov „doc-base“, „doc-central“ a ich závislostí.
+
+%
+Rada Debianu č.31: Vypnúť bežne aktívnu službu pre konkrétnu úroveň behu
+môžete zmenou odkazu S v /etc/rc<level>.d na odkaz K namiesto toho aby ste
+ho celkom odstránili. Ak by ste odstránili všetky odkazy, systém by pri
+ďalšej inštalácii predpokladal, že ich treba nahradiť.
+
+%
+Debian Hint #32: The package 'doc-debian' contains some general
+documentation about the Debian project. It is also available in Spanish
+(doc-debian-es), French (doc-debian-fr) and Ukrainian (doc-debian-uk).
+
+%
+Rada Debianu č.33: Balík „devscripts“ obsahuje niektoré užitočné skripty pre
+tých, ktorí chcú pomôcť vylepšovať Debian, napr. wnpp-alert, rc-alert a bts.
+
+%
+Rada Debianu č.34: Ak chcete sledovať Debian sid a máte pripojenie s
+obmedzením prenesených dát alebo skutočne pomalé pripojenie, pozrite si
+balík debdelta.
+
+%
+Debian Hint #35: In search for some games? Take a look at 'goplay', which
+offers a nice frontend for browsing through all kind of games.
+
+%
+Debian Hint #36: Need a newer package than shipped with Debian's last stable
+release, but don't want to upgrade to 'testing' or 'unstable'? Some packages
+are kept up-to-date via the stable-updates suite, some others are made
+available at backports.debian.org.
+
+%
+Rada Debianu č.37: Chcete stiahnuť balík bez toho aby ste ho inštalovali?
+Použite „aptitude download <bázov_balíka>“.
+
+%
+Rada Debianu č.38: Chcete sa dozvedieť ako používať program, ktorý ste
+doteraz nikdy nepoužívali? „man“ bude vaším novým najlepším priateľom!
+Napíšte „man <názov_programu>“ v shelli. Alebo spustite „man -H
+<názov_programu>“ a manuálová stránka sa vám zobrazí v prehliadači.
+
+%
+Rada Debianu č.39: Vylepšite si dopĺňanie pomocou tabulátora v bashi
+nainštalovaním balíka bash-completion.
+
+%
+Rada Debianu č.40: Ak si nainštalujete balík command-not-found, pri pokuse o
+spustenie príkazu, ktorý nemáte nainštalovaný sa vám zobrazí informácia,
+ktorý balík obsahuje daný príkaz.
+
+%
+Rada Debianu č.41: Ďalšie informácie o balíku Debianu získate príkazom
+„apt-cache show <názov_balíka>“ alebo „aptitude show <názov_balíka>“.
+
+%
+Rada Debianu č.42: Pomocou príkazu „apt-file list <názov_balíka>“ môžete
+vypísať obsah balíka Debianu. Táto operácia je podobná ako „dpkg -L
+<názov_balíka>“, ibaže na rozdiel od dpkg balík nemusí byť nainštalovaný ani
+stiahnutý pomocou apt-file.
+
+%
+Rada Debianu č.43: Chcete dočasne vypnúť svoj firewall iptables? Na
+odstránenie všetkých pravidiel a nastavenie predvolenej politiky na ACCEPT
+použite „iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" |
+iptables-restore“.
+
+%
+Debian Hint #44: You can follow the Identi.ca account for Debian at
+http://identi.ca/debian More information of Debian at Identica can also be
+found at: http://wiki.debian.org/Teams/Publicity/Identica

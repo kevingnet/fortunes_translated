@@ -1,0 +1,412 @@
+Linux kone! koska 486 on hirveää hukkaan!(By jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ei yhtään mitään syytä päätellä näistä luvuista paitsi ettäei voida tehdä johtopäätöksiä niistä. "(Joseph L. Brothers, Linux / PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Oikeastaan, kirjoittamalla satunnaisia ​​merkkijonoja Finderissa ei vastaatiedostonimen täydennys.(Keskustelua comp.os.linux.misc on intuitiveness komentojen: fileloppuun vs. Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nähtyään minun vasta eläkkeellä isä viettää kaksi viikkoa oppimisen miten tehdä uusiakansio, kävi ilmi, että "intuitiivinen" useimmiten tarkoittaa "mitä kirjoittaja taipuhuja intuitiivinen tykkää ".(Bruce Ediger, bediger@teal.csn.org, vuonna comp.os.linux.misc, Xintuitiveness Mac käyttöliittymä.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kaikki kieli suunnittelijat ovat ylimielisiä. Kuuluu asiaan ..."(Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ja 1.1.81 on virallisesti virheettömän (tm), joten jos saat mitään bug-raportitsitä, tiedät ne ovat vain pahoja valheita. "(Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Ja niukasti verhottu naaraat, tietenkin. Ketä kiinnostaa, jos se on alle nollanulkopuolella"(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ja seuraavan kerran harkita valittavat, että käynnissä Lucid Emacs19.05 NFS etäällä Linux-kone Paraguayssa ei näytäsaat taustan värit oikea, tiedät kuka kiittää. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Kaikki vahtimestarit siellä olisi onnellisempi tietäen, että joulukuu on merenkulun>: Me AlphaPC että aion yrittää saada linux käynnissä: tämä tahdosta>: Varmasti auttaa huuhtele pois joitakin räikeimmät unportable tavaraa.>: Alpha on paljon erilainen kuin i386 kuin 68k tavaraa on, niin>: Se on todennäköisesti saa suurimman osan tavaraa kiinteä.>> Se on viestiä näin että lähes vakuuttaa meidät ei-uskovat, että on olemassa> Todella on jumala.(Seurannan alovell@kerberos.demon.co.uk, Anthony Lovell, Linus nhuomioita noin siirrettävyyttä)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jokainen, joka luulee UNIX on intuitiivinen pitäisi pakottaa kirjoittamaan 5000 riviäkoodin vain vi tai emacs. AAAAACK!(Keskustelua comp.os.linux.misc on intuitiveness komentojen, erityisestiEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ovatko [Linux-käyttäjille] sopulit kollektiivisesti hyppäämällä kallioluotettava, hyvin suunniteltu kaupallisia ohjelmistoja? "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuten tavallista, tämä on 1.3.x julkaisu, en ole edes koottu tähänytimen vielä. Joten jos se toimii, sinun pitäisi olla kaksin verroin vaikutuksen.(Linus Torvalds, jossa ilmoitettiin ydin 1.3.3 Linux-kernel listaa.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vältä Gates of Hell. Käytä Linux(Tuntematon lähde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Muista kuitenkin, että kirjoittamalla \ fBkillall \ fIname \ fP ehkä ole haluttuaVaikutus kuin Linux-järjestelmissä, varsinkin kun tehdään etuoikeutettu käyttäjä.(From killall manuaalisivu)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sitä paitsi luulen [Slackware] kuulostaa paremmalta kuin" Microsoft, 'et? "(Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mutta mitä voit tehdä? - Arjen huuto Linux-käyttäjä kumppani.(Lähettäjä Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Golly, olen alkanut ajatella Linux todella * on * parasta sittenviipaloitu leipä. "(By Vance PETREE, Virginia Virta)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oho. Ytimen yrittänyt käyttää huonoja sivulle. Meidän täytyy * Lopettaa asioita äärimmäisen vaikuta.* /die_if_kernel ( "Oops", regs, error_code);(Linuxista / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep Hack Mode - salaperäinen ja pelottava tilatietoisuus jossa Mortal käyttäjät pelkäävät astua. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra todennäköisesti vihaa minua(Linus Torvalds, ytimien / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n., Pieni ärsyttäviä boot virus, joka aiheuttaa satunnaisia ​​spontaaniin järjestelmään     kaatuu, yleensä juuri ennen tallentamista massiivinen projekti. Helposti kovettuvat     UNIX. Katso myös MS-DOS, IBM-DOS, DR-DOS.(David Vicker n .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] On huomattava, että 120 s määritellään protokollaa kuin maksimi * Mahdollista RTT. Kai meidän täytyy käyttää jotain muuta kuin TCP * Puhua yliopiston Mars. * PAWS voimme enää aikalisiä ja suuret ikkunat, joten kun toteutetaan * Ftp mars toimii hienosti. * /(Alkaen /usr/src/linux/net/inet/tcp.c, joka koskee RTT [uudelleenlähetysaikakatkaisu])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vielä hämmästyttävämpää oli oivaltaminen, että Jumala on Internet-yhteys. Iihme, jos hän on täysi newsfeed? "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Oletko kuullut Cshrc?Se kaupunki Bosniassa. Oikea?(Keskustelua comp.os.linux.misc on intuitiveness komentojen.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Error: Löytyy [MS-Windows] System -> Uudelleenosiointi Disk for Linux ...(By cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Miten kirjoita "for i in * .dvi do xdvi olen tehnyt" in GUI?(Keskustelua comp.os.linux.misc on intuitiveness rajapintoja.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mistä minä tiedän, jos se toimii? Sitähän beetatestaajille ovat. Olen vainkoodattu sitä. "(Lisätty Linus Torvalds, jossain lähettämistä)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Ylpeä jäsen TeamLinux \ _________ \ /(By Chaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen kehittää Linux työkseen, käytin kehittää DOS.Menossa DOS Linux on kuin kaupankäynnin glider varten F117.(By entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En tätä "aiheuttaa Linux antaa minulle Woody. Se ei tuloja.(Dave '-ddt-> `Taylor, ilmoitettiin DOOM Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Rohkeasti yhteyttä minuun (liekit minun Englanti ja hyödytön tämänkuljettaja ohjataan / dev / null, Voi ei, se on täynnä ...).(Michael Beck, jossa kuvataan PC-kaiutin äänilaitteen)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"En tiedä miksi, mutta ensimmäinen C ohjelmat ovat yleensä näyttää paljon pahempi kuinEnsimmäiset ohjelmat muulla kielellä (ehkä lukuunottamatta Fortran, mutta sittenEpäilen kaikki Fortran ohjelmat näyttävät `ensimmäisiä ')"(By Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Olen kerran nähnyt pitkäveteinen, kuukauden mittainen flamewar yli käyttöhiiret vs. ohjauspallot ... Se oli hyvin typerä. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen edelleen säilyttää pisteeseen, että suunnittelemalla monoliittinen ydin vuonna 1991 onperustavanlaatuinen virhe. Kiitollinen et ole minun opiskelija. Et saakorkealaatuista tällaisen mallin :-)(Andrew Tanenbaum Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Olen mieluummin viettää 10 tuntia lukemista jonkun muun lähdekoodin kuin10 minuuttia kuunnellen Musak odottaa teknisen tuen, joka ei ole. "(Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Olin ryömiä yli hehtaarin" Visual Tämä ++ ja integroiduille DevelopmentSe päästä gcc, Emacs, ja gdb. Kiitos."(By Vance PETREE, Virginia Virta)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Olen idiootti .. Ainakin tämä yksi [vika] kesti noin 5 minuuttia löytää .."(Linus vastauksena vikailmoituksen.)> Olen idiootti .. Ainakin tämä [bug] kesti noin 5 minuuttia löytää ..Arveluttavaa ...(Gonzalo Tornaria vastauksena Linus sähköpostilistalle noin ytimen bug.)> Olen idiootti .. Ainakin tämä [bug] kesti noin 5 minuuttia löytää ..Meidän täytyy löytää uusia termejä kuvaamaan me muut kuolevaisetsitten.(Craig Schlenter vastauksena Linus sähköpostilistalle noin ytimen bug.)> Olen idiootti .. Ainakin tämä [bug] kesti noin 5 minuuttia löytää ..Varmasti, Linus puhuu sellaista typeryys, että toiset haluavat :-).(Bruce Perens vastauksena Linus sähköpostilistalle noin ytimen bug.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen ajaa DOOM enemmän viime päivinä kuin olen viimekuukautta. Rakastan virheenkorjaus ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., huolissaan kasvava suosio vapaa 32-bittinenkäyttöjärjestelmä Intel järjestelmissä, Linux, on käyttänyt erilaisia ​​alkuunohjelmoijat maanalaiseen maailmaan viruksen kehitystä. Bill Gates totesieilen: "World ylivalta, nopea - se on joko meille tai Linus". Mr. Torvaldsoli poissa käytöstä kommentti ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), vuonna comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    jos (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Ei paniikkia! \ n");exit (42);    }(Arnold Robbins LJ helmikuun '95, jossa kuvataan RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Jos määritelty (__ alpha__) && määritelty (CONFIG_PCI)+ / *+ * Elämän tarkoitus, maailmankaikkeus, ja kaiken. Plus+ * Tämä tekee vuonna tulla ulos oikealle.+ * /+ Vuosi - = 42;+ # Endif(From laastari 1.3.2: (ytimen / time.c) esittämä Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jos tulevaisuuden navigointijärjestelmä [vuorovaikutteisia verkkopalvelujen päälleNII] näyttää jotain Microsoft, se ei koskaan toimi. "(Puheenjohtaja Walt Disney Television & Telecommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jos haluat matkustaa ympäri maailmaa ja kutsutaan puhumaan paljoneri paikoissa, vain kirjoittaa Unix-käyttöjärjestelmää. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[In 'Tohtori' tila], vietin hyvä kymmenen minuuttia kertoa Emacs mitäajatellut sitä. (Vastaus oli, "Ehkä voit yrittää olla vähemmänväärinkäyttöä. ') "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Useimmissa maissa myynti haitallisia asioita, kuten huumeita on rangaistavaa.Sitten howcome ihmiset voivat myydä Microsoftin ohjelmistojen ja rankaisematta?(By hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel engineering näyttävät kuullut väärin Intelin markkinointi strategia. ilmausoli "hajoita ja hallitse" ei "hajoita ja sotkea"(By iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Se on Jumalan. Ei, ei Richard Stallman, tai Linus Torvalds, mutta Jumala."(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO sinulla minut polvilleni!(David Musta, dblack@pilot.njin.net, jossa anteeksipyynnön Derek jaDominos, ja Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux on vanhentunut(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux todellinen haaste niille, joilla maku myöhäisillanhakkerointi (ja / tai keskusteluja Jumalan). "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Development Venimus, Vidimus, Dolavimus.(By mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linuxin] kykyä puhua kautta tahansa välineellä paitsi savumerkkejä."(Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: koska PC on hirveää tuhlata(Ksh@cis.ufl.edu laittaa tämä Tshirts in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Koska PC on hirveää hukkaan.(By komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: valinta GNU sukupolvi(Ksh@cis.ufl.edu laittaa tämä Tshirts in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: käyttöjärjestelmä vihjeen ...Command Line User Environment ".(Todettu lähettämistä comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 tulessa(Yksi sotkettu ytimen viestit)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft ei ole vastaus.Microsoft on kysymys.NO (tai Linux) on vastaus.(Ote .signature joku UK, lähde tuntematon)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mounten" wird für drei Dinge benutzt: "Aufsitzen" auf Pferde, "einklinken"von Festplatten in Dateisysteme, und, nunna, "besteigen" beim Sex.(Christa Keil saksalaisessa lähettämistä: "Asennus käytetään kolmea asiaa:kiipeilyä hevonen, joka yhdistää vuonna kiintolevy yksikkö tietojärjestelmät, ja, no,asennus seksin aikana ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS ei saada niin huono kuin se on yhdessä yössä - kesti yli kymmenen vuottahuolellista kehittämistä. "(By dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Älä tee mitään mistaeks."(Anonymous, sähköpostissa keskustelua sen ytimen vikailmoituksen.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ei minua, poika. Luin Bash man sivun jokainen päivä kuin Jehovan todistaja lukeeRaamattu. Ei odota, Bash man sivun on Raamattu. Anteeksi...(Lisää sekava aliaksia otettu comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Huomaa, että jos saan teitä \" su ja sano \ "jotain vain kysymällä,sinulla on hyvin vakava turvallisuusongelma järjestelmään ja sinun pitäisitutkia sitä. "(Paul Vixie, vixie-cron 3.0.1 asennushuomautukset)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nyt tiedän joku siellä on menossa väittävät, "No niin, UNIX on intuitiivinen,sillä sinun tarvitsee vain oppia 5000 komentoja, ja sitten kaikki muu seuraasiitä! Har har! "(Andy Bates in comp.os.linux.misc, on "intuitiivinen rajapintoja", hiemanpuolustavat Maceissa.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nyt meillä oli tällainen asia:  saanto -a varten tuotos kaikille liikenteen  saanto -t varten periksi kuorma  saanto -f varten tuoton ihmiset kävely (saanto jalka)  saanto -d t * tuottoluvun päivinä alkavat t... Sinun on paljon kuolleita ihmisiä risteyksissä, ja liikenneruuhkat teei usko ...(Keskustelua comp.os.linux.misc on intuitiveness komentojen.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"On normaalia ascii linja, ainoa turvallinen ehto havaitsemaan on" tauon "- Kaikki muu jotka on osoitettu toimintoja Gnu EMACS. "(By Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Internetissä kukaan ei tiedä käytät Windows NT"(Lähettäjä Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olipa kerran oli DOS käyttäjä, joka näki Unix, ja näki, että se olihyvä. Kun olet kirjoittanut cp hänen DOS kone kotona, hän ladattu GNUunix työkalut siirretty DOS ja asentaa niitä. Hän rm'd, cp'd, ja mv'donneksi monta päivää, ja kun löytää elvis, hän vi'd ja oli tyytyväinen. Jälkeenpitkä päivä töissä (Unix laatikko) hän tuli kotiin, alkoi muokkaamalla tiedostoa,ja ei voinut selvittää, miksi hän ei voinut keskeyttää vi (w / ctrl-z) tekemäänkoota.(By ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Muut kuin se, Linux on viileä nimi, joku voisi selittää, miksi>> Pitäisi käyttää Linux yli BSD?>> Ei. Siinä se. Viileä nimi, joka on. Teimme kovasti> Luoda nimen, joka valittaa useimmat ihmiset, ja se> Varmasti maksettu pois: tuhannet ihmiset käyttävät Linux vain pystyä> Sanoa "OS / 2? Hah. Minulla Linux. Mikä viileä nimi". 386bsd tehty> Virhe laskemisesta paljon numeroita ja outoja lyhenteitä osaksi> Nimi, ja pelottaa pois paljon ihmisiä vain koska se kuulostaa liian> Teknisiä.(Linusin seurannasta kysymys Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Henkilökohtaisesti luulen valinta mostest-superlatiivi-tietokone sodat onolla HP-48 sarjan laskimia. He kulkevat melkein mitä tahansa. Ja jos hevoi, kun minä vain plug Linux-sarjaporttiin ja lastataHP-48 VT-100 emulaattori.(By jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ei ole kierteet a.b.p.erotica, joten mitään hyötyä käyttämälläkierteinen uutistenlukuohjelma.(Tuntematon lähde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ongelmien ratkaiseminen Linuxissa ei ole koskaan ollut sirkus että se on alleAIX. "(By Pete Ehlke in comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+quit Kun quit-lause luetaan, bc-prosessori       lopetetaan, riippumatta siitä, missä lopettaa lau-       seen on löydetty. Esimerkiksi "jos (0 == 1) quit"       tulee lopeta bc.(Havaittu manpage for "bc". Huomautus "jos" lausunto logiikka)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Windows on Pentium on kuin uusi Porsche mutta vainvoi ajaa taaksepäin käsijarru päällä.(Tuntematon lähde)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit kiekko mundi"(From järjestelmän ylläpitäjän opas, Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Huokaus. Haluan ajatella se on vain Linux ihmisille, jotka haluavat olla"joukossa" niin huono he kävellä pois jyrkänteeltä.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chat-ohjelma on julkisesti. Tämä ei ole GNU julkisen lisenssi. Josse hajoaa niin saat pitää molemmat teokset.(Tekijänoikeus varten chat-ohjelma)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Päivä ihmiset ajattelevat Linux olisivat paremmin joku muu (FSF> On luonnollinen vaihtoehto), minä "luopumaan". En usko, että> Se on jotain ihmiset ovat pelätä nyt - en näe sitä> Tapahtuu lähitulevaisuudessa. Nautin tekee Linux, vaikka se> Tarkoittaa jonkin verran työtä, ja en ole saanut mitään valituksia (jotkut melkein arka> Muistutuksia laastari olen unohtanut tai jättää huomiotta, mutta ei mitään> Negatiivinen toistaiseksi).>> Älä ota yllä tarkoita, että lopetamme päivä joku valittaa:> Olen paksunahkainen (Lasu, joka lukee tämän olkapääni yli kommentoitu> Että "paksu-johdossa on lähempänä totuutta") tarpeeksi kestää jonkin väärinkäytöstä.> Jos en olisi, olisin lopettanut kehittää Linux päivä ast naurunalaiseksi minua> On c.o.minix. Tarkoitan vain, että vaikka linux on ollut lastani niin> Pitkälle, en halua estää, jos ihmiset haluavat tehdä jotain> Parempi siitä (*).>> Linus>> (*) Hei, voisin hakea Saint-huppu päässä Pope. Tekee> Joku tietää, mitä hänen email-osoite on? Olen niin mukavaa se tekee sinut oksentaa.(Ote Linus vastauksesta joku huolissaan tulevaisuudesta Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kiva juttu Windows on - Se ei vain kaatua, se näyttäävalintaikkuna ja voit painaa "OK" ensin.(Arno Schaefer .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ainoa "intuitiivinen" käyttöliittymä on nänni. Sen jälkeen se kaikki oppineet.(Bruce Ediger, bediger@teal.csn.org, vuonna comp.os.linux.misc, X rajapintoja.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+On olemassa kahdenlaisia ​​Linux-kehittäjiä - niitä, jotka voivat kirjoittaa, jajotka eivät voi. On jatkuvaa ankara taistelu näiden kahden välillä.(Yhdestä jälkeisen 1.1.54 ytimen päivitys lähetettyjä viestejä c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Viesti on tuonut sinulle Linux, vapaa unix.Windows ilman X on kuin rakastelua ilman kumppania.Sex, Drugs & Linux Säännötwin-nt ihmisiltä, ​​jotka keksivät Edlinomenat ovat merkinneet ongelmia vuodesta edenLinux, tapa päästä eroon käynnistyssektorivirukset(By mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS, ja Windows NT (tunnetaan myös Hyvät, pahat, jaUgly). "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Hyvin harvat ilmiöt voivat vetää joku ulos Deep Hack-tila, kaksipani merkille poikkeuksia: on iski salama, tai pahempaa, * tietokone *on iski salama. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Heiluttaen pois savupilven, katson ylös, ja olen sokaisi kirkas, valkoinenvalo. Se on Jumala. Ei, ei Richard Stallman, tai Linus Torvalds, mutta Jumala. sisäänkasvavista äänen, hän sanoo: "Tämä on merkki. KÄYTTÖ LINUX, FREE UNIXFOR 386. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Me kaikki tiedämme, Linux on suuri ... se ääretön silmukoita 5 sekunnissa."(Linus Torvalds noin paremmuuden Linux AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olemme MicroSoft. Sinut sulautetaan. Vastarinta on turhaa.(Lisätty B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olemme Pentium Borg. Jako on turhaa. Sinut lähentää.(Nähdään jonkun .signature)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Käytämme Linux päivittäin UP tuottavuuttamme - niin UP omasi!(Mukailtu Pat Paulsen Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tulemme haudata DOS, ei kehua sitä.(Paul Vojta, vojta@math.berkeley.edu, siteeraten lainaus Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Käytämme Linux kaikille kriittisille sovelluksia. Ottavat lähdekooditarkoittaa sitä, että emme ole panttivankeina kenenkään asiakaspalveluumme.(Russell Nelson puheenjohtaja Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mitä te loppujen lopuksi ajamisen jälkeen käyttöjärjestelmä käsite kauttaNäiden monien markkinointi kahvinsuodattimet, on jotain ei toisin pelkkää kuumaavettä. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mitä tämä kirjoitus tehdä?    pura; kosketa; sormi; mount; haukkomaan; yes; umount; nukkuaVihje vastausta: kaikki ei ole tietokoneella suuntautuneita. Joskus oletmakuupussissa, pyöriä.(Contributed Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Kun sanot" Kirjoitin ohjelman, joka kaatui Windows ", ihmiset vain tuijottavatte ilmeettömästi ja sanoa "Hei, sain ne järjestelmän kanssa, * ilmaiseksi *". "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Whip minut. Beat minua. Tee minulle ylläpitää AIX."(By Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuka on General Failure ja miksi hän lukee minun kiintolevy?"Microsoft spel chekar vor purje, worgs arina !!(By leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuka haluaa muistaa, että paeta-x-alt-ohjaus-vasen shift-b asettaa sinutsuper-edit-debug-koota tilassa?(Keskustelua comp.os.linux.misc on intuitiveness komentojen, erityisestiEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Miksi käyttää Windows, koska on ovi?(By fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"World ylivalta. Nopea"(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you voisi viettää * koko päivän * räätälöintiä otsikkoriviltä. Usko minua. minäpuhua kokemuksesta. "(Matt Walesin)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Ehkä myös ohittaa Xmas juhla kokonaan, ja sen sijaanistua Linux tietokoneen leikkiiTäysin uusi-ja-parannettu Linux-ytimen version. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Työsi on olla professori ja tutkija: Se on kova hyvä tekosyyjoidenkin aivojen vahinkoja minix.(Linus Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen kuullut Juutalainen ja muslimi väittävät Damaskoksessa kahvilassa vähemmän intohimokuin emacs sotia. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

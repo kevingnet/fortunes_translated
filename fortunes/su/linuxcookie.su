@@ -1,0 +1,412 @@
+A mesin Linux! sabab 486 nyaeta hiji hal dahsyat runtah!(Ku jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Leres pisan sia kudu menyimpulkan ti inohong ieu iwalno kacindekan bisa dicokot ti eta. "(Ku Joseph L. Brothers, Linux / PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sabenerna, ngetik senar random dina Panimu nu teu sarua jeungparantosan Ngaran koropak.(Discussion di comp.os.linux.misc dina intuitiveness of Paréntah: fileparantosan vs. nu Mac Panimu.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sanggeus ningali dad karek-pensiunan mah méakkeun dua minggu diajar kumaha nyieun anyarpolder, eta jadi atra yén "intuitif" lolobana hartina "naon panulis atawaspeaker of likes intuitif ".(Bruce Ediger, bediger@teal.csn.org, dina comp.os.linux.misc, dina Xintuitiveness hiji interface Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sadaya désainer basa nu sombong. Goes jeung wewengkon ..."(Ku Larry Besar)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jeung 1.1.81 téh resmi BugFree (TM), jadi lamun narima nu mana wae nu kutu-laporandina eta, Anjeun nyaho maranehna ngampar ngan jahat. "(Ku Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Jeung bikang scantily clad, tangtu. Anu paduli lamun éta di handap noldi luar "(Ku Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jeung di waktu nu sanes Anjeun mertimbangkeun complaining nu ngajalankeun Lucid Emacs19,05 via NFS ti mesin Linux jauh di Paraguay teu siganameunangkeun warna tukang katuhu, Anjeun bakal nyaho saha hatur. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Sakur kuli kaluar kudu ngarasa happier nyaho yen DEC nyaéta pengiriman barang>: Kuring an AlphaPC mah maksudna nyoba meunang linux ngajalankeun waktu bakal ieu>: Pasti mantuan siram kaluar sababaraha barang unportable paling flagrant.>: Nu Alpha leuwih béda ti i386 tinimbang barang 68k téh, jadi>: Éta dipikaresep pikeun meunangkeun lolobana barang tetep.>> Ieu tulisan kawas ieu nu ampir ngayakinkeun urang non-mukmin nu aya> Bener allah a.(A nurutan-up ku alovell@kerberos.demon.co.uk, Anthony Lovell, pikeun Linus sacaraKaterangan ngeunaan porting)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Saha nyangka UNIX ieu intuitif kudu kapaksa nulis 5000 bariskode ngagunakeun euweuh tapi vi atawa emacs. AAAAACK!(Discussion di comp.os.linux.misc dina intuitiveness tina paréntah, utamanaEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Dupi [Baraya_Sunda Linux] lemmings koléktif jumping off tina gawir tinadipercaya, well-direkayasa software komérsial? "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sakumaha biasa, ieu keur siaran 1.3.x, kuring geus teu komo disusun ieukernel acan. Jadi lamun karya, Anjeun kudu doubly impressed.(Linus Torvalds, announcing kernel 1.3.3 dina linux-kernel milis.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nyingkahan Gates of Apan. Pamakéan Linux(Sumber Teu kanyahoan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kudu warned nu ngetik \ fBkillall \ fIname \ FP teu mungkin geus nu dipikahoyongpangaruh dina sistem non-Linux, utamana lamun dipigawé ku pamaké bencong.(Tina kaca manual killall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Salian ti Jigana [Slackware] sora leuwih hade tinimbang 'Microsoft,' teu anjeun?"(Ku Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tapi naon bisa Anjeun pigawé kalayan eta? - Ubiquitous ceurik ti pasangan Linux-pamaké.(Nyerah ku Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ku golly, Kaula dimimitian mikir Linux bener * nyaeta * hal pangalusna sapraksliced ​​roti. "(Ku Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Beu. kernel The usaha pikeun ngakses sababaraha kaca goréng. Urang gé kudu * Nungtungan hal jeung prasangka ekstrim.* /die_if_kernel ( "Haduh", regs, error_code);(Ti linux / Arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep Hack Mode - nu state misterius jeung frightening tinaeling mana fana Pamaké sieun ka kembangan. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra meureun hates kuring(Linus Torvalds, dina kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, A leutik virus boot bangor nu nyababkeun sistim spontan random.     ngadat, biasana saukur saméméh nyimpen hiji proyék masif. Gampang diubaran ku     UNIX. Tempo ogé MS-DOS, IBM-DOS, DR-DOS.(Ti .plan David Vicker sacara)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Catetan yen 120 detik dihartikeun dina protokol minangka maximum nu * Mungkin RTT. Kuring nebak urang gé kudu maké hiji hal lian ti TCP * Ngobrol jeung Universitas Mars. * Paws ngamungkinkeun urang timeouts deui jeung jandela gede, jadi sakali dilaksanakeun * Ftp ka Mars bakal bisa dipaké nicely. * /(Ti /usr/src/linux/net/inet/tcp.c, ngeunaan RTT [retransmission seep])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Komo leuwih endah pisan ieu realisasi yen Allah ngabogaan aksés Internet. Iheran lamun Manéhna ngabogaan newsfeed full? "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Pernah ngadéngé .cshrc?Éta hiji kota di Bosnia. Katuhu?(Discussion di comp.os.linux.misc dina intuitiveness tina paréntah.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Kasalahan: Kapanggih [MS-Windows] System -> Repartitioning piringan pikeun Linux ...(Ku cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kumaha maneh mah ngetik "pikeun i di .dvi * teu xdvi i dipigawé" dina GUI a?(Discussion di comp.os.linux.misc dina intuitiveness of interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kumaha atuh kudu nyaho lamun hade? Éta naon testers béta nyaéta pikeun. Kuring ngandisandi eta. "(Attributed ka Linus Torvalds, tempat di posting a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \A anggota reueus of TeamLinux \ _________ \ /(Ku CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I ngamekarkeun pikeun Linux pikeun hirup, kuring dipaké pikeun ngamekarkeun keur DOS.Bade ti DOS ka Linux kawas dagang pesawat terbang layang pikeun hiji F117.(Ku entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuring ieu 'ngabalukarkeun Linux méré kuring Woody a. Teu ngahasilkeun pendapatan.(Dave '-ddt-> `Taylor, announcing DOOM pikeun Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ngarasa Luncat ka kontak kuring (seuneu ngeunaan english mah jeung gunana ieusupir bakal dialihkeun ka / dev / null, oh no, éta full ...).(Michael Beck, ngajéntrékeun alat sora PC-speaker)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuring henteu weruh naha, tapi program C kahiji condong kasampak loba leuwih goreng tiprogram kahiji di mana wae basa séjén (meureun iwal Fortran, tapi tuluyKuring nyangka sadaya program Fortran kasampak kawas `firsts ')"(Ku Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuring sakali disaksian hiji, flamewar bulan panjang lila-winded leuwih pamakéanmencit vs. trackballs ... Ieu pisan dalang. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuring masih ngajaga titik nu ngarancang hiji kernel monolithic dina taun 1991 nyaetakasalahan fundamental. Jadi ngahatur nuhun anjeun teu mahasiswa mah. Anjeun teu bakal meunangkeunkelas luhur keur desain saperti :-)(Andrew Tanenbaum ka Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuring rada bakal méakkeun 10 jam maca kode sumber batur nu sejenna sacara ti10 menit dengekeun Musak nungguan pangrojong téhnis nu teu. "(Ku Dr. Nagreg Wettstein, Roger Maris Kangker Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Abdi ngorondang ngaliwatan hiji acre tina 'Visual ++ Ieu' jeung 'Development terpaduNu 'pikeun meunangkeun ka gcc, Emacs, sarta gdb. Hatur nuhun."(Ku Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuring an jelema bodo .. Sahanteuna ieu hiji [kutu] nyandak kira 5 menit pikeun manggihan .."(Linus Torvalds di response ka laporan kutu.)> Kuring an jelema bodo .. Sahanteuna ieu [kutu] nyandak kira 5 menit pikeun manggihan ..Disquieting ...(Gonzalo Tornaria di response ka milis Linus Torvalds urang ngeunaan kutu kernel.)> Kuring an jelema bodo .. Sahanteuna ieu [kutu] nyandak kira 5 menit pikeun manggihan ..Urang kudu manggihan sababaraha istilah anyar pikeun ngagambarkeun sesa urang mortals meretuluy.(Craig Schlenter di response ka milis Linus Torvalds urang ngeunaan kutu kernel.)> Kuring an jelema bodo .. Sahanteuna ieu [kutu] nyandak kira 5 menit pikeun manggihan ..Pasti, Linus ieu ngawangkong ngeunaan jenis idiocy nu sanesna aspire ka :-).(Bruce Perens di response ka milis Linus Torvalds urang ngeunaan kutu kernel.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuring geus ngajalankeun DOOM leuwih dina sababaraha poé panungtung ti kuring geus sababaraha pamungkasbulan. Kuring kakara cinta debugging ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, paduli ku popularitas ngembang bébas 32-bitsistem operasi pikeun sistim Intel, Linux, geus padamelan jumlah luhurprogramer ti dunya jero taneuh tumuwuhna virus. Bill Gates nyatakeunkamari: "dominasi Dunya, gancang - éta boh urang atawa Linus". Mr. Torvaldsieu sadia keur comment ...(Rjm@swift.eng.ox.ac.uk (Robert tata krama), dina comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    lamun (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Ulah panik \ n!");kaluar (42);    }(Arnold Robbins di lj Pébruari '95, ngajéntrékeun RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Lamun dihartikeun (__ alpha__) && diartikeun (CONFIG_PCI)+ / *+ * Nu hartina hirup, alam semesta, jeung sagalana. tambah+ * Ieu ngajadikeun taun kaluar katuhu.+ * /+ Taun - = 42;+ # Endif(Ti patch keur 1.3.2: (kernel / time.c), nyerah ku raka Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Lamun sistem pituduh hareup [for ladenan networked interaktif dinanu NII] Sigana mah hal ti Microsoft, eta kungsi bakal bisa dipaké. "(Pupuhu Walt Disney Télévisi & Telecommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Lamun hayang ngarambat sakuliah dunya jeung diajak nyarita di lobatempat anu béda, saukur nulis sistem operasi Unix. "(Ku Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[Dina 'Dokter' mode], kuring spent alus sapuluh menit nétélakeun Emacs naon atuhpanginten eta. (Response ieu, 'Sugan Anjeun bisa nyoba kurangkasar. ') "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dina kalolobaan nagara ngajual hal ngabahayakeun kawas ubar nyaéta dihukum.Saterusna howcome urang bisa ngajual software Microsoft tur muka unpunished?(Ku hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel rékayasa sigana boga misheard strategi marketing Intel. frasaieu "Ngabagi jeung nalukkeun" teu "Ngabagi jeung cock up"(Ku iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ieu Allah. No, teu Richard Stallman, atawa Linus Torvalds, tapi Allah."(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, Anjeun saena mah dina tuur mah!(Ti David Hideung, dblack@pilot.njin.net, jeung Apologies ka Derek jeungDominos, sarta Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux anu leungit(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux penah hiji tangtangan nyata pikeun maranéhanana jeung rasa pikeun ahir-peutingHacking (jeung / atawa paguneman jeung Allah). "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Gerilya UNIX Development Venimus, Vidimus, Dolavimus.(Ku mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Kapasitas [Linux sacara] ngobrol via mana wae sedeng iwal sinyal haseup."(Ku Dr. Nagreg Wettstein, Roger Maris Kangker Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: sabab PC ngarupakeun hal dahsyat runtah(Ksh@cis.ufl.edu nunda ieu dina Tshirts di '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Sabab PC ngarupakeun hal dahsyat runtah.(Ku komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: pilihan generasi Lisénsi(Ksh@cis.ufl.edu nunda ieu dina Tshirts di '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: sistem operasi jeung clue a ...Line paréntah Pamaké Lingkungan ".(Katempo dina posting di comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 dina seuneu(Salah sahiji talatah kernel leuwih obfuscated)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft teu jawaban.Microsoft nyaeta pertanyaan.NO (atawa Linux) nyaéta jawaban.(Dicokot ti .signature ti batur ti UK, sumber unknown)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' Auf Pferde, 'einklinken'von Festplatten di Dateisysteme, und, nun, 'besteigen' beim Sex.(Christa Keil dina posting Jerman: "ningkatna dipaké pikeun tilu hal:climbing dina kuda, linking dina unit hard disk dina sistim data, jeung, sumur,ningkatna salila sex ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS teu meunang salaku bad sakumaha anu kasebut sapeuting - eta ngambil alih sapuluh tauntumuwuhna ati. "(Ku dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kungsi nyieun mistaeks wae."(Anonim, dina sawala mail ngeunaan laporan kutu kernel.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Teu kuring, bodo. Kuring maca kaca Bash man unggal poé kawas saksi Yéhuwa urang berbunyiAlkitab. No nungguan, kaca man Bash IS bibel teh. Hapunten...(More on aliases ngabingungkeun, dicokot ti comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Catet yén lamun kuring bisa meunangkeun Anjeun pikeun \" su jeung ngomong \ "hal ngan ku nanyakeunAnjeun gaduh masalah kaamanan pisan serius dina sistim Anjeun jeung anjeun kudukasampak kana eta. "(Ku Paul Vixie, vixie-Cron 3.0.1 catetan instalasi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ayeuna mah nyaho batur kaluar aya anu bade ngaku, "Nah terus, UNIX nyaéta intuitif,sabab ngan kudu diajar 5000 Paréntah, terus sagalana sejenna kieuti nu! Har Har Har! "(Andy Kandaga di comp.os.linux.misc, dina "interfaces intuitif", radadefending Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ayeuna, eta urang tadi nurun ieu hal:  ngahasilkeun -a pikeun ngahasilkeun ka sadaya lalu lintas  ngahasilkeun -t pikeun ngahasilkeun ka truk  ngahasilkeun -f pikeun ngahasilkeun ka jelema leumpang (ngahasilkeun suku)  ngahasilkeun -d t * pikeun ngahasilkeun dina poé dimimitian ku t... Anjeun kukituna geus loba jelema paéh di intersections, jeung jams patalimarga anjeunmoal percaya ...(Discussion di comp.os.linux.misc dina intuitiveness tina paréntah.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Dina hiji garis ASCII normal, ngan kaayaan aman ngadeteksi nyaeta 'BREAK'- Sagalana sejenna sanggeus geus ditugaskeun fungsi ku Lisénsi EMACS ".(Ku Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"On Internét, teu saurang weruh Anjeun keur make Windows nt"(Nyerah ku Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sakali kana hiji waktu aya pamaké DOS anu nempo Unix, sarta nempo yén ieualus. Sanggeus ngetik CP dina mesin DOS-Na di imah, manéhna diundeur Lisénsi sacarapakakas UNIX pindah ka DOS jeung dipasang eta. Manéhna rm'd, cp'd, sarta mv'dhappily for loba poé, jeung kana manggihan Elvis, manéhna vi'd jeung ieu bagja. saatospoé lila di karya (dina kotak Unix) manéhna datang imah, ngédit hiji payel,jeung teu bisa angka kaluar naha manéhna teu bisa numpurkeun vi (w / Ctrl-z) pikeun ngalakukeuna compile.(Ku ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Lian ti kanyataan Linux ngabogaan ngaran tiis, bisa batur ngajelaskeun naha kuring>> Kudu make Linux leuwih BSD?>> No. Éta eta. Ngaran tiis, nu. Urang digawé pohara teuas dina> Nyiptakeun ngaran nu bakal daya tarik pikeun mayoritas jalma, sarta> Pasti dibayar off: rébuan jalma anu ngagunakeun linux ngan bisa> Ngomong "OS / 2? Hah. Kuring saena Linux. What ngaran tiis". 386BSD dijieun> Kasalahan tina putting loba nomer jeung singkatan aneh kana> Ngaran, sarta scaring jauh loba jalma ngan sabab sora teuing> Teknis.(Linus Torvalds 'nurutan-up ka patarosan ngeunaan Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pribadi, kuring mikir pilihan mah dina perang mostest-superlative-komputer geusjadi runtuyan HP-48 kalkulator. Maranéhanana bakal ngajalankeun ampir nanaon. Jeung lamun maranehnateu bisa, sedengkeun Kuring kakara gé nyolok kotak Linux kana port serial jeung muka nepi kaHP-48 VT-100 émulator.(Ku jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aya no threads dina a.b.p.erotica, jadi aya no gain dina ngagunakeunthreaded maca warta.(Sumber Teu kanyahoan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Masalah ngarengsekeun dina linux geus kungsi jadi sirkus yén éta téh dinaAIX. "(Ku Pete Ehlke di comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+kaluar Lamun pernyataan kaluar dibaca, nu processor SM       ieu terminated, mandang mana kaluar state-       ment kapanggih. Contona, "lamun (0 == 1) kaluar"       bakal ngabalukarkeun SM tepi ka nungtungan.(Ditempo dina manpage pikeun "SM". Catetkeun "lamun" logika pernyataan sacara)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ngajalankeun Windows dina Pentium nyaéta kawas ngabogaan brand hiji Porsche anyar tapi nganbisa ngajalankeun ka tukang jeung erem leungen dina.(Sumber Teu kanyahoan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit discus mundi"(Ti Guide nu System Administrator urang, ku Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hhh. Mah kawas mikir éta ngan jalma Linux anu hayang jadi dinanu "ujung ngarah" jadi bad maranéhanana leumpang katuhu off precipice teh.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nu chat program dina domain publik. Ieu teu lisénsi umum Lisénsi. upamieta ngarecah mangka anjeun meunang tetep boh lembar.(Bewara Copyright pikeun program chat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Poe urang mikir linux bakal leuwih alus dilayanan ku si sejenna (FSF> Keur alternatif alam), Abdi gé "masihan". Ku teu sangka nu> Éta hal urang geus salempang ngeunaan ayeuna - Kuring teu nempo> Lumangsung di mangsa nu bakal datang. Kuring mikaresep ngalakonan linux, sanajan eta teu> Mean sababaraha karya, na mah geus teu gotten keluhan nu mana wae nu (sababaraha ampir isinan> Panginget ngeunaan patch Kuring geus poho atawa teu dipalire, tapi euweuh> Négatif jadi jauh).>> Ulah nyokot luhur ka mean nu bakal ngeureunkeun poé si complains:> Kuring kandel-skinned (Lasu, anu maca ieu leuwih taktak mah commented> Nu "kandel-dipingpin téh leuwih deukeut ka bebeneran") cukup pikeun nyokot sababaraha nyiksa.> Lamun kuring éta henteu, Abdi geus dieureunkeun ngembang linux poé ast ridiculed kuring> Dina c.o.minix. Naon atuh hartina ngan bari linux geus orok mah jadi> Jauh, kuring teu hayang nangtung di jalan lamun urang hayang nyieun hal> Hade eta (*).>> Linus>> (*) Hey, meureun kuring bisa nerapkeun keur santo-tiung ti Paus. teu> Si nyaho naon email-alamat nya? Aku jadi nice ngajadikeun anjeun puke.(Dicokot ti reply Linus pikeun batur hariwang ngeunaan kahareup Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hal nice ngeunaan Windows téh - Teu ngan ngadat, eta mintonkeun hijikotak dialog jeung ngidinan Anjeun mencet 'OK' kahiji.(.sig Arno Schaefer sacara)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ngan "intuitif" interface nyaeta nipple teh. Sanggeus éta, ayeuna teh sadaya diajar.(Bruce Ediger, bediger@teal.csn.org, dina comp.os.linux.misc, dina interfaces X).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aya dua jenis pamekar Linux - jalma anu bisa ngejah, sartajalma anu teu bisa. Aya pitched perang konstan antara dua.(Ti salah sahiji-1.1.54 post talatah update kernel dipasang ka c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+talatah ieu dibawa ka anjeun ku Linux, nu UNIX bébas.Windows tanpa X kawas nyieun asih tanpa pasangan a.Sex, Narkoba & Aturan Linuxwin-nt ti jelema anu nimukeun edlinapel geus dimaksud kasulitan saprak EdenLinux, jalan meunang leupas tina virus boot(Ku mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS, jeung Windows nt (ogé katelah Good, nu Bad, sartanu awon). "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Saeutik pisan fenomena bisa narik batur kaluar ti Deep Hack Mode, jeung duanyatet iwal: keur struck ku kilat, atawa goréng, Anjeun * komputer *keur struck ku kilat. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Waving jauh a awan haseup, kuring kasampak nepi, jeung keur dilolongan ku caang, bodascahaya. Ieu Allah. No, teu Richard Stallman, atawa Linus Torvalds, tapi Allah. dinasora booming, Anjeunna nyebutkeun: "Ieu hiji tanda Pake LINUX, THE System FREE UNIX.Pikeun THE 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Urang kabeh terang Linux anu gede ... hancana puteran wates di 5 detik."(Linus Torvalds ngeunaan kakuatan tina Linux dina AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Urang Microsoft. Anjeun bakal assimilated. Résistansi téh sia sia.(Attributed ka B.G., Gill Kandaga)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Urang Pentium of Borg. Divisi téh sia sia. Anjeun bakal pendekatan.(Ditempo dina .signature batur sacara)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Urang ngagunakeun Linux poean ka nepi produktivitas urang - jadi nepi Hormat!(Adaptasi ti Pat Paulsen ku Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Urang datang ka ngubur DOS, teu muji eta.(Paul Vojta, vojta@math.berkeley.edu, paraphrasing a quote of Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ieu kami nganggo Linux pikeun sadaya aplikasi misi-kritis urang. Ngabogaan kode sumberhartina urang teu disandera ku departemen pangrojong saha sacara.(Russell Nelson, Présidén Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Naon nu mungkas nepi ka, sanggeus ngajalankeun hiji konsép sistem operasi ngaliwatanieu loba saringan kopi marketing, nyaéta hiji hal teu kawas polos panascai. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Naon ieu naskah teu?    Bahékeun berkas; toél; ramo; gunung; engap-engapan; enya; umount; sareHint keur jawaban: teu sagalana komputer-berorientasi. Kadangkala anjeundina bag sare, kémping kaluar.(Nyumbang ku Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Lamun ngomong" Kuring wrote program nu nabrak Windows ", euy urang neuteup diAnjeun blankly jeung ngomong "Hey, kuring meunang maranéhanana jeung sistem, * haratis *". '(Ku Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pecut kuring. Teuing atuh. Jieun kuring ngajaga AIX."(Ku Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Saha paranti Umum jeung kunaon ieu manéhna maca hard disk mah?"Microsoft spel chekar vor balayar, worgs ngilu !!(Ku leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Who wants to inget yen ngewa-x-alt kontrol-kenca-shift-b nyimpen anjeun kanasuper-édit-debug-compile mode?(Discussion di comp.os.linux.misc dina intuitiveness tina paréntah, utamanaEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Naha maké Windows, saprak aya panto hiji?(Ku fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Dominasi Dunya. Fast"(Ku Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you bisa méakkeun * sadaya poé * Nyieun husus bar judul. Percanten ka abdi. abdinyarita ti pangalaman. "(Ku Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Anjeun bisa ogé ngaliwatan perayaan Xmas lengkep, jeung tinimbangdiuk di hareup maén komputer linux Anjeun sarengsadaya anyar--jeung-ningkat versi linux kernel. "(Ku Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+pakasaban Anjeun keur profesor jeung panalungtik: Éta hiji naraka hiji musabab aluskeur sababaraha uteuk-Karuksakan of minix.(Linus Torvalds ka Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuring geus kadéngé hiji urang Yahudi jeung Muslim ngajawab dina cafe Damaskus jeung kurang markisati perang emacs. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

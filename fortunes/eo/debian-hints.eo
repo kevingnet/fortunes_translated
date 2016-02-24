@@ -1,0 +1,129 @@
+Debian Konsileto # 44: Vi povas sekvi la Identi.ca konto por debian ĉehttp://identi.ca/debian Pli informo de Debiano ĉe Identica povas ankaŭtroveblas ĉe: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Konsileto # 1: Vi povas raporti cimon en pako kun la 'reportbug' komando,kiu estas disponebla en la reportbug pako, ĉu de la komando-linion aŭkun la nova grafika fasado (disponebla kurante 'reportbug --ui gtk2' aŭ enla menuo).
+
+%
+Debian Konsileto # 2: Vi povas uzi 'dpkg-reagordi <pako>' ŝanĝi larespondojn vi donis al la demandoj kiam vi unue instalis pakaĵon.La 'configure-debian' pakaĵo provizas unuecan interfacon por fari tion,ankaŭ.
+
+%
+Debian Konsileto # 3: Vi povas uzi aŭ 'apt-cache serĉo <vortoj>' aŭ'Aptitude serĉo <vortoj>' por serĉi vortojn en la priskriboj de ĉiujdisponeblaj pakoj.
+
+%
+Debian Konsileto # 4: Vi povas vidi la haveblaj kaj instalitaj versioj por unuaŭ pli disponeblaj pakoj kun la komando 'apt-cache politiko <pakoj>'.
+
+%
+Debian Konsileto # 5: Se vi bezonas konstrui laŭmendan kerno, uzi la 'ŝminko kpkg'skripto troviĝas en la kerno-pako pako.
+
+%
+Debian Konsileto # 6: Ne estas aludo # 6. Proponu aludo hodiaŭ!
+
+%
+Debian Konsileto # 7: Vi povas uzi la cron-apt pako fari aŭtomatan ĉiunoktaDescargas ĝisdatigojn por pakoj instalitaj en via sistemo.
+
+%
+Debian Konsileto # 8: Se vi havas problemojn kun debian ke vi ne povas solvi perlegante la manlibroj kaj dokumentado, provu demandi en la Debiana Uzantojdissendolisto (debian-user@lists.debian.org).
+
+%
+Debian Konsileto # 9: Se vi devas scii kion versio de Debian vi aktualekurante, rigardi en / etc / debian_version aŭ uzi 'lsb_release -sc' komando. Se vivolas scii la kodnomo por versio (ekzemple, 5,0 estas kun kaŝnomo'Lenny), kontrolu ĉi retadreso:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Konsileto # 10: Estas debian dissendolistoj por ĉio de uzantodemandoj al debatoj super kio por meti en la Debiana Politiko dokumentoj.Legu la liston ĉe http://www.debian.org/MailingLists/ kaj abonikiuj interesas vin.
+
+%
+Debian Konsileto # 11: Teni ĝis dato sur kio okazas - legi la debianProjekto Novaĵoj. Legis ĝin en la reto sub http://www.debian.org/News/weekly/
+
+%
+Debian Konsileto # 12: La grep-dctrl pakaĵo provizas kelkajn utilajn skriptojpor rapida serĉado diversaj pako kontrolo dosierojn (kiel la disponeblajpakoj dosieron).
+
+%
+Debian Konsileto # 13: Se vi ne ŝatas la defaŭlta ebloj uzita en debianpako, vi povas elŝuti la fonto kaj konstrui versio kiu uzas laebloj vi preferas. Vidu http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Sekcioj 6.13 kaj 6.14) por pli informo.Tamen, Urso en menso ke plejpartoj ebloj en plej pakoj povas esti agorditaje ekzekuto, kaj ne postulas recompiling la pako.
+
+%
+Debian Konsileto # 14: Se vi ŝatus sekvi aferoj okazas al pako(Ekzemple, se vi volas vidi cimo raportoj, liberigas avizoj, kaj aliajsimilaj aferoj), konsideri abonanta al ĝi sur la Pako Spurado Sistemo.Vi povas eltrovi pli pri la PTS ĉe:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Konsileto # 15: La dokumentaro por pako povas kutime esti trovitasub / usr / share / doc / <pako>. Aparte, la README.Debian dosieron oftehavas utilajn informojn pri Debian-specifa kapricoj aŭ konsiletoj.
+
+%
+Debian Konsileto # 16: Se vi estas serĉanta apartan dosieron, sed ne sciaskiu pako ĝi apartenas al, provu instali 'apt-dosiero', kiu subtenasmalgranda datumbazo de tiu informo, aŭ serĉi la enhavon de la DebianaPakoj datumbazo, kiu povas esti farita ĉe:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Konsileto # 17: Bezonas iun paroli al ĉirkaŭ debian? Se vi estas komfortakun Interreto Relay Babilejo (IRC), simple instali vian preferatan IRC kajaliĝi #debian sur irc.debian.org.
+
+%
+Debian Konsileto # 18: Kvalito kontrolo informoj pri pakon troviĝasirante al http://packages.qa.debian.org/~~V <pako>; tiu paĝo provizasligoj al la prizorganto de QA paĝo, la BTS, informetojn por la pako, kajinformo sur kio versioj estas haveblaj en kiu arkivoj.
+
+%
+Debian Konsileto # 19: Se vi estas interesita en konstruanta pakojn de fonto, videvus konsideri instali la apt-src pako.
+
+%
+Debian Konsileto # 20: Volas konservi trako de kio versio de pako vi havasinstalita (speciale utila por tiuj kuranta híbrido stabila / testing /malstabilaj sistemoj)? Kontrolu apt-show-versioj.
+
+%
+Debian Konsileto # 21 Se via debian skatolo estas malantaŭ malrapidan retaliron,sed vi havas aliron al rapida tiel, kontrolu la apt-zip pakaĵo.
+
+%
+Debian Konsileto # 22: Scivolanta kion debian spegulo estas bona por vi? kontrolula apt-spiono kaj netselect-apt pakoj, kiu povas doni vin informopri kiom diversaj spegulo ejoj fari.
+
+%
+Debian Konsileto # 23 Se via sistemo uzas tro multe diskspaco, provu ladeborphan pako; ĝi povas proponi sugestojn pri kiu pakoj povas estineuzita kaj forprenebla. Kaj, kompreneble, ne forgesu purigi laAPT kaŝmemoro areo (uzante 'apt-get pura', 'aptitude pura' aŭaptitude la Ago -> Pura pako kaŝmemoro menuero).
+
+%
+Debian Konsileto # 24: Se vi ŝatus danki al administranto por manipulitemo, kontrolu reportbug --kudos.
+
+%
+Debian Konsileto # 25: La 'debian-referenco' pako enhavas ampleksan varionde referenco dokumentoj por Debian uzantoj kaj programistoj. Plejparto de lainformo povas troviĝi ankaŭ ĉe la jena retadreso:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Konsileto # 26: Se pako ne ŝajnas havi multan dokumentaron,kontroli por pako nomita '<pako> -doc' aŭ simila kaj certiĝuinstali ĝin tiel; pakoj kun grandaj kvantoj de dokumentadoregule fendis la dokumentojn tiumaniere por tiuj kiuj ne volasinstali ilin.
+
+%
+Debian Konsileto # 27: Regule kontroli viajn rezervojn. Vi * estas * tenanta kopioj,maljuste Maljuste Se ne, starti per gudro (1) aŭ dump (1).
+
+%
+Debian Konsileto # 28: Se via maŝino ne sur ĉiuj de la tempo (kiel ekzempletekkomputilo), kontrolu la 'anacron' pako; tio estos certigi ke regulataskoj ankoraŭ okazi, eĉ se la maŝino ne sur tiutempe ili faruskutime deĉenigi.
+
+%
+Debian Konsileto # 29: Konservu vian sistemon horloĝo preciza - Maŝinoj kiuj ŝaltisplej aŭ ĉiuj de la tempo devus havi la 'NTP' pakaĵo instalita teni la tempopreciza intere reboots.
+
+%
+Debian Konsileto # 30: Dokumentoj povas esti disponebla ĉe http: // localhost /instalante la 'doc-bazo' kaj 'doc-centra' pakoj kaj iliadependecoj.
+
+%
+Debian Konsileto # 31: Malebligas normale-aktiva servo en specifan rulnivelodevus esti farita ŝanĝante la S ligilo en /etc/rc<level>.d al K ligilo,anstataŭ forigi la ligilon tute; se ĉiuj ligiloj estas forigitaj, lasistemo supozas en la sekvanta instali ke ili bezonas esti anstataŭita.
+
+%
+Debian Konsileto # 32: La pakaĵo 'doc-debian' enhavas kelkaj ĝeneralajdokumentado pri la projekto Debian. Ĝi estas ankaŭ havebla en la hispana(Doc-debian-es), franca (doc-debian-fr) kaj ukraina (doc-debian-uk).
+
+%
+Debian Konsileto # 33: La pakaĵo 'devscripts' enhavas kelkajn utilajn skriptojnuzantoj kiuj volas helpi plibonigi Debian, ekz-e wnpp-garde, rc-garde kaj BTS.
+
+%
+Debian Konsileto # 34: Se vi deziras spuri debian sid kaj havas malgrandan downloadkvoto aŭ vere malrapida konekto, kontrolu la debdelta pako.
+
+%
+Debian Konsileto # 35: En serĉo por iuj ludoj? Rigardu 'goplay', kiuofertas belan fasadon por retumi tra ĉiaj ludoj.
+
+%
+Debian Konsileto # 36: Bezonas pli nova pako kiu ekspediĝis kun debian lastastabila eldono, sed ne volas ĝisdatigi al 'testado' aŭ 'nestabila'? iujpakaĵoj estas tenita supren-ĝis-dato tra la stalo-ĝisdatigoj suite, iuj aliaj estasdisponebla ĉe backports.debian.org.
+
+%
+Debian Konsileto # 37: Volas elŝuti pakaĵon sen instali ĝin? uzo'Aptitude download <pkgname>'.
+
+%
+Debian Konsileto # 38: Volas scii kiel vin povas uzi programon vi neniam uzisantaŭe? "Viro" estos via plej nova amiko! Tipo "viro <programo-nomo>" enŝelo. Aŭ, kuri "viro -H <programo-nomo>" por legi la manlibron paĝo en retumilo.
+
+%
+Debian Konsileto # 39: Plibonigi bash la langeton-kompletiĝo instalante labash-kompletiĝo pako.
+
+%
+Debian Konsileto # 40: Se vi instalas la comandos ne-trovita pako, provantakuri komando vi ne instalis diros kion pakon instaliakiri tiun komandon.
+
+%
+Debian Konsileto # 41: Vi povas uzi 'apt-cache spektaklo <package_name>' aŭ 'aptitude spektaklo<Package_name> 'akiri pli informo pri debian pako.
+
+%
+Debian Konsileto # 42: Vi povas uzi 'apt-dosierlisto <package_name>' akiri listonde la enhavo de debian pako. Tiu ago estas simila al'Dpkg -L <package_name>' krom la pako ne bezonas esti instalita aŭprenis uzante apt-dosieron en kontrasto al dpkg.
+
+%
+Debian Konsileto # 43: Volas portempe malaktivigi vian iptables fajroŝirmilo? uzo'Iptables konservitan | ESTU "/ - / D; / ^ # / d; s / DROP / ADO /" | iptables-restarigi 'forigiĉiuj reguloj kaj elekti la politikon ADO.
+
+%

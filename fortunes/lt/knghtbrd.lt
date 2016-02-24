@@ -1,0 +1,2160 @@
+* SynrG pažymi, kad konfigūracijos klausimų skaičius atsakyti į  Sendmail yra ne trivialus
+		-- David Leimbach
+
+%
+* James būtų sužavėtas, jei netgod Magic įgaliojimai gali sustabdyti  skyla į pirmąją vietą ...* Netgod pažymi debian kūrėjai yra gerai žinoma sunku įtikinti
+		-- David Leimbach
+
+%
+<SEL> reikia pagalbos: mano pirmasis paketas mano teikėjo pabėgus :-(<Netgod> SEL: nereikės siųsti pirmasis, pradėti su # 2
+		-- David Leimbach
+
+%
+<James> skriausti. Aš taip nevykęs aš išsiuntė pranešimą apie ydą į        debian-devel-changes
+		-- David Leimbach
+
+%
+Aš niekada maniau, kad aš pamatyti tą dieną, kur "Netscape" yra nemokama programinės įrangos irX11 yra patentuota. Mes gyvename įdomių laikų.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> Lemme įsitikinkite aš ne eikvoti laiką čia ... bcwhite bus pašalinti      Pkgs kad havent buvo fiksuoti, kad neįvykdyti klaidas sunkumo      "Svarbių". Tiesa ar melas?<JHM> Jim: "svarbu" arba naujesnė versija. Tiesa.<Jim> Tada mes apie prarasti ftp.debian.org ir dpkg :)* Netgod trūks dpkg - tai buvo kartais naudinga<Joey> Mes vis dar turime RPM ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> Būdamas perkrautas yra tikra Debian prižiūrėtojui ženklas.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: Aš rimtai padaryti reikia atostogų nuo šio paketo.            Aš iš tikrųjų susapnavo sapną apie įvedant kvailas naują klaidą            į Xbase-preinst paskutinę naktį. Tai yra blogas ženklas.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+Rašymas ne nemokamą programinę įrangą nėra etiškai teisėta veikla, todėl, jeižmonės, kurie tai padaryti į bėdą, tai gerai! Visos įmonės pagrįstasapie ne laisvą programinę įrangą turėtų žlugti, ir kuo greičiau, tuo geriau.
+		-- Richard Stallman
+
+%
+"Microsoft DNS paslauga nutraukė neįprastai, kai ji recieves atsakymąį DNS užklausoje nebuvo padaryta. Fix Informacija: Vykdyk DNSpaslauga kitą platformą.
+		-- BugTraq
+
+%
+* Dpkg rankos Stu didžiulę stiklinę vbeer* Joey mano alų iš ATM, esate per jaunas;)* Cylord mano alų iš Joey, esate pernelyg girtas.* Cylord suteikia alaus Muggles.
+		-- BugTraq
+
+%
+Mes, Debian GNU / Linux distributyvo žmonių, siekiant suformuotitobulesnis operacinė sistema, nustatyti kokybę, apdrausti rinkojeįvairovę, numatyti bendrus poreikius kompiuterių vartotojams, skatintiSauga ir privatumas, nuversti monopolines jėgas kompiuteryjeįrangos pramonė, ir užtikrinti laisvės palaiminimus sau irMūsų palikuonys, kurie įšventinti ir įsteigti šią Konstitucijos DebianGNU / Linux sistema.
+		-- BugTraq
+
+%
+"Tai element_data struktūra elementų, kurių * ELEMENT_TYPE =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Lizdus giliauir giliau, sunkiau ir sunkiau, eikite, eikite, oi, OH, ohhhhh !! * Atsiprašome, gavonunešė ten. * / Struct lo_FormElementOptionData_struct ".
+		-- Mozilla source code
+
+%
+Nors 2000 metų (Y2K) problema yra ne problema mums, visiems Linuxdiegimas bus paveikta metų 2038 (y2.038k) klausimu.Debian'o projektas yra įsipareigojusi dirbti su pramonės šiuo klausimuir turėsime visą mūsų planai ir strategija paskelbė pirmąjį ketvirtį2020 m.
+		-- Mozilla source code
+
+%
+... Kur buvo STAC Elektronika, kai "Microsoft" išrado Doublespace? kurbuvo "Xerox" ir "Apple", kai "Microsoft" išrado GUI? Kur buvo "Apple""QuickTime", kai "Microsoft" išrado Video for Windows? Kur buvo SpyglassInc. "Mozaika kai" Microsoft "išrado" Internet Explorer "? Kur buvo Saulėkai "Microsoft" išrado "Java"?
+		-- Mozilla source code
+
+%
+Aš atsiprašau, jei tokia skamba kovingas ir pernelyg asmeniška,bet tai mano apskritai stilius. - Ianas Jacksonas
+		-- Mozilla source code
+
+%
+"Mano didžiausia problema, su RH (ypač RH įnašo paketai) yra tai, kadJie neturi nieko panašaus mūsų politiką. Tai viena iš pagrindinių priežasčių,kodėl jų paketai yra tiek Crappy ir neveikia. Debian turi komandinio darbopusė pastato pasiskirstymą žemyn į dailės ".
+		-- Mozilla source code
+
+%
+"Slackware vartotojai neturi reikšmės. Mano patirtis rodo, Slackware vartotojaiarba Clueless naujokai, kurie turi problemų net su derva, arba jie yrapasiutęs do-it-yourselfers, kuris nebūtų įdiegti kažkieno iš anksto parengtadvejetainis, net jei jie buvo sumokėti tai padaryti. "
+		-- Mozilla source code
+
+%
+<XinkeT> "Viešpatie suteik man ramybę sutikti dalykų aš negaliu         pakeisti, drąsos keisti, ką galiu, ir išminties         paslėpti žmonių kūnus turėjau žudyti, nes jie         užkniso."
+		-- Mozilla source code
+
+%
+* Tamsiai pasikeitė temą kanale pokalbių kambario # debian į: Vėliau vakarą: Po  mėnesių kruopštaus šaldymo, Debian'o 2.0 yra pakankamai pagaliau kietas  spaudai.
+		-- Mozilla source code
+
+%
+Sėdėjau juokiasi snidely į mano nešiojamojo kompiuterio, kol jie parodė man kompiuteryje, kuriame veikia"Linux". Ir Oh! Tai buvo tarsi atvėrė dangų, ir Dievas įteikė žemynkliento pusėje OS toks gražus, todėl grakštus, ir taip elegantiška, kad milijonoMicrosoft programuotojai negalėjo išrado ją, net jei jie turėjo šimtąmetų ir tūkstantį dėžučių kratytis kolos.
+		-- LAN Times
+
+%
+Sėdėjau juokiasi snidely į mano nešiojamojo kompiuterio, kol jie parodė man kompiuteryje, kuriame veikia"Linux" .... Ir tai padarė kompiuteris droselis? Ar tai mikčioti? Ar, net vieną kartą,pasakyti, kad ši programa neteisėtos operacijos, ir turi būti uždarytižemyn? Nr Ir tai tik nuo kliento.
+		-- LAN Times
+
+%
+"Manau, kad dauguma debian kūrėjai, o" stiprus valios "žmonėssu dideliu laipsniu supratimo ir aukšto lygio aistra kąjie suvokia kaip svarbu plėtoti debian sistemą. "
+		-- Bill Leach
+
+%
+"Tiesą sakant, tik paskirstymo Linux, aš kada nors naudojamas, kad praėjorootshell testas out of the box (nukentėjo rootshell metu nuotolis yraišleistas ir pamatyti, jei jūs galite sulaužyti OS su scenarijų iš ten) yraDebian. "
+		-- seen on the Linux security-audit mailing list
+
+%
+* Prieveiksmiai baiminasi perlą - kalba su pasirenkamais klaidas
+		-- seen on the Linux security-audit mailing list
+
+%
+<STU> turėtumėte bijoti naudoti KDE, nes RMS gali ateiti į jūsų      namas ir skilti monitorių su kirviu ar kažką :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Ir aš tikrai patinka debian 2.0, kad daug aš visiškai persvarstėnumatytoji konfigūracija Linux sistemų mūsų įmonė parduoda ir iš naujo betLinux sistemų biure ir čia namie .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> kaip bijau su politika policijos politiką su keitimo politika         policijos policijos politika
+		-- seen on the Linux security-audit mailing list
+
+%
+<Tamsiai> "Leiskite suformuoti Linux Standartinė Linux" Standartizacijos asociacija        Lenta. Šio tarybos tikslas bus standartizuoti Linux        Standartizacijos organizacijų nare. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> Neik verkti man apie savo "30 minučių kaupia" !! aš            turite sukurti X kalną abi puses! Sniege! plikomis            pėdų! Ir mes neturėjome kompiliatoriai! Mes turėjome išversti            C kodas Mnemoniska save!<Overfiend> Ir aš buvau 18 kol mes net turėjo surinkėjai!
+		-- seen on the Linux security-audit mailing list
+
+%
+Niujorkas (CNN) - interneto vartotojų, kurie praleidžia net kelias valandas per savaitę lankosinamuose patirti didesnį depresijos ir vienišumo, nei jeijie naudojo kompiuterinį tinklą rečiau, "The New York Times"pranešė sekmadienis. Rezultatas ... nustebino tiek mokslininkus irrėmėjai, tarp kurių buvo "Intel Corp.," Hewlett Packard "," AT & T tyrimų ir"Apple Computer".
+		-- seen on the Linux security-audit mailing list
+
+%
+"Stebina, tačiau yra bendras išdėstymas ir integracijossistema. Debian tai tikrai elegantiškas Linux distribucija; labai atsargiai turibuvo imtasi pakuočių paruošimo ir jų rodymuisistema. Gausos paketai taip pat įspūdingas .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Debian Linux yra kietas, išsamus produktų ir tikras malonumasnaudoti. Taip pat puikus įsitraukti su Debian kolektyvo,kurių patogumas ir dvasia primena pirmųjų dienų internete irjo jausmas atvirumo ir pasauliniam bendradarbiavimui.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Potvynių> galiu parašyti Unix branduolio Perl?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Potvynių> netgod: Aš taip pat turiu "blogis viduje" marškinėlius (W / Intel "logotipas) .. ant        atgal ji teigia: "Kai Rapture ateina, Jūs turėsite šaknis?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Jarkiv> "NT 5.0. Visos klaidas ir dešimt kartų kodas dydis!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Prieveiksmiai> yra 150 Meg į / tmp rež! GERBIAMI Viešpats
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: ką turite savo branduolio ??? Parengtas šaltinis       vairavimo erdvėlaivis ???<Spoo> laikas padaryti zip vairuoti savo diskelių tada. jei branduolio       doesn Fit, kad branduolys yra PG
+		-- seen on the Linux security-audit mailing list
+
+%
+Dabar galiu pagaliau paaiškinti visiems, kodėl aš tai padaryti. Aš ką tik gavo $ 7 vertanemokamus Daiktai dirba Debian!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: Mano skaičiuoklė yra daugiau registrų, nei x86, ir
+		-- thats- sad
+
+%
+* Bored meta MATLAB visoje patalpoje ir tikisi, kad jis įsilaužia į numerį  aproaching begalinis peices
+		-- thats- sad
+
+%
+"... Tai buvo daug greičiau, nei aš maniau jis buvo bus, daug greičiaunei NT. Jei dar greičio padidėjimas padaryta serveryje galutinisIšleidimo, "Oracle" bus suteikta galimybė sunaikinti savo osła su SQL Server irperduoti jį atgal į M $, o Oracle adminai ... perkelti savo duomenų bazesper Linux! "
+		-- thats- sad
+
+%
+Pasaulio Dominavimas, žinoma. Ir skurdžiai plakiruoti moterų. Who cares, jeijos dvidešimt toliau? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Laimėk 98 psichikos leidimas: Mes jums pasakys rytoj, kur jūs ketinate
+		-- thats- sad
+
+%
+<Zpx> tai nuostabi, kaip "ne-neveikia" Debian, palyginti su atsileisti ir RH
+		-- thats- sad
+
+%
+<Tamsiai> "Ei, aš iš šio projekto, vadinamą" Debian ... Ar esate girdėję apie tai?       Jūsų vardas atrodo ant mūsų daiktų krūva. "
+		-- thats- sad
+
+%
+"Jei percieved nepadarius iš projekto lyderių pokalbių kambario # debian renginioįgaliota imtis drastiškų ir descisive veiksmų ištaisyti nepadarius,įskaitant ne tik išsiųsti pareigūnai, apointing naujus pareigūnusir apskritai piktnaudžiauja galia "
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> mes skambina 2.2 _POTATO_ ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> Ar Johnie Ingram hang out čia IRC?
+		-- proposed amendment to Debian Constitution
+
+%
+* Twilight1 turės pakabinti savo Mozilla Beanie dinozauro atvaizdas, jei  "Netscape" parduoda-out, kad daug Nevykėlių ..
+		-- proposed amendment to Debian Constitution
+
+%
+<Lux> jei macos yra kompiuterio neraštingų, tada Windoze yra už      kompiuterių mazochistai
+		-- proposed amendment to Debian Constitution
+
+%
+<Tamsiai> prieveiksmiai: Statyba penkių metrų aukščio replika Empire State       Pastatas su sąvaržėlės yra įspūdingas. Daro tai užrištomis akimis yra       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Galiu tik pamatyti jį dabar: nominavimo su terorizmu ;-)        - Manojcha cha! Aš pasiūlyti manoj.
+		-- seeS
+
+%
+<JHM> Kažkaip turiu daugiau pagarbos 14 metų amžiaus Debian'o kūrėjų negu     14 metų amžiaus Sertifikuoti Microsoft baudžiauninkų.
+		-- seeS
+
+%
+<Prieveiksmiai> Benas: Ar jums solumly prisiekiu skaityti jums debian laišką kartą per dieną ir        neleidžia žmonėms manote, kad esate VRM?<Benas> prieveiksmiai: aš padaryti prisiekiu
+		-- seeS
+
+%
+"Įdomu, jei tai yra pirmasis konstitucija žmonijos istorijojekur jūs turite apskaičiuoti kvadratinę šaknį siekiant nustatyti, ar judesioLeidimai. :-) "
+		-- Seen on Slashdot
+
+%
+Tai sprendimas, Debian'o problema .. ir nuo vienintelis realus būdassukurti daugiau giminaičių kūrėjai yra turėti vaikų, mes turime daugiauseksas! Tai ilgalaikė investicija ... tai pats darbas, kuris yrapatenkinti!
+		-- Craig Brozefsky
+
+%
+<Marcus> Dunham: Jūs žinote, kaip realieji skaičiai yra pagaminti iš racionalus         numeriai pagal ekvivalentiškumo klasių linkmės sekas?<Dunham> Marcus: Taip.
+		-- Craig Brozefsky
+
+%
+<Prieveiksmiai> "Labas?" "Labas baybee" Ar Johnie Ingram? " "Už jūsų aš būsiu        kas "Ermm .. Ar jūs parduodate Slink kompaktinių plokštelių?" "Aš myliu slinkies"
+		-- Craig Brozefsky
+
+%
+<Overfiend> xhost + localhost turėtų būti daroma tik žmonės, kurie būtų            tapyti savo hostname ir root slaptažodį ant Interstate            viadukas.
+		-- Craig Brozefsky
+
+%
+<JHM> Aix - Unix iš visatos, kurioje Spock turi barzda.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> Tyrimai įrodo, kad moksliniai tyrimai sukelia vėžį 43% laboratorijos           žiurkės<CQ> knghtbrd- Taip, bet 78% iš tų statistinių duomenų yra išjungti 52% ...
+		-- Craig Brozefsky
+
+%
+<stu> Apartamentai:! klaidas<Apt>! Klaidų yra kvaila<Dpkg> Apartamentai: yra kvaila? kas tai?<Apt> dpkg: aš nežinau,<Dpkg> Apartamentai: Grožis yra į alaus turėtojo akies ...<Apt> Aš jau, kad taip, dpkg.
+		-- Craig Brozefsky
+
+%
+<Muggles> Bandau įtikinti kai NetCom administratoriai Žinau konvertuoti          į Debian nuo RH, netgod, bet jie DAMN užsispyręs<Muggles> kodėl RH vartotojai taip Damned sunku vadovauja?<Espy> tai skrybėlę
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Visa jėga, be kvailas skrybėlę.
+		-- Craig Brozefsky
+
+%
+Kiek mėnesių mes ketiname būti už juos [RedHat] su glibcišleisti? "
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+Turėti sąrašus, o ne naujienų grupės tikslasįdėti kliūtis patekti į rinką, kuris apsaugo sąrašus ir jų vartotojamsinvazija bendraisiais neišsilavinusios minios.
+		-- Ian Jackson
+
+%
+Daugelis iš mūsų jaučiasi, kad rinkodaros tipai kaip pavojingos ginklas - nuolat'Em iškrauti ir užrakintą spintoje ir tik juos, kaijums reikia juos daryti darbą.
+		-- Craig Sanders
+
+%
+<BENC> Cerb: mes užsiregistravote jus debian-kovą kaip moderatorius<BENC> cerb: Sąrašas taisyklės, 1) Ne gražius laiškus, 2) neatsiprašome
+		-- Craig Sanders
+
+%
+<Teknix> Mūsų vietos Telco pripažino, kad kažkas "remia į         mygtuką ant jungiklio "ir paėmė visą bankomatų tinklą žemyn<Netgod> tikiuosi dabar maršrutizatoriai yra skirti geriau, tad "tinklo         Off "swtich yra ant nugaros
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: kai jūs gaunate {MessagesLikeThisFromYourHardDrive}<Overfiend> Thunder-: IT arba priemonė {TheDriverIsScrewy}<Overfiend> arba<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Apt> tai buvo pasakyta, kad RedHat yra dalykas Marc Ewing vilki      jo galva.
+		-- Craig Sanders
+
+%
+<MrCurious> iki greyskull galios<MrCurious> kas nors pasakys man draudimą vieta<Sopwith> mrcurious: * .debian.org * .novare.net<PhilX> * .debian.org. tai nuostabu.
+		-- Seen on LinuxNet #linux
+
+%
+"Ką tai pasakykite man? Kad jei" Microsoft "buvo paskutinis programinė įrangakompanija į kairę pasaulyje, 13% JAV gyventojų būtų šveitimogaražo pardavimo ir Prestižas senų TRS-80s, CPM mašinų "ir" Apple] [ "s priešjie pirktų "Microsoft". Tai ne visai skamba įrašas. "
+		-- Seen on Slashdot
+
+%
+"Bruce'as McKinney, autorius hardcore Visual Basic, paskelbė, kadjis atsibodo su VB ir nebus raštu 3rd Edition jo knygą.geriausia citata yra pabaigoje: "Man nereikia kalbą sukurtą daugiausia dėmesiogrupė "."
+		-- Seen on Slashdot
+
+%
+<Cylord> Ar tai būtų priimtina debian politikos, jei mes įterpė crontab         pagal nutylėjimą į bulvių, kad siųsta elektroniniu paštu bill.gates@microsoft.com         Kiekvieną rytą su elektroniniu paštu, kad skaityti "Nesijaudinkite, Linux yra         kaprizas ... "
+		-- Seen on Slashdot
+
+%
+* Overfiend apmąsto darai iš asclock NMU, kurioje jis tiesiog keičia  išplėstas aprašymas "Jei pasilenkti ir įdėti savo galvą tarp  jūsų kojos, galite perskaityti laiką off your assclock ".<Doogie> Overfiend: eiti miegoti.
+		-- Seen on Slashdot
+
+%
+<Reed> Svarbu pažymėti, kad pagrindinė priežastis, Romos imperija       Fail, kad jie neturėjo nulio sąvoką ... Taigi jie negalėjo       išbandyti sėkmę ar nesėkmę savo C programomis.
+		-- Seen on Slashdot
+
+%
+Nuo kada yra Debian'o tikslas buvo nuraminti iš interesusmasė nekvalifikuotų vartotojų? - Steve'as Trumpesnis
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: ER, šie 2.2.0 paketai 2.0.0pre9 ar jūs turite        tiesioginė linija su dievais?<Netgod> joeyh: aš turiu tiesioginę liniją
+		-- Seen on Slashdot
+
+%
+<_Anarchy_> Oi .. kas manimi dalijamos į popierinius maišus 8)
+		-- Seen on Slashdot
+
+%
+<Nepatogu> kas aplink?<Flav> ne, mes visi neteisėti poligonus
+		-- Seen on Slashdot
+
+%
+<Prieveiksmiai> Oh my God ne atsitiktinė CITATA GENERATORIUS<Netgod> Žinoma, jūs ne manau, kad buvo statinis? kaip nevykęs būtų? :-)
+		-- Seen on Slashdot
+
+%
+Vien tik nebūtis yra silpnas pasiteisinimas, skelbiantis dalykas unseeable. Tu* Gali * Žr drakonas. Jūs tiesiog turi atrodyti teisinga kryptimi.
+		-- John Hasler
+
+%
+<Kreidos> gcc yra geriausias kompresorius kada perkeltas į Linux. jis gali kreiptis         12MB branduolio šaltinio (ir tai .debbed) į 500k branduolio
+		-- John Hasler
+
+%
+<Manoj> I * kaip * vištienos
+		-- John Hasler
+
+%
+ [] DOGBERT [2] Richard Stallman [3] BUFFY SUMMERS [1] MANOJ Srivastava [4] Nė vienas iš aukščiau
+		-- Debian Project Leader 1999 ballot
+
+%
+<Oryn> kas nors žino, jei yra dpkg už RedHat versija?
+		-- Debian Project Leader 1999 ballot
+
+%
+Acme-patranka (3,1415) nestabili; skuba = žemas  * Pridėta saugumą, kad būtų išvengta operatoriaus suskaldyti, užsidaro: Re # 98.765,    Re # 98713, # 98.714.  * Pridėta manpage. užsidaro: # 98.725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! laikas skrenda, kai esate naudojant linux! Doogie: *! Taip, begalinis kilpos 5 sekundes.! Teknix: *! Ar kas nors naujo išbandyti, kad su 2.2.x?! Netgod: *! Taip, 4 sekundes dabar
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Tamsiai sveikina Liw su mažu geltonu varlė.* Liw bučiuoja varlė ir laikrodžiai tai transformuoti gražus vėpla  mergina, laikosi savo dėmesį į ledų, ir gyvena laimingai amžinai po  su ja<Tamsiai> Liw: Umm nevėlu turėti varlė atgal?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Prieveiksmiai mano turėtume eiti į parodose ir pamatyti, kiek žmonių mes  gali nužudyti mesti debian CD į juos
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Tamsiai> "Taip, savo garbę, aš turiu RSA šifravimo kodas tattood ant mano        varpos. Argi aš parodyti žiuri? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+visi <Knghtbrd> Jūs žmonės yra psichiškai nesveikas.<Joey> riteris: Žinoma, kad yra, kodėl mes dirbame Debian.<JHM> Knghtbrd: gauti ryšį su savo vidiniu kvanktelėjusia.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Prieveiksmiai> Saenso demonstruoja ne mažiau kaip 3 TCP / IP klaidas 2.2.3
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Gyvsidabris> alexsh: BE / LABAI / cairful, galite, jei jūsų nelaimingas, mailius jūsų          Pagrindinės plokštės ..<Knghtbrd> Gyvsidabris - skamba kaip smagu
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<RCW> tamsus: Caldera?<Knghtbrd> RCW - tai ne platinimas, tai prakeikimas<RCW> Knghtbrd: tai prakeiktas platinimas
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Programinė įranga yra kaip seksas, tai geriau, kai ji nemokama. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Tamsiai> Knghtbrd: Turime daug whatevers.<Knghtbrd> tamsiai - Debian? Hell yeah mes darome!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Aš tai tik myžti jums išjungti. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+Programinė įranga privalo Win95 ar geriau, kad aš įdiegta "Linux".
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) nėra 10, bet jis skambėjo kaip gražus skaičius :)
+		-- Wichert Akkerman
+
+%
+Ericas Raymondas: Aš noriu gyventi pasaulyje, kuriame programinė įranga nėra čiulpia.Ričardas Stalmanas: Bet programinė įranga, kuri nėra nemokama sucks.Linus Torvalds: Domiuosi nemokamas alus.Ričardas Stalmanas: Tai gerai, kol aš neturiu jį gerti. aš                   nepatinka alaus.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Nesu šaltakraujiškas žmogus ... - Bruce Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Asmeniškai aš nemanau, dažnai kalbame apie socialinę gerai, nes kai girdžiu kitažmonės kalba apie socialinės gerovės, tai, kai mano ranka revolverį.
+		-- Eric Raymond
+
+%
+Jei norime kažką malonu gauti gimė devynis mėnesius, tada seksas turiatsitikti. Mes norime turėti seksu, kuris būtų priimtinas ir įdomus tiekžmonių, o ne natūra, kai kas nors vis prisukamas. Leiskite kažkiek kryžiųtręšimas, bet ne kažkas vis prisukamas.
+		-- Larry Wall
+
+%
+Mes visi žinome, Linux yra puiki ... ji begalinis kilpos per 5 sekundes.
+		-- Linus Torvalds
+
+%
+TAIP! TAIP! TAIP! O taip! (Oi, aš atrodyti Meg Ryan ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> Jei aš pradėti rašyti esė apie nemokama programinė įranga slashdot,           Prašome nušauti mane.
+		-- Ian Nandhra
+
+%
+<RoboHak> Hmm, pietūs skamba kaip gera idėja<Knghtbrd> būtų skonis kaip gera idėja per
+		-- Ian Nandhra
+
+%
+P. S. - Aš apie * tai * arti veikia aplink serverio kambarys supora varžtų karpymo, ir didelis medinis plaktukas, juokiasi kaip maniakas irpjovimo viską, ką gali tilpti Bolt Cutters aplink. ir Dams kadkurios aš negaliu. Taigi, jei aš, atrodo, pusiau nenuosekli, arba tiesiog tikrai * tikrai * bjauruskartais, prašome atleisk man. stresas yra ne gana dalykas. }; P
+		-- Phillip R. Jaenke
+
+%
+Kiekviena įmonė skundžiasi Microsoft verslo praktika yra tiesiogrožių krūmas. Jie atrodo miela ir kvapas malonus. Kai pasisekė įmonė dethrones"Microsoft jie barsto savo žiedlapius, kad matytųsi erškėčių apačioje.Thorn bet kokiu kitu pavadinimu pakenks kiek.
+		-- Phillip R. Jaenke
+
+%
+Kažkas turi būti daromaTai yra kažkas,Todėl tai turi būti daroma
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - saugokitės james kai jis prie jo vaistus =>
+		-- The Thatcherite Syllogism
+
+%
+Abejingumas tikrai bus žmonijos nuopuolis, bet who cares?
+		-- The Thatcherite Syllogism
+
+%
+Niekada nenuvertinkite žmogaus kvailumas galią.
+		-- Robert A. Heinlein
+
+%
+Auksinis n .:  Minkštas kaliojo metalo palyginti nedaug platinimo. Jis kasamas  giliai į prastos vyrų žemėje, kuris tada suteikti jai turtingiems vyrams, kurie iš karto  palaidoti jį atgal į Didžiojoje kalėjimuose žemėje, nors aukso nepadarė  nieko jiems.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* LILO pareiškia OPN virtualų skausmas Oslas :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"Jie abu verslai - jei jiems davė pakankamai pinigų, aškad jie bus padaryti viską, po velnių, jūs paprašykite: -> "
+		-- David Welton
+
+%
+"Jūs turite teisę negali būti asile. Jei jūs atsisakyti šią teisęviskas, ko jums pasakyti ir padaryti čia vyks prieš jus. Jei negalitesau nustoti būti asile tada kažkas bus paskirtas, kad ateityjetavo outta čia.
+		-- Your rights as an irc addict
+
+%
+* Simunye yra tokia laiminga, ji turi savo motinas geno<Dellaran> geriau duoti juos atgal, kol ji praleidžia juos!
+		-- Your rights as an irc addict
+
+%
+<Jambė> kalimas labiausiai Intellegent žmonių planetoje nėra lengva
+		-- Your rights as an irc addict
+
+%
+California, n .:    Iš lotyniško žodžio "CALOR", reiškiančio "šilumos" (kaip anglų "kalorijų" arbaIspanijos "Caliente"); ir "fornia" "už" lytinio akto "ar"Ištvirkavimas". Taigi: Tierra de Kalifornija, "karšto sekso žemė".
+		-- Ed Moran
+
+%
+* Caytln Plaskanie Liza<Caytln> Catfight: P<LisaHere> žiūrėti mergina, man tai patinka.<LisaHere> :)<Caytln> skaičiai: D
+		-- Ed Moran
+
+%
+<MFGolfBal> RIT / Ara: Yra kažkas tikrai išprotėjęs apie UNIX            apatiniai ...
+		-- Ed Moran
+
+%
+X Window System:  Standartinė UNIX grafinę aplinką. Su Linux, tai paprastai  XFree86 (http://www.xfree86.org). Galite jį vadinti X, XFree, X  Langų sistema, XF86, ar kitų dalykų kompiuterio. Vadina jį "XWindows" ir  kažkas bus pliaukštelėti ir jūs turės nusipelnė.
+		-- Ed Moran
+
+%
+<Knghtbrd> "Valiutų kolektoriai yra neprisijungę." "Aš nukreipimas nors           antriniai movos. Jei mes iš naujo suderinti etapas kolektoriaus mes           turėtų būti suteikta galimybė naudotis plazmos induktoriaus matrica rankiniu būdu           pradėti naują sūrio Spinoff serija. "* ShadwDrgn atsidūsta<Fazės> paliksite savo kolektoriai vien<Fazės>!
+		-- Ed Moran
+
+%
+* Turken mano mažai vaikai yra absoliučiai žavinga ... especialyy kai  jie Kito žmogaus.
+		-- Ed Moran
+
+%
+* Overfiend atsidūsta<Overfiend> "Netscape sucks.<Overfiend> Tai kortų poilsio nuo liūnas lova namas.<Espy> per žemės drebėjimą<Overfiend> į tornado
+		-- Ed Moran
+
+%
+<SilverStr> Žiniasklaida etika yra oksimoronas, panašiai kaip Jumbo krevečių ir            Microsoft Works.<MonkAway> nekalbant NT Saugumas
+		-- Ed Moran
+
+%
+<Silvrbear> oksimoronus? Mačiau viena vakar - atsišaukimo apie "Taco Bell            Mitybos informacija "
+		-- Ed Moran
+
+%
+* Knghtbrd išlaisvina dvigubų vamzdinis snurf šautuvus ir dangteliai pora  Jėzus su snurf smiginis<Jėzus> Meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> doogie: skamba labai nestabilus :-)<Knghtbrd> jgoerzen - jis yra.* Doogie BOPS Knghtbrd<Knghtbrd> pamatyti? Smurto = D
+		-- Ed Moran
+
+%
+Aš taip pat buvo didžiulis "Unix" gerbėjas bet kada, nes supratau, kad ŠBO nebuvo"Unix". - Dennis Bakeris
+		-- Ed Moran
+
+%
+<Dracus> Ctrl + Parinktis + Command + P + R<Knghtbrd> Dracus - dievai! Tai blogiau nei Emacs!<LauraDax> hehehehe<Dracus> neklausk, kas tai daro: P
+		-- Ed Moran
+
+%
+<Jambė> nesate kvanktelėjusia<Knghtbrd> Jūs akivaizdžiai nežinau man pakankamai gerai dar. =>
+		-- Ed Moran
+
+%
+* Aj mano KB ^ Zzz privalėjo pasiimti skirtingus dalykus svajoti apie nei   Apskritai nutarimai ir politikos pokyčiai.<KB ^ Zzz> AJ - papasakok man apie jį, tai yra blogas ženklas
+		-- Ed Moran
+
+%
+<Crow_> Hmm, ar yra --now-Dammit variantas EXIM?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: JOIN tamsiąją pusę "," Jaunųjų vieną.<Kira> Darth, I * esu * į tamsiąją pusę.
+		-- Ed Moran
+
+%
+<Netgod> Feanor: U neturi iš Amerikos teisės stupidty gylio idėją
+		-- Ed Moran
+
+%
+Kiekvienas, kuris išsiskiria į kelio vidurį atrodo Roadkill man.
+		-- Linus Torvalds
+
+%
+<LILO> "Prašome gerbti intelektinės nuosavybės teises!"<LILO> "Įrodykite, intelektą." ;)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Feanor - licencijos klausimai yra svarbūs. Jei mes neturime žiūrėti mūsų           asilai dabar kažkieno viskas sugalvoti ir įkąsti mus vėliau ...
+		-- Linus Torvalds
+
+%
+"Dabar mes turime tave užmušti."
+		-- Linus Torvalds
+
+%
+* Knghtbrd jau galite įsivaizduoti: "Dalykas: [ketinimų parengti SIŪLYTI   Padavimo pranešimą apie ydą] rašybos politikos dokumente "
+		-- Linus Torvalds
+
+%
+<Netgod> Heh thats beviltiškas, kaip teisingai tarimas         "Papuošalai"<Netgod> give it up :-)<Šalavijas> ir teisinga rašyba "spalvos" :)<BENC> heh<Šalavijas> ir aliuminio<BENC> ar branduolinių ginklų<Šalavijas> tu threating man Yankee?<Šalavijas> tiesiog nes mes neturime bombą ...<BENC> Atgal išjungti ya geltonu pilvu
+		-- Linus Torvalds
+
+%
+<LauraDax>! Matęs Dievo<Tabi-> LauraDax, nepamenu matyti "Dievas"
+		-- Linus Torvalds
+
+%
+<Kira> yra chirurginė karas, kur jūs einate suteikti užsienio karių nosies darbo?
+		-- Linus Torvalds
+
+%
+<Xtifr> Atėnė darbastalio aplinka! Jūsų širdyse, jums * žinoti, * tai tas        teisingas pasirinkimas! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+<Knghtbrd> shaleh - nešvarus yra tik keistai.<Espy> Heh, nešvarus yra kietas<Knghtbrd> Espy - ir keista.<Espy> taip, keistai per
+		-- Linus Torvalds
+
+%
+<Xtifr> tiesioginių smegenų implantus :)<Knghtbrd> xtifr - yah, tada naudojant kompiuteriai iš tikrųjų reikalauja kai           Šių idiotai galvoti!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - Beje, kai mes atrado X imasi visų 1,4 koncertai           statyti, ar esate pasirengę pripažinti, kad X yra bloatware? =><Overfiend> KiB: yra 16 1/2 minučių atotrūkis mano atsakymas<ACF> knghtbrd: yra įrodymų, kad X yra tik * 2. * Blogiausia okienkowe      sistema;)
+		-- Linus Torvalds
+
+%
+<Liw> nusispjauti, autonominis pelės judėjimas pradeda paprastai, kai aš naudoti      pelės mygtuką<Wichert> nenaudokite pelės mygtuką tada :)<Liw> Taip, tiesa :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> žinote, "Linux" reikia platformos žaidimas, kuriame vaidina Tux<Knghtbrd> kažkas super Marioish, bet su Tux ir dalykų, pavyzdžiui, mažai cyber           klaidų ir Borgs ir kad dalykas rūšiuoti ...<Knghtbrd> Ir jūs turite šokinėti per pastaruosius billgatus ir paspauskite klavišą jam nukristi           į lavos ir tada pamatysite kai vaikinas, kuris atrodo kaip RMS           ar kas nors sako: "Ačiū, kad gelbėti man Tux, bet Linus           Torvalds yra kitoje pilyje! "
+		-- Linus Torvalds
+
+%
+<Thoth_> Aha, gerai, kad yra, kodėl ji sunumeruoti 2.3.1 ... tai tiems iš mūsų,         kas praleisti NT kaip uptimes
+		-- Linus Torvalds
+
+%
+<Shinobi> Yra blogesnių dalykų nei Perl .... ASP ateina į galvą
+		-- Linus Torvalds
+
+%
+* M2, žiūri į monitorių ... atrodo, kad mėsainis ...<Knghtbrd> m2 - tai blogas ženklas
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Palikite jį Manoj skambinti procmail "Šiaip sau"
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: gerai, i cant suprasti stuff like "S / 3 # $% ^% {]] [@ F245}"<Manoj> Varnų: Tai yra ne visai teisinė ;-)<Knghtbrd> Manoj - kaip būtų viena, kad "S / 3 # $% ^% {]] [@ F245}" juridinis           bet kokiu atveju? (Ir ką jis daro? Hehe)<Manoj> Knghtbrd: Jums reikia užbaigti S /// išraiška.<Knghtbrd> O tai, kad visi?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, vienintelė kalba parašyta, kad milspec.<Mikster> <šiurpinti>
+		-- Linus Torvalds
+
+%
+<BENC> -include ../../debian/el33t.h<BENC> Sendmail statyti ... keista antraštė vardas :)<Isildur> Hahaha* netgod laffs<Netgod> BENC: gali ir pasakyti aš naudojamas siekiant išlaikyti Sendmail? : P<BENC> Heh :)
+		-- Linus Torvalds
+
+%
+<Fazės> Ne ... Aš musn't turite daugiau kavos !!! ;)<Simunye> tikrai J. daryti etapas :)<Fazės> tikrai norite mane šoktelėti nuo lubų?<Simunye> yesh :)<Kira_> šoktelėti nuo lubų yra gewd<Fazės> Gerai, kad buvo kvailas klausimas<Kira_> tai splatting ant grindų, kad yra problema.
+		-- Linus Torvalds
+
+%
+<Kensey> RMS pirmininko ???<RelDrgn> ... arba ESR, jis nori naują darbą;)
+		-- Linus Torvalds
+
+%
+O ne, ne dar kartą.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> Natūralu, RMS yra fanatikas, aš neneigiu tai. Aš net pasakyti           jis karališkoji skausmas Oslas didžiąją laiko dalį. Bet jis           dar dažniau dešinę, nei ne, ir jis nusipelno šiek tiek lygis           kredito ir pagarba savo darbą. Mes nebūtų čia šiandien           be jo.
+		-- Manoj Srivastava
+
+%
+<Espy> rytoj bus puiki sutrikimas darbuotojų
+		-- May 18, 1999
+
+%
+Esu disleksija iš Borg. Pasiruoškite, kad jūsų asilas laminuotos.
+		-- May 18, 1999
+
+%
+<NeonKttn> Turėjau draugui klijuoti man savo spinta HighSchool beacuse I metu           nepatikėsite, kad jos vaikinas žinojo apie glamonių ...<NeonKttn> Aš Shoulda atnešė pūsti. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> popieriniame yra wussies<Topher> kompiuterinių programų spaudiniams .... Vėliau, popieriniame
+		-- May 18, 1999
+
+%
+<Kceee ^> Aš nekenčiu vartotojams<Knghtbrd> jums skamba jau sysadmin!
+		-- May 18, 1999
+
+%
+<Change_m2> Ar LINUX nors aplenkti pjaustytų duona kaip # 1 pasiekimo            žmonijos?
+		-- May 18, 1999
+
+%
+<APH> Manoj vyksta riešutai dėl klaidų taisymas kryžiaus žygį! Woo Woo!<Knghtbrd> Manoj išvyko riešutai seniai. bet klaidą nustatymas yra kietas =>
+		-- May 18, 1999
+
+%
+<RCW> tie matyt-bakterijų, pavyzdžiui, spalvotų kirminų išeina      Microsoft backorifice<RCW> tai toks BackOffice logotipas
+		-- May 18, 1999
+
+%
+* Simunye yra ant oc3-> OC12<Daem0n> Simmy: bite mane. :)<Simunye> demonas: gerai :)
+		-- May 18, 1999
+
+%
+<Overfiend> LILO: gerai tada, tikriausiai yra atsakingas mąstytojas.            Sveiki atvykę į labai mažą klube.<LILO> Overfiend: sveikiname mane kai jums prisijungti :)
+		-- May 18, 1999
+
+%
+Iš esmės, aš noriu, kad žmonės žinotų, kad, kai jie naudoja dvejetainė-tik modulius,tai jų problema. Noriu, kad žmonės žino, kad jų kaulai, ir ašnoriu, kad ji šaukti nuo stogų. Noriu, kad žmonės pabustišaltas prakaitas kiekvieną kartą, o jei jie naudoja dvejetainė-tik modulius.
+		-- Linus Torvalds
+
+%
+* Wichert_ įsivaizduoja meistras be MTA<James> Wichert: EHM? kad gali trukdyti peformance iš BTS: P
+		-- Linus Torvalds
+
+%
+<Gecko> Hmm ... Įdomu, ką dar seperates Debian nuo likusieji        Linux distribucijų.<Knghtbrd> Gecko - Mes neturime Suck<Gecko> Knghtbrd: jūs neturite pasakyti, kad sprendžiant žmonių krūva        Iš tų distribucijų<Knghtbrd> Gecko - taškas.
+		-- Linus Torvalds
+
+%
+Dėl to, kad uždaro kodo vystymosi modelio XFree neįmanomaremti ar net spėlioti apie, funkcijų anksto arba beta spaudaiiš xorg.
+		-- Marcus Sundberg
+
+%
+>> Aš nelabai laiko Biblija KJV-tekstą, kaip techninio dokumento,>> Bet ... :)> Tai vadovas - gyventi.Bet tai nebuvo atnaujintas per ilgą laiką, daugelis pasakytų, kad taideja paseno ir tiekėjų prižiūrėtojui nereaguoja į jopaštu. :-)        - Branden Robinson Oliveris Elphick ir Chrisas Vandenys A           žinutę debian politikos
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> aš galiu galvoti apie daug žmonių, kuriems reikia user = ID10T Kažkur!
+		-- Marcus Sundberg
+
+%
+<Slashdot> mano JAV geograpy yra Skurde ... Lol<Knghtbrd> taip yra mano, ir aš gyvenu čia
+		-- Marcus Sundberg
+
+%
+Mėnulio vaiką be nuomonės? Šėtonas čiuožimo dirbti rytoj!
+		-- Brett Manz
+
+%
+<Knghtbrd> Aš tikrai nenoriu daug ne visi ... Tiesiog malonų žodį,           patraukli moteris ir neribotą srautą !!
+		-- Brett Manz
+
+%
+<Knghtbrd> Jei mes tiek teisę (spėju mes) Nesu labai laimingas.* Minupla rankas jums metų sudarymo švelniai.
+		-- Brett Manz
+
+%
+Paskutinį kartą turėjau artimą ryšį su kitu žmogumi, buvo ganaskausminga patirtis ... aš, o jis labai patiko ...;)
+		-- Brett Manz
+
+%
+<Apple_IIe> kas nors matė mano 80 stulpelio kortelę?
+		-- Brett Manz
+
+%
+<Slackware> Uh Oh, koks aš pradėjau :)<Debian'o> ROFL ... Distro nick karų.* Slackware tiesiog laukia / slapyvardį Gnome / nick KDE, tada pasaulinio karo 4   išeiti<WinNT> oP<OpenBSD> <antis><PalmOS> :)<Slackware> no'one nedrįstų / nick RedHat<Tru64> mew.
+		-- Brett Manz
+
+%
+<Crow-> MP fcucking spausdinimą* Knghtbrd užtikrina prisijungti viskas Crow- sako vakarą ...<MrBump> heheh<MrBump> Jis sakė, kad nori mane vesti! velnias!!<Crow-> Dude jokiu būdu<Knghtbrd> MrBump - jis ne tai, kad girtas<MrBump> Knghtbrd: Aš grūsti: O)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> PADARYTI jį sustabdyti!<Knghtbrd> PADARYTI jį sustabdyti !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - gerai, pleistras yra neskaldyti, bet mano smegenys           matyt yra<WC> kad nieko naujo (;<Knghtbrd> WC - Hush.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+<DPG> amerikiečiai keista ....<Xtifr> Californians net weirder<Knghtbrd> xtifr turi tašką ...
+		-- Brett Manz
+
+%
+* Running šypsosi ramiai.<Running> Aš nenoriu atrodyti per trokšta apie tai, kaip į knghtbrd aisiais       siglist.
+		-- Brett Manz
+
+%
+<Prieveiksmiai> DHD: A tu dalis slaptą debian overstructure?<DHD> Nr. nėra paslaptis Debian overstructure.<Kosminiai spinduliai> nors, dabar, kad kažkas atnešė jį, pradėkime vieną            :-)<Knghtbrd> kosminiai spinduliai - kodėl gi ne, skamba kaip smagus būdas praleisti           popietę = D
+		-- Brett Manz
+
+%
+<Xtifr> jūs neturite būti nenormalu čia dirbti .... Oh wait, taip jūs darote!        :)
+		-- Brett Manz
+
+%
+* O-O visada patinka debmake nes jis žinojo, ką tai daryti ...<Ten> O-O: jums būtų ;-)
+		-- Brett Manz
+
+%
+2.3.1 buvo išleistas. Žmonės naujas šio žaidimo turėtų prisiminti, kad2.3. * Leidiniai yra plėtros branduoliai, be garantijos, kad jienesukels jūsų sistemą daryti siaubingus dalykus kaip sugadintas josdiskai, užsidegti arba pradėti rodyti Mindcraft gaires.
+		-- Slashdot
+
+%
+padaryti {    :} While (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * aido "... Linux yra tik kaprizas" | paštas billg@microsoft.com -S = "Ir atminkite ..."
+		-- Slashdot
+
+%
+<Hop'as> KB: Reikalauju vientisumą ir sąžiningumas tiems, kurie man daryti verslą su<Hop'as> Aš žinau, kad mano reikalavimai yra nepagrįsti, tačiau vaikinas gali svajoti, jis negali?
+		-- Slashdot
+
+%
+<Jgoerzen> STU: Ahh ta mašina. Ar ne manote, kad kažkas pavadino           Stalmanas nusipelno būti alfa? :-)<STU> jgoerzen: ne, iš tikrųjų, aš prolly būti labiau linkę pavadinti 386      4 megs RAM ir 40 meg kietojo disko Stalmanas.<STU> su dideliu riebalų atveju, kad daro tonų triukšmo ir barškučiai grindis* Knghtbrd patenka į grindis sulaikęs puses juoko<STU> ir ..<STU> dukart aukštis kietąjį diską
+		-- Slashdot
+
+%
+Klingonas funkcija skambučiai neturite "parametrus" - jie turi "argumentus"
+		-- and they ALWAYS WIN THEM.
+
+%
+* Knghtktty nesiruošia paklausti, kaip cukinijos pateko į diskusiją ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Tema: [GR PASIŪLYMAS] Jei mes balsuoti dėl menkų dalykų?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Running> Įdėkite * kad * jumyse .sig ir dūmų ją, Knghtbrd.<Prieveiksmiai> Žinai, jis bus skaityti tai:><Running> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Kaip jums kelionė per gyvenimą užtrukti keletą minučių, kas dabar ir tada duotimaniau, kad kitų kolegų. Jis gali būti braižymo kažką. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Gerai, jūs, žmonės pradėjo kalbėti apie BSDM prašymų           tinklo įranga ... Aš manau, kad aš nubėgti ir padaryti ką nors naudingo           ir Debianish ir likti iš šio vieno ...<Knghtbrd> (for a change)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - nemanau, kad Debian'o neturėjo keletas labai kvailas ir           akivaizdžių klaidų iki<Knghtbrd> žinoma, mes paprastai ištaisyti mūsų, kol mes išleisti = D
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - Esu Debian'o kūrėjas. "Red Hat" yra "priešas", arba           Kažkas panašaus, kad spėju .. Dar, Typecasting RH vartotojai kaip           idiotai ar jų paskirstymo, visiškai suskaidytas pagal nutylėjimą           yra išsami ir viso fud.
+		-- Hagar the Horrible
+
+%
+>> Bet IANAL, žinoma.>> IANAL arba. Mano sūnus yra, bet jei aš paklausiau aš galėčiau gauti atsakymą I> Nenorėtų išgirsti."Štai mano sąskaita." ? = D
+		-- Hagar the Horrible
+
+%
+> Gerai, matau, jūs žinote, ką darote :-)Arba, kad arba aš Dotarłeś gana gerai ją padirbta.
+		-- Hagar the Horrible
+
+%
+<Wichert> 08:00 yra ungoldly valandą būti budrus :)* GORGO paprastai atsikelia 11 val
+		-- Hagar the Horrible
+
+%
+Nėra Intriga.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> ACF: gal 1 Kitų metų balandį Slashdot reikia paleisti "Rob Malda            priima naują darbą kaip vadovas Debian'o projekto "8)
+		-- Hagar the Horrible
+
+%
+* Netgod atidaro savo pašto dėžutę ir iškart norėtų hadnt
+		-- Hagar the Horrible
+
+%
+<Frogbert> jos sunku yra lesbietė withoutn krūtinę ... žmonės nereikės imtis           jūs rimtai
+		-- Hagar the Horrible
+
+%
+Galbūt Debian'o yra susirūpinęs daugiau apie techninės kompetencijos, o nenaudojimo paprastumas išmušant programinę įrangą. Pirmuoju galime tobulėti. VidujePastarasis turime pripažinti lauką "Microsoft". Žino, kur noriu eitišiandien?
+		-- Manoj Srivastava
+
+%
+* PerlGeek yra tikrai erdvėje užsienietis* Knghtktty mano PerlGeek
+		-- Manoj Srivastava
+
+%
+<Netgod> mano klientas buvo valdoma griežtai<Netgod> šis vaikinas gavo šaknį, bėgo paketinius įkvepiant, įrengti .rhosts irBackdoors, įdėti visiškai naują rež į vadinamas / lib / "", kuris turipilnas komplektas smurfing ir žudymo įrankiai<Netgod> tik klaida buvo ne išbraukiant Žurnalai<Netgod> klausimas, kaip buvo šaknis nulaužė, ir kad aš negalėjau pasakyti, u<Netgod> tai, žinoma, nėra Debian langas* Netgod pažymi debian dėžutė yra tik vienas liko nepaliesta hakeris
+		-- wonder why
+
+%
+* joeyh CVS įsipareigoja savo namų katalogą. aaaaaa<Drow> eeeeeeek<Drow> joeyh: Tai yra tiesiog blogis. Laikotarpis.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: UFies yra virš ir už žmogiškosios rasės :)
+		-- wonder why
+
+%
+Aš nustojau seniai bando rasti ką nors apie tai riktų sąrašą dpkg.Turėtume paleisti už į Gineso rekordų knygą įrašą.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> Aš raštuotas 17g oughta būti pakankamai.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> yra / usr / bin / Emacs buvo išleisti į / etc / kriauklių dar? : P
+		-- Stephane Bortzmeyer
+
+%
+* Joeyh pasinaudojo Netscape nuostabią galimybę avariją uždaryti        10 langai su vienu klavišo paspaudimu<Joeyh> dabar tai pažanga!<Knghtbrd> Autobusų klaida =>
+		-- Stephane Bortzmeyer
+
+%
+<Wordplay> Jūs išmatuoti savo vibratorius ir "simbolių per sekundę"? Aš turiuBloga naujiena jums, C90, jūs buvote masturbuojantis suAdatiniai spausdintuvas.
+		-- Stephane Bortzmeyer
+
+%
+Sveiki! Aš .signature virusas! Kopijuoti mane į savo ~ / .signature padėti man sprea =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty šnabžda saldus Nothings į Thyla (stuff apie sudarytojų ir            Grafika ir RAM atnaujinimai ir dideli kietieji diskai ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: tai teigiamai pornografinis ...* Thyla užgęsta į priepuoliai ekstazę ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> vaikinai visi serga! ligonis serga serga sakau ya;)
+		-- Stephane Bortzmeyer
+
+%
+* BMA yra truktelėti* Knghtbrd yra Knghtbrd* DHD taip pat yra truktelėti* Espy yra blogis* Knghtbrd mano Espy
+		-- Stephane Bortzmeyer
+
+%
+* BMA abejoja, ar tai leis Knghtbrd .sig
+		-- Stephane Bortzmeyer
+
+%
+TECHNINĖS sprendimai nėra balsavimo klausimas. Du įstatymai JAVnarės beveik nuspręsta, kad Pi vertė būtų 3,14, tiksliai. visuotiniu balsavimunereiškia, kad už teisingą sprendimą.
+		-- Manoj Srivastava
+
+%
+<AJ> <Knghtbrd> Apie įtampą visame pasaulyje (kaip rodo nusikalstamumo padidėjimas<AJ> ir Plauktiņš) per tą laiką atrodo kaip Linux daug<AJ> augimas nuo 1993<AJ> `` Linux "susijusi su pasauline nusikaltimų epidemijos !!"
+		-- Manoj Srivastava
+
+%
+<Bankomatai> kur aš ir ką aš darau šiame handbasket?
+		-- Manoj Srivastava
+
+%
+Kadangi ši bazė yra nenaudojamas pelno, o nuo ištisos darbai nėraskelbiama, jis patenka pagal sąžiningo naudojimo, nes mes suprantame ją. Tačiau, jei toks yrapusė ASSED idiotas nusprendžia pasipelnyti ne iš to, jie turėspatikrinkite visa tai ...
+		-- Notes included with the default fortunes database
+
+%
+Nėra snaudimo mygtuką kačių, kurie nori pusryčiai.
+		-- Notes included with the default fortunes database
+
+%
+Tema: Re # 42.432: debian-politika: Pasiūlymas dėl STV už projekto įrodymoKoncepcija projekte Pasiūlymo Pasiūlymo STV už STV nuspręsti dėlpasiūlymas dėl STV už STV nuo to, ar mes shoud turi STV apie/ usr / doc / usr / share / doc perėjimo dabar ar vėliau.
+		-- Ed Lang
+
+%
+<Knghtbrd> Tai ratuką vieną<Wichert> todėl nėra graužikas<Wichert> tai pyplys su kamuoliu išlindęs<Wichert> kurį glamonėti nuolat
+		-- Ed Lang
+
+%
+* HomeySan laukia Papa John pica parodyti iki<Ravenos> mm. Papa John-aisiais.<HomeySan> tikiuosi jie siunčia mielas pristatymo vairuotojui<Ravenos> jie dont turėti čia.<Dr_Stein> kodėl? ruošiesi valgyti vairuotojui vietoj?
+		-- Ed Lang
+
+%
+<Netgod> tai man, ar yra Knghtbrd knarkimas?<Joeyh> jie nužudė knghtbrd!<Netgod> Kysh: Wichert, Gecko, joeyh, ir aš į kambarį bando ignoruoti          Knghtbrd<Kysh> netgod: Knghtbrd yra sunku ignoruoti.
+		-- Ed Lang
+
+%
+<Running> Žmogus, linkiu knghtbrd buvo čia patraukti, kad už savo sig sąrašą.[... Po kelių valandų ...]<Knghtbrd> running nežinau man vewy gerai, tai jis?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd kailius Wichert su NERF smiginis* Wichert pažymi nėra ICBM nerfs dar ignoruoja kngtbrd<Knghtbrd> Wichert - tik laukti, pamačius NERF Gatling Ginklai, ICBMs           yra ne toli (tik siurblys pasmerktųjų dalykas valandą ar dvi           yra visi ...)
+		-- Ed Lang
+
+%
+Operacinės sistemos Įdiegta:  * Debian GNU / Linux 2.1 4 CD rinkinys ($ IŠ 20 www.chguy.net; kainą įskaičiuota    mokesčiai, laivyba, ir $ 3 Paremti FSF). 2 kompaktiniai diskai yra dvejetainės, 2 kompaktiniai diskai    pilnas kodo;  * Windows 98 Second Edition Atnaujinti versija ($ 136 per Megadepot.com,    kaina neįeina mokesčiai / krovinių gabenimas). Keista, nėra kodo    yra įtrauktas.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Pavogti šį frazę. Aš padariau.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> oi noooo, Knghtbrd atšoko ginklą :)<Doogie> ^^ įterpti muzikos ^^<Knghtbrd> bfextu - O / ~ visi yra paleisti O / ~<Bfextu> O / ~ bėgti, ruuuuun nuo darbo užmokesčio-AY-ain O / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Gyvsidabrio> Emacs sucks, pažodžiui, o ne įžeidimas, tiesiog komentaras, kad jos          pakankamai didelis, kad turėti pastebimą gravitacinę trauką ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Kaip kompiuteris, manau, savo tikėjimą technologijos juokingas.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Knghtbrd priskiria 3 Chris* kintamos stebuklai, kas dar yra pavadintas Chris be manęs<Knghtbrd> kintamasis - jums. =>* Knghtbrd laukia kintamasis dramatiškai pasakyti "Jaučiuosi taip naudojamas!"<Kintamasis> Knghtbrd: :)* Kintamasis ++<Kintamasis> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy apmąsto žinutę uplad eilę, pavadintą "velnių", kad aš galiu padaryti dupload --to pragarą
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> Java, Hon, kartais aš tikrai noriu pliaukštelėti jums.<Knghtbrd> Valkyrja - jam reikia džiaugtis juo per daug<Reteo> Valkyrja: yah, eiti į priekį ir daryti ... beat java į kapučino! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Tali> būti vewwy vewwy qwuiet .. Aš tikiu, Huntin wuntime ewwos
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+"Red Hat" neseniai išleido saugumo patariamoji (RHSA-1999: 030-01)apimantis buferio perpildymą į vixie cron paketą. debian turiatrado šią klaidą prieš dvejus metus ir sutaisė. Todėl versijostiek, stabili ir nestabili, distribucijos Debian nėrapažeidžiami šios problemos ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Pirmiausia - Quake yra tiesiog neįtikėtinas. Jis leidžia jums ne kartą nužudyti savobosas biure be suimtas. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Lucas 'Teisė: Geras visada laimės, nes blogis samdo į _stupid_             inžinierių.
+		-- Signal 11, in a slashdot comment
+
+%
+* TribFurry tik gauna spam laiškus iš UCSD ... Aš naudojamas norint gauti laišką iš            save, bet aš nusprendžiau nepatiko save ir sustojo kalbėtiman
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> dėmesį į bendrabučio šaldytuvas ... "asmeniui, kuris valgė turinį            konteinerio paženklintas "Jamesas" - įspėjimą, tai buvo mano biologijoseksperimentas "
+		-- Signal 11, in a slashdot comment
+
+%
+<KatanaJ> Pastaba dėl chem laboratorijoje fridge- "Tai šaldytuvas Netiksli proveržiui          įrodymas ".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DALneto yra tarsi Specialioji olimpiada IRC. Yra daug           seilėtekis goin 'ant ir visi yra "laimėtojas".
+		-- Signal 11, in a slashdot comment
+
+%
+Bet keičiant dpkg yra neįmanoma, ir mes sutikome, be kita ko,išlaikyti mūsų vartotojų poreikius mūsų protus priešakyje. Ir nuo Avartotojo požiūriu, o tai išlaiko sistemą tvarkingas ir normalusatveju, ir dirba * dabar *, yra daug geriau, nei idealistinis fantazijas kaipdarbo dpkg.
+		-- Manoj Srivastava
+
+%
+Už kiekvieną vizija yra lygūs ir priešais peržiūra.
+		-- Manoj Srivastava
+
+%
+<Epsilon3> Knghtbrd, jei mes norėjome lameass pastabą būtume pasakė:           Ei, neckro
+		-- Manoj Srivastava
+
+%
+<Tigah _-> turiu 4GB / tmp<Knghtbrd> Ką daryti su 4G / tmp? Užpildykite X?<Tigah _-> Taip
+		-- Manoj Srivastava
+
+%
+<KnaraKat> Bite me.* TheOne gauna šiek tiek druskos, tada pajamos rupšnoti KnaraKat šiek tiek         tiek ....
+		-- Manoj Srivastava
+
+%
+* Knghtbrd pažymi jis bulvių koše ir smegenys vakarą<Valkirija> Yum, galiu turėti tam?<Knghtbrd> um ...* Knghtbrd slepia nuo Valkyrie
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> joeyh dabar turi ne sofos terminalą?<Knghtbrd> Tas vaikinas yra laidinis, prisiekiu =><Doogie> Knghtbrd: nešiojamas<Doogie> ir aš nenoriu pasakyti, kates.
+		-- Manoj Srivastava
+
+%
+Atsižvelgiant į tai, kai kurios neseniai temas, interaktyvios diskusijos galėtųreikia vykdyti ant drobės, esant teisėjas buvimą, odėvėti kamšalu pirštines. ;-)
+		-- Phil Hands
+
+%
+<James> bet tada aš naudojau Atari, buvau labiau tikėtina, kad laimėti loterijos        dešimt šalių tuo pačiu metu kaip gauti paspartino X
+		-- Phil Hands
+
+%
+* Joeyh stebisi, kodėl visi nori žinoti, kaip aukštas, jis yra<James> joeyh: jis padeda snaiperis
+		-- Phil Hands
+
+%
+* BENC stebisi, kodėl jis naujovinami iki 3.3.5-1 iki teh X prižiūrėtojui
+		-- Phil Hands
+
+%
+<Delenn> aš ne padaryti jį per 24 valandas, kol aš būčiau šaudymo iki         grotelės ir antausiai keletą draugų ant Barbie.<Spacemoos> Kodėl jūs slap draugų su Barbies, thats ganėtinai Keistą
+		-- Phil Hands
+
+%
+Tiesą sakant .. remiantis šio ką NSI yra modelis nėra ... daugelis išžmonės skaito šią nariai NSA ... /. yra afterall "NewsMoksliukai ".NSI pirmadienio rytą {ne kavos aparato):NSI AGENTAS 1: Ei vaikinai, ar jums patikrinti Slashdot per savaitgalį?    AGENTAS 2: Ne, aš įdiegti Mandrake 6.1 ir aš coulnd't gauti darn             PPP ryšys iki ..    AGENTAS 1: Na check it out ... jie į mus.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Technologijos CONSTAND mūšis tarp gamintojų, gaminančių didesni irdaugiau idiotas nepraleidžiantys sistemos ir gamta gamina daugiau ir geresnių idiotai.
+		-- Slashdot signature
+
+%
+knghtbrd: gali būti ne šaukštas, bet jūs galite vietoje pažeidžiamumoeye_render_shiny_object.c?
+		-- rcw
+
+%
+<Džiaugsmas> Wow ... paprastas matematikos rodo, kad Debian'o kūrėjams daugiau uždarojo      nei * 31 * * tūkstančių * pranešimus apie klaidas, nes mūsų BTS egzistuoja!<Džiaugsmas> tai yra apie 30.999 daugiau nei "Microsoft";)
+		-- rcw
+
+%
+<Knghtbrd> Atkreipkite dėmesį, kad pirmiau tik nuomonė ir neturėtų būtiApima ir bet matas faktine informacija.           GARSIAKALBIS ATSISAKO viską ir visus. Kovoti su ja.
+		-- rcw
+
+%
+<James> bet GNOME keistuoliai aplink?<Knghtbrd> ne aš, aš tik beproti
+		-- rcw
+
+%
+<Madax> Ahh<Madax> iš Geeks rinkimas ....<Madax> galiu užuosti jį dabar
+		-- rcw
+
+%
+<Knghtbrd> išmokti mylėti Window Maker.<Knghtbrd> šiek tiek NeXTSTEP yra geras sielai.
+		-- rcw
+
+%
+Įspėjimų: tai GNOME, bijoti, labai bijoti priklauso linija
+		-- James Troup
+
+%
+<Prieveiksmiai> Hhhmmmmmmmm<prieveiksmiai> Waterbeds už karves<Prieveiksmiai> eleet<CAS> prieveiksmiai: kodėl karvės reikia vandens lova?<Prieveiksmiai> CAS: Norėdami būti patogūs šilta
+		-- James Troup
+
+%
+Jei esate ką valgyti, manau, kad daro man sūrio danų.
+		-- Anonymous
+
+%
+<Hop> kai jūs pradėti uždirbti tik kvailas klaidas, kurios yra akivaizdu, thats      kai jūs pradėsite gauti kompetentinga<Hop>, nes jūs neturite padaryti pagrindines nesusipratimas klaidų<Hop'as> ir thats * Geras * ženklas.
+		-- Anonymous
+
+%
+<LILO> tai keista, kai jūs einate į safari į Afriką sugauti liūtą, jums       mano, kad tai gyvas ir ji ima, ir tada jūs jį nužudyti<LILO>, kai jūs einate į safari Pietų Bay rasti Palm Vx, jums susirasti       jis miręs ir pasiimti namo ir ji ima, kai jis atvyksta :)
+		-- Anonymous
+
+%
+<LILO> Gebu skaityti kruviną * vadovą *, kaip jei ji buvo kažkokia       religinis takų apibūdinti formas nušvitimo jūs galite pasiekti       po 10 metų ant kalno :)
+		-- Anonymous
+
+%
+Geitso Teisė: kas 18 mėnesių, programinės įrangos pusės greitis.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: pridėti vartotojus, kurie turėtų būti Messing su garsu į grupę           garso .. Įsitikinkite, kad prietaisai yra visi grupės garso (Lt -l           / Dev / dsp duos jums sparčiausiai nurodant, ar tai tikriausiainustatyti dešinėje) ir sukurti branduolį su garso paramos kortelėje<Knghtbrd> arba pasirinktinai įdiegti alsa šaltinį ir kurti modulius, kad           su make-kpkg<Knghtbrd> arba (nerekomenduojama) gauti ir įdiegti blogio OSS / Linux blogį           non-free blogis dvejetainiai tik pikti vairuotojai --- bet tai yra blogis.O ar aš sakiau, kad tai nerekomenduojama?
+		-- Anonymous
+
+%
+Manau IRC nesiruošia dirbti, nors --- mes bėga temą kosmosą!
+		-- Joseph Carter
+
+%
+"Ramiojo vandenyno Bell Klientų aptarnavimas, tai [..], Kaip aš galiu suteikti jumspuikus klientų aptarnavimas šiandien? ""Hahahahaha !! Tai gerai, man patinka ..""Hm, ačiū, jie mums pasakyti."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: kruvini newzealanders<Omnic> danpat: įdėti kojinių jame<Danpat> Heh :)<Knghtbrd> padaryti įdomus .nz'ers skiriasi --- jie visi keistai* knghtbrd kailiai<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Džiaugsmas> Flinny: juoda crontab magija kinda stuff :)<Knghtbrd> Džiaugsmas: Ar tai reiškia, žmonės šoka nuogas aplink laužus           giedojimo keistų dalykų ir garbanojimo savo ginklus, apie kvailas           būdas?<RCW> knghtbrd: ką jūs manote * * žmonės ne novare?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * snipsnip *<RCW> oi brangusis, yra tai, kad likimo-duomenų bazės redagavimo garso?<Džiaugsmas> uh oh<Knghtbrd> Taip =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Džiaugsmas> tai yra Kludge (TM) "<Knghtbrd> tai veikia (TM)<Džiaugsmas> AIX darbai (TM) "<Knghtbrd> Ne tai ne<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Skirtumas tarp genialumo ir kvailumo yra tai, kad genijus tairibų. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> Jei įkrovimo nors pažeidžiant JAV šifravimo įstatymus būtų gauti           Jūs juoktis iš teismo, tiesiog "ištirti" jais hte nemokamai           išdavyste!<Knghtbrd> Arbata, kas?<Espy> aš, o skandinti politikus vietoj arbatos :)<STU> Įžvelgti: politikai turi žiaunų, duh<Espy> žebenkščių neturite žiaunų
+		-- Albert Einstein
+
+%
+Jeigu aš turiu problemų diegiant Linux, kažkas yra negerai. Labai negerai.
+		-- Linus Torvalds
+
+%
+* Bma_home gropes jus<Bma_home> "oups, negerai kanalas"<Bma_home> </ ACF><Cerb> quit klaidžioja mane<Doogie> žinote patinka.<Bma_home> Tiesą sakant, tai buvo "graibytis me baby"<Gecko-> palieskite savo sūnų ir tu mirsi, BMA;)<Doogie> gecko-: bet tavo žmona yra ok?
+		-- Linus Torvalds
+
+%
+Skaitymas kompiuterių vadovus be aparatūros, kaip nelinksma kaip skaitytisex vadovai be programinės įrangos.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (tinc)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (IT)<Knghtbrd> (ne)* Espy pažymi kalbėti ACR ^ Winitialisms yra baisu, kai kita pusė  supranta jus
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> Tai labai blogai seniausių tiek pastangų yra Y2K atitiktis<| Lietaus |> labai blogai?<| Lietaus |> kodėl, nes žmonės nebus atnaujinti iki 2038?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "aš įdiegta" Linux 6.1 ", nėra, kad padaryti man unix                Guru? "<BENC> Espy_on_crack: ne, turite jį įdiegti du kartus prieš jums yra       Guru ... kartą įrodyti, jūs galite tai padaryti, antrasis nustatyti dalykus       Jūsų įveikė pirmą kartą<Espy_on_crack> oi teisus, kaip kvaila mane
+		-- Arthur C Clarke
+
+%
+* Knghtbrd veikia ET dalyką<Knghtbrd> kas gavo kalbėti-N-kerus?
+		-- Arthur C Clarke
+
+%
+<Omnic> kita .sig papildymas
+		-- Arthur C Clarke
+
+%
+Aš pradedu galvoti genofondo galėtų naudoti šiek tiek chloro.
+		-- Arthur C Clarke
+
+%
+Tai taip blogai, kaip jūs manote, ir jie yra iš ko galima.
+		-- Arthur C Clarke
+
+%
+<Espy> būkite atsargūs, kai tyčiotis gali pacituoti jums<Espy> iš konteksto ...
+		-- Arthur C Clarke
+
+%
+*** Tema #redhat: RedHat yra visiems jūsų problemos sprendimas. jis    gali būti pradžios per daug!
+		-- Arthur C Clarke
+
+%
+* Cesarb stebuklų, jei mažiau nei savaitę Carmack galų gale gauti iš  e-mail mandagumo kopiją į Quake šaltiniui, kuris yra keturių versija  kartų greičiau nei tai, kas buvo iš jo virtualių rankose ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: aš nesu išleisti Quake branduolio šaltinio<Knghtbrd> bet mes turime įdėti Quake į įkrovos diskelius į vieną-up           Caldera tetris žaidimas ..;>
+		-- Arthur C Clarke
+
+%
+Ginklai ne žudyti žmones. Tai tuos prakeiktus kulkų. Ginklai tiesiog padaryti juos eititikrai tikrai greitai.
+		-- Jake Johanson
+
+%
+<Espy> mes turime išskaidyti pagrindinė į "core" ir "WTF-naudojimas-tai"
+		-- Jake Johanson
+
+%
+<Culus-> libc6 nėra būtina: |
+		-- Jake Johanson
+
+%
+<DHD> Ar yra speciali Kalėdų paketas drebėjimo<DHD>, kur jums bus kaip santa robotas Futurama?<Dunham> DHD: kad būtų gana nesubalansuotas žaidimas ...<Knghtbrd> Dunham: tai idėja. ;>
+		-- Jake Johanson
+
+%
+<Knghtbrd> problema su GNU kodavimo standartus jie mano, kadkiekvienas pasaulyje naudoja Emacs .. Jei taip būtų šiuo atveju, nemokama           Programinė įranga mirs, nes mes visi turime riešo problemųkaip RMS dabar ir nebegali būti suteikta galimybė kodą. ;>
+		-- Jake Johanson
+
+%
+C'mon! politinį protestą! Sheesh. Kur, kad anarchistas dvasia? ;-)
+		-- Decklin Foster
+
+%
+Mes rezervavimo mūsų standartus, todėl iki jūsų!
+		-- Decklin Foster
+
+%
+* Running dabar žinoma kaip woot vakarienės* Knghtbrd truputį pabarsto druskos ant running<Knghtbrd> Aš niekada turėjo woot prieš ... tikiuosi, kad jie skonis geras<Running-vakarienė> noooo!<Running-vakarienė> nevalgo mane!* Knghtbrd nusprendžia, kad jis nenori vakarienę, kad kalbama su juo ... hehe
+		-- Decklin Foster
+
+%
+[Dėl priemonių užkirsti kelią sukčiavimo Quake]Aš turiu galvoje, kaip ilgai, kaip aš galiu padaryti, kad mano raketų paleidimo atrodyti didelis Twinkie,Aš būsiu laimingas;)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: trumpai tariant, mes juda keletą dalykų klientas           Šiuo metu yra atsakingas už pasakoja serverį į dalykų           serveris patikrina pats<Knghtbrd> Jei neo sako: "Nėra šaukšto", Matrica sakys: "O taip           yra --- ne oszukiwanie! "<Hollis> Bet jis žino, kung fu ...<Knghtbrd> Žinoma jis daro, bet aš turiu raketų paleidimo.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Gyvsidabris ramiai pašalina XT-Ream ranką ..* Gyvsidabris tada pajamos įveikti XT-Ream su XT-Ream rankos.<Knghtbrd> Oho, visa tai žemės drebėjimas įsilaužimo daro "Mercury smurtinio čia* Mao yra malonu žemės drebėjimas kalvė projektas yra gerose rankose
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> CVS / įrašus turėjo linija man reikia "keisti"<Gyvsidabris> Knghtbrd: Buvo apie paminėti tokie .. <G><Gyvsidabris> Knghtbrd: Dabar, pasirengę įsipareigoti?<Knghtbrd> nori man laimę<Knghtbrd> Gyvsidabris: ji padarė<Knghtbrd> Gyvsidabris: ir po viso to, turėčiau būti per daug.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd kerta savo pirštus<Knghtbrd> (jei aš kirto mano pirštai būtų sunku įvesti)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> yra vienas blogas dalykas apie turintys mobilųjį telefoną.<Doogie> aš gali būti pasiektas bet kuriuo metu. : |<Wmono> tai kodėl aš palikti mano išjungti bet kuriuo metu. ;>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> Kaip mes ketiname ištarti "00 ar 01" ar '02 ir pan?<Deek> Atsisveikinkite su dešimtojo dešimtmečio, pasisveikinti su naughties. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> Jei vartotojas nurodo ginklą jo papėdėje ir išsitraukia gaiduką, kad       yra mūsų darbas, siekiant užtikrinti kulka gauna kur jis turėjo.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Gyvsidabris> Įspėjame: Turiu klaviatūra galiu naudoti įveikti Luser galvų          į, ir tada toliau naudoti ... (=:]<Deek> Gyvsidabris: Oi, IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> knght, Sheesh, jūs įdėjimą mano žodžius iš konteksto,           pokalbių kambario # debian ar kažkas?<Palisade>;)<Knghtbrd> ne, bet aš tikriausiai turėtų būti;><Palisade> Kaulo Oh!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<CAS> Gyvsidabris: GPM nėra labai gera naršyklė. pataisyk tai.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<CAS> gerai ten ya go. pasakyti kažką kvailo IRC ir jį      įamžinta amžinai kažkieno .sig failą
+		-- Qeyser <keyser@jhu.edu>
+
+%
+"Microsoft" yra tarp Borg ir Ferengi kryžius. Deja,jie naudoja Borg padaryti savo rinkodaros ir Ferengi dėtiprogramavimas.
+		-- Simon Slavin
+
+%
+Aš mieliau praleisti 10 valandas skaityti kažkieno kodą kaip 10minučių klausymas Musak laukia techninę paramą, kuri nėra.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Kur jūs manote jūs ketinate šiandien?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Aš išgirsti visus tamsa rūšių ir bausmė prognozes Y2K, todėl aš maniau aš paisyti kai kurių patarimų, kad ekspertai buvo nubaustas: Pripildykite automobilio degalų baką, rankų ant konservai, užpildyti vonia su vandeniu, ir taip toliau.Spėju, kad nebuvo visiškai budrus, kai aš baigė mano preparatai vėlainaktis. Šį rytą radau virtuvės lentynas mirkyti benzine, vanduoį automobilio degalų baką, ir mano vonia užpildytas su keptomis pupelėmis.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzano> ei tu nukristi savo Pirch ar kažką?<Knghtbrd> man? Heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy Jūs esate kepti<Knghtbrd> Espy: tik pusė tiek
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> Aš apskritai nenaudoja nieko, kad turi "eksperimentinis" ir            "Įspėjimas" įterptas per jį<Darkangel> Ne, aš ne tai, kad kvailas ... hehe<Knghtbrd> ...* Darkangel mano atsisiųsti naujausią nestabilus branduolys
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> Solaris yra BSD, todėl ji turėtų dirbti* Espy trunka Wichert anketa crack vamzdis toli
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Tai labai blogai, dauguma senų tiek pastangų paaiškėjo Y2K atitiktis<Knghtbrd> nes tai reiškia, kad žmonės vis dar bus veikia juos per 30 metų           = p<Knghtbrd> būtų buvę tiek daug gražiau, jei Y2K efektyviai išnaikino           hpux, Aix, SunOS, ir tt;><Espy> Knghtbrd: nuo kada yra pH-UX, skausmai ir solartus "senosios"?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+* Gxam stebisi, jei visi šie Globals yra tikrai būtina<Knghtbrd> dauguma jų tuo metu taip<Knghtbrd> Mums tikrai reikia valyti juos tam tikru momentu<Knghtbrd> gxam: kad Globals turės išeiti, kaip mes migruoti į           modalumas ir beprotybė (ty libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, manau, kad kodas, kurį fiksuotas mano neveikia<Raptor> Aš negali būti įsipareigojusi darbo kodą<Knghtbrd> Raptor: kaip tai pirmas kartas, kada nors atsitiko = P
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Gyvsidabris> Knghtbrd: Naudojant -3dfx arba -svga?<Knghtbrd> Gyvsidabris bus padaryti kažką sveikas su juo<Knghtbrd> Gyvsidabrio: abu --- SVGA sig11 drabužiai, -3dfx sig4 s<Knghtbrd> Gyvsidabris: tai nėra geras ar ne? ;>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Patikėkite, mes žinome, ką mes darome ... Galime neįsivaizduoju, kaip           mes darome, bet mes žinome, ką darome.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Gyvsidabris> <CJ | Bizkit-0-> aš galiu įkelti į Linux serverio Mąstymas<Gyvsidabris> <CJ | Bizkit-0-> aš turiu shell sąskaitą viename<Gyvsidabris> <Gyvsidabris> Kas tai veikia?<Gyvsidabris> <CJ | Bizkit-0-> Umm<Gyvsidabris> <CJ | Bizkit-0-> Apache manau<Gyvsidabris> Pagalba, prašome padėti ..* Omni chuckles
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<JT> turėtų triktį būti pažymėtas svarbus, jei jis turi įtakos tik vieną arką?<James-workaway> JT: RC tos arkos gal, bet tie iš arkos natūra                 konkrečias klaidas yra reti ...<JT> ne tada, kai tai sukelia GCC klaidą<Doogie> JT: gauti gcc iš tos arch. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Edlin> LWE?<Edlin> Linux "W ?? El ??<Mato> bus eatyou<JHM> World Expo?<Edlin> matau
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Nominali mokestis". Koks bjaurus sakinys. Tai vienas iš tų dalykų,reiškia, kad jei turite paklausti, jums negali sau to leisti.
+		-- Linus Torvalds
+
+%
+<Deek> GPL savo namų darbus? :)<Knghtbrd> yah = D<Knghtbrd> Kiekvienas leidžiama naudoti ar keisti mano namų, tačiau, jei jie           platinti pakeitimus jie privalo apimti visą mašininio skaitymo           kodo;>
+		-- Linus Torvalds
+
+%
+* Knghtbrd yra kiekvieną dieną labiau įsitikinu kad dauguma C ++ programuotojams nežinau, ką           po velnių jie daro, kuris yra, kodėl, C ++ turi tokią blogą rap<Prieveiksmiai> KB: Dauguma C programuotojams nežinau, ką jie daro, tai tiesiog daro ją        lengviau paslėpti: P<Prieveiksmiai> pamatyti, pavyzdžiui, proftpd: P
+		-- Linus Torvalds
+
+%
+<Prieveiksmiai> Ir nereikia get me prasidėjo perl!<Prieveiksmiai>:><Shaleh> Perl yra už blogį<Jim> jūs nežinote, Perl dar?<Netgod> turiu mylėti kalbą be jokių neskaidomas sintaksė
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / Atsitiktinės | perl?<Shaleh> doogie: tai taip pat galioja sendmail.cf<Doogie> :)* Knghtbrd rankos doogie beprasmišką naudojimo-of-katė apdovanojimą* Shaleh nori jį išbandyti, bet bijau
+		-- Linus Torvalds
+
+%
+<DHD> Perl </ dev / BDSM<Knghtbrd> turite / dev / BDSM?<DHD> Žinoma, tai pseudosadomasochistic atsitiktinių skaičių generatorius
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: aš ant jo dabar .. 3 1.3Gb diskus, 128M RAM, Dual 50MHz        (Iki quad 250MHz)<Kysh_> Laimikis, kad jis išsitraukia 110V maždaug 12A 8><Prieveiksmiai> 12A!<Prieveiksmiai> Gerai, mano viryklė 3000W, tai saulė 1320W<Prieveiksmiai> Ar matote problema ČIA<Apsk> 1320W saulė, tai yra, kaip plaukų džiovintuvas :)
+		-- Linus Torvalds
+
+%
+* Joeyh_ veikia ps ir mato 10 eilučių awk kodas* Joeyh_ recoils siaubo
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: buvau žemyn nuo midmorning vakar ir pacbell sakė           šį rytą, kad AT & T "buvo kaltas ir beveik visi valstybės           sumažėjo<RCW> Nežinau, kodėl žmonės reikalaus internetas gali išgyventi branduolinį holokaustą      kai ji negali išgyventi atbulinį kastuvą
+		-- Linus Torvalds
+
+%
+Šis pranešimas buvo parašyta su vi! (Ne tai, kad kas nors pasaulyje cares)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Ryšio naujo kai kurių idiotas su Ekskavatoriai
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Vas 5 13:27:01 trejybė lp0 ant ugnies        - Linux branduolys, įspėti mane, kad ten buvo kai nežinoma           problema su mano spausdintuvu (ty, jis buvo rašalas)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Kuo mažiau žinai apie kompiuterius tuo daugiau jūs norite Microsoft!        - "Microsoft" reklamos kampanija, maždaug 1996(Įrodymas, kad "Microsoft" reklama _isn't_ nesąžiningas!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Padaryti vieną puikų sprendimą ir visa krūva vidutiniai yra ne taipgerai, kaip padaryti visa krūva paprastai protingus sprendimus visojeVisas procesas.
+		-- John Carmack
+
+%
+Tai ne paprastai kainuoja efektyvus laiko protinga eiti daryti. Bet jei kažkastikrai pissing jums ne, jūs tiesiog eiti ieškoti kodą ir ją išspręsti, ir kadtikrai cool.
+		-- John Carmack, on the advantages of open source
+
+%
+<Apsk> net skamba naudinga RE'ing USB<Apsk> turiu nenaudingas 3COM usb kamera čia :(<Knghtbrd> apsk: 3Com gali turėti jums suimtas, nes pažeidė įstatymus, kurie           nėra "iki spalio;><Apsk> knghtbrd: aš paslėpti :)<Knghtbrd> ... atsparaus suimti per eh?<Apsk> knghtbrd: ne i bus paslėpti, kol aš gauti tarnavo
+		-- John Carmack, on the advantages of open source
+
+%
+<Gyvsidabris> Tuo metu ji kaupti, bet segfault, kaip turėtų ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Knghtbrd yra pernelyg linkusios .sig visą šią diskusiją ...
+		-- John Carmack, on the advantages of open source
+
+%
+Unixverse baigiasi Tue 19 Sau 2038 03:14:07 0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: turėtume daryti Quake epizodas: kelio giliai kodas ":          paleisti aplink šaudymo klaidų :)<Knghtbrd> taniwha: aš perduoti idėją į OpenQuartz;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Norėčiau išspręsti "Windows" pagrindinį problema su fdisk :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: QW anketa netcode daro keistus dalykus man. : P<Knghtbrd> Tai neįprastas? ;><Endy> Ne visai. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> RCW: O Yay --- Aš nebuvo įsitraukusi į gerą flamewar į ne           mažiausiai ... 5 minutes!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: aš nesu, nepaisant jūsų netiesiogiai, Dievo
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> Aš ką tik nupirko "MS Office 2000" tik už 20 $ !!!<Knghtbrd> jūs turite neveikiančių išjungti;><SlayR> aš žinau;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> tai 06:00. Buvau iki 24 val<Knghtbrd> Wake me up ir rizikos gyvybe ir galūnėmis.* Knghtbrd &; miegas<Televizija> Gerai visi, mes palaukite 10 minučių ir tik tada pradėti potvynių Knghtbrd     su ^ G ". Kažkas, Hack šaknis ir cat / dev / urandom> / dev / dsp.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Knghtbrd dabar žinoma kaip SirKewLDooD*** Gyvsidabris spardė SirKewlDooD iš #quakeforge (* kulti *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Gyvsidabris> Knghtbrd: Norėčiau pamatyti paramą XOR kryželiu ..<Knghtbrd> Gyvsidabris: esate Quack.<Gyvsidabris> Knghtbrd: Jūs esate prekybininkas ... <G>*** Knghtbrd dabar žinoma kaip QuackDealer
+		-- John Carmack, on the advantages of open source
+
+%
+* Sauso ledo negali užkoduoti savo kelią iš popieriniame maišelyje<Coderjoe> sauso ledo: int main () {ExitPaperBag (); grįžti 0; }<Knghtbrd> Ar tai, kaip tai padaryta tada? * Užima užrašus *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> EEK, o ne dar vienas ...<Knghtbrd> Atrodo kada kūrėjas ir jų mama dabar turi atsitiktinis           parašas, naudojant IRC citatos ...<Knghtbrd> Ką aš pradėjau čia ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Mato naudoja knghtbrd kometarus, jo parašas<Knghtbrd> mato: kaip tik aš juos įvedėte supratau aš geriau akiplėša juos           aš kol kas nors kitas padarė;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Omnic žiūri jo 33,6 nuorodą ir tada žiūri džiaugsmui* Gyvsidabris cuddles savo kabelinį modemą .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Natūralu, Win95 išvaizda buvo ne visi, kad nauja arba - "Apple" bandė paduoti į teismą"Microsoft" kopijavimo "Macintosh" UI / šiukšliadėžės piktogramą, kol "Microsoft"atkreipė dėmesį, kad "Apple" gavo daug savo Mac idėjų (įskaitant šiukšlių dėžępiktograma) iš Xerox ParcPlace. "Xerox" tikriausiai dar įdomu, kodėlvisi suinteresuoti savo šiukšliadėžės.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Knghtbrd> tai yra psichikos ligos požymis vaikščioti be tikslo per           pradėti žemėlapį, rinkti savo Žaibo, apynių į baseiną, o savaitės           Būk su juo tik pamatyti savo galvos buouce kai jis patenkaper baseino dugne? =><Knghtbrd> "Jūs žinote, kad esate Quake narkomanas, kai ..."
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> Aš vis dar manau, kad jūs vaikinai yra riešutai sujungimas Q ir QW. : P<Knghtbrd> Žinoma mes riešutai. Net Jonas sakė, kad. =><Taniwha> Zoid: mes riešutai, bet mes produktyvūs riešutai :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: mes riešutai, bet mes produktyvūs riešutai :)* Taniwha stebisi, ką produktyvūs riešutai skonis kaip
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: Citata medžiagos :)<Taniwha> Endy: :)<Knghtbrd> Endy: Aš jau susmulkintų ją
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> Tiesą sakant, manau, kad lauksiu bulvių būti baigta iki       įdiegti Debian.<Endy> Tai turėtų būti greičiau, aš tikiuosi. :)<Knghtbrd> Endy: Jūs akivaizdžiai žino labai mažai apie Debian.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Nieko nėra problema, kai jūs derinti kodą.
+		-- John Carmack
+
+%
+<Overfiend> UNIX kelią - viskas failas<Overfiend> Linux būdas - viskas yra failų sistema :)
+		-- John Carmack
+
+%
+<Devkev> Taip, aš pamačiau žaibo ginklą ir kur einasi, galvoju         Jums buvo viskas ateityje kai asilas :)<Devkev> didnt suprasti tai būtų jūsų pačių :)
+		-- John Carmack
+
+%
+"Priešingu atveju, prašome kreiptis į gydytoją apie pašalinant galvą iš jūsųasilas, manau, kad būtų naudinga visoms susijusioms šalims. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Paantraštė, jūs ją!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Aš esu praktikuojantis išploninamas etikos. Tai priimtina šaudyti atgal.Tai nėra priimtina šaudyti pirmas.
+		-- Zed Pobre
+
+%
+<Coderjoe> Pasiūlyk savaitės, Perl?<Savaitės> man atrodo Perl yra programuotojas Šveicarų armijos Grandininiai pjūklai
+		-- Zed Pobre
+
+%
+<Endy> taniwha: Ar kada išbandyti šį vieną? :)<Taniwha> Endy: žinoma, nėra
+		-- Zed Pobre
+
+%
+Štai juokingas dalykas, aš kada nors girdėjote ir aš _not_ toleruoti ją.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Tai ne? Ar tu sakai, kad jums turėtų leisti žmonėms (išskyrus WilliamWallace) šaudyti žaibo varžtus iš savo osła?
+		-- Seth Galbraith
+
+%
+<Gyvsidabris> Jūs neturite būti crazy būti projekto narys, bet          Jums bus .. <=:]
+		-- Seth Galbraith
+
+%
+* Endy reikia pasikonsultuoti kavos: P<Endy> kavos botas asmuo, o ne kavos gėrimas :)<Knghtbrd> Konsultavimas gėrimą gali padėti per =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: ir romieji paveldės K-Mart
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "Java" už COBOL Programuotojas "<Knghtbrd> kas rašo šiuos dalykus?<raptor> žmonės crack<Raptor> ir Cobol programuotojai<Raptor> :)<Knghtbrd> tai nereikalinga.
+		-- Seth Galbraith
+
+%
+<Evilkalla> Heh, aš niekada paėmė kodavimo klasę<Evilkalla> arba grafikos klasė<Evilkalla> arba programinės įrangos kūrimas klasė<Veganų> ir tai rodo: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD metimų spagečius ne visiems* Taniwha valgo spagečius* Coderjoe meta aplink kai kurių mėsos* Knghtbrd gauna sūrio* Taniwha griebtuvai raudona
+		-- Seth Galbraith
+
+%
+<Theoddone33> Kas tai žinutę ant mano ekrano,<Theoddone33> taip mėlynos, todėl mėlyna, ką ji galėtų reikšti?<Theoddone33> Gal galėtumėte, jūs paspauskite I¹trinti,<Theoddone33> Ctrl ir Alt ir tada pakartokite.
+		-- Seth Galbraith
+
+%
+<GORGO> Ką jūs gaunate, kai kas nors įtrūkimų savo debian mašina?<GORGO> bulvių koše ...
+		-- Seth Galbraith
+
+%
+<AJ> nagi<AJ> tai Pico klonas<AJ> tai * reiškė * turi būti erzina
+		-- Seth Galbraith
+
+%
+<Espy> meldžiu Espy įstatymas, kuriame teigiama, kad jūs visi čiulpia: P
+		-- Seth Galbraith
+
+%
+<Overfiend> prieveiksmiai: noriu sustabdyti man už tai? :)<Prieveiksmiai> Overfiend: Go piktavališkai nulaužti kelis nutraukia ir kalbėsimės<Overfiend> prieveiksmiai: Velnias, jis turi būti kenksminga?<Prieveiksmiai> Overfiend: Deja, taip
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 sucks užtenka turėti savo sunkumą ...
+		-- Seth Galbraith
+
+%
+* Kosminiai spinduliai nori jis turėjo keletą nuėmiklių čia ....<Kosminiai spinduliai> klystate, vielos nuėmikliai
+		-- Seth Galbraith
+
+%
+<WildTHing> Gerai vaikinai .. Taigi whens kitą įsipareigoti: PP<Taniwha>, kai jie ateina į mane
+		-- Seth Galbraith
+
+%
+<Mdorman> aš Gnus asmuo save. Tai redaktorius! Tai floorwax!          Tai desertas įdaras!
+		-- Seth Galbraith
+
+%
+<Tausq> K. Koks skirtumas tarp Betmenas ir Bill Gates skirtumas?<Tausq> A. Kai Betmenas kovojo pingvinas, jis laimėjo.
+		-- Seth Galbraith
+
+%
+Tam tikru momentu, bitai turi pereiti į paketus ir maršrutizatoriai reikia padarytisprendimus dėl jų. Pokyčiai tokio lygio yra tai, ką aš noriu girdėti apie nestrateginiai įmonė santykius.
+		-- John Carmack
+
+%
+Mes atmetame: karaliai, prezidentai, ir balsavimą.Mes tikime: grubus sutarimo ir darbo kodekso.
+		-- Dave Clark
+
+%
+<Knghtbrd> QF ketina gauti zipfile paramą šiandien<Coderjoe> Heh ... infozip?<Knghtbrd> Jei aš esu laimingas Taip<Deek> knghtbrd: Tu turbūt juokauji, tiesa? ;)* Deek atima Knghtbrd anketa crack vamzdį. ;)
+		-- Dave Clark
+
+%
+<Deek> Pakeisti visus cvar-> value = X naudoti Cvar_Set ()<Theoddone33> kad neatsitiko oldtree<Deek> Tiesą sakant, tai padarė.<Knghtbrd> Taip - po dviejų savaičių.
+		-- Dave Clark
+
+%
+=== Šis laiškas garbę sistema virusas ====Jei dirbate Macintosh, OS / 2, Unix, arba"Linux" kompiuteris, prašome atsitiktinai ištrintikelis failus iš savo kietąjį diską irperduoti šią žinutę visiems pažįstamiems.==============================================
+		-- Dave Clark
+
+%
+* Nuor nori gauti vieną iš knghtbrd anketa parašus Vienas iš šių dienų.
+		-- Dave Clark
+
+%
+<Dr ^ Nikas> SGI_Multitexture yra blogai Voodoo dabar<Dr ^ Nikas> ARB yra gera vudu<Witten> ne, Voodoo Rush yra blogai Voodoo :)
+		-- Dave Clark
+
+%
+99 mažai klaidų Kodekse 99 riktai kodas,        nustatyti vieną klaidą, kaupia jį dar kartą ...        101 mažai riktai kodas ....
+		-- Dave Clark
+
+%
+Hmm ... Kuris būtų padaryti geresnį darbą pritraukia fizikus išprotėjai? Kelionėgreičiau nei šviesa, ar yra slankiojo kablelio Būlio vertė?
+		-- Michael Mol
+
+%
+<Apsk> knghtbrd: GNOME 2.0 bus per keletą mėnesių, nežinote, kaip ją       palygins KDE 2.0, nors<Knghtbrd> apsk: Tiesiog kaip ištinęs, kaip buggy, ir kiekvienas gnome 2 programa       priklausys nuo 30 bibliotekų.<Laižūnas> knghtbrd: taip, kokie pokyčiai nuo 1,0?
+		-- Michael Mol
+
+%
+<Ze0> taip, kaip yra viskas su Quack pasaulyje?<LordHavoc> tiesiog Serdeńko<Ze0> puikus, keptas antis yra galingas bauda skanus.
+		-- Michael Mol
+
+%
+<FrikaC> Aš tikriausiai turėtų perkrauti ...<FrikaC> Gerai BRB<FrikaC> Taigi, kas be forma išvengti virii, Atminties nutekėjimas ir siaučiantis         klyksmas ar "Linux" reallhy pasiūlyti :)<LordHavoc> patikimą multitasking?
+		-- Michael Mol
+
+%
+<Tausq> jei (CB) ((cb-> obj) -> * (cb-> ui_func)) ();<Knghtbrd> tausq: kas, po velnių, rašė, kad?<Tausq> man :)* Knghtbrd flogs tausq
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> heh<Endy> Ar tai 1.2? :)
+		-- Michael Mol
+
+%
+<Gyvsidabris> knghtbrd: EWW, rasti geresnį vardą, filmas čiulpti .. <G><Knghtbrd> Gyvsidabris: Variklis yra geriau nei filme
+		-- Michael Mol
+
+%
+<LackOfKan> Kas yra "botai"?< `` Erikas> RSG yra botas, o ne žmogus, o ne žmogaus tinkami klientui, tik botas.< `` Erikas> apie tą patį kaip Quake Bot, išskyrus IRC botų yra (dažniausiai)         pastatytas padėti, o ne šaudyti savo osła kiauras
+		-- Michael Mol
+
+%
+jei (ME = Jums!) // FIXME: tikriausiai visada tiesa, ištrinti?    už (n = 0, n <who_knows_what; n ++) {        answer = DoSomething (withthis [N]);        jei (atsakymas == foobar) {            GetLost (n);            pertrauka;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: ne problema su indeksuotų spalvų paletes vaizdų, kaip           Tol, kol jūs galite pasiimti paletę<Yorick> Akivaizdu, kad asmenys, kuriantys drebėjimą buvo spalva aklas, bet kad         nereiškia, kad jūs turite būti
+		-- Michael Mol
+
+%
+<cesarb> Velnias, kiekvieną kartą aš neršti, QF-kliento-x11 spynos kietos<Zoid> Negalima mirti?<Knghtbrd> gera paskata.
+		-- Michael Mol
+
+%
+Kodėl tai, kad visi iš priemonių ieško protingos GyvenimasVisata yra nurodyti toliau nuo Žemės?
+		-- Michael Mol
+
+%
+<Rebelpacket> ei, greitas klausimas, ar yra koks nors būdas pagreitinti              atlikimas uquake-x11?<Deek> rebelpacket: Jei norite jį paspartinti, mesti jį sunkiau.
+		-- Michael Mol
+
+%
+<Netgod> žinote<Netgod> jos tikrai liūdna, kai pati InterNIC cant konfigūruoti DNS         serveriai teisė<Netgod> ji tiesiog nepadės gauti daugiau apgailėtina nei
+		-- Michael Mol
+
+%
+<Knghtbrd> Net overbrights, Quake spalvų paletė yra pilnas nuobodu,           plokščios spalvos<LordHavoc> knghtbrd: Quake paletė yra labai energingas, nebent jūs naudojate gama            taisymas<LordHavoc> gerai iš tikrųjų sutinku, tai toli gražu taip energingas kaip "Unreal<Deek> Q3, kita vertus, ... NEON.<LordHavoc> Q3 yra tik juokinga<Deek> Q3 laikosi viduramžių Bažnyčios dungeon ir įdėkite jį Vegase.
+		-- Michael Mol
+
+%
+"Turiu kaulų pasiimti, ir dar keli sulaužyti."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie Optimizuotas infiltracija ir naikinimo
+		-- Anonymous
+
+%
+<Deek> Taip, Amerika yra šalis remiasi kaip pissed-off nuo apmokestinamos grupė       žmonės gali gauti.<Deek> Mes egzistuojame kaip šalis, nes mes pigus.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: daug dėmės ant viršaus 4.0.1 jau?<Overfiend> Oskuro: keletas<Overfiend> tik 152 megs
+		-- Anonymous
+
+%
+<Joeyh> Oh my, tai AUKŠTYN P III.<Doogie> dos ją.* Joeyh veikia Dselect<Overfiend>, kad turėtų pakakti :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: šūdas, SDL tikrai daro DGA Velnišķīgs daug lengviau per           ar ne? :)<Knghtbrd> barneyfu: kas DGA?<Barneyfu> pelė DGA<Knghtbrd> barneyfu: (ar tai atsakyti į jūsų klausimą?)<Barneyfu> Hahahahaha Yeah! :)
+		-- Anonymous
+
+%
+<Deek> "Geras programuotojas gali parašyti FORTRAN bet kokia kalba."<Deek> knghtbrd įrodė, kad galite rašyti C ++ bet kokia kalba taip pat.       <Šypsnys><Gyvsidabris> Mes šiuo metu considdering jei mes duotume jam ar prizas, arba          Nužudyk jį..<Gyvsidabris> (žinoma, visų teises, tai reiškia, kad mes turėtų suteikti jam          prizas, o tada jį nužudyti .. <G>)
+		-- Anonymous
+
+%
+Ardomąją yra kas nors, kas gali iš-įrodinėti savo vyriausybę.
+		-- Anonymous
+
+%
+Mes turime žinoti, mes nežinome.
+		-- David Hilbert
+
+%
+<Knghtbrd> Interneto cenzūra. Nes jūsų vaikai turi būti           apsaugotas nuo atviros moterys, medicinos procedūrų, įvairioskultūros ir smurtiniai vaizdo žaidimai.<Knghtbrd> (bet informacijos apie pastato bombas, vagystė kabelį ir           gaminti narkotikus yra gerai ...)
+		-- David Hilbert
+
+%
+Vienas mano draugas turi brūkšninį kodą ant jo rankos.Jis skamba iki kaip $ 0,35 pakuotės JuicyFruit.
+		-- Seen on Slashdot
+
+%
+<NullC> Man patinka sėklų kodas skaičiavimo maskavimo kreives.<NullC> Aš niekada nemačiau kodą, kad padarė būti nori gerti prieš tai ...
+		-- Seen on Slashdot
+
+%
+$ Galite = new JŪS;Honk () jei $ jums-> pažinčių (Perl)
+		-- Seen on Slashdot
+
+%
+<CJ> ne! problemos M $ programinę įrangą?<CJ> "Kruopščiai bugtested"* Perkelti dygliuotuosius šypsokis.<LordHavoc> perrašyti, kad "Kruopščiai buginfested"
+		-- Seen on Slashdot
+
+%
+<Doogie> dpkg turi klaidų? negali būti!
+		-- Seen on Slashdot
+
+%
+"Debian": jokių kepurės ar ropliai buvo pažeisti šio paskirstymo priėmimo =. "
+		-- Paul Slootman
+
+%
+* Athener ragina "Amnesty International House blynai
+		-- Paul Slootman
+
+%
+<Elmo> nešvariu Klaidos, admin komanda neturi kontroliuoti archyvą, tai toks       FTP klikos<Elmo> gauti jūsų cabals teisus, rautų :-P
+		-- Paul Slootman
+
+%
+<BENC> kosminiai spinduliai: baigsite mane<BENC> Err ...<Kosminiai spinduliai> heh* BENC nueina kodavimo* Elmo žiūri BENC<Elmo> kažkas turėtume žinoti apie jus ir kosminiai spinduliai, Ben? :)
+		-- Paul Slootman
+
+%
+Pakeisti socialinės sutarties? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Programos gautas signalas SIGSEGV, segmentavimas gedimą.<Knghtbrd> 0x40095fb0 į memchr () nuo /lib/libc.so.6<Knghtbrd> (gdb) BT<Knghtbrd> # 0 0x40095fb0 į memchr () nuo /lib/libc.so.6<Knghtbrd> # 1 0x0 ir ?? ()<Knghtbrd> Na tai tikrai naudinga* Knghtbrd prekiauja gdb gražus Ouija lentos - tai padėsime daugiau
+		-- Branden Robinson
+
+%
+Visos geros idėjos atrodyti blogų idėjų tiems, kurie yra nevykėliai.
+		-- Dilbert
+
+%
+RFC 882 įdėti taškas į Com, o ne "Sun Microsystems"
+		-- Seen on Slashdot
+
+%
+* Joeyh_ stebisi, jei Linux Manoma, kad užrakinti, kai jūs paprašote 100  apdoroja katei visa CD-ROM
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Quake turėtų remti XRAY viziją, Dammit<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... Jūs paprašė ...<Kosminiai spinduliai> cha cha, tai yra realus katalogas
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Aš nukniaukti Į BUN<Knghtbrd> man padėti SU Quack<Nuodai> KB: kas, po velnių, tu kalbi?<Knghtbrd> bwahahaha .. Tai ilga istorija.
+		-- Seen on Slashdot
+
+%
+<WildCode> Gyvsidabris, yra ne derinti X šiek tiek kaip rasti puikiai           bugfree kodas langus ??<Gyvsidabris> WildCode: Derinimo X yra tarsi bando paleisti tiesią liniją          per labirintą.<Gyvsidabris> Jums tereikia sulenkti kosmoso laiką taip, kad kampai judėti          jūs ir jūs neturite jokių problemų. (=:]
+		-- Seen on Slashdot
+
+%
+<Miguel> `Jūs buvote neišplatintos iš didelės energijos asmens         apsaugos įtaisai Pašto sąrašą "<Miguel> I dont prisiminti patekti į pašto adresų sąrašą
+		-- Seen on Slashdot
+
+%
+<Mitas> Gaunu ryšį atsisakė jungiantis prie uosto 25, kas       žinoti, kur velniškai logaritmas yra?<AJ> Mitas: /var/log/damn.log?* AJ stebisi, ką tai reikia atrodyti<AJ> Gru 18 05:32:30 Kietas smiltainis smtpd [123]: damn it all į pragarą !!
+		-- Seen on Slashdot
+
+%
+* Žebenkštis stebuklai kaip kvaila vienas turi būti automatinių alt.anonymous.messages<Knghtbrd> žebenkštis: apie pusė kvaila kaip viena turi būti, kad jį nuimti.
+		-- Seen on Slashdot
+
+%
+* Wolfie apmąsto, kiek debianites užtrunka įsukti elektros lemputę<Viiru> Wolfie: Kažkur aplink 600? Vienas varžtas yra lemputė, o likusieji        liepsnos jį už tai, kad negerai.<Dalis> Wolfie: yra lemputė nemokama programinė įranga?<Televizija> Ar galime balsuoti dėl to, ar įsukite jį ar ne?
+		-- Seen on Slashdot
+
+%
+<Culus_> Mes taip pat tikimės, kad išleisti Linux versija, kur apvalkalas yra         pakeičiama perl didele dalimi. Pridedant prie, kad, yra         Keletas iš mūsų, kurie norėtų, kad grynas perl platforma .. Perlos :)* Culus_ žiūri siaubo<Mstone> Culus_: nuo iki pusės, galite įvesti velniškai arti nieko ne         komandinė eilutė :)
+		-- Seen on Slashdot
+
+%
+<Gyvsidabris> LordHavoc: Priežastis, kodėl GL yra pereikvoti, nes jis yra tik          pusei sistemos jie skirtas atžvilgiu.<Gyvsidabris> LordHavoc: Fotografavimo pati koja.* Perkelti dygliuotuosius žiūri visų tų kulkų skyles jo batai - Velnias, daug :)
+		-- Seen on Slashdot
+
+%
+<Perkelti dygliuotuosius> Hehe, aš tikrai nekenčiu pranešimus apie klaidas, kurios lyg skambinant ugnį       departamentas ir sako: "! Yra priešgaisrinė čia ateiti" :)<Perkelti dygliuotuosius> (ir pakabinta)* Perkelti dygliuotuosius žudo keliolika klaidų ataskaitas.
+		-- Seen on Slashdot
+
+%
+<Xtifr> Wow, manau, tik naudojamas libtool išspręsti problemą - kažkas        Padėk man! :><Luca> xtifr, žingsnį nuo klaviatūros
+		-- Seen on Slashdot
+
+%
+<Mao> kodėl jie reikalaus ading -Werror ...<Rūkas-Chan> Mesa nebūtų surinkti iš dėžutės, jeigu ji buvo padaryta jums             vaikinai;)<Knghtbrd> Mm, Mesa NĖRA kaupia out of the box didžiąją dalį laiko.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: Ne, tai ne. Win32 trūksta šakių ekvivalentą ().<Knghtbrd> Deek: Windoze nėra skirtas žmonėms, kurie turėtų turėti prieigą prie           aštrių daiktų, taigi ne šakutė ()<Knghtbrd> vietoj to, jūs turite remtis šaukštu ()
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Šis šriftas pradeda išeiti labai gražiai<STU> Knghtbrd: oh brangusis, tu įsilaužimo dar vieną Quake šriftą VI? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> O, be to, what geriausias metodas, jei aš noriu padaryti Quake       lygis skirtas iš esamo pastato?<Knghtbrd> Gauti Brian kabinete butai? =)<Pv2b> Knghtbrd: IM svarsto savo mokyklą.<Knghtbrd> O puikus<Knghtbrd> Štai visi mes turime
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Windoze cemento: Dabar su CrackGuard (TM)! Niekada nerimauti           negražus įtrūkimai Windoze Cementas dar kartą! CrackGuard (TM) yratokia galinga, kad visa, ką bus trupėti, kol ji bus	   krekas. Užsisakykite $ 200 atnaujinimo versiją šiandien!
+		-- Seen on Slashdot
+
+%
+<Doogie> prieveiksmiai: pasirodo mano klaidą su OpenSSH būti nustatytos 2.5.2, bet         meistras veikia 2.3.0<Prieveiksmiai> Negalima net pradėti<Doogie> Aš tiesiog padariau.<Prieveiksmiai> Vaikinai ketinate vairuoti man statyti didžiulį milžinišką robotą ir        sunaikinti visus Teksaso, yra ne?
+		-- Seen on Slashdot
+
+%
+<Shader> what negerai su rjing?<Rhamphoryncus> tai nevykęs: P<Rhamphoryncus> Jis neturėtų būti įmanoma<Rhamphoryncus> shoving granata savo osła ir naudojant jį kaip raketa                šaunamasis užtaisas neturėtų būti perspektyvi technika: P
+		-- Seen on Slashdot
+
+%
+ * Ekvivalentinis kodas prieinamas iš RSA Data Security, Inc. * Šis kodas buvo išbandytas prieš tai, ir yra lygiavertis, * Išskyrus tai, kad jums nereikia įtraukti du puslapius legalese * Su kiekvienu egzemplioriumi.
+		-- public domain MD5 source
+
+%
+* Knghtbrd dingo - zzz - žinutės bus išpirko kaip drėgni rankšluosčiai visais  žmonių, kurie vogtų prekės ženklas knghtbrd atokiau pranešimą<Coderjoe> ACK* Coderjoe rengiasi gintis nuo šlapių pranešimų
+		-- public domain MD5 source
+
+%
+Niekada nenuvertinkite nors galią kodą, teksto redaktoriumi,ir noras visiškai žarna savo sistemą.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Taigi, imsis Andover šalis turi Kasos juostos?""Ne, ten nemokamai alaus"."Uh-Oh, Stalmanas viskas bus pissed ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Ada> Alter.net atrodo pakeitė vieną iš savo maršruto parinktuvo su cukinija.
+		-- overheard at the Bazaar, 1999
+
+%
+<Gyvsidabris> Kažkas ją išspręsti.<Neviltis> įsipareigojusi<Knghtbrd> Neviltis: "Mercury?<Neviltis> Knghtbrd: jis pavargęs, padarė klaidą, norėjo ką nors jį anuliuoti.<Knghtbrd> Neviltis: todėl jūs jam buvo padarytas?<Neviltis> Knghtbrd: gerai, skirta anyways.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: tai ne išsipūsti, jei jis naudojamas<Knghtbrd> taniwha: kaip jums paaiškinti Windoze tada?<Taniwha> Knghtbrd: dauguma ji naudojama tik kaip balastas įsitikinkite, kad jūsų          diską yra visiškai<Knghtbrd> taniwha: balastas ... Ar ne tai, kad tai, ką daro einantys kriaukle su           apačioje vandenyno?<Knghtbrd> taniwha: kad būtų galima paaiškinti, kodėl winboxes visada žemyn.
+		-- overheard at the Bazaar, 1999
+
+%
+naujoves / jokiu vait / VB .: 1. pasisavinti trečiųjų šalių technologijųper pirkimo, imitacija, ar vagystę ir ją integruoti į "Ade facto monopolis-pozicija produktas. 2. Norėdami padidinti dydžio ar sudėtingumobet ne naudingumas; sumažinti suderinamumo ar sąveiką. 3. Norėdamiužrakinti Išsiregistravimo konkurentai arba užrakinti vartotojai. 4. Pavesti daugiau pinigų; įpadidinti kainas arba sąnaudas. 5. Norėdami įsigyti pelną iš investicijų į kitasįmonių, bet ne nuo tiesioginio produkto ar paslaugos pardavimus. 6. užgniaužti arbamanipuliuoti laisvą rinką; pratęsti monopolines galias į naujas rinkas. 7.Norėdami išvengti atsakomybės už neteisingumą darbus; išlipti. 8. pirktiTeisės aktai, įstatymų leidėjai, įstatymų leidėjai, arba vadai valstybės. 9.tarpininkauti visus sandorius pasaulinėje ekonomikoje; į Zdefraudować; bendrai pasirinkti galia(Perversmo). Plg naujoves, Anglų naudojimas (antonimas).
+		-- csbruce, in a Slashdot post
+
+%
+Kurtinantis tyla mane išmokė ne užduoti Geeks, patarimų krūvaiš jų draugių
+		-- csbruce, in a Slashdot post
+
+%
+"Ką mes ketiname daryti vakarą, sąskaitą?""Tas dalykas, mes kiekvieną vakarą Steve, pabandykite imtis visame pasaulyje!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> Tai man primena, mes reikia pirkti grandininį pjūklą už biurą. "Be       Nelaimės atveju pertrauka stiklo "
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> Jis iš kitų atsakymai apie pusę dydžio.<Knghtbrd> Bet jis atšoko grandininį pjūklą.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Aš nuolat mano asmens GPG duomenis užrakinta, švino saugus Vault       saugojo piktas provincialai ir jų dawgs. Pažeidėjų bus       pažeistos, ir visa tai ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: ne tai, kad plėtinio kuris numato dalis           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: ne, glDriverBugs () yra dalis EXT_help_me.<Siigron>, kuris taip pat yra glMakeItWork (GL_PLEASE);
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erikas> 18.446.744.073.709.551.616 yra didelis skaičius
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> yra, kad tikrai knghtbrd?<Knghtbrd> Ne, aš blogis apsišaukėlis!<Knghtbrd> Pikta apsišaukėlis, kuris mėgsta HYBRID!<Xavvy> cha cha<Xavvy> Gerai, tai jį: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Lietaus |> I * meilė * SWB !!<| Lietaus |> Arba paspauskite 5 pasikalbėti su atstovu, ..<| Lietaus |> * 5 *<| Lietaus | Tu perkeliama, prašome laikyti ...<| Lietaus |> ...<| Lietaus |> ...<| Lietaus |> Atsiprašome, šis skaičius negali būti užbaigtas taip rinktų.<| Lietaus |> Prašome patikrinti numerį ir bandykite dar kartą.
+		-- csbruce, in a Slashdot post
+
+%
+<| Lietaus |> #define struct Sąjungą / * didelis atstumas užsklanda * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> Ne BSD gerbėjai?<EvilTypeGuy> Elric: sunku būti Gamer ir BSD ventiliatorius: P
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> Yra per daug kraujo mano kofeino sistema.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> prieveiksmiai: Ar esate miega?<Prieveiksmiai> ne
+		-- csbruce, in a Slashdot post
+
+%
+<WLI> Taip, aš pažvelgė Kvarcai ir jis atrodė panašus į C kodą pobūdžio, kad      ex jovial / Algol '60 programuotojas, kurie praleido pastaruosius 20 metų šoktelėti      tarp Fortran-IV ir Fortran "77 būtų parašyti.
+		-- csbruce, in a Slashdot post
+
+%
+<Netiesinė> .lt yra Microsofts iškreipdavo versiją java Networked            aplinka uglified Windows specifinio šūdas
+		-- csbruce, in a Slashdot post
+
+%
+<Gyvsidabris> LordHavoc: Aš jau nenormalu.<Coderjoe> velniškai tiesiai. arba Kreivi, kreivas, ar kas turi jus
+		-- csbruce, in a Slashdot post
+
+%
+Unix yra brandi OS Windows vis dar sauskelnių ir jie kvepia blogai.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Iš visų sterotypes apie Aussies, aš suprasti vaikinai yra         tikrai nelengva.<Midgar>; p<Krusto> mes mesti koala At jus
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Lietaus |> * kinkuoti * Aš nesu mėgsta naudoti smarthosts, pats<| Lietaus |>, nes ji remiasi tiek nuotolinio kompiuterio ir jūsų serveris yra protingas<| Lietaus |> ir per dažnai jūs praleidote vieną abiejų šių tikslų
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+SourceForge požiūris yra patalpinti visi projektus kai nuobodus"Atviro kodo surburbia", kur visi namai yra panašūs, nes tikspalvos ir nedideli stiliaus variacijos (kuris pastato planas buvo naudojamas, už kuriuosypač namas) yra leidžiama pagal ribojančiais susitarimais ir vietoszonavimo įstatymai. Sourceforege yra atviro kodo atitikmuo išpadalinys filme "Edvardas Žirkliarankis".
+		-- Terry Lambert
+
+%
+<Apsk> Knghtbrd: IRC neturi sudaryti kodas C labai gerai;)
+		-- Terry Lambert
+
+%
+* | Lietaus | rengia daugiakampio sriuba<| Lietaus |> saldus gailestingas šūdas, jis veikia?* | Lietaus | faints
+		-- Terry Lambert
+
+%
+"Kadangi tai yra išankstinė išvada, kad" Microsoft "bus šiukšlinti savo XMLsu rodyklėmis į Win32-komponentus, geriausia, kad būtų galima pasakyti ir apiejo priėmimas XML yra tai, kad bus lengviau naršyklėms irparaiškas ne Windows platformose suprasti dalis, kuriosdokumentas turi ignoruoti. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robertas> aš suprantu yra keletas protingų ribų laisvo žodžio         Amerikoje, pavyzdžiui aš negaliu rėkti Fire į perkrautas teatro.. Bet aš galiu rėkti ugnį į teatrą tik 5 ar 6 poeple	 jame ?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<AAV> kavos ant tuščio skrandžio yra gana nasy<Knghtbrd> AAV: laikas paleisti į automatuose už Cheetos<AAV> Cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Lietaus |> su sveiko proto kodas, gal galėčiau išsiaiškinti atvaizdavimo :)<LordHavoc> lietų aš tikriausiai bus viena raštu atvaizdavimo<| Lietaus |> gerai, ER, uh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Lietaus |> Knghtbrd: leiskite man duoti jums prieigą prie zonų rinkmenų<Knghtbrd> O dievai - jūs suprasite, aš niekada grojo su įpareigoti dešinėje?<| Lietaus |> uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> Žiūrėk, atmeta, tai #OpenGL ne #GEEKSEX.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* TwingyAFK yra pirkinių 17 "plokščios skydelyje* AAV parduoda TwingyAFK faneros gabalas
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Ar ne gėdingai, kai jūs turite eiti į kai kurias vaistinė"specialius elementus", ir kai jūs patikrinti, kasininkas žiūri į tavepavyzdžiui, "O, aš žinau, ką jūs darote šį vakarą ..."Taip, tai kasininkas skaityti visus ženklus ... konservuotų vištienos sriuba, TheraFlu,Salės, NyQuil, kad bigass buteliai OL ir greipfrutų sulčių ... Jis žinojo,ir aš žinojau, kad aš turėjo datą su teevee ir žemyn šalikas. awwwtaip.
+		-- Elizabeth Kirkindall
+
+%
+Mokslo Tai dažnai atsitinka, kad mokslininkai teigia, "Jūs žinote, kad tai tikraigeras argumentas; mano pozicija yra klaidinga ", tada jie iš tikrųjų keistijų protai ir jūs niekada išgirsti tą seną vaizdą iš jų dar kartą. jie tikraidaryk. Ji nėra atsitikti taip dažnai, kaip turėtų, nes mokslininkaižmogaus ir pokytis kartais skausminga. Bet tai atsitinka kiekvieną dieną. Aš negaliuprisiminti, kada paskutinį kartą kažkas panašaus nutiko politikoje ar religijos.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Pridėti GF2 / 3, didokas kietąjį diską, ir 15 "flat panel ir           jūs turite gana pasmerktieji nešiojamą kompiuterį.<Coderjoe> GeForce du trečdaliai?<Knghtbrd> Coderjoe: Taip, GeForce du trečdaliai, ty bet kortelę iš ATI.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo "Skelbia GCN Populiariausi konsolės kada nors<Knghtbrd> Kam jie juokauji?<Gyvsidabrio> knghtbrd: akcininką?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> iš Windoze menininkų dauguma neturi gebėjimą            išsaugoti xpm<Gyvsidabris> LordHavoc: Jie neturi Notepad? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+"Linux" palaiko komandinės eilutės sąvoką arba dėl tos pačios priežasties lukštaiskad tik vaikai skaito knygas su tik nuotraukomis į juos. Kalba, ar tai būtųAnglų ar kažkas, yra vienintelė priemonė, pakankamai lanksti, kad atliktipakankamai platus asortimentas užduotis.
+		-- Bill Garrett
+
+%
+## Pritarimo,: sukilėlių (razzin "frazzin" motherfu ... kvaila DirectX ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: nebūčiau Kow, nematau už spellchecker poreikį dar<Knghtbrd> jums buvo pasakyti?
+		-- Bill Garrett
+
+%
+<Knghtbrd> aš geriau įdėti kaltinamieji stuff į kodą: ahfuiovka           ikperoa edfr ADE 9 enbuw ejasxleme KA iena df4mesa<Knghtbrd> Jei gali iššifruoti, kad esate geriau kriptografę nei I           esu. =)
+		-- Bill Garrett
+
+%
+<RCW> liiwi: printk ( "CPU0 dėl priešgaisrinės \ n");
+		-- Bill Garrett
+
+%
+<Elektro> Mano kompiuteris kažkada buvo vienas iš statybinių blokų puikus          piramidė
+		-- Bill Garrett
+
+%
+PRANEŠIMAS: kas nors matė rūkyti bus laikoma ant ugnies ir bus        trumpai irtis.
+		-- Bill Garrett
+
+%
+<Markm> C ++: galia, elegancija ir paprastumas granata
+		-- Bill Garrett
+
+%
+<Knghtbrd> bet vienas tarsi už skirtuko ir nė Sąrašą neabejotinai yra geriau nei           O (n + n ** 2) už skirtuko ir O (n ** 2) už sąrašą.<Knghtbrd> OMG, kas šaudyti mane.<Coderjoe2>?<Knghtbrd> Aš negaliu patikėti, aš tiesiog panaudojo didelę Žąsų kiaušinių paaiškinti, kodėl mano           būdas yra turbūt geriausiai ilgalaikėje perspektyvoje.
+		-- Bill Garrett
+
+%
+<Hoponpop> mano programa veikia, jei aš imti klaidas.
+		-- Bill Garrett
+
+%
+<Gyvsidabris> Knghtbrd: Ei, Perlas turi maitinimo malonę ir elegancija rogės          plaktukas. (=:]<| Lietaus |> tikrai malonė ir elegancija, vistiek
+		-- Bill Garrett
+
+%
+<DannyS> Hit beždžionė laimėti $ 20 (*)!* Knghtbrd gauna iš savo plaktuku.* Knghtbrd augalai tvirtai jį DannyS "galva.* Knghtbrd imsis jo $ 20 O. = D
+		-- Bill Garrett
+
+%
+<Gholam> gerai Aš sužavėtas<Gholam> Win98 sugebėjo katastrofos X nuo per VMware.* Gholam džiaugiasi.
+		-- Bill Garrett
+
+%
+"Nvidia" OpenGL vairuotojai yra mano "aukso standartas", ir tai buvo ganao kadangi aš turėjo pranešti apie problemą jiems, ir net savo prekės ženkląNaujų plėtiniai veikia kaip dokumentais pirmą kartą aš pabandyti juos. Kai turiuproblema ant Nvidia, manau, kad tai mano kaltė. Su kur norsvairuotojai, manau tai jų kaltė. Tai paaiškėjo teisingas beveikVisą laiką."
+		-- John Carmack
+
+%
+Libtool shared library perkeliamumas yra tik šiek tiek daugiau nei tikėtinaperpetuum mobile mašinos. Ypač AIX :). "
+		-- David Leimbach
+
+%
+<Overfiend> tai yra Naujoji Overfiend, pamokslininkas meilės ir tolerancijos
+		-- David Leimbach
+
+%
+<Hoponpop> tarp NetBSD, FreeBSD, OpenBSD ir skirtumas, kaip pagal           viešai yra FreeBSD yra suinteresuoti gauti dalykų nuveikti, irneturi proto kenkia žmonių, kurie gauna į savo kelią.<Hoponpop> NetBSD domina todėl, kad nieko bus padaryta, ir           neturi proto kenkia žmonėms, kurie bando pasiekti dalykų.<Hoponpop> OpenBSD yra suinteresuota ieško gerai ir negadina niekam           savo mažai bendruomenei, bet atkreipti dėmesį visiems kitiems!
+		-- David Leimbach
+
+%
+<Liiwi> Taigi, kas oficialus būdas gauti buildd pabandyti dar kartą paketą? prod        jis su lazda?<Joey> prod Neuro<Liiwi> su lazda?<Joey> Taip.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... jūs daugiau nei tikėtina, peržvelgti visus kompiliatorių rūšių           įspėjimai slinkimą ekrane. Tai yra normalu ir galibūti saugiai ignoruojami ".<LordHavoc> Knghtbrd: yra, kad pridėta pastaba, kad kai M $ kodą?<Knghtbrd> Ne, tai pastaba apie GNU daiktų krūva.
+		-- David Leimbach
+
+%
+<Hidroksidas> knightbrd: nuo knightbrd.brain import * :)<Knghtbrd> Oh dievus, jei jis buvo taip paprasta ..<Knghtbrd> iš carmack.brain importo OpenGL
+		-- David Leimbach
+
+%
+<LIM> Mmmm, multitextured spurgos ....<Knghtbrd> Lim: su vaisiais įdaru?<LIM> knghtbrd: šokolado kremas ...
+		-- David Leimbach
+
+%
+<StevenK> Jūs perrašyti dalys žemės drebėjimo * Python *?<Knghtbrd> MUAHAHAHA
+		-- David Leimbach
+
+%
+## A_nick (nobody@c213-89-87-111.cm-upc.chello.se) prisijungė #python<A_nick> Kaip pridėti naują raktą į žodyną?<A_nick> nm,<Brūkšnys> Heh :)<Brūkšnys> štai problemų sprendimo galią #python.
+		-- David Leimbach
+
+%
+<Hop_> turėjau kažką, kad aš manau, buvo vištienos, kuri buvo padengta raudona       pasta, kad atrodė, kad būti sudarytas iš šarmu pagal tai, kiek mano       tounge ji sudegė toli.<Hop_> Mūsų draugas, kuris yra Indijos sakė tai, kodėl dauguma indėnai yra ploni       cituoju "Ji neatsižvelgia labai daug šio maisto, kad jums       patenkinti enoguh nustoti valgyti. "
+		-- David Leimbach
+
+%
+<Ketinimas> "Tai klasikinis prasismelkti viršų Ekonomika, pripažįstant, kad pinigai            yra kaip mėšlo: Jis geriausiai veikia, jei jūs skleisti ją aplink. "<Knghtbrd> Ketinimas: Carter koreliacijos: Žmonės su daugybe arba           paprastai kvapas juokinga<Ketinimas> Knghtbrd: tave taip laimėti.
+		-- David Leimbach
+
+%

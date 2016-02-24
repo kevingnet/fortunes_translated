@@ -1,0 +1,129 @@
+Debian Tīwhiri # 44: Ka taea e koe te whai i te pūkete Identi.ca hoki Debian ie taea hoki http://identi.ca/debian atu pārongo o Debian i Identicakia kitea i: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Tīwhiri # 1: Ka taea e koe te pūrongo i te bug i roto i te mōkihi ki te 'reportbug' whakahau,i te mea e wātea ana i roto i te mōkihi reportbug, rānei i te rārangi-whakahau raneiki te frontend kauwhata hou (e wātea ana rere 'reportbug gtk2 --ui' ranei i roto ite tahua).
+
+%
+Debian Tīwhiri # 2: Ka taea e koe te whakamahi i 'dpkg-Anō <mōkihi>' ki te huri i tetali hoatu koe ki te pātai ka ui, no koutou tuatahi tāuta te mōkihi.Te mōkihi 'whirihora-Debian' whakarato te mutunga mua kotahi mō te mahi i tēnei,rite te pai.
+
+%
+Debian Tīwhiri # 3: Ka taea e koe te whakamahi i rānei 'rapu pai-keteroki <kupu>' ranei'Māiatanga rapu <kupu>' ki te rapu hoki nga kupu i roto i nga whakamārama o katoapōkai wātea.
+
+%
+Debian Tīwhiri # 4: Ka taea e kite koe i nga putanga e wātea ana, me te tāuta hoki kotahiranei pōkai wātea ake ki te 'kaupapa here pai-keteroki <pōkai>' whakahau.
+
+%
+Debian Tīwhiri # 5: Ki te hiahia koe ki te hanga i te pata ritenga, te whakamahi i te 'hanga-kpkg'hōtuhi kitea i roto i te mōkihi pata-mōkihi.
+
+%
+Debian Tīwhiri # 6: Kahore he tohu # 6. Tuku i te tīwhiri i tenei ra!
+
+%
+Debian Tīwhiri # 7: Ka taea e koe te whakamahi i te mōkihi cron-pai ki te mahi i pō aunoatikiake o whakahōunga mō pōkai tāuta i runga i tou pūnaha.
+
+%
+Debian Tīwhiri # 8: Ki te whai koe raruraru ki Debian e kore e taea e koe te whakaoti ite tai'oraa i te mau buka, me te tuhinga, tamata tono i runga i te Kaiwhakamahi Debianrārangi mēra (debian-user@lists.debian.org).
+
+%
+Debian Tīwhiri # 9: Ki te hiahia koe ki te mohio he aha te putanga o Debian kei tēnei wā koutourere, titiro i roto i / etc / debian_version ranei whakamahi 'lsb_release -sc' whakahau. Ki te koee hiahia ana ki te mohio ki te codename mo taua putanga (hei tauira, hurupoki 5.0 te'Lenny'), tirohia tenei URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Tīwhiri # 10: He Debian rārangi mēra mō katoa i kaiwhakamahipātai ki tautohetohe i runga i te mea ki te hoatu ki te tuhinga Kaupapa Debian.Tirohia te rārangi i http://www.debian.org/MailingLists/ ka ohauru kite hunga e anaanatae koutou.
+
+%
+Debian Tīwhiri # 11: Kia ake ki te rā i runga i te mea kei te haere i runga i - lau te DebianProject News. A tai'oi te reira i runga i te tukutuku i http://www.debian.org/News/weekly/
+
+%
+Debian Tīwhiri # 12: Ko te mōkihi grep-dctrl whakarato he maha o hōtuhi whai huahoki hohoro rapu ngā kōnae mana mōkihi (pērā i te wāteakōnae pōkai).
+
+%
+Debian Tīwhiri # 13: Ki te kore koe e rite i te kōwhiringa taunoa whakamahia i roto i te Debianmōkihi, ka taea e koe te tiki i te pūtake, me te hanga i te putanga e whakamahia tekōwhiringa hiahia koe. kite http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Wāhanga 6.13 me 6.14) mo ētahi atu mōhiohio.Heoi, pea i roto i te ngakau e taea te whirihora te nuinga kōwhiringa i roto i te nuinga o pōkaii te wā, me te kore e rapua e recompiling te mōkihi.
+
+%
+Debian Tīwhiri # 14: Ki te hiahia koe ki te whai mea e puta ana ki te mōkihi(Hei tauira, ki te hiahia koe ki te kite i ngā pūrongo bug, tuku pānui, me te tahi atumea rite), whakaaro ohauru ki reira i runga i te Pūnaha Aroturuki Mōkī.Ka taea e kitea e koe i roto i atu e pā ana ki te PTS i:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Tīwhiri # 15: Ko te tuhinga hoki te pōkai e taea te tikanga kia kiteai raro i / usr / share / doc / <mōkihi>. I roto i ngā, kōnae te README.Debian mahaHe mōhiohio whai hua e pā ana ki quirks Debian-motuhake ranei tohutohu.
+
+%
+Debian Tīwhiri # 16: Ki te rapu koe mo te kōnae ngā, engari kahore e mohioe mōkihi no reira ki, tamata tāuta '-kōnae pai', e pupuritia hepātengi raraunga iti o tenei mōhiohio, rapu ranei nga tirotiro o te DebianPōkai pātengi raraunga, e taea te mahi i:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Tīwhiri # 17: Me te tangata ki te kōrero ki e pā ana ki Debian? Ki te kei whakamarie koeki Ipurangi Relay Chat (IRC), tāuta tika koutou kiritaki IRC tino, auru #debian runga irc.debian.org.
+
+%
+Debian Tīwhiri # 18: Kounga mōhiohio mana e pā ana ki te mōkihi taea te kiteana roto i te haere ki te http://packages.qa.debian.org/ <mōkihi>; tenei whārangi whakaratohononga ki te whārangi QA o te kaiwhakamau, nga BTS, tūemi rongo mo te mōkihi, mengā mōhiohio i runga i nei e wātea ana i roto i nei pukapuka putanga.
+
+%
+Debian Tīwhiri # 19: Ki te hiahia i roto i te hanga pōkai koutou i pūtake, koutouMe whai whakaaro te tāuta i te mōkihi pai-src.
+
+%
+Debian Tīwhiri # 20: E hiahia ana ki te aroturuki o te mea putanga o te mōkihi i koetāuta (rawa whai hua mō te hunga rere ranu pūmau / whakamātautau /pūnaha iu)? Tirohia pai-whakaatu-putanga.
+
+%
+Debian Tīwhiri # 21: Ki te tou pouaka Debian ko muri te hononga whatunga puhoi,engari whai wāhi ki te tangata nohopuku koe rite te pai, tirohia i roto i te mōkihi pai-zip.
+
+%
+Debian Tīwhiri # 22: Miharo i Debian whakaata he pai hoki a koutou? Tirohiate pai-tutei me pōkai netselect-pai, e taea te hoatu e mōhiohio koee pā ana ki te pehea ngā pae whakaata mahi.
+
+%
+Debian Tīwhiri # 23: Ki te te te whakamahi i tou pūnaha mokowā kōpae rawa nui, tamata i tedeborphan mōkihi; Ka taea e whakahere te reira mau mana'o e pā ana ki e kia pōkaikāore a tango. A, o te akoranga, e kore e wareware ki te horoi i terohe keteroki pai (te whakamahi i 'pai-tiki ma', 'aravihi ma', raneiMahi o te māiatanga -> Clean mōkihi keteroki tūemi tahua).
+
+%
+Debian Tīwhiri # 24: Ki te hiahia koe ki te whakawhetai te kaiwhakamau mō te whāwhā i tetake, tirohia i roto i --kudos reportbug.
+
+%
+Debian Tīwhiri # 25: Kei roto i te mōkihi 'Debian-tohutoro' he momo whānuio te tohutoro tuhinga mō te Debian kaiwhakamahi me ngā. Te nuinga o tetaea hoki te kitea ngā mōhiohio i te URL e whai ake:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Tīwhiri # 26: Ki te kore e te mōkihi titiro ki te whai nui tuhinga,tirohia hoki te mōkihi, ko '<mōkihi> -doc' ranei rite, me te kia tino kitāuta te reira rite pai; pōkai ki nui o te tuhingawā wahia te tuhinga i roto i tenei tikanga mo te hunga e kore e nei hiahia kitāuta ratou.
+
+%
+Debian Tīwhiri # 27: tamau manatoko koutou pūrua. * E koe * te haapa'oraa i pūrua,matau? Matau? Ki te kahore, tīmata ki te uku (1) ranei meatia (1).
+
+%
+Debian Tīwhiri # 28: Ki te kahore to koutou mīhini ki katoa o te wa (pēnei i tepona), tirohia i roto i te mōkihi 'anacron'; ka kia e auau teneitupu tonu ngā mahi, ara, ki te kahore he ki runga ki te mīhini i te wa ratou i paitikanga tīmata.
+
+%
+Debian Tīwhiri # 29: Kia koutou karaka pūnaha tika - Mihini e kua tahuri i runga ite nuinga katoa o te wa ranei e whai i te mōkihi 'ntp' tāuta ki te pupuri i te watika i roto i waenganui i reboots.
+
+%
+Debian Tīwhiri # 30: Ka taea te hanga wātea tuhinga i http: // localhost /na roto i te tāuta i te 'doc-turanga' a 'doc-pokapū' pōkai me ratouririki.
+
+%
+Debian Tīwhiri # 31: Mono he mahi tikanga-itoito i roto i te runlevel motuhakekia meatia e te huri i te hono S i roto i te /etc/rc<level>.d ki te hono K,nui atu i te tango i katoa i te hono; ki te e tangohia hononga katoa, teka amo pūnaha i runga i te muri tāuta e hiahia ratou ki te whakakapi.
+
+%
+Debian Tīwhiri # 32: Ko te mōkihi 'doc-Debian' kei etahi whānuituhinga e pā ana ki te kaupapa Debian. He wātea hoki te reira i roto i Spanish(Doc-Debian-es), Wīwī (doc-Debian-fr) me Ukrainian (doc-Debian-uk).
+
+%
+Debian Tīwhiri # 33: Ko te mōkihi 'devscripts' kei etahi hōtuhi whai hua hokikaiwhakamahi e hiahia ana ki te āwhina i ki te whakapai ake Debian, hei tauira wnpp-mataara, rc-mataara me bts.
+
+%
+Debian Tīwhiri # 34: Ki te hiahia koe ki te aroturuki i Debian Sid me te whai i te download itimotunga he hononga tino pōturi ranei, tirohia i roto i te mōkihi debdelta.
+
+%
+Debian Tīwhiri # 35: I roto i te rapu hoki te tahi mau kēmu? E mau ki te titiro i 'goplay', etuku he frontend pai mō te tirotiro i roto i te ahua katoa o kēmu.
+
+%
+Debian Tīwhiri # 36: Me he mōkihi hōu atu tukuna ki a Debian whakamutungatuku eu, engari e kore e hiahia ana ki te whakapai ake ki te 'whakamātautau' ranei 'iu'? ētahiE puritia ana-ki-te rā pōkai mā te huinga pūmau-whakahōunga, etahi ētahi atu hehanga wātea i backports.debian.org.
+
+%
+Debian Tīwhiri # 37: E hiahia ana ki te tikiake i te mōkihi kahore tāuta te reira? whakamahi'Download māiatanga <pkgname>'.
+
+%
+Debian Tīwhiri # 38: E hiahia ana ki te mohio me pehea koe e taea e te whakamahi i tētahi hōtaka e kore kua whakamahia e koei mua? "Tangata" ka waiho koutou hoa hou pai! Momo "tangata <hōtaka-ingoa>" i roto i teanga. , Ranei rere "tangata -H <hōtaka-ingoa>" ki te pānui i te whārangi ā-ringa i roto i te pūtirotiro.
+
+%
+Debian Tīwhiri # 39: Te whakapai ake ripa-otinga o Bash i te tāuta i temōkihi Bash-otinga.
+
+%
+Debian Tīwhiri # 40: Ki te tāuta koe i te pōkai whakahau-kore-kitea, ngana kirere i te whakahau e kore e koe i tāuta ka korero ki a koutou te mea mōkihi ki te tāuta kiwhiwhi i taua whakahau.
+
+%
+Debian Tīwhiri # 41: Ka taea e koe te whakamahi i 'pai-keteroki whakaatu <package_name>' ranei 'whakaaturanga māiatanga<Package_name> 'ki te tiki atu mōhiohio e pā ana te mōkihi Debian.
+
+%
+Debian Tīwhiri # 42: Ka taea e koe te whakamahi i 'rārangi pai-kōnae <package_name>' ki te whiwhi i te rārangio nga tirotiro o mōkihi Debian. Ko te rite ki tenei mahi'Dpkg -L <package_name>' anake e kore e te mōkihi Me ki kia tāuta raneitikina te whakamahi i pai-kōnae i roto i te rerekē ki te dpkg.
+
+%
+Debian Tīwhiri # 43: E hiahia ana ki te mono poto koutou pātūahi iptables? whakamahi'Iptables-whakaora | engari "/ - / d; / ^ # / d; s / TULUTĀ / TALI /" | iptables-whakahoki 'ki te tangoture katoa a whakaturia te kaupapa taunoa ki TALI.
+
+%

@@ -1,0 +1,1359 @@
+BOFH tekosyy # 1:kellotaajuus
+
+%
+BOFH tekosyy # 2:auringonpilkut
+
+%
+BOFH tekosyy # 3:sähkömagneettista säteilyä satelliitin roskia
+
+%
+BOFH tekosyy # 4:staattinen nailonista alusvaatteet
+
+%
+BOFH tekosyy # 5:staattinen muovista laskutikut
+
+%
+BOFH tekosyy # 6:ilmaston lämpeneminen
+
+%
+BOFH tekosyy # 7:huono tehonsäätö-
+
+%
+BOFH tekosyy # 8:staattista sähköä
+
+%
+BOFH tekosyy # 9:doppler vaikutus
+
+%
+BOFH tekosyy # 10:laitteisto stressi murtumat
+
+%
+BOFH tekosyy # 11:magneettisia häiriöitä rahaa / luottokortit
+
+%
+BOFH tekosyy # 12:kuiva nivelet pistokkeen
+
+%
+BOFH tekosyy # 13:odotamme [puhelinyhtiön] vahvistaa, että linja
+
+%
+BOFH tekosyy # 14:kuulostaa Windows ongelmia, kokeile soittamalla Microsoft tuki
+
+%
+BOFH tekosyy # 15:väliaikainen reititys anomalia
+
+%
+BOFH tekosyy # 16:joku oli laskettaessa pi palvelimelle
+
+%
+BOFH tekosyy # 17:rasvaa elektronit linjat
+
+%
+BOFH tekosyy # 18:ylimäärä ylijännitesuoja
+
+%
+BOFH tekosyy # 19:liukuvan pilkun prosessorissa ylivuoto
+
+%
+BOFH tekosyy # 20:jaa-nolla virhe
+
+%
+BOFH tekosyy # 21:POSIX noudattamista ongelma
+
+%
+BOFH tekosyy # 22:monitorin resoluutio liian korkea
+
+%
+BOFH tekosyy # 23:väärin suunnatun näppäimistö
+
+%
+BOFH tekosyy # 24:verkkopaketteja ylämäessä (käytä kirjekyyhkynen)
+
+%
+BOFH tekosyy # 25:Vähenevät elektroni vuon
+
+%
+BOFH tekosyy # 26:jälkeinen lauantai ensimmäisen täyden kuun talvella
+
+%
+BOFH tekosyy # 27:radiosity ehtyminen
+
+%
+BOFH tekosyy # 28:CPU jäähdytin rikki
+
+%
+BOFH tekosyy # 29:Se toimii niin Wang teki, mikä on ongelma
+
+%
+BOFH tekosyy # 30:positron reititin toimintahäiriö
+
+%
+BOFH tekosyy # 31:matkapuhelin häiriöitä
+
+%
+BOFH tekosyy # 32:techtonic stressi
+
+%
+BOFH tekosyy # 33:pietsosähköiset häiriö
+
+%
+BOFH tekosyy # 34:(L) käyttäjän virhe
+
+%
+BOFH tekosyy # 35:toimi suunnitellulla
+
+%
+BOFH tekosyy # 36:dynaaminen ohjelmisto yhdistää taulukko vioittunut
+
+%
+BOFH tekosyy # 37:raskas painovoima vaihtelu, siirrä tietokone lattiaan nopeasti
+
+%
+BOFH tekosyy # 38:sihteeri kytketty hiustenkuivaaja osaksi UPS
+
+%
+BOFH tekosyy # 39:terroritoiminnan
+
+%
+BOFH tekosyy # 40:Muisti ei riitä, mene saada järjestelmän päivitys
+
+%
+BOFH tekosyy # 41:keskeytys konfigurointivirhe
+
+%
+BOFH tekosyy # 42:spagetti kaapeli syy paketti vika
+
+%
+BOFH tekosyy # 43:pomo unohti järjestelmän salasana
+
+%
+BOFH tekosyy # 44:pyhäpäivänä - järjestelmän ollessa ov ei ladata
+
+%
+BOFH tekosyy # 45:viruksen hyökkäys, Luser vastuussa
+
+%
+BOFH tekosyy # 46:jätevesisäiliö overflowed päälle tietokone
+
+%
+BOFH tekosyy # 47:Täydellinen ohimenevä lukitus
+
+%
+BOFH tekosyy # 48:huono eetteri kaapelit
+
+%
+BOFH tekosyy # 49:Bogon päästöt
+
+%
+BOFH tekosyy # 50:Muutos Maan pyörimisnopeuden
+
+%
+BOFH tekosyy # 51:Kosmisten säteiden hiukkaset kaatui kiintolevyn kautta lautasella
+
+%
+BOFH tekosyy # 52:Haju epähygieenistä janitorial henkilöstön tuhonneet nauhapäänsä
+
+%
+BOFH tekosyy # 53:Pikku hamsterin juoksupyörän ollut sepelvaltimon; odottamassa korvaava voidaan Fedexed Wyoming
+
+%
+BOFH tekosyy # 54:Evil koirien hypnotisoinut yövuoro
+
+%
+BOFH tekosyy # 55:Putkimies mistook reititys paneeli koristelussa seinätelineestä
+
+%
+BOFH tekosyy # 56:Sähköasentajat tehty popcorn virtalähde
+
+%
+BOFH tekosyy # 57:Groundskeepers varasti pääkäyttäjän salasana
+
+%
+BOFH tekosyy # 58:korkeapaine vika
+
+%
+BOFH tekosyy # 59:epäonnistui tutkimuksissa järjestelmä tarvitsee uudelleen
+
+%
+BOFH tekosyy # 60:Järjestelmä on muistettava
+
+%
+BOFH tekosyy # 61:ei hyväksynyt FCC
+
+%
+BOFH tekosyy # 62:täytyy kääriä järjestelmän alumiinifolioon korjata ongelman
+
+%
+BOFH tekosyy # 63:ei ole maadoitettu oikein, ota haudata tietokone
+
+%
+BOFH tekosyy # 64:CPU tarvitsee uudelleenkalibrointia
+
+%
+BOFH tekosyy # 65:järjestelmä on käynnistettävä uudelleen
+
+%
+BOFH tekosyy # 66:bittinen ämpäri ylivuoto
+
+%
+BOFH tekosyy # 67:purkaa koodi tarvitaan ohjelmistoyritys
+
+%
+BOFH tekosyy # 68:saatavana vain tarve tietää perusteella
+
+%
+BOFH tekosyy # 69:solmu kaapelit aiheutti tietovirta vääntyä ja taittunut
+
+%
+BOFH tekosyy # 70:pesintä torakoita oikosulussa eetteri kaapeli
+
+%
+BOFH tekosyy # 71:Tiedostojärjestelmä on täynnä sitä
+
+%
+BOFH tekosyy # 72:Saatana teki sen
+
+%
+BOFH tekosyy # 73:Daemons teki sen
+
+%
+BOFH tekosyy # 74:Sinä olet muisti
+
+%
+BOFH tekosyy # 75:Ei ole mitään ongelmaa
+
+%
+BOFH tekosyy # 76:Unoptimized kovalevy
+
+%
+BOFH tekosyy # 77:Kirjoitusvirhe koodin
+
+%
+BOFH tekosyy # 78:Kyllä, kyllä, sen kutsutaan suunnittelu rajoitus
+
+%
+BOFH tekosyy # 79:Katso, kaveri: Windows 3.1 IS General Protection Fault.
+
+%
+BOFH tekosyy # 80:Se on hyvä tietokone olet siellä; oletko harkinnut, miten se toimisi BSD kone?
+
+%
+BOFH tekosyy # 81:Suokaa anteeksi, minun täytyy piiri AC linjan kautta pääni päästä tietokantaan työ.
+
+%
+BOFH tekosyy # 82:Joo, yo mama mekkoja sinulle hauska ja tarvitset hiiren poistaa tiedostoja.
+
+%
+BOFH tekosyy # 83:Tukihenkilöstö ripustettu yli, lähettää aspiriinia ja palata myöhemmin.
+
+%
+BOFH tekosyy # 84:Joku seisoo Ethernet-kaapelilla, jolloin mutka kaapeli
+
+%
+BOFH tekosyy # 85:Windows 95 dokumentoimaton "ominaisuus"
+
+%
+BOFH tekosyy # 86:runt paketit
+
+%
+BOFH tekosyy # 87:Salasana on liian monimutkainen purkaa
+
+%
+BOFH tekosyy # 88:Boss 'lapsi sekaisin kone
+
+%
+BOFH tekosyy # 89:Sähkömagneettinen energian menetystä
+
+%
+BOFH tekosyy # 90:Budjetti leikkaukset
+
+%
+BOFH tekosyy # 91:Hiiri pureskella kautta virtajohto
+
+%
+BOFH tekosyy # 92:Tunkkainen tiedosto kahva (seuraavan kerran käyttää Tupperware (tm)!)
+
+%
+BOFH tekosyy # 93:Ominaisuus ei ole vielä toteutettu
+
+%
+BOFH tekosyy # 94:Internet katkos
+
+%
+BOFH tekosyy # 95:Pentium FDIV bug
+
+%
+BOFH tekosyy # 96:Myyjä ei enää tue tuote
+
+%
+BOFH tekosyy # 97:Pieneläinten kamikaze hyökkäys virtalähteet
+
+%
+BOFH tekosyy # 98:Myyjä laittaa vika siellä.
+
+%
+BOFH tekosyy # 99:SIMM ylikuulumista.
+
+%
+BOFH tekosyy # 100:IRQ keskeyttäneiden
+
+%
+BOFH tekosyy # 101:Tiivistetty Backbone
+
+%
+BOFH tekosyy # 102:Voimayhtiö testata uusia jännite piikki (luominen) laitteet
+
+%
+BOFH tekosyy # 103:operaattorit lakossa takia rikki kahvinkeitin
+
+%
+BOFH tekosyy # 104:varmuuskopio nauha päälle kirjoitetaan kopio järjestelmän johtaja suosikki CD
+
+%
+BOFH tekosyy # 105:UPS keskeytti palvelimen teho
+
+%
+BOFH tekosyy # 106:Sähköasentaja ei tiennyt mitä keltainen kaapeli oli niin hän jenkki ethernet ulos.
+
+%
+BOFH tekosyy # 107:Näppäimistö ei ole kytketty
+
+%
+BOFH tekosyy # 108:Ilmastointi veden syöttöputki revennyt yli konehuoneessa
+
+%
+BOFH tekosyy # 109:Sähköaseman pysäköintialueen räjähti.
+
+%
+BOFH tekosyy # 110:Rolling Stones konsertti tiellä aiheutti ruskean ulos
+
+%
+BOFH tekosyy # 111:Myyntimies ajoi yli CPU.
+
+%
+BOFH tekosyy # 112:Monitori on kytketty sarjaportti
+
+%
+BOFH tekosyy # 113:Root nimipalvelimet ovat epätahdissa
+
+%
+BOFH tekosyy # 114:sähkömagneettiset pulssit Ranskan maanpäällinen ydinase testaus.
+
+%
+BOFH tekosyy # 115:näppäimistön välilyöntinäppäintä tuottaa vääriä näppäinkoodeilla.
+
+%
+BOFH tekosyy # 116:real ttys tuli pseudo ttys ja päinvastoin.
+
+%
+BOFH tekosyy # 117:Tulostimen arvelee reititin.
+
+%
+BOFH tekosyy # 118:reititin ajattelee sen kirjoitin.
+
+%
+BOFH tekosyy # 119:paha hakkereita Serbia.
+
+%
+BOFH tekosyy # 120:me vain siirtynyt FDDI.
+
+%
+BOFH tekosyy # 121:Halonien laukesi ja tappoi toimijoille.
+
+%
+BOFH tekosyy # 122:koska Bill Gates on Jehovan todistaja ja niin mikään ei voi työskennellä St. Swithin päivä.
+
+%
+BOFH tekosyy # 123:käyttäjän tietokoneelle suhde liian korkea.
+
+%
+BOFH tekosyy # 124:käyttäjän tietokoneelle annos liian alhainen.
+
+%
+BOFH tekosyy # 125:me vain siirtynyt Sprint.
+
+%
+BOFH tekosyy # 126:se on Intel Inside
+
+%
+BOFH tekosyy # 127:Tahmea bittiä levyllä.
+
+%
+BOFH tekosyy # 128:Power Company ottaa EMP ongelmia niiden reaktori
+
+%
+BOFH tekosyy # 129:Rengas tarvitsee toisen symbolinen
+
+%
+BOFH tekosyy # 130:uusi johto
+
+%
+BOFH tekosyy # 131:telnet: Ei voida yhdistää etäkoneelle: yhteys evätty
+
+%
+BOFH tekosyy # 132:SCSI Chain overterminated
+
+%
+BOFH tekosyy # 133:Se ei ole kytketty.
+
+%
+BOFH tekosyy # 134:koska verkon viive johtuu liian monta ihmistä pelaa deathmatch
+
+%
+BOFH tekosyy # 135:Laitat levy ylösalaisin.
+
+%
+BOFH tekosyy # 136:Daemons irrallaan järjestelmässä.
+
+%
+BOFH tekosyy # 137:Käyttäjä oli jakamassa pornografian palvelimelle; järjestelmä takavarikoitu FBI.
+
+%
+BOFH tekosyy # 138:BNC (aivot ei kytketty)
+
+%
+BOFH tekosyy # 139:UBNC (käyttäjä aivot ei kytketty)
+
+%
+BOFH tekosyy # 140:LBNC (Luser aivot ei kytketty)
+
+%
+BOFH tekosyy # 141:levyt pyörivät taaksepäin - vaihtaa pallonpuoliskolla jumpperi.
+
+%
+BOFH tekosyy # 142:uusi kaveri ristikytketä puhelinlinjaa verkkovirralla linja.
+
+%
+BOFH tekosyy # 143:täytyi käyttää vasaraa vapauttaa jumissa levyasema päätä.
+
+%
+BOFH tekosyy # 144:Liian vähän computrons käytettävissä.
+
+%
+BOFH tekosyy # 145:Rengasta farmari kanssa nauhoja. ( "Älä koskaan aliarvioi kaistanleveys farmariauto täynnä nauhoja syytämään valtatietä" Andrew S. Tannenbaum)
+
+%
+BOFH tekosyy # 146:Tietoliikennesatelliitti armeijan käyttämät Star Wars.
+
+%
+BOFH tekosyy # 147:Party-vian Aloha-protokollaa.
+
+%
+BOFH tekosyy # 148:Aseta kolikon uuden pelin
+
+%
+BOFH tekosyy # 149:Kaste puhelinlinjat.
+
+%
+BOFH tekosyy # 150:ARCserve kaatunut palvelin uudelleen.
+
+%
+BOFH tekosyy # 151:Joku tarvitsi PowerStrip, joten he vetivät kytkin pistoke.
+
+%
+BOFH tekosyy # 152:My pony-tail osuma / off-kytkin virta ensin kiskoon.
+
+%
+BOFH tekosyy # 153:Iso little endian Muunnosvirhe
+
+%
+BOFH tekosyy # 154:Voit virittää tiedostojärjestelmä, mutta et voi säätää kala (useimmista tunefs man sivua)
+
+%
+BOFH tekosyy # 155:dumb terminaali
+
+%
+BOFH tekosyy # 156:Zombie prosessit kummittelu tietokone
+
+%
+BOFH tekosyy # 157:Virheellinen aikasynkronointi
+
+%
+BOFH tekosyy # 158:kuollut prosessit
+
+%
+BOFH tekosyy # 159:itsepäinen prosessit
+
+%
+BOFH tekosyy # 160:ei-tarpeeton tuulettimen vika
+
+%
+BOFH tekosyy # 161:seurata VLF vuoto
+
+%
+BOFH tekosyy # 162:bugeja RAID
+
+%
+BOFH tekosyy # 163:ei "mitä tahansa" näppäimistön näppäintä
+
+%
+BOFH tekosyy # 164:root rot
+
+%
+BOFH tekosyy # 165:Backbone Skolioosi
+
+%
+BOFH tekosyy # 166:/ Pub / lounas
+
+%
+BOFH tekosyy # 167:liiallinen törmäyksiä ja ei riitä paketin ambulanssit
+
+%
+BOFH tekosyy # 168:le0: no harjoittaja: lähetin kaapeli ongelma?
+
+%
+BOFH tekosyy # 169:yleislähetyspakettien väärään taajuudella
+
+%
+BOFH tekosyy # 170:Popper voi käsitellä jumbo ytimen
+
+%
+BOFH tekosyy # 171:VAROITUS: Alloc: / dev / null: tiedostojärjestelmä täysi
+
+%
+BOFH tekosyy # 172:pseudo-käyttäjä näennäispääte
+
+%
+BOFH tekosyy # 173:Rekursiivinen läpikäyminen silmukkatesti liitoskohdat
+
+%
+BOFH tekosyy # 174:Backbone säätö
+
+%
+BOFH tekosyy # 175:OS sivuttaa levylle
+
+%
+BOFH tekosyy # 176:höyryjä haihduttamalla tahmea nuotin liimat
+
+%
+BOFH tekosyy # 177:sticktion
+
+%
+BOFH tekosyy # 178:lyhyt jalka prosessi pöydän
+
+%
+BOFH tekosyy # 179:multicasts rikkoutuneiden pakettien
+
+%
+BOFH tekosyy # 180:eetteri vuoto
+
+%
+BOFH tekosyy # 181:Atilla Hub
+
+%
+BOFH tekosyy # 182:endoterminen uudelleenkalibrointia
+
+%
+BOFH tekosyy # 183:tiedostojärjestelmä ei tarpeeksi iso Jumbo Kernel Patch
+
+%
+BOFH tekosyy # 184:loop löytyy silmukka tarpeeton loopback
+
+%
+BOFH tekosyy # 185:järjestelmä kuluttaa kaikki paperi sivunvaihtoon
+
+%
+BOFH tekosyy # 186:lupa kielletty
+
+%
+BOFH tekosyy # 187:Alustamalla Page. Odota...
+
+%
+BOFH tekosyy # 188:..disk tai prosessori on tulessa.
+
+%
+BOFH tekosyy # 189:SCSI on liian leveä.
+
+%
+BOFH tekosyy # 190:Proprietary Information.
+
+%
+BOFH tekosyy # 191:Kirjoita vain 'mv * / dev / null ".
+
+%
+BOFH tekosyy # 192:karanneet kissa järjestelmään.
+
+%
+BOFH tekosyy # 193:Maksoit uusi Support maksu?
+
+%
+BOFH tekosyy # 194:Tuemme vain 1200 bps yhteys.
+
+%
+BOFH tekosyy # 195:Tuemme vain 28000 bps yhteys.
+
+%
+BOFH tekosyy # 196:Me no internet, vain talonmies, minun vain vaha kerrosta.
+
+%
+BOFH tekosyy # 197:Olen pahoillani Pentium ei tee, sinun SGI yhteydessä meihin.
+
+%
+BOFH tekosyy # 198:Post-it Huomautus Liete valui monitoriin.
+
+%
+BOFH tekosyy # 199:kiharat oman näppäimistön johto menettävät sähköä.
+
+%
+BOFH tekosyy # 200:Kytkentä vaatii toiseen ruutuun pikseliä.
+
+%
+BOFH tekosyy # 201:RPC_PMAP_FAILURE
+
+%
+BOFH tekosyy # 202:ydinpaniikki: kirjoittaa-only-muistin (/ dev / wom0) kapasiteetti ylittyy.
+
+%
+BOFH tekosyy # 203:Kirjoita-only-muistin osajärjestelmä liian hidas tähän koneeseen. Ota yhteys paikalliseen jälleenmyyjään.
+
+%
+BOFH tekosyy # 204:Vain poimia puhelimeen ja antaa modeemi yhdistää ääniä. "No sanoit meidän pitäisi saada enemmän linjat niin meillä ei ole äänilinjaa."
+
+%
+BOFH tekosyy # 205:Quantum dynamiikka vaikuttavat transistorit
+
+%
+BOFH tekosyy # 206:Poliisi tutkii kaikki internet paketit etsittäessä Narco-net-salakuljettaja
+
+%
+BOFH tekosyy # 207:Pyrimme nyt uuden käsitteen elävällä hiirtä. Valitettavasti yksi on vielä hengissä ollaan koukussa tietokoneeseen ..... ota kantaa meitä.
+
+%
+BOFH tekosyy # 208:Sähköpostisi on reititetty Saksa ... ja he sensuroinnin meitä.
+
+%
+BOFH tekosyy # 209:Vain ihmiset, joiden nimet alkavat '' saavat postia tällä viikolla (la Microsoft)
+
+%
+BOFH tekosyy # 210:Emme maksa Internet laskun ja se on leikattu pois.
+
+%
+BOFH tekosyy # 211:Salama iskee.
+
+%
+BOFH tekosyy # 212:Tietenkään se ei toimi. Olemme suorittaa ohjelmistopäivityksen.
+
+%
+BOFH tekosyy # 213:Vaihda kieli suomeksi.
+
+%
+BOFH tekosyy # 214:Loisteputket tuottavat negatiivisia ioneja. Jos kääntämällä ne pois ei toimi, ottaa ne pois ja laittaa foliota päissä.
+
+%
+BOFH tekosyy # 215:Ydinvoiman toimintaa omalla alueella.
+
+%
+BOFH tekosyy # 216:Mitä toimisto olet? Voi, että yksi. Tiesitkö, että rakennus oli rakennettu yli yliopistot ensimmäinen ydintutkimuksen sivustolla? Ja wow, etkö onnekas yksi työpaikka on oikeus yli jossa ydin on haudattu!
+
+%
+BOFH tekosyy # 217:MGs loppui bensa.
+
+%
+BOFH tekosyy # 218:UPS ei ole akkuvarmistus.
+
+%
+BOFH tekosyy # 219:Recursivity. Soita takaisin, jos se tapahtuu uudestaan.
+
+%
+BOFH tekosyy # 220:Joku ajatteli Big Red Button oli valokytkin.
+
+%
+BOFH tekosyy # 221:Mainframe tarvitsee lepoa. Se on tulossa vanha, tiedäthän.
+
+%
+BOFH tekosyy # 222:En ole varma. Yritä soittaa Internet pääkonttorista - se on kirjassa.
+
+%
+BOFH tekosyy # 223:Linjat ovat kaikki varattu (askaroineet pois, että on - miksi päästää heidät sisään aluksi?).
+
+%
+BOFH tekosyy # 224:9 tammikuu 16:41:27 Huber su: "su root" onnistuivat .... / dev / pts / 1
+
+%
+BOFH tekosyy # 225:Se sellaiset tietokoneella ihmistä X {city maailman}. He pitävät täyte asioita.
+
+%
+BOFH tekosyy # 226:Star wars satelliitti vahingossa räjäytti WAN.
+
+%
+BOFH tekosyy # 227:Vakava virhe edessä näytön
+
+%
+BOFH tekosyy # 228:Tämä toiminto ei ole tällä hetkellä tueta, mutta Bill Gates vakuuttaa se on esillä seuraavassa päivityksen.
+
+%
+BOFH tekosyy # 229:väärä napaisuus neutronien virtauksen
+
+%
+BOFH tekosyy # 230:Lusers oppimiskäyrä näyttää olevan fraktaali
+
+%
+BOFH tekosyy # 231:Meidän piti sammuttaa että palvelu noudattaa CDA Bill.
+
+%
+BOFH tekosyy # 232:Ionisaatio mistä ilmastointi
+
+%
+BOFH tekosyy # 233:TCP / IP UDP hälytys kynnys on asetettu liian alhainen.
+
+%
+BOFH tekosyy # 234:Joku broadcasting pygmy paketteja ja reititin ei osaa käsitellä niitä.
+
+%
+BOFH tekosyy # 235:Uusi frame relay verkko ei ole hengen alas ohjelmisto silmukka lähettimen vielä.
+
+%
+BOFH tekosyy # 236:Fanout pudottamalla jännite liikaa, kokeile leikkaaminen jotkut niistä vähän jälkiä
+
+%
+BOFH tekosyy # 237:Plate jännite liian alhainen demodulaattori putkeen
+
+%
+BOFH tekosyy # 238:Teit wha ... oh _dear _....
+
+%
+BOFH tekosyy # 239:CPU tarvitsee laakerit -pakkauttanut
+
+%
+BOFH tekosyy # 240:Liian monta pientä nastat CPU sekoittamalla se, taipua edestakaisin, kunnes 10-20% ovat siististi poistetaan. Älä _ei_ jätä metalli bittiä näkyvissä!
+
+%
+BOFH tekosyy # 241:_Rosin_ Ydin juottaa? Mutta...
+
+%
+BOFH tekosyy # 242:Ohjelmisto käyttää Yhdysvaltain mittauksia, mutta käyttöjärjestelmä on metrinen ...
+
+%
+BOFH tekosyy # 243:Tietokone fleetly, hiiri ja kaikki.
+
+%
+BOFH tekosyy # 244:Kissan yritti syödä hiirtä.
+
+%
+BOFH tekosyy # 245:Borg yritti omaksua järjestelmään. Vastarinta on turhaa.
+
+%
+BOFH tekosyy # 246:Sen on täytynyt olla myrskyn meillä oli (eilen) (viime viikolla) (viime kuussa)
+
+%
+BOFH tekosyy # 247:Johtuen Federal budjetti ongelmia olemme joutuneet leikata määrä käyttäjiä voi käyttää järjestelmää kerralla. (Eli ei mitään sallittua ....)
+
+%
+BOFH tekosyy # 248:Liian paljon säteilyä lähtöisin maaperästä.
+
+%
+BOFH tekosyy # 249:Valitettavasti meillä on loppunut bittiä / tavua / jotain. Älä huoli, seuraava tarjonta on tulossa ensi viikolla.
+
+%
+BOFH tekosyy # 250:Ohjelma kuormitus liian painava prosessori nostaa.
+
+%
+BOFH tekosyy # 251:Prosessit toimii hitaasti heikon virtalähde
+
+%
+BOFH tekosyy # 252:ISP on ottaa {kytkentä, reititys, SMDs, frame relay} ongelmia
+
+%
+BOFH tekosyy # 253:Olemme loppuu lisenssien
+
+%
+BOFH tekosyy # 254:Häiriöitä kuun säteilystä
+
+%
+BOFH tekosyy # 255:Seisomapaikkoja vain bussissa.
+
+%
+BOFH tekosyy # 256:Sinun täytyy asentaa RTFM liitäntä.
+
+%
+BOFH tekosyy # 257:Se olisi, koska ohjelmisto ei toimi.
+
+%
+BOFH tekosyy # 258:Se on helppo korjata, mutta en jaksa.
+
+%
+BOFH tekosyy # 259:Joku tie on kiinni tulostimessa, ja jos mitään muuta tulostetaan, hän on siinä myös.
+
+%
+BOFH tekosyy # 260:Päivitämme / dev / null
+
+%
+BOFH tekosyy # 261:Usenet uutinen on vanhentunut
+
+%
+BOFH tekosyy # 262:POP-palvelin sieppasi lumikko.
+
+%
+BOFH tekosyy # 263:Se jumissa Web.
+
+%
+BOFH tekosyy # 264:Modeemi ei puhu Englanti.
+
+%
+BOFH tekosyy # 265:Hiiren karannut.
+
+%
+BOFH tekosyy # 266:Kaikki paketit ovat tyhjiä.
+
+%
+BOFH tekosyy # 267:UPS on lakossa.
+
+%
+BOFH tekosyy # 268:Neutriino ylikuormitus nimipalvelin
+
+%
+BOFH tekosyy # 269:Sulaminen kiintolevyt
+
+%
+BOFH tekosyy # 270:Joku on sekaisin ytimen osoittimet
+
+%
+BOFH tekosyy # 271:Ytimen lisenssi on vanhentunut
+
+%
+BOFH tekosyy # 272:Netscape on kaatunut
+
+%
+BOFH tekosyy # 273:Johto hyppäsi ja osui virtakytkin.
+
+%
+BOFH tekosyy # 274:Se oli OK ennen koskettanut sitä.
+
+%
+BOFH tekosyy # 275:bit rot
+
+%
+BOFH tekosyy # 276:US Postal Service
+
+%
+BOFH tekosyy # 277:Flux Capacitor on mennyt huonosti.
+
+%
+BOFH tekosyy # 278:Dilithium Kiteet tarvitse kääntää.
+
+%
+BOFH tekosyy # 279:Staattisen sähkön reititys toimii ylös ...
+
+%
+BOFH tekosyy # 280:Traceroute sanoo, että on reititys ongelma selkäranka. Se ei ole meidän ongelmamme.
+
+%
+BOFH tekosyy # 281:Co-paikannin voi tarkistaa frame-relay portti ISDN palvelimelle.
+
+%
+BOFH tekosyy # 282:Korkealla lauhdevesi U.S.A.F prototyyppi ilma on saastunut ensisijainen aliverkon peite. Sammuta tietokone 9 päivää, ettei se vahingoitu.
+
+%
+BOFH tekosyy # 283:Ruohonleikkuri terä omassa tuulettimen tarvitse teroitus
+
+%
+BOFH tekosyy # 284:Elektroneja taivutin
+
+%
+BOFH tekosyy # 285:Tietoliikenne on päivitystä.
+
+%
+BOFH tekosyy # 286:Tietoliikenne on alentamisesta.
+
+%
+BOFH tekosyy # 287:Tietoliikenne on downshifting.
+
+%
+BOFH tekosyy # 288:Kiintolevy nukkumassa. Olkoon se herätä sen oma ...
+
+%
+BOFH tekosyy # 289:Välisten häiriöiden näppäimistön ja tuolin.
+
+%
+BOFH tekosyy # 290:CPU on siirtynyt, ja tulla hajautettu.
+
+%
+BOFH tekosyy # 291:Johtuen CDA, meillä ei enää ole root-tunnuksen.
+
+%
+BOFH tekosyy # 292:Loppui valintaääntä ja me ja odottaa puhelimen yritys toimittaa toisen pullon.
+
+%
+BOFH tekosyy # 293:Sinä varmaan juuri vääriä tahansa näppäintä.
+
+%
+BOFH tekosyy # 294:PCMCIA orja kuljettaja
+
+%
+BOFH tekosyy # 295:Token tippui rengas. Soita meille, kun se löytyy.
+
+%
+BOFH tekosyy # 296:Laitteisto bussi tarvitsee uuden tunnuksen.
+
+%
+BOFH tekosyy # 297:Liian monta keskeytykset
+
+%
+BOFH tekosyy # 298:Ei tarpeeksi keskeytykset
+
+%
+BOFH tekosyy # 299:Tiedot kiintolevyllä on epätasapainossa.
+
+%
+BOFH tekosyy # 300:Digitaalinen ohjauslaite ylittää nopeuden parametrien
+
+%
+BOFH tekosyy # 301:näyttää olevan hidas / Kapea SCSI-0 Interface ongelma
+
+%
+BOFH tekosyy # 302:mikroelektroniikan Riemannin kaareva-space vika kirjoittaa vain tiedostojärjestelmän
+
+%
+BOFH tekosyy # 303:Fractal säteily häirintä selkäranka
+
+%
+BOFH tekosyy # 304:reitityksen ongelmia hermo net
+
+%
+BOFH tekosyy # 305:IRQ-ongelmia Un-Keskeytettävissä-Virtalähteen
+
+%
+BOFH tekosyy # 306:CPU-kulma on säädettävä, koska tärinän peräisin läheisen tien
+
+%
+BOFH tekosyy # 307:päästöt GSM-puhelimet
+
+%
+BOFH tekosyy # 308:CD-ROM-palvelimen on uudelleenkalibroinnilla
+
+%
+BOFH tekosyy # 309:palomuuri tarvitsee jäähdytystä
+
+%
+BOFH tekosyy # 310:asynkroninen inode vika
+
+%
+BOFH tekosyy # 311:ohimenevä bussi protokolla rikkomisesta
+
+%
+BOFH tekosyy # 312:yhteensopimattomia bit-rekisteröinti operaattoreiden
+
+%
+BOFH tekosyy # 313:sinun prosessi ei ole ISO 9000 mukainen
+
+%
+BOFH tekosyy # 314:Sinun täytyy päivittää VESA paikallisbussilla MasterCard paikallisbussilla.
+
+%
+BOFH tekosyy # 315:Viime leviämisen ydinkokeista
+
+%
+BOFH tekosyy # 316:Tontut lakossa. (Miksi he kutsuvat EMAG Elf Magic-)
+
+%
+BOFH tekosyy # 317:Internet ylitti Luser tasolla, odota kunnes Luser kirjautuu ulos ennen kuin yrität kirjautua uudelleen.
+
+%
+BOFH tekosyy # 318:EMAIL on nyt toimitetaan USPS.
+
+%
+BOFH tekosyy # 319:Tietokone ei ole paluuta kaikki bitit se saa Internetistä.
+
+%
+BOFH tekosyy # 320:Olette tartunnan Telescoping Hubble virus.
+
+%
+BOFH tekosyy # 321:Aikataulun maailmanlaajuinen CPU katkos
+
+%
+BOFH tekosyy # 322:Your Pentium on lämmitys ongelma - kokeile jäähdyttämällä sitä jääkylmällä vedellä. (Älä käännä tietokoneen, et halua jäähtyä Pentium Chip kun hän ei toimi, vai?)
+
+%
+BOFH tekosyy # 323:Prosessorin on käsitellyt liikaa ohjeita. Sammuta se heti, älä kirjoita mitään komentoja !!
+
+%
+BOFH tekosyy # 324:Verkkopaketit söivät terminaattorin
+
+%
+BOFH tekosyy # 325:Prosessorin ei kehity tarpeeksi lämpöä.
+
+%
+BOFH tekosyy # 326:Tarvitaan sähkömieheen, joka vaihtaa hehkulamppujen tietokone huone.
+
+%
+BOFH tekosyy # 327:POP-palvelin on poissa Koksi
+
+%
+BOFH tekosyy # 328:Kuituoptiikka aiheutti kaasun pääasiallinen vuoto
+
+%
+BOFH tekosyy # 329:Server masentunut, tarvitsee Prozac
+
+%
+BOFH tekosyy # 330:dekoherenssi
+
+%
+BOFH tekosyy # 331:ne hemmetin pesukarhu!
+
+%
+BOFH tekosyy # 332:optimaalinen reititys kokemus
+
+%
+BOFH tekosyy # 333:Putkimies tarvitaan, verkko viemäri on tukossa
+
+%
+BOFH tekosyy # 334:50% käsikirja on pdf-readme-tiedostoihin
+
+%
+BOFH tekosyy # 335:AA akku wallclock lähettää magneettisia häiriöitä
+
+%
+BOFH tekosyy # 336:xy akselin trackball koordinoidaan kesäpäivänseisaus
+
+%
+BOFH tekosyy # 337:butaanisytytintä aiheuttaa pincushioning
+
+%
+BOFH tekosyy # 338:vanha inkjet patruunat ovat peräisin barium-pohjainen höyryjä
+
+%
+BOFH tekosyy # 339:johtaja kaapelikanavaan
+
+%
+BOFH tekosyy # 340:No korjaa että seuraavalla (päivitykseksi laastari vapauttaa, Service Pack).
+
+%
+BOFH tekosyy # 341:HTTPD Error 666: BOFH oli täällä
+
+%
+BOFH tekosyy # 342:HTTPD Virhe 4004: erittäin vanha Intel CPU - riittämätön laskentatehoa
+
+%
+BOFH tekosyy # 343:ATM hallitus on loppunut 10 kiloa toteaa. Käymme piiskaa kierroksella täyttää sitä, hoito auttaa?
+
+%
+BOFH tekosyy # 344:Verkon vika - soita NBC
+
+%
+BOFH tekosyy # 345:Ottaa manuaalisesti seurata satelliitin.
+
+%
+BOFH tekosyy # 346:Your / meidän tietokone (t) oli kärsinyt muistivuoto, ja odotamme niitä voidaan täydentää.
+
+%
+BOFH tekosyy # 347:Kuminauha hajosi
+
+%
+BOFH tekosyy # 348:Olemme Token Ring, ja se näyttää merkki irtosi.
+
+%
+BOFH tekosyy # 349:Stray alfahiukkaset muistista pakkauksen aiheuttamia Hard Memory Error palvelimessa.
+
+%
+BOFH tekosyy # 350:paradigman muutos ... ilman kytkintä
+
+%
+BOFH tekosyy # 351:PEBKAC (Problem välillä Näppäimistö ja tuoli)
+
+%
+BOFH tekosyy # 352:Kaapelit eivät ole samanpituiset.
+
+%
+BOFH tekosyy # 353:Toisen järjestelmän vaikutus.
+
+%
+BOFH tekosyy # 354:Purukumi on / dev / sd3c
+
+%
+BOFH tekosyy # 355:Ikävystyminen Kernel.
+
+%
+BOFH tekosyy # 356:demoneja! demoneja! kauhea demoneja!
+
+%
+BOFH tekosyy # 357:Mielelläni auttaa - se on vain, että Boss ei anna minun tietokoneen lähelle.
+
+%
+BOFH tekosyy # 358:iski Good Times virus
+
+%
+BOFH tekosyy # 359:SINULLA I / O ERROR -> Epäpätevät Operaattori virhe
+
+%
+BOFH tekosyy # 360:Your pariteettitarkis- on ylittyneet ja olet poissa välimuisti.
+
+%
+BOFH tekosyy # 361:Kommunistinen vallankumoukselliset haltuunottoa konehuoneessa ja vaativa kaikki tietokoneet samassa rakennuksessa tai he ampuvat sysadmin. Huono väärä tyhmät.
+
+%
+BOFH tekosyy # 362:Plasma putki rikkominen
+
+%
+BOFH tekosyy # 363:Out of korttien asemaan D:
+
+%
+BOFH tekosyy # 364:Sand kirput syövät Internet kaapelit
+
+%
+BOFH tekosyy # 365:rinnakkaista prosessoria käynnissä kohtisuoraan tänään
+
+%
+BOFH tekosyy # 366:ATM-solu on ei roaming-toiminnon käyttöön, muistikirjat ei voi muodostaa
+
+%
+BOFH tekosyy # 367:Ylläpitäjät sieppasi pahan kultin.
+
+%
+BOFH tekosyy # 368:Epäonnistuminen säätää kesäaika.
+
+%
+BOFH tekosyy # 369:Virus lähetetään tietokoneesta ylläpitäjille.
+
+%
+BOFH tekosyy # 370:Virus johtuu tietokoneiden ottaa suojaamatonta seksiä.
+
+%
+BOFH tekosyy # 371:Virheellisesti määritetty staattiset reittejä corerouters.
+
+%
+BOFH tekosyy # 372:Pakko tukea NT palvelimia; ylläpitäjille lopettaa.
+
+%
+BOFH tekosyy # 373:Epäilyttävät osoitin vioittunut virtuaalikone
+
+%
+BOFH tekosyy # 374:Se InterNIC vika.
+
+%
+BOFH tekosyy # 375:Juurinimipalvelin vioittunut.
+
+%
+BOFH tekosyy # 376:Budjettileikkaukset pakotti meidät myymään kaikki virtajohdot palvelimille.
+
+%
+BOFH tekosyy # 377:Joku koukussa kierretty pari johdot puhelinvastaaja.
+
+%
+BOFH tekosyy # 378:Operaattorit tappoi vuoteen 2000 bug purra.
+
+%
+BOFH tekosyy # 379:Olemme poimitaan COBOL kuin kielen valinta.
+
+%
+BOFH tekosyy # 380:Operaattorit kuoli, kun valtava pino varmuuskopionauhoilla kaatui.
+
+%
+BOFH tekosyy # 381:Robotic nauha vaihtaja mistook operaattorin tasatilanteessa varmuuskopio nauha.
+
+%
+BOFH tekosyy # 382:Joku tupakointi tietokone huone ja lähti halonijärjestelmien.
+
+%
+BOFH tekosyy # 383:Prosessorin on ottanut kyydin Taivaan Gate UFO takana Hale-Bopp komeetta.
+
+%
+BOFH tekosyy # 384:se ID-10-T error
+
+%
+BOFH tekosyy # 385:Dyslexics retyping hosts-tiedostoa palvelimissa
+
+%
+BOFH tekosyy # 386:Internet on virustarkistuksessa.
+
+%
+BOFH tekosyy # 387:Tietokoneen työehtosopimuksien on määrä päättyä keskiyöllä.
+
+%
+BOFH tekosyy # 388:Bad käyttäjä karma.
+
+%
+BOFH tekosyy # 389:/ Dev / vihjeen liittyi / dev / null
+
+%
+BOFH tekosyy # 390:Lisääntynyt auringonpilkkujen aktiivisuus.
+
+%
+BOFH tekosyy # 391:Olemme jo lähettänyt noin ilmoitus siitä.
+
+%
+BOFH tekosyy # 392:Se liitto sääntöjä. Ei ole mitään emme voi tehdä asialle. Anteeksi.
+
+%
+BOFH tekosyy # 393:Häiriöitä Van Allen Belt.
+
+%
+BOFH tekosyy # 394:Jupiter on linjassa Mars.
+
+%
+BOFH tekosyy # 395:Turhat ACL.
+
+%
+BOFH tekosyy # 396:Sähköpostipalvelin kärsineisiin UniSpammer.
+
+%
+BOFH tekosyy # 397:T-1: n ruuhkautunut vuoksi porno liikennettä uutispalvelimeen.
+
+%
+BOFH tekosyy # 398:Tiedot intranet sai reititetty extranet ja laskeutui internetissä.
+
+%
+BOFH tekosyy # 399:Olemme 100% Microsoft Shop.
+
+%
+BOFH tekosyy # 400:Olemme Microsoft. Mitä koet ei ole ongelma; se on pimeiltä ominaisuus.
+
+%
+BOFH tekosyy # 401:Myyjiä myi tuotetta emme tarjoa.
+
+%
+BOFH tekosyy # 402:Sihteeri lähettää ketjukirje kaikille 5000 työntekijää.
+
+%
+BOFH tekosyy # 403:Sysadmin ei kuullut hakulaite sammu johtuen kovaa musiikkia bar-room kaiuttimet.
+
+%
+BOFH tekosyy # 404:Sysadmin vahingossa tuhonnut kaukohakuun suuri vasaralla.
+
+%
+BOFH tekosyy # 405:Ylläpitäjiltäkin käytettävissä, koska ne ovat kokouksessa puhutaan miksi ne eivät ole käytettävissä niin paljon.
+
+%
+BOFH tekosyy # 406:Bad kouluruokaa purettu kaikki ylläpitäjiltäkin sairaalassa.
+
+%
+BOFH tekosyy # 407:Route räpyttely at NAP.
+
+%
+BOFH tekosyy # 408:Tietokoneet veden alla vuoksi SYN tulvia.
+
+%
+BOFH tekosyy # 409:Vulcan-kuolema-ote ping on sovellettu.
+
+%
+BOFH tekosyy # 410:Electrical putkijohtoina konehuoneessa sulavat.
+
+%
+BOFH tekosyy # 411:Ruuhka tiedon valtaväylä.
+
+%
+BOFH tekosyy # 412:Radial Telemetria Soluttautuminen
+
+%
+BOFH tekosyy # 413:Cow-kippaamisen kärjellä lehmän päälle palvelimelle.
+
+%
+BOFH tekosyy # 414:tachyon päästöt ylikuormitus järjestelmä
+
+%
+BOFH tekosyy # 415:Huoltoikkuna rikki
+
+%
+BOFH tekosyy # 416:Olemme ulos lähtö palvelimelle
+
+%
+BOFH tekosyy # 417:Tietokone huoneessa siirretään. Meidän järjestelmät ovat alas viikonloppuna.
+
+%
+BOFH tekosyy # 418:Ylläpitäjiltäkin kiireinen roskapostin.
+
+%
+BOFH tekosyy # 419:Toistuva uudelleenkäynnistykset järjestelmän ei ratkaise ongelmaa
+
+%
+BOFH tekosyy # 420:Ominaisuus ei beta testattu
+
+%
+BOFH tekosyy # 421:Toimialueen ohjain ei vastaa
+
+%
+BOFH tekosyy # 422:Joku muu oli IP-osoitteen, soita Internet etsiviä!
+
+%
+BOFH tekosyy # 423:Se ei ole RFC-822 yhteensopiva.
+
+%
+BOFH tekosyy # 424:Toiminto epäonnistui, koska: viestiä ei ole tätä virhettä (# 1014)
+
+%
+BOFH tekosyy # 425:stop bit vastaanotettu
+
+%
+BOFH tekosyy # 426:Internet tarvitaan kiinni etherbunny
+
+%
+BOFH tekosyy # 427:verkko alas, IP-paketit toimitetaan UPS
+
+%
+BOFH tekosyy # 428:Firmware päivitys kahvinkeitin
+
+%
+BOFH tekosyy # 429:ajallinen anomalia
+
+%
+BOFH tekosyy # 430:Hiiri on out-of-juusto-error
+
+%
+BOFH tekosyy # 431:Borg implantit epäonnistuvat
+
+%
+BOFH tekosyy # 432:Borg nanites ovat saastuneella palvelimen
+
+%
+BOFH tekosyy # 433:error: yksi huono käyttäjä löytyy edessä näytön
+
+%
+BOFH tekosyy # 434:Ilmoita luonne teknisten hätä
+
+%
+BOFH tekosyy # 435:Internet sammuttaa huoltotöiden vuoksi
+
+%
+BOFH tekosyy # 436:Daemon pakeni pentagrammi
+
+%
+BOFH tekosyy # 437:viljapeltokuvioita maissi kuori
+
+%
+BOFH tekosyy # 438:tahmea bitti on löystynyt
+
+%
+BOFH tekosyy # 439:Hot Java on mennyt kylmä
+
+%
+BOFH tekosyy # 440:Ei löydy välimuistista - olkaa paremmin tavoite ensi kerran
+
+%
+BOFH tekosyy # 441:Tiiviste on toukantuhot
+
+%
+BOFH tekosyy # 442:Troijan hevonen loppui heinää
+
+%
+BOFH tekosyy # 443:Zombie prosessit havaitaan, kone on ahdisti.
+
+%
+BOFH tekosyy # 444:ylivuotovirheen / dev / null
+
+%
+BOFH tekosyy # 445:Selaimen eväste vioittunut - joku on ollut nibbling se.
+
+%
+BOFH tekosyy # 446:Mailer-daemon on varattu polttava viestisi helvettiin.
+
+%
+BOFH tekosyy # 447:Microsoftin mukaan sen suunnittelun
+
+%
+BOFH tekosyy # 448:vi on parannettava VII
+
+%
+BOFH tekosyy # 449:greenpeace free'd mallocs
+
+%
+BOFH tekosyy # 450:Terroristit kaatui lentokone palvelimelle huoneeseen, täytyy poistaa / bin / kuormattuna. (Rm-rf / bin / kuormattuna)
+
+%
+BOFH tekosyy # 451:astropneumatic heilahtelut vesijäähdytys
+
+%
+BOFH tekosyy # 452:Joku juoksi käyttöjärjestelmän kautta oikolukija.
+
+%
+BOFH tekosyy # 453:Spider tartuntoja lämpimässä tapauksessa osat
+
+%

@@ -1,0 +1,129 @@
+Debian Užuomina # 44: Jūs galite sekti identi.ca sąskaitą Debian nehttp://identi.ca/debian Daugiau informacijos apie Debian ne Identica taip pat galirasti adresu: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Patarimas # 1: Jūs galite pranešti apie klaidą pakuotėje su "reportbug" komandą,kuri yra prieinama reportbug paketą, arba iš komandų eilutės arsu nauja grafine išorinę (galima paleisti "reportbug --ui gtk2" arba įmeniu).
+
+%
+Debian Patarimas # 2: Galite naudoti "dpkg-reconfigure <paketą>", kad pakeistiatsakymus jums davė į klausimus paklausė, kai jūs pirmą kartą įdiegta paketą.Toliau konfigūruoti-Debian "paketas suteikia vieningą priekio tai daryti,taip pat.
+
+%
+Debian Patarimas # 3: Jūs galite naudoti arba "apt-cache paieška <žodžiai>" arba"Aptitude search <žodžiai> 'ieškoti žodžių apie visus aprašymuslaisvų paketai.
+
+%
+Debian Patarimas # 4: Jūs galite pamatyti turimus ir įrengtu versijas vienasar daugiau laisvų paketai su komanda "apt-cache politikos <paketai>".
+
+%
+Debian Patarimas # 5: Jei jums reikia sukurti pasirinktinį branduolį, naudokite "makiažo kpkg"Scenarijus rasti branduolio paketo pakuotės.
+
+%
+Debian Užuomina # 6: Nėra užuomina # 6. Pateikti užuominą šiandien!
+
+%
+Debian Užuomina # 7: Galite naudoti cron-apt paketą daryti automatinį naktimisSiuntiniai kiekį atnaujintų paketų įdiegta į jūsų sistemą.
+
+%
+Debian Užuomina # 8: Jei turite problemų su Debian, kad jūs negalite išspręsti ikiskaityti instrukcijas ir dokumentaciją, pabandykite paprašyti ant Debian'o naudotojamsPašto sąrašas (debian-user@lists.debian.org).
+
+%
+Debian Patarimas # 9 Jei jūs turite žinoti, kokia versija Debian šiuo metu esateveikia, atrodo / etc / debian_version arba naudoti "lsb_release -SC" komandą. Jei tunoriu žinoti to versiją kodiniu vardu (pvz, 5.0 kodiniu pavadinimu"Lenny"), patikrinkite šią nuorodą:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Užuomina # 10: Yra Debian'o elektroninio pašto adresų sąrašus viską nuo vartotojasklausimai diskusijoms, ką įdėti į Debian politikos dokumentų.Patikrinkite sąrašą http://www.debian.org/MailingLists/ ir prenumeruotitie, kurie jus domina.
+
+%
+Debian Užuomina # 11: Žinok apie tai, kas vyksta - skaityti Debian'oProjektų naujienos. Skaityti žiniatinklio ne http://www.debian.org/News/weekly/
+
+%
+Debian Užuomina # 12: grep-dctrl paketas suteikia naudingų scenarijus skaičiųgreitai ieškoti įvairių paketas kontrolės failus (pavyzdžiui, turimapaketai failas).
+
+%
+Debian Užuomina # 13: Jeigu jums nepatinka numatytąsias parinktis naudojami Debianpaketas, galite atsisiųsti šaltinį ir sukurti versiją, kuris naudojagalimybės norite. Žiūrėti http://www.debian.org/doc/FAQ/ch-pkg_basics.htmldaugiau informacijos (6.13 ir 6.14 straipsniai).Tačiau turėkite omenyje, kad dauguma Funkcijos Dauguma pakuočių gali būti konfigūruojamasruntime ir nereikia recompiling paketą.
+
+%
+Debian Užuomina # 14: Jei norėtumėte sekti, kas vyksta su paketu(Pavyzdžiui, jei norite pamatyti pranešimus apie klaidas, atleiskite pranešimus, ir kitapanašūs dalykai), registruotis į jį ant pakuotės sekimo sistemos.Galite sužinoti daugiau apie LTS adresu:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Užuomina # 15: Už pakuotės dokumentai paprastai galima rasti/ usr / share / doc / <paketą>. Visų pirma, README.Debian failą dažnaituri naudingą informaciją apie Debian konkrečių Photoshop ar patarimų.
+
+%
+Debian Užuomina # 16: Jei ieškote konkrečios bylos, bet nežinaukuris paketas ji priklauso, pabandykite įdiegti "apt-file", kurioje numatytamažas duomenų šios informacijos, ieškoti Debian'o turinįPaketai duomenų, kurie gali būti daroma:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Užuomina # 17: Reikia kuo pasikalbėti apie Debian? Jei jus tenkinasu Internet Relay Chat (IRC), tiesiog įdiegti savo mėgstamus IRC klientas irprisijungti pokalbių kambario # debian ant irc.debian.org.
+
+%
+Debian Užuomina # 18: Kokybės kontrolė informacijos apie pakuotės galima rastikreipdamiesi į http://packages.qa.debian.org/~~V <paketą>; Šiame puslapyje pateikiamanuorodos į lydi anketa KU puslapyje, BTS, naujienos daiktų pakuotės, irinformacija, kuria versijos, kurioje archyvų.
+
+%
+Debian Užuomina # 19: Jeigu Jus domina statybos paketus iš šaltinio, jumsturėtų apsvarstyti apt-src paketą.
+
+%
+Debian Užuomina # 20: Norite sekti, kokia versija paketo turiteįdiegta (ypač naudinga tiems, veikia hibridinė stabilią / testavimo /nestabilios sistemos)? Check out apt-šou versijas.
+
+%
+Debian Užuomina # 21: Jei jūsų debian dėžutė yra už lėtą tinklo ryšį,bet jūs turite prieigą prie sparčiai vieną, taip pat, patikrinkite apt-pašto paketą.
+
+%
+Debian Užuomina # 22: įdomu, kuris Debian veidrodis yra geriausiai tinka jums? išsiregistruotiapt-šnipas ir netselect-apt paketai, kuris gali suteikti jums informacijosapie tai, kaip įvairių veidrodžių atlikti.
+
+%
+Debian Užuomina # 23 Jeigu jūsų sistema naudoja per daug disko vietos, pabandykite atliktideborphan paketu; ji gali pasiūlyti pasiūlymus, apie kuriuos paketai gali būtinepanaudoti ir nuimamas. Ir, žinoma, nepamirškite išvalytiApartamentai talpyklos plotas (naudojant "apt-get clean ',' aptitude clean" arbaaptitude Veiksmas -> Švaraus paketas talpyklos meniu punktas).
+
+%
+Debian Užuomina # 24: Jei norėtumėte atsidėkoti prižiūrėtoją už Tvarkymasklausimas, patikrinkite reportbug --kudos.
+
+%
+Debian Užuomina # 25: į "Debian nuoroda" pakete yra daug įvairiųInformacinių dokumentų Debian naudotojams ir kūrėjams. Daugumainformacija taip pat galima rasti šiuo adresu:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Užuomina # 26: Jei pakuotė neatrodo, kad daug dokumentacijos,patikrinti pakuotės, pavadintą "<paketo> -doc" ar panašiai ir įsitikinkite, kadįdiegti ją, taip pat; paketai su dideliu kiekiu dokumentacijosreguliariai padalinti dokumentus tokiu būdu tiems, kurie nenoriįdiegti juos.
+
+%
+Debian Užuomina # 27: reguliariai tikrinti savo atsargines kopijas. Jūs * yra * laikyti kopijas,tiesa? Right? Jei ne, pradėti su deguto (1) arba iškelties (1).
+
+%
+Debian Užuomina # 28: Jei mašina yra ne visą laiką (pavyzdžiui,nešiojamasis kompiuteris), patikrinkite "anacron" paketą; Tai leis įsitikinti, kad reguliarusužduotys dar atsitikti, net jei mašina nėra tuo metu ji norėdavopaprastai sukelti.
+
+%
+Debian Užuomina # 29: Laikykite savo sistemos laikrodį tikslūs - Staklės, kuriomis yra įjungtidauguma arba visi pačiu metu turėtų turėti "Ntp" įdiegta išlaikyti laiko paketątiksli tarp persikrauna.
+
+%
+Debian Patarimas # 30: dokumentus galima rasti adresu http: // localhost /įdiegdami "doc bazę" ir "doc-centrinė" paketus ir jųpriklausomybes.
+
+%
+Debian Užuomina # 31: neleidimą normaliai aktyvus paslaugą konkrečiam paleidžiamąjį lygįturėtų būti atliekama, keičiant S nuorodą /etc/rc<level>.d į K nuorodą,o ne visiškai panaikinti šią nuorodą; jei visos nuorodos yra pašalintas,sistema laikys kitą įdiegti, kad jie turi būti pakeistas.
+
+%
+Debian Užuomina # 32: Paketas "paketą doc-debian" yra keletas bendro pobūdžiodokumentus apie Debian'o projekto. Jis taip pat yra ispanų(Dok-debian-es), prancūzų (dok-debian-FR) ir Ukrainos (dok-debian-UK).
+
+%
+Debian Užuomina # 33: Paketas "devscripts" yra keletas naudingų scenarijusvartotojams, kurie nori padėti pagerinti Debian, pvz wnpp įspėjimo, RC-budrus ir BTS.
+
+%
+Debian Užuomina # 34: Jei norite sekti Debian sid ir turi nedidelį parsisiųstikvota arba labai lėtas ryšys, patikrinkite debdelta paketą.
+
+%
+Debian Užuomina # 35: ieškant kai kurių žaidimų? Pažvelkite "GoPlay", išvaizdą, kurisiūlo gražus "sąsaja naršyti Visų žaidimų natūra.
+
+%
+Debian Užuomina # 36: Reikia naujesnės paketą nei vežamos su Debian paskutinisstabili laida, bet nenorite atnaujinti "testavimo" ar "nestabili"? keletaspaketai laikomi up-to-data per stabilios-updates komplektą, kai kiti yraprieinama backports.debian.org.
+
+%
+Debian Užuomina # 37: Norite atsisiųsti paketą nediegiant jį? naudojimas"Gabumas parsisiųsti <PKGNAME> '.
+
+%
+Debian Užuomina # 38: Norite sužinoti, kaip galite naudoti programą jūs niekada naudotianksčiau? "Žmogus" bus Jūsų geriausias draugas Naujas! Tipas "žmogus <programa-vardas>" Aapvalkalas. Arba paleisti "žmogus -H <programa-vardas>" skaityti vadovą puslapį naršyklėje.
+
+%
+Debian Užuomina # 39: Pagerinti Bash skirtuką neužbaigtų įdiegdamiBash užbaigimo paketas.
+
+%
+Debian Užuomina # 40: Kai įdiegiate komandų nėra atrasta paketą, bandantpaleisti komandą jūs neturite įdiegti jums pasakysiu, ką paketas įdiegti įgauti šią komandą.
+
+%
+Debian Užuomina # 41: Galite naudoti "apt-cache Rodyti <package_name>" arba "gabumas Rodyti<Package_name> 'gauti daugiau informacijos apie Debian paketo.
+
+%
+Debian Užuomina # 42: Galite naudoti "apt-failų sąrašas <package_name> 'gauti sąrašąiš Debian'o paketų turinį. Šis veiksmas yra panašus į"Dpkg -l <package_name>" išskyrus paketas nereikia būti įdiegta arbanerealu naudojant apt-file priešingai dpkg.
+
+%
+Debian Užuomina # 43: Norite laikinai išjungti savo iptables ugniasienės? naudojimas"Iptables-save | SED "/ - / D; / ^ # / d, s / DROP / priimti /" | iptables-atkurti "pašalintiVisos taisyklės ir nustatyti numatytąjį politikos sutikti.
+
+%

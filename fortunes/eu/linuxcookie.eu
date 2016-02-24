@@ -1,0 +1,412 @@
+Linux makina bat! 486 bat delako gauza larria da alferrik!(Jjs@wintermute.ucr.edu By, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Deus beharreko kopuru horiek ezik ondorioztatu beharOndorio ez haiengandik marraztu daiteke. "(Joseph L. Brothers, Linux / PowerPC Project By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Egia esan, ausazko kateak idazten Finder-en baliokidea egitenfilename amaitzean.(Eztabaida comp.os.linux.misc komandoak of intuitiveness on: Artxiboosatze vs Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nire aita berriki jubilatua ikusten ondoren pasatzeko bi asteetan zenbat berri bat egin ikastekokarpetan, agerian gelditu zen "intuitiboa" dagoela esan nahi du, batez ere, "zer idazlea edogustatu intuitiboa hizlari ".(Bruce Ediger, bediger@teal.csn.org, comp.os.linux.misc ere, on the XMac interfaze baten intuitiveness.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hizkuntza diseinatzaile guztiak harroputz dira. Lurralde batera doa ..."(Larry Wall By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Eta 1.1.81 da ofizialki BugFree (tm), beraz, edozein akats-txostenak jasotzen badabertan, badakizu gezurrak besterik gaiztoak dira. "(Linus Torvalds By, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Eta emakumezkoen scantily jantzita, jakina. Nork zaintzen da zero azpitik badakanpo "(Linus Torvalds By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Eta hurrengo denbora Lucid Emacs martxan dagoela kexatzen uste duzu19.05 NFS bidez urruneko Linux Paraguay makina batek ez dirudite batetiklortuko koloreen eskuineko, nork eskerrak jakin ahal izango duzu. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Ez out edozein atezaiak zoriontsuago sentitu behar DEC duten bidalketa da jakitea>: Me duten linux exekutatzen lortzean saiatu nahi dut AlphaPC bat: borondate hori>: Betiko laguntzeko hustu du nabarmenenek unportable stuff batzuk.>: Alpha askoz ere ezberdinak i386 batetik da 68k baino gauza da, beraz,>: Litekeena finkoa stuff gehienak iritsi da.>> Hau bezalako mezu hori ia konbentzitzen ez-fededun da han> Benetan jainko bat da.(A jarraipen-alovell@kerberos.demon.co.uk arabera, Anthony Lovell, Linus eneraman buruz ohartarazten)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dutenek ustez UNIX da intuitiboa behartu behar dira 5000 lerro idatzidigituak baina vi edo emacs ezer erabiliz. AAAAACK!(Comp.os.linux.misc in Eztabaida-komandoen intuitiveness du, batez ere,Emacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Are [Linux erabiltzaile] lemmings kolektiboki amildegiko off jauzifidagarria, ondo diseinatutako software merkataritza? "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ohikoa den bezala, hau 1.3.x oharra izateaz, Ez dut nahiz konpilatu honetankernel oraindik. Beraz, lan egiten bada, bi aldiz txosnak izan behar duzu.(Linus Torvalds, kernel 1.3.3 iragartzen linux kernel-posta zerrendan.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ez infernuko ateak. Erabili Linux(Jatorria Ezezaguna)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Be ohartarazi Idazketa \ fBkillall \ fIname \ LH agian ez dute nahi dutenLinux ez den sistemetan eragina, batez ere, egin baimendun erabiltzaile batek.(Killall eskuliburua orritik)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Gainera, uste dut [Slackware] soinuak baino hobea 'Microsoft,« ez duzu? "(Patrick Volkerding By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Baina zer egin dezaket berarekin? - Linux-user bazkide nonahiko oihua.(Andy Pearce bidalia, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Golly By, Linux benetan pentsatzeko * gauzarik onena da geroztik * hasia naizxerratan ogia. "(Vance PETREE By, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. Nukleoak txarra orri batzuk erabiltzen saiatu da. egingo ditugu, * Amaitutzat muturreko kalterik gauzak.* /die_if_kernel ( "Oops", regs, error_code);(Linux / arkua / i386 / mm / fault.c tik)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep Hack Mode - egoera misteriotsu eta beldurgarria delakontzientzia non Mortal erabiltzaileak beldur komando ezezaguna. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra ziurrenik gorroto me(Linus Torvalds, kernel / sched.c ere)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, A txiki gogaikarriak boot birus espontaneoa sistema ausazko eragiten.     kraskatzen, normalean masiboak proiektu bat gorde aurretik. Erraz ondua arabera     UNIX. Ikus ere MS-DOS, IBM-DOS, DR-DOS.(David Vicker en .plan Gizonezkoa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Oharra 120 sec duten gehienezko gisa protokoloa definitzen da * RTT posible. Zerbait TCP baino beste erabili behar dugula uste dut * To Mars Unibertsitateko hitz. * PAWS ahalbidetzen digu denbora-muga luzeagoa eta leiho handiak, beraz, behin inplementatu * Mars ftp nicely lan egingo du. * /(/usr/src/linux/net/inet/tcp.c Batetik, dagozkion RTT [birtransmisio timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Are gehiago, harrigarria gauzatzeko Jainkoaren Internetera zen. Igaldetzen newsfeed osoa dauka bada zuen? "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Inoiz .cshrc entzun?Hori Bosnia hiri bat da. Eskuin?(Eztabaida comp.os.linux.misc komando bakoitza intuitiveness gainean.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Errore larria: Found [MS-Windows] Sistema -> Disko zatiketa berririk Linux for ...(Cbbrown@io.org By, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nola egin "i egin ez i da * .dvi ere xdvi" GUI batean idazten dut?(Eztabaida comp.os.linux.misc interfazeen intuitiveness gainean.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nola ezagutu beharko dut lan egiten bada? Horixe beta probatzaile dira. I bakarrikkodetuta. "(Linus Torvalds egotzita, mezu batean nonbait)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- --- == (_) __ __ __ ____ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ _ // / \ _, _ / / _ / \ _ \ / ______ \ \ \harro TeamLinux \ kide batek _________ \ /(CHaley (HAC) By, haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux garatzeko dut bizi bat, to DOS garatzeko erabiltzen dut.DOS batetik Linux joatean glider merkataritza F117 bat bezalakoa da.(Entropy@world.std.com By, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+hau 'sor nuen Linux Woody bat ematen dit. Ez du diru-sarrerak sortzeko.(Dave '-ddt-> `Taylor, infernura iragartzen Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Feel free me harremanetan jartzeko (garrak nire english eta honen Ezertarako buruzgidari izango / dev / null bideratuko da, oh ez, betea da ...).(Michael Beck, PC hizlari soinu gailu deskribatuz)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ez dut zergatik ezagutzen, baina lehenengo C programak joera asko baino okerragoak erakustenbeste edozein hizkuntzatan lehenengo programak (agian Fortran ezik, baina, ondoren,Fortran programa guztiak `bezalako firsts begiratu susmoa dut ')"(Olaf Kirch By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Behin lekuko izan nintzen luze-winded, hilabete luze erabileraren gaineko flamewar batsaguak vs trackballs ... oso xumea izan zen. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+oraindik ere mantentzen dut puntua kernel monolitikoa bat diseinatzen 1991. urtean, hau da aoinarrizko okerra. Eskertzen izango ez zara nire ikaslea. Ez litzateke duzu get ahala nola, diseinu bat kalifikazioa handiko :-)(Andrew Tanenbaum Linus Torvalds ra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nahiago dut pasatzeko litzateke 10 ordu norbaiten iturburu kodea irakurriz baino10 minutu laguntza teknikoa eta hori ez da zain Musak entzuten. "(Dr. Greg Wettstein By, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Baino gehiago arakatu nuke 'Visual ++ hau' eta 'garapen integratua akre batHori 'to gcc, Emacs, eta gdb iristeko. Eskerrik asko."(Vance PETREE By, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ergel bat naiz .. Gutxienez bat honetan [bug] 5 minutu inguru hartu eta aurkitu .."(Linus Torvalds akats txosten bat erantzunez.)> Naiz lelo bat .. Gutxienez honetan [bug] hartu 5 minutu inguru aurkitu ..Disquieting ...(Gonzalo Tornaria Linus Torvalds-en kernel akatsen bat buruz posta erantzunez.)> Naiz lelo bat .. Gutxienez honetan [bug] hartu 5 minutu inguru aurkitu ..Gurekin gizaki hutsak gainerako deskribatzeko termino berriak batzuk aurkitu behar duguondoren.(Craig Schlenter Linus Torvalds-en kernel akatsen bat buruz posta erantzunez.)> Naiz lelo bat .. Gutxienez honetan [bug] hartu 5 minutu inguru aurkitu ..Seguru asko, Linus da Idiocy mota hori besteei dabiltza :-) buruz hitz egiten.(Bruce Perens Linus Torvalds-en kernel akatsen bat buruz posta erantzunez.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Exekutatu dut infernura gehiago azken egunetan azken gutxi izan baino Ihilabete. Maite dut arazketa ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, kezkatuta hazten free 32-bit ospea araberaIntel-sistemak sistema eragilea, Linux, goi-kopuru bat erabili dulurpeko birus garapen mundutik programatzaileak. Bill Gates adieraziatzo: "Munduaren jabe, janari - bai gurekin edo Linus da". Mr. Torvaldszen iruzkina ez dago ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), comp.os.linux.setup ere)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    bada (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Ez beldurtu! \ n");irteera (42);    }(Arnold Robbins otsailaren '95 LJ ere, deskribatzen dituen RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Zehaztuta badago (__ alpha__) && definitu (CONFIG_PCI)+ / *+ * Bizitza, unibertsoa, ​​eta dena esanahia. Plus+ * Hau egiten urtean atera eskubidea.+ * /+ Urte - = 42;+ # Endif(1.3.2 for adabaki From: (kernel / time.c), Marcus Meissner aurkeztutako)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Bada etorkizuneko nabigazio sistema [on-konektatutako interaktiboa zerbitzuenNii du] Microsoft zerbait, inoiz ez da lan egiteko itxura. "(Presidentea Walt Disney Television & Telekomunikazioen)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Munduan zehar bidaiatzeko eta gonbidatu nahi baduzu, asko hitz egiten,leku desberdinetan, besterik Unix sistema eragilea idatzi. "(Linus Torvalds By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[ 'Doctor' moduan], ona da hamar minutu eman nituen Emacs kontatzea zer IHorretan pentsatzen. (Erantzuna izan da, 'Agian gutxiago izan saiatu izangehiegikeri. ') "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Herrialde gehienetan drogak bezalako gauzak kaltegarriak saltzen zigortzen.Ondoren howcome pertsona Microsoft software eta saldu ahal izango zigorgabeen?(Hasku@rost.abo.fi By, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel ingeniaritza badirudi misheard Intel marketing estrategia izatea. esaldiazen "Banatu eta agindu" ez "Banatu eta oilarra eman"(Iialan@www.linux.org.uk By, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jainkoa. Ez, ez Richard Stallman, Linus Torvalds edo, baina Jainkoa da."(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, duzun got me nire belaunak!(David Black, dblack@pilot.njin.net, Derek eta barkamena eskatuz from theDominos, eta Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux zaharkituta dago(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux benetako erronka bat planteatzen zaporea dutenak berandu gau emanhacking (eta / edo Jainkoarekin elkarrizketak). "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Garapen Venimus, Vidimus, Dolavimus.(Mah@ka4ybr.com By, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linux en] edukiera edozein ertain ke seinaleak ezik bidez hitz egiteko."(Dr. Greg Wettstein By, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: PC bat delako da terrible gauza bat alferrik galdu(Ksh@cis.ufl.edu jarri hau Tshirts on '93 batean)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: PC delako bat gauza larria da alferrik.(Komarimf@craft.camp.clarkson.edu By, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: GNU belaunaldi bat aukeratzerakoan(Ksh@cis.ufl.edu jarri hau Tshirts on '93 batean)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: sistema eragilearen PISTA batekin ...Komando lerroa Erabiltzaile Ingurumena ".(Comp.software.testing ere mezu batean ikusi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 sutan(Gehiago nahasia kernel mezuak bat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft ez da erantzuna.Microsoft galdera da.NO (edo Linux) erantzuna da.(.signature Batetik hartutako norbait UK batetik, iturri ezezagun)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten Dateisysteme ere, und, nun, 'besteigen' beim Sex.(Christa Keil German mezu batean: "muntatzea hiru gauza egiteko erabiltzen da:Zaldi baten gainean eskalada, disko gogor unitate batean lotzen dituen datu-sistemetan, eta, bai,sexuaren zehar "muntatzeko.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS ez zuen lortu bezain txarra gau bezala da - hartu hamar urte baino gehiagogarapen zaindua. "(Dmeggins@aix1.uottawa.ca By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Inoiz ez dute inolako mistaeks."(Anonimoa, kernel akats txosten bat buruz mail-inguru batean.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ez dit, zentzuduna. Bash man orrialdea irakurri dut egun bakoitzeko bezala Jehobaren baten lekuko irakurketakBiblia. Ez itxaronaldia, Bash man orrialdea Biblia da. Barkatu...(Nahasgarria ezizenak gehiago, comp.os.linux.misc hartua)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kontuan izan dut ahal baldin bada hori \ nahi" su eta esan \ "zerbait besterik galdetuz,Zure sisteman segurtasun arazo oso larria izan duzu eta beharkoda begiratu. "(Paul vixie, vixie-cron By 3.0.1 instalazio oharrak)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Orain badakit norbaitek han da, aldarrikatzen du "Beno ondoren, UNIX intuitiboa da,5000 komandoak, eta, ondoren, beste guztia honela ikasteko besterik behar ez delakohorretatik aurrera! Har har har! "(Andy Bates comp.os.linux.misc ere, "interfaces intuitiboa" on, zertxobaitMacs defendatzeko.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Orain, hura dugu gauza horietakoren bat izan:  amore -a trafikoa guztiei etekin  amore -t kamioi etekin  amore -f jendea oinez etekin for (etekin oinez)  amore -d t * egunetan errentagarritasuna t hasita... Elkargune pertsona hilda, eta auto-ilarak duzu asko izan dituzuEz litzateke uste ...(Eztabaida comp.os.linux.misc komando bakoitza intuitiveness gainean.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ascii line normal batean, seguru baldintza bakarra da antzematea 'BREAK' da- Beste guztia ondoren esleituta funtzio GNU Emacs arabera ".(Tarl Neustaedter By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Interneten, inork ez daki Windows NT erabiltzen ari zaren"(Ramiro Estrugo bidalia, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Behin Bazen DOS erabiltzaile batek ikusi Unix zen, eta ikusi izan zelaona. Bere DOS makinan cp idazten etxean ondoren, kokapena zituen GNU enunix tresnak DOS sistema anitza eta instalatu itzazu. , Rm'd zuen cp'd, eta mv'dzorionez egun askotan, eta elvis ohartzean, vi'd zuen eta pozik zegoen. ondorenLan egun bat luzea (Unix kaxa batean) etxera etorri zen, fitxategi bat aldatzen hasi,eta ez daki zergatik ezin izan zuen eseki vi (w / ctrl-z) eginkonpilatu.(Ewt@tipper.oit.unc.edu By (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Izan ere, Linux cool izen bat dauka beste, ezin norbaitek azaldu zergatik I>> Linux erabili beharko BSD baino?>> Ez Dela. cool izena, hori da. Oso gogor lan egin dugu on> Izena duten pertsona gehienak erakartzeko litzateke sortzeko, eta hura> Zalantzarik ordaindu off: milaka pertsona linux erabiltzen ari besterik izango> Esateko "OS / 2? Hah. Atzeman dut Linux. Zer cool izen bat". 386BSD egin du> Zenbakiak eta datu bitxi asko jarriz sartu akatsa> Izena, eta ez da ikaratzen jende asko Soinuak too besterik ez delako> Teknikoak.(Linus Torvalds 'follow-up Linux buruzko galdera bat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pertsonalki, uste dut mostest-superlative ordenagailurako gerrak nire aukera daukaHP-48 kalkulagailu seriea izan. ia ezer exekutatu egingo dute. dute eta geroezin, besterik ez dut plug Linux kutxa bat, berriz, ataka sartu eta kargatu duHP-48 VT-100 emuladorea.(Jdege@winternet.com By, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Badira a.b.p.erotica hariak ez duenez, irabazia ez da bat erabilizgaika albiste irakurlea.(Jatorria Ezezaguna)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Arazoa linux azpian konpontzen du inoiz zirku dela pean egonAIX. "(Pete Ehlke comp.unix.aix By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Noiz irten irten adierazpena irakurriko da, bc prozesadorearen       bukatuko da, non irten baieztapenak kontuan hartu gabe       ment aurkitu. Adibidez, "bada (0 == 1) irten"       ka amaitutzat eragingo du.(For "ka" man ikusi. Oharra "bada" adierazpen horrek logika)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pentium batean Windows exekutatzen marka bat izatea berria Porsche baina bakarrik bezalakoa daizan atzeraka gidatzeko handbrake gai.(Jatorria Ezezaguna)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit discus mundi"(The System Administrator gida From, Lars Wirzenius arabera)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sigh. da besterik Linux pertsona on izan nahi duten pentsatu nahi duteta "puntako" hain txarra oinez dute eskuinetik amildegi off.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+chat Programak jabarian dago. Hau ez da GNU lizentzia publikoa. badahausten ondoren bi pieza mantentzea lortu duzu.(Copyright chat programa oharra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Egun jendeak pentsatzen linux hobea izango litzateke zerbitzatzen beste norbait (FSF arabera> Alternatiboa natural izanik), egingo dut "uko". Ez dut uste hori> Zerbait pertsona da izan behar oraintxe kezkatu - ez dut ikusten> Etorkizun hurbilean gertatzen. linux egiten gozatzen dut, eta egiten du, nahiz eta> Lan batzuk esan, eta ez dut inolako kexak ahaztuak (batzuk ia lotsati> Adabaki bat ahaztuta edo ez nuen buruz abisuak, baina ez da ezer> Negatiboak orain arte).>> Ez, batez hartuko duten gelditu naiz egun norbait kexatzen esan nahi:> Lodi-skinned naiz (Lasu, nor da hau nire sorbaldaren gainetik irakurtzen iruzkindu> Hori) nahikoa gehiegikeria batzuk hartu "lodi-buru egia hurbilago dago".> Ez banintz, I gelditu litzaidake linux garatzen duen ast barregarri me> C.o.minix orrian. Esan nahi dudana da, besterik gabe, hori linux ditu nire haurra hain izan den bitartean> Arte, ez dut nahi horrela stand jendeak zerbait egin nahi izanez gero> Da (*) hobeto.>> Linus>> (*) Hey, agian I saint-kanpaia Aita Santuak eskatu daiteke. Does> Norbaiti dakit zer bere email-address da? nago hain polita gonbitoka egiten zaitu.(Linus erantzuna tomado norbait Linux etorkizunari buruz kezkatuta)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Windows buruz gauza polita da - Ez du besterik gabe, huts bat bistaratzen daelkarrizketa kaxa eta aukera ematen du 'Ados' sakatu duzu lehen.(Arno Schaefer en .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bakarra "intuitiboa" interface nipple da. Horren ondoren, guztiak ari ikasi.(Bruce Ediger, bediger@teal.csn.org, comp.os.linux.misc ere, X interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+bi Linux sustatzaileei mota daude - nor ortografia dutenak, etadutenek ezin. Etengabeko bien arteko borroka zelai bat da.(Post-1.1.54 kernela update mezuak bat aurrera etan c.o.l.a ra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mezu hau ekarri zuten Linux, doako unix arabera.Windows X gabe maitasuna egin bazkide ez bezalakoa da.Sex, Drugs & Linux arauakIrabazi-nt nor edlin asmatu jendearengandiksagarrak arazoak ekarri dute eden geroztikLinux, modu abioko birusak kentzeko(Mwikholm@at8.abo.fi By, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS, eta Windows NT (ona, txarra, eta gisa ere ezagunaItsusia da). "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Oso fenomeno batzuk ligatzeko ahal Deep Hack Mode daudelarik, biadierazitako salbuespenak: ari tximistak, edo okerrago, zure ordenagailua * deigarria *Ari tximistak jo. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kanpoan ke-hodei bat agurtzen, gora begiratu dut, eta nago distiratsua, zuria itsutuargia. Jainkoaren. Ez, ez Richard Stallman, Linus Torvalds edo, baina Jainkoak. Inahots indartsua, esaten zuen: "Hau da SIGN bat erabili LINUX, doako UNIX sistema.FOR THE 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Denok dakigu Linux da handia ... infinitua begiztak egiten du 5 segundotan."(Linus Linux nagusitasun Amsterdam buruzko TorvaldsLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+MicroSoft gara. You asimilatu egingo da. Erresistentzia da futile.(B.G. egotzita, Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Borg Pentium gara. Division futile da. You hurbiltzea izango.(Norbaiten .signature ikusi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+zurea beraz UP - Linux erabiliz ari gara egunero gure produktibitatea UP!(Pat Paulsen Hemendik egokitua Joe Sloan arabera)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS ehorzteko etorri gara, ez da goraipatzeko.(Paul Vojta, vojta@math.berkeley.edu, Shakespeare aurrekontua parafraseatuz)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux erabiltzen dugu gure misio kritikoa aplikazio guztietarako. iturri kodea izateakesan nahi dugu, ez bahitu inoren laguntza sailaren arabera.(Russell Nelson, Crynwr Software presidentea)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Zer amaituko duzun, sistema eragilearen kontzeptua darabil bidez ondorenhoriek askotan marketing kafea iragazkiak, zerbait ez arrunta beroa ez bezalaura. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Zer egiten ari da script hau?    deskonprimitu; ukitu; hatz; mendiaren; hatsanka; bai; umount; loErantzuna aurreratuentzat: dena ez ordenagailua bideratutako da. Batzuetan bazaralo poltsa bat ere, egindako camping.(Frans van der Zande ekarpena.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Noiz esan duzu" programa bat Windows izorratu hori idatzi nuen ", pertsona besterik begiradakblankly eta esaten duzu "Hey, sistema dutenek, * dohainik * lortu nuen". '(Linus Torvalds By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Greba me. Beat me. Me AIX mantentzeko."(Stephan Zielinski By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nor da Failure orokorra eta horregatik nire disko gogorrean da irakurtzen zuen?"Microsoft joko chekar vor sail, worgs grate !!(Leitner@inf.fu-berlin.de By, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nork nahi du gogoratzeko ihes-x-alt-kontrol-ezkerreko shift-b jartzen sartusuper-edit-debug-konpilatu modua?(Comp.os.linux.misc in Eztabaida-komandoen intuitiveness du, batez ere,Emacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Zergatik erabili Windows, ez baitago ate bat da?(Fachat@galileo.rhein-neckar.de By, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Munduaren jabe. Fast"(Linus Torvalds By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+pasatzeko ..you zitekeen * egun osoan * titulu barra pertsonalizatu. Sinistu nazazu. Iesperientzia batetik hitz egiten. "(Matt Welsh By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Agian baita saltatzeko Gabonetako ospakizuna erabat, eta horren ordez,Zure linux ordenagailuan jolasten aurrean eseriall-new-eta-hobetutako linux kernel bertsio ".(Linus Torvalds By)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Zure lana irakasle eta ikertzaile izateaz da: Hori aitzakia ona infernua daminix garunean-kalteak batzuk.(Linus Torvalds Andrew Tanenbaum ra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Entzun dut judu bat eta musulman batek Damaskoko kafetegi batean argudiatu grina gutxiagorekinemacs gerrak baino. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

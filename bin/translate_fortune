@@ -1,0 +1,89 @@
+#!/usr/bin/env python2
+
+import sys
+import fileinput
+from os.path import expanduser
+from urllib import quote
+import io
+import time
+import os.path
+
+try:
+	import urllib2
+except ImportError:
+	import urllib.request as urllib2
+
+try:
+	from BeautifulSoup import BeautifulSoup
+except ImportError:
+	from bs4 import BeautifulSoup
+
+languages = [ 
+"af", "ar", "az", "be", "bs", "ca", "cs", "cy", "da", "de", "el", "eo", "es", "et", "eu", "fa", "fi", 
+"fr", "gl", "ha", "hr", "ht","hu", "hy", "id", "ig", "is", "it", "iw", "ja", "jw", "ka", "kg", "kk",
+"ko", "la", "lo", "lt", "lv", "mg", "mi", "mk", "mn", "mo", "ms", "mt", "nl", "nn", "no", "ny", "nyn", 
+"pl", "pt-BR", "ro", "ru", "sh", "sk", "sl", "so", "sq", "sr", "st", "su", "sv", "sw", "tg", "th", "tl", 
+"tr", "uk", "ur", "uz", "vi", "yi", "yo", "zh-CN", "zh-TW", "zu" ]
+#"xx-bork", "xx-elmer", "xx-hacker", "xx-klingon", "xx-pirate", tlh-Qaak
+#languages2 = ["ak", "bg", "bh", "bn", "chr", "ckb", "co", "crs", "cs", "ee", "fo",
+#"fy", "ga", "gaa", "gd", "gn", "gu", "haw", "hi", "ia", "km", "kn", "kri", "ku", "ky", "lg", "ln",
+#"loz", "lua", "mfe", "ml", "mr", "ne", "nso", "oc", "om", "or", "pa", "ps", "qu", "rm", "rn",
+#"rw", "sd", "si", "sn", "ta", "te", "ti", "tk", "tn", "to", "tt", "tum", "tw", "ug", "wo", "xh" ]
+#languages3 = ["ach", "ak", "am", "bem", "pcm" ]
+
+googleDomain = "google.com"
+srcLang = "en"
+filename = sys.argv[1]
+print 'FORTUNE FILE NAME: %s\r' % filename
+
+f = open(filename, 'r')
+content = f.readlines()
+f.close()
+lines = []
+credit = ''
+for lang in languages:
+  print '\r\rSAVING TO LANGUAGE: %s' % lang
+  file_name = '%s.%s' % (filename, lang)
+  if os.path.isfile(file_name):
+    print 'File already exists: %s skipping language' % file_name
+    continue
+  f = io.open(file_name, 'w', encoding='utf8')
+  for line in content:
+    if '\t\t--' in line:
+      credit = line
+      continue
+    elif line.startswith('%'):
+      text = quote("\n".join(lines), safe='')
+      resultId = "result_box"
+      userAgent = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+      headers = {'User-Agent':userAgent}
+      url = "http://translate." + googleDomain + "/?langpair=" + srcLang + "|" + lang + "&text=" + text
+      x = None
+      try:
+	page = urllib2.urlopen(urllib2.Request(url, None, headers))
+      except:
+	pass
+      if page:
+	soup = BeautifulSoup(page)
+	if soup and soup.body:
+	  x = soup.body.find(id=resultId).text
+      if x:
+        print(x)
+        print credit
+        print '%'
+        f.write(u'%s' % x)
+        f.write(u'\r\n')
+        f.write(u'%s' % credit)
+        f.write(u'\r\n')
+        f.write(u'%')
+        f.write(u'\r\n')
+        time.sleep(0.2)
+      else:
+	print '!!!!!!!!!!!!!!!!!!!!!   bad call   !!!!!!!!!!!!!!!!!!!!!' 
+        print credit
+        print '%'
+      lines = []
+    else:
+      lines.append(line)
+  f.close()
+

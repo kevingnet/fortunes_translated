@@ -1,0 +1,129 @@
+Debian Tilmaam # 44: Waxaad u soo raaci kartaa account Identi.ca ee Debian athttp://identi.ca/debian Macluumaad dheeraad ah Debian at Identica sidoo kale awoodwaxaa laga heli at: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Tilmaam # 1: Waxaad soo sheegi kartaa cayayaanka ah in xirmo la 'reportbug' ee amarka,kaas oo lagu helo xirmo reportbug ah, mid ka amarka-line amala frontend cusub garaafyada (la heli karo socda 'reportbug gtk2 --ui' amaee menu).
+
+%
+Debian Tilmaam # 2: Waxaad isticmaali kartaa 'dpkg-reconfigure <xirmo>' in la beddeloJawaabaha aad i siisay inay su'aalaha la weydiiyay marka ugu horeysa ee aad ku rakiban xirmo.The xirmo 'rights reserved-debian' bixisaa dhamaadka midaysan hore for this samaynaya,iyo sidoo.
+
+%
+Debian Tilmaam # 3: Waxaad isticmaali kartaa labada 'badnaayeen-kayd raadinta <erayada>' ama'Search qalabaysan <erayada>' si aad u raadiso waayo, erayadii ee sharaxaada oo dhanbaakadaha laga heli karaa.
+
+%
+Debian Tilmaam # 4: Waxaad ka arki kartaa qoraalkii la heli karo iyo rakibay ka mid ahama baakadaha dheeraad ah ka heli kartaa la 'siyaasad-kayd badnaayeen <baakadaha>' ee amarka.
+
+%
+Debian Tilmaam # 5: Haddii aad u baahan tahay si ay u dhisaan yaruna caado, ay isticmaalaan "-kpkg sameeyaan 'script helay xirmo yaruna-baakada.
+
+%
+Debian Tilmaam # 6: Ma jirto oggayn # 6. Gudbi oggayn maanta!
+
+%
+Debian Tilmaam # 7: Waxaad isticmaali kartaa xirmo text-badnaayeen in ay sameeyaan habeen si toos ahdownloads of updates for baakadaha lagu rakibay on your nidaamka.
+
+%
+Debian Tilmaam # 8: Haddii aad qabto dhibaatooyin la Debian in aad ma xallin karo byakhriska ee buugagan iyo waraaqo, isku day waydiinaya oo ku saabsan Users Debianliiska waraaqaha (debian-user@lists.debian.org).
+
+%
+Debian Tilmaam # 9: Haddii aad u baahan tahay in la ogaado waxa version of Debian aad hadda tahaysocda, ka fiiri / iwm / debian_version ama isticmaal 'lsb_release -sc' amarka. Haddii aaddoonayaan in ay ogaadaan codename ee version in (tusaale ahaan, 5.0 waa dhaleeco'Lenny'), hubi URL this:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Tilmaam # 10: Waxaa jira Debian liiska waraaqaha wax walba ka usersu'aalo si doodaha ka badan waxa ay tahay in lagu rido dukumentiyada Policy Debian.Fiiri liiska at http://www.debian.org/MailingLists/ iyo subscribe tokuwa aad xiisaysaa.
+
+%
+Debian Tilmaam # 11: kor u dhig si ay taariikhda ku saabsan waxa ku dhacey - akhri Debian ahProject News. waxaa akhri bogga internetka ee http://www.debian.org/News/weekly/
+
+%
+Debian Tilmaam # 12: xirmo grep-dctrl waxay bixisaa dhowr ah oo waxtar leh qabnaywaayo, si deg deg ah baadi files kala duwan ay gacanta ku xirmo (sida la heli karo eebaakadaha soo gudbin).
+
+%
+Debian Tilmaam # 13: Haddii aadan jeclaan fursadaha caadiga ah loo isticmaalo ee Debian axirmo, waxaad kala soo bixi kartaa isha iyo in la dhiso version ah oo isticmaalaafursadaha aad jeceshahay. Eeg http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Qaybaha 6,13 iyo 6.14) wixii macluumaad dheeraad ah.Si kastaba ha ahaatee, xasuuso in fursadaha ugu badan ee baakadaha ugu la qaybiyay kartaaat Runtime, oo aan u baahnayn recompiling baakada.
+
+%
+Debian Tilmaam # 14: Haddii aad jeclaan lahayd in la raaco wax dhacaya in xirmo(Tusaale ahaan, haddii aad rabto inaad aragto warbixino cayayaanka, sii daayo ogaysiisyada, iyo kuwa kalewax la mid ah), tixgelin jaraaidka waxa si on System Tracking Xirmada.Waxaad ka heli kartaa wax badan oo ku saabsan dhco ee:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Tilmaam # 15: Dukumentiyo ee xirmo ah sida caadiga ah waxaa laga heli karaaunder / usr / wadaag / doc / <xirmo>. Gaar ahaan, README.Debian inta badan soo gudbinmacluumaad waxtar leh oo ku saabsan quirks Debian-gaar ah ama talooyin.
+
+%
+Debian Tilmaam # 16: Haddii aad Boogaadin file gaar ah, laakiin ma ogidoo xirmo waxaa iska leh, isku day inaad ku rakibidda 'badnaayeen-file', taas oo ku adkaysatay adatabase yar oo macluumaadkan, ama raadin ka kooban Debian ahBaakadaha database, oo waxaa la samayn karaa at:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Tilmaam # 17: Ma u baahan tahay qof aad la hadasho oo ku saabsan Debian? Haddii aad tahay raaxola Internet Relay Chat (IRC), kaliya rakibi aad macmiilka jecel IRC, iyobiiro #debian on irc.debian.org.
+
+%
+Debian Tilmaam # 18: Macluumaad ku saabsan Quality control xirmo waxaa laga heli karaaby socday http://packages.qa.debian.org/ <xirmo>; this page bixisaaxidhiidhka bogga QA ka ilaalin ee, BTS ah, waxyaabaha news for xirmada, iyomacluumaad ku saabsan oo versions waxaa laga heli karaa, taas oo archives.
+
+%
+Debian Tilmaam # 19: Haddii aad xiisaynayso in baakadaha dhismaha ka il, aadwaa in ay tixgeliyaan rakibidda xirmo oo waxbaridda ku-SRC.
+
+%
+Debian Tilmaam # 20: Ma doonaysaa in aad ogaatid waxa version of xirmo aad leedahayrakibay (si gaar ah faa'iido u ah kuwa ordaya hybrid xasiloon / baaritaanka /nidaamyada deganayn)? Fiiri badnaayeen-show-qoraalkii.
+
+%
+Debian Tilmaam # 21: Haddii sanduuqa Debian ka dambaysa xiriir network gaabis ah,laakiin waxaad sidoo kale ay helaan mid ka mid ah si dhakhso ah, hubi xirmo oo waxbaridda ku-zip ah.
+
+%
+Debian Tilmaam # 22: is Debian oo muraayad kuu fiican? Baadhidthe-basaas oo waxbaridda iyo baakadaha netselect-badnaayeen, oo ku siin kara macluumaadoo ku saabsan sida kala duwan ee goobaha muraayad u qabtaan.
+
+%
+Debian Tilmaam # 23: Haddii nidaamka la isticmaalayo meel disk aad u badan, isku day inaad kudeborphan xirmo, waxay ku siin karaan talooyin ku saabsan oo baakadaha waxaa laga yaabaa inisticmaalin iyo saari. Markaasaa, dabcan, ha iloobin in aad nadiifiso ahaagga khasnado APT (isticmaalaya 'badnaayeen-heli nadiif ah', 'qalabaysan nadiif ah', amaAction qalabaysan ee -> xirmo Nadiifi khasnado item menu).
+
+%
+Debian Tilmaam # 24: Haddii aad jeclaan lahaa inaan u mahadceliyo ilaalin qabashada aharrinta, hubi --kudos reportbug.
+
+%
+Debian Tilmaam # 25: The 'debian-tixraac' xirmo ka kooban kala duwanee tixraaca waraaqaha dadka isticmaala Debian iyo horumarinta. Inta badan oo ka mid ahmacluumaadka ayaa sidoo kale waxaa laga heli karaa URL soo socda:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Tilmaam # 26: Haddii xirmo uma muuqato in ay waraaqo badan,hubiyo xirmo la odhan jiray '<xirmo> -doc' ama la mid ah iyo in la hubiyo in aywaxaa sidoo kale loo soo dajiyo, baakadaha la xaddi badan oo waraaqosi joogto ah u kala jabeen DoCS ee sidan kuwa aadan rabin in aadiyaga ku rakibi.
+
+%
+Debian Tilmaam # 27: Si joogto ah loo xaqiijiyo hayaan aad. Waxaad qora yihiin * hayo hayaan,sax ah? Xuquuqda? Haddii aadan, bilowdo daamur (1) ama qadaha (1).
+
+%
+Debian Tilmaam # 28: Haddii mashiinka ma aha on waqtiyada oo dhan (sida alaptop), hubi baxay 'anacron' xirmo, this hubiyo in si joogto ah ka dhigi doonaahawlaha weli dhici, xitaa haddii mishiinka ma aha on waqti ay doonayeensida caadiga ah ay kiciyaan.
+
+%
+Debian Tilmaam # 29: Ka dhig hab aad saacad sax ah - Machines kuwaas oo u soo jeestay oninta badan ama dhammaan waqtiga waa in ay leeyihiin baakada 'ntp' lagu rakibay, inay dhawraan wakhtigasax ah ee u dhexeeya reboots.
+
+%
+Debian Tilmaam # 30: Warqadaha lagu heli karaa http: // localhost /by rakibidda ah 'doc-saldhig' iyo baakadaha 'doc-dhexe' iyotiirsanaanta.
+
+%
+Debian Tilmaam # 31: naafada adeeg sida caadiga ah-firfircoon runlevel gaar ahwaa in la sameeyaa by beddelo link S ee /etc/rc<level>.d in ay link K a,halkii ay ka saareen link dhammaan; hadday dhammaantood wax xiriir la saaraa, eenidaamka qaadan doona soo socda rakibi in ay u baahan yihiin in la bedelo.
+
+%
+Debian Tilmaam # 32: Xirmada 'doc-debian' waxaa ku jira qaar ka mid ah guud ahaanwaraaqo ku saabsan mashruuca Debian ah. Waxaa sidoo kale lagu heli karaa Isbaanish(Doc-debian-es), Faransiis (doc-debian-fr) iyo Ukraine (doc-debian-uk).
+
+%
+Debian Tilmaam # 33: Xirmada 'devscripts' waxaa ku jira qaar ka mid ah qabnay faa'iido uusers doonaya in ay caawiyaan si loo hagaajiyo Debian, tus wnpp-heegan, RC-heegan iyo bts.
+
+%
+Debian Tilmaam # 34: Haddii aad rabto si ay ula socdaan SID Debian iyo leedahay yar downloadkootada ama xidhiidh aad u gaabis ah, fiiri baakada debdelta ah.
+
+%
+Debian Tilmaam # 35: In search for kulan qaar ka mid ah? Eeg 'goplay', taas oowaxay bixisaa frontend fiican waayo Author iyada oo cayn kasta ah kulan.
+
+%
+Debian Tilmaam # 36: Baahan xirmo cusub ka badan la soo dhaafay ee Debian geeyeysii daayo deggan, laakiin ma doonayo in aan u cusboonaynta in 'tijaabada' ama 'degganayn? Qaar ka mid ahbaakadaha waxaa lagu hayaa ilaa-to-date via ah Suite deggan-updates, dadka kale qaar ka mid ah waasameeyey heli karaa backports.debian.org.
+
+%
+Debian Tilmaam # 37: Ma doonaysaa in la soo bixi xirmo oo aan u rakibidda? Isticmaal'Qalabaysan download <pkgname>'.
+
+%
+Debian Tilmaam # 38: Ma doonaysaa in aad ogaato sida aad u isticmaali kartaa barnaamij aad marna loo isticmaaloka hor? "Nin" wuxuu kuu ahaan doonaa saaxiib fiican cusub! "Nin <barnaamij-magaca>" Nooca in aqolof. Or, ordo "nin -H <barnaamij-magaca>" inuu wax akhriyo bogga buugga in browser ah.
+
+%
+Debian Tilmaam # 39: Hagaajinta uted ayaa tab-dhamaystirka by rakibidda ahxirmo uted-dhameeyo.
+
+%
+Debian Tilmaam # 40: Haddii aad rakibi xirmo amarka-ma-helay, isku dayayaan in ayordi amar kugu ha ku rakibtay kuu sheegi doonaa waxa xirmo si loo soo dajiyo sihesho amarka in.
+
+%
+Debian Tilmaam # 41: Waxaad isticmaali kartaa 'badnaayeen-kayd show <package_name>' ama 'qalabaysan show<Package_name> 'si aad u hesho macluumaad dheeraad ah oo ku saabsan xirmo debian ah.
+
+%
+Debian Tilmaam # 42: Waxa aad isticmaali kartaa liiska badnaayeen-file <package_name> 'si aad u hesho liiskaoo ka mid ah waxyaabaha uu xirmo debian. Tallaabadan waxaa ay la mid tahay'Dpkg -L <package_name>' marka laga reebo baakada ma u baahan tahay in lagu xiro amaisticmaalaya kaxeeyey-file badnaayeen in la barbardhigo dpkg.
+
+%
+Debian Tilmaam # 43: Ma rabtaa inaad si ku meel gaar gab aad iptables brannmur? Isticmaal'Iptables-badbaadin | SED "/ - / d; / ^ # / d, s / DEJINTA / aqbalaa /" | iptables-celin 'si loo soo saarodhammaan sharciyada iyo siyaasadda default dhigay inuu aqbalo.
+
+%

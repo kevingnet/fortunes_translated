@@ -1,0 +1,129 @@
+Debian Hint # 44: Võite järgib Identi.ca konto Debian juureshttp://identi.ca/debian Rohkem infot Debian on Identica saab kaaadressil: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Hint # 1: saad teatada veast paketis "reportbug" käsk,mis on saadaval reportbug valmis, kas käsurea võiuue graafilise kasutajaliidese (saadaval töötab "reportbug --ui GTK2" võimenüü).
+
+%
+Debian Hint # 2: võite kasutada "dpkg-reconfigure <pakett>" muutavastuseid sa andsid küsimustele installimisel paketi.Seadista-debian "pakett annab ühtse esiotsa seda teha,samuti.
+
+%
+Debian Hint # 3: Saate kasutada kas "apt-cache search <sõnu>" või"Aptitude search <sõnu> 'otsida sõnu kirjeldused kõiksaadaval pakette.
+
+%
+Debian Hint # 4: Näete olemas ja paigaldatud versioonid ühevõi enam saadaval paketid käsuga "apt-cache poliitika <paketid>".
+
+%
+Debian Hint # 5: Kui teil on vaja ehitada custom kernel, kasutage "make-kpkg"skript tuuma-pakett pakett.
+
+%
+Debian Hint # 6: Ei ole vihje # 6. Esitada vihje täna!
+
+%
+Debian Hint # 7: võite kasutada cron-apt pakett teha automaatset voodiallalaadimine uudiseid pakendite süsteemi paigaldatud.
+
+%
+Debian Hint # 8: Kui sul on probleeme Debian, et sa ei suuda pooltLugedes kasutusjuhendid ja toote dokumentatsioon, proovige paludes Debian Kasutajadmeililisti (debian-user@lists.debian.org).
+
+%
+Debian Hint # 9: Kui teil on vaja teada, milline versioon Debian asutetöötab, vaata / etc / debian_version või kasutada "lsb_release _SC" käsk. Kui satahan teada koodnimetus et versioon (näiteks 5.0 koodnimega"Lenny"), märgi see URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Hint # 10: On Debian meililistides kõike kasutajaleKüsimused arutelud selle üle, mida panna Debian dokumentides.Tutvu nimekirja http://www.debian.org/MailingLists/ ja tellidaneed, mis Sulle huvi pakkuda.
+
+%
+Debian Hint # 11: Hoidke ennast kursis, mis toimub - loe DebianProjekti News. Loe seda veebis aadressil http://www.debian.org/News/weekly/
+
+%
+Debian Hint # 12: grep-dctrl pakett pakub mitmeid kasulikke skriptekiiret otsides erinevate paketi kontrolli faili (nagu saadavalpaketid fail).
+
+%
+Debian Hint # 13: Kui sulle ei meeldi vaikimisi valikuid kasutada Debianpakett, mida saab alla laadida allikas ja ehitada versioon, mis kasutabvõimalusi soovid. Vaata http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Lõigud 6.13 ja 6.14) rohkem teavet.Kuid pidage meeles, et enamik võimalusi kõige paketid on võimalik seadistadakäivitamisel, ja ei nõua ümberkompileerivad pakendis.
+
+%
+Debian Hint # 14: Kui soovid jälgida asju juhtub paketi(Näiteks kui soovite näha veateateid, vabastada teated ja muudsarnaseid asju), kaaluda tellides selle pakendi jälgimise süsteem.Leiad rohkem infot PTS juures:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Hint # 15: dokumentatsioon paketi saab tavaliselt leitud/ usr / share / doc / <pakett>. Eelkõige README.Debian esitada sagelion kasulikku teavet Debiani raskustele vaatamata või nõuandeid.
+
+%
+Debian Hint # 16: Kui otsite konkreetse faili, kuid ei teamis pakett see kuulub, proovige installida "apt-file", mis säilitabväike andmebaasi Selle informatsiooni või otsida sisu DebianPaketid andmebaasi, mida saab teha aadressil:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Hint # 17: Vajad kellegagi rääkida umbes Debian? Kui sa oled mugavInternet Relay Chat (IRC), lihtsalt installida oma lemmik IRC kliendi jaliituda #debian kohta irc.debian.org.
+
+%
+Debian Hint # 18: Kvaliteedikontroll informatsiooni paketi kohta leiateminnes http://packages.qa.debian.org/~~V <pakett>; Sellel leheküljel annablingid säilitaja kvaliteedikontrollitiimile lehel BTS, uudised paketi jateavet, mis versioonid on saadaval, mis arhiivi.
+
+%
+Debian Hint # 19: Kui olete huvitatud hoone paketid allikast, siispeaks kaaluma installeerimist apt-src pakendis.
+
+%
+Debian Hint # 20: Tahad jälgida, mida versiooni pakett teil onpaigaldatud (eriti kasulik neile, hübriid- stabiilne / testimise /ebastabiilsed süsteemid)? Tutvu apt-show-versioonid.
+
+%
+Debian Hint # 21: Kui teie Debian kasti taga on aeglane võrguühendus,kuid teil on juurdepääs kiiresti üks hästi, tutvu apt-zip pakendis.
+
+%
+Debian Hint # 22: Huvitav, mis Debiani on teie jaoks parim? Kontrolligeapt-spioon ja netselect-apt pakette, mis võivad anda teile teavetkuidas erinevate Peegelsaitide täita.
+
+%
+Debian Hint # 23: Kui süsteem kasutab liiga palju kettaruumi, proovigedeborphan pakett; see võib pakkuda ettepanekuid pakendid võivad ollaKasutamata ja eemaldatav. Ja muidugi, ärge unustage puhastada läbiAPT vahemälu piirkonnas (kasutades "apt-get clean", "aptitude puhas" võiaptitude tegevuskava -> Clean paketi vahemälu menüüst).
+
+%
+Debian Hint # 24: Kui soovid tänan hooldaja jaoks, kes töötlevadküsimus, vaadake reportbug --kudos.
+
+%
+Debian Hint # 25: The 'debian-viide pakett sisaldab mitmesuguseidViitedokumentide Debiani kasutajatele ja arendajatele. EnamikInformatsiooni saab leida järgmise URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint # 26: Kui pakend ei tundu olevat palju dokumentatsiooni,kontrollida paketi nimega "<pakett> -doc" või sarnane ja veenduge, etpaigaldada ka seda; paketid rohke dokumentatsioonregulaarselt jagada dokumente sel viisil neile, kes ei tahapaigaldada.
+
+%
+Debian Hint # 27: Regulaarselt kontrollida oma varukoopiaid. Sa * on * hoida varukoopiaid,õige? Right? Kui ei, siis alustada tõrva (1) või prügimäele (1).
+
+%
+Debian Hint # 28: Kui seade on välja lülitatud kogu aeg (nagusülearvuti), vaadake "anacron pakett; See veenduge, et regulaarneülesandeid ikka juhtuda isegi siis, kui masin pole hetkel nad oleksidtavaliselt vallandada.
+
+%
+Debian Hint # 29: Hoia oma süsteemi kella täpne - masinad, mis on sisse lülitatudKõige rohkem ehk kogu aeg peaks olema "NTP pakett on paigaldatud hoida aegatäpne taaskäivitamisega.
+
+%
+Debian Hint # 30: dokumentatsioon tehakse kättesaadavaks aadressil http: // localhost /paigaldades "dok-alus" ja "dok-keskne" pakette ja nendesõltuvusi.
+
+%
+Debian Hint # 31: keelamine normaalselt tegevteenistuses konkreetse runleveltuleks teha muutes S linki /etc/rc<level>.d kuni K link,eemaldamise asemel link täielikult; kui kõik lingid on eemaldatud,süsteem eeldab järgmisel paigaldada, et nad vajavad väljavahetamist.
+
+%
+Debian Hint # 32: Pakett "dok-debian" sisaldab mõningaid üldisidokumentatsiooni Debiani projekti. Samuti on saadaval hispaania(Dok-debian-es), Prantsusmaa (dok-debian-fr) ja Ukraina (dok-debian-uk).
+
+%
+Debian Hint # 33: Pakett "devscripts" sisaldab mitmeid kasulikke skriptekasutajatele, kes tahavad aidata parandada Debian, nt wnpp-hoiatuse, RC-tähelepanelik ja BTS.
+
+%
+Debian Hint # 34: Kui soovite jälgida Debian Sid ja neil on väike allakvoodi või tõesti aeglane ühendus, tutvu debdelta pakendis.
+
+%
+Debian Hint # 35: In search mõned mängud? Heitke pilk "goplay", mispakub kena kasutajaliidese sirvimiseks igasugu mänge.
+
+%
+Debian Hint # 36: Vajad uuemat paketti kui Debiani viimanestabiilne versioon, kuid ei taha uuendada "testimine" või "ebastabiilne"? mõnedpaketid hoitakse up-to-date kaudu stabiilne-uuendused suite, mõned teisedkättesaadavaks teha backports.debian.org.
+
+%
+Debian Hint # 37: Tahad laadida paketi ilma paigaldamist? kasutamine"Aptitude lae <pkgname>".
+
+%
+Debian Hint # 38: Tahad teada, kuidas saab kasutada programmi teil on kunagi kasutanudenne? "Mees" on teie parim uus sõber! Tüüp "mees <programmi nimi>" onkest. Või joosta "mees H <programmi nimi>" loe manuali brauseris.
+
+%
+Debian Hint # 39: Parandada bash vaheleht lõpetamine paigaldadesBash lõpetamine pakendis.
+
+%
+Debian Hint # 40: Kui installite käsk ei leitud pakett, üritadeskäivitada käsku sul ei ole paigaldatud ütleb teile, mida paketi paigaldadasaada see käsk.
+
+%
+Debian Hint # 41: Sa saad kasutada 'apt-cache näidata <paketi_nimi> "või" aptitude näidata<Paketi_nimi> ", et saada rohkem infot Debiani paketi.
+
+%
+Debian Hint # 42: Sa saad kasutada 'apt-failide nimekiri <paketi_nimi> "saada noteerimisekssisu Debiani paketi. See tegevus on sarnane"Dpkg -L <paketi_nimi>" välja arvatud pakend ei pea olema paigaldatud võiülepingutatud kasutades apt-file erinevalt dpkg.
+
+%
+Debian Hint # 43: Tahad ajutiselt keelata oma iptables tulemüüri? kasutamine"Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / ACCEPT /" | iptables-taastada "eemaldadakõiki reegleid ja määrata vaikimisi poliitika vastu.
+
+%

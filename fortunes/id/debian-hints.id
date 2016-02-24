@@ -1,0 +1,129 @@
+Debian Petunjuk # 44: Anda dapat mengikuti akun Identi.ca untuk Debian diInformasi http://identi.ca/debian Lebih dari Debian di Identica juga bisaditemukan di: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Petunjuk # 1: Anda dapat melaporkan bug di paket dengan perintah 'reportbug',yang tersedia dalam paket reportbug, baik dari baris perintah ataudengan antarmuka grafis baru (tersedia menjalankan 'reportbug --ui gtk2' atau dalammenu).
+
+%
+Debian Petunjuk # 2: Anda dapat menggunakan 'dpkg-reconfigure <paket>' untuk mengubahjawaban yang Anda berikan atas pertanyaan yang diajukan ketika Anda pertama kali menginstal sebuah paket.The 'configure-debian' paket menyediakan front end terpadu untuk melakukan hal ini,demikian juga.
+
+%
+Debian Petunjuk # 3: Anda dapat menggunakan 'pencarian apt-cache <kata>' atau'Aptitude pencarian <kata>' untuk mencari kata-kata dalam deskripsi dari semuapaket yang tersedia.
+
+%
+Debian Petunjuk # 4: Anda dapat melihat versi yang tersedia dan terpasang untuk satuatau paket yang lebih tersedia dengan kebijakan apt-cache <paket> 'perintah.
+
+%
+Debian Petunjuk # 5: Jika Anda perlu untuk membangun sebuah kernel kustom, menggunakan 'make-kpkg'skrip ditemukan dalam paket kernel-package.
+
+%
+Debian Petunjuk # 6: Tidak ada tanda-tanda # 6. Menyerahkan sedikit hari ini!
+
+%
+Debian Petunjuk # 7: Anda dapat menggunakan paket cron-apt untuk melakukan setiap malam otomatisdownload update paket diinstal pada sistem Anda.
+
+%
+Debian Petunjuk # 8: Jika Anda memiliki masalah dengan Debian bahwa Anda tidak bisa memecahkan olehmembaca manual dan dokumentasi, cobalah bertanya pada Pengguna Debianmilis (debian-user@lists.debian.org).
+
+%
+Debian Petunjuk # 9: Jika Anda perlu tahu apa versi Debian Anda saat iniberjalan, terlihat di / etc / debian_version atau menggunakan perintah 'lsb_release -sc'. Jika kamuingin tahu nama kode untuk versi itu (misalnya, 5.0 adalah nama kode'Lenny'), periksa URL ini:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Petunjuk # 10: Ada Debian milis untuk segalanya dari penggunapertanyaan untuk perdebatan apa yang akan dimasukkan ke dalam dokumen Kebijakan Debian.Periksa daftar di http://www.debian.org/MailingLists/ dan berlanggananorang-orang yang menarik bagi Anda.
+
+%
+Debian Petunjuk # 11: Tetap up to date pada apa yang terjadi - membaca DebianProyek News. Membacanya di web di http://www.debian.org/News/weekly/
+
+%
+Debian Petunjuk # 12: Paket grep-dctrl menyediakan sejumlah script yang bergunauntuk cepat mencari berbagai file control paket (seperti yang tersediamengajukan paket).
+
+%
+Debian Petunjuk # 13: Jika Anda tidak menyukai pilihan default digunakan dalam Debianpaket, Anda dapat men-download sumber dan membangun sebuah versi yang menggunakanPilihan Anda sukai. Lihat http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Bagian 6.13 dan 6.14) untuk informasi lebih lanjut.Namun, ingatlah bahwa sebagian besar pilihan dalam kebanyakan paket dapat dikonfigurasipada saat runtime, dan tidak memerlukan mengkompilasi ulang paket.
+
+%
+Debian Petunjuk # 14: Jika Anda ingin mengikuti hal yang terjadi untuk sebuah paket(Misalnya, jika Anda ingin melihat laporan bug, rilis pemberitahuan, dan lainnyahal serupa), mempertimbangkan untuk berlangganan pada Paket Tracking System.Anda dapat mengetahui lebih lanjut tentang PTS di:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Petunjuk # 15: Dokumentasi untuk paket biasanya dapat ditemukandi bawah / usr / share / doc / <package>. Secara khusus, README.debian mengajukan seringterdapat informasi tentang kebiasaan Debian-spesifik atau tips.
+
+%
+Debian Petunjuk # 16: Jika Anda sedang mencari file tertentu, tetapi tidak tahupaket mana itu milik, mencoba menginstal 'apt-file', yang mempertahankandatabase kecil dari informasi ini, atau mencari isi dari DebianPaket database, yang dapat dilakukan pada:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Petunjuk # 17: Perlu seseorang untuk diajak bicara tentang Debian? Jika Anda merasa nyamandengan Internet Relay Chat (IRC), hanya menginstal klien favorit Anda IRC, danbergabung #debian di irc.debian.org.
+
+%
+Debian Petunjuk # 18: informasi Quality control tentang sebuah paket dapat ditemukandengan pergi ke http://packages.qa.debian.org/~~V <paket>; Halaman ini memberikanlink ke halaman QA Maintainer ini, BTS, berita untuk paket, danInformasi yang versi yang tersedia di mana arsip.
+
+%
+Debian Petunjuk # 19: Jika Anda tertarik untuk paket bangunan dari sumber, Andaharus mempertimbangkan menginstal paket apt-src.
+
+%
+Debian Petunjuk # 20: Ingin melacak apa versi paket Anda memilikidiinstal (sangat berguna bagi mereka yang menjalankan hybrid stabil / pengujian /sistem tidak stabil)? Periksa apt-show-versi.
+
+%
+Debian Petunjuk # 21: Jika kotak Debian Anda berada di belakang koneksi jaringan yang lambat,tetapi Anda memiliki akses ke salah satu cepat juga, memeriksa paket apt-zip.
+
+%
+Debian Petunjuk # 22: Bertanya-tanya yang Debian mirror yang terbaik untuk Anda? Periksaapt-spy dan paket netselect-apt, yang dapat memberikan informasitentang bagaimana berbagai situs mirror tampil.
+
+%
+Debian Petunjuk # 23: Jika sistem anda menggunakan ruang disk terlalu banyak, cobadeborphan paket; dapat menawarkan saran tentang paket mana mungkintidak terpakai dan removable. Dan, tentu saja, jangan lupa untuk membersihkandaerah Cache APT (menggunakan 'apt-get clean', 'bakat bersih', atauAction bakat ini -> paket Clean item menu Cache).
+
+%
+Debian Petunjuk # 24: Jika Anda ingin mengucapkan terima kasih pengelola untuk menangani suatumasalah, periksa --kudos reportbug.
+
+%
+Debian Petunjuk # 25: The 'debian-referensi' paket berisi berbagaireferensi dokumen untuk pengguna Debian dan pengembang. Sebagian besarInformasi juga dapat ditemukan di URL berikut:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Petunjuk # 26: Jika sebuah paket tampaknya tidak memiliki banyak dokumentasi,memeriksa paket bernama '<paket> -doc' atau serupa dan pastikan untukmenginstalnya juga; paket dengan jumlah besar dokumentasiteratur membagi dokumen dengan cara ini bagi mereka yang tidak inginmenginstal mereka.
+
+%
+Debian Petunjuk # 27: Secara teratur memverifikasi backup Anda. Anda * akan * menjaga backup,kanan? Kanan? Jika tidak, memulai dengan tar (1) atau membuang (1).
+
+%
+Debian Petunjuk # 28: Jika komputer Anda tidak pada semua waktu (sepertilaptop), memeriksa 'anacron' paket; ini akan memastikan bahwa secara teraturtugas masih terjadi, bahkan jika mesin tidak pada saat itu mereka akanbiasanya memicu.
+
+%
+Debian Petunjuk # 29: Jauhkan jam sistem Anda akurat - Mesin yang diaktifkansebagian besar atau semua waktu harus memiliki 'ntp' paket diinstal untuk menjaga waktuakurat dalam antara reboot.
+
+%
+Debian Petunjuk # 30: Dokumentasi dapat dibuat tersedia di http: // localhost /dengan menginstal 'doc-base' dan 'doc-tengah' paket dan merekadependensi.
+
+%
+Debian Petunjuk # 31: Menonaktifkan layanan normal-aktif dalam runlevel tertentuharus dilakukan dengan mengubah link S di /etc/rc<level>.d ke link K,daripada menghapus link seluruhnya; jika semua link yang dihapus,sistem akan menganggap pada berikutnya menginstal bahwa mereka perlu diganti.
+
+%
+Debian Petunjuk # 32: Paket 'doc-debian' berisi beberapa umumdokumentasi tentang proyek Debian. Hal ini juga tersedia dalam bahasa Spanyol(Doc-debian-es), Perancis (doc-debian-fr) dan Ukraina (doc-debian-uk).
+
+%
+Debian Petunjuk # 33: Paket 'devscripts' berisi beberapa script yang berguna untukpengguna yang ingin membantu untuk meningkatkan Debian, misalnya wnpp-peringatan, rc-waspada dan bts.
+
+%
+Debian Petunjuk # 34: Jika Anda ingin melacak Debian sid dan memiliki download kecilkuota atau koneksi benar-benar lambat, memeriksa paket debdelta.
+
+%
+Debian Petunjuk # 35: Dalam pencarian untuk beberapa game? Lihatlah 'goplay', yangmenawarkan antarmuka yang bagus untuk browsing melalui semua jenis permainan.
+
+%
+Debian Petunjuk # 36: Perlu paket yang lebih baru dari dikirimkan dengan Debian laluRilis stabil, tetapi tidak ingin meng-upgrade ke 'pengujian' atau 'tidak stabil'? Beberapapaket disimpan up-to-date melalui stabil-update suite, beberapa orang lain yangtersedia di backports.debian.org.
+
+%
+Debian Petunjuk # 37: Ingin men-download paket tanpa menginstal itu? Menggunakan'Bakat Download <pkgname>'.
+
+%
+Debian Petunjuk # 38: Ingin tahu bagaimana Anda dapat menggunakan program Anda belum pernah menggunakansebelum? "Man" akan menjadi sahabat baru Anda! Jenis "man <Program-nama>" dalamkulit. Atau, jalankan "man -H <Program-nama>" untuk membaca halaman manual di browser.
+
+%
+Debian Petunjuk # 39: Meningkatkan bash tab-completion dengan menginstalpaket pesta-selesai.
+
+%
+Debian Petunjuk # 40: Jika Anda menginstal paket perintah-tidak-ditemukan, mencoba untukmenjalankan perintah Anda tidak menginstal akan memberitahu Anda apa paket untuk menginstal kemendapatkan perintah itu.
+
+%
+Debian Petunjuk # 41: Anda dapat menggunakan 'apt-cache show <nama_paket>' atau 'acara bakat<Package_name> 'untuk mendapatkan informasi lebih lanjut tentang paket debian.
+
+%
+Debian Petunjuk # 42: Anda dapat menggunakan 'daftar apt-berkas <nama_paket>' untuk mendapatkan listingisi paket debian. Tindakan ini mirip dengan'Dpkg -L <nama_paket>' kecuali paket tidak perlu diinstal ataudiambil menggunakan apt-file yang berbeda dengan dpkg.
+
+%
+Debian Petunjuk # 43: Ingin sementara menonaktifkan firewall iptables Anda? Menggunakan'Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / MENERIMA /" | iptables-restore 'untuk menghapussemua peraturan dan menetapkan kebijakan default ACCEPT.
+
+%

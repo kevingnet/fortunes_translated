@@ -1,0 +1,412 @@
+Một máy Linux! vì 486 là một điều khủng khiếp để lãng phí!(Bằng jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hoàn toàn không có gì nên được kết luận từ những con số, ngoại trừchưa có kết luận có thể được rút ra từ chúng. "(Joseph L. Brothers, Linux Dự án / PowerPC)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Trên thực tế, cách gõ chuỗi ngẫu nhiên trong Finder không tương đươnghoàn thành tên tập tin.(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của các lệnh: filehoàn thành so với Mac Finder).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sau khi xem cha mới về hưu của tôi dành hai tuần học tập làm thế nào để làm cho một mớithư mục, nó trở nên rõ ràng rằng "trực quan" chủ yếu có nghĩa là "những gì các nhà văn hayloa của thích trực quan ".(Bruce Ediger, bediger@teal.csn.org, trong comp.os.linux.misc, trên Xtrực giác nhạy bén của một giao diện Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tất cả các thiết kế ngôn ngữ là kiêu ngạo. Goes với lãnh thổ ..."(Theo Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Và 1.1.81 chính thức là thiếu sót kỹ (tm), vì vậy nếu bạn nhận được bất kỳ lỗi, báo cáovào nó, bạn biết họ là những lời nói dối chỉ ác. "(Theo Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Và nữ ăn mặc hở hang, trong khóa học. Ai quan tâm nếu nó dưới số khôngở ngoài"(Theo Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Và lần sau khi bạn xem xét phàn nàn rằng chạy Lucid Emacs19.05 qua NFS từ một máy Linux từ xa trong Paraguay dường như khôngcó được màu sắc nền phù hợp, bạn sẽ biết ai để cảm ơn. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Bất kỳ nhân viên khuân vác ra có nên cảm thấy hạnh phúc hơn khi biết rằng tháng mười hai là vận chuyển>: Cho tôi một AlphaPC rằng tôi có ý định thử nhận linux chạy trên: ý chí này>: Chắc chắn giúp tuôn ra một số công cụ unportable trắng trợn nhất.>: Alpha là nhiều khác nhau từ i386 hơn những thứ 68k, do đó,>: Nó có khả năng nhận được hầu hết những thứ cố định.>> Đó là bài viết như thế này mà gần như thuyết phục chúng tôi không tin rằng có> Thực sự là một vị thần.(A theo dõi qua alovell@kerberos.demon.co.uk, Anthony Lovell, để Linusnhận xét về chuyển)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bất cứ ai nghĩ UNIX được trực quan nên buộc phải viết 5000 dòngmã sử dụng gì, nhưng vi hay emacs. AAAAACK!(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của các lệnh, đặc biệtEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Có [người dùng Linux] lemmings nhảy chung tắt của vách đáđáng tin cậy, được thiết kế phần mềm thương mại? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Như thường lệ, đây là một phiên bản 1.3.x, tôi đã thậm chí không biên soạn nàyhạt nhân nào. Vì vậy, nếu nó hoạt động, bạn sẽ có gấp đôi ấn tượng.(Linus Torvalds, tuyên bố hạt nhân 1.3.3 trên mailing list linux-kernel).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tránh những cổng địa ngục. sử dụng Linux(Nguồn không rõ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Được cảnh báo rằng đánh máy \ fBkillall \ fIname \ FP có thể không mong muốnảnh hưởng trên các hệ thống Linux không, đặc biệt là khi thực hiện bởi một người dùng đặc biệt.(Từ trang killall tay)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Bên cạnh đó, tôi nghĩ rằng [Slackware] âm thanh tốt hơn so với 'Microsoft,' phải không?"(Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nhưng những gì bạn có thể làm gì với nó? - Khóc ở khắp nơi từ đối tác của Linux người dùng.(Đăng bởi Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Trời ơi, tôi bắt đầu nghĩ rằng Linux thực sự * là * điều tốt nhất kể từ khibánh mì cắt lát."(Theo Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Rất tiếc. Các hạt nhân đã cố gắng để truy cập vào một số trang xấu. Chúng tôi sẽ phải * Chấm dứt mọi thứ với thành kiến ​​cực đoan.* /die_if_kernel ( "Oops", regs, error_code);(Từ linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Sâu Hack Mode - rằng nhà nước bí ẩn và đáng sợ củaý thức nơi người Mortal sợ để bước đi. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra có thể ghét tôi(Linus Torvalds, trong kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, A gây phiền nhiễu khởi động virus nhỏ mà làm cho hệ thống tự phát ngẫu nhiên.     bị treo, thường chỉ là trước khi lưu một dự án lớn. Dễ dàng chữa khỏi bởi     UNIX. Xem thêm MS-DOS, IBM-DOS, DR-DOS.(Từ .plan David Vicker của)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Lưu ý rằng 120 giây được định nghĩa trong giao thức là tối đa * Có thể RTT. Tôi đoán chúng ta sẽ phải sử dụng một cái gì đó khác hơn so với TCP * Nói chuyện với các trường Đại học của sao Hỏa. * Bàn chân cho phép chúng ta timeout dài hơn và cửa sổ lớn, do đó khi thực hiện * Ftp để mars sẽ làm việc độc đáo. * /(Từ /usr/src/linux/net/inet/tcp.c, liên quan đến RTT [thời gian chờ phát lại])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Thậm chí đáng ngạc nhiên hơn là sự nhận thức rằng Thiên Chúa có quyền truy cập Internet. Tôitự hỏi nếu ông có một newsfeed đầy đủ? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Bao giờ nghe nói về cshrc?Đó là một thành phố ở Bosnia. Đúng?(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của các lệnh.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Error: Tìm thấy [MS-Windows] Hệ thống -> phân vùng lại đĩa dùng cho Linux ...(Bằng cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Làm thế nào để gõ "cho tôi trong .dvi * làm xdvi tôi thực hiện" trong một giao diện?(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của giao diện.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Làm thế nào tôi nên biết nếu nó hoạt động? Đó là những gì người thử nghiệm được cho. Tôi chỉmã hoá nó. "(Quy cho Linus Torvalds, ở đâu đó trong một bài viết)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Một thành viên tự hào của TeamLinux \ _________ \ /(Bằng CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tôi phát triển cho Linux để kiếm sống, tôi đã sử dụng để phát triển cho hệ điều hành DOS.Đi từ DOS sang Linux cũng giống như một chiếc tàu lượn giao dịch cho một F117.(Bằng entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tôi đã làm điều này 'gây Linux mang lại cho tôi một thân gỗ. Nó không tạo ra doanh thu.(Dave '-ddt-> `Taylor, công bố DOOM cho Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hãy liên hệ với tôi (ngọn lửa về tiếng anh của tôi và vô dụng nàylái xe sẽ được chuyển đến / dev / null, không có, nó đầy đủ ...).(Michael Beck, mô tả các thiết bị âm thanh PC-loa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tôi không biết tại sao, nhưng các chương trình C đầu tiên có xu hướng tồi tệ hơn rất nhiều so vớichương trình đầu tiên trong bất kỳ ngôn ngữ khác (có lẽ trừ Fortran, nhưng sau đóTôi nghi ngờ tất cả các chương trình Fortran trông như `cái đầu tiên ')"(Bằng Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tôi đã từng chứng kiến ​​một, flamewar dài hơi kéo dài một tháng qua sử dụngchuột vs bi ... Đó là rất ngớ ngẩn. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tôi vẫn duy trì quan điểm rằng thiết kế một hạt nhân nguyên khối vào năm 1991 là mộtlỗi cơ bản. Hãy biết ơn bạn không phải là sinh viên của tôi. Bạn sẽ không nhận được mộtcao cấp cho một thiết kế như vậy :-)(Andrew Tanenbaum để Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tôi thà dành 10 giờ đọc mã nguồn của người khác hơn10 phút nghe Musak chờ hỗ trợ kỹ thuật mà không phải là ".(Theo Tiến sĩ Greg Wettstein, Roger Trung tâm Ung thư Maris)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tôi muốn bò trên một mẫu Anh 'trực quan ++ này" và "Phát triển tích hợpĐó là để có được để gcc, Emacs, và gdb. Cảm ơn bạn."(Theo Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tôi là một thằng ngốc .. Ít nhất một này [lỗi] mất khoảng 5 phút để tìm .."(Linus Torvalds để đáp ứng với một báo cáo lỗi.)> Tôi là một thằng ngốc .. Ít nhất này [lỗi] mất khoảng 5 phút để tìm ..Đáng lo ngại ...(Gonzalo Tornaria trong phản ứng để gửi thư Linus Torvalds về một lỗi hạt nhân).> Tôi là một thằng ngốc .. Ít nhất này [lỗi] mất khoảng 5 phút để tìm ..Chúng ta cần phải tìm thấy một số điều khoản mới để mô tả các phần còn lại của chúng ta chỉ là con ngườisau đó.(Craig Schlenter trong phản ứng để gửi thư Linus Torvalds về một lỗi hạt nhân).> Tôi là một thằng ngốc .. Ít nhất này [lỗi] mất khoảng 5 phút để tìm ..Chắc chắn, Linus là nói về các loại ngu ngốc mà những người khác mong muốn :-).(Bruce Perens trong phản ứng để gửi thư Linus Torvalds về một lỗi hạt nhân).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tôi đã chạy DOOM hơn trong vài ngày qua hơn tôi có vài cuối cùngtháng. Tôi chỉ cần tình yêu gỡ lỗi ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, quan tâm bởi sự phổ biến ngày càng tăng của các miễn phí 32-bithệ điều hành cho các hệ thống Intel, Linux, đã sử dụng một số đầulập trình từ thế giới ngầm của phát triển virus. Bill Gates đã nóingày hôm qua: "Thế giới thống trị, nhanh chóng - đó là một trong hai chúng tôi hoặc Linus". Ông Torvaldsđã không có bình luận ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), trong comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Đừng hoảng loạn \ n");xuất cảnh (42);    }(Arnold Robbins trong LJ tháng Hai '95, mô tả RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Nếu được xác định (__ alpha__) && định nghĩa (CONFIG_PCI)+ / *+ * Ý nghĩa của cuộc sống, vũ trụ, và tất cả mọi thứ. Thêm+ * Này làm cho năm đi ra bên phải.+ * /+ Năm - = 42;+ # Endif(Từ các bản vá cho 1.3.2: (kernel / time.c), do Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nếu hệ thống định vị trong tương lai [cho dịch vụ nối mạng tương tác trênNII] trông giống như một cái gì đó từ Microsoft, nó sẽ không bao giờ làm việc. "(Chủ tịch của Walt Disney Truyền hình & Viễn thông)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nếu bạn muốn đi du lịch khắp thế giới và được mời đến nói chuyện tại rất nhiềucác nơi khác nhau, chỉ cần viết một hệ điều hành Unix. "(Theo Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[Trong 'Doctor' chế độ], tôi đã dành mười phút nói Emacs những gì tôinghĩ về nó. (Câu trả lời là 'Có lẽ bạn có thể thử được ítlạm dụng. ') "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Trong hầu hết các quốc gia này bán những thứ độc hại như thuốc sẽ bị trừng phạt.Sau đó howcome mọi người có thể bán phần mềm Microsoft và bị trừng phạt?(Bằng hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel kỹ thuật dường như có chiến lược tiếp thị của Intel nghe nhầm. Cụm từlà "Chia để trị" không "Phân chia và gà lên"(Bằng iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Đó là Thiên Chúa. Không, không phải Richard Stallman, hoặc Linus Torvalds, nhưng Đức Chúa Trời."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, bạn đã có tôi trên đầu gối của tôi!(Từ David Black, dblack@pilot.njin.net, với lời xin lỗi với Derek vàDominos, và Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux là lỗi thời(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux là một thách thức thực sự cho những người có một hương vị cho đêm khuyahack (và / hoặc cuộc hội thoại với Thiên Chúa) ".(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Du kích UNIX Phát triển Venimus, bản chánh của chứng thư, Dolavimus.(Bằng mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linux] khả năng nói chuyện qua bất kỳ phương tiện ngoại trừ tín hiệu khói."(Theo Tiến sĩ Greg Wettstein, Roger Trung tâm Ung thư Maris)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: vì một máy tính là một điều khủng khiếp để lãng phí(Ksh@cis.ufl.edu đặt này trên phông trong '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Bởi vì một máy tính là một điều khủng khiếp để lãng phí.(Bằng komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: sự lựa chọn của một thế hệ GNU(Ksh@cis.ufl.edu đặt này trên phông trong '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: hệ điều hành với một đầu mối ...Command Line tài môi trường ".(Nhìn thấy trong một bài viết trong comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 trên lửa(Một trong những thông điệp hạt nhân làm rắc rối hơn)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft không phải là câu trả lời.Microsoft là câu hỏi.NO (hoặc Linux) là câu trả lời.(Trích từ một .signature từ một người nào đó đến từ Anh, không rõ nguồn gốc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer Drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten trong Dateisysteme, und, nữ tu, 'besteigen' beim Sex.(Christa Keil trong một bài viết tiếng Đức: "Gắn được sử dụng cho ba điều:leo trên một con ngựa, liên kết trong một đơn vị đĩa cứng trong hệ thống dữ liệu, và, tốt,gắn trong quan hệ tình dục ").
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS đã không nhận được là xấu vì nó là qua đêm - nó đã hơn mười nămphát triển cẩn thận. "(Bằng dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Không bao giờ thực hiện bất kỳ mistaeks."(Chưa xác định, trong một cuộc thảo luận mail về một báo cáo lỗi hạt nhân).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Không phải tôi, anh chàng. Tôi đọc trang Bash người đàn ông mỗi ngày như nhân chứng của Jehovah lần đọckinh Thánh. Không chờ đợi, những người đàn ông trang Bash LÀ kinh thánh. Xin lỗi...(Xem thêm về bí danh khó hiểu, lấy từ comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Lưu ý rằng nếu tôi có thể giúp bạn có được để \" su và nói \ "một cái gì đó chỉ bằng cách hỏi,bạn có một vấn đề an ninh rất nghiêm trọng trên hệ thống của bạn và bạn nênnhìn vào nó."(Paul Vixie, vixie-cron 3.0.1 ghi chú cài đặt)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bây giờ tôi biết một ai đó ra có là có người đến nhận, "Vậy thì, UNIX là trực quan,bởi vì bạn chỉ cần học 5000 lệnh, và sau đó tất cả mọi thứ khác sautừ đó! Har har har! "(Andy Bates trong comp.os.linux.misc, về "giao diện trực quan", hơibảo vệ máy tính Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bây giờ, nó chúng tôi đã có các loại điều này:  mang -a cho năng suất cho tất cả các giao thông  mang -t cho năng suất để xe  mang -f cho năng suất cho người đi bộ (năng suất chân)  mang -d t * cho năng suất trên ngày bắt đầu với t... Bạn sẽ có rất nhiều người dân chết tại nút giao thông, ùn tắc giao thông và bạnsẽ không tin ...(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của các lệnh.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Trên một dòng ascii bình thường, điều kiện an toàn duy nhất để phát hiện là một 'BREAK'- Tất cả mọi thứ khác đã được phân công chức năng của GNU Emacs ".(Bằng Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Trên Internet, không ai biết bạn đang sử dụng Windows NT"(Đăng bởi Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ngày xửa ngày xưa, có một người sử dụng hệ điều hành DOS đã thấy Unix, và thấy rằng nó làtốt. Sau khi gõ cp trên máy tính hệ điều hành DOS của mình ở nhà, ông đã tải về GNU củacông cụ Unix chuyển đến hệ điều hành DOS và cài đặt chúng. Ông rm'd, cp'd, và mv'dhạnh phúc cho nhiều ngày, và khi tìm elvis, ông vi'd và được hạnh phúc. Saumột ngày dài làm việc (trên một hộp Unix), ông trở về nhà, bắt đầu chỉnh sửa một tập tin,và không thể tìm ra lý do tại sao ông không thể đình chỉ vi (w / ctrl-z) để làmmột biên dịch.(Bằng ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Khác so với thực tế Linux có tên mát, ai đó có thể giải thích lý do tại sao tôi>> Nên sử dụng Linux trên BSD?>> Số đó là nó. Tên mát mẻ, đó là. Chúng tôi làm việc rất chăm chỉ trên> Tạo ra một cái tên mà sẽ kháng cáo tới đa số người dân, và nó> Chắc chắn đã được đền đáp: hàng ngàn người dân đang sử dụng Linux chỉ để có thể> Nói "OS / 2? Hah. Tôi đã có Linux. Thật là một tên mát mẻ". 386BSD làm> Sai lầm của việc đưa rất nhiều con số và chữ viết tắt lạ vào> Tên, và được nản lòng rất nhiều người chỉ vì nó có vẻ quá> Kỹ thuật.(Linus Torvalds 'tiếp theo cho một câu hỏi về Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Cá nhân, tôi nghĩ rằng sự lựa chọn của tôi trong các cuộc chiến tranh mostest-bậc-máy tính đãlà HP-48 loạt các máy tính. Họ sẽ chạy gần như bất cứ điều gì. Và nếu họkhông thể, trong khi tôi sẽ chỉ cần cắm một hộp Linux vào cổng nối tiếp và tải lênHP-48 VT-100 giả lập.(Bằng jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Không có chủ đề trong a.b.p.erotica, vì vậy không có lợi trong việc sử dụng mộtluồng đọc tin tức.(Nguồn không rõ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vấn đề giải quyết theo linux chưa bao giờ được xiếc rằng nó là dướiAIX. "(Theo Pete Ehlke trong comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+bỏ Khi tuyên bố từ bỏ được đọc, bộ vi xử lý bc       chấm dứt, không phân biệt nơi bỏ cấp Nhà nước       ment được tìm thấy. Ví dụ, "nếu (0 == 1) bỏ"       sẽ gây ra bc chấm dứt.(Nhìn trong manpage cho "bc". Lưu ý là "nếu" logic tuyên bố của)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chạy Windows trên một Pentium là giống như có một thương hiệu Porsche mới nhưng chỉcó thể lái xe về phía sau phanh tay trên.(Nguồn không rõ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Quá cảnh sic dĩa Mundi"(Từ hướng dẫn quản trị của hệ thống, bởi Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tiếng thở dài. Tôi thích nghĩ rằng nó chỉ là những người Linux người muốn được vàocác "mũi nhọn" xấu như vậy họ đi bộ phải ra khỏi vực thẳm.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Các chương trình chat là trong phạm vi công cộng. Đây không phải là giấy phép công cộng GNU. Nếunó ngắt sau đó bạn có thể giữ cả hai miếng.(Bản quyền thông báo cho chương trình chat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Những người ngày nghĩ linux sẽ được phục vụ tốt hơn bởi một người khác (FSF> Là tự nhiên thay thế), tôi sẽ "thoái vị". Tôi không nghĩ rằng> Nó là cái gì mọi người đã lo lắng về ngay bây giờ - Tôi không nhìn thấy nó> Xảy ra trong tương lai gần. Tôi thích làm Linux, mặc dù nó> Có nghĩa là một số công việc, và tôi đã không nhận được bất kỳ khiếu nại (một số gần như nhút nhát> Nhắc nhở về một bản vá lỗi tôi đã quên hoặc bỏ qua, nhưng không có gì> Tiêu cực cho đến nay).>> Không nên ở trên để có nghĩa là tôi sẽ dừng lại ngày ai đó phàn nàn:> Tôi là dày da (Lasu, những người đang đọc này qua vai của tôi nhận xét> Rằng "dày đầu là gần với sự thật"), đủ để có một số lạm dụng.> Nếu tôi là không, tôi đã ngừng phát triển Linux ngày ast chế nhạo tôi> Trên c.o.minix. Những gì tôi có nghĩa là chỉ rằng trong khi Linux đã được bé của tôi như vậy> Đến nay, tôi không muốn đứng trong đường đi nếu mọi người muốn làm một cái gì đó> Tốt hơn của nó (*).>> Linus>> (*) Hey, có lẽ tôi có thể áp dụng cho một vị thánh-mui xe từ Đức Giáo Hoàng. Làm> Ai biết email-địa chỉ của mình là gì? Tôi rất đẹp nó làm cho bạn nôn.(Trích từ bài trả lời của Linus với ai đó lo lắng về tương lai của Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Những điều tốt đẹp về Windows là - Nó không chỉ sụp đổ, nó sẽ hiển thị mộthộp thoại và cho phép bạn nhấn 'OK' đầu tiên.(.sig Arno Schaefer)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Các chỉ có giao diện "trực quan" là núm vú. Sau đó, tất cả đều học được.(Bruce Ediger, bediger@teal.csn.org, trong comp.os.linux.misc, trên giao diện X).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Có hai loại của các nhà phát triển Linux - những người có thể đánh vần, vànhững người có thể không. Có một cuộc chiến dốc liên tục giữa hai.(Từ một trong những-1.1.54 đăng bài hạt nhân cập nhật gửi đến c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Thông báo này đã mang đến cho bạn bởi Linux, Unix miễn phí.Windows mà không cần X là giống như làm tình mà không có một đối tác.Sex, Drugs & Rules Linuxwin-nt từ những người phát minh ra EDLINtáo có nghĩa là rắc rối kể từ edenLinux, cách để thoát khỏi virus boot(Bằng mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS và Windows NT (còn được gọi là Good, the Bad, vàxấu xí)."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Rất ít hiện tượng có thể kéo ai đó ra khỏi sâu Hack Mode, với haighi nhận trường hợp ngoại lệ: bị sét đánh, hoặc tệ hơn, * máy tính của bạn *bị sét đánh. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vẫy đi một đám mây khói, tôi nhìn lên, và đang bị mù do một tươi sáng, trắngánh sáng. Đó là Đức Chúa Trời. Không, không phải Richard Stallman, hoặc Linus Torvalds, nhưng Đức Chúa Trời. Trongmột giọng nói đang bùng nổ, Người nói: "THIS IS A SIGN SỬ DỤNG LINUX, HỆ THỐNG MIỄN PHÍ UNIX.CHO 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Chúng ta đều biết Linux là rất tốt ... nó vòng lặp vô hạn trong 5 giây."(Linus Torvalds về tính ưu việt của Linux trên AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chúng tôi là MicroSoft. Bạn sẽ được đồng hóa. Kháng là vô ích.(Quy cho B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chúng tôi là Pentium của Borg. Phòng là vô ích. Bạn sẽ được xấp xỉ.(Thấy trong .signature của một ai đó)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chúng tôi đang sử dụng Linux hàng ngày để UP suất của chúng tôi - để UP của bạn!(Trích từ Pat Paulsen Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chúng tôi đến để chôn DOS, không phải để ca ngợi nó.(Paul Vojta, vojta@math.berkeley.edu, diễn giải một báo Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Chúng tôi sử dụng Linux cho tất cả các ứng dụng quan trọng của chúng tôi. Có mã nguồncó nghĩa là chúng ta không giữ làm con tin bởi bộ phận hỗ trợ của bất kỳ ai.(Russell Nelson, Chủ tịch Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Những gì bạn kết thúc với, sau khi chạy một khái niệm hệ điều hành thông quanhững nhiều bộ lọc cà phê tiếp thị, là một cái gì đó không giống như đồng bằng nóngnước."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+của kịch bản này làm gì?    giải nén; chạm ; ngón tay; gắn kết; thở hổn hển; có đấy ; umount; ngủGợi ý cho câu trả lời: không phải mọi thứ là máy tính theo định hướng. Đôi khi bạntrong một túi ngủ, cắm trại.(Đóng góp của Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Khi bạn nói" tôi đã viết một chương trình mà bị rơi Windows ", người ta chỉ nhìn chằm chằm vàobạn ngây và nói "Này, tôi có những người có hệ thống, * cho * miễn phí". '(Theo Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Whip tôi. Đánh bại tôi. Hãy cho tôi duy trì AIX."(Theo Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ai là người thất bại chung và tại sao ông đọc đĩa cứng của tôi?"Microsoft spel chekar vor buồm, worgs grate !!(Bằng leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ai muốn nhớ rằng thoát-x-alt-control-trái shift-b đặt bạn vàosiêu-sửa-debug-biên dịch chế độ?(Thảo luận trong comp.os.linux.misc trên trực giác nhạy bén của các lệnh, đặc biệtEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tại sao sử dụng Windows, kể từ khi có một cánh cửa?(Bằng fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Thế giới thống trị. Nhanh"(Theo Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you có thể dành cả ngày * * tùy biến các thanh tiêu đề. Tin tôi đi. tôinói từ kinh nghiệm ".(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Bạn cũng có thể bỏ qua lễ Giáng sinh hoàn toàn, và thay vào đóngồi ở phía trước của Linux chơi máy tính của bạn vớihoàn toàn mới và được cải tiến phiên bản hạt nhân Linux. "(Theo Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Công việc của bạn là trở thành một giáo sư và nhà nghiên cứu: Đó là một địa ngục của một cái cớ tốtcho một số các não thiệt hại của Minix.(Linus Torvalds Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tôi đã nghe một Người Do Thái và một người Hồi giáo tranh luận tại một quán cà phê Damascus với ít niềm đam mêhơn so với các cuộc chiến tranh emacs. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

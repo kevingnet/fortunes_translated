@@ -1,0 +1,245 @@
+Consejo 1 de Debian: Puede informar de un error en un paquete con la orden
+«reportbug», que está disponible en el paquete reportbug, mediante la línea
+de órdenes o mediante la interfaz gráfica (disponible ejecutando
+«reportbug-ng --ui gtk2» o en el menú).
+
+%
+Consejo 2 de Debian: Puede utilizar «dpkg-reconfigure <paquete>» para
+cambiar las respuestas que proporcionó a las preguntas que respondió al
+instalar por primera vez un paquete. El paquete «configure-debian»
+proporciona una interfaz unificada para realizar esto.
+
+%
+Consejo 3 de Debian: Puede utilizar «apt-cache search <palabras>» o
+«aptitude search <palabras>» para buscar por palabras en las descripciones
+de todos los paquetes disponibles.
+
+%
+Consejo 4 de Debian: Puede ver las versiones disponibles e instaladas para
+uno o más paquetes disponibles con la orden «apt-cache policy <paquetes>».
+
+%
+Consejo 5 de Debian: Si necesita generar un núcleo personalizado, utilice el
+script «make-kpkg» del paquete kernel-package.
+
+%
+Consejo 6 de Debian: No hay consejo 6. ¡Envíe un consejo hoy!
+
+%
+Consejo 7 de Debian: Puede utilizar el paquete cron-apt para realizar
+descargas nocturnas automáticas de las actualizaciones de los paquetes
+instalados en el sistema.
+
+%
+Consejo 8 de Debian: Si tiene problemas con Debian que no puede resolver
+leyendo los manuales y la documentación, intente preguntar en la lista de
+correo de los usuarios de Debian («debian-user-spanish@lists.debian.org»).
+
+%
+Consejo 9 de Debian: Si necesita conocer qué versión de Debian está
+ejecutando, mire en el archivo «/etc/debian_version» o ejecute la orden
+«lsb_release -sc». Si quiere saber el nombre en código de la versión (por
+ejempolo: la versión 5.0 tiene como nombre en código «Lenny»), visite esta
+dirección:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Consejo 10 de Debian: Hay listas de correo de Debian para cualquier cosa,
+desde preguntas de usuarios hasta debates sobre que introducir en los
+documentos de la política de Debian. Puede ver todas las listas en
+«http://www.debian.org/MailingLists/» y suscribirse a las que le interesen.
+
+%
+Consejo 11 de Debian: Manténgase al día de lo que pasa, lea las noticias de
+Debian. Las puede encontrar en la dirección
+«http://www.debian.org/News/weekly/»
+
+%
+Consejo 12 de Debian: El paquete grep-dctrl proporciona un número de scripts
+útiles para una búsqueda rápida de varios archivos de control de paquetes
+(como de los archivos de paquetes disponibles).
+
+%
+Consejo 13 de Debian: Si no le gustan las opciones predeterminadas
+utilizadas en un paquete de Debian, puede descargar el código fuente y
+generar una versión que utilice las opciones que prefiera. Para más
+información visite «http://www.debian.org/doc/FAQ/ch-pkg_basics.html» (vea
+las secciones 6.13 y 6.14).
+
+Sin embargo, recuerde que la mayoría de las opciones de la mayoría de los
+paquetes se pueden configurar en su ejecución, y no necesitan recompilar el
+paquete.
+
+%
+Consejo 14 de Debian: Si le gustaría seguir las cosas que le han ocurrido a
+un paquete (por ejemplo, si quiere ver los informes de errores, los anuncios
+de publicación, y otras cosas similares), considere suscribirse al sistema
+de seguimiento de paquetes (PTS). Puede encontrar más información sobre el
+PTS en:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Consejo 15 de Debian: La documentación de un paquete normalmente se puede
+encontrar en el directorio «/usr/share/doc/<paquete>». En concreto, el
+archivo «README.Debian» suele tener información útil sobre consejos y
+peculiaridades específicos de Debian.
+
+%
+Consejo 16 de Debian: Si está buscando un archivo en concreto, pero no
+conoce a qué paquete pertenece, intente instalar «apt-file», que mantiene
+una pequeña base de datos con esta información, o busque en el contenido de
+la base de datos de los paquetes de Debian, se puede realizar en:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Consejo 17 de Debian: ¿Necesita alguien para hablar sobre Debian? Si está
+habituado al IRC («Internet Relay Chat»), simplemente instale su cliente
+favorito de IRC, y únase al canal #debian en «irc.debian.org».
+
+%
+Consejo 18 de Debian: La información del control de calidad de un paquete se
+puede encontrar en la dirección «http://packages.qa.debian.org/<paquete>»,
+esta página proporciona enlaces a la página del control de calidad (QA) del
+mantenedor, al BTS, a las noticias del paquetes y a información sobre qué
+versiones están disponibles en los archivos.
+
+%
+Consejo 19 de Debian: Si está interesado en generar paquetes desde el código
+fuente, debería considerar instalar el paquete apt-src.
+
+%
+Consejo 20 de Debian: ¿Quiere seguir qué versión de un paquete tiene
+instalado (especialmente útil para aquellos que tienen sistemas híbridos
+estable/testing/inestable)? Utilice apt-show-versions.
+
+%
+Consejo 21 de Debian: Si su máquina dispone de una conexión lenta de red,
+pero también tiene acceso a otra rápida, vea el paquete apt-zip.
+
+%
+Consejo 22 de Debian: ¿Se pregunta que réplica de Debian le viene mejor? Vea
+los paquetes apt-spy y netselect-apt, que le pueden proporcionar información
+sobre el rendimiento e varias réplicas.
+
+%
+Consejo 23 de Debian: Si el sistema está utilizando mucho espacio en disco,
+intente usar el paquete deborphan, sugiere paquetes que están sin usar y se
+pueden borrar. Y, por supuesto, no se olvide de limpiar la caché de APT
+(ejecutando «apt-get clean», «aptitude clean» o seleccionando Acción ->
+Limpiar la caché de los paquetes en el menú de aptitude).
+
+%
+Consejo 24 de Debian: Si quisiera agradecer a un mantenedor por gestionar un
+informe, utilice «reportbug --kudos».
+
+%
+Consejo 25 de Debian: El paquete «debian-reference» contiene una gran
+variedad de documentos de referencia para los usuarios y los desarrolladores
+de Debian. La mayoría de la información también se puede encontrar en la
+siguiente dirección:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Consejo 26 de Debian: Si un paquete no parece tener mucha documentación,
+compruebe que exista un paquete llamado «<paquete>-doc» o similar y
+asegúrese de instalarlo también. Los paquetes con grandes cantidades de
+documentación normalmente se separan de esta manera para aquellos que no
+quieren instalarlos.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Consejo 28 de Debian: Si su máquina no está encendida todo el tiempo (como
+podría ser un portátil), vea el paquete «anacron», este paquete se asegurará
+de que las tareas frecuentes se realicen, incluso si la máquina no está
+encendida en el momento en que se deberían ejecutar.
+
+%
+Consejo 29 de Deiban: Mantenga el reloj del sistema en hora. Las máquinas
+que estén encendidas todo o la mayoría del tiempo deberían tener instalado
+el paquete «ntp» para mantener el reloj en hora entre reinicios.
+
+%
+Consejo 30 de Debian: Se puede disponer de la documentación en
+«http://localhost/» instalando los paquetes «doc-base» y «doc-central» y sus
+dependencias.
+
+%
+Consejo 31 de Debian: Desactivando un servicio normalmente activo en un
+nivel de ejecución («runlevel») específico se debería hacer cambiando el
+enlace S en el directorio «/etc/rc<nivel>.d» a un enlace K, en vez de borrar
+el enlace completamente, si se borran todos los enlaces, el sistema asumirá
+en la siguiente instalación que se deben reemplazar.
+
+%
+Consejo 32 de Debian: El paquete «doc-debian» contiene alguna documentación
+general sobre el proyecto Debian. También está disponible en español
+(doc-debian-es), francés (doc-debian-fr) y ucraniano (doc-debian-uk).
+
+%
+Consejo 33 de Debian: El paquete «devscripts» contiene algunos scripts
+útiles para usuarios que quieren ayudar a mejorar Debian. por ejemplo:
+wnpp-alert, rc-alert y bts.
+
+%
+Consejo 34 de Debian: Si quiere seguir Debian sid y tiene una conexión lenta
+o una cuota de descarga pequeña, vea el paquete debdelta.
+
+%
+Consejo 35 de Debian: ¿Busca algunos juegos? Mire «goplay», que ofrece una
+interfaz agradable para navegar entre todo tipo de juegos.
+
+%
+Consejo 36 de Debian: ¿Necesita un paquete más nuevo que los que trae Debian
+en la última versión estable pero no quiere actualizar a «testing» o a
+«inestable»? Algunos paquetes se mantienen actualizados mediante el conjunto
+de actualizaciones de estable «stable-updates», y algunos otros están
+disponibles en «backports.debian.org».
+
+%
+Consejo 37 de Debian: ¿Desea descargar un paquetes sin instalarlo? Utilice
+«aptitude download <nombre_del_paquete>».
+
+%
+Consejo 38 de Debian: ¿Desea saber cómo puede utilizar un programa que nunca
+ha utilizado antes? ¡«man» será su mejor amigo! Escriba «man
+<nombre_del_programa>» en la consola, o ejecute «man -H
+<nombre_del_programa>» para leer la página del manual en un navegador.
+
+%
+Consejo 39 de Debian: Mejore la autocompletado de bash mediante el
+tabulador, instalando el paquete bash-completion.
+
+%
+Consejo 40 de Debian: Si instala el paquete command-not-found, al ejecutar
+una orden que no tenga instalada éste le dirá qué paquete instalar para
+conseguir la orden.
+
+%
+Consejo 41 de Debian: Puede utilizar «apt-cache show <nombre_del_paquete>» o
+«aptitude show <nombre_del_paquete>» para conseguir más información sobre un
+paquete de Debian.
+
+%
+Consejo 42 de Debian: Puede utilizar «apt-file <nombre_del_paquete>» para
+conseguir un listado de los contenidos de un paquete de Debian. Esta acción
+es similar a «dpkg -L <nombre_del_paquete>» excepto que el paquete no
+necesita estar instalado o, en el caso de dpkg, descargado utilizando
+apt-file.
+
+%
+Consejo 43 de Debian: ¿Desea desactivar temporalmente el cortafuegos de
+iptables? Ejecute «iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" |
+iptables-restore» para borrar todas las reglas y fijar las reglas
+predeterminadas a «ACCEPT».
+
+%
+Consejo 44 de Debian: Puede seguir la cuenta de Debian en Identi.ca
+«http://identi.ca/debian». También hay más información sobre Debian en
+Identica en «http://wiki.debian.org/Teams/Publicity/Identica».

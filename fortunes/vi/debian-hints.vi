@@ -1,0 +1,129 @@
+Debian Gợi ý # 44: Bạn có thể làm theo các tài khoản Identi.ca cho Debian tạihttp://identi.ca/debian Thông tin thêm về Debian tại Identica cũng có thểđược tìm thấy tại: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Gợi ý # 1: Bạn có thể báo cáo một lỗi trong một gói với lệnh 'reportbug',trong đó có sẵn trong gói reportbug, hoặc từ dòng lệnh hoặcvới Giao diện đồ họa mới (có sẵn chạy 'reportbug gtk2 --ui' hoặc trongthực đơn).
+
+%
+Debian Gợi ý # 2: Bạn có thể sử dụng 'dpkg-reconfigure <package>' để thay đổicâu trả lời bạn đã cho những câu hỏi đầu tiên khi bạn cài đặt một gói.Các gói 'configure-debian' cung cấp một giao diện thống nhất để làm điều này,cũng.
+
+%
+Debian Gợi ý # 3: Bạn có thể sử dụng 'tìm kiếm apt-cache <từ>' hay'Khả năng tìm kiếm <từ>' để tìm kiếm các từ trong mô tả của tất cảgói có sẵn.
+
+%
+Debian Gợi ý # 4: Bạn có thể thấy các phiên bản có sẵn và cài đặt cho mộthoặc gói sẵn nhiều hơn với các 'chính sách apt-cache <gói>' lệnh.
+
+%
+Debian Gợi ý # 5: Nếu bạn cần xây dựng một hạt nhân tùy chỉnh, sử dụng 'make-kpkg'kịch bản tìm thấy trong gói kernel-package.
+
+%
+Debian Gợi ý # 6: Không có gợi ý # 6. Gửi một gợi ý ngày hôm nay!
+
+%
+Debian Gợi ý # 7: Bạn có thể sử dụng các gói cron-apt để làm hàng đêm tự độngtải bản cập nhật gói cài đặt trên hệ thống của bạn.
+
+%
+Debian Gợi ý # 8: Nếu bạn có vấn đề với Debian mà bạn không thể giải quyết bằng cáchđọc hướng dẫn sử dụng và tài liệu, thử hỏi trên Người dùng Debiandanh sách gửi thư (debian-user@lists.debian.org).
+
+%
+Debian Gợi ý # 9: Nếu bạn cần biết những phiên bản của Debian bạn hiện đangchạy, tìm trong / etc / debian_version hoặc sử dụng lệnh 'lsb_release -sc'. nếu bạnmuốn biết tên mã cho phiên bản đó (ví dụ, 5.0 có tên mã là'Lenny'), kiểm tra địa chỉ URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Gợi ý # 10: Có Debian danh sách gửi thư cho tất cả mọi thứ từ người dùngcâu hỏi để tranh luận về những gì để đặt vào các văn bản chính sách Debian.Kiểm tra danh sách ở http://www.debian.org/MailingLists/ và đăng kýnhững người mà bạn quan tâm.
+
+%
+Debian Gợi ý # 11: Hãy cập nhật về những gì đang xảy ra - đọc DebianDự án Tin tức. Đọc nó trên web tại http://www.debian.org/News/weekly/
+
+%
+Debian Gợi ý # 12: Các gói grep-dctrl cung cấp một số kịch bản hữu íchđể nhanh chóng tìm kiếm các tập tin kiểm soát gói khác nhau (chẳng hạn như có sẵnnộp gói).
+
+%
+Debian Gợi ý # 13: Nếu bạn không thích các tùy chọn mặc định được sử dụng trong một Debiangói, bạn có thể tải về mã nguồn và xây dựng một phiên bản trong đó sử dụng cáctùy bạn thích. xem http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Phần 6.13 và 6.14) để biết thêm thông tin.Tuy nhiên, hãy nhớ rằng hầu hết các tùy chọn trong hầu hết các gói có thể được cấu hìnhlúc chạy, và không cần phải biên dịch lại gói.
+
+%
+Debian Gợi ý # 14: Nếu bạn muốn làm theo những điều xảy ra với một gói(Ví dụ, nếu bạn muốn xem báo cáo lỗi, phát hành thông báo, và khácnhững điều tương tự), hãy xem xét đăng ký vào nó trên gói hệ thống theo dõi.Bạn có thể tìm hiểu thêm về PTS tại:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Gợi ý # 15: Các tài liệu cho một gói thông thường có thể được tìm thấydưới / usr / share / doc / <package>. Đặc biệt, các README.Debian nộp thườngcó thông tin hữu ích về tật hoặc lời khuyên Debian cụ thể.
+
+%
+Debian Gợi ý # 16: Nếu bạn đang tìm kiếm một tập tin cụ thể, nhưng không biếtmà gói nó thuộc về, hãy thử cài đặt 'apt-file', mà duy trì mộtcơ sở dữ liệu nhỏ của thông tin này, hoặc tìm kiếm các nội dung của DebianTrọn gói cơ sở dữ liệu, có thể được thực hiện tại:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Gợi ý # 17: Cần một người nào đó để nói chuyện về Debian? Nếu bạn cảm thấy thoải máivới Internet Relay Chat (IRC), chỉ cần cài đặt client IRC yêu thích của bạn, vàtham gia #debian trên irc.debian.org.
+
+%
+Debian Gợi ý # 18: Thông tin kiểm soát chất lượng về một gói có thể được tìm thấybằng cách vào http://packages.qa.debian.org/~~V <package>; Trang này cung cấpliên kết đến trang QA của Maintainer, BTS, các mục tin tức cho các gói, vàthông tin mà phiên bản có sẵn trong đó lưu trữ.
+
+%
+Debian Gợi ý # 19: Nếu bạn quan tâm trong việc xây dựng các gói từ nguồn, bạnnên xem xét cài đặt gói apt-src.
+
+%
+Debian Gợi ý # 20: Bạn muốn theo dõi những gì phiên bản của một gói bạn cócài đặt (đặc biệt hữu ích cho những người đang chạy lai ổn định / xét nghiệm /hệ thống không ổn định)? Kiểm tra apt-show-phiên bản.
+
+%
+Debian Gợi ý # 21: Nếu hộp Debian là đằng sau một kết nối mạng chậm,nhưng bạn có thể vào một nhanh là tốt, kiểm tra các gói apt-zip.
+
+%
+Debian Gợi ý # 22: Tự hỏi nơi Debian gương là tốt nhất cho bạn? Kiểm traapt-gián điệp và các gói netselect-apt, có thể cung cấp cho bạn thông tinkhoảng cách khác nhau trang mirror thực hiện.
+
+%
+Debian Gợi ý # 23: Nếu hệ thống của bạn đang sử dụng không gian đĩa quá nhiều, hãy thửdeborphan gói; nó có thể cung cấp những gợi ý về những gói có thể đượckhông sử dụng và có thể tháo rời. Và, tất nhiên, đừng quên để làm sạch rakhu vực bộ nhớ cache APT (sử dụng apt-get clean ',' aptitude clean ', hoặcHành động của aptitude -> gói sạch bộ nhớ cache mục trình đơn).
+
+%
+Debian Gợi ý # 24: Nếu bạn muốn cảm ơn một nhà bảo trì để xử lý mộtvấn đề, kiểm tra --kudos reportbug.
+
+%
+Debian Gợi ý # 25: Các gói phần mềm 'debian-tham khảo' chứa nhiềutham khảo tài liệu cho người dùng Debian và phát triển. Hầu hết cácthông tin cũng có thể được tìm thấy tại URL sau đây:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Gợi ý # 26: Nếu một gói dường như không có nhiều tài liệu,kiểm tra cho một gói có tên '<package> -doc' hoặc tương tự và đảm bảocài đặt nó như là tốt; gói với số lượng lớn các tài liệu hướng dẫnthường xuyên chia các tài liệu theo cách này cho những ai không muốncài đặt chúng.
+
+%
+Debian Gợi ý # 27: Thường xuyên kiểm tra các bản sao lưu của bạn. Bạn * được * giữ bản sao lưu,đúng? Đúng? Nếu không, hãy bắt đầu với tar (1) hoặc đổ (1).
+
+%
+Debian Gợi ý # 28: Nếu máy tính của bạn không có tất cả thời gian (chẳng hạn như mộtmáy tính xách tay), hãy kiểm tra các gói 'anacron'; điều này sẽ đảm bảo rằng thường xuyênnhiệm vụ vẫn xảy ra, ngay cả khi máy không phải là vào lúc đó họ sẽthường kích hoạt.
+
+%
+Debian Gợi ý # 29: Giữ đồng hồ hệ thống của bạn chính xác - Máy móc được bậthầu hết hoặc tất cả thời gian nên có gói 'NTP' cài đặt để giữ thời gianchính xác ở giữa khởi động lại.
+
+%
+Debian Hint # 30: Tài liệu có thể được thực hiện có sẵn tại http: // localhost /bằng cách cài đặt 'doc-cơ sở' và những gói doc-Trung ương và của họphụ thuộc.
+
+%
+Debian Gợi ý # 31: Vô hiệu hóa một dịch vụ bình thường, hoạt động trong một runlevel cụ thểnên được thực hiện bằng cách thay đổi các liên kết S trong /etc/rc<level>.d vào một liên kết K,chứ không phải là loại bỏ các liên kết hoàn toàn; nếu tất cả các liên kết được loại bỏ,hệ thống sẽ giả về sau cài đặt mà họ cần phải được thay thế.
+
+%
+Debian Gợi ý # 32: Các gói phần mềm 'doc-debian' chứa một số chungtài liệu về các dự án Debian. Nó cũng có sẵn trong tiếng Tây Ban Nha(Doc-debian-es), Pháp (doc-debian-fr) và Ukraina (doc-debian-uk).
+
+%
+Debian Gợi ý # 33: Các gói phần mềm 'devscripts' chứa một số kịch bản hữu ích chonhững người dùng muốn giúp cải thiện Debian, ví dụ wnpp cảnh báo, rc-cảnh báo và bts.
+
+%
+Debian Gợi ý # 34: Nếu bạn muốn theo dõi Debian sid và có một tải nhỏhạn ngạch hoặc một kết nối rất chậm, hãy kiểm tra các gói debdelta.
+
+%
+Debian Gợi ý # 35: Trong tìm kiếm cho một số trò chơi? Hãy xem 'goplay', màcung cấp một lối vào đẹp để duyệt qua tất cả các loại trò chơi.
+
+%
+Debian Gợi ý # 36: Cần một gói mới hơn vận chuyển với cuối cùng của Debianphát hành ổn định, nhưng không muốn nâng cấp lên 'thử nghiệm' hoặc 'không ổn định? Một sốgói được giữ up-to-date thông qua bộ phần mềm ổn định, cập nhật, một số người khácthực hiện tại backports.debian.org.
+
+%
+Debian Gợi ý # 37: Bạn muốn tải về một gói mà không cần cài đặt nó? Sử dụng'Khả năng tải xuống <pkgname>'.
+
+%
+Debian Gợi ý # 38: Bạn muốn biết làm thế nào bạn có thể sử dụng một chương trình mà bạn chưa bao giờ sử dụngtrước? "Người đàn ông" sẽ là người bạn mới tốt nhất của bạn! Loại "người đàn ông <chương trình-name>" trong mộtvỏ. Hoặc, chạy "người đàn ông -H <chương trình-name>" để đọc trang hướng dẫn trong trình duyệt.
+
+%
+Debian Gợi ý # 39: Nâng cao tab hoàn thành bash bằng cách cài đặtbash hoàn thành gói.
+
+%
+Debian Gợi ý # 40: Nếu bạn cài đặt các gói lệnh không-được tìm thấy, cố gắngchạy một lệnh bạn không có cài đặt sẽ cho bạn biết những gì gói để cài đặt vàođược lệnh đó.
+
+%
+Debian Gợi ý # 41: Bạn có thể sử dụng 'apt-cache show <tên_gói>' hoặc 'show năng khiếu<Tên_gói> 'để có thêm thông tin về một gói debian.
+
+%
+Debian Gợi ý # 42: Bạn có thể sử dụng "danh sách apt-file <tên_gói> 'để có được một danh sáchcác nội dung của gói debian. Hành động này cũng tương tự như'Dpkg -L <tên_gói>' ngoại trừ các gói không cần phải được cài đặt hoặclấy sử dụng apt-file trái ngược với dpkg.
+
+%
+Debian Gợi ý # 43: Bạn muốn tạm thời vô hiệu hóa tường lửa iptables của bạn? Sử dụng'Iptables-lưu | sed "/ - / d; / ^ # / d; s / thả / ACCEPT /" | iptables-restore để gỡ bỏtất cả các quy tắc và thiết lập chính sách mặc định để CHẤP NHẬN.
+
+%

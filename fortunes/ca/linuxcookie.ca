@@ -1,0 +1,412 @@
+Una màquina Linux! perquè un 486 és una cosa terrible a perdre!(Per jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absolutament res s'ha de concloure d'aquestes xifres, llevat que esno es poden treure conclusions d'ells ".(Per Joseph L. Brothers, Linux / PowerPC)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En realitat, en escriure cadenes aleatòries en el Finder fa l'equivalent denoms d'arxius.(Discussió en comp.os.linux.misc en la intuïció d'ordres: arxiufinalització vs el Finder de Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Després de veure al meu pare recentment retirat passar dues setmanes per aprendre a fer una novacarpeta, es va fer evident que "intuïtiva" significa sobretot "el que l'escriptor orepresentant de la talla intuïtives ".(Bruce Ediger, bediger@teal.csn.org, en comp.os.linux.misc, a la Xla intuïció d'una interfície de Mac).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tots els dissenyadors del llenguatge són arrogants. Va amb el territori ..."(Per Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I 1.1.81 és oficialment lliure d'errors (tm), pel que si rep algun informes d'erroren ell, vostè sap que són simplement dolents mentides ".(Per Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... I les dones amb poca roba, és clar. A qui li importa si està per sota de zerofora"(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I la propera vegada que es consideri que l'execució de queixa Lluïu Emacs19.05 per NFS des d'una màquina Linux a distància en el Paraguai no semblaobtenir els colors de fons a la dreta, vostè sabrà qui donar les gràcies ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Qualsevol porters per aquí han de sentir-se més feliç sabent que DEC és l'enviament>: Em an AlphaPC que tinc la intenció de tractar d'aconseguir que s'executa en Linux: aquesta voluntat>: Definitivament ajudar a eliminar algunes de les coses més flagrant transportables.>: L'Alfa és molt més diferent de la i386 que la matèria és 68k, per la qual>: És probable que la major part del farciment fix.>> És missatges com aquest que gairebé ens convencen els no creients que hi ha> És realment un déu.(Un seguiment per alovell@kerberos.demon.co.uk, Anthony Lovell, a Linusobservacions sobre portar)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Qualsevol que pensi que UNIX és intuïtiva ha de ser forçat a escriure línies de 5000codi usant res més que vaig veure o emacs. AAAAACK!(Discussió en comp.os.linux.misc en la intuïció d'ordres, especialmentEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Són [els usuaris de Linux] lemmings saltant col·lectivament fora del penya-segat defiable i ben dissenyat el programari comercial? "(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Com és habitual, sent aquesta una versió 1.3.x, ni tan sols he recopilat aquestanucli encara. Així que si funciona, ha de ser doblement impressionats.(Linus Torvalds, anunciant nucli 1.3.3 a la llista de correu del nucli Linux.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Evitar les Portes de l'Infern. L'ús de Linux(Font desconeguda)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tingues en compte que escrivint \ fBkillall \ fInombre \ FP pot no haver desitjatefecte en els sistemes no-Linux, especialment quan es realitza per un usuari privilegiat.(Des de la pàgina del manual killall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"A més, crec que [Slackware] sona millor que" Microsoft ", oi?"(Per Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Però què es pot fer amb ell? - Crit omnipresent del soci de Linux per a l'usuari.(Presentada per Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mira per on, estic començant a pensar que Linux realment * * és la millor cosa desllesca de pa ".(Per Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Vaya. El nucli ha intentat accedir a algunes males pàgina. Haurem de * Acabar les coses amb prejudici extrem.* /die_if_kernel ( "Vaja", regles, código_error);(De linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep manera Tall - aquest estat misteriós i aterridor deconsciència on els usuaris mortals tenen por trepitjar ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra probablement m'odia(Linus Torvalds, en nucli / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, un petit virus d'arrencada molest que fa que el sistema espontània a l'atzar.     es bloqueja, en general just abans de guardar un projecte massiu. Curar fàcilment per     UNIX. També podria MS-DOS, IBM-DOS, DR-DOS.(De .plan de David Vicker)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Recordeu que 120 s es defineix en el protocol com el màxim * RTT possible. Jo suposo que haurem de fer servir una cosa diferent de TCP * Parlar amb la Universitat de Mart. * POTES ens permet temps d'espera més llargs i grans finestres, així que un cop implementat * Ftp a Mart funcionarà molt bé. * /(De /usr/src/linux/net/inet/tcp.c, en relació amb RTT [retransmissió de temps d'espera])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Encara més sorprenent va ser la constatació que Déu té accés a Internet. Ipregunto si té un flux complet? "(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Has sentit parlar de cshrc?Això és una ciutat a Bòsnia. Oi?(Discussió en comp.os.linux.misc en la intuïció d'ordres.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Error fatal: Trobat Sistema [MS-Windows] -> Tornar a fer particions de disc per a Linux ...(Per cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Com escric "per a i en .dvi * És xdvi i fet" en una interfície gràfica d'usuari?(Discussió en comp.os.linux.misc en la intuïció de les interfícies.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Com hauria de saber si funciona? Això és el que els emprovadors beta són per. Noméscodificats per ella ".(Atribuït a Linus Torvalds, en algun lloc, en un missatge)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- --- == (_) __ __ __ ____ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Un membre orgullós de TeamLinux \ _________ \ /(Per Chaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I desenvolupar per a Linux per guanyar-se la vida, he utilitzat per desenvolupar per a DOS.En passar de DOS a Linux és com el comerç d'un planador per a un F117.(Per entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ho vaig fer perquè Linux em dóna un arbrat. Que no genera ingressos.(Dave '-ddt-> `Taylor, anunciant la mort per a Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+No dubti en posar en contacte amb mi (flames per la meva Anglès i la inutilitat d'aquestaconductor serà redirigit a / dev / null, oh no, està ple ...).(Michael Beck, que descriu el dispositiu de so del PC altaveus)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"No sé per què, però els programes de primers C tendeixen a semblar-se molt pitjor queprimers programes en qualsevol altre idioma (excepte potser per FORTRAN, però desprésSospito que tots els programes FORTRAN es veuen com `primeres ')"(Per Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Una vegada testimoni d'un flamewar de llarg alè, un mes de durada sobre l'ús deels ratolins davant de ratolins de bola ... Va ser molt ximple ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Segueixo mantenint al punt que el disseny d'un nucli monolític en 1991 és unaerror fonamental. Sigui agraït vostè no és el meu fill. No es pot obtenir unad'alta qualitat per a un disseny tan :-)(Andrew Tanenbaum a Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Prefereixo passar 10 hores de lectura de codis font d'una altra persona que10 minuts escoltant Musak esperar el suport tècnic que no és ".(Pel Dr. Greg Wettstein, Roger Maris Centre del Càncer)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Em arrossegaria més d'un acre de 'Visual Aquest ++' i 'desenvolupament integratAixò per arribar a GCC, Emacs, i gdb. Gràcies."(Per Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sóc un idiota .. Almenys aquest [error] va portar a uns 5 minuts per trobar .."(Linus Torvalds en resposta a un informe d'error.)> Sóc un idiota .. Almenys aquesta [error] va portar a uns 5 minuts per trobar ..Inquietant ...(Gonzalo tornaria en resposta al correu de Linus Torvalds sobre un error del nucli.)> Sóc un idiota .. Almenys aquesta [error] va portar a uns 5 minuts per trobar ..Necessitem trobar alguns nous termes per descriure la resta dels mortalsllavors.(Craig Schlenter en resposta al correu de Linus Torvalds sobre un error del nucli.)> Sóc un idiota .. Almenys aquesta [error] va portar a uns 5 minuts per trobar ..Segurament, Linus està parlant de la classe d'idiotesa que altres aspiren a :-).(Bruce Perens en resposta al correu de Linus Torvalds sobre un error del nucli.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+He executar DOOM més en els últims dies que tinc l'última uns pocsmesos. M'encanta la depuració ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, preocupada per la creixent popularitat de la connexió de 32 bitssistema operatiu per a sistemes Intel, Linux, s'ha emprat un nombre de la part superiorprogramadors del món subterrani de desenvolupament del virus. Bill Gates va declararAhir: "El domini del món, ràpid - és nosaltres o Linus". El Sr. Torvaldsno estava disponible per fer comentaris ...(Rjm@swift.eng.ox.ac.uk (Robert modals), en comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    si (argc> 1 && strcmp (argv [1], "Assessorament") == 0) {printf ( "No s'espanti! \ n");sortida (42);    }(Arnold Robbins al LJ del mes de febrer del 95, que descriu RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Si està definit (__ alpha__) && definit (CONFIG_PCI)+ / *+ * El sentit de la vida, l'univers, i tot. més+ * Això fa que l'any surti bé.+ * /+ Any - = 42;+ # Endif(A partir del pegat 1.3.2 per: (nucli / time.c), presentat per Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si el futur sistema de navegació [per als serveis interactius en xarxala NII] sembla una mica de Microsoft, mai funcionarà ".(President de Walt Disney Television i Telecomunicacions)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si vostè vol viatjar per tot el món i ser convidat a parlar en un muntde diferents llocs, acaba d'escriure un sistema operatiu Unix ".(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[En la manera de" Doctor "], vaig passar uns bons deu minuts dient el que Emacspensat en això. (La resposta va ser: "Potser vostè podria tractar de ser menysabusiu. ') "(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En la majoria dels països la venda de coses nocives com les drogues es castiga.Llavors howcome gent pot vendre el programari de Microsoft i quedar impune?(Per hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Enginyeria d'Intel semblen tenir l'estratègia de màrqueting d'Intel sentit malament. la fraseera "divideix i venceràs" no "divideix i amartillar cap amunt"(Per iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"És Déu. No, no és Richard Stallman, o Linus Torvalds, sinó a Déu."(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, em tens de genolls!(De David Negre, dblack@pilot.njin.net, amb perdó de Derek i elFitxes de dòmino, i Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux és obsolet(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux és un veritable repte per als que tenen un gust a la tarda-nitpirateria (i / o converses amb Déu) ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Desenvolupament Venimus, Vidimus, Dolavimus.(Per mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... La capacitat de [Linux] per parlar a través de qualsevol mitjà, llevat dels senyals de fum."(Pel Dr. Greg Wettstein, Roger Maris Centre del Càncer)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: perquè un PC és una cosa terrible a perdre(Ksh@cis.ufl.edu posar això en les samarretes al 93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Com que un PC és una cosa terrible a perdre.(Per komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: l'elecció d'una generació GNU(Ksh@cis.ufl.edu posar això en les samarretes al 93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: el sistema operatiu amb una pista ...Línia d'ordres de l'entorn d'usuari ".(Vist en un missatge a comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 al foc(Un dels missatges del nucli més ofuscat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft no és la resposta.Microsoft és la qüestió.No (o Linux) és la resposta.(Pres d'un .signature d'algú des del Regne Unit, origen desconegut)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird benutzt für drei Dinge: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten en Dateisysteme, und, monja, 'besteigen' beim sexe.(Christa Keil en una publicació alemanya: "El muntatge s'utilitza per a tres coses:escalada en un cavall, que uneix en una unitat de disc dur en els sistemes de dades, i, bé,de muntatge durant l'acte sexual ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MS-DOS no es portaven tan malament, ja que és durant la nit - ens va portar més de deu anysd'un desenvolupament acurat ".(Per dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"No aportar mistaeks."(Anònim, en un correu discussió sobre un informe d'error del nucli.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jo no, noi. He llegit la pàgina del manual Bash cada dia com un testimoni de Jehovà llegeixLa Bíblia. No s'espera, la pàgina del manual de Bash és la Bíblia. Disculpa'm...(Més informació sobre els àlies confuses, presa de comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Recordeu que si puc aconseguir que \" Do i dir \ "alguna cosa només per preguntar,vostè té un problema molt greu de seguretat en el seu sistema i hauriesmirar-hi ".(Per Paul Vixie, vixie-cron 3.0.1 notes d'instal·lació)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ara sé que algú per aquí va a reclamar, "Doncs bé, UNIX és intuïtiva,ja que només necessita aprendre les ordres de 5000, i llavors tota la resta segueixd'això! Har Har Har! "(Andy Bates a comp.os.linux.misc, a "interfícies intuïtives", lleugeramentla defensa dels Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ara bé, hem tingut aquest tipus de coses:  produir -a per al rendiment de tot el trànsit  cedir -t per al rendiment de camions  cedir -f per al rendiment de la gent que camina (peu de rendiment)  cedir -d * t de rendiment dels dies a partir de t... Que tindria una gran quantitat de persones mortes a les interseccions, i els embussos de trànsit liNo anava a creure ...(Discussió en comp.os.linux.misc en la intuïció d'ordres.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"En una línia ASCII normal, l'única condició segura de detectar és un 'break'- Tota la resta que ha estat assignat funcions de GNU Emacs ".(Per Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"A Internet, ningú sap que està utilitzant Windows NT"(Presentada per Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hi havia una vegada un usuari DOS que va veure Unix, i va veure que erabona. Després d'escriure cp en la seva màquina DOS a casa, que es va descarregar de GNUeines UNIX portat a DOS i tenir-los instal·lats. Ell rm'd, cp'd, i mv'dfeliçment durant molts dies, i en trobar Elvis, que vi'd i estava feliç. desprésun llarg dia a la feina (en una màquina Unix) va arribar a casa, va començar a editar un arxiu,i no podia entendre per què no podia suspendre vaig veure (w / ctrl-z) feruna compilació.(Per ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> A banda del fet que Linux té un nom fresc, algú podria explicar per què>> Hauria utilitzar Linux a través de BSD?>> No, això és tot. El nom fresc, que és. Hem treballat molt dur en> Crear un nom que atrau la majoria de la gent, i es> Sens dubte va valer la pena: milers de persones estan fent servir Linux només per poder> Dir "OS / 2? Ja. Tinc Linux. El que un nom fresc". 386BSD va fer la> Error de posar un munt de nombres i abreviatures estranyes al> Nom, i es espantar molta gent només perquè sona massa> Tècnica.(Seguiment de Linus Torvalds a una pregunta sobre Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En el personal, crec que la meva elecció en les guerres mostest-superlativa per ordinador ha dela sèrie HP-48 de les calculadores. Ells corren gairebé qualsevol cosa. I siNo puc, mentre que només vaig a connectar un sistema Linux al port sèrie i la càrrega fins alHP-48 emulador de VT-100.(Per jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+No hi ha fils en a.b.p.erotica, així que no hi ha augment en l'ús d'unalector de notícies roscat.(Font desconeguda)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"La resolució de problemes en Linux mai ha estat el circ que es troba sotaAIX ".(Per Pete Ehlke en comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+deixar de fumar quan es va llegir la declaració de deixar de fumar, el processador bc       s'acaba, independentment del lloc en el deixar de fumar declaració       ció es troba. Per exemple, "si (0 == 1) deixar de fumar"       farà que bc acabi.(Vist a la pàgina del manual de "BC". Tingueu en compte el "si" la lògica de la declaració)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Executar Windows en un Pentium és com tenir una nova marca Porsche, però nomésser capaç de conduir cap enrere amb el fre de mà.(Font desconeguda)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit disc mundi"(A partir de la Guia de l'administrador del sistema, de Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sospir. M'agrada pensar que és només la gent de Linux que vulguin estar enl ' "avantguarda" tan dolents que caminar a la dreta pel precipici.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+El programa de xat està en el domini públic. Aquesta no és la llicència pública GNU. SiTrenca llavors vostè ha de mantenir les dues peces.(Avís de Copyright pel programa de xat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> El dia la gent que Linux seria millor servit per una altra persona (FSF> Ser l'alternativa natural), vaig a "abdicar". No crec que> És una cosa que la gent ha de preocupar per ara - Jo no ho veig> Passi en el futur pròxim. M'agrada fer de Linux, tot i que ho fa> Significa una mica de treball, i no he rebut cap queixa (algunes gairebé tímida> Recordatoris sobre un pegat que he oblidat o ignorat, però res> Negatiu fins ara).>> No prendre l'anterior en el sentit que vaig a deixar el dia que algú es queixa:> Sóc de pell gruixuda (Lasu, que està llegint això sobre la meva espatlla va comentar> Que "grossa CAP està més a prop de la veritat") suficient per prendre un abús.> Si no hi fos, hauria deixat de desenvolupar Linux la ast dia em va ridiculitzar> En c.o.minix. El que vull dir és que mentre que Linux ha estat el meu bebè, així> Ara, no vull estar en el camí si la gent vol fer alguna cosa> Millor d'ella (*).>> Linus>> (*) Hey, potser podria sol·licitar un sant-campana de la papa. fa> Algú sap quina és la seva adreça de correu electrònic és? Estic tan agradable que et fa vomitar.(Pres de la resposta de Linus algú preocupat pel futur de Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+El millor de Windows és - Això no només es bloqueja, es mostra unaquadre de diàleg i li permet pressionar "OK" en primer lloc.(.sig De Arno Schaefer)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+L'única interfície "intuïtiva" és el mugró. Després d'això, tot s'aprèn.(Bruce Ediger, bediger@teal.csn.org, en comp.os.linux.misc, en les interfícies X).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hi ha dos tipus de desenvolupadors de Linux - els que pot lletrejar, iaquells que no poden fer-ho. Hi ha una constant batalla entre els dos.(A partir d'un dels-1.1.54 enviar missatges d'actualització del nucli publicat a c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aquest missatge va ser portat a vostè per Linux, el Unix lliure.Finestres sense la X és com fer l'amor sense parella.Sex, Drugs & Regles de Linuxguanyar-nt de la gent que va inventar Edlinles pomes han suposat problemes des edenLinux, la manera de desfer-se dels virus d'arrencada(Per mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS i Windows NT (també conegut com el bo, el dolent, iel lleig). "(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Molt pocs fenòmens poden tirar a algú de manera profunda Hack, amb dosassenyalar excepcions: ser assolits per un llamp, o superior, l'ordinador * *ser colpejat per un llamp ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Agitant lluny un núvol de fum, miro cap amunt, i estic encegat per una brillant i blancallum. És Déu. No, no és Richard Stallman, o Linus Torvalds, però Déu. auna veu ressonant, Ell diu: "Aquest és un signe usar Linux, el sistema lliure de UNIX.PER A LA 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tots sabem que Linux és gran ... que fa bucles infinits en 5 segons."(Linus Torvalds sobre la superioritat de Linux al AmsterdamSimposi de Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Estem de Microsoft. Vostè serà assimilat. La resistència és inútil.(Atribuït a B. G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Estem Pentium de Borg. La divisió és inútil. Serà aproximades.(Vist en .signature d'algú)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Estem utilitzant Linux diàriament a la nostra productivitat - per la qual A sobre el seu!(Adaptat de Pat Paulsen per Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hem vingut a enterrar DOS, no per lloar.(Paul Vojta, vojta@math.berkeley.edu, parafrasejant una cita de Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nosaltres fem servir Linux per a totes les nostres aplicacions de missió crítica. Tenir el codi fontvol dir que no són mantinguts com a ostatges pel departament d'assistència de qualsevol persona.(Russell Nelson, president de Crynwr Programari)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"El que vostè acaba amb, després d'executar un concepte de sistema operatiu a través d'aquests molts filtres de cafè de màrqueting, és alguna cosa no molt diferent calent planaaigua ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Què fer aquest guió?    descomprimir; tocar; dit; muntatge; panteixar; sí; umount; somniPista per a la resposta: no tot està orientat a l'equip. A vegades estàsen un sac de dormir, acampant.(Contribució de Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Quan diu" Vaig escriure un programa que es va estavellar Windows ", la gent simplement mirenque sense comprendre i dir "Ei, tinc els que tenen el sistema, * per * lliure". '(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Em fuet. Em van colpejar. Fes-me mantinc AIX."(Per Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Qui és el fracàs general i per què és ell que llegeix el meu disc dur?"Microsoft Spel Chekar vor vela, huargos reixeta !!(Per leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Qui vol recordar que la fuita-x-alt-control-desplaçament a l'esquerra-b li posa ensuper-edit-debug-compilar la manera?(Discussió en comp.os.linux.misc en la intuïció d'ordres, especialmentEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Per què utilitzar Windows, ja que hi ha una porta?(Per fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"La dominació del món. Ràpid"(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+.you podria passar tot el dia * * personalització de la barra de títol. Creu-me. joparlar de l'experiència ".(Per Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Que també podria saltar la celebració de Nadal per complet, i en el seu llocseure davant del seu ordinador Linux de joc amb eltotalment nou i millorat la versió del nucli de Linux. "(Per Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+El seu treball és ser un professor i investigador: Això és un infern d'una bona excusaper a alguns dels danys cerebrals de Minix.(Linus Torvalds a Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+He sentit un Jueu i un musulmà argument en un cafè de Damasc amb menys passióque les guerres emacs ".<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

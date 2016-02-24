@@ -1,0 +1,765 @@
+Topic on #pług: Then why not call our httpd server MALYSZ (it's MALY & SZybki) ?
+Topic on #pług: Set by jack_!jack@pe38.bydgoszcz.sdi.tpnet.pl on Mon May 21
+	 17:13:50 2001
+%
+23:40:42 <Falconne> część :>
+23:40:49 <Falconne> jak widać wróciłem
+23:41:13 <ai-> Falconne: i mamy sie cieszyc teraz, tak? :>
+23:43:45 <Falconne> ai-: oczywiście :))
+23:44:05 <Falconne> ai-: możesz mi z tego powodu np. założyć wieniec kwiatów
+          na szyję
+23:44:47 <Idoru> Idoru: ona nie jest z hawajow, moze nawet ie wie co to kwiaty
+          - ja napisano w C, TCL i jeszcze jakims nowym jezyku
+%
+00:08:52 <Idoru> jack_: chloernie tendencyjne te fortunki
+<jack_> Idoru: warum?
+00:09:32 <valkyria-> a bo tylko o mnie na razie
+00:09:34 <valkyria-> :>
+00:11:42 <Baseciq_> jack_ : kolna fortunka ?
+<jack_> kol co ? ;)
+<jack_> aaa.. ;)
+%
+<Falconne> czemu nie spisz?
+<Baseciq> bo się właśnie obudziłem
+<Baseciq> w kafejce internetowej
+<Baseciq> w kielcach
+<Baseciq> za konsolom jakiegoś serwera :>
+<Baseciq> chyba nawet tu jakies konto mam
+## Join #pług: Baseciq- (baseciq@nevada.merseine.nu) at 04:59AM
+<Baseciq-> o
+<Baseciq-> mam :>
+%
+                            (sponsored by Falconne)
+200 falcon.net.pl InterNetNews NNRP server 2.2.3 18-Jul-2000 ready (posting ok)
+Dwa Żywce
+500 What?
+%
+[03:12.55] (@e-jack): Czy mogę tcpdumpem podsłuchiwać np port 119 ?
+[03:13.32] (@Baseciq): a co na to żona ?
+[03:14.59] (@Falconne): Connection closed by foreign host.
+%
+15:39:05 <valkyria-> bo tu sa ludzie ktorych lubie
+15:39:13 <valkyria-> i pare innych
+%
+01:02:44 <entrophy> AAAAA
+<jack_> AAAA to wpis dla IPv6 ;PPP
+01:03:05 <entrophy> nie, 5xA
+01:03:18 <shasta> To IPv6,5 będzie ;>
+01:03:25 <entrophy> jack_: American Association Against Acronym Abuse --
+          Amerykańskie Stowarzyszenie Przeciwko Nadużywaniu Skrótów
+01:03:48 <entrophy> shasta: matematycznie: 6+(1/4*6)=6+1.25=7.25
+<jack_> 7,5 != 7.25
+01:04:54 <shasta> entrophy: 6,5.
+01:05:20 <entrophy> AAAA = IPv6, AAAAA = IPv6 + 1/4 * IPv6 :)
+<jack_> AAAA = IPv6, A = IPv4
+<jack_> AAAAA = IPv10 ;P
+01:07:14 <shasta> AAAAA = ip v sześć i jedna trzecia :P
+<jack_> AAAAA = IPv4 *5 = IPv20
+01:07:36 <shasta> A = IPv4
+01:07:48 <shasta> AA = IPv4 i 2/3
+01:07:53 <shasta> AAA = IPv5 i 1/3
+01:07:58 <shasta> AAAA = IPv6
+01:08:05 <shasta> AAAAA = IPv6 i 2/3
+<jack_> AAAAA = IPv6 + IPv1,5
+<jack_> AAAAA = IPv7,5
+<jack_> /32 = A; /128 = AAAA ;P
+<jack_> 4*/32 = /128 => A=/32 = 4A=4*/32=AAAA=/128
+<jack_> AAAAA=/160
+01:11:25 <shasta> no i teraz zrób translację z długości adresu do numeru
+          wersji protokołu :-P
+<jack_> IPv7,5 ?
+*** Topic (#pług): changed by jack_: AAAAA=IPv7,5
+*** Topic (#pług): changed by entrophy: AAAAA=IPv7,5 dobsh, a IN BBBB ?
+<jack_> hmmmm...
+<jack_> BBBB=IPv6b
+01:19:44 <entrophy> nie, BigBrother do kwadratu :)
+01:19:58 <entrophy> (BB*BB)=(BBBB)=BB^2 :)
+<jack_> BigBrain^2 ;P
+01:20:27 <shasta> -:- jack_ [jack@pe38.bydgoszcz.sdi.tpnet.pl] has quit irc
+          (Brain overheat)
+%
+[msg(Natalka__)] miękka
+[msg(Natalka__)] jest
+[msg(Natalka__)] i głupia :>
+13:42:42 [Natalka__(komp3@linux.osowa.net)] Jak każda kobieta..
+%
+[msg(Natalka__)] Oglądałaś "My dzieci z dworca ZOO" ?
+14:44:57 [Natalka__(komp3@linux.osowa.net)] Byłam w teatrze i czytałam książkę
+14:45:14 [Natalka__(komp3@linux.osowa.net)] Dlaczego?
+[msg(Natalka__)] Przedwczoraj było na Polsacie
+14:45:45 [Natalka__(komp3@linux.osowa.net)] Film?
+[msg(Natalka__)] Nie, książka ;P
+%
+22:11:39 <Baseciq> zajebisty mi drink wyszedł
+22:11:41 <Baseciq> wódka czysta
+22:11:45 <Baseciq> nad nią cytryka
+22:11:47 <Baseciq> i coca cola :)
+22:11:52 <Baseciq> zaje* wygląda
+22:12:03 <JaBBaS> Baseciq: i smakuje jak guma turbo ?
+22:12:13 <JaBBaS> bo ja pilem taki tylko ze z wodka brzoskwiniowa
+22:12:18 <JaBBaS> to smakowalo jak guma turbo
+22:12:26 <Baseciq> nie
+22:12:37 <JaBBaS> to zrob sobie z brzoskwiniowym kieys takie cus
+22:12:39 <Baseciq> bo turbo brzoskwiniowa była
+%
+22:15:15 <Baseciq> mialem 18 lat i 5 dni
+22:15:34 <Baseciq> wrocilem z 18stki mojej siostry ciot. razem z moja uwczena
+          laska
+22:15:39 <Baseciq> jak przyssalismy sie do ginu
+22:15:49 <Baseciq> to nie pamietalismy na drugi dzien co sie dzialo
+22:15:55 <Baseciq> ale obudzilem sie nagi :)
+22:17:07 <Baseciq> a starzy sie dziwnie usmiechali przy sniadaniu
+22:17:12 <Baseciq> popielniczka zbita :>
+22:17:19 <Baseciq> kszeslo przewrocone :)
+%
+[msg(NatalkA)] http://jack.eu.org/plug
+[msg(NatalkA)] na końcu :)
+[msg(NatalkA)] Nie masz nic przeciwko? :)
+13:01:25 [NatalkA(komp6@linux.osowa.net)] że?
+[msg(NatalkA)] Że umieściłem fragment prywatnej rozmowy
+13:02:51 [NatalkA(komp6@linux.osowa.net)] A jeśli bym miała?
+13:03:06 [NatalkA(komp6@linux.osowa.net)] To i tak niczego nie zmienia, prawda?
+[msg(NatalkA)] W sumie? ;)
+%
+*** Topic (#pług): changed by wrzask: http://www.powiekszaniepenisa.pl
+12:45:35 <wrzask> w sam raz dla zakompleksionych adminów. ;)
+<jack_> wrzask: do czego adminom penis? ;)))
+12:54:14 <wrzask> jack_: do kompleksów.. dlatego są adminami, że maja
+          kompleksy przecież.
+<jack_> Zaraz, to kim są kochanki adminów?
+12:55:56 <wrzask> nie masz zadnego, nawet malutkiego kompleksu?
+<jack_> kompleksu nie ;P
+<jack_> Wiem!
+<jack_> Kochanki adminów stworzyły SilliconValley :>>>
+%
+<jack_> yendrek_: slacka na oczy nie widziałem ;P
+02:38:27 <zdzichuBG> jack_: moge ci pokazac
+02:40:20 <yendrek_> to ja może wyjdę... ;]
+02:40:31 <zdzichuBG> slacka sie boisz ? :>>
+%
+03:20:39 <zdzichuBG> u mnie juz zaczyna code reda rysowac :)
+<jack_> zdzichuBG: jak Ty to robisz?
+03:21:08 <zdzichuBG> co ?
+<jack_> No że jesteś taki wspaniały i wogóle...
+03:21:29 <[Westbam]> huehuehue
+<jack_> Rysowanie pierdułek w mrtg
+%
+04:04:04 <Falconne> 4 to chyba procesy running/total
+<jack_> 04:04:04 <Falconne> 4 to chyba procesy running/total
+<jack_> ^^^^^^^^
+<jack_> Ładnie trafiłeś :>
+%
+00:40:50 <Baseciq> praca, dom, irc i nic wiecej sie nie dzieje
+00:42:23 <woof_> baseciq a kobiety??? powinno byc praca,dom,irc,kobiety :P
+00:42:23 <agaran> Baseciq: khm..moze zrob cos z tym?;> zainstaluj sobie nowy
+          komputer albocos?
+<jack_> woof_: to jest kanał gejowski
+<jack_> woof_: niezauważyłeś? :>
+00:46:17 <Zolwiu> jack_: jesteś mój koleś ;-P
+00:46:25 <Baseciq> jack_: mam małą prośbę...
+00:46:42 <woof_> jack_: a myslisz ze dlaczego tu siedze? ;P
+00:47:11 <Baseciq> jack_: jak jeszcze raz będziesz moimi skarpetkami gwoździe
+          wbijał to Ci twoje prześcieradło na pysiu połamie ;)*
+<jack_> woof_: oops..., Zolwiu Cię zabije :>
+00:47:53 <woof_> nie oddam cie jakiemus zolwiowi jack! zrobie z z jego skorupy
+          zaplodniona sztuczna pochwe albo proteze ;)
+*** Topic (#pług): changed by agaran: ale sobie cukrujecie..jedna przez drugą
+00:49:45 <Baseciq> agaran: ej, mała, nie fikaj ;)
+%
+22:32:12 [abnuk(abnuk@pa156.ciechanow.sdi.tpnet.pl)] jak na windzie sprawdzic
+          md5sum? :D
+%
+23:14:55 <ACD> Jordan^_^: a ty kto ? ;P
+23:14:59 <Jordan^_^> ACD: Chlopiec z bajki. :]]
+23:15:20 <ACD> Jordan^_^: ta, pr0siaczek i jego dzifki ? :P
+23:15:33 <Baseciq> ACD: dzifki byly krzysia
+%
+14:54:15 <shasta> Kto będzie moim betatesterem/betatesterką? :>
+14:54:29 <bolo> shasta: jak zwykle ja :)
+14:54:37 <shasta> bolo: Ale Ty nie używasz BitchX :>
+14:54:47 <bolo> shasta: w rzeczy samej...
+14:54:53 <shasta> Potrzeba mi jakiegoś zatwardziałego Dziwkarza ;>
+14:54:58 <shasta> jaaaaaaaack :>
+14:55:02 <shasta> Kamper! Do tablicy! :>
+14:55:46 <bolo> shasta: przykro mi, nie dziwqję...
+%
+22:18:47 <valkyria-> ACD_: pokaz mi swoje klony a powiem ci jak cie kocham ;D
+22:19:22 <shasta> Klony są zwierciadłem dup^H^H^Hduszy.
+22:19:32 <zdzichuBG> moje klony beda sie nazywaly Dolly
+%
+[V] Topic change on #pług by Baseciq_: Faster, Harder, Pług...
+(@Dj_RzulF): macie jakies pług-insy ? :}
+[V] Topic change on #pług by Dj_RzulF: Faster, Harder, Pługer... Get pług-ins
+    @ http://plug.one.pl
+[V] Topic change on #pług by JaBBaS: Faster, Harder, Pługer... | Ican't get no
+    pługonacion
+(@Dj_RzulF): wypługujcie sobie to z głowy że mnie dopługujecie do fortunek :}
+(@Baseciq_): zapługowione sny kiedy ja oram pole
+(@jack___): Ej, ale to nie te just5
+* @Dj_RzulF proponuje założenie coś w stylu legolandu, ale o nazwie pługoland
+   i bedzie mozna pojeździć traktorem (np bo Baseciq...etc) ;]
+* @Dj_RzulF dodaje : jeszcze np rzucanie oszczepem w uciekającego jack___ czy
+   innego ACD_ :}
+% P.S. epic sux!
+03:23:45 <shasta> http://s.atn.pl/brainstew.mp3
+03:23:45 <shasta> jack_: ssij
+03:25:07 <shasta> oops, nie ssij przez chwilę ;)
+03:25:39 <shasta> ok, ssij ;)
+03:25:48 <shasta> musiałem na chwilę apacza położyć ;>
+03:25:58 <abnuk> spac?
+03:26:02 <agaran> spac mu sie chcialo?
+03:26:10 <shasta> nie, pieluchę zmieniałem
+%
+03:30:01 <Shadi> to tylko zdania, slowa, bajty, bity, piski, stany wysokie i
+          nieskie na kablach ethernetowych, ponumerowane pakiety niczym
+          niewolnicy w obozie koncentracyjnym...
+03:30:35 <YachU> idz spac lepiej
+03:30:53 <Shadi> jestem impulsem elektrycznym plyancym poprzez masy routerow,
+          klasyfikowanym po numerze, jak jeniec tego wirtualnego obozu, obozu
+          w ktorym zgine...
+03:32:12 <Shadi> odlaczysz zasilanie, a znikne, umre, przepadne z flaga !H,
+          przestane cie nekac, nachodzic, niczym domokrazca starajacy wcisnac
+          ci byle jaki proszek ktory moze uwolnic swiat od wojen i chorob bo
+          jest taki wspanialy...
+%
+*** liquid was kicked off #pług by Baseciq (nie w każdej muszli szumi morze)
+23:16:33 <Baseciq>  /t z /k mi sie pomerdało :>
+%
+<jack_> lol
+<jack_> apt-cache search quota
+<jack_> Chyba mam lepszy sposób na quote niż rekompilacja i te inne pierdoły
+          (a serw jest na kilka dni zajęty)
+02:39:53 <zdzichuBG> jaki?
+<jack_> for i in `ls -1 /home/users/|grep -v jack`; do j=`du -sm
+          /home/users/${i}`; test `echo $j|awk '{print $1}'` -ge 10 && userdel
+          $i; done
+<jack_> quota (c) jack_
+<jack_> I do crontaba ;)
+%
+13:25:23 <sebolino>  Dlaczego informatycy mylą Halloween z Bożym Narodzeniem?
+13:25:23 <sebolino> > ...bo 31oct=25dec
+13:25:44 <Baseciq_> rotfl
+13:25:45 <Dj_RzulF> dlaczego tego nie rozumiem ? ;-]
+13:26:21 <Dj_RzulF> moze mi ktos to wytlumaczyc ? ;]
+13:26:51 <sebolino> Dj_RzulF: ja nie moge bo tez nie rozumiem .... ja tylko wkejam ..:)
+13:26:54 <Baseciq_> 31 w systemie ósemkowym (oct) to 25 w dziesiętnym (dec)
+%
+17:35:18 <landomi_> Czesc.
+17:35:29 <landomi_> ***  Closing Link:
+          lando_[lando@lize.tylko.cipki.bardzo.dobrze.0g0l.one.pl] (K-lined:
+17:35:29 <landomi_> +Please_fix_your_hostname)
+17:35:29 <landomi_> *** Connection closed from irc.missingu.com: Remote end closed connection
+17:35:36 <landomi_> O co dokladnie chodzi?
+17:36:35 <[Westbam]> landomi_: a wygol.one.pl już zajęte było ? heh
+17:37:21 <landomi_> [Westbam]: Ale o co chodzi z tym fix your hostname
+17:37:23 <[Westbam]> weź gol.one.pl i zrobisz serwis połki nożnej m.in. hehe
+%
+19:53:39 <wiosna> yendrek moze Ci drzwi otworzyc?
+19:53:52 <yendrek|> wiosna: :*
+19:54:38 <wiosna> yendrek a tfffuuu
+19:55:23 <yendrek|> wiosna: ja Ci dam tfu, koniec zabawy, wracamy do łóżka ;>
+ůíů SignOff yendrek|: #pług (lag, i do łóżka czas ;s :>>)
+ůíů SignOff wiosna: #pług (EOF From client)
+%
+ůíů landomi was kicked off #Pług by Baseciak_ (Abonament roczny za korzystanie z kanału: 24zł)
+ůíů sand was kicked off #Pług by Baseciak_ (Abonament roczny za korzystanie z kanału: 24zł)
+ůíů jakuza was kicked off #Pług by Baseciak_ (Abonament roczny za korzystanie z kanału: 24zł)
+ůíů foof was kicked off #Pług by Baseciak_ (Abonament roczny za korzystanie z kanału: 24zł)
+[...]
+15:48:29 <Baseciak_> histo: płacisz abonament ?
+15:48:46 <histo> A co jest objete oplata abonamentowa ?
+15:49:04 <Baseciak_> siedzenie na kanale ;)
+15:49:08 <Baseciak_> tylko 24 zł za rok
+15:49:39 <histo> A mozna wykupic jakis inny pakiet ?
+15:49:41 <histo> Np opa ?
+15:49:49 <Baseciak_> hmmm,,,
+15:49:54 <Baseciak_> 48 zł rocznie ;>
+15:51:13 <Baseciak_> w ramach promocji do pakietu op dorzucany jest shell :P
+<jack_> Nieuzasadniony kick - 1zł
+<jack_> Nieuzasadniony ban - 5zł
+<jack_> Zmiana trybu kanału - 10 zł
+<jack_> +e 10zł
+<jack_> +I 15zł
+15:52:24 <yendrek_>  /k jack_ gadanie o pierdolach - 30zl
+15:54:33 <bobereq^> ale przeciez strona kanalu na one.pl nie dziala :>
+15:54:36 <bobereq^> czy moze juz dziala...?
+15:55:40 <Baseciak_> bobereq^: no mówie że one.pl jest ssonce
+<jack_> Błąd ortograficzny - 5zł
+<jack_> ssące ;P
+15:58:00 <shaster> niedopisanie noska to emotikonu - 23,99 + VAT :-P
+15:58:17 <shaster> Rozpoczęcie zdania z małej litery - tylko 9.99
+15:58:21 <shaster> ;)
+<jack_> hipokryzja - 50zł ;-P
+15:59:18 <bobereq^> BoŻe ZaPiSz KrÓlOwĄ!!!
+15:59:35 <Baseciak_> 3l33t tYp1nG - 999zł+vat
+<jack_> 31337 typing - ban
+16:01:36 <shaster> powiadamianie współrozmówców o swoich aktualnych, nudnych planach/zajęciach
+          - 60 złotych.
+16:02:24 <agarann> ;>
+16:02:27 <Baseciak_> drażnienie agarann'a - 200 zł + 22%vat ;>
+16:02:37 <agarann> Baseciak_: khm??:>
+16:02:49 <Baseciak_> agarann: zbieramy kasę na domene ;>
+%
+18:15:02 <shasta> [18:12:36] <@shasta> !google shasta ircnet linux
+18:15:07 <shasta> [18:12:40] <+L1L0> http://jack.eu.org/plug/logi/010722.php
+%
+22:32:07 <Baseciq> ech
+22:32:08 <Baseciq> kurwa
+22:32:12 <Baseciq> przystojny
+22:32:16 <Baseciq> bez nałogów
+22:32:16 <Victus__> Baseciq: kurde, to ja zaraz do ciebie wpadne , oka?
+%
+<jack_> zdzichuBG: jakie możesz filmy polecić?
+00:44:46 <zdzichuBG> nie mam pomyslu
+đ jack_ ostatnio wciągnął się w silver serfer :>>>
+00:45:37 <zdzichuBG> to jakies prochy?
+<jack_> Nie, bajka na TVNie :>
+%
+<jack_> Ty, weź powiedz lee o screenie i wget'ie, co?
+00:46:37 <zdzichuBG> po co?
+<jack_> Zgadnij
+00:46:44 <zdzichuBG> teraz nie mam lagow z jego kompa
+<jack_> On ssa wsio przez winde
+00:47:06 <zdzichuBG> powaznie?
+00:47:09 <zdzichuBG> cozagosc :)
+%
+ůíů HiPoL- [hipol@pa178.pila.sdi.tpnet.pl] has joined #pług
+13:53:36 <HiPoL-> Co oznacza plug?
+13:53:50 <boramzed> Polish Linux User group
+13:54:10 <zdzichuBG> polish łindołs user group
+<jack_> Polish Linux & Unix Group
+13:54:27 <HiPoL-> Thx.
+ůíů HiPoL- [hipol@pa178.pila.sdi.tpnet.pl] has left #pług [HiPoL-]
+%
+16:39:56 <[Westbam]> na miejscu budowniczego WTC to bym się ostro wkurwił
+<jack_> Sądzisz, że on jeszcze żyje?
+16:40:46 <[Westbam]> mimo wszystko bym się wkurwił
+16:41:01 <[Westbam]> budujesz budujesz a tu ci taki chuj rozpierdala ...
+<jack_> Część pentagonu się zawaliła
+16:41:12 <[Westbam]> kiedyś mi na plaży jeden taki kutas rozjebał zamek
+16:41:17 <[Westbam]> to się wkurwiłem
+% [Po zniszczeniu obu budynków World Trade Center i ataku na Pentagon]
+19:45:10 <yendrek_> powinni dzis stan oblezenia puscic w tv ;]
+19:46:22 <bobereq> do tego szklana pulapke i plonacy wiezowiec...
+19:47:19 <JaBBaS> i ConAir :P
+19:48:15 <bobereq> 3. czy leci z nami pilot / spokojnie to tylko awaria
+%
+04:19:38 <bobereq_> ale raczej bym nie skoczyl z 50 czy 60 pietra...
+<jack_> Skoczyłbyś
+<jack_> Jakby Ci się dupa paliła
+04:19:56 đ JaBBaS/#pług by nie skoczyl
+04:20:03 <bobereq_> nie skoczylbym..
+04:20:04 đ JaBBaS/#pług ma rozum
+<jack_> Lepiej się roztrzaskać momentalnie, niż spalić żywcem
+04:20:14 <JaBBaS> i bym ugasil tarzajac sie po ziemi
+<jack_> Tarzając się w ogniu i benzynie
+04:20:33 <bobereq_> nie skoczylbym
+04:20:27 <bobereq_> ale tam skakali ludzie ktorzy sie nie palili..
+04:20:33 <bobereq_> nie skoczylbym
+04:20:43 <JaBBaS> wlasnie
+04:20:50 <JaBBaS> te ludki nie palily sie
+<jack_> No i co?
+04:21:01 <bobereq_> benzyna to praktycznie momentalnie wybuchla...
+04:21:05 <bobereq_> no jak no i co...?
+<jack_> Domyślasz się, jaka była tam temperatura?
+04:21:07 <JaBBaS> moze skakali po frugo ?
+04:21:11 <bobereq_> to po kiego wala skakali???
+04:21:15 <JaBBaS> moment
+04:21:21 <JaBBaS> jaka benzyna?
+04:21:22 <bobereq_> jeden koles se spadochron zrobil..
+04:21:26 <bobereq_> to co? palil sie?
+04:21:34 <bobereq_> no benzyna z pelnego samolotu
+04:21:41 <bobereq_> hmm..
+<jack_> Ale zapomniał go zabrać?
+04:21:45 <JaBBaS> a od kiedy odrzutowce sa na benzyne
+%
+04:39:51 <bobereq_> uhm...pakistan trzesie portami przed afganami...
+04:39:53 <JaBBaS> i palestyna?
+<jack_> Jaka palestyna?
+04:40:12 <JaBBaS> coffie annan to pakistan?
+04:40:23 <bobereq_> no brodaty z recznikiem na glowie...
+<jack_> nie wiem, ale rotfluję
+04:40:44 <bobereq_> mowie jackowi jaka palestynma...
+04:40:44 <JaBBaS> jack_: z czego rotflujesz
+<jack_> coffee jest chyba jakimś niezależnym, co?
+04:41:03 <bobereq_> annan to sie z wolnej stopy wypowiadal afair...
+04:41:18 <JaBBaS> jack_: pierdoli ci sie z preisdentem UN
+<jack_>    Annan Kofi (1939-), ekonomista ghanski, 7. sekretarz generalny ONZ. 1962 wysoki
+           urzednik ds. administracji i budzetu Swiatowej Organizacji Zdrowia (WHO) w Genewie.
+	   1980-1983 wicedyrektor administracji i szef personelu w Biurze Wysokiego Komisarza
+	   Narodow Zjednoczonych ds. Uchodzcow (UNHCR) w Genewie. 1984-1987 dyrektor ds.
+	   budzetu w Biurze Obslugi Finansowej ONZ. 1987-1990 asystent sekretarza generalnego
+	   w Biurze Zarzadzania Zasobami Ludzkimi i Koordynator ds. Bezpieczenstwa Narodow
+	   Zjednoczonych.
+04:42:11 <JaBBaS> jack_: arafat mialem na mysli
+<jack_> rotfl
+04:42:21 <JaBBaS> jack_; masz racje
+<jack_> Teraz mam uzasadnienie tamtego rotfowania
+04:42:29 <bobereq_> JaBBaS: no to o kogo ci chodzi...???
+04:42:33 <JaBBaS> annan jest w UN
+04:42:38 <JaBBaS> bobereq_: arafat
+04:42:46 <bobereq_> i co sie komu pierdoli...
+04:43:02 <bobereq_> dlaczego mowiles ze to pakistan?
+04:43:13 <JaBBaS> arafat to co jak nie pakistan ?
+<jack_> Przywódca Autonomii Palestyńskiej
+04:43:24 <bobereq_> arafat to pakistan???
+04:43:26 <JaBBaS> jaki kurwa pakistam
+<jack_>    Arafat Jasir, wlasciwie Muhammad Abd ar-Rauf Arafat al-Qudwa al-Husseini, pseudonim
+           Abu Ammar (1929-), polityk palestynski, przywodca Autonomii Palestynskiej. Z
+	   wyksztalcenia inzynier. Uczestnik wojny arabsko-izraelskiej 1948-1949. 1952-1956
+	   zalozyciel i przewodniczacy Organizacji Studentow Palestynskich w Kairze. Jako
+	   oficer egipski bral udzial w kampanii sueskiej 1956. 1957-1965 przedsiebiorca
+	   budowlany w Kuwejcie. 1957 wspolzalozyciel, od 1965 naczelny dowodca (przystapil
+	   do dzialan terrorystycznych wymierzonych w Izrael) Ruchu Narodowego Wyzwolenia
+	   Palestyny (Al Fatah), najwiekszej organizacji w skladzie Organizacji Wyzwolenia
+	   Palestyny (OWP). 1965 zmuszony do opuszczenia Kuwejtu, osiedlil sie w Algierii.
+	   Od II 1969 przewodniczacy Komitetu Wykonawczego OWP. Od VI 1970 naczelny dowodca
+	   Rewolucyjnych Sil Zbrojnych, a takze przewodniczacy KC Palestynskiego Ruchu Oporu.
+04:43:50 <JaBBaS> arafat to palestyna
+04:43:50 <bobereq_> jak cie zaraz kurwa kopne!
+<jack_> Dobrze, ale mówiliśmy o Pakistanie nie Palestynie
+04:44:43 <bobereq_> natomiast kofi anan co ma z pakistanem znowu
+:45:07 <JaBBaS> bobereq_: nic kurwa nazwiska mi sie pomylily
+04:45:11 <bobereq_> alescie popieprzyli wszystko...
+<jack_> my?
+<jack_> To neutrinka ;P
+04:45:19 <JaBBaS> kurwa
+04:45:23 <bobereq_> JaBBaS: ale ie wiem z kim... kto jest z pakistanu???
+<jack_> Mohamed Ali
+%
+22:27:27 <ACD-> Closing connection: Assama Ben Laden K-line active: Airplane
+          abuse Bush@01/09/11
+22:28:49 <bobereq> a tak naprawde ten czlowiek nie istnieje
+22:29:04 <Kr|stoff> tak, naprawdę to Blacky_
+22:29:07 <Kr|stoff> ale cicho
+%
+00:05:53 <Baseciq> Kr|stoff: masturbacja jest naturalnym sposobem zaspokojenia
+          popędu seksualnego i robi to każdy
+00:06:21 <Baseciq> Kr|stoff: robie to ja, robisz to ty i robi to pewnie kazdy
+          z nas tutaj ktory nie prowadzi uregulowanego pozycia seksualnego
+00:06:43 <Baseciq> Kr|stoff: przez sex rozumiem cały rytuał, od gry wstępnej
+          aż po śniadanie :P
+00:06:57 <Baseciq> Kr|stoff: z Rentą Grabowską to się szybkie numerki odstawia
+          :P
+00:07:11 <Kr|stoff> bez śniadania ?
+%
+[10:52.05] ** #pług JOIN `CroW` (~rkwas@pd88.wloclawek.sdi.tpnet.pl)
+[10:53.29] (`CroW`): cze all
+[10:53.37] (@Baseciq): cze
+[10:53.53] [ `CroW`!~rkwas@pd88.wloclawek.sdi.tpnet.pl ] cze
+[10:53.58] >> [ `CroW` ] cze
+[10:54.08] [ `CroW`!~rkwas@pd88.wloclawek.sdi.tpnet.pl ] skad stukasz ?
+[10:54.40] >> [ `CroW` ] yyyy,,, ten,,, nie wiem czy bedziesz wiedzial bo to taka mala wies, warszawa
+%
+[09:52.33] (@boramzed): :-) Testosteron bije. Ale wiosna się zbliża nic dziwnego :>
+[09:52.54] ** warszawa.irc.pl : Saturday October 6 2001 -- 09:52 +02:00
+                                         ^^^^^^^
+% #pl-opers:
+[01:23.59] (SpookY-): jak rozkodowac hasla z botnetu - potrafi ktos ?
+[01:24.29] (@Baseciq): a śfistak siedzi i zawija te userlisty w sreberka...
+[01:24.41] (@grek): hehe
+[01:24.47] (SpookY-): heh e userlisty to wiem - lae nie wiem jak :P
+[01:24.53] (@grek): siedzi i zawija :P
+[01:25.23] (@Baseciq): a Neas na to "niemożliwe..."
+[01:27.30] (@grek): hahah
+[01:27.37] (@grek): neas smacznie spi :)
+[01:27.47] (@grek): a swistak zawija .. :)
+[01:28.01] * Neas is back, idle: 1hr 12mins 1sec...
+%
+[01:06.04] (@yendrek): Iga: klikasz w linuxie ?
+[01:06.15] (@yendrek): :/
+[01:06.29] (@Iga): co to jest ten linux
+[01:07.42] (@Baseciq): ekhm, to ja ide po herbatke, a wy poznajcie sie z kolezanka...
+%
+20:55:55 <Neas> root@pl140:~# installpkg nmap.tgz.1
+20:55:55 <Neas> Cannot install nmap.tgz.1: package does not end in .tgz
+20:55:56 <Neas> co robie zle? ;>
+20:56:18 <agaran> Neas: use brain
+<jack_> Przecież napisał?
+20:56:29 <qbas> Neas: umiesz czytać ?;-)
+20:56:30 <agaran> jack_: poco mu podpowiadasz;>
+<jack_> agaran: sorry :)
+20:57:02 <Neas> jak to zainstalowac?
+20:57:12 <djrzulf> Neas: installpkg nmap.tgz ? ;-]
+20:57:26 <qbas> Neas: man mv
+20:59:06 <Neas> djrzulf: wlasnei tak robie...
+21:01:49 <qbas> Neas: no jak zrobić żeby nmap.tgz.1 lub nmap.tgz.4 kończył się
+          na nmap.tgz ;-)
+21:02:15 <Neas> qbas: a to jest konieczne?
+%
+ůíů lando[v6] [lando@moja.dziewczyna.jest.zajebista.dhs.org] has joined #pług
+ůíů mode/#pług [-o+b lando[v6] *!*lando@*.dhs.org] by jack_
+ůíů lando[v6] was kicked off #pług by jack_ (DNS-spam ;])
+22:10:33 <wojrus> nie zdazylem?
+ůíů landomi [lando@moja.dziewczyna.jest.zajebista.dhs.org] has joined #pług
+ůíů landomi was kicked off #pług by wojrus (pierwszy :>)
+%
+[22:57.23] (@sebolino): piwa !
+[22:57.37] (sickone): wodki!
+[22:57.43] (sickone): i kobiecych ud!
+[22:58.11] (@Baseciq): hm
+[22:58.16] (@Baseciq): herbaty
+[22:59.10] (@sebolino): herbaty? znow do konca tygoDNIA nie pijesz ?:)
+%
+[20:28.25] (@br_): http://www.dnet.pl/~bruner/samael-rain.mp3
+[20:28.29] ([-BuG-]): br_ cio to ? techno
+%
+16:55:10 <Peterq> Ma ktos Win Xp zainstalowane ?
+<jack_> Tylko wariaci :>
+16:55:21 <Baseciq> Peterq: ja
+<jack_> oops... ;)
+%
+15:52:00 <[Westbam]> ee tam wy nie umiecie z kobietami po 25-tce ;) to się
+          robi tak: (coby czuła się młodo)
+15:52:09 <[Westbam]> majaka: masz fotkę ?;)
+15:52:13 <[Westbam]> majaka: skont klikash ?
+15:52:15 <[Westbam]> itp
+15:52:17 <majaka> [Westbam]: spadaj.
+15:52:57 <[Westbam]> o, lubi mnie ;) *eg*
+%
+<jack_> wojrus miał @ ?
+<sickone> wojrus mial
+%
+<sickone> ale wypij
+<sickone> wypil
+<sickone> ze mna chyba ;>
+<Dj_RzulF> miał też $, ale wydał na % :>
+<sickone> a ja mialem $ ale wydalem na #
+%
+14:46:59 +> PLUGBot (plugbot@plug.atn.pl) joined #pług
+14:47:07 (qbas): kurwa
+14:47:11 (^djrzulf): ;]
+14:47:13 (@zer0cool): :>
+14:47:16 (qbas): ha ;) nie ma papa lamko ;>
+14:47:16 +> jack_ sets mode "+o PLUGBot" on #pług
+14:47:19 +> qbas has been kicked off from #pług by PLUGBot (papa lamko)
+%
+[05:00:23] (@Baseciq): zrobiłbym coś konstruktywnego
+[05:00:42] (@Neas): może piramidkę z widelców?
+[05:00:57] (@Baseciq): ręce mi opadły.
+[05:01:04] (@Neas): :)
+[05:01:06] (@Neas): mi też
+[05:01:23] (@Neas): dawno nie udało mi się powiedzieć czegoś równie debilnego :)
+%
+02:15:44 <@Bob_R> a wy widzieliscie www.chip.pl ?
+02:16:14 <@jack_> Nie, a co?
+02:16:19 <@hadez> a widziales www.hbo.pl?
+02:16:23 <@jack_> Nie, a co?
+02:16:39 <@hadez> nie wiem
+02:16:44 <@hadez> zapytaj jego
+%
+22:51:42 <+Edek> ,ieszka ktos w kielcach?
+22:51:59 <+jack_> Nie, Kielce są wyludnione
+%
+14:32:38 -!- zer0cool [bart@zer0cool.eu.org] has joined #pług
+14:32:40 -!- mode/#pług [+o zer0cool] by PLUGBot
+14:32:40 <@Ranger> [zer0cool] Jesteś qrva niepoważny dresiarz...
+14:33:01 <@Baseciq> to stwierdzenie śmierdzi retorycznością
+14:33:07 <@zer0cool> No tak.
+14:33:10 <@Baseciq> nie ma poważnych dresów
+14:33:19 <@Baseciq> idę zmienić na "Jesteś qrva dresiarz..."
+14:33:59 -!- #pług,#pldhelp zer0cool [bart@zer0cool.eu.org] has quit [leaving]
+%
+16:56:11 <Baseciq> kupię walec
+16:56:21 <Baseciq> i się przejade po membersach z #PLD
+16:56:24 <djrzulf> ;-D
+16:56:32 <majaka> Baseciq: zabierzesz mnie ze sobą?
+16:56:33 <djrzulf> dobre
+16:56:40 <majaka> zawsze chciałam pojeździć walcem
+16:56:47 <majaka> a już po tych z PLD to najbardziej
+16:56:57 <Baseciq> majaka: sure, masz nalepki 'Got SLACK?!?' ?
+%
+<shasta> wiesz co?
+<shasta> Neas: spierdalaj do manuala. :)
+%
+<Bob_R> a teraz matka przyszla
+<Bob_R> u glupio tak mieszkanie z wlasnej woli odkurzyc ;>
+<Shadi> dziendobry pani
+<Shadi> pani syn jest taki miły
+<Shadi> i czuły
+<Shadi> i wrażliwy
+<Shadi> ;>
+<Bob_R> co Ty pieprzysz :>
+<Shadi> Ciebie misiu :*
+<Bob_R> ech...
+<Bob_R> ide sie soku jabłkowego z tego wszystkiego napije
+%
+[02:02] <yendrek> koleś zostawił włączone żelazko przy moim krześle :|
+[02:03] <yendrek> od 2 godzin plączę się po pokoju ...
+%
+[12:14] <jack_> qrva!
+[12:15] <jack_> Co za pedał wpisał mi do local-host-names wpis last.one^Bt^B.pl
+%
+[15:50] #pług: mode change '-o shasta' by Baseciq_!ranger@lirout.zkdp.pl
+[15:50] #pług: mode change '+m ' by Baseciq_!ranger@lirout.zkdp.pl
+[15:50] #pług: mode change '-v shasta' by Baseciq_!ranger@lirout.zkdp.pl
+[15:50] <Baseciq_> :P
+[15:50] shasta (shasta@quasimodo.olsztyn.tpsa.pl) left #pług (shasta).
+[15:50] shasta (shasta@quasimodo.olsztyn.tpsa.pl) joined #pług.
+[15:50] <JaBBaS> hehe
+[15:50] <Big_Brain> hie hie
+[15:50] <Baseciq_> shasta: masz coś do powiedzenia ?
+%
+[04:34] <[Westbam]> JUBI]: napisz mi linuxa, który będzie super bezpieczny,
+                    nie do złamania, łatwy w administracji i z obsługą przez
+		    inter fejs telepatyczny ;>
+[04:34] <agaran> westbam :>>>>>>>
+[04:34] <JUBI]> [Westbam]: to zbyt latwe...daj mi zajecie na dluzej niz 3 minuty ;)
+[04:35] <agaran> juz odpowiednie sluzby sie wami zajma;> dywersanty
+[04:35] <[Westbam]> JUBI]: dłużej niż 3 ? nałóż spodnie przez głowę ;>
+%
+[16:38] <jack_> Ac1d: masz ojca chrzesnego?
+[16:39] <Ac1d> jack_: nazwisko Ci podać ? :)
+%
+[23:53] <shasta> zdzichuBG: http://s.atn.pl/irssi/irssi-shasta.tar.gz
+[23:53] <shasta> "shastopack"
+[23:53] <agaran> shasta: wybucha po roztarowaniu?;>
+%
+[01:01] <unkindboy> coz to jest!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[01:02] unkindboy kicked from #pług by shasta: JednoLinijkowy Flood (TM)
+%
+[23:35] <Baseciq> "milość to iluzja, bonus od natury aby uczynic kopulacje
+                  mniej trywialną"
+%
+[15:05] <yendrek-> nuda
+[15:05] <yendrek-> !loda
+[15:05] <yendrek-> no?
+[15:06] <yendrek-> zuzia-: loda mówię.
+[15:06] <zuzia-> yendrek- siorki jestem troszke zajeta
+[15:06] <yendrek-> ehh
+%
+[03:40] <Baseciq> uwaga
+[03:40] <Baseciq> jakość zwiększam!
+[03:40] Baseciq (ranger@europa.fcp.edu.pl) left irc: EOF From client
+[03:40] <yendrek_> hehehe
+%
+[11:31] Action: pbs instaluje so60 beta
+[11:43] <wojrus> \
+[11:44] <Baseciq> /
+[11:45] <qbas> |
+[11:46] <^oo^> -
+[11:47] <pbs> _
+%
+[00:45] <yendrek> o kurwa
+[00:45] <Baseciq> o yendrek
+%
+[14:02] <Baseciq> oglądał ktoś uciekającą pannę młodą
+[14:03] <Baseciq> ?
+[14:03] Action: qbas nie widział.
+[14:03] <`Czester> nie, ale ostatnio znajoma miala wychodzic za maz i na
+                   jakies 2 tygodnie przed sie rozmyslila
+[14:05] <`Czester> ale w sumie to sobie przynajmniej posiedziala prawie 2 lata
+                   w Italy
+%
+[23:31] <agaran> ej dzisiaj miało niebc smiesznie..
+%
+[23:32] <Kristoff> [23:31:40] <barteq|na> ZARAZ BEDZIEMT TEKAC TEN # WIEC
+                   PROSZE WAS O OPUSZCZENIE OK?
+%
+[23:56] <Ankah> bez obrazy ale wiesz co baseciq
+[23:56] <Ankah> dochodze do wniosku ze tutaj sa bardziej nawiedzeni ludzie
+[23:56] <Baseciq> hyhyhy
+[23:56] <Ankah> niz na jakim kolwiek czacie
+[23:56] <Ankah> :)
+[23:56] <Ankah> sasasasasa
+%
+[03:03] <Neas> mam to przeczytac? ;P
+[03:04] <shasta> Baseciq: Ty, weź mu jakoś zaaplikuj apt-get install brain,
+                 czy coś?
+[03:04] <Neas> ah wiem juz
+%
+[01:28] <Baseciq> kob: at p1 - masz rację, #pług to kanał dla gejów.
+[01:28] <JaBBaS> kob ma racje
+%
+<jack_> zuzia: pogadaj ze zdzichuBG'em
+19:29:04 <zuzia> jack_ ciom ?
+<jack_> zuzia: pogadaj ze zdzichuBG'em
+19:29:10 <zuzia> jack_ :))))
+<jack_> zuzia: nie lubisz go?
+19:29:29 <zuzia> jack_ yhy
+19:29:47 [zdzichuBG(sandworm@pa13.bydgoszcz.sdi.tpnet.pl)] w co ty mnie
+         mieszasz? co to w ogole za zuzia?
+<jack_> muhihi, zuzia ;>
+19:29:54 <zuzia> rotfl
+19:30:25 [zdzichuBG(sandworm@pa13.bydgoszcz.sdi.tpnet.pl)] kto to?
+%
+[20:11:45] <@zdzichuBG> co to jest named? :P
+[20:12:19] <@Dj_RzulF> :-DDDDD
+[20:12:23] <@Dj_RzulF> to taka gra pod linuxa
+[20:12:27] <@zdzichuBG> rotfl :)
+[20:12:30] <@Dj_RzulF> napierdalasz sie w strefach
+[20:12:30] <@Dj_RzulF> ;-]
+%
+09:52:37 <Baseciq> oglądał ktoś wild things ?
+<jack_> Ja oglądałem
+09:54:05 <Baseciq> jack_: mniaaaam... wtedy, zlana wodą,,, w mokrych
+          ciuszkach,,,, bleh, hormony mi odwalają
+<jack_> Baseciq: Ja zapamiętałem scene z wyrywaniem zębów na żywca :>
+09:54:31 * >Baseciq #pług sie patrzy dziwnym wzrokiem na swojego kota...
+%
+18:16:30 <@jack_> MPEG 1.0 layer III, 48 kbit/s, 44100 Hz mono
+18:16:34 <@jack_> Jak to zrobiłeś?
+18:16:49 <@jack_> Mi 44100 wychodziło dopiero przy 64kbit
+18:17:21 <@Baseciq> mi?
+18:17:21 <@Baseciq> normalnie
+18:17:59 <@jack_> lame ?
+18:18:45 <@Baseciq> nie
+18:18:53 <@Baseciq> ja już profesjonalista a nie lame jestem ;]
+18:18:56 <@jack_> winda?
+18:19:59 <@Baseciq> mhm
+18:20:27 <@jack_> profeco?
+%
+[22:20:34] <@Baseciq> wywala mi że nie znale×iono wa×nych certyfikatow odbiorcy
+[22:22:54] <@Baseciq> wiecie co? :) ja to pier*.* to pretty good privacy
+[22:23:31] <@Baseciq> jak będę chciał prywatności to sobie maila wydrukuje,
+                      zwinę w rulonik, w dupsko wsadzę i sobie pojadę
+                      opancerzonym do adresata
+%
+20:54:43 <+Vinetou> krótkie pytanko : ma ktoś do sprzedania jakąś nokię do 150
+                    PLN????
+21:00:18 <@Frst> Vinetou: pod jaką sieć ?
+21:00:28 <@djrzulf> Frst: 220V
+%
+16:23.13 <@Pierzak> tar zxvf tea.tar.gz
+16:23.18 <@Pierzak> cd tea
+16:23.37 <@Pierzak> ./configure --prefix=szklanka --with-cukier
+16:23.51 <@Pierzak> make && make install
+16:24.01 <@Pierzak> w sumie mozna patchowac slodzikiem ;P
+%
+15:50.28| [msg(katuu)] masz pha
+15:50.48| [katuu(al@pa40.kielce.sdi.tpnet.pl)] coto jest pha?
+%
+01:14.46 <@koszmarek> Co maja wspolnego blondynki z programistami?
+01:14.48 <@koszmarek> - problemy ze stringami.
+01:15.03 <@soolcio> ;]
+01:16.00 <@sickone> ;>
+01:16.10 <@sickone> getstringfromobj()
+01:16.11 <@sickone> ;>
+01:16.14 <@sickone> byl taki jpg
+01:17.41 <@koszmarek> jak ja ostatnio wykonałem getStringFromObj(); to tylko dostałem odłamkiem jakiejś nieznanej mi metody;
+01:17.59 <@koszmarek> ale efekt był podobny do $this->BSOD(); z windowsowego kernela.
+01:18.44 <@koszmarek> nie wiedziałem że cokolwiek innego poza windowsem ma funkcje o zbliżonym efektcie działania jak BSOD();
+%
+Nie z #pług'a, ale nie było gdzie wrzucić ;-)
+18:58.58/#php.pl| < sztaba> sorry ale vim sie nie nadaje do porfesjonalnego tworzenia www
+18:59.07/#php.pl| < sztaba> a przynajmniej jest to utrodnione i niewygodne
+%
+19:58.11| <@ewulek> koszmarek: bo ja Cię zaraz łupnę w Twój łepek!!!!!!!! Do
+                    jasnej cholery!!!!!! I nie pytaj o co chodzi, bo
+		    wiesz, o co chodzi
+19:58.36| <@koszmarek> no i?
+19:58.52| <@koszmarek> myślisz że jak mi zrobisz sceny przy kumplach to mnie
+                       coś to wogóle ruszy?
+19:59.05| <@jack_> hehe
+19:59.05| <@ewulek> ;pp
+19:59.17| <@ewulek> nie wiedzialam, że tak to nazwiesz ;>>
+19:59.22| <@jack_> koszmarek twardy jest
+19:59.26| <@koszmarek> no.
+19:59.33| <@koszmarek> do garów!
+19:59.34| <@ewulek> brutal!
+19:59.36| <@koszmarek> a nie na ircu!
+19:59.39| <@koszmarek> ;P
+19:59.53| <@jack_> Smycz za długa? ;)
+20:00.16| <@jack_> Czy komp jest na trasie sypialnia - kuchnia ? ;)
+%		
+%

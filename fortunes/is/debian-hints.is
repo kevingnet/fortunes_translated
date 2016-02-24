@@ -1,0 +1,129 @@
+Debian Ábending # 44: Þú getur fylgst identi.ca reikning fyrir Debian áhttp://identi.ca/debian Nánari upplýsingar um Debian á Identica getur einniger að finna á: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Ábending # 1: Hægt er að tilkynna um galla í pakka með "reportbug 'stjórn,sem er í boði í reportbug pakka, annaðhvort frá stjórn-lína eðameð nýju grafísku andlit (í boði í gangi "reportbug --ui gtk2" eða ímatseðill).
+
+%
+Debian Ábending # 2: Þú getur notað 'dpkg-endurskilgreina <pakkann>' til að breytasvör þú gafst spurningum spurt þegar þú settir fyrst pakka.The 'Stilla-Debian "pakki veitir sameinað framan enda til að gera þetta,Einnig.
+
+%
+Debian Ábending # 3: Þú getur notað annað hvort 'íbúð-cache leita <orð>' eða"Hæfnispróf leit <orðum> 'að leita að orðum í lýsingu á ölluboði pakka.
+
+%
+Debian Ábending # 4: Þú getur séð boði og uppsett útgáfur einneða meira í boði pakka með stjórn 'íbúð-skyndiminni stefnu <pakka>'.
+
+%
+Debian Ábending # 5: Ef þú þarft að byggja upp sérsniðna kjarna, nota 'Make-kpkg'skrifta fannst í kjarna-pakka pakka.
+
+%
+Debian Ábending # 6: Það er engin vísbending # 6. Senda ábendingu dag!
+
+%
+Debian Ábending # 7: Hægt er að nota cron-íbúð pakka til að gera sjálfvirka kvöldiniðurhal af uppfærslur fyrir pakka uppsett á vélinni þinni.
+
+%
+Debian Ábending # 8: Ef þú átt í vandræðum með Debian sem þú getur ekki leyst með því aðlesa handbækur og skjöl, reyna að biðja um Debian Notendurpóstlistinn (debian-user@lists.debian.org).
+
+%
+Debian Ábending # 9: Ef þú þarft að vita hvaða útgáfa af Debian þú ert núgangi, líta í / etc / debian_version eða nota 'lsb_release -SC' skipunina. Ef þúlangar að vita codename fyrir þessi útgáfa (td 5,0 er codenamed'Lenny'), athuga þessa vefslóð:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Ábending # 10: Það eru Debian póstlista fyrir allt frá notandaspurningar til umræðu á hvað á að setja í Debian Policy skjöl.Skoðaðu listann við http://www.debian.org/MailingLists/ og gerast áskrifandi aðþeir sem áhuga þig.
+
+%
+Debian Ábending # 11: Halda upp til dagsetning á hvað er að gerast - lesa DebianProject News. Lesa það á vefnum á http://www.debian.org/News/weekly/
+
+%
+Debian Ábending # 12: grep-dctrl pakki afla a tala af gagnlegur forskriftirfyrir fljótt að leita ýmiss pakki stjórna skrá (svo sem í boðipakka skrá).
+
+%
+Debian Ábending # 13: Ef þér líkar ekki sjálfgefna valkosti notuð í Debianpakki, getur þú sótt uppruna og byggja upp útgáfa sem notarmöguleikar sem þú kýst. sjá http://www.debian.org/doc/FAQ/ch-pkg_basics.html(kaflar 6.13 og 6.14) til að fá meiri upplýsingar.Hins vegar hafa í huga að flest möguleikar í flestum pakka er hægt að stillaá afturkreistingur, og þurfa ekki recompiling pakkann.
+
+%
+Debian Ábending # 14: Ef þú vildi eins og til að fylgja hlutum að gerast í pakka(Til dæmis, ef þú vilt sjá gallaskrám, losa tilkynningar, og annaðsvipaða hluti), íhuga að gerast áskrifandi að henni á umbúðunum Rekja spor einhvers Kerfi.Þú getur fundið út meira um PTS á:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Ábending # 15: Skjölin að pakka Vanalega er hægt að finnaundir / usr / share / doc / <pakkann>. Einkum README.Debian skrá ofthefur gagnlegar upplýsingar um Debian-sértækum einkennileg tilviljun eða ábendingar.
+
+%
+Debian Ábending # 16: Ef þú ert að leita að tiltekinni skrá, en veit ekkisem pakki það tilheyrir, reyna að setja 'apt-file', sem viðheldurLítið gagnagrunnur af þessum upplýsingum, eða leita innihald DebianPakkar gagnasafn, sem hægt er að gera á:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Ábending # 17: Þarftu einhvern til að tala við um Debian? Ef þú ert ánægðmeð Internet Relay Chat (IRC), bara setja uppáhalds IRC viðskiptavinur, ogganga #debian á irc.debian.org.
+
+%
+Debian Ábending # 18: eftirlit upplýsingar Quality um pakka er að finnameð því að fara að http://packages.qa.debian.org/~~V <pakki>; Þessi síða veitirtenglar umsjónarmanni er QA síðu, BTS, fréttir fyrir pakkann, ogupplýsingar um hvaða útgáfur eru í boði þar sem skjalasafn.
+
+%
+Debian Ábending # 19: Ef þú ert áhuga á að byggja pakka frá uppruna, þúætti að íhuga að setja upp íbúð-src pakkann.
+
+%
+Debian Ábending # 20: Langar að halda utan um hvaða útgáfa af pakka sem þú ertuppsett (sérstaklega gagnlegt fyrir þá að keyra blendingur stöðugt / próf /óstöðug kerfi)? Skoðaðu líklegur-show-útgáfur.
+
+%
+Debian Ábending # 21: Ef Debian kassi er bak hægum net tengingu,en þú hefur aðgang að fljótur einn eins og heilbrigður, kíkja á íbúð-zip pakka.
+
+%
+Debian Ábending # 22: Furða sem Debian spegill er best fyrir þig? Athugalíklegur-njósnari og netselect-íbúð pakka, sem getur gefið þér upplýsingarum hvernig ýmis spegill síður framkvæma.
+
+%
+Debian Ábending # 23: Ef vélin þín er að nota of mikið pláss, reyndudeborphan pakka; það er hægt að bjóða upp á tillögur um hvaða pakka máónotað og færanlegur. Og, auðvitað, ekki gleyma að hreinsa útAPT skyndiminni svæði (með 'líklegur til-fá hreint', 'Aptitude hreinn', eðaAðgerð Aptitude er -> Clean pakka skyndiminni valmyndinni).
+
+%
+Debian Ábending # 24: Ef þú vildi eins og til að þakka sér viðhaldsforritara fyrir meðhöndlun semmál, kíkja reportbug --kudos.
+
+%
+Debian Ábending # 25: The 'Debian-tilvísun' pakkinn inniheldur margsaf tilvísun skjöl fyrir Debian notenda og þróunaraðila. Flest afupplýsingar er einnig að finna á eftirfarandi vefslóð:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Ábending # 26: Ef pakki virðist ekki hafa mikið skjöl,athuga pakka sem heitir '<pakka> -doc' eða svipað og ganga úr skugga um aðsetja það eins vel; pakka með mikið magn af gögnumreglulega skipt um skjölin á þennan hátt fyrir þá sem vilja ekki aðsetja þá.
+
+%
+Debian Ábending # 27: Reglulega staðfesta afrit. Þú * ert * halda afrit,ekki satt? Hægri? Ef ekki, að byrja með tjöru (1) eða dump (1).
+
+%
+Debian Ábending # 28: Ef vélin þín er ekki á allan tímann (svo semfartölvu), kíkja á 'Anacron' pakkann; þetta mun ganga úr skugga um að reglulegverkefni enn gerst, jafnvel þótt vélin er ekki á á þeim tíma þeir vilduvenjulega kallað.
+
+%
+Debian Ábending # 29: Haldið kerfi klukka nákvæmur - Vélar sem kveikt er áflestum eða öllum af þeim tíma ætti að hafa 'NTP' pakkann uppsettan til að halda tímanákvæmur í milli endurfæddur.
+
+%
+Debian Ábending # 30: Documentation má liggja á http: // localhost /með því að setja á 'Doc-stöð "og" Doc-miðlægur' pakka og þeirraósjálfstæði.
+
+%
+Debian Ábending # 31: Ef þú slekkur á venjulega-virka þjónustu í tilteknu keyrslustigiskal gert með því að breyta S tengilinn í /etc/rc<level>.d til K tengilinn,frekar en að fjarlægja tengilinn alveg; ef allir tenglar eru fjarlægðar,Kerfið mun taka á næstu setja að þeir þurfa að skipta.
+
+%
+Debian Ábending # 32: Í pakkanum "Doc-Debian 'inniheldur nokkur almenngögn um Debian verkefnið. Það er einnig í boði í spænsku(Doc-Debian-es), franska (læknir-Debian-fr) og Úkraínsk (læknir-Debian-uk).
+
+%
+Debian Ábending # 33: The pakki 'devscripts' inniheldur nokkrar gagnlegar forskriftir fyrirnotendur sem vilja til að hjálpa til við að bæta Debian, t.d. wnpp-viðvörun, RC-vakandi og BTS.
+
+%
+Debian Ábending # 34: Ef þú vilt fylgjast með Debian Sid og hafa lítið niðurhalkvóta eða mjög hægur tengsl, skrá sig út the debdelta pakkann.
+
+%
+Debian Ábending # 35: Í leit að sumum leikjum? Taka a líta á 'goplay', sembýður upp á gott viðmóti fyrir beit í gegnum alls konar leikjum.
+
+%
+Debian Ábending # 36: Vantar nýrri pakka en flutt með Debian er síðastastöðugt út, en vil ekki að uppfæra í "próf" eða "óstöðug '? sumirpakkar er haldið upp-til-dagsetning um stöðugar-uppfærslur föruneyti, eru sumir aðriraðgengilegar á backports.debian.org.
+
+%
+Debian Ábending # 37: Langar að sækja pakka án þess að setja það? Nota"Aptitude niður <pkgname> '.
+
+%
+Debian Ábending # 38: Langar þig að vita hvernig hægt er að nota forrit sem þú hefur aldrei notaðáður? "Maður" verður besti nýr vinur þinn! Tegund "maður <program-name>" ískel. Eða, hlaupa "maður -H <program-name>" að lesa handbókina í vafranum.
+
+%
+Debian Ábending # 39: Bæta TAB-lokið bash með því að setja uppbash-lokið pakki.
+
+%
+Debian Ábending # 40: Ef þú setur stjórn-ekki-fundið pakka, reyna aðkeyra skipun sem þú hefur ekki sett upp mun segja þér hvaða pakka til að setja ífá að stjórn.
+
+%
+Debian Ábending # 41: Þú getur notað 'íbúð-cache sýning <PACKAGE_NAME>' eða 'Aptitude sýning<PACKAGE_NAME> 'til að fá meiri upplýsingar um debian pakka.
+
+%
+Debian Ábending # 42: Þú getur notað 'íbúð-skrá lista <PACKAGE_NAME>' til að fá skráninguaf innihaldi debian pakka. Þessi aðgerð er svipað'Dpkg -L <PACKAGE_NAME>' nema pakki þarf ekki að vera uppsett eðasóttur með íbúð-skrá í mótsögn við dpkg.
+
+%
+Debian Ábending # 43: Langar að slökkva tímabundið iptables eldvegg? Nota'Iptables-vista | Sed "/ - / d; / ^ # / d; s / DROP / TÖKUM /" | iptables-endurheimta "til að fjarlægjaallar reglur og stilla sjálfgefinn stefnu til að samþykkja.
+
+%

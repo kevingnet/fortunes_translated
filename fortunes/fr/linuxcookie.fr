@@ -1,0 +1,412 @@
+Une machine Linux! parce que 486 est une chose terrible à gaspiller!(Par jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absolument rien ne devrait être conclu à partir de ces chiffres, sauf queaucune conclusion ne peut être tirée de leur part. "(Par Joseph L. Brothers, PowerPC projet / Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+En fait, en tapant des chaînes aléatoires dans le Finder fait l'équivalent deachèvement filename.(Discussion en comp.os.linux.misc sur l'intuitivité des commandes: fichierachèvement vs Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Après avoir vu mon père nouvellement retraité passer deux semaines à apprendre comment faire une nouvelledossier, il est devenu évident que "intuitive" la plupart du temps signifie «ce que l'auteur ouprésident de gens intuitifs ".(Bruce Ediger, bediger@teal.csn.org, dans comp.os.linux.misc, sur X duintuitivité de l'interface Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tous les concepteurs de langage sont arrogants. Va avec le territoire ..."(Par Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Et 1.1.81 est officiellement de bugs (tm), donc si vous recevez des rapports de boguesà ce sujet, vous savez qu'ils sont des mensonges juste mauvais ".(Par Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Et les femmes légèrement vêtues, bien sûr. Qui se soucie si elle est en dessous de zéroà l'extérieur"(Par Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Et la prochaine fois que vous envisager de se plaindre que l'exécution de Lucid Emacs19.05 via NFS depuis une machine distante Linux au Paraguay ne semble pasobtenir les couleurs d'arrière-plan à droite, vous saurez qui remercier. "(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Les porteurs là-bas devraient se sentir plus heureux de savoir que la DEC est expédition>: Moi un AlphaPC que je compte essayer d'obtenir Linux sur: cette volonté>: Certainement aider à éliminer certaines des choses non portable le plus flagrant.>: L'Alpha est beaucoup plus différente de la i386 que les trucs 68k est, pour ainsi>: Il est probable d'obtenir la plupart des choses fixe.>> Il est messages de ce genre qui nous convaincre presque non-croyants qu'il y> Est vraiment un dieu.(A suivi par alovell@kerberos.demon.co.uk, Anthony Lovell, à Linus deremarques sur le portage)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Quiconque pense UNIX est intuitive devrait être forcé à écrire des lignes de 5000code en utilisant rien d'autre que vi ou emacs. AAAAACK!(Discussion en comp.os.linux.misc sur l'intuitivité des commandes, en particulierEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Sont [utilisateurs de Linux] lemmings sauter collectivement hors de la falaise defiable, bien conçu un logiciel commercial? "(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Comme d'habitude, ce qui est une version 1.3.x, je l'ai même pas compilé cettenoyau encore. Donc, si cela fonctionne, vous devez être doublement impressionné.(Linus Torvalds, annonçant noyau 1.3.3 sur la liste de diffusion linux-kernel.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Évitez la Porte de l'Enfer. Utiliser Linux(Source inconnue)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Soyez averti que le typage \ fBkillall \ fInom \ fP peut ne pas avoir l'souhaitéeeffectuer sur les systèmes non-Linux, en particulier lorsqu'elle est effectuée par un utilisateur privilégié.(De la page de manuel de killall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«D'ailleurs, je pense que [Slackware] sonne mieux que« Microsoft », pas vous?"(Par Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mais que pouvez-vous faire? - Cri omniprésente de partenaire Linux par l'utilisateur.(Présentée par Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Bon sang, je commence à penser Linux vraiment * est * la meilleure chose depuispain tranché."(Par Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. Le noyau a essayé d'accéder à une mauvaise page. Nous devrons * Fin choses avec préjudice extrême.* /die_if_kernel ( "Oops", regs, error_code);(De linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Profonde mode Hack - cet état mystérieux et effrayant deconscience où l'utilisateur Mortal craignent de marcher. "(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra me déteste probablement(Linus Torvalds, dans kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: Un petit virus d'amorçage ennuyeux que provoque système spontané aléatoire n,.     plantages, généralement juste avant l'enregistrement d'un projet de grande envergure. Facilement guéri par     UNIX. Voir aussi MS-DOS, IBM-DOS, DR-DOS.(À partir de la .plan de David Vickers)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] À noter que 120 sec est défini dans le protocole comme étant le maximum * Possible RTT. Je suppose que nous devrons utiliser autre chose que TCP * Parler à l'Université de Mars. * PAWS nous permet des délais plus longs et de grandes fenêtres, donc une fois mis en œuvre * Ftp vers Mars fonctionneront très bien. * /(À partir de /usr/src/linux/net/inet/tcp.c, concernant RTT [retransmission timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Encore plus étonnant est la réalisation que Dieu a accès à Internet. Jedemander s'il a un fil d'actualité est plein? "(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Jamais entendu parler de .cshrc?Voilà une ville en Bosnie. Droite?(Discussion en comp.os.linux.misc sur l'intuitivité des commandes.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Erreur fatale: Système Trouvé [MS-Windows] -> Repartitionner disque pour Linux ...(Par cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Comment puis-je tape "for i in * .dvi ne xdvi i done" dans une interface graphique?(Discussion en comp.os.linux.misc sur l'intuitivité des interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Comment dois-je savoir si cela fonctionne? Voilà ce que les testeurs bêta sont pour. Je neil codé ".(Attribué à Linus Torvalds, quelque part dans un affichage)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Un fier membre de TeamLinux \ _________ \ /(Par Chaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Je développe pour Linux dans la vie, je l'habitude de développer pour DOS.Allant de DOS pour Linux est comme la négociation d'un planeur pour un F117.(Par entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Je l'ai fait parce que Linux me donne un boisé. Il ne génère pas de revenus.(Dave '-ddt-> `Taylor, annonçant DOOM pour Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Hésitez pas à me contacter (flammes de mon anglais et l'inutile de cettepilote sera redirigé vers / dev / null, oh non, il est plein ...).(Michael Beck, décrivant le périphérique audio PC haut-parleurs)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Je ne sais pas pourquoi, mais les programmes de première C tendance à regarder bien pire quepremiers programmes dans toute autre langue (peut-être à l'exception de Fortran, maisJe soupçonne tous les programmes Fortran ressemblent `premières») "(Par Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Une fois, je témoin, un troll de longue haleine durée d'un mois sur l'utilisation desouris contre trackballs ... Il était très stupide. "(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Je persiste à penser que la conception d'un noyau monolithique en 1991 est unerreur fondamentale. Soyez reconnaissants vous n'êtes pas mon élève. Vous ne pouvez pas avoir unbonne note pour une telle conception :-)(Andrew Tanenbaum à Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Je préfère passer 10 heures à lire le code source de quelqu'un d'autre que10 minutes en écoutant Musak attente pour le support technique qui ne soit pas ".(Par le Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Je rampe sur un acre de« visuelle Ce ++ »et« développement intégréQue «pour arriver à gcc, Emacs, et gdb. Je vous remercie."(Par Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Je suis un idiot .. Au moins celui-ci [bug] a pris environ 5 minutes pour trouver .."(Linus Torvalds en réponse à un rapport de bogue.)> Je suis un idiot .. Au moins, cette [bug] a pris environ 5 minutes pour trouver ..Inquiétant ...(Gonzalo Tornaria en réponse à la diffusion de Linus Torvalds sur une bogue du noyau.)> Je suis un idiot .. Au moins, cette [bug] a pris environ 5 minutes pour trouver ..Nous devons trouver de nouveaux termes pour décrire le reste de nous, simples mortelspuis.(Craig Schlenter en réponse à la diffusion de Linus Torvalds sur une bogue du noyau.)> Je suis un idiot .. Au moins, cette [bug] a pris environ 5 minutes pour trouver ..Certes, Linus parle le genre d'idiotie que d'autres aspirent à :-).(Bruce Perens en réponse à la diffusion de Linus Torvalds sur une bogue du noyau.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Je suis à court DOOM plus au cours des derniers jours que je dois les quelques derniersmois. I just love débogage ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., concerné par la popularité croissante de la libre 32 bitssystème d'exploitation pour les systèmes Intel, Linux, a utilisé un certain nombre de hautprogrammeurs du monde souterrain du développement du virus. Bill Gates a déclaréhier: «domination mondiale, rapide - il est soit nous ou Linus". M. Torvaldsétait disponible pour commenter ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), dans comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (argc> 1 && strcmp (argv [1], "-Conseils") == 0) {printf ( "Do not Panic! \ n");la sortie (42);    }(Arnold Robbins dans le LJ de Février 95, RCS description)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Si elle est définie (__ alpha__) && défini (CONFIG_PCI)+ / *+ * Le sens de la vie, l'univers, et tout. Plus+ * Ce qui rend l'année sortent à droite.+ * /+ Année - = 42;+ # Endif(Du patch pour 1.3.2: (kernel / time.c), présenté par Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si le futur système de navigation [pour les services interactifs en réseau surNII] ressemble à quelque chose de Microsoft, il ne marchera jamais. "(Président de Walt Disney Television & Télécommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si vous voulez voyager autour du monde et d'être invité à parler à beaucoupd'endroits différents, il suffit d'écrire un système d'exploitation Unix. "(Par Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[Dans« docteur »mode], je passais une bonne dizaine de minutes racontant Emacs ce que jepensé. (La réponse a été: «Peut-être que vous pourriez essayer d'être moinsinjurieux.')"(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dans la plupart des pays vendant des choses nocives comme des drogues est punissable.Puis howcome gens peuvent vendre des logiciels Microsoft et rester impuni?(Par hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+génie Intel semblent avoir mal entendu stratégie de marketing d'Intel. La phraseétait «Diviser pour régner» et non «Diviser et Cock up"(Par iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Il est Dieu. Non, pas Richard Stallman, ou Linus Torvalds, mais Dieu."(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, vous avez m'a fait sur mes genoux!(De David Black, dblack@pilot.njin.net, avec mes excuses à Derek and theDominos, et Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux est obsolète(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux représente un véritable défi pour ceux qui ont le goût de fin de soiréepiratage (et / ou des conversations avec Dieu) ".(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX développement Venimus, Vidimus, Dolavimus.(Par mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... La capacité [de Linux] de parler sur tout support, sauf les signaux de fumée."(Par le Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: parce qu'un PC est une chose terrible à perdre(Ksh@cis.ufl.edu Mettre cela sur T-shirts en 93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Parce qu'un PC est une chose terrible à gaspiller.(Par komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: le choix d'une génération GNU(Ksh@cis.ufl.edu Mettre cela sur T-shirts en 93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: le système d'exploitation avec un indice ...Ligne de commande de l'environnement de l'utilisateur ".(Vu dans un message affiché dans comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 sur le feu(L'un des messages du noyau plus brouillées)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft est pas la réponse.Microsoft est la question.NO (ou Linux) est la réponse.(Extrait d'une .signature de quelqu'un à partir du Royaume-Uni, source inconnue)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten dans Dateisysteme, und, nonne, 'besteigen' beim Sex.(Christa Keil dans un détachement allemand: "Le montage est utilisé pour trois choses:grimper sur un cheval, qui relie dans une unité de disque dur dans les systèmes de données, et, ainsi,de montage pendant les rapports sexuels ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS ne reçoivent pas aussi mauvais que cela est la nuit - il a fallu plus de dix ansdu développement prudent. "(Par dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ne faites jamais mistaeks."(Anonyme, dans une discussion de messagerie sur le point d'un rapport de bogue du noyau.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pas moi, mec. Je lis la page Bash homme chaque jour comme un témoin de Jéhovah litla Bible. Pas d'attente, la page de manuel Bash est la Bible. Excusez-moi...(Plus de détails sur alias déroutants, tiré de comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Notez que si je peux vous faire \" su et dites \ "quelque chose simplement en demandant,vous avez un problème de sécurité très sérieuse sur votre système et vous devriezexaminer la question ".(Par Paul Vixie, vixie-cron 3.0.1 notes d'installation)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Maintenant, je sais quelqu'un là-bas va demander, "Eh bien, UNIX est intuitive,parce que vous avez seulement besoin d'apprendre 5000 commandes, et puis tout le reste suità partir de ce! Har Har Har! "(Andy Bates dans comp.os.linux.misc, sur "des interfaces intuitives", légèrementdéfendre Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Maintenant, il nous avait ce genre de chose:  donner -a pour le rendement de l'ensemble du trafic  donner -t pour le rendement de camions  donner -f pour le rendement de personnes marchant (rendement pied)  donner -d t * pour le rendement sur les jours à partir de t... Que vous avez un grand nombre de personnes mortes aux intersections, et le trafic que vous confituresne serait pas croire ...(Discussion en comp.os.linux.misc sur l'intuitivité des commandes.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sur une ligne de ascii normale, la seule condition de sécurité pour détecter une" pause "- Tout le reste ayant été affecté par les fonctions GNU Emacs ".(Par Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Sur Internet, personne ne sait que vous utilisez Windows NT"(Présentée par Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Il était une fois il y avait un utilisateur DOS qui a vu Unix, et vit que cela étaitbien. Après avoir tapé cp sur sa machine DOS à la maison, il a téléchargé GNU deoutils UNIX portés sur DOS et les installer. Il rm'd, cp'd et mv'dheureusement pour plusieurs jours, et lors de la découverte d'Elvis, il vi'd et il était heureux. Aprèsune longue journée de travail (sur une machine Unix) il est rentré, a commencé à éditer un fichier,et ne pouvait pas comprendre pourquoi il ne pouvait pas vi (w / ctrl-z) suspendre le faireune compilation.(Par ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Outre le fait Linux a un nom cool, quelqu'un pourrait-il expliquer pourquoi je>> Devrait utiliser Linux sur BSD?>> N ° Voilà. Le nom cool, ce qui est. Nous avons travaillé très dur sur> Création d'un nom qui ferait appel à la majorité des gens, et il> Certainement porté fruit: des milliers de personnes utilisent linux juste pouvoir>-À-dire "OS / 2? Hah. Je dois Linux. Quel nom cool". 386BSD fait la> Erreur de mettre beaucoup de chiffres et abréviations bizarres dans le> Nom, et est effrayer beaucoup de gens juste parce que cela semble trop> Technique.(Suivi Linus Torvalds à une question sur Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Personnellement, je pense que mon choix dans les guerres mostest-superlative par ordinateur doitla série HP-48 de calculatrices. Ils vont courir presque tout. Et si ellesne peux pas, alors je vais juste brancher une machine Linux dans le port série et de la charge de laHP-48 VT-100 émulateur.(Par jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Il n'y a aucune discussion dans a.b.p.erotica, donc il n'y a pas de gain en utilisant unfiletée lecteur de nouvelles.(Source inconnue)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Résoudre sous linux problème n'a jamais été le cirque qu'il est sousAIX. "(Par Pete Ehlke dans comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+fermer lorsque l'instruction quit est lu, le processeur bc       il est mis fin, peu importe où le quitter déclaration       ment se trouve. Par exemple, "si (0 == 1) quitter"       causera bc mettre fin.(Vu dans la page de "bc". Notez que le "si" la logique de déclaration)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fonctionnant sous Windows sur un Pentium est comme avoir une nouvelle marque Porsche mais seulementêtre capable de conduire vers l'arrière avec le frein à main.(Source inconnue)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit discus mundi"(De Guide de l'administrateur système, par Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Soupir. J'aime à penser qu'il est juste les gens Linux qui veulent être surle "bord d'attaque" si mauvais ils marchent droit dans le précipice.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Le programme chat est dans le domaine public. Cela ne veut pas la licence publique GNU. SiIl rompt alors vous obtenez de garder les deux pièces.(Avis de droit d'auteur pour le programme de chat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Les gens pensent jour linux serait mieux servi par quelqu'un d'autre (FSF> Étant l'alternative naturelle), je vais "abdique". Je ne pense pas que> Il est quelque chose les gens ont à se soucier de ce moment - je ne vois pas> Passe dans un proche avenir. Comment aimez-vous faire Linux, même si elle le fait> Signifie un travail, et je ne l'ai pas eu de plaintes (certains presque timide> rappels sur un patch je l'ai oublié ou ignoré, mais rien> Négative à ce jour).>> Ne pas prendre ce qui précède signifie que je vais arrêter le jour quelqu'un se plaint:> Je suis à peau épaisse (Lasu, qui lit cette dessus mon épaule commenté> Que «tête dure est plus proche de la vérité") assez pour prendre un certain abus.> Si je ne, je l'aurais cessé de se développer linux l'ast jour me ridiculisé> Sur c.o.minix. Je veux dire simplement que si linux a été mon bébé si> Jusqu'à présent, je ne veux pas faire obstacle à la si les gens veulent faire quelque chose> Mieux de lui (*).>> Linus>> (*) Hey, peut-être que je pourrais demander un saint-capot du pape. Est-ce que> Quelqu'un sait ce que son adresse e-mail est? Je suis si gentil il vous fait vomir.(Extrait de la réponse de Linus à quelqu'un inquiet pour l'avenir de Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+La bonne chose à propos de Windows est - Il ne se plante pas, il affiche uneboîte de dialogue et vous permet d'appuyer sur «OK» en premier.(Sig de Arno Schaefer)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+La seule interface "intuitive" est le mamelon. Après cela, il est tout appris.(Bruce Ediger, bediger@teal.csn.org, dans comp.os.linux.misc, sur les interfaces X.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Il existe deux types de développeurs Linux - ceux qui peuvent épeler, etceux qui ne peuvent pas. Il y a une bataille constante entre les deux.(De l'un des-1.1.54 poster des messages de mise à jour du noyau posté à c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ce message a été présenté par Linux, la libre unix.Windows sans le X est comme faire l'amour sans un partenaire.Sex, Drugs & Règles Linuxgagnant-nt des gens qui ont inventé edlinpommes ont signifié difficulté depuis edenLinux, la façon de se débarrasser du virus de boot(Par mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS et Windows NT (également connu sous le bon, le mauvais, etle moche)."(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Très peu de phénomènes peuvent tirer quelqu'un hors de mode Hack profonde, avec deuxnoté exceptions: être frappés par la foudre, ou pire, votre ordinateur * *être frappé par la foudre ".(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Waving loin un nuage de fumée, je lève les yeux, et je suis aveuglé par un brillant, blanclumière. Il est Dieu. Non, pas Richard Stallman, ou Linus Torvalds, mais Dieu. Dansune voix tonitruante, Il dit: "Ceci est un signe UTILISATION Linux, le système Unix libre.POUR LA 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nous savons tous Linux est grand ... il fait des boucles infinies en 5 secondes."(Linus Torvalds sur la supériorité de Linux sur la liaison AmsterdamSymposium Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nous sommes Microsoft. Vous serez assimilés. La résistance est futile.(Attribué à B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nous sommes Pentium de Borg. Division est futile. Vous seront rapprochées.(Vu dans le .signature de quelqu'un)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nous utilisons Linux tous les jours pour notre productivité - afin Up Yours!(Adapté de Pat Paulsen par Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nous venons d'enterrer DOS, pas faire l'éloge.(Paul Vojta, vojta@math.berkeley.edu, paraphrasant une citation de Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nous utilisons Linux pour toutes nos applications essentielles à la mission. Ayant le code sourcesignifie que nous ne sommes pas tenus en otage par le service d'assistance de quiconque.(Russell Nelson, président de Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Qu'est-ce que vous vous retrouvez avec, après l'exécution d'un concept de système d'exploitation viaces nombreux filtres à café de marketing, est quelque chose de pas contrairement plaine chaudeeau."(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Qu'est-ce ce script faire?    décompresser; toucher ; doigt ; le Mont ; haleter; Oui ; umount; dormirCONSEIL Pour la réponse: non, tout est orienté vers l'ordinateur. Parfois, vous êtesdans un sac de couchage, camper.(Proposé par Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Quand vous dites" je l'ai écrit un programme qui est écrasé Windows ", les gens regardent juste auvous d'un air absent et dire "Hey, je suis ceux avec le système, * gratuit *" '.(Par Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Fouetter moi. Battez-moi. Fais-moi maintiens AIX."(Par Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Qui est l'échec général et pourquoi est-il en train de lire mon disque dur?"Microsoft spel Chekar vor voile, Worgs grille !!(Par leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Qui veut se souvenir que la fuite-x-alt-control-gauche shift-b vous met danssuper-edit-debug-compilation en mode?(Discussion en comp.os.linux.misc sur l'intuitivité des commandes, en particulierEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pourquoi utiliser Windows, car il y a une porte?(Par fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+«Domination mondiale. Rapide"(Par Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..vous pourrait passer toute la journée * * personnalisation de la barre de titre. Crois moi. jeparler de l'expérience ".(Par Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Vous pourriez aussi bien aller à la célébration de Noël complètement, et la placeasseoir devant votre jeu informatique linux avec letoute nouvelle et améliorée version du noyau Linux ».(Par Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Votre travail est d'être un professeur et chercheur: Voilà une sacrée bonne excusepour une partie des dommages cérébraux de Minix.(Linus Torvalds à Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+J'ai entendu un Juif et un musulman soutiens dans un café de Damas avec moins de passionque les emacs guerres ".<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

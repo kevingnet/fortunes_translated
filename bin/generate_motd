@@ -1,0 +1,59 @@
+#!/bin/bash 
+  
+languages=("ar" "be" "de" "el" "es" "fa" "fr" "hy" "it" "iw"   "ja" "ka" "kk" "ko" "lo" "mk" "mn" "ny" "pl" "pt-BR"    "ro" "ru" "sk"  "sr" "sw" "tg" "th" "tl" "uk" "ur"     "vi" "yi" "yo" "zh-CN" "zh-TW" "zu" )
+#languages=("af" "ar" "az" "be" "bs" "ca" "cs" "cy" "da" "de" "el" "eo" "es" "et" "eu" "fa" "fi" "fr" "gl" "ha" "hr" "ht" "hu" "hy" "id" "ig" "is" "it" "iw" "ja" "jw" "ka" "kg" "kk" "ko" "la" "lo" "lt" "lv" "mg" "mi" "mk" "mn" "mo" "ms" "mt" "nl" "nn" "no" "ny" "nyn" "pl" "pt-BR" "ro" "ru" "sh" "sk" "sl" "so" "sq" "sr" "st" "su" "sv" "sw" "tg" "th" "tl" "tr" "uk" "ur" "uz" "vi" "yi" "yo" "zh-CN" "zh-TW" "zu" )
+#anguages2=("ak" "bg" "bh" "bn" "chr" "ckb" "co" "crs" "cs" "ee" "fo" "fy" "ga" "gaa" "gd" "gn" "gu" "haw" "hi" "ia" "km" "kn" "kri" "ku" "ky" "lg" "ln" "loz" "lua" "mfe" "ml" "mr" "ne" "nso" "oc" "om" "or" "pa" "ps" "qu" "rm" "rn" "rw" "sd" "si" "sn" "ta" "te" "ti" "tk" "tn" "to" "tt" "tum" "tw" "ug" "wo" "xh" )
+
+jives=( "austro" "b1ff" "brooklyn" "chef" "cockney" "drawl" "dubya" "fudd" "funetak" "jethro" "jive" "kraut" "pansy" "pirate" "postmodern" "redneck" "valspeak" "warez" "wrap") 
+
+fortune=$[($RANDOM%5)]
+type=$[($RANDOM%2)]
+think=$[($RANDOM%2)]
+language=${languages[$RANDOM%36]}
+
+modes=( " -b" " -d" " -g" " -p" " -s" " -t" " -w" " -y" " ") 
+mode=${modes[$(($RANDOM%9))]} 
+
+fortune_command=`which fortune`
+cowsay_command=`which cowsay`
+cowthink_command=`which cowthink`
+
+if [ $fortune == 0 ]
+then
+  fortune="$fortune_command -n 300 -s" 
+  the_jive=${jives[$((  $RANDOM%20  ))]}
+else
+  fortune="$fortune_command $language -n 400 -s" 
+fi
+
+if [ $type == 0 ]
+then
+  if [ $think == 0 ]
+  then
+    filter="$cowsay_command -W80 $mode" 
+  else
+    filter="$cowthink_command -W80 $mode" 
+  fi
+else
+  cow_dir='/usr/local/share/cowsay/cows'
+  if [ ! -d "$cow_dir" ]; then
+    cow_dir='/usr/share/cowsay/cows'
+  fi  
+  cows=($cow_dir/*.cow)
+  nicecow=${cows[$(($RANDOM%${#cows}))]}
+  if [ $think == 0 ]
+  then
+    filter="$cowsay_command -f $nicecow -W80 $mode" 
+  else
+    filter="$cowthink_command -f $nicecow -W80 $mode" 
+  fi
+fi
+
+if [ -z $the_jive ]; then
+  FORTUNE="$($fortune)"
+else
+  FORTUNE="$($fortune | $the_jive)"
+fi
+echo $FORTUNE | $filter > /tmp/motd
+cat /tmp/motd 
+

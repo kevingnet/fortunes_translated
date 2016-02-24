@@ -1,0 +1,257 @@
+Suggerimento Debian n° 1: è possibile riportare un bug che concerne un
+pacchetto utilizzando il comando «reportbug», disponibile nell'omonimo
+pacchetto, o dalla riga di comando, oppure utilizzando la nuova interfaccia
+grafica, che è disponibile o eseguendo «reportbug --ui gtk2» o nel menù.
+
+%
+Suggerimento Debian n° 2: è possibile eseguire «dpkg-reconfigure
+<nomepacchetto>» per modificare le risposte fornite all'installazione di un
+pacchetto. A tal fine è disponibile anche il pacchetto «configure-debian»,
+il quale fornisce un'interfaccia unificata.
+
+%
+Suggerimento Debian n° 3: per cercare delle parole nelle descrizioni di
+tutti i pacchetti disponibili è possibile utilizzare o «apt-cache search
+<parole>» oppure «aptitude search <parole>».
+
+%
+Suggerimento Debian n° 4: è possibile visualizzare la versione installata e
+quella disponibile per uno o più pacchetti mediante il comando «apt-cache
+policy <pacchetti>».
+
+%
+Suggerimento Debian n° 5: per compilare un kernel personalizzato, utilizzare
+lo script «make-kpkg», disponibile nel pacchetto «kernel-package».
+
+%
+Suggerimento Debian n° 6: non c'è alcun suggerimento n° 6. Proponetene uno
+voi!
+
+%
+Suggerimento Debian n° 7: è possibile utilizzare il pacchetto «cron-apt» per
+scaricare, durante la notte, gli aggiornamenti dei pacchetti installati nel
+proprio sistema.
+
+%
+Suggerimento Debian n° 8: se si riscontrano problemi con Debian che non si
+riesce a risolvere leggendo i manuali e la documentazione, è possibile
+chiedere nella mailing list degli utenti di Debian: quella internazionale è
+debian-user@lists.debian.org, mentre quella in italiano è
+debian-italian@lists.debian.org.
+
+%
+Suggerimento Debian n° 9: per sapere quale versione di Debian si sta
+attualmente utilizzando, consultare «/etc/debian_version» oppure utilizzare
+«lsb_release -sc»; per sapere il nome in codice della versione (per esempio
+la 5.0 si chiama «Lenny»), consultare questo URL:
+
+http://www.debian.org/doc/manuals/debian-faq/ch-ftparchives.it.html#s-codenames
+
+%
+Suggerimento Debian n° 10: ci sono mailing list di Debian per tutto, dalle
+domande degli utenti a discussioni su cosa includere nelle documentazioni
+Debian Policy. Consultare l'elenco in http://www.debian.org/MailingLists/ e
+iscriversi a quelle che interessan°
+
+%
+Debian Hint #11: Keep up to date on what's going on - read the Debian
+Project News. Read it on the web at http://www.debian.org/News/weekly/
+
+%
+Suggerimento Debian n° 12: il pacchetto «grep-dctrl» fornisce molti script
+utili per cercare rapidamente vari file di controllo dei vari pacchetti
+(come per esempio i file dei pacchetti disponibili).
+
+%
+Suggerimento Debian n° 13: per non utilizzare le opzioni predefinite che
+vengono utilizzate in un pacchetto Debian, è possibile scaricare il sorgente
+e compilare una versione che utilizza le opzioni desiderate. Per maggiori
+informazioni consultare
+http://www.debian.org/doc/manuals/debian-faq/ch-pkg_basics.it.html (sezioni
+6.13 e 6.14).
+
+Notare comunque che molte delle opzioni nella maggior parte dei pacchetti
+possono essere configurate in fase di esecuzione e non richiedono la
+ricompilazione del pacchetto.
+
+%
+Suggerimento Debian n° 14: per rimanere informati a proposito di un
+pacchetto (per esempio vedere i bug segnalati, le notizie sul rilascio,
+ecc.), è possibile sottoscrivere il Package Tracking System (PTS). Maggiori
+informazioni sul PTS (in inglese) si trovano in:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Suggerimento Debian n° 15: la documentazione di un pacchetto è normalmente
+disponibile in «/usr/share/doc/<pacchetto>». In particolare, spesso il file
+README.Debian contiene informazioni utili inerenti aspetti specifici della
+versione Debian o suggerimenti.
+
+%
+Suggerimento Debian n° 16: se si cerca un particolare file, ma non si sa a
+quale pacchetto appartiene, installare «apt-file», il quale mantiene un
+piccolo database di queste informazioni, oppure effettuare una ricerca nel
+contenuto del database dei pacchetti Debian in:
+
+http://www.debian.org/distrib/packages#search_packages
+
+%
+Suggerimento Debian n° 17: per poter parlare con qualcuno a proposito di
+Debian, se si sa usare Internet Relay Chat (IRC) installare il proprio
+client IRC preferito e unirsi a #debian su irc.debian.org (in inglese). Il
+canale italiano di supporto è sulla rete IRC Freenode, #debian-it. 
+
+%
+Suggerimento Debian n° 18: le informazioni sul controllo di qualità
+concernenti un pacchetto si trovano in
+http://packages.qa.debian.org/<pacchetto>; questa pagina fornisce
+collegamenti alla pagina QA del manutentore, al BTS, alle novità inerenti il
+pacchetto e alle informazioni sulle versioni disponibili nei vari archivi.
+
+%
+Suggerimento Debian n° 19: per poter compilare dei pacchetti a partire dal
+sorgente si può installare il pacchetto «apt-src».
+
+%
+Suggerimento Debian n° 20: per tener traccia della versione installata di un
+determinato pacchetto (cosa utile in particolar modo se si utilizza un
+sistema ibrido stable/testing/unstable), si può installare il pacchetto
+«apt-show-versions».
+
+%
+Suggerimento Debian n° 21: se il proprio sistema Debian si trova in una rete
+lenta, ma si ha accesso anche a una rete veloce, considerare l'installazione
+del pacchetto «apt-zip».
+
+%
+Suggerimento Debian n° 22: se si desidera sapere quale mirror di Debian è
+più confacente al proprio caso, si dia un'occhiata ai pacchetti «apt-spy» e
+«netselect-apt», i quali forniscono informazioni sulle prestazioni dei vari
+siti mirror.
+
+%
+Suggerimento Debian n° 23: se il proprio sistema usa troppo spazio su disco,
+utilizzare il pacchetto «deborphan», che fornisce suggerimenti su quali
+pacchetti potrebbero essere inutilizzati e, quindi,
+disinstallati. Ricordarsi anche di ripulire la cache di apt, mediante
+«apt-get clean», «aptitude clean» oppure usando il comando del menù di
+Aptitude Azioni - Pulisci la cache dei pacchetti.
+
+%
+Suggerimento Debian n° 24: per ringraziare un manutentore per aver risolto
+un problema, consultare «reportbug --kudos».
+
+%
+Suggerimento Debian n° 25: il pacchetto «debian-reference» contiene una
+vasta documentazione di riferimento per utenti e sviluppatori Debian. La
+maggior parte delle informazioni è disponibile anche al seguente URL:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Suggerimento Debian n° 26: se si ha l'impressione che un pacchetto non abbia
+molta documentazione, verificare l'eventuale esistenza del pacchetto
+denominato «<pacchetto>-doc» e installarlo; i pacchetti con molta
+documentazione normalmente rendono disponibile la documentazione in un
+pacchetto separato, per coloro i quali non desiderano installarla.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Suggerimento Debian n° 28: se il proprio computer non è costantemente acceso
+(come per esempio un portatile), si consideri il pacchetto «anacron», il
+quale si assicura che le attività regolari vengano effettuate anche se il
+computer non è acceso nel momento in cui le attività dovrebbero essere
+svolte.
+
+%
+Suggerimento Debian n° 29: mantenere aggiornato l'orologio del proprio
+computer. I computer che sono sempre o quasi accesi dovrebbero aver
+installato il pacchetto «ntp» in modo da mantenere l'orario esatto durante
+eventuali riavvii.
+
+%
+Suggerimento Debian n° 30: la documentazione può essere resa disponibile in
+«http://localhost» installando i pacchetti «doc-base» e «doc-central»,
+insieme alle rispettive dipendenze.
+
+%
+Suggerimento Debian n° 31: per disabilitare un servizio normalmente attivo
+in un runlevel specifico, modificare il collegamento S, presente in
+«/etc/rc<livello>.d», in un collegamento K, piuttosto che rimuovere
+interamente il collegamento. Se tutti i collegamenti vengono rimossi, il
+sistema presumerà, alla prossima installazione, che devono essere
+sostituiti.
+
+%
+Suggerimento Debian n° 32: il pacchetto «doc-debian» contiene della
+documentazione generale inerente il progetto Debian. È disponibile anche in
+spagnolo («doc-debian-es»), francese («doc-debian-fr») e ucraino
+(«doc-debian-uk»).
+
+%
+Suggerimento Debian n° 33: il pacchetto «devscripts» contiene alcuni script
+utili per gli utenti che vogliono fornire il proprio contributo al
+miglioramento di Debian, per esempio «wnpp-altert», «rc-alert» e «bts».
+
+%
+Suggerimento Debian n° 34: se si desidera tracciare il SID Debian e si ha
+una quota di scaricamento limitata o una connessione molto lenta, si
+consideri il pacchetto «debdelta».
+
+%
+Suggerimento Debian n° 35: per cercare dei giochi utilizzare il pacchetto
+«goplay», il quale offre una gradevole interfaccia per navigare attraverso
+giochi di tutti i tipi.
+
+%
+Debian Hint #36: Need a newer package than shipped with Debian's last stable
+release, but don't want to upgrade to 'testing' or 'unstable'? Some packages
+are kept up-to-date via the stable-updates suite, some others are made
+available at backports.debian.org.
+
+%
+Suggerimento Debian n° 37: se si desidera scaricare un pacchetto senza
+installarlo, utilizzare «aptitude download <nomepacchetto>».
+
+%
+Suggerimento Debian n° 38: se si vuole sapere come usare un programma mai
+utilizzato in precedenza, utilizzare «man»: digitare «man <nomeprogramma>»
+da riga di comando, oppure eseguire «man -H <nomeprogramma>» per poter
+leggere il manuale nel browser.
+
+%
+Suggerimento Debian n° 39: l'installazione del pacchetto «bash-completion»
+consente di migliorare il completamento tramite tabulatore nella riga di
+comando.
+
+%
+Suggerimento Debian n° 40: il pacchetto «command-not-found» fornisce il nome
+del pacchetto che contiene un comando che si è cercato di eseguire e che non
+è installato sul proprio sistema.
+
+%
+Suggerimento Debian n° 41: per ottenere maggiori informazioni su un
+pacchetto Debian, utilizzare «apt-cache show <nomepacchetto>», oppure
+«aptitude show <nomepacchetto>».
+
+%
+Suggerimento Debian n° 42: per ottenere un elenco del contenuto di un
+pacchetto Debian, utilizzare «apt-file list <nomepacchetto>». Questa azione
+è simile a «dpkg -L <nomepacchetto>», con la differenza che con l'uso di
+apt-file il pacchetto non deve necessariamente essere installato o
+scaricato.
+
+%
+Suggerimento Debian n° 43: per disabilitare temporaneamente le proprie
+regole di firewall iptables e impostare la politica predefinita in ACCEPT,
+utilizzare «iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" |
+iptables-restore».
+
+%
+Debian Hint #44: You can follow the Identi.ca account for Debian at
+http://identi.ca/debian More information of Debian at Identica can also be
+found at: http://wiki.debian.org/Teams/Publicity/Identica

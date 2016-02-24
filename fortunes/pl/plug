@@ -1,0 +1,482 @@
+#plug:
+... wyhpr2 [~1@swiatowit.ii.uni.wroc.pl] has joined #plug
+<wyhpr2> potraficie skladac dlugopisy?
+<szur> nie, ale poczytaj sobie o tym w manie
+%
+#plug:
+<badbrain> smarkacz: freebsd tez ma taka dziure ;>
+<smarkacz> badbrain: Tak, /sbin/halt zatrzymuje system, wiem o tym.
+%
+#plug:
+<elluin> klient nie mogł wysyłać poczty bo zmienił providera, więc
+          powiedziałem, żeby podał swój adres IP, to dopisze do relay_from.
+          dostałem taką odpowiedź: Dzięki za pomoc. Mój IP 10.1.2.200
+%
+#plug:
+<dukie_> mam pytanko - jak to jest z licencja GPL dla linuxa - nie bede mial
+          problemow jesli zarobie na jego instalacji ?:)
+<dukie_> bo wlasnie dzwonil znajomy ze ma z tego powodu sprawe w sadzie
+%
+#plug:
+<Stu_Dent> jak przegrac cos z jednego linucha na 2 nei majac samby
+%
+#plug:
+<FoRk> chce w katalogu nadac prawa takie jak nazwa pliku
+%
+<nr201> mowil mnie jeden osobnik ze tu mozna znalezc kobiete
+%
+<r00t3r> koleyjny problemik - moze mi tu ktos pomoc jak zainstalowac
+         mIRKfORCE'a ???
+%
+<sal_> WC ssie
+<galowaty> sal_: masz ssace WC? ;> Tylko raz z takiego korzystalem... tak na
+           codzien to mam zalewajace woda :(
+<sal_> galas: wiesz jaki odlot - siedzisz na kiblu i czujesz jak Cie wsysa :)
+<galowaty> sal_: ale serio mowie, moze i mnie by nie wsysnelo, ale
+           korzystalem z toalety ktora zamiast zalewac woda to robila prozniowy
+	   odsys fekaliow :)
+<sal_> no u nas sa takie stojace :)
+<sal_> znaczy no pisuary - bo to sie tak chyba fachowo nazywa :P
+<galowaty> hmm... ale te to raczej do sikania, a tamte kupke odsysaly :)
+<sal_> wow
+<sal_> to gdzie Ty takie znalazles ?
+<galowaty> sal_: w schronisku narciarskim w Les des Aples, za 10 frf, ale
+           mowie Ci warto bylo, a do tego glosna muzyka, zeby zagluszac
+	   organiczne audio, no najlepsza toaleta z jakiej korzystalem :)
+%
+<celtique> mam pytanie. dlaczego IP lokalne 192.168.1.1 i subnetmask
+           255.255.0.0 bierze domyslny gateway 192.168.255.254 ??
+%
+<elluin> Mon May 22 22:24:47 2000: [725] auth: access-request from
+         195.117.64.3/1026.48 d
+<elluin> enied for unknown user "PISZ JUZ SKARBIER???" at 52303106
+%
+<ml0dy> eeeee..jak sie w Wordzie robi aby poczatkowe slowo nie zmienial mi
+        automatycznie na Duza pierwsza litere? heheh..wiem nie ta grupa
+%
+<Tygrys> :P
+<vinia> wlasnie... tygjys.... ty to od razu musisz sie pchac z jezorem? ;)
+%
+<jsm> ja też chcę do domku
+<s0> jsm nie placz. przytul sie do sal'a albo lcamtufa
+<s0> od razu ci bedzie lepiej.
+%
+<galowaty> Tygrys: a jaka melodyjka Twoja nokia teraz straszy? :) Dalej The
+           A-Team?
+%
+<smarkacz> - Proszę Pana, poczta mi nie działa! Pisze, że jest konflikt
+           adresów IP! Proszę mi pomóc!
+<smarkacz> - Proszę zmienić adres IP na inny.
+<smarkacz> - Ale koleżanka obok ma taki sam i jej działa!
+%
+đ tomee/#plug rotfluje, walac glowa w biurko i drapiac mape zasiegu Plus gsm
+<s0> tomee: i jak ? to drapenie ? podnieca ?
+<tomee> s0: to nie to co gdybys ty to robil ;]]]
+<s0> znaczy ze lepiej by bylo jakbym ja drapal mape zasiegu plusa ?
+<s0> mnie to nie podnieca.
+%
+đ pawcio/#plug dostał kategorie "A" i idzie do wojska za dwa tygodnie
+<pawcio> miło było was poznać...
+<galowaty> pawcio: gratulacje! ;>
+%
+<cabko> jak zainstalowac linuxa, bo nie chce mi sie zaden program
+        instalacyjany pod windows 98 odpalic ?
+%
+<Kooba>  on ma siostre.
+<Kooba> :>
+<Tygrys> Kooba: nie przeszkadzała nam zbytnio. :P
+%
+[ctcp(#plug)] PRóK
+-mateo_(^mateo@kolos.math.uni.lodz.pl)- You are not registered.
+%
+<Zwierz> A po burzy przychodzi dzień...
+<Zwierz> A po nocy przychodzi dzień...
+<s0> a jak burza jest w srodku nocy ?
+<s0> i sie skonczy ?
+<s0> to nagle dzien sie zaczyna ?
+%
+<Tygrys> SIGPRUK received, filling up queue.
+%
+<Obeer> albo inaczej: jak z poziomu usera moge odpalic program, ktory
+        krzyczy ze nie ma biblioteki
+<Obeer> (a ja ja mam)
+<japhy> Obeer: tez mam jaja. tylko programowi chyba to nie robi roznicy :p
+<tomeei> co za chamy
+<tomeei> nie znaja nawet sciezki do najblizszej Biblioteki :/
+<japhy> tomeei: u nas do biblioteki to sie idzie ulica, a nie sciezka :p
+%
+<^HaDeS^> nie wiecie moze co jest lepeij zabezpieczone linux czy FreeBSD ?
+%
+<NeurOne> ^HaDeS^: FBSD jest mniej popularny tj mniej znany tj bazpieczny ;/
+<Tygrys> NeurOne: i według ciebie mniej znany == bezpieczniejszy?
+<Tygrys> NeurOne: gratuluję sposobu myślenia.
+<NeurOne> Tygrys: wejdz na kanal freebsd to zobaszysz co mam na mysli
+<Tygrys> A co ma kanał do bezpieczeństwa systemu?
+<NeurOne> Tygrys: nic! ale jak 10000 ludzi grzebie w sourcach linuksa a w
+          freebsd tylko 1000 to dzie wiecej dziur znajda ?
+<Tygrys> NeurOne: aha, i uważasz, że jeśli mniej osób grzebie w źródłach i
+         przez to znajduje mniej dziur, to system jest bezpieczniejszy?
+<NeurOne> Tygrys: moze to troche naciagane ale tak wlasnie mysle. howgh
+%
+<galowaty> gnd0rup: Twoje gadanie o "schudnieciu" w moim towarzystwie, to
+           tak jak ja bym caly czas wymienial przed Twoimi oczami adres
+           www.zmadrzej.eu.org
+%
+<Tygrys> [^Sexik^(-jezus@pe63.gdansk.ppp.tpnet.pl)] czy moglbys mi dac swoj
+         adres email, chcialabym rozeslac ci lancuszek szczescia
+<vip> Tygrys: daj mu ;)
+.----------------------------------------- --  -
+| [ Nickname  ] : vip
+| [ Address   ] : piotr@linux.i-club.pl
+<Tygrys> [msg(^Sexik^)] piotr@linux.i-club.pl
+<Tygrys> Dałem mu.
+%
+<Phoner> ;*    La declaration du mode mineur
+%
+<elluin> polskie tłumacznei rządzą.
+<elluin> Crash Override == Postrach Hakrów.
+<elluin> Podskoczysz elicie, zakończysz życie.
+%
+<Phoner> tzn, mozna o nim powiedziec 'trzy akordy, darcie mordy'.
+<Phoner> ja pierdziele, ze ktos cos takiego tworzy'.
+<Jarek_> mi sie akurat ta kapela podoba...
+%
+<Tygrys> Bo, jak mówię, luzik to jakiś chory żart przy tribe.
+<Tygrys> Lepiej się zajmij polonizacją tribe'a.
+<bash`> tak, bo ma super muzyka na wejscie, zielone kolorki mattrixowe i
+        durna muzyczke w backgruoundzie
+<bash`> widze nie masz smaku.
+<Tygrys> hehe.
+<bash`> ani nie pojmujesz ideii irca
+<bash`> ty bys toczyl wojny najchetniej.
+<bash`> pamietaj, ze irc jest do gadania.
+
+([->] bash` is bash`!tux@dione.ids.pl.)
+%
+<FiXXXeR>  1,0 mozecie mi powiedziec co zrobic zeby po wpisaniu /wi zmienic
+          maila deffaultowego?
+%
+[->] Topic (#Plug): changed by Phoner: <pattern> wlasciwie juz to kilka razy
+                    robilismy!   (pattern = anias)
+%
+<FredMbogo> kolesie maja zakrecone reguly typu co 5 srode poza parzystymi
+            dniami miesiaca o ile rok nie jest co piata rocznica bitwy pod
+            monte cassino
+%
+<Phoner> sal.mo.nella :>
+<sal_> phoner: spr* :P
+<Phoner> sal_: co sie zloscisz? anias cie ugryzla? :>
+%
+<Tygrys> as water spins in circles twice
+<Tygrys> spiders, snakes and little mice
+<Tygrys> get twisted 'round and tumble down
+<Tygrys> when nature calls we all shall drrrrrrrown
+<taoo> Tygrys: co to..?
+<Tygrys> taoo: Ewa Bem.
+%
+<Phoner> wizz: ty slyszales juz to? :
+<Phoner> Playing MPEG stream from Lzy_-_Zabij_Sie.mp3 ...
+<jx> co to ?
+<Phoner> to polski primus.
+<Phoner> GryzoN: trudno powiedziec, ale cos jak primus + closterkeller.
+%
+<NeurOne_> uzywa ktos z was napstera dla linux ?
+<Tygrys> a co to jest linux?
+<galowaty> Tygrys: takie francuskie mydlo.
+<galowaty> a napster to chyba taki chwytak toaletowy.
+%
+<elluin> [jagodka`(adidas@pb66.poznan.sdi.tpnet.pl)] kurde nigdy jeszcze
+         nierozmawialam z opem
+%
+<maggie_> w secur crt zrobilam fuull screen i nie umiem zmniejszyc, i salik
+          teznie ;_9 jak mam to zrobic :_?
+%
+<cliph> bo w windowsie sie czesciej reset naciska niz spacje ;P
+%
+[->] SignOff Tomek111: #plug (Luzik v3.0. mIRCuj na Luzie.)
+%
+<Phoner> `część ze 120 serwerów windows 2000 bedzie pelnic funkcje active
+         directory [...]'
+%
+<Scorp_> czesc, jak w pine zmienic news server... bo nie czaje.... :(
+%
+<s0> niedlugo /mode #plug +I *!*@*.pl zmieni sie na /mode #plug +I *!*@*.
+     portalik.pl
+%
+<ascent> ma ktos szpilki co by na mnie pasowaly?
+%
+<magia> facececi :_( do lozka tylko sie nadajecie do niczego wiecej ;_(
+<elluin> magia: do łóżka? e, no co Ty :)
+<magia> elluin, no masz racje Ty sie do lozka nie nadajesz :)
+%
+<cabko> czy jest tu ktos z poznanskiej policji ?     (ooo, spacja zaczela
+        dzialac)
+%
+<Mechanik_> czesc wszystkim
+<Mechanik_> w jakim jezyki sie tu mowi ?
+%
+<Mechanik_> w jaki sposob spakowac plik test.tar programem gzip ?
+<Mechanik_> bo mi za chiny nie chce dzialac
+%
+<sol> elluin, schodzisz na pieski kotku :-))))
+%
+<sol> elluinek, dokladnie muszelko :******
+%
+<sal_> wow
+<sal_> super jest britney spears :)
+<sal_> oops i did it again
+<sol> sal, tej zdiry napewno w komorze nosil nie bedziesz
+<sal_> super dzwoni :)
+%
+<elluin> sola: ja kobiety nawet w bikini nie widziałem ;)
+%
+đ Kooba/#plug ma nowa baterie do banana
+%
+<AairR> Ma ktos jakies zdjecie wscieklego psa ?
+%
+[->] Topic (#plug): * anias/#plug nie jest czlonkiem i tyl!
+%
+<sector__> czesc bracia pingwiny ;o)
+%
+<kubah> przepraszam, czy ktos z Was ma smurfa ... pod windows ;\
+%
+đ clamkas/#plug ma na biurku slicznego mcdonalsowego swistaka!
+<clamkas> z lampka:)
+%
+<anias> ja nie jestem operator!!!!!! o!!!!
+<Tygrys_> jesteś jesteś.
+<anias> nie jestes
+<Tygrys_> ale sobie daruję i nie powiem czego.
+<Tygrys_> :P
+<juice> heheheh
+<juice> bosz
+<SoBoL^> anias a skund mam wiedziec kim jestes moofilas cos o operatorach
+<Tygrys_> no ja nie jestem.
+<anias> paskudny
+<SoBoL^> anias zlotko wiec kim jestes?
+<sal_> klamka to gorzej niz operator :)
+<jsm> hehe
+<sal_> klamka jest portalowiec :)))
+<anias> kim jestem?!
+<jsm> klamka to administrator powierzchni płaskich
+<jsm> znaczy sprzątaczka :)
+%
+<szur> claudia sniffer ;>
+%
+<Tygrys> Ciach0: przestań nudzić i weź się za czytanie manów.
+<szur> Ciach0:nie strasz tylko won do mana
+<Ciach0> przelecialem mana
+<Ciach0> i leci format..
+<Phoner> hm.
+<Phoner> ja to wole przeleciec womanke niz mana.
+%
+<Phoner> <TomekN> cx?
+<Phoner> <TomekN> to niby ta domena, ktora ma zastpic com
+%
+<ramparta> hmm no dobrze to zabieram sie za testowanie wszystkich jakie spotkam
+%
+<`SOBOL_> czesc
+<`SOBOL_> mam pytanie,
+<`SOBOL_> ktos wie jak zrobic zeby dzialalo ftp ?
+%
+<pimposhe> poprosze dwa zlote stolczyki
+%
+đ elluin/#plug słyszy szelest fortunek ;)
+%
+<Kooba> Gosc w dom
+<Kooba> Zona w ciazy
+%
+<korie> anias zepsula iksy ;-)
+<korie> ma bialy screen i ciemny czarny pasek w 1/3 ekranu.
+%
+[->] Topic (#plug): changed by Phoner: dobre bo polskie: Playing MPEG stream
+from Vinia_-_Ksiezyc.mp3
+%
+<Sapek> jakby do pomiaru temperatury wziac diode krzemowa
+<hitower> chyba lepsza by byla germanowa
+<hitower> ale najlepiej termistor
+<Sapek> ale na diodach tez sie sliczne termometry robi
+<hitower> sa gotowe rozwiazania
+<hitower> tylko wziac i zlutowac
+<Sapek> wiem
+<Sapek> ale w domu mam te numery praktycznego elektronika
+<Sapek> a nie we wrocku
+<Sapek> a w domu bede dopiero za dwa tygodnie
+<hitower> no coz
+<hitower> to podlacz edytke do przelacznika i niech trzyma jedna reke w
+          akwarium :)
+%
+<BaUeRek> pomozecie ??
+<Phoner> nie?
+<BaUeRek> why ??
+<Tygrys> bo tak?
+<BaUeRek> to CHCWD
+<BaUeRek> dresy
+%
+<elluin> blah, włosy mi do oczu włażą.
+<elluin> ale będzie ze mnie zajebisty metal.
+<elluin> jeszcze tylko skórę czarną kupić.
+%
+<bobba> mam pytanie
+<bobba> co oznacza blad Clock screw detect
+%
+<Tygrys> Jesteś w: portal.pl > aktualności > z kraju
+<Tygrys> 91 - Object variable or
+<Tygrys>               With block variable not set
+<Tygrys> -2147418113 - Catastrophic failure
+<korie> Tygrys: cicho.
+<korie> czasami sie to wykrzacza.
+%
+<hitower> Gdy życie ci zbrzydło i stało się piekłem,
+<hitower> wsadź głowę do kibla, pierdolnij się deklem !
+%
+<tomei> hm... czy da sie zatrzymac dysk z palca?
+<s0> zalezy ile ma obrotow.
+<s0> i jak wytrzymaly palec masz.
+%
+<tomei> wymiekam
+<vinia> tomei: to sobie kup blend a med... utwardza jajka to i ciebie ;)
+%
+<Tygrys> vinia, ćpasz?
+<vinia> tygjys: no co ty... wystarczy ze powacham skarpety vinila
+<vinia> szczegolnie teraz... gdy sa takie upaly
+%
+[->] vinia [myszka@kk.kalisz.pl] has joined #plug @ 11:46
+<Kooba> join flood.
+<Tygrys^> zaraz pójdzie śliczny ban ;)
+<vinia> chcecie sie mnie pozbyc chlip chlip
+<Tygrys^> dobry sposób na wykrycie automatów.
+<Tygrys^> w kopalniach - kanarek
+<Tygrys^> w akweduktach - pstrąg
+<Tygrys^> na #plugu - vinia
+%
+<Phoner> `jak sprawic zeby otworzyl sie port 110?'
+<Phoner> post z p.c.m.mta
+<rzensa> Phoner  powedz: hator, hator, hator
+<Phoner> rzensa: sama sie jebnij.
+%
+[Lag 4m 14s]
+<sal_> do CST pewnie nowy gosc przyszedl :)
+<sal_> i mu pokazuja cisco i polpak :)))
+%
+<MadKarrde> argh, ale mnie nadgarstki bolą...
+%
+<rafj> To wogole jest bez sensu, ze ftpd pyta sie o haslo, skoro ktos chce sie
+       zalogowac, to nie znaczy od razu, ze ma jakies zle zamiary.
+%
+<juice`> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+<juice`> POJAWILY MI SIE PASKI
+<juice`> korie probuje zainstalowac windowsa od 20:00
+<juice`> jest 1:10
+<juice`> i mu si enie udalo
+%
+<elluin> tomee: heeh.
+<juice> elluin: Ci ktorzy sie dzisiaj smieja, pozniej beda plakac
+<juice> Ci ktorzy placza teraz, po wiecznosc beda szczesliwi
+<juice> Wojtku, nie daj sie poniesc tej fali nienawisci ktora siedzi w
+        mlodziezy. Posluchaj swojeego serca.
+%
+<cliph> jeden koleś chciał, żebym pisał bez polskich ,,krzaczków''..
+<cliph> więc jedynym słowem bez polskich ,,krzaczków'' jakie przyszło mi na
+        myśl było: ,,spierdalaj''
+%
+<elluin> Pipen: <DIV><FONT SIZE="2" FACE="Tahoma, Verdana, Arial, Helvetica,
+         sans-serif" COLOR="#000000">To</FONT>&nbsp;<FONT SIZE="2"
+         FACE="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+         COLOR="#000000">nie</FONT>&nbsp;<FONT SIZE="2" FACE="Tahoma, Verdana,
+         Arial, Helvetica, sans-serif" COLOR="#000000">tak</FONT></DIV>
+<elluin> niestety Microsoft BitchX 2000 (TM) nie obsługuje Arkuszy Styli CSS.
+%
+<elboyz> czy to prawda , ze linux przysiesza transfer miedzy hubami ?
+<elboyz> jesli sie podlaczy sieciowkami do 1 i do drugiego huba ?
+%
+<gumi-> potrzebuje malego help'a
+<galas> gumi-: moze byc 4kb?
+%
+<juice> zgubilem konia :/
+<juice> HA
+<juice> jest
+<juice> zaparkowany.
+<juice> pod lasem
+%
+<kuzi> szukam speca od firewalli
+<vinil> khmm... murarzy ?
+%
+<nerhaf> From: kret <kret.w@poczta.fm>
+<nerhaf> To: MAILER-DAEMON@afrodyta.lo.bochnia.pl
+<nerhaf>  Why in english leangue?
+<nerhaf> You don't now polish.
+%
+<smarkacz> U mnie przeciętny luser żeby odpowiedzieć czy używa Windows95 czy
+           98 musi przebootować maszynę. Może to i lepiej, bo rozwiązuje to
+           większość ich problemów.
+%
+<juice`> czym mozna zastapic znak '@' , jesli wystepuje w loginie? (zeby nie
+         byl traktowany jako rozdzielnik miedzy username a hostem, tylko jako
+         czesc loginu) ?
+<vinil>
+%
+<juice`> pokazalo mi w IE ze musze zaladowac dodatek
+<galas> do interpretacji procenta?
+<juice`> dokladnie.
+<juice`> galas: znalazlem to na plycie i zgadnij co windows mi kaze zrobic ;)
+<juice`> zeby moc interpretowac % poprawnie
+<galas> juice: hm. reboot? ;)
+<juice`> heh. no.
+<juice`> mam nadzieje ze nie wykryje nowych urzadzen
+<juice`> a wiesz ile to zajmowalo?
+<juice`> 1.7MB
+%
+<Emiles> Wlasnie skompilowalem 2.4.0t11 i na koniec wypisal mi "System is 666
+         kB". Az sie boje rebootowac...
+%
+<cliph>        B    Egrepuj ciało.
+<cliph> polski man do procmaila
+<cliph>        h    Nakarm potok nagłówkiem (domyślne)
+<cliph>        b    Nakarm potok ciałem (domyślne).
+<cliph> o k*, rotfl!
+%
+<Kooba> Dbaj o siebie - praktyczne rady dla kobiet  zyjacych  na wsi", ksiazka
+<Kooba>  wydana w roku 1966. Polecam wszystkim, a na zachete  kilka cytatow:
+<Kooba> "Regularne  oddawanie stolca, czeste oprznianie pecherza tez dodatnio
+<Kooba>  wplywaja na samopoczucie kobiety".
+%
+<Kooba> goscie wyslalil mi spama
+<Kooba> to im wyslalem 2x 2.5 mega
+<Kooba> urandoma
+<Kooba> a gosc mi odpisal !
+<Kooba> Subject: Re: oferta
+<Kooba> Witamy
+<Kooba> Dziekujemy.
+<Kooba> Co zawiera Pana zalacznik ?
+<Kooba> Prosimy o odpowiedz
+%
+<Rad> anias to czik ?
+%
+<Tygrys> MiSoboL: vinia przed chwilą śpiewała, nagrałem
+<MiSoboL> aa poslij mi na sobol@sobol.org
+<Tygrys> zrobię portal.
+<Tygrys> ;]
+<vinia> portal to ci z tylka zrobie jak to prawda
+<MiSoboL> portal :>>>>>>>>>>>>>>
+<MiSoboL> najlepszy portal w takim razie ma soczek
+<MiSoboL> sam testowalem
+%
+<ata> mam czarne wlosy ale dalej nie wiem co to ten cholerny czik
+%
+[->] niebieski [monter@garfield.rudykot.pl] has joined #plug @ 20:20
+<Tygrys> niebieski: wymyśl coś
+<niebieski> Tygrys: ja prosty czlowiek. przyjechalimy ino gesi sprzedac
+%
+@kodz> shog: a ip-over-sygnaly_dymne by Cie satysfakcjonowalo? moge
+       zrobic projekt i zajac sie wdrozeniem. wysle handlowcow z atmu na rozmowy.
+%
+19:39 < kloczek> to na jaki kanał wynieśli sie Ci co rozmawiaja o linuxie ?
+19:39 <@tomee> kloczek: wymarli.
+19:39 < asc> kloczek: Ci lame na #linux.pl :>
+19:40 < asc> kloczek: zreszta o czym tu rozmawiac?
+19:41 -!- kloczek [kloczek@test2.zie.pg.gda.pl] has left #plug [#linux.pl]
+19:41 <@tomee> przeciec jak kloczek wejdzie na #linux.pl
+19:41 <@tomee> to oni mu zaczna skladac ofiary z dziewic.
+19:41 <@tomee> a potem ustawiac sie do zdjecia.
+%

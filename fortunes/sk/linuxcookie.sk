@@ -1,0 +1,412 @@
+Linux stroj! pretože 486 je hrozná vec na odpad!(Vo jjs@wintermute.ucr.edu~~pobj, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vôbec nič by mala byť uzavretá z týchto čísel, okrem toho, žežiadny záver možno vyvodiť z nich. "(Joseph L. Brothers, Linux / PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+V skutočnosti, písanie náhodné reťazce vo Finder robí ekvivalentfilename dokončenie.(Diskusia v comp.os.linux.misc na intuitívnosť príkazov: fileDokončenie verzus Mac Finder).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Po zhliadnutí môjho novo dôchodku ocka stráviť dva týždne učenia, ako vytvoriť novýZložka, bolo zrejmé, že "intuitívne" väčšinou znamená "to, čo spisovateľ alebohovorca intuitívne likes ".(Bruce Ediger, bediger@teal.csn.org v comp.os.linux.misc na násobokintuitívnosť z rozhrania Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Všetky jazykové návrhári sú arogantní. Padne na území ..."(Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+A 1.1.81 je oficiálne bezchybnější (tm), takže ak sa zobrazí nejaké bug-správyna tom, viete, že sú len zlé lži. "(Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... A sporo odeté ženy, samozrejme. Koho zaujíma, či je to pod nulouvonku "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"A nabudúce si uvedomíte si sťažujú, že beží LUCID Emacs19,05 cez NFS zo vzdialeného počítača Linux v Paraguaji sa nezdádostať farby pozadia vpravo, budete vedieť, kto poďakovať. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Akékoľvek vrátnici tam vonku by mali cítiť šťastnejší s vedomím, že december je lodná doprava>: Ja a AlphaPC, že mám v úmysle, aby sa pokúsili dostať Linux beží na: táto vôľa>: Určite pomôže odplaviť niektoré z najviac flagrantní neprenosné veci.>: Alpha je oveľa odlišný od i386 ako 68k vec je, tak>: Je pravdepodobné, že si väčšinu vecí opravené.>> Je príspevky, ako je to, že takmer presvedčí nás neveriacich, že existuje> Je naozaj bohom.(A follow-up by alovell@kerberos.demon.co.uk~~pobj, Anthony Lovell, aby Linusovapoznámky o portovanie)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Každý, kto si myslí, že UNIX je intuitívne by nemal byť nútený písať 5000 riadkovkódu pomocou nič, ale vi alebo emacs. AAAAACK!(Diskusia v comp.os.linux.misc na intuitívnosť príkazov, a to najmäEmacs).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sú [užívateľov Linuxu] lumíci kolektívne skočí z útesuspoľahlivý, dobre technicky komerčný softvér? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ako obvykle, pretože sa jedná o verziu 1.3.x, ani som zostavil totokernel doteraz. Takže ak to funguje, mali by ste byť dvojnásobne dojem.(Linus Torvalds, oznámil jadro 1.3.3 na konferencii linux-kernel).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vyhnúť sa pekla. použitie Linux(Neznáme zdroj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Byť varovaní, že typizácia \ fBkillall \ FINA \ fP nemusí mať požadovanúVplyv na systémoch non-Linux, najmä keď vykonáva privilegovaný užívateľ.(Z killall manuálové stránky)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Okrem toho si myslím, že [Slackware] znie lepšie ako" Microsoft, "však?"(Patrick Volkerdinga)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ale čo môžete urobiť s ním? - Všadeprítomný krik z Linux užívateľov partnera.(Vložil Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Preboha, začínam si myslieť, Linux * je * skutočne najlepšia vec, pretožeplátky chleba. "(Vance Petreje, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. Jadro sa snažil získať prístup k nejakej zlé stránky. budeme musieť * Ukončiť veci s extrémnou predsudky.* /die_if_kernel ( "Jejda", Regs, error_code);(Z Linuxu / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Hlboká Hack Mode - to tajomné a desivé stavVedomie, kde Mortal Používatelia bojí vkročiť. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra ma pravdepodobne nenávidí(Linus Torvalds, v kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, Malý nepríjemné boot vírus, ktorý spôsobuje náhodné spontánny systém.     zrúti, zvyčajne len pred uložením masívne projekt. ľahko vyliečený     UNIX. Pozri tiež MS-DOS, IBM-DOS, DR-DOS.(Od Davida Vicker je .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Všimnite si, že 120 s je definovaný v protokole ako maximum * Možné RTT. Myslím, že budeme musieť použiť niečo iné ako TCP * Hovoriť s University of Mars. * PAWS nám umožňuje dlhšie časové limity a veľkými oknami, takže akonáhle realizovaný * Ftp na Mars bude fungovať dobre. * /(Od /usr/src/linux/net/inet/tcp.c, ktorý sa týka RTT [Časový limit opakovaného prenosu])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ešte viac ohromujúci bolo poznanie, že Boh má prístup k Internetu. AjJestlipak Má plnú výmeny diskusných príspevkov? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Už ste niekedy počuli o .cshrc?To je mesto v Bosne. Doprava?(Diskusia v comp.os.linux.misc na intuitívnosť príkazov).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Závažná chyba: nájdené [MS-Windows] Systém -> oddielov Disk pre Linux ...(Vo cbbrown@io.org~~pobj, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ako môžem písať "for i in * .dvi do xdvi som to urobil" v GUI?(Diskusia v comp.os.linux.misc na intuitívnosť rozhrania).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ako to mám vedieť, či to funguje? To je to, čo beta testerov sú. Ja lenkódované to. "(Pripísaná k Linus Torvalds, niekde v vyslanie)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- --- == (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ _ // / \ _, _ / / _ / \ _ \ / ______ \ \ \Hrdý člen TeamLinux \ _________ \ /(Vo Chaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aj vyvinúť pre Linux pre bývanie, som použil k rozvoju pre DOS.Prechod z DOS na Linux je ako obchodovanie vetroň pre F117.(Vo entropy@world.std.com~~pobj, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ja som to 'spôsobiť Linux mi dáva woody. Negeneruje príjmy.(Dave -ddt-> `Taylor, oznámil DOOM pre Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Neváhajte ma kontaktovať (plamene asi moja angličtina a ničomu z tohoVodič bude presmerovaný na / dev / null, ach nie, je to plné ...).(Michael Beck, popisujúci zvuku PC-reproduktor zariadenia)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Neviem prečo, ale prvé C programy majú tendenciu vyzerať oveľa horšie akoPrvé programy v akomkoľvek inom jazyku (snáď s výnimkou Fortran, ale potomMám podozrenie, že všetky Fortran programy vyzerať `prvenstvo ')"(Úradom OLAF Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Raz som bol svedkom rozvláčny, mesiac trvajúci flame war nad používanímMyši vs. trackball ... Bolo to veľmi hlúpe. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Stále trvám upozorňuje, že navrhovanie monolitické jadro v roku 1991 jezásadná chyba. Buď rád, že nie ste môj študent. Tie by sa dostaťvysoký stupeň pre takéto konštrukcie :-)(Andrew Tanenbaum do Linusa Torvaldsa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ja by som radšej trávia 10 hodín čítaním zdrojového kódu niekoho iného než10 minút počúvania Musaka čakania na technickú podporu, ktorá nie je. "(Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ja by som prechádzať viac ako jeden aker" Visual tento ++ "a" Integrovaný rozvojTo sa dostať do gcc, Emacs a gdb. Ďakujem."(Vance Petreje, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Som idiot .. Aspoň jedno [bug] trvalo asi päť minút nájsť .."(Linus Torvalds v reakcii na správu o chybe.)> Som idiot .. Aspoň [bug] trvalo asi päť minút, aby si ..Znepokojujúce ...(Gonzalo Tornaria v reakcii na Linus Torvalds v mailingu o chybu jadra).> Som idiot .. Aspoň [bug] trvalo asi päť minút, aby si ..Musíme nájsť nejaké nové požiadavky popisovať zvyšok z nás obyčajných smrteľníkovpotom.(Craig Schlenter v reakcii na Linus Torvalds v mailingu o chybu jadra).> Som idiot .. Aspoň [bug] trvalo asi päť minút, aby si ..Iste, Linus hovorí o druh idiotství, že iní sa usilujú o :-).(Bruce Perens v reakcii na Linus Torvalds v mailingu o chybu jadra).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Som bežať DOOM viac v posledných niekoľkých dňoch, ako mám posledný pármesiaca. Ja jednoducho milujem ladenie ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., znepokojený rastúcou popularitou voľného 32-bitOperačný systém pre systémy Intel, Linux, použila celú radu špičkovýchprogramátori z podzemného sveta vývoj vírusu. Bill Gates uviedol,včera: "World Domination, rýchlo - je to buď my, alebo Linus". pán Torvaldsbol k dispozícii pre komentár ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), v comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Neprepadajte panike \ n!");exit (42);    }(Arnold Robbins v LJ februára '95, popisujúci RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ #, Ak sú definované (__ alpha__) && definovaný (CONFIG_PCI)+ / *+ * Zmysel života, vesmíru a všetko. plus+ * Toto robí roku vyjdú dobre.+ * /+ Rok - = 42;+ # Endif(Z náplasti 1.3.2: (kernel / time.c), ktorú predložil Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ak budúca navigačný systém [interaktívnych sieťových služieb naNII] vyzerá ako niečo od Microsoftu, to nikdy nebude fungovať. "(Predseda Walt Disney Television & Telecommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ak chcete cestovať po celom svete a byť pozvaný hovoriť na veľaz rôznych miest, len napísať operačný systém Unix. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[V" Doktor "MODE], strávil som dobrých desať minút, hovorí Emacs, čo somo tom premýšľal. (Odpoveď bola: "Možno by ste mohol skúsiť byť menejzneužívajúce. ")"(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vo väčšine krajín predávajú nebezpečné veci, ako drogy je trestné.Potom howcome ľudia môžu predávať softvér spoločnosti Microsoft a nepotrestaný?(Vo hasku@rost.abo.fi~~pobj, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel inžinierstva Zdá sa, že prepočul marketingovú stratégiu spoločnosti Intel. frázybol "Rozdeľ a panuj" nie "Rozdeľ a kohút up"(Vo iialan@www.linux.org.uk~~pobj, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Je to Bohom. Nie, nie Richard Stallman, alebo Linus Torvalds, ale Boh."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, máš ma na kolenách!(Od David Black, dblack@pilot.njin.net~~pobj, s ospravedlnením a DerekDomino, a Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux je zastaraná(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux predstavuje skutočnú výzvu pre tých, ktorí s chuťou pre neskoro v nocihacking (a / alebo rozhovory s Bohom). "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Development Venimus, Vidimus, Dolavimus.(Vo mah@ka4ybr.com~~pobj, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linuxu] schopnosť hovoriť prostredníctvom akéhokoľvek média okrem dymové signály."(Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: pretože PC je obrovská škoda premárniť(Ksh@cis.ufl.edu dať to na tričká v '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Pretože PC je obrovská škoda premárniť.(Vo komarimf@craft.camp.clarkson.edu~~pobj, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: voľba GNU generácie(Ksh@cis.ufl.edu dať to na tričká v '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: operačný systém s potuchy ...Príkazový riadok Užívateľské prostredie ".(Pozorované u vyslanie do comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 v ohni(Jeden z viac obfuskovaný hláseniach jadra)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft nie je odpoveď.Microsoft je otázka.NIE (alebo Linux) je odpoveď.(Prevzaté z .podpis od niekoho z Veľkej Británie, zdroj neznáme)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mounten 'wird für drei Dinge benutzt:" Aufsitzen "auf Pferde," einklinken "von Festplatten v Dateisysteme, und, mníška, "besteigen" beim Sex.(Christa Keil v nemeckom vyslanie: "Montáž je používaný pre tri veci:lezenie na koni, spájajúci v jednotke pevného disku v dátových systémov, a, no,montážna pri sexe ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS nedostal tak zlé, ako to je jeden deň - to trvalo viac ako desať rokovstarostlivého vývoja. "(By dmeggins@aix1.uottawa.ca~~pobj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nikdy nerobte mistaeks."(Anonymous, v hromadnej diskusie o správy z jadra chyby.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nie ja, chlapík. Čítal som stránku Bash man každý deň ako svedok Jehovov čítaBiblia. Žiadne čakanie, muž strana Bash je Biblia. Prepáčte mi...(Viac na neprehľadných aliasov, prevzaté z comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Všimnite si, že či môžem dostať vás na \" su a hovoria, \ "niečo len tým, že žiada,Máte veľmi vážny bezpečnostný problém v systéme a mali by stepozrieť sa do neho. "(Od Paul Vixia, Vixia-cron 3.0.1 Poznámky k inštalácii)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Teraz viem, že tam niekto bude tvrdiť: "Nuž, UNIX je intuitívne,pretože stačí len naučiť 5000 príkazy a všetko ostatné nasledujez toho! Har har har! "(Andy Bates v comp.os.linux.misc na "intuitívne rozhranie", miernebrániť Mac).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Teraz, to sme mali niečo také:  Získa -a pre výnos pre všetku dopravu  Získa -t u výnosu do nákladných áut  Získa -f o výnose do ľudí, ktorí idú (výťažok noha)  Získa -d T * pre výnos v dňoch začínajúce na T... By ste mať veľa mŕtvych ľudí na križovatkách a dopravné zápchy budeteNeverili by ste ...(Diskusia v comp.os.linux.misc na intuitívnosť príkazov).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"V normálnej ascii línie, jediným bezpečným podmienkou pre detekciu je" BREAK "- Všetko ostatné by mu bolo pridelené funkcie pomocou GNU Emacs ".(By Tarlo Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Na internete, nikto nevie, že používate Windows NT"(Vložil Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kedysi tam bol používateľ DOS, ktorý videl Unix, a videl, že to bolodobrý. Po zadaní CP na svojom počítači DOS doma, stiahol GNU jeUNIX nástroje portovaný na DOS a inštalovali. On rm'd, cp'd a mv'dšťastne po mnoho dní, a po zistení Elvis, on vi'd a bol šťastný. podlhý deň v práci (na Unixom) prišiel domov, začali editovať súbor,a nemohol prísť na to, prečo nemohol pozastaviť VI (w / ctrl-Z), aby robiťkompilácie.(Vo ewt@tipper.oit.unc.edu~~pobj (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Okrem skutočnosti, Linux má cool meno, mohol niekto vysvetliť, prečo som>> By mal používať Linux cez BSD?>> Nie. To je všetko. Chladná meno, to je. Pracovali sme veľmi tvrdo na> Vytvorenie názov, ktorý by sa odvolať k väčšine ľudí, a to> Rozhodne vyplatilo: tisíce ľudí používa Linux, len aby mohli> Hovoriť "OS / 2? Pche. Mám Linux. To je v pohode name". 386BSD urobil> Chybou uvedenie veľa čísel a podivných skratiek do> Meno, a je plašiť mnoho ľudí len preto, že to znie príliš> Technické.(Linus Torvalds "follow-up na otázku Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Osobne si myslím, že moja voľba v mostest-superlatív-počítačových vojen musíje séria HP-48 kalkulačiek. Budú bežať takmer čokoľvek. A v prípade, ženemôže, zatiaľ čo budem stačí zapojiť Linux krabice do sériového portu a naložiťHP-48 emulátor VT-100.(Vo jdege@winternet.com~~pobj, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tam sa v a.b.p.erotica žiadne závity, takže nie je zisk s použitímzávitové čítačky správ.(Neznáme zdroj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Riešenie problémov pod Linuxom nikdy nebola cirkus, že je v rámciAIX. "(Pete Ehlke v comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+quit Ak je skončiť vyhlásenie prečítal, BC procesor       je ukončená, bez ohľadu na to, kde sa prestať štátno       ment je nájdený. Napríklad, "if (0 == 1) quit"       spôsobí bc ukončiť.(Pri pohľade manuálové pre "Bc." Všimnite si, "ak" logiku vlastnosti príkazu sa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+S operačným systémom Windows na Pentium je ako mať zbrusu nový Porsche, ale ibamôcť riadiť dozadu so zatiahnutou ručnou brzdou.(Neznáme zdroj)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transit diskom mundi"(Z príručky správcu systému, Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Povzdych. Rád si myslím, že je to len ľudia, Linux, ktorí chcú byť naďalej len "predného okraja" tak zle chodí hneď nad priepasťou.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Program chat je vo verejnej doméne. To nie je GNU Public License. akLáme potom dostanete, aby oba kusy.(Informácie o autorských právach pre konverzačným programu)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> V deň, keď si ľudia myslia, linux by viac prospelo niekým iným (FSF> Bytie prírodnou alternatívou), budem "abdikovať". Nemyslím si, že> To je niečo, čo ľudia majú robiť starosti práve teraz - ja ho nevidím> Deje v blízkej budúcnosti. Baví ma robiť linux, aj keď to robí> Znamenať nejakú prácu, a ja som nedostal žiadne sťažnosti (niektoré takmer nesmelý> Pripomenutie o záplatou som zabudol alebo ignorovať, ale nič> Negatívne doteraz).>> Neužívajte vyššie uvedené znamená, že budem prestať deň niekto sťažuje:> Som hrošiu kožu (lasu, kto číta tento cez rameno komentoval> Že "tučný-šiel bližšie k pravde") natoľko, aby prijali niektoré zneužívaniu.> Keby som nebol, tak by som prestal vyvíjať linux mi deň ast zosmiešňovaný> Na c.o.minix. Čo mám na mysli je len, že kým Linux bol moje dieťa, takže> Ďaleko, nechcem stáť v ceste, ak ľudia chcú, aby sa niečo> Rozmyslel (*).>> Linus>> (*) Hele, možno by som mohol požiadať o Saint-kapucňa od pápeža. má> Niekto vedieť, čo jeho e-mail adresa je? Som tak krásne to robí zvracať.(Prevzaté z odpovede Linusova s ​​niekým obavy o budúcnosť Linuxe)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Krásna vec na tom je Windows - to nie je len dôjsť k zlyhaniu, zobrazídialógové okno a umožňuje stlačiť prvú 'OK'.(Arno Schaefer je .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Jediným "intuitívne" rozhranie je bradavka. Za to, že to všetko naučil.(Bruce Ediger, bediger@teal.csn.org v comp.os.linux.misc na X. rozhraní.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Existujú dva typy vývojárov Linux - tí, ktorí môžu čaro, atých, ktorí nemôžu. Tam je konštantná bitka medzi týmito dvoma.(Z jednej z-1.1.54 po aktualizácii jadra vložených príspevkov na c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Táto správa sa vám prináša Linux, voľný unix.Windows bez X je ako milovanie bez partnera.Sex, Drugs & Linux Pravidláwin-nt od ľudí, ktorí vynašli EDLINEjablká znamenalo ťažkosti, pretože edenLinux, ako sa zbaviť boot vírusy(Vo mwikholm@at8.abo.fi~~pobj, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS a Windows NT (tiež známy ako Hodný, zlý aškaredý). "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Veľmi málo javy môžu vytiahnuť niekoho z režimu hlbokého Hack, s dvomapoznamenal výnimky: úderu blesku, alebo horšie, vaše počítače * *bol zasiahnutý bleskom. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Máva preč oblak dymu, keď sa pozriem hore, a som zaslepený žiarivo bielylight. Je to Boh. Nie, nie Richard Stallman, alebo Linus Torvalds, ale Boh. vprosperujúcej hlasom hovorí: "To je známka používať Linux, UNIX ZADARMO.PRO 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Všetci vieme, že Linux je veľkou prednosťou je ... to robí nekonečnej slučky na 5 sekúnd."(Linus Torvalds o nadradenosti Linux na AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sme Microsoft. Budete asimilovaný. Odpor je márny.(Pripísaný k B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sme Pentium Borg. Divízia je márne. Tie budú aproximovať.(Viedeň v niečí .podpis)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Použili sme Linux denne UP našu produktivitu - takže UP váš!(Prevzaté z Pat Paulsen Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dôjdeme k pochovať DOS, nie ho chváliť.(Pavel Vojta, vojta@math.berkeley.edu, parafrázovať citát zo Shakespeara)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Používame Linux pre všetky naše mission-critical aplikácie. Mať zdrojový kódZnamená to, že nie sme rukojemníkmi oddelenia podpory nikomu.(Russell Nelson, prezident Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Čo ste skončili s, po spustení konceptu operačného systému prostredníctvomTieto mnoho marketingových kávové filtre, je niečo, čo nie je na rozdiel od plain hotvoda. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Čo tento skript robí?    rozbaliť; dotyk; prst; mount; lapať po dychu; áno; umount; spánokTip pre odpoveď: nie všetko je počítačovo orientovaný. niekedy siv spacáku, táborenie.(Prispel Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Keď sa povie" som napísal program, ktorý havaroval Windows ", ľudia jednoducho zízaťvy nechápavo a povedať: "Hej, mám tie so systémom, * zdarma *". "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Whip mi to. Porazil ma. Urob mi udržať AIX."(Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kto je General Failure a prečo je to čítanie môjho pevného disku?"Microsoft Spel chekar plť plachta, worgs rošt !!(Vo leitner@inf.fu-berlin.de~~pobj, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kto chce mať na pamäti, že escape-x-alt-control-ľavý shift-b vás stavia dosuper-edit-debug-kompiláciu režimu?(Diskusia v comp.os.linux.misc na intuitívnosť príkazov, a to najmäEmacs).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Prečo používať Windows, pretože tam sú dvere?(Vo fachat@galileo.rhein-neckar.de~~pobj, Andre Fache)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Svetová nadvláda. Fast"(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you mohol stráviť celý deň * * prispôsobenie hlavičky. Uver mi. jahovorí z vlastnej skúsenosti. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Môžete tiež preskočiť Xmas oslavu úplne, a namiesto tohosedí v prednej časti vášho počítača so systémom Linux hrať sall-new-and-vylepšená verzia linux kernel. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vašou úlohou je byť profesor a výskumník: To je sakramentsky dobrú výhovorkupre niektoré mozgové škody Minix.(Linus Torvalds Andrew Tanenbaumem)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Počul som Žid a moslim argumentovať v Damasku kaviarni s menším nadšenímnež emacs vojen. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

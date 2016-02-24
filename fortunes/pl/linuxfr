@@ -1,0 +1,367 @@
+<^patriX^> Czy jest tu ktoś, kto miał problem z pppd w SuSE 6.1?
+<eb> nie, żadnego
+<sam> ja też nie
+<sam> w ogóle
+<^patriX^> a masz przynajmniej SuSE 6.1?
+<eb> nie ani suse ani pppd :)
+%
+<Grim_Lain> Co wybrać? Red Hat czy Caldera?
+<rv> debian
+<nou> debian
+<sebb> grim_lain : debian
+<gally> Grim_lain: debian
+<lou> Grim_lain:  debian
+<sam> Grim_lain : debian
+<Grim_Lain> debian ok ale co to jest :o)
+<sam> aj
+<sam> no tak
+<sam> Grim: Mandrake
+			--- #linuxfr
+%
+<fsck> #MODE FLOOD ON !
+<fsck> #MODE FLOOD ON !
+-:- SignOff: fsck (Excess Flood)
+			--- #linuxfr
+%
+<duck> Myślę, że odpowiedź znajdziesz w Podręczniku(tm)
+<mo3> Nie mam Podręcznika(tm)
+<duck> To masz Problem(tm) :-)
+			--- #unix
+%
+<folop> mam plik 60 MB w /proc to normalne ?
+<mooby> nie, w ogóle
+<mooby> wykasuj
+			--- #linuxfr
+%
+<Dulle> mam tutaj interesujacego starego maila (1996) :
+<Dulle> Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<Dulle> kurcze, próbuje jeszcze raz...
+<Dulle>  Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<Sam> no tak
+<Dulle> kurna...
+<Dulle> _Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<eboulot> robi wrażenie
+<Sam> może to jest ten output
+<Dulle> _Your "cron" job /USR/LOCAL/SBIN/SAUVE345
+<Dulle> produced the following output:
+<Dulle> sh: /usr/local/sbin/sauve345: not found
+<eboulot> też robi wrażenie :p
+				--- #francaise
+%
+<Massi007> plop ile masz lat?
+<Plop>	plop!
+				--- #linuxfr
+%
+[Massi007] ale ja jestem rootem
+[Massi007] za każdym razem
+ [msg(massi007)] aaaaaaaaaaaaaaaaaaaaaa
+ [msg(massi007)] zadziwiasz mnie, ile głupot jeszcze można zrobić?
+[Massi007] no co, pracuje tylko jako root
+[Massi007] !
+[Massi007] to mój komp, nie?
+[Massi007] :0
+[Massi007] :)
+ [msg(massi007)] jesteś kompletnie porąbany
+ [msg(massi007)] potem przyjdziesz się skarżyć...
+[Massi007] chcesz mi powiedzieć, że za każdym razem logujesz się jako user?
+[Massi007] przecież to twój komputer!
+ [msg(massi007)] NIGDY nie loguję się jako root
+[Massi007] paranoja
+[Massi007] przecież nie jesteście lamerami, żeby się ciągle logować jako user
+[Massi007] trochę powagi panowie
+				--- #linuxfr
+%
+[wisconsin] nie martw się na początku byłem jak ty ale unikaj tego kanału,
+	       tu są profesjonaliści
+
+				--- #linuxfr
+%
+-o- Ucender is now known as |_|
+-o- Sammy is now known as ]-d3a7h-[
+-o- ]-d3a7h-[ [k0loN3L@nimp.via.ecp.fr] has joined #chatlords
+-o- |_| [fred@fred.via.ecp.fr] has joined #chatlords
+<|_|> H| 7h&rE
+<]-d3a7h-[> C°°l ! pl3In d& VV4rL0RD2 I<| !
+-o- mode/#chatlords [+b *!*@*.ecp.fr] by angelo
+>>> You have been kicked off #chatlords by ChatteR (banned)
+
+				---- #chatlords
+%
+<XunK> jaki jest najlepszy klient irc na Linuxa ?
+<Sam> mirc
+<XunK> mirc ? taki sam jak na PC ???
+
+				--- #linuxfr
+%
+-:- chri [chri@tcparis2-8.hol.fr] has joined #linuxfr
+<chri> cze, mam pytanie o Linuxie...
+<dudle> chri : spadaj
+-:- chri [chri@tcparis2-8.hol.fr] has left #linuxfr [chri]
+
+				--- #linuxfr
+%
+<DarkHunt> hej
+<DarkHunt> jaka jest różnica miedzy dns a ip ?
+
+				--- #linuxfr
+%
+-:- marmotte [~marmotte@193.48.121.54] has joined #linuxfr
+<sam> !mirc
+>>> Oeuf [~egg@194.3.228.212] requested VERSION  from #linuxfr
+-:- marmotte was kicked off #linuxfr by Oeuf (MIRC KICK (1))
+-:- marmotte [~marmotte@193.48.121.54] has joined #linuxfr
+-:- bLoRp was kicked off #linuxfr by Oeuf (MIRC KICK (2))
+<DrJosh> mdr
+<marmotte> ok spadam
+-:- marmotte [~marmotte@193.48.121.54] has left #linuxfr [marmotte]
+
+						 - #linuxfr
+%
+<CurIeuX> ghost, jakiego masz prvidera ?
+<ghost-> redhat
+
+						 - #linuxfr
+%
+<dreammer> co to jest UUCP ?
+<dreammer> (używam linuxa od wczoraj)
+<sam> ups
+<sam> zapytaj plopa :)
+<sam> /msg plop ?? uucp
+<dreammer> plop : co to jest uucp .
+<plop> plop!
+
+						 - #linuxfr
+%
+<shiva> ktoś mi może pomoc ?
+<eFeF> shiva: nie
+<fuz> shiva: niet
+<fuz> ff ;)
+<NRV> shiva: nie
+<shiva> dlaczego ?
+<sam> shiva: ponieważ
+-:- shiva [~cambrouze@193.252.210.198] has left #linuxfr [shiva]
+
+						 - #linuxfr
+%
+<Bartman> Ircuję przy pomocy klienta napisanego w Perlu
+<Bartman> Działa świetnie :-)
+-:- Signoff Bartman (dead socket)
+
+						 - #francaise
+%
+<kwa> kron : 2.0.35 -> liczba nieparzysta, więc wersja rozwojowa.
+	coś niecoś się jednak nauczyłem o linuchu od początku tygodnia :)
+
+						 - #linuxfr
+%
+>>> Oeuf [~egg@194.3.228.212] requested VERSION  from #linuxfr
+-:- Coplan was kicked off #linuxfr by Oeuf (MIRC KICK (1))
+-:- Coplan has joined #linuxfr
+<Coplan> jeśli nic nie wiecie o linuxie to nie musicie mnie wykopywać
+żeby unikać odpowiedzi której nie znacie nie ma nic złego w przyznaniu się do
+swojej niekompetencji
+
+						 - #linuxfr
+%
+Ale zamknij się stara ruro! śmierdzisz!
+
+	  - octplaNe na laborce do spinacza w MS Office
+%
+<B-slap> problem z 3com905B pod redhatem 5.1 kernel 2.0.34-0.6
+<B-slap> wysyła pakiety ale nie otrzymuje :(
+<fuz> bslap: dokup drugą i wepnij odwrotnie
+
+						 - #linuxfr
+						 - #francaise
+%
+<sam> rebol wydaje się świetny
+<sam> kurde, nie jest GNU
+<sam> zsh: 2990 segmentation fault  ./rebol
+<sam> ok, rebol jest do d*
+
+						 - #francaise
+%
+<Rx_> ja mam sieć 512kb/s... nananananereuh !
+<sam> rx: hum. wiesz, ile my mamy ?
+   [...]
+<Rx_> ok, juz się nie odzywam
+
+						 - #linuxfr
+%
+<api-1999> jest tu ktoś kogo mógłbym zapytać o linuxa
+<api-1999> i kto by mi zechciał odpowiedzieć?
+<tibob> api-1999 - tak, nazywa się Cox. Alan Cox. Ale niestety teraz go
+                   nie ma
+<api-1999> kurde
+<api-1999> kiedy można go spotkać
+
+						  - #linuxfr
+%
+<X-dae> !whois kashi
+<gally> kashi ... dupeeeeeeeek !
+
+						 - #francaise
+%
+<Peck> tacy początkujący jak ja musza was wkurzać na dłuższą metę, nie?
+
+						 - #linuxfr
+%
+<SaTaNiK> haha miałem dosyć tego burdelu z prawami dostępu zrobiłem
+	chmod 775 * -R w /
+:: [signoff/#linuxfr] SaTaNiK (spadam wszystko przeinstalować ;(()
+
+						 - #linuxfr
+%
+<Meandus> kiedy ten kanał będzie miał mi coś do zaoferowania, powrócę. bye
+
+						 - #linuxfr
+%
+<BadBoys> linux to jeden wielki backdoor !
+<BadBoys> wracam do windows !
+<BadBoys> jest pewniejsze
+
+						 - #linuxfr
+%
+<socrate> o kurde, wy wszyscy jesteście na linuxie...
+<socrate> zmuszają was?
+
+						 - #cnous
+%
+<MINIX> kto wie jak znaleźć pid programu znając jego nazwę, potrzebuje
+        znaleźć pid programu "login na przykład " , i wysłać ten pid
+	na wejście polecenia ip. kil par exemple .. to do skryptu
+> kill -9 `ps auxwww|grep irc|awk '{print $2}'|grep -v grep`
+*** Signoff: MINIX (Dead socket)
+%
+<Czara1960> nie mogę zamontować cdromu z KDE
+
+						 - #linuxfr
+%
+-:- sammy has changed the topic on channel #linuxfr to: <Czara1960>
+    nie mogę zamontować cdromu z KDE
+<sammy> Czara1960: w ten sposób ktoś ci pomoże jak zobaczy topic
+<sammy> widzisz, jak ci pomagam
+<Czara1960> dzięki
+
+						 - #linuxfr
+%
+<crashboy> pomocy próbowałem zainstalować linuxa readhard
+
+						 - #linuxfr
+%
+<sam> hello can I install unix on windows 98 ? /msg me please !
+-:- mode/#unix [-o+b sam *!*sam@*.ecp.fr] by happy
+>>> You have been kicked off #unix by happy (bye)
+-:- [#unix] Banned from channel
+-:- sam [~sam@sam.via.ecp.fr] has joined #unix
+-:- Topic for #unix: <sam> hello can I install unix on windows 98 ? /msg me
+	  please !
+
+						 - #unix
+%
+<DJ_HaCK> czy na linuxie jest odpowiednik telneta?
+
+						 - #linuxfr
+%
+<chlurps> jak się powiększa okno w debianie ?
+
+						 - #linuxfr
+%
+<maggic> jedyny problem z windows to ze czasem klawisze się bloku
+
+						 - #linuxfr
+%
+<ojo> kto wie jak zrestartować apache bez rebootowania?
+
+						 - #linuxfr
+%
+<r1_> jest ty ktoś kto się nazywa [MAILER-DAEMON] i ciągle mnie spamuje!
+	to mnie wkurza!
+
+						 - #linuxfr
+%
+<blupingu> wiecie, ze moi rodzice przeszli na Linuxa?
+<blupingu> wyrzucili win!
+<blupingu> mój ojciec kupił sobie Latex !
+
+						 - #linuxfr
+%
+<Renton> X zawiesza mi komputer
+<Renton> jak pisze X pojawia się czarny ekran z kursorem myszy i nic mogę
+tylko ruszać myszka :(	i trzeba zrestartować kompa
+
+						 - #linuxfr
+%
+>>> eFeF [~efef@195.115.68.62] requested unknown ctcp +++ATH0  from #linuxfr
+<PCFiL-> [eFeF:#linuxfr +++ATH0]
+<PCFiL-> moauahhha :)
+<PCFiL-> bierze mnie za początkującego :)
+
+						 - #linuxfr
+%
+<Fuck_New> mam małe pytanko z C
+<Fuck_New> jak uzyskać ilość wolnej zamieci?
+<TheRaphit> Fuck_New : robisz system("free"); potem wrzucasz system do
+	    programu i gotowe
+<samBoulo> do { i++; } while (malloc(1)); printf("ale szkoda, było %d", i)
+<Fuck_New> oki, thx.
+
+						 - #linuxfr
+%
+<sam> Nemo_: ale nie masz racji, więc się nie upieraj
+<Nemo_> sam : hmm ... informatyk nie mówi w ten sposób...
+<sam> Nemo_: jesteś przykry
+<Nemo_> sam : słuchaj .. cale szczęście, ze nie jesteś adminem .. userzy
+	  by cię szybko wylali
+
+						 - #linuxfr
+%
+<Pingouin> ping
+<Pingouin> pong
+<Pingouin> (*rwa tutaj wszystko trzeba se samemu zrobić)
+
+						 - #linuxfr (nudzimy sie ?)
+%
+<Jylam> sa 3 głosy: 2 na mnie, 1 na ciebie
+<BLuPiNGu> co jest, głosowałeś dwa razy ?
+
+						 - #linuxscn
+%
+<Glop> a jak napiszesz /sign [twojznakzodiaku] to ci wyskoczy
+	  twój horoskop !
+-:- SignOff: Huge__ (Connection reset by pear)
+
+						 - #linuxfr
+%
+-:- jarod [^guenole@ppp3.inforoutes-ardeche.fr] has joined #linuxfr
+<jarod> Czy ktoś mógłby mi poradzić co do użytku linuxa jako stacji roboczej?
+<Mallem> Oczywiście, jarod, jestem tu.
+<jarod> Dziękuje Mallem.....
+<Mallem> Przyjemność po mojej stronie, jarod.
+<jarod> Znam linuxa jako serwer, ale nie jako stacje roboczą...
+<jarod> mam u siebie kde.. i gnome... słabo znam aplikacje, które mam
+<jarod> np. irc? jakie sa do niego programy?
+<jarod> albo adres irc ...
+<jarod> ej Mallem, ty nie jesteś czasem botem?
+<Mallem> Czy miałbym ten dyshonor być botem, jarod?
+<Inioble> jarod : Bot ? Co to jest?
+<Mallem> Jestem botem. Oszczędza mi to wielu nieprzyjemności związanych z
+    ludzkim stanem, jarod.
+<jarod> qr*a !!
+-:- SignOff: jarod (Leaving)
+
+						 - #linuxfr
+NB: Mallem i Inioble  *naprawdę* są botami
+%

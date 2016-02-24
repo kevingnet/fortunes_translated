@@ -1,0 +1,1092 @@
+Bütün dil dizaynerlər təkəbbür var. :-) ... Ərazisi ilə gedir
+		-- Larry Wall in <1991Jul13.010945.19157@netlabs.com
+
+%
+Perl Slogan olsa da bunu çox One Way I tərəddüd varbir şey 10 yolları etmək. :-)
+		-- Larry Wall in <9695@jpl-devvax.JPL.NASA.GOV>
+
+%
+Və null və məkan arasında fərq bir bit yoxdur mənə deyilki, çünki tam olaraq nə qədər fərq var. :-)
+		-- Larry Wall in <10209@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Mən (qəsdən istisna olmaqla) silly şeyler kimi deyil."
+		-- Larry Wall in <1992Jul3.191825.14435@netlabs.com>
+
+%
+Və kiçik alətlər bina taxıl qarşı gedir.Innocent, Sizin Fəxri. Perl users uzun bütün gün kiçik alətlər qurmaq.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+/ * Və it nə tapmaq olmaz * // * Ağzında ... * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Çünki. \ N uyğun deyil. [377 \ 0- \] uyğun ən səmərəli yoldurHal-hazırda hər şey. Bəlkə \ e hər şey uyğun olmalıdır. Və \ E olardıƏlbəttə heç bir şey uyğun. :-)
+		-- Larry Wall in <9847@jpl-devvax.JPL.NASA.GOV>
+
+%
+ardıcıl olun.
+		-- Larry Wall in the perl man page
+
+%
+o cümlədən Bundan <std_ice_cubes.h> maşın bir ölümcül səhv olduğunuhələ yoxdur. Bad dil dizayn var ... :-)
+		-- Larry Wall in <1991Aug22.220929.6857@netlabs.com>
+
+%
+Bundan başqa, bəzən qutusu istifadə etmək C proqramçılar məcbur yaxşıdır. :-)
+		-- Larry Wall in <1991May31.181659.28817@jpl-devvax.jpl.nasa.gov>
+
+%
+Bundan başqa, REAL kompüterlər adını dəyişmək () sistem zəng var. :-)
+		-- Larry Wall in <7937@jpl-devvax.JPL.NASA.GOV>
+
+%
+qırmaq; / * Sonra qədər sehrli yoxdur * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Amma siz evangelize arzusu üçün bir az imkan varSiz yaxşı xəbər var.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Chip Salzenberg System V IPC (msg, SEM və əlavə etmək üçün mənə tam patch göndərdiTMB) çağırır, mən onları əlavə edib. ki, narahat, siz undefine həmişə bilərsinizOnlara config.sh da. :-) - Larry Wall <9384@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+/ * Dbmrefcnt--; * / / * Işləmir, siçovulların * /
+		-- Larry Wall in hash.c from the perl source code
+
+%
+# müəyyən NULL 0 / * silly odur ki, biz hətta bu istifadə etməyin, deyil * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+# müəyyən SIGILL 6 / * Blech * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+ki, adı sistemi zəng kimi eyni yoxdur.Siz nə bilmirsinizsə, bu barədə narahat olmayın.
+		-- Larry Wall in the perl man page regarding chroot(2)
+
+%
+ikiqat dəyəri; / * Və ya pul geri! * /qısa dəyişib; / * Sizin pul geri üçqat! * /
+		-- Larry Wall in cons.c from the perl source code
+
+%
+ki, yol Down dəlilik yerləşir. Digər tərəfdən, cəhənnəmə yolərimə snowballs ilə açdı.
+		-- Larry Wall in <1992Jul2.222039.26476@netlabs.com>
+
+%
+"Təbrik edirik. Siz Eunice yayınlanmıyor." Echo
+		-- Larry Wall in Configure from the perl distribution
+
+%
+echo "Hmmm ... Siz Berkeley libc.a şəbəkə yoxdur ..."echo "Amma Wollongong qrup bu hücumu var görünür."
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"İKT, heç bir şey işləmişdir !!! Siz daxildir Diddle ola bilər." Echo ;;
+		-- Larry Wall in Configure from the perl distribution
+
+%
+echo $ paketi mənbə şəklində mövcud manual pages."Lakin, nroff yoxdur, belə ki, onlar yəqin ki, sizin üçün yararsız istəyirik." Echo
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"Sizin Stdio çox std deyil." Echo
+		-- Larry Wall in Configure from the perl distribution
+
+%
+#else / *! STDSTDIO * / / *, böyük yavaş və axmaq yol * /
+		-- Larry Wall in str.c from the perl source code
+
+%
+diatribe of [End. Biz indi sizin müntəzəm təyin etmək üçün qayıtmaqproqramlaşdırma ...]
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Siz şübhə deyil belə, şəxsin ruhi rifahını hesab edənsonra kodu saxlamaq üçün var, və kim yəqin ki parens qoyacaqsəhv yerdə. - Perl man səhifə Larry Wall
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"Dünyanı xilas Help!" - README Larry Wall
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Hey, mən :-) ... AWK * bir şey * daha yaxşı olsun idi
+		-- Larry Wall in <1991Nov7.200504.25280@netlabs.com>1
+
+%
+Mən artıq insanlar səmərəliliyinin düşüncə ilə çox problem varbir perl tikinti onun uzunluğu ilə bağlıdır. Digər tərəfdən, mən:-) ... Gələn həftə mənim mind dəyişdirilməsi mükəmməl bilən --lwall
+		-- Larry Wall in <1991Nov7.200504.25280@netlabs.com>1
+
+%
+istədiyiniz nə varsa, mən bilmirəm, ancaq almaq budur. :-)
+		-- Larry Wall in <10502@jpl-devvax.JPL.NASA.GOV>
+
+%
+Mən bəzən Perl yuxu, dunno ...
+		-- Larry Wall in  <8538@jpl-devvax.JPL.NASA.GOV>
+
+%
+Mən icazə "Əgər növbəti $ etiket" sonra mən də "Goto $ etiket" imkan istiyorum,və mən həqiqətən istəyirəm düşünmürəm ... :-)
+		-- Larry Wall in <1991Mar11.230002.27271@jpl-devvax.jpl.nasa.gov>
+
+%
+Mən bir şey sənəd deyilsə, bu, yaxşı səbəbdən adətən ya varvə ya pis bir səbəb. Bu halda yaxşı bir səbəb var. :-)
+		-- Larry Wall in <1992Jan17.005405.16806@netlabs.com>
+
+%
+"Mən bu gözəl xüsusiyyət tapa, lakin bu sənədlərə görə deyil.Yoxsa bir səhv? ""Gəlin bir təsadüfi xüsusiyyət zəng edək. :-)"
+		-- Larry Wall in <6909@jpl-devvax.JPL.NASA.GOV>
+
+%
+Əgər (instr (BUF, sys_errlist [errno])) / * Bu görmürəm * /
+		-- Larry Wall in eval.c from the perl source code
+
+%
+əgər (rsfp = mypopen ( "/ bin / mail root", "w")) {/ * Heh, Heh * /
+		-- Larry Wall in perl.c from the perl source code
+
+%
+Siz ardıcıl bir antaqonist yanaşma varsa, lakin, insanlarNew York istəyirik düşünür başlamaq üçün gedir. :-)
+		-- Larry Wall to Dan Bernstein in <10187@jpl-devvax.JPL.NASA.GOV>
+
+%
+Siz C proqram istəyirsinizsə, C. proqram Bu gözəl dil var. mən:-) ... Bəzən istifadə
+		-- Larry Wall in <7577@jpl-devvax.JPL.NASA.GOV>
+
+%
+faydalı Perl nümunələri görmək istəyirsinizsə, əlbəttə ki, var təşkil edə bilərcomp.lang.misc onlarla flooded, amma ki, kömək düşünmürəmmədəniyyət əvvəlcədən. :-)
+		-- Larry Wall in <1992Mar5.180926.19041@netlabs.com>
+
+%
+Siz proqram oxunaqlı olmaq istəyirsinizsə, dəlil təmin hesab edir.
+		-- Larry Wall in the perl man page
+
+%
+Mən bu qəribə olduğunu bilirik, lakin bu asan Perl şeir yazmaq edir. :-)
+		-- Larry Wall in <7865@jpl-devvax.JPL.NASA.GOV>
+
+%
+Mən maneəli məntiq bir daha demək lazımdır.
+		-- Larry Wall
+
+%
+Mən Elektron üst saymaq istinad çekecek edə bilərsayısal dəyəri ilə scalars çox istinadlar disallowing dəyər,lakin bu kimi təmiz olmaz. Mən bəzən ki, narahat yoxdur. --lwall
+		-- Larry Wall
+
+%
+Hesab edirəm ki, daha readably girintili edilə bilər ki, əmin deyiləm, lakin mən qorxuramAWK parser.
+		-- Larry Wall in <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Ümumiyyətlə, bir şey Perl deyil düşünüyorsanız, cəhd edin, çünkiadətən edir. :-)
+		-- Larry Wall in <1991Jul31.174523.9447@netlabs.com>
+
+%
+Siz ardıcıllıq istədiyiniz halda Ümumiyyətlə, onlar istədiyiniz nə.
+		-- Larry Wall in the perl man page
+
+%
+Maraqlıdır ki, subroutine bəyanatlar yerdə gələ bilər-ci ildən,Siz başında {} BAŞLAYACAQ qoymaq lazımdır, nə də END {} at deyilson. Maraqlı, heç? Henry kimi, əgər görəsən. --lwall :-)
+		-- Larry Wall in the perl man page
+
+%
+Hesab edirəm ki, yeni bir xüsusiyyət hesab edirəm. hər kəs demək etməyin qəza etdi. :-)
+		-- Larry Wall on s/foo/bar/eieio in <10911@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Bu shell script daha shell limanına asandır."
+		-- Larry Wall
+
+%
+Bu, əlbəttə, Perl yazılmışdır. C Translation bir kimi qalıboxucu üçün həyata. :-) - Larry Wall <7448@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall
+
+%
+Bu, bütün sehrli var. :-)
+		-- Larry Wall in <7282@jpl-devvax.JPL.NASA.GOV>
+
+%
+Bu yerdə, Kitab sənədləşdirilmiş var ...
+		-- Larry Wall in <10502@jpl-devvax.JPL.NASA.GOV>
+
+%
+> (Bu sorta kimi sed, lakin deyil. Bu sorta AWK kimi deyil, və s.)Guilty ittiham kimi. Perl məsud çirkin və məsud törəmə edir.
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Keçmiş Ada proqramçılar üçün tirit kimi var. :-)
+		-- Larry Wall regarding 10_000_000 in <11556@jpl-devvax.JPL.NASA.GOV>
+
+%
+Bu kitab əhatə olunmayacaq. mənbə kodu üçün faydalı olmalıdırbir şey, bütün sonra ... :-)
+		-- Larry Wall in <10160@jpl-devvax.JPL.NASA.GOV>
+
+%
+: Mən filter Perl bir shell (Bourne ya csh) olduğunu eşitdim yoxdur: Hər kəs bu bilmək və ya harada əldə edə bilərsiniz?Bəli, siz Tom Christiansen vasitəsilə filtrelemek. :-) - Larry Wall
+		-- Larry Wall in <10160@jpl-devvax.JPL.NASA.GOV>
+
+%
+: I (VI) denedim "g / [a-z] \ n [a-z] / s // _ /" ... lakin deyil: Onu kəsmək. Hər hansı bir fikir? (Mən bunu həll iki-pass sort ola bilər ki, onu).ilk Pass, Perl bərpa edin. :-)
+		-- Larry Wall <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Mən daxil sun4 nin almaq istəmirəm, çünki mən heç bir adları qeyd edəcəknarahatlıq ... :-) - Larry Wall <11333@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall <6849@jpl-devvax.JPL.NASA.GOV>
+
+%
+Bir real dili ilə müqayisə etməyin, və ya ... :-) bədbəxt olacaq
+		-- Larry Wall in <1992May12.190238.5667@netlabs.com>
+
+%
+Just -rf adlı bir fayl yaratmaq deyil. :-)
+		-- Larry Wall in <11393@jpl-devvax.JPL.NASA.GOV>
+
+%
+son | perl -PE '(. *) $ _ x = / (.. ..) ... / && "$ 1'" GE $ 1 && "$ 1" $ 2 lt "Randal döymək üçün ki mý ... :-) çətin ola oldu
+		-- Larry Wall in  <1991Apr29.072206.5621@jpl-devvax.jpl.nasa.gov>
+
+%
+:-) ... Nin docs reallıq sadələşdirilmiş görünüşü təqdim deyirlər
+		-- Larry Wall in  <6940@jpl-devvax.JPL.NASA.GOV>
+
+%
+Bizə xeyriyyə olsun, və zəng yanlış xüsusiyyət :-)
+		-- Larry Wall in <2609@jato.Jpl.Nasa.Gov>
+
+%
+Lispers Sweep-It-Under-Biri-Else's xalça yaxşı Lisansüstü arasındaSimulyativ Sadə School. [Kifayət qədər hərarətli idi? :-)]
+		-- Larry Wall in <1992Jan10.201804.11926@netlabs.com
+
+%
+Xeyr, mən onu izah etmək fikrində deyiləm. Siz onu anlamaq bilməz, siz etmədi:-) ... Hər halda bilmək istəyirəm
+		-- Larry Wall in <1991Aug7.180856.2854@netlabs.com>
+
+%
+/ * İndi eyni spot yeni baş etmək * /
+		-- Larry Wall in cons.c from the perl source code
+
+%
+OK, kifayət qədər şırınga.
+		-- Larry Wall in the perl man page
+
+%
+OOPS! Siz yaramaz məxluq! Siz Ş ilə konfiqurasiya run deyil!Mən sizə Ş çalışan vəziyyəti düzəltmək üçün cəhd edəcək ...
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Perl, belə ki, sizə heç bir şey üçün bir neçə yol vermək üçün nəzərdə tutulmuşdurən oxunaqlı bir toplama hesab edir.
+		-- Larry Wall in the perl man page
+
+%
+Perl özü adətən belirten haqqında olduqca yaxşı nə olmamalıdıryoxdur. :-)
+		-- Larry Wall in <11091@jpl-devvax.JPL.NASA.GOV>
+
+%
+Perl proqramlaşdırma bir * empirik * elm deyil!
+		-- Larry Wall in <10226@jpl-devvax.JPL.NASA.GOV>
+
+%
+pos + = screamnext [pos] / * Bu yerdə up axmaq deyil? * /
+		-- Larry Wall in util.c from the perl source code
+
+%
+Q. Niyə bu belə clumsy edir?A. oyun Perl güclü deyil, onun zəif istifadə etməkdir.
+		-- Larry Wall in <8225@jpl-devvax.JPL.NASA.GOV>
+
+%
+Randal bu sed etmək çətin olacağını söylədi. O yox idi demədimlakin başa düşürük. Randal çox yaxşı lakin anlayan. Hansı niyə oPerl istifadə edir. :-) - Larry Wall <7874@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <8225@jpl-devvax.JPL.NASA.GOV>
+
+%
+Real proqramçılar hər hansı bir dil toplaşmaq kodu yaza bilərsiniz. :-)
+		-- Larry Wall in  <8571@jpl-devvax.JPL.NASA.GOV>
+
+%
+ki, baxmayaraq ki saxlaA scalar INTO A SİYAHISI konvertasiya üçün Baş qayda var.
+		-- Larry Wall in the perl man page
+
+%
+s = (char *) (uzun) retval; / * Uf * /
+		-- Larry Wall in doio.c from the perl source code
+
+%
+siqnal (i, SIG_DFL); / * Çətin, böhranı, böhranı * /
+		-- Larry Wall in doarg.c from the perl source code
+
+%
+Sorry. Mənim test təşkilat, çox kiçik və ya çox böyük və ya deyil asılı olaraqSiz ona baxmaq necə. :-)
+		-- Larry Wall in <1991Apr22.175438.8564@jpl-devvax.jpl.nasa.gov>
+
+%
+stab_val (bıçaq) -> str_nok = 1; / * Nə gözəl bir hack! * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+str-> str_pok | = SP_FBM; / * Dərin sehrli * /s = (unsigned char *) (str-> str_ptr); / * Dərin sehrli * /
+		-- Larry Wall in util.c from the perl source code
+
+%
+Tactical? TAKTİK!?!? Hey, dost, biz megatons üçün kilotons getdibundan bir neçə dəqiqə. Biz heç bir stinkin "taktiki nukes ehtiyac yoxdur.(Yeri gəlmişkən, 10 milyon insanın dəyişiklik var?) --lwall
+		-- Larry Wall in util.c from the perl source code
+
+%
+Mən $ indi nəyi tapa biləcəksiniz: yatırmaq ANS istifadə etmək lazımdır deməkdir.Life gülməli deyil.
+		-- Larry Wall in Configure from the perl distribution
+
+%
+autodecrement sehrli deyil.
+		-- Larry Wall in the perl man page
+
+%
+Mən yalnız dezavantajı Perl almaq üçün hər kəs məcbur ki, edir.Dəhşəti. :-)
+		-- Larry Wall in  <8854@jpl-devvax.JPL.NASA.GOV>
+
+%
+*** Əvvəlki line yaramaz söz "$ &" ehtiva edir. \ Nəgər / (IBM | alma | AWK) /; # :-)
+		-- Larry Wall in the perl man page
+
+%
+bir snot olan dəyər bu dünyada nothin "yoxdur.
+		-- Larry Wall in <1992Aug19.041614.6963@netlabs.com>
+
+%
+Siz simli qalan ignore istəyən bir çox dəfə var yalnızATÖF kimi () edir. Işin kifayət qədər, Perl ATÖF çağırır (). Necə rahat. :-)
+		-- Larry Wall in <1991Jun24.231628.14446@jpl-devvax.jpl.nasa.gov>
+
+%
+Orada bunu yəqin ki, yaxşı yolları var, lakin bu parser edəcəkdaha mürəkkəb. Mən bəzən ... :-) mürəkkəbliyi qarşı susqun mübarizə yoxdur
+		-- Larry Wall in <7886@jpl-devvax.JPL.NASA.GOV>
+
+%
+Orada nə üçün bəzi başqa şeylər hələ də, mən düzeltmek olmasaydı düşünmürəmsəhv hesabat bit bucket sevdiyiniz bug. (Bu ola bilərlakin onu düşünmürəm. in :-) Larry Wall <7238@jpl-devvax.JPL.NASA.GOV>
+		-- Larry Wall in <7886@jpl-devvax.JPL.NASA.GOV>
+
+%
+xatırladır hava qəribə, xarab iy, lakin varbir şey ... hmm ... bəli ... Mən bir VMS yaxın var ... bu var, və ya bir Blit edirəm.
+		-- Larry Wall in Configure from the perl distribution
+
+%
+"Cəhənnəm yol ərimə snowballs ilə asfalt deyil."
+		-- Larry Wall in  <1992Jul2.222039.26476@netlabs.com>
+
+%
+/ * Ümidsizliyə salan Bu bit izlədi unary funksiyası edirbir dəlil, yüksək üstün bir funksiyası bir mötərizə. * /
+		-- Larry Wall in toke.c from the perl source code
+
+%
+"... Bu bizim bəzi olduqca da, istəyirəm deyil ki, demək deyilyol dispassionate sort, csh baş vasitəsilə bir güllə qoymaq üçün. "Larry Wall <1992Aug6.221512.5963@netlabs.com>
+		-- Larry Wall in toke.c from the perl source code
+
+%
+Perl yazılı telnet bilər:> Bu birdən mənə təəccüb etdi?Təbii ki, Perl yazılı bilər. İndi, nroff bildirib etsənizki, ... daha çətin olacaq - Larry Wall
+		-- Larry Wall in toke.c from the perl source code
+
+%
+Mən okunabilirlik qəbul edəcəyik baxmayaraq az əziyyət çəkir ...
+		-- Larry Wall in <2969@jato.Jpl.Nasa.Gov>
+
+%
+tmps_base = tmps_max; / * Fani simli qorumaq * /
+		-- Larry Wall in stab.c from the perl source code
+
+%
+Unix Siz hər 50 fut dayandırmaq lazımdır olan bir toll yol kimibaşqa nikel ödəyirlər. Amma hey! Siz yalnız 5 qəpik kasıb hər zaman hiss edirəm.
+		-- Larry Wall in <1992Aug13.192357.15731@netlabs.com>
+
+%
+"Biz bütün kompromis zəruriliyi barədə razılığa. Biz yalnız razılaşa bilmərikzəruri zaman güzəştə. "
+		-- Larry Wall in  <1991Nov13.194420.28091@netlabs.com>
+
+%
+/ * Biz mümkün qədər anormal bu normal işi etməyə çalışmışıq * /
+		-- Larry Wall in cmd.c from the perl source code
+
+%
+Nə ilk yazılı və afterwords onu səmərələşdirilməsi haqqında? :-)
+		-- Larry Wall in <8162@jpl-devvax.JPL.NASA.GOV>
+
+%
+: 1. Bu gələcəkdə əlavə olunur ehtimalı nədir?Yaxın gələcəkdə, ehtimal sıfıra yaxındır. uzaq--lwall ... :-) gələcək, mən ölü olacaq, və posterity onlar kimi nə edə bilərsiniz
+		-- Larry Wall in <8162@jpl-devvax.JPL.NASA.GOV>
+
+%
+"Bu bir divar deyil səs? Perl səs nədirinsanlar qarşı başlarını tarpıltı dayandırılıb? "
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Zaman şübhə, parenthesize da. Ən azı bəzi imkan verirVI% əsas yoxsul Dostlar sıçrama.
+		-- Larry Wall in the perl man page
+
+%
+"Siz 14 chars artıq fayl ola bilməz.Siz hətta onlar haqqında düşünmək bilməz! "
+		-- Larry Wall in Configure from the perl distribution
+
+%
+Siz Perl mənbələri yerini səhv salmaq çətindir ki, etiraf etmək lazımdır. :-)
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Sizin csh hələ düşünür doğru yalan. Bu gün satıcı yazmaq və deməkonlara gələn il yapılandırın gərək üçün "rm / bin / csh" Onlar düzeltmek halda onlarınshell partlayıb. :-) - Perl paylanması konfiqurasiya Larry Wall
+		-- Larry Wall in <1992Aug26.184221.29627@netlabs.com>
+
+%
+Siz bir xətt onu istəyirsiniz? 80 sütun uyğun varmı? :-)
+		-- Larry Wall in <7349@jpl-devvax.JPL.NASA.GOV>
+
+%
+Yaxşı, kifayət qədər ətrafında clowning. Perl, niyyət, bir təmizlənmiş vəkimi tanınan gözəl yarı ana dilində ümumiləşdirilmiş versiyası"Unix".
+		-- Larry Wall in <1994Apr6.184419.3687@netlabs.com>
+
+%
+Hər halda, şübhə üçün oda çox var. Bu, kifayət qədər asan görünə bilərlakin kompüter dil dizayn yalnız parkda gezintiye kimi.Jurassic Park, edir.
+		-- Larry Wall in <1994Jun15.074039.2654@netlabs.com>
+
+%
+Mən yaradıcı birlikdə şeyi yapışqan Perl istifadə insanlar görmək istəyirikyalnız texniki, həm də sosial.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+kompüter bütün tarixi ən yaxşı Cheerleading ilə rampant vəfanatizm pis.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Unix weanies hər kəs kimi bu kimi pis.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Kimsə stinks varsa, onlara kömək etmək üçün bir səbəb deyil, bir səbəb kimi keçirməkonların qarşısını almaq.
+		-- Larry Wall in <199702111730.JAA28598@wall.org>
+
+%
+Həmişə olduğu kimi, mən boş bir neçə neurons döymək işi şişirdilməsi, lakin alıramhəqiqət adətən haradasa qarmaqarışıqlıq, uh, ortasında.
+		-- Larry Wall in <199702111639.IAA28425@wall.org>
+
+%
+Odd biz anlayışlar qəti hesab edirəm ki. :-)
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Amma bəzi şeylər üçün, Perl yalnız optimal seçim deyil.(Hələ) :-)
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Mən bu rəsmi / qeyri-rəsmi fərq kimi deyil. Bu işgüzar, er, səs.
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Əgər kifayət qədər səhv bir şey yazmaq, mən yeni bir etmək üçün şad olacaqyalnız sizin üçün şaka.
+		-- Larry Wall in <199702221943.LAA20388@wall.org>
+
+%
+Perl 5 təqdim etmək imkanı daxil olmaqla, başqa hər şey təqdimbaşqa hər şey.
+		-- Larry Wall in <199702252152.NAA28845@wall.org>
+
+%
+Bu günə qədər APL daxil Perl dönüş qarşısını almaq üçün idarə etdik. :-)
+		-- Larry Wall in <199702251904.LAA28261@wall.org>
+
+%
+Mən ixtisar qarşı çox bir şey yoxdur ki. Amma artıq bildirib.
+		-- Larry Wall in <199702271735.JAA04048@wall.org>
+
+%
+Onlar həmişə uniq vasitəsilə stderr çalıştırabilirsiniz. :-)
+		-- Larry Wall in <199704012331.PAA16535@wall.org>
+
+%
+mənim ağız, amma mənim ağız hərəkət edir, burada mənim pul qoymaq ediyorum.
+		-- Larry Wall in <199704051723.JAA28035@wall.org>
+
+%
+Əlbəttə, mən Perl tamamilə axmaq dəyişikliklər etmək hüququna malikikMən hesab edirəm ki, əgər onlar dil artırır. :-)
+		-- Larry Wall in <199704251604.JAA27300@wall.org>
+
+%
+cansıxıcı mənə zəng, lakin qazma mənə zəng etməyin.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+I $ [daha bir mastadon çox Coelacanth kimi hesab edirəm.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+: Bu Larry-nin yalnız bir nümayişi idi ki, düşünmək üçün istifadəDigər insanlar uğursuz və ya mane nə off çəkərək da böyük bacarıq.Bəli, hər kəs bu qeyri-mümkün idi bilirdi ki, onlar cəhd etməyib. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Biz halda, buralarda vaxtaşırı mantras ən sualFark deyil. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+(It * dizayn mümkün hətta arqumentinə naminə PresumingC. :-) daha Perl yaxşı indeksi
+		-- Larry Wall on core code vs. module code design
+
+%
+: Iyerarxiya həddindən artıq deyil.Belə ki, anarxiya deyil. :-)
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Bu, əlbəttə, edilə bilər, amma mən əvvəlcədən düşmək istəmirəmhər Forth çalışan həyata keçirilməsi həqiqətən fərqli tələ,dil.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Tcl çoxdan Forth tələyə düşdü və indi naəlaclıqdan çalışır(Günəşin marketinq şöbəsinin bəzi köməyi ilə) özünü qurtarmaq.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+core dondurulmuş, lakin sulu deyil.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Perl 5-in modul sistemi bütün niyyət artım təşviq etmək idiPerl mədəniyyət daha çox Perl əsas.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Randal yenidən bir-liners yaza bilərsiniz. Hər kəs sülh yayılır xoşbəxt olduğunu vəbütün Yer üzərində.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Life kimsə başqa zəruri uyduran, qazma olur, və bir dəfə dahaheç kim olur ki, ümid tərəqqi screwjack barədə crank çevirməkberbat.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
+
+%
+Burada heç bir məhkumun dilemma. Uzun müddət ərzində, sembiyoz çoxmüftəxorluq çox faydalı. Daha çox əyləncə çox. hər hansı bir mitochondria soruşun.
+		-- Larry Wall in <199705102042.NAA00851@wall.org>
+
+%
+Aydındır ki, mən bir şey üzərində, və ya bir şey ya idi.
+		-- Larry Wall on the creation of Perl
+
+%
+Bu sayar Magic var.
+		-- Larry Wall on Perl's apparent ugliness
+
+%
+Siz Perl Yaxşı Magic edə bilər.
+		-- Larry Wall's blessing
+
+%
+P.S. Perl master plan (və ya nə bir keçir) üzərində iştirak edirİngilis kimi dünya idi. Er * kimi * İngilis etdi ...
+		-- Larry Wall in <199705201832.LAA28393@wall.org>
+
+%
+Başqa bir kompüter dil bəhs edərək bir şey sübut edə bilər. :-)
+		-- Larry Wall in <199706242038.NAA29853@wall.org>
+
+%
+Mən sizə "doğru" sözü istifadə çünki bir cavab əldə etməyib düşünmək və"Müvafiq", nə olan Perl mədəniyyəti çox mənası var. :-)
+		-- Larry Wall in <199706251602.JAA01786@wall.org>
+
+%
+Mən riyaziyyatçı 0 və 1 də çox olduğunu iddia əminəmmaraqlı nömrələri. :-)
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Doğrudur, bu, "bir daha da maraqlı edir" yalan, lakin "" qaytarır0-dən nömrəsi.
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Hər hansı bir səhv dəyəri mý, riyaziyyatçılar Perl kifayət qədər darıxdırıcı ola ki,baxmayaraq.
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Biz qoymadı ^^ sonra biz insanlara izah saxlamaq istədiyiniz çünki nədeməkdir, sonra biz qısa deyil, niyə onlara izah saxlamaq istədiyinizcircuit. : - /
+		-- Larry Wall in <199707300650.XAA05515@wall.org>
+
+%
+Kimsə Yox Mu Perl yazılmış bir ikili telemetrik çərçivə redaktoru istəyirsiniz?
+		-- Larry Wall in <199708012226.PAA22015@wall.org>
+
+%
+Ən çox yerlərdə müvafiq dəyər istifadə edərək, sadəcə, onları ayırmaq.Yaşasın kontekstində ...
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Lakin o, düşünmək üçün bir az qəribə olduğunu bildirərək, bir şey int bilərdaha dönüşüm məcbur başa əgər, həqiqətən, proqram aşağı yavaşstring geri.
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Mən yalnız bir idiot deyiləm, və bir sleepy tanımır ki, mümkündürMən bir görəndə slavemaster.
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Bəlkə mən düşmən edilməsi üçün gen itkin alıram. :-)
+		-- Larry Wall in <199708040319.UAA16213@wall.org>
+
+%
+Perl derleyiciler ətrafında iş uzun ənənəyə malikdir.
+		-- Larry Wall in <199708252256.PAA00105@wall.org>
+
+%
+Şəxsən mən cəsarətlə mənim infinitives split istəyirəm. :-)
+		-- Larry Wall in <199708271551.IAA10211@wall.org>
+
+%
+Real ilahiyyat həmişə insanlara olduqca şok olan artıqonlar nə düşünür edirəm. Mən hələ özümü şok oldum. :-)
+		-- Larry Wall in <199708261932.MAA05218@wall.org>
+
+%
+Amma bəlkə biz həqiqətən ehtiyac yoxdur ...
+		-- Larry Wall in <199709011851.LAA07101@wall.org>
+
+%
+Kompüter ağır iş bunu etmək lazımdır. Ki, bunu ödənilən nə varhər şeydən sonra.
+		-- Larry Wall in <199709012312.QAA08121@wall.org>
+
+%
+Aşağıdakı iki hesabatları adətən həm doğru:kifayət qədər sənədlər yoxdur.çox sənədlər var.
+		-- Larry Wall in <199709020026.RAA08431@wall.org>
+
+%
+Mən ki, razıyam mý Ben düşünmürəm. Way çox vizual qarışıqlıq ...
+		-- Larry Wall in <199709021627.JAA11966@wall.org>
+
+%
+ki, presedent artıq əlbəttə var. (Iddia deyil bu* Yaxşı * presedent, ağla. :-)
+		-- Larry Wall in <199709021744.KAA12428@wall.org>
+
+%
+Əlbəttə ki, bu olan Perl, biz həmişə həm yanaşmalar bilər. :-)
+		-- Larry Wall in <199709021744.KAA12428@wall.org>
+
+%
+run-time caching, mən (! DOH) "cached" təklif etmək niyyətindədir, lakinbəlkə "bir dəfə" adi insanlar daha mənalı.
+		-- Larry Wall in <199709021812.LAA12571@wall.org>
+
+%
+mənim beyin təsadüfi kvant dəyişməsi tarixi qəza var ki,qərar üçün baş verən dinamik həcmi və leksik anlayışlarıscoping orthogonal və yol qalmalıdır.
+		-- Larry Wall in <199709021854.LAA12794@wall.org>
+
+%
+çox səviyyədə, Perl bir "diaqonal" dilidir.
+		-- Larry Wall in <199709021854.LAA12794@wall.org>
+
+%
+Düşünürəm ki, biz əvvəl bütün imkanları ilə düşünür haqqında ciddi deyiləmbir şey həll. Hər şeyi üstünlükləri var onlarınmənfi cəhətləri, və əksinə.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+dil dizayn hissəsi müxtəlif təklif xüsusiyyət purturbing ediristiqamətləri gələcəkdə ümumiləşdirmək bilər necə.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Bəzən biz ümumiləşdirmə download. Bəzən biz deyil.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Mən heç tam cümlə özüm yazmaq deyil, lakin sonra, mən istifadə heç vaxtgoto bilərsiniz.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Bu var, əgər, appositival var. Və orada olmaq yoxdur.Və bu var zaman var ki, həqiqətən aydın deyil.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Oh, özünüz ahold almaq. Heç kəs biz İngilis analiz ki, təklif edir.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Bütün digər təklifləri ilə kimi, əsasən sözləri bir siyahısı.Siz ilə məşğul ola bilər ... :-)
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Mən artıq həyata yük [sic] hesab edə bilməz, belə ki, məşhur almıyorum ümid edirik.
+		-- Larry Wall in <199709032332.QAA21669@wall.org>
+
+%
+Bu keçid bəzi formaları optimize mümkün olacaq, amma yoxdurnarahat.
+		-- Larry Wall in <199709041935.MAA27136@wall.org>
+
+%
+Perl A "Goto" olmalıdır çətin şeyi kateqoriyaya düşürasan olmalıdır mümkün asan deyil şeylər.
+		-- Larry Wall in <199709041935.MAA27136@wall.org>
+
+%
+Necə Crays və Alpha POSIX problem idarə edirsiniz?
+		-- Larry Wall in <199709050042.RAA29379@wall.org>
+
+%
+səbəblərindən biri Perl şərh bəzi digər adsız daha sürətlilanguages ​​müəyyən bir paketi dəyişən adları bağlar ki, (və yatərtib zamanda daha çox run vaxt çərçivəsində).
+		-- Larry Wall in <199709050035.RAA29328@wall.org>
+
+%
+Yaxşı ki, daha çox və ya daha az deyərək nə var açıq-aydın əlavə olsabir az daha kosmik bitwise operatorları çoxdur.
+		-- Larry Wall in <199709051808.LAA01780@wall.org>
+
+%
+Siz $ eklenmesi tərəfindən göstəricisi ki demək !. biz $ niyə ki!belə bir qısa dəyişən adı, bütün sonra. :-)
+		-- Larry Wall in <199709081801.LAA20629@wall.org>
+
+%
+yanaşmalar seçimi məsuliyyət edilə bilərproqramçı.
+		-- Larry Wall in <199709081901.MAA20863@wall.org>
+
+%
+Kimsə diqqət çəkən kimi, deyir ki, bir atributu ola bilər "optimizeBu adi "həyata heck, və heck sizin müəyyən bir olacaqOptimizer üçün parametr.
+		-- Larry Wall in <199709081854.LAA20830@wall.org>
+
+%
+Mən nə deyirəm sual Croak tələb olunur tapmaqbizə bir şey satın deyil (linqvistik mənada) Saziş.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Bir qısa müəyyən olacaq, onda bu baza [sic] darn etməkSiz qısa.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Bəzi yol bilər ki, bütün yollar səyahət həyat mənim iş deyilaz səyahət və digər yol daha səyahət, və bütün varkefli bir gün.
+		-- Larry Wall in <199709241628.JAA08908@wall.org>
+
+%
+Bu yüksək səslə düşünmək çətindir və daha əldə edir. bugün-sabahKiminsə mý off getmək və mənim üçün Thomas a'Becket öldürmək ...
+		-- Larry Wall in <199709242015.NAA10312@wall.org>
+
+%
+I ", vəba kimi şöhrət çəkinin" demək idi, lakin, onlar bilirikbu gün Penicillin ilə vəba müalicə.
+		-- Larry Wall in <199709242015.NAA10312@wall.org>
+
+%
+Lakin sui-istifadə imkanı tərk yaxşı bir səbəb ola bilərdigər kompüter dillərdə həyata imkanları, bunun üçün yaxşı bir səbəb deyilPerl həyata imkanları tərk.
+		-- Larry Wall in <199709251614.JAA15718@wall.org>
+
+%
+Oh, ki Nevermind ... Randal idi, gözləyin ...
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+Öz özünü :-).
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+P.S. Mən nəzərə alaraq, mən, həqiqətən, bu gün insanlar üçün gözəl olmalıdır GümanMən :-) ... Billy Graham xor axşam oxuyan olacaq
+		-- Larry Wall in <199709261754.KAA23761@wall.org>
+
+%
+Magically siyahısı kontekstlərdə insanları köhnə scalar kontekstlərdə dönüş edirfəlakət bir neçə növ resept.
+		-- Larry Wall in <199709291631.JAA08648@wall.org>
+
+%
+Aşağıdakı (AutoSplit 1.03 nisbətən) hər kəs xahiş çalışır: Və bəlkə də heç kim sevindirir:Hesab edirəm ki, yol sərin hesab edirəm.
+		-- Larry Wall in <199709292015.NAA09627@wall.org>
+
+%
+Və biz həmişə eyni faylları edir ki, bir proqram ilə təmin edə bilərbir fayl bağlantılar daxil.
+		-- Larry Wall in <199709292012.NAA09616@wall.org>
+
+%
+Düşünürəm ki, biz onlara links etmək tövsiyə deyil, yalnız onları təminOnlar qumar (və ya gambol) almaq istəyirsinizsə alətləri ilə bunu.
+		-- Larry Wall in <199709292259.PAA10407@wall.org>
+
+%
+Bu bir müddət üçün nəzərdə edilmişdir. Mən yalnız tapmaq lazımdır danışarlarolduqca Round Tuit ilə kimsə.
+		-- Larry Wall in <199709302338.QAA17037@wall.org>
+
+%
+    switch (ref $ @) {    OverflowError =>"Dam drained lazımdır" xəbərdarlıq;    DomainError =>"Kral təlim lazımdır" xəbərdarlıq;    NuclearWarError =>ölmək;    }
+		-- Larry Wall in <199709302338.QAA17037@wall.org>
+
+%
+Mən mütləq bir syntax error ümid yoxdur.
+		-- Larry Wall in <199710011752.KAA21624@wall.org>
+
+%
+Soitainly. Hesab edirəm ki, bu OO-biznes gələn fərz edilmişdir.
+		-- Larry Wall in <199710011802.LAA21692@wall.org>
+
+%
+bunun üçün tələb kifayət qədər aşağı Çünki yaxşı idarə olunmalıdır ki,bir XSUB, və bunun üçün tələb kimi heç kim var ki, kifayət qədər aşağıbir XSUB kimi yazmaq narahat.
+		-- Larry Wall on in-place Perl sorting
+
+%
+Amma mənim zövqə üçün bəyannamə kimi bir az çox görünürəslində bu bir deyil. Mən qeyd unutmayın.
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+Hesab edirəm ki, həqiqətən faydalı olsun əmin deyiləm ...
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+Hər halda, mənim pul istifadə ciddi Vars hələ də. . .
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+qayda # 1 By, 5,005 həmişə leksik_ localisation imkan verməlidir. . .
+		-- Larry Wall in <199710011704.KAA21395@wall.org>
+
+%
+Mən bu qəribə deyil * Bilin *, lakin ciddi Vars artıq çox, çox yaxın gəliryerli lexicals və ilə məşğul ola bilər edənlər daxil izdiham bölümlemeedənlər bilməz.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Hal-hazırda bir böyük Perl proqram stricture aradan qaldırılması, yalnız istəyirikBu xüsusiyyət, halbuki təxirə bugs quraşdırma, bir yüklüyoruzasanlıqla müəyyən ani bug. Whoopee.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Mən ciddi Vars bir ride qoşulma kimi səbəb aşağı azalıb ki,insanlar nadir hallarda istifadə pragmas sayı xatırlayıram, hələ təmin edirbiz, yalnız bəlkə, gün, edə bilər harada bir yol nöqtəsinə almaq üçünyararsız pragmas olmadan yerli lexicals hər kəs üçün default,müxtəlif proqramlara ətrafında dolaşan, və ya $ ^ H bir az istifadə edərək.
+		-- Larry Wall in <199710050130.SAA04762@wall.org>
+
+%
+Hesab edirəm ki, hogs üzərində yuyucu dəyər düşünmürəm.
+		-- Larry Wall in <199710060253.TAA09723@wall.org>
+
+%
+Bu Perl orta olmayıb hesablamaq əlbəttə asandırkonfranslar.
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+Tcl marşrutlaşdırıcıları kimi qəribə yerlərdə idxal almaq üçün çalışır.
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+Tarixən Tcl həmişə strings kimi bütün aralıq nəticələr saxlanılır.(8.0 onlar təkrar düşünmə edirik. Əlbəttə, Perl ki rethought olanBaşlanğıc.)
+		-- Larry Wall in <199710071721.KAA19014@wall.org>
+
+%
+Mən Cobol Mən onlar "yerinə" əvəzinə istifadə istədiyiniz gördüm an nifrət istədiyiniz bilirdi"Do".
+		-- Larry Wall on a not-so-popular programming language
+
+%
+Just :-) ... '9' format pack / açmaq nömrələri yoxdur
+		-- Larry Wall in <199710091434.HAA00838@wall.org>
+
+%
+Hesab edirəm ki, oxumaq üçün asan hesab edirəm. Məni bağışlayın. oxumaq az çətin.
+		-- Larry Wall in <199710120226.TAA06867@wall.org>
+
+%
+Bu kifayət qədər yaxşı ola bilməz.
+		-- Larry Wall in <199710131621.JAA14907@wall.org>
+
+%
+adi insanlar, dönüşüm həmişə avtomatik deyil. Bu bir şeyki, və ya açıq yardım tələb edə bilər. Billy Graham baxın. :-)
+		-- Larry Wall in <199710141738.KAA22289@wall.org>
+
+%
+buludsuzluq namaz burada tətbiq. bizə həm də. :-)
+		-- Larry Wall in <199710141802.LAA22443@wall.org>
+
+%
+Yaxşı, siz açmaq ilə Perl peek () həyata keçirə bilər ( 'P', ...). sonra, Qaranlıq vasitəsilə təhlükəsizlik var ki, var. :-)
+		-- Larry Wall in <199710161537.IAA07828@wall.org>
+
+%
+Bu siqnal əgər Perl ərzində bu vəziyyəti almaq mümkün ola bilərhandler yalnız yanlış anda çalışır. Chip üçün digər nöqtə ... :-)
+		-- Larry Wall in <199710161546.IAA07885@wall.org>
+
+%
+bir followup da qeyd edildiyi kimi, Real Perl Programmers şeylər üstünlük verirlərvizual fərqli.
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+Harvard Law deyilir: əsasən, işıq, temperatur şəraiti nəzarətBu lənətləmək yaxşı istədiyi kimi rütubət, və qidalanma, orqanizm edəcəyik.
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+Bu yəqin ki, yazılmalıdır:    ! @ Nöqtəli vergül! ^ & * Heç bir @ # $%
+		-- Larry Wall in <199710161841.LAA13208@wall.org>
+
+%
+Bu Reg [ee] XP sehr necə qərar bizi alır |? RE. . .Əlbəttə, biz :-) ... $ yenidən qaytarır ref nə qərar var
+		-- Larry Wall in <199710171838.LAA24968@wall.org>
+
+%
+Siz "həmişə" müəyyən necə asılıdır. :-)
+		-- Larry Wall in <199710211647.JAA17957@wall.org>
+
+%
+Bir 'parantez var "Əlbəttə ki, zaman işləmir.
+		-- Larry Wall in <199710211647.JAA17957@wall.org>
+
+%
+Mən backtracking qeyd etmək deyil çalışırdı. Hansı, əlbəttə, o deməkdir ki,sizin nəzəri mənada mina çox "Righter" edir.
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Mən sonra xalq başçıları bəzi anlayışları şeytançılıq qarşı deyiləm ki,münasibətilə. (Və ya açıq onları partlayış.)
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+(Dərəcədə hər kəs ancaq Prolog proqramçı \ X tamamilə başa düşmək olar ki.(Və Prolog proqramçı :-). "Kəsmək" başa düşmək olar ki dərəcədə)
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Amma Perl bir keçid var görəcəksiniz.
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Siz lazımsız \ X göstərməyə bir Doktoru üzərində işləyir (və ya etdiyiniz düşünəkƏksinə,) mənim kitab eyni şey deyil, lazımsız.
+		-- Larry Wall in <199710211624.JAA17833@wall.org>
+
+%
+Wow, mən hər iki tərəfdən atəş altına alıram. Mən * Sağ olmalıdır * deməkdir. :-)
+		-- Larry Wall in <199710211959.MAA18990@wall.org>
+
+%
+Siz 5.004_54 və ya belə ola bilər - Siz gözləmək yoxdur. :-)
+		-- Larry Wall in <199710221740.KAA24455@wall.org>
+
+%
+bütün syntax ağac qaytarılması üçün belə bir şey yoxdur.
+		-- Larry Wall in <199710221833.LAA24741@wall.org>
+
+%
+Bu, həqiqətən bir qayda deyil - daha bir tendensiya kimi.
+		-- Larry Wall in <199710221721.KAA24321@wall.org>
+
+%
+Double * Ah *. _04, Biz danışmaq kimi CD minlərlə üzərində gedirbelə danışmaq.
+		-- Larry Wall in <199710221718.KAA24299@wall.org>
+
+%
+code də "A" və ya "B" orfoqrafik səhv etmək çətindir ki, nəzərdə tutur. :-)
+		-- Larry Wall in <199710221731.KAA24396@wall.org>
+
+%
+Yaxşı, hey, yalnız bir bağlanması daxil hər şey edək, sonra biz will"Istifadə az yaddaş" tərəfindən quraşdırılmış bizim ümumi zibil kollektor var.
+		-- Larry Wall in <199710221744.KAA24484@wall.org>
+
+%
+Xeyr, silly olarıq.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+kontekstində anlamaq People başqası üçün buxarda hazırlanmış olunacaqonlar zəng edə bilərsiniz necə diktə.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+dəlil naminə Mən bütün döyüş sözləri ignore lazımdır.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+bir funny biçimlendirme dili prototipləri düşünün - şərh edirgöstərilməsi mühərrik qədər ayrıldı.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
+
+%
+Ya yanaşma monstrosities müxtəlif növ doğum verə bilər.
+		-- Larry Wall in <199710221950.MAA25210@wall.org>
+
+%
+bunlar getmək yol etmək yəqin ki, 6 və ya 8 kludgey yolu varbu deyil ki, bir şey təkrar düşünmə daxildir daha yaxşı bir yolhələ rethunk edilmişdir.
+		-- Larry Wall in <199710221859.LAA24889@wall.org>
+
+%
+Aydındır ki, sizin filtreler Randal poçt üz atma olunur. :-)
+		-- Larry Wall in <199710221937.MAA25131@wall.org>
+
+%
+Beauty? Bu nədir?
+		-- Larry Wall in <199710221937.MAA25131@wall.org>
+
+%
+Bəli Oh. o haqqında unuttum. qocalıq əldə hərhalda ...
+		-- Larry Wall in <199710261551.HAA17791@wall.org>
+
+%
+"Təbii ki, mən hələ çəkilmək deyil. :-)
+		-- Larry Wall in <199710281816.KAA29614@wall.org>
+
+%
+Mən cute edir davam ", mənim bağırsaq səviyyədə reaksiya əsasən qorxuram ammacute təcili kəsmir. "
+		-- Larry Wall in <199710281816.KAA29614@wall.org>
+
+%
+Mən bir sənədsiz xüsusiyyət heç bir var ki, iddia edə bilər gümansemantika. :-(
+		-- Larry Wall in <199710290036.QAA01818@wall.org>
+
+%
+: Necə bu hallar disambiguate olardı?sonuncu etdi şəxs atəş edir.
+		-- Larry Wall in <199710290235.SAA02444@wall.org>
+
+%
+Bəli, biz 64 bit dəstək lazımdır konsensus var. :-)
+		-- Larry Wall in <199710291922.LAA07101@wall.org>
+
+%
+- Regexps da cutDüşünürəm ki, biz ki, konsensus əldə düşünmürəm. Biz hələ backtracking edirik ...
+		-- Larry Wall in <199710291922.LAA07101@wall.org>
+
+%
+Bəlkə bu qırmaq üçün vaxt var.
+		-- Larry Wall in <199710311718.JAA19082@wall.org>
+
+%
+Boss: Siz xəritəsi nəticə təyin etmək unuttum!Hacker: Dang, mən həmişə mənim assignations unutmadan alıram ...Boss: Və "Goto" var bunu nə var?!?Hacker: Er, Mən "getservbyport" yazaraq zaman mənim barmaq kayması tapmaq ...Boss: yaxşı Ah, qəza baş verəcək. Bəlkə biz APL seçilmiş olmalıdır.
+		-- Larry Wall in <199710311732.JAA19169@wall.org>
+
+%
+Yəqin ki, onlar sözləri təsadüfi siyahıları göndərilməsi qaçaq olacaq. haqqı FIEdüşmən foo [sic]
+		-- Larry Wall in <199710311916.LAA19760@wall.org>
+
+%
+Hey, pi == 3 və üç == 0 əgər ki, pi == 0 edir? :-)
+		-- Larry Wall in <199711011926.LAA25557@wall.org>
+
+%
+Mən daxili sizin bilik müdaxilə imkan edirəm sizinBurada dil qərar.
+		-- Larry Wall in <199711011949.LAA25651@wall.org>
+
+%
+(:-) ... Mən Malcolm və İlya eyni şeyi izah istədiyiniz fikir heç vaxt
+		-- Larry Wall in <199711071819.KAA29909@wall.org>
+
+%
+Və digər operatorları belə syntactically xüsusi, lakin qəribə deyil"Scalar" və "keçid" kimi digər yollarla,.
+		-- Larry Wall in <199711071749.JAA29751@wall.org>
+
+%
+Portability default olmalıdır.
+		-- Larry Wall in <199711072201.OAA01123@wall.org>
+
+%
+Əslində, bu da optimize olmalıdır kimi görünür (13,2,42,8, 'artım') daxilbir pp_padav surəti həmçinin.
+		-- Larry Wall in <199711081945.LAA06315@wall.org>
+
+%
+bu Ada olsaydı, biz daxil yalnız daimi dəfə 1/0 istədiyiniz Güman    "Sıfır ilə qanunsuz bölgüsü" ölmək
+		-- Larry Wall in <199711100226.SAA12549@wall.org>
+
+%
+Siz perchance 64-bit maşın çalışan edirsiniz?
+		-- Larry Wall in <199711102149.NAA16878@wall.org>
+
+%
+Demək olar ki, Perl heç bir məqsədə xidmət edir.
+		-- Larry Wall in <199712040054.QAA13811@wall.org>
+
+%
+insanlar nitroqliserini hoqqabazlıq seyr bəzi əyləncə dəyər var.
+		-- Larry Wall in <199712041747.JAA18908@wall.org>
+
+%
+Sizin əsl dost sui qorunur.
+		-- Larry Wall in <199712041852.KAA19364@wall.org>
+
+%
+Er, Tom, mən bu qeyd etmək bir, ancaq fix siyahısı üçün nifrətbir xüsusiyyət siyahısı bənzəyir başlayır. Siz insan və ya bir şey olmalıdır.
+		-- Larry Wall in <199801081824.KAA29602@wall.org>
+
+%
+Bu tune ağır bizi kodu çətindir. :-)
+		-- Larry Wall in <199801141725.JAA07555@wall.org>
+
+%
+Perl həmişə null təmin edəcək.
+		-- Larry Wall in <199801151818.KAA14538@wall.org>
+
+%
+Bu ov tüfəngi ilə konak problemi həll etmək asandır. :-)
+		-- Larry Wall in <199801151836.KAA14656@wall.org>
+
+%
+Bəli, mən Perl C. :-) daha sürətli run etməlidir
+		-- Larry Wall in <199801200306.TAA11638@wall.org>
+
+%
+Perl üçün, və ya Perl, ki kvetching edir.
+		-- Larry Wall in <199801200310.TAA11670@wall.org>
+
+%

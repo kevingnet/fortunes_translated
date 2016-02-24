@@ -1,0 +1,412 @@
+A ເຄື່ອງ Linux! ເນື່ອງຈາກວ່າເປັນ 486 ເປັນສິ່ງທີ່ເປັນສິ່ງເສດເຫລືອ!(ໂດຍ jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຢ່າງແທ້ຈິງບໍ່ມີຫຍັງຕ້ອງໄດ້ຮັບການສະຫຼຸບຈາກຕົວເລກດັ່ງກ່າວເວັ້ນເສຍແຕ່ວ່າການສະຫລຸບທີ່ບໍ່ສາມາດໄດ້ມາຈາກເຂົາເຈົ້າ. "(ໂດຍໂຈເຊັບ L. Brothers, Linux / ໂຄງການ PowerPC)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຕົວຈິງແລ້ວ, ການພິມ: ເບິ່ງຊ່ອຍແນ່ເຂົ້າໃນ Finder ບໍ່ທຽບເທົ່າຂອງສໍາເລັດ filename.(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງພຣະບັນຍັດ: ເອກະສານສໍາເລັດທຽບກັບ Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຫຼັງຈາກທີ່ສັງເກດເບິ່ງພໍ່ໃຫມ່, ບໍານານຂອງຂ້າພະເຈົ້າໃຊ້ເວລາສອງອາທິດຮຽນຮູ້ວິທີການເຮັດໃຫ້ເປັນໃຫມ່ໂຟນເດີ, ມັນໄດ້ກາຍເປັນທີ່ຈະແຈ້ງວ່າ "intuitive" ສ່ວນຫຼາຍແມ່ນຫມາຍຄວາມວ່າ "ສິ່ງທີ່ຜູ້ຂຽນໄດ້ຫຼືນະຂອງການເຊັ່ນດຽວ intuitive ".(Bruce Ediger, bediger@teal.csn.org, ໃນ comp.os.linux.misc, ຢູ່ໃນ Xຊານສະຫລາດຂອງການໂຕ້ຕອບ Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ການອອກແບບພາສາທັງຫມົດແມ່ນຫຍິ່ງ. ໄປກັບອານາເຂດຂອງ ... "(ໂດຍ Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ແລະ 1.1.81 ຢ່າງເປັນທາງການ BugFree (tm), ສະນັ້ນຖ້າຫາກວ່າທ່ານໄດ້ຮັບການໃດ bug, ບົດລາຍງານໃນມັນ, ທ່ານຮູ້ວ່າພວກເຂົາແມ່ນຕົວະພຽງແຕ່ຄວາມຊົ່ວຮ້າຍ. "(ໂດຍ Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... ແລະຜູ້ຍິງ clad scantily, ແນ່ນອນ. ເປັນຫ່ວງເປັນໄຍຖ້າຫາກວ່າມັນເປັນຂ້າງລຸ່ມນີ້ສູນນອກ "(ໂດຍ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ແລະທີ່ໃຊ້ເວລາຕໍ່ໄປທ່ານພິຈາລະນາຈົ່ມວ່າເຮັດວຽກ Lucid Emacs1905 ຜ່ານ NFS ຈາກເຄື່ອງ Linux ຫ່າງໄກສອກຫຼີກໃນ Paraguay ບໍ່ໄດ້ເບິ່ງຄືວ່າຈະໄດ້ຮັບສີຄວາມເປັນມາຂອງສິດທິໃນ, ທ່ານຈະຮູ້ວ່າຜູ້ທີ່ຂໍຂອບໃຈ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: porters ໃດອອກມີຄວນຈະມີຄວາມຮູ້ສຶກມີຄວາມສຸກທີ່ຮູ້ວ່າທະຄະແມ່ນການຂົນສົ່ງ>: ຂ້າພະເຈົ້າເປັນ AlphaPC ທີ່ຂ້າພະເຈົ້າຈະພະຍາຍາມໄດ້ຮັບ linux ແລ່ນສຸດ: ຈະນີ້>: ປະຊ່ວຍລ້າງອອກບາງສ່ວນຂອງ stuff Unported ກິ່ນຫອມທີ່ສຸດ.>: ການບໍ່ມີເພດ; ແມ່ນມີຫຼາຍທີ່ແຕກຕ່າງກັນຈາກ i386 ກ່ວາ stuff 68K ແມ່ນ, ສະນັ້ນ>: ມັນເປັນໄປໄດ້ເພື່ອໃຫ້ໄດ້ຮັບຫຼາຍທີ່ສຸດຂອງສິ່ງທີ່ມີການສ້ອມແຊມ.>> ມັນເປັນກະທູ້ນີ້ທີ່ເກືອບໃຫ້ພວກເຮົາຜູ້ທີ່ເຊື່ອທີ່ບໍ່ແມ່ນທີ່ມີ> ກໍ່ແມ່ນພຣະເຈົ້າເປັນ.(A ການຕິດຕາມ alovell@kerberos.demon.co.uk, Anthony Lovell, ກັບ Linus ຂອງຂໍ້ສັງເກດກ່ຽວກັບ porting)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໃຜກໍ່ຕາມທີ່ຄິດ UNIX ແມ່ນ intuitive ຄວນໄດ້ຮັບການບັງຄັບໃຫ້ຂຽນ 5000 ສາຍຂອງລະຫັດການນໍາໃຊ້ບໍ່ມີຫຍັງແຕ່ vi ຫຼື emacs. AAAAACK!(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງພຣະບັນຍັດ, ໂດຍສະເພາະແມ່ນEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ແມ່ນ [ຜູ້ໃຊ້ Linux] Lemmings ລວມກະໂດດອອກຈາກ cliff ຂອງທີ່ເຊື່ອຖືໄດ້, ດຽວກັນ, ວິສະວະກໍາຊອຟແວການຄ້າ? "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໃນຖານະເປັນປົກກະຕິ, ນີ້ເປັນການປ່ອຍ 1.3.x ເປັນ, ຂ້າພະເຈົ້າໄດ້ບໍ່ໄດ້ສັງລວມເຖິງແມ່ນວ່ານີ້ແກ່ນຍັງ. ດັ່ງນັ້ນຖ້າຫາກວ່າມັນເຮັດວຽກ, ທ່ານຄວນຈະປະທັບໃຈ doubly.(Linus Torvalds, ປະກາດແກ່ນ 133 ກ່ຽວກັບ linux-kernel ບັນຊີລາຍຊື່ທາງໄປສະນີ.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຫຼີກເວັ້ນການປະຕູຮົ້ວຂອງ hell. ການນໍາໃຊ້ Linux(ບໍ່ຮູ້ແຫລ່ງທີ່ມາ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໄດ້ຮັບການເຕືອນທີ່ທີ່ພິມ \ fBkillall \ Finam \ FP ອາດຈະບໍ່ໄດ້ທີ່ຕ້ອງການຜົນກະທົບກ່ຽວກັບລະບົບທີ່ບໍ່ແມ່ນ Linux, ໂດຍສະເພາະແມ່ນໃນເວລາທີ່ເຮັດໄດ້ໂດຍການໃຊ້ສິດທິພິເສດ.(ຈາກຫນ້າຄູ່ມື killall ໄດ້)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ນອກຈ​​າກນີ້, ຂ້າພະເຈົ້າຄິດວ່າ [Slackware] ສຽງທີ່ດີກວ່າກ່ວາ 'Microsoft,' ເຮັດບໍ່ໄດ້ທ່ານ?"(ໂດຍ Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ແຕ່ສິ່ງທີ່ທ່ານສາມາດເຮັດແນວໃດກັບມັນ? - ສຽງຮ້ອງແພ່ຫລາຍຈາກຄູ່ຮ່ວມງານຂອງ Linux ສະມາຊິກ.(ຂຽນໂດຍ Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ໂດຍ golly, ຂ້າພະເຈົ້າເລີ່ມຕົ້ນທີ່ຈະຄິດວ່າ Linux ກໍ່ * ແມ່ນ * ສິ່ງທີ່ດີທີ່ສຸດນັບຕັ້ງແ​​ຕ່ແລ້ວຊອຍໃຫ້ບາງໆເຂົ້າຈີ່. "(ໂດຍ Vance Petree, Virginia ພະລັງງານ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. ແກ່ນພະຍາຍາມໃນການເຂົ້າເຖິງຫນ້າທີ່ບໍ່ດີ. ພວກເຮົາຈະຕ້ອງໄດ້ * ສິ້ນສຸດສິ່ງທີ່ມີອະຄະຕິທີ່ສຸດ.* /die_if_kernel ( "Oops", regs, error_code)(ຈາກ linux / ທ້ອງຟ້າ / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... Mode Hack Deep - ວ່າລັດ mysterious ແລະຫນ້າຢ້ານກົວຂອງສະຕິທີ່ຜູ້ໃຊ້ອັດຕາການຕາຍຢ້ານທີ່ຈະສິ້ນ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra ອາດຈະກຽດຊັງຂ້າພະເຈົ້າ(Linus Torvalds, ໃນແກ່ນ / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, A ຂະຫນາດນ້ອຍເຊື້ອໄວຣັສ boot ຫນ້າລໍາຄານທີ່ເຮັດໃຫ້ລະບົບທໍາມະຊາດໄປ.     ເກີດບັນຫາ, ປົກກະຕິແລ້ວພຽງແຕ່ກ່ອນທີ່ຈະປະຢັດເປັນໂຄງການຂະຫນາດໃຫຍ່. ຮັບການປິ່ນປົວໄດ້ຢ່າງງ່າຍດາຍໂດຍ     UNIX. ເບິ່ງ MS-DOS, IBM ກົມສະຖິຕິ, DR-DOS.(ຈາກ .plan David ວິກເກີຂອງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [ ... ] ສັງເກດວ່າ 120 sec ຖືກກໍານົດໄວ້ໃນອະນຸສັນຍາເປັນສູງສຸດ * ຄວາມເປັນໄປໄດ້ RTT. ຂ້າພະເຈົ້າເດົາແລ້ວພວກເຮົາຈະມີການນໍາໃຊ້ບາງສິ່ງບາງຢ່າງອື່ນນອກຈາກ TCP * ການສົນທະນາກັບວິທະຍາໄລຂອງ Mars. * PAWS ອະນຸຍາດໃຫ້ພວກເຮົາລ່ອງຕໍ່ໄປອ​​ີກແລ້ວແລະປ່ອງຢ້ຽມຂະຫນາດໃຫຍ່, ສະນັ້ນການປະຕິບັດຄັ້ງ * ftp ກັບດາວອັງຄານຈະເຮັດວຽກງາມ. * /(ຈາກ /usr/src/linux/net/inet/tcp.c, ກ່ຽວກັບ RTT [retransmission timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ເຖິງແມ່ນວ່າໃຫ້ປະລາດໃຈຫຼາຍແມ່ນຮູ້ຈັກວ່າພຣະເຈົ້າມີການເຂົ້າເຖິງອິນເຕີເນັດ. ຂ້າພະເຈົ້າສິ່ງມະຫັດຖ້າຫາກວ່າພຣະອົງໄດ້ມີ newsfeed ຢ່າງເຕັມທີ່? "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> ເຄີຍໄດ້ຍິນຂອງ .cshrc?ວ່າເມືອງໃນ Bosnia ເປັນ. ສິດ?(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງພຣະບັນຍັດ.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Error Fatal: ພົບ [MS-Windows] ລະບົບ -> Repartitioning Disk ສໍາລັບ Linux ...(ໂດຍ cbbrown@io.org, Christopher ສີນ້ໍາ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ວິທີການເຮັດແນວໃດຂ້າພະເຈົ້າພິມ "ສໍາລັບຂ້າພະເຈົ້າໃນ .dvi * ບໍ່ xdvi i ເຮັດ" ໃນ GUI?(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງການໂຕ້ຕອບຂອງ.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ແນວໃດຂ້າພະເຈົ້າຄວນຈະຮູ້ວ່າຖ້າຫາກວ່າມັນເຮັດວຽກ? ວ່າແມ່ນສິ່ງທີ່ທົດສອບທົດລອງແມ່ນສໍາລັບການ. ຂ້າພະເຈົ້າພຽງແຕ່ລະຫັດມັນ. "(ປະກອບກັບ Linus Torvalds, somewhere ໃນປຊຊກິນເປັນ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \A ຄວາມພູມໃຈສະມາຊິກຂອງ TeamLinux \ _________ \ /(ໂດຍ CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂ້າພະເຈົ້າພັດທະນາສໍາລັບ Linux ສໍາລັບການດໍາລົງຊີວິດ, ຂ້າພະເຈົ້າໃຊ້ໃນການພັດທະນາສໍາລັບກົມສະຖິຕິ.ເຮົາມາຈາກກົມສະຖິຕິການ Linux ແມ່ນຄ້າຍຄືການຊື້ຂາຍ glider ເປັນສໍາລັບການ F117.(ໂດຍ entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂ້າພະເຈົ້ານີ້ເຮັດໃຫ້ເກີດ Linux ເຮັດໃຫ້ຂ້າພະເຈົ້າມີເນື້ອແຂງໄດ້. ມັນບໍ່ໄດ້ສ້າງລາຍຮັບ.(Dave '-ddt-> `Taylor, ປະກາດ DOOM ສໍາລັບ Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຮູ້ສຶກວ່າຈະຕິດຕໍ່ຫາຂ້າພະເຈົ້າ (flames ກ່ຽວກັບພາສາອັງກິດແລະການໂຫຍດຂອງໂຄງການນີ້ຂອງຂ້າພະເຈົ້າຄົນຂັບຈະໄດ້ຮັບການ redirected ກັບ / dev / null, oh no, ມັນເປັນອັນເຕັມທີ່ ... ).(Michael Beck, ອະທິບາຍອຸປະກອນສຽງ PC, ນະ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຂ້າພະເຈົ້າບໍ່ຮູ້ວ່າເປັນຫຍັງ, ແຕ່ວ່າພາສາ ​​C ຄັ້ງທໍາອິດມັກຈະເບິ່ງຫຼາຍຂຶ້ນກ່ວາໂຄງການຄັ້ງທໍາອິດໃນພາສາອື່ນໆ (ອາດຈະຍົກເວັ້ນສໍາລັບ FORTRAN, ແຕ່ຫຼັງຈາກນັ້ນຂ້າພະເຈົ້າສົງໃສວ່າໂຄງການທັງຫມົດ FORTRAN ຄື `ທໍາອິດ)"(ໂດຍ Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຂ້າພະເຈົ້າເມື່ອເປັນພະຍານເປັນ, flamewar ເດືອນຍາວພະລັງງານລົມໃນໄລຍະການນໍາໃຊ້ຂອງຮອກແລະຫນູກັບ Trackballs ... ມັນແມ່ນ silly ຫຼາຍ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂ້າພະເຈົ້າຍັງຮັກສາຈຸດທີ່ອອກແບບເປັນແກ່ນ monolithic ໃນປີ 1991 ເປັນຄວາມຜິດພາດການພື້ນຖານ. ຈະຂໍຂອບໃຈທ່ານບໍ່ນັກສຶກສາຂອງຂ້າພະເຈົ້າ. ທ່ານຈະບໍ່ໄດ້ຮັບການລະດັບສູງສໍາລັບການອອກແບບ :-)(Andrew Tanenbaum ກັບ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຂ້າພະເຈົ້າຈະໃຊ້ເວລາ 10 ຊົ່ວໂມງການອ່ານລະຫັດທີ່ມາຂອງຄົນອື່ນກ່ວາ10 ນາທີຟັງ Musak ລໍຖ້າສໍາລັບການສະຫນັບສະຫນູນດ້ານວິຊາການທີ່ບໍ່ແມ່ນ. "(ໂດຍທ່ານດຣ Greg Wettstein, Roger Maris ສູນມະເລັງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຂ້າພະເຈົ້າສັ່ງກວາດໃນໄລຍະຫນຶ່ງ acre ຂອງ Visual ++ ນີ້ 'ແລະ' ການພັດທະນາປະສົມປະສານທີ່ໄດ້ຮັບການ gcc, Emacs, ແລະ GDB. ຂອບ​ໃຈ."(ໂດຍ Vance Petree, Virginia ພະລັງງານ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຂ້າພະເຈົ້າເປັນ idiot .. ຢ່າງຫນ້ອຍຫນຶ່ງນີ້ [bug] ໄດ້ປະມານ 5 ນາທີເພື່ອຊອກຫາ .. "(Linus Torvalds ໃນການຕອບສະຫນອງບົດລາຍງານ bug ໄດ້.)> ຂ້າພະເຈົ້າເປັນ idiot .. ຢ່າງຫນ້ອຍນີ້ [bug] ໄດ້ປະມານ 5 ນາທີເພື່ອຊອກຫາ ..ຄວາມບໍ່ສງົບ ...(Gonzalo Tornaria ເພື່ອຕອບສະຫນອງທາງໄປສະນີ Linus Torvalds ກ່ຽວກັບ bug ແກ່ນໄດ້.)> ຂ້າພະເຈົ້າເປັນ idiot .. ຢ່າງຫນ້ອຍນີ້ [bug] ໄດ້ປະມານ 5 ນາທີເພື່ອຊອກຫາ ..ພວກເຮົາຈໍາເປັນຕ້ອງຊອກຫາຂໍ້ກໍານົດໃຫມ່ຈໍານວນຫນຶ່ງເພື່ອອະທິບາຍສ່ວນທີ່ເຫຼືອຂອງພວກເຮົາແຕ່ມະນຸດໄດ້ຫຼັງຈາກນັ້ນ.(Craig Schlenter ເພື່ອຕອບສະຫນອງທາງໄປສະນີ Linus Torvalds ກ່ຽວກັບ bug ແກ່ນໄດ້.)> ຂ້າພະເຈົ້າເປັນ idiot .. ຢ່າງຫນ້ອຍນີ້ [bug] ໄດ້ປະມານ 5 ນາທີເພື່ອຊອກຫາ ..ແນ່ນອນ, Linus ແມ່ນເວົ້າກ່ຽວກັບປະເພດຂອງ idiocy ທີ່ຄົນອື່ນ aspire ກັບ :-).(Bruce perene ເພື່ອຕອບສະຫນອງທາງໄປສະນີ Linus Torvalds ກ່ຽວກັບ bug ແກ່ນໄດ້.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂ້າພະເຈົ້າໄດ້ດໍາເນີນການ DOOM ຫຼາຍໃນສອງສາມມື້ທີ່ຜ່ານມາກ່ວາຂ້າພະເຈົ້າມີບໍ່ຫຼາຍປານໃດທີ່ຜ່ານມາເດືອນ. ຂ້າພະເຈົ້າພຽງແຕ່ຮັກ debugging ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, ກ່ຽວຂ້ອງໂດຍຄວາມນິຍົມຂະຫຍາຍຕົວຂອງຟຣີ 32-bitລະບົບປະຕິບັດການສໍາລັບລະບົບ Intel, Linux, ໄດ້ວຽກເຮັດງານທໍາຈໍານວນຂອງທາງເທີງໂຄງການຈາກໂລກໃຕ້ດິນຂອງການພັດທະນາເຊື້ອໄວຣັສ. ບັນຊີລາຍການປະຕູຮົ້ວໄດ້ລະບຸໄວ້ໃນມື້ວານນີ້: "ເດັ່ນໃນໂລກ, ໄວ - ມັນອາດຈະພວກເຮົາຫຼື Linus". ທ່ານ Torvaldsແມ່ນບໍ່ມີເລີຍສໍາລັບຄວາມຄິດເຫັນ ...(rjm@swift.eng.ox.ac.uk (Robert Manners), ໃນ comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    ຖ້າຫາກວ່າ (argc> 1 && strcmp (argv [1], "-advice") == 0) {printf ( "Do not Panic \ n");ການທ່ອງທ່ຽວ (42)    }(Arnold Robbins ໃນ LJ ຂອງເດືອນກຸມພາ '95, ອະທິບາຍ RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # ຖ້າຫາກວ່າກໍານົດ (__ alpha__) && ກໍານົດ (CONFIG_PCI)+ / *+ * ຄວາມຫມາຍຂອງຊີວິດ, ຈັກກະວານ, ແລະທຸກສິ່ງທຸກຢ່າງ. Plus+ * ນີ້ເຮັດໃຫ້ປີອອກມາຖືກຕ້ອງ.+ * /+ ປີ - = 42+ # endif(ຈາກ patch ສໍາລັບການ 132: (kernel / time.c), ໂດຍ Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຖ້າຫາກວ່າລະບົບນໍາທາງໃນອະນາຄົດ [ສໍາລັບການບໍລິການເຄືອຂ່າຍການໂຕ້ຕອບໃນການ NII] ຄ້າຍຄືບາງສິ່ງບາງຢ່າງຈາກ Microsoft, ມັນຈະບໍ່ເຮັດວຽກ. "(ປະທານຂອງ Walt Disney ໂທລະທັດແລະໂທລະຄົມນາຄົມ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ຖ້າຫາກວ່າທ່ານຕ້ອງການທີ່ຈະເດີນທາງໃນທົ່ວໂລກແລະໄດ້ຮັບການເຊື້ອເຊີນໃຫ້ເວົ້າຢູ່ໃນຫຼາຍຂອງສະຖານທີ່ທີ່ແຕກຕ່າງກັນ, ພຽງແຕ່ຂຽນເປັນລະບົບປະຕິບັດການ Unix. "(ໂດຍ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[ໃນຮູບແບບຫມໍ], ຂ້າພະເຈົ້າໄດ້ໃຊ້ເວລາທີ່ດີສິບນາທີບອກ Emacs ສິ່ງທີ່ຂ້າພະເຈົ້າຄິດວ່າຂອງມັນ. (ຮັບຜິດຊອບນີ້, "ບາງທີທ່ານຈະສາມາດພະຍາຍາມທີ່ຈະຫນ້ອຍໃຊ້ໃນທາງຜິດ.) "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໃນບັນດາປະເທດທີ່ສຸດສິ່ງທີ່ຂາຍເປັນອັນຕະລາຍເຊັ່ນ: ຢາເສບຕິດແມ່ນຈະຖືກລົງໂທດ.ຫຼັງຈາກນັ້ນ, howcome ປະຊາຊົນສາມາດຂາຍຊອບແວ Microsoft ແລະໄປ unpunished?(ໂດຍ hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel ວິສະວະກໍາເບິ່ງຄືວ່າຈະມີແຜນຍຸດທະສາດການຕະຫຼາດ misheard Intel. ປະໂຫຍກແມ່ນ "ແບ່ງແລະເອົາຊະນະ" ບໍ່ "ແບ່ງແລະໄກ່ຂຶ້ນ"(ໂດຍ iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ມັນເປັນພຣະເຈົ້າ. ບໍ່ມີ, ບໍ່ Richard Stallman, ຫຼື Linus Torvalds, ແຕ່ພຣະເຈົ້າ."(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, ທີ່ທ່ານໄດ້ຮັບຂ້າພະເຈົ້າກ່ຽວກັບການເຈັບທີ່ຫົວເຂົ່າຂອງຂ້າພະເຈົ້າ!(ຈາກ David Black, dblack@pilot.njin.net, ກັບຄໍາແກ້ຕົວເພື່ອ Derek ແລະdominoes, ແລະ Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux ເປັນລ້າສະໄຫມ(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux ຄວາມຮູ້ສິ່ງທີ່ທ້າທາຍທີ່ແທ້ຈິງສໍາລັບຜູ້ທີ່ມີລົດຊາດສໍາລັບການຊັກຊ້າໃນຕອນກາງຄືນການ hack (ແລະ / ຫຼືການສົນທະນາກັບພຣະເຈົ້າ). "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX ພັດທະນາ Venimus, Vidimus, Dolavimus.(ໂດຍ mah@ka4ybr.com, Mark A Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... [Linux ຂອງ] ຄວາມສາມາດໃນການສົນທະນາໂດຍຜ່ານຂະຫນາດກາງຍົກເວັ້ນສັນຍານຄວັນຢາສູບ."(ໂດຍທ່ານດຣ Greg Wettstein, Roger Maris ສູນມະເລັງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: ເນື່ອງຈາກວ່າ PC ໄດ້ເປັນສິ່ງທີ່ເປັນສິ່ງເສດເຫລືອ(ksh@cis.ufl.edu ເຮັດໃຫ້ນີ້ tshirt ໃນ '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: ເນື່ອງຈາກວ່າ PC ໄດ້ເປັນສິ່ງທີ່ເປັນສິ່ງເສດເຫລືອ.(ໂດຍ komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: ທາງເລືອກຂອງການຜະລິດ GNU ໄດ້(ksh@cis.ufl.edu ເຮັດໃຫ້ນີ້ tshirt ໃນ '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: ລະບົບປະຕິບັດການທີ່ມີຂໍ້ຄຶດເປັນ ...ບັນທັດຄໍາສັ່ງສະພາບແວດລ້ອມຂອງຜູ້ໃຊ້ ".(ເຫັນໄດ້ໃນປຊຊກິນໃນ comp.software.testing ເປັນ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LP1 ກ່ຽວກັບໄຟໄຫມ້(ຫນຶ່ງໃນຂໍ້ຄວາມ kernel obfuscated ຫຼາຍ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft ບໍ່ແມ່ນຄໍາຕອບ.Microsoft ແມ່ນຄໍາຖາມທີ່.NO (ຫຼື Linux) ແມ່ນຄໍາຕອບ.(ການປະຕິບັດຈາກ .signature ຈາກຜູ້ໃດຜູ້ຫນຶ່ງຈາກປະເທດອັງກິດ, ແຫຼ່ງ unknown)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird benutzt fuer drei Dinge: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten ໃນ Dateisysteme, ແລະ, nun, 'besteigen' beim Sex.(Christa Keil ໃນປຊຊກິນເຍຍລະມັນ: "ການຕິດຕັ້ງໄດ້ຖືກນໍາໃຊ້ສໍາລັບສາມສິ່ງທີ່:ເຄືອກ່ຽວກັບມ້າ, ການເຊື່ອມຕໍ່ຢູ່ໃນຫນ່ວຍຮາດດິດໃນລະບົບຂໍ້ມູນ, ແລະ, ດີ,ການຕິດຕັ້ງໃນລະຫວ່າງການຮ່ວມເພດ ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS ບໍ່ໄດ້ຮັບການເປັນບໍ່ເປັນມັນເປັນຄືນ - ມັນໄດ້ໃນໄລຍະສິບປີຂອງການພັດທະນາລະມັດລະວັງ. "(ໂດຍ dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ບໍ່ເຄີຍເຮັດໃຫ້ mistaeks ຢ່າງໃດ."(Anonymous, ໃນການສົນທະນາ mail ກ່ຽວກັບບົດລາຍງານ bug ແກ່ນ.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ບໍ່ຂ້າພະເຈົ້າ, ຜູ້ຊາຍ. ຂ້າພະເຈົ້າອ່ານຫນ້າຜູ້ຊາຍແຕກໃນແຕ່ລະມື້ຄືພະເຢໂຫວາເປັນພະຍານວ່າຄໍາພີໄບເບິນ. ບໍ່ມີການລໍຖ້າ, ຫນ້າຜູ້ຊາຍແຕກແມ່ນພະຄໍາພີໄດ້. ຂໍ​ອະ​ໄພ...(ເພີ່ມເຕີມກ່ຽວກັບຊື່ສັບສົນ, ການປະຕິບັດຈາກ comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ໃຫ້ສັງເກດວ່າຖ້າຫາກວ່າຂ້າພະເຈົ້າສາມາດໃຫ້ທ່ານໄດ້ຮັບ \" su ແລະເວົ້າວ່າ \ "ບາງສິ່ງບາງຢ່າງພຽງແຕ່ໂດຍສະເຫນີຂໍ,ທ່ານມີບັນຫາຄວາມປອດໄພຮ້າຍແຮງທີ່ສຸດໃນລະບົບຂອງທ່ານແລະທ່ານຄວນຈະເບິ່ງເຂົ້າໄປໃນມັນ. "(ໂດຍ Paul Vixie, vixie, cron 301 ບັນທຶກການຕິດຕັ້ງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໃນປັດຈຸບັນຂ້າພະເຈົ້າຮູ້ວ່າຜູ້ໃດຜູ້ຫນຶ່ງອອກມີແມ່ນຈະຂໍ, "ດີແລ້ວ, UNIX ແມ່ນ intuitive,ເພາະວ່າທ່ານພຽງແຕ່ຕ້ອງການທີ່ຈະຮຽນຮູ້ 5000 ຄໍາສັ່ງ, ແລະຫຼັງຈາກນັ້ນທຸກສິ່ງທຸກຢ່າງອື່ນຕໍ່ໄປນີ້ຈາກທີ່! Har har har! "(Andy ຜ່ອນລົງໃນ comp.os.linux.misc, ກ່ຽວກັບ "ການໂຕ້ຕອບ intuitive", ເລັກນ້ອຍປ້ອງກັນ Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໃນປັດຈຸບັນ, ພວກເຮົາໄດ້ມີການຈັດລຽງຂອງສິ່ງທີ່ນີ້:  ຜົນຜະລິດ -a ສໍາລັບຜົນຜະລິດຈະລາຈອນທັງຫມົດ  ຜົນຜະລິດ-t ສໍາລັບຜົນຜະລິດລົດບັນທຸກ  ຜົນຜະລິດ -f ສໍາລັບຜົນຜະລິດຂອງປະຊາຊົນໃນເວລາຍ່າງ (ຕີນຜົນຜະລິດ)  ຜົນຜະລິດ t-d * ສໍາລັບຜົນຜະລິດໃນມື້ເລີ່ມຕົ້ນດ້ວຍ... ທ່ານຕ້ອງການມີຫຼາຍຂອງປະຊາຊົນເສຍຊີວິດຢູ່ໃນຕັດກັນ, ແລະການຈະລາຈອນຕິດຂັດທ່ານຈະບໍ່ເຊື່ອວ່າ ...(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງພຣະບັນຍັດ.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ກ່ຽວກັບການອອນໄລນ໌ ascii ປົກກະຕິ, ພຽງແຕ່ສະພາບຄວາມປອດໄພໃນການກວດສອບເປັນ 'BREAK'- ທຸກສິ່ງທຸກຢ່າງອື່ນທີ່ໄດ້ຮັບການມອບຫມາຍຫນ້າທີ່ໂດຍ GNU emacs ".(ໂດຍ Tarle Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ກ່ຽວກັບອິນເຕີເນັດ, ບໍ່ມີໃຜຮູ້ທີ່ທ່ານກໍາລັງໃຊ້ Windows NT"(Submitted by Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ເມື່ອໃດທີ່ຕາມເວລາທີ່ມີຜູ້ໃຊ້ DOS ຜູ້ທີ່ໄດ້ເຫັນ Unix, ແລະເຫັນວ່າມັນແມ່ນທີ່ດີ. ຫຼັງຈາກພິມ cp ເຄື່ອງ DOS ຂອງຕົນຢູ່ເຮືອນ, ເຂົາດາວໂຫລດ GNU ຂອງເຄື່ອງມື unix ported ກັບກົມສະຖິຕິແລະການຕິດຕັ້ງໃຫ້ເຂົາເຈົ້າ. ເຂົາ rm'd, cp'd, ແລະ mv'dຢ່າງມີຄວາມສຸກສໍາລັບຈໍານວນຫຼາຍມື້, ແລະຕາມຊອກຫາ elvis, ເຂົາ vi'd ແລະມີຄວາມສຸກ. ຫຼັງຈາກມື້ດົນນານໃນການເຮັດວຽກ (ໃນປ່ອງ Unix) ເຂົາມາ, ເລີ່ມຕົ້ນການແກ້ໄຂໄຟລ໌,ແລະບໍ່ສາມາດສະເປັນຫຍັງເຂົາບໍ່ສາມາດລະງັບ vi (w / ctrl-z) ຈະເຮັດແນວໃດເປັນສັງລວມ.(ໂດຍ ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> ນອກຈາກຄວາມຈິງທີ່ Linux ມີຊື່ເຢັນ, ຜູ້ໃດຜູ້ຫນຶ່ງຈະສາມາດອະທິບາຍວ່າເປັນຫຍັງຂ້າພະເຈົ້າ>> ຄວນໃຊ້ Linux ໃນໄລຍະ BSD?>> ສະບັບເລກທີດັ່ງນັ້ນ, ມັນ. ຊື່ເຢັນ, ທີ່ເປັນ. ພວກເຮົາເຮັດວຽກຫນັກຫຼາຍກ່ຽວກັບ> ການສ້າງຊື່ທີ່ຈະຂໍອຸທອນກັບສ່ວນໃຫຍ່ຂອງປະຊາຊົນ, ແລະມັນ> ຈ່າຍແນ່ນອນວ່າໄປ: ພັນຂອງປະຊາຊົນໄດ້ຖືກນໍາໃຊ້ linux ພຽງແຕ່ເພື່ອໃຫ້ສາມາດ> ຈະເວົ້າວ່າ "OS / 2? Hah. ຂ້າພະເຈົ້າໄດ້ຮັບ Linux. ຈະເປັນແນວໃດຊື່ເຢັນ". 386BSD ໄດ້> ຜິດພາດຂອງການວາງຢ່າງຫຼາຍຂອງການຈໍານວນແລະຕົວຫຍໍ້ທີ່ເປັນ weird ເຂົ້າໄປໃນ> ຊື່, ແລະ scaring ຫ່າງຢ່າງຫຼາຍຂອງປະຊາຊົນພຽງແຕ່ຍ້ອນວ່າມັນຊື່ສາມັນເກີນໄປ> ວິຊາການ.(Linus Torvalds 'ຕິດຕາມຄໍາຖາມກ່ຽວກັບ Linux ເປັນ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ສ່ວນບຸກຄົນ, ຂ້າພະເຈົ້າຄິດວ່າທາງເລືອກຂອງຂ້າພະເຈົ້າໃນ wars mostest, ສູງສຸດຂອງຄອມພິວເຕີມີການເປັນຊຸດ HP-48 ຂອງການຄິດໄລ່. ພວກເຂົາເຈົ້າຈະດໍາເນີນການຫຍັງໄດ້. ແລະຖ້າຫາກວ່າພວກເຂົາເຈົ້າບໍ່ສາມາດ, ໃນຂະນະທີ່ຂ້າພະເຈົ້າພຽງແຕ່ຈະສຽບກ່ອງ Linux ເຂົ້າໄປໃນທີ່ Port serial ແລະການໂຫຼດຂຶ້ນHP-48 VT-100 emulator.(ໂດຍ jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ບໍ່ມີທຣິດໃດໃນ a.b.p.erotica ມີການເພີ່ມໃນການນໍາໃຊ້ໄດ້, ດັ່ງນັ້ນອ່ານຂ່າວກະທູ້.(ບໍ່ຮູ້ແຫລ່ງທີ່ມາ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ການແກ້ໄຂພາຍໃຕ້ linux ບັນຫາໄດ້ບໍ່ເຄີຍໄດ້ circus ທີ່ວ່າມັນແມ່ນພາຍໃຕ້ການAIX. "(ໂດຍ Pete Ehlke ໃນ comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ເຊົາໃນເວລາທີ່ຄໍາຖະແຫຼງທີ່ອອກຈາກທີ່ຖືກອ່ານ, ໂຮງງານຜະລິດ bc ໄດ້       ຖືກລະງັບ, ໂດຍບໍ່ສົນເລື່ອງຂອງບ່ອນທີ່ເຊົາ state-       ment ໄດ້ຖືກພົບເຫັນ. ສໍາລັບການຍົກຕົວຢ່າງ, "ຖ້າຫາກວ່າ (0 == 1) ເຊົາ"       ຈະເຮັດໃຫ້ເກີດ bc ທີ່ຈະຢຸດ.(ເຫັນຢູ່ໃນ manpage ສໍາລັບການ "bc". ຫມາຍເຫດ "ຖ້າຫາກວ່າ" ມີເຫດຜົນໃບລາຍງານຂອງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ແລ່ນ Windows ໃນ Pentium ເປັນຄືມີຍີ່ຫໍ້ Porsche ໃຫມ່ແຕ່ວ່າພຽງແຕ່ສາມາດຂັບລົດຫຼັງທີ່ມີ handbrake ໃນ.(ບໍ່ຮູ້ແຫລ່ງທີ່ມາ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ການຂົນສົ່ງ sic ຈານຂອງໂລກ"(ຈາກຄູ່ມື Administrator System, ໂດຍ Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຖອນຫາຍໃຈ. ຂ້າພະເຈົ້າຕ້ອງການທີ່ຈະຄິດວ່າມັນເປັນພຽງແຕ່ປະຊາຊົນ Linux ຜູ້ທີ່ຕ້ອງການຈະຢູ່ໃນໄດ້ "ຂອບ" ບໍ່ດີດັ່ງນັ້ນພວກເຂົາຍ່າງສິດ precipice ໄດ້.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ໂຄງການສົນທະຢູ່ໃນໂດເມນສາທາລະນະ. ນີ້ບໍ່ແມ່ນ GNU ໃບອະນຸຍາດສາທາລະນະ. ຖ້າຫາກວ່າມັນ breaks ຫຼັງຈາກນັ້ນທ່ານໄດ້ຮັບການຮັກສາທັງສອງຕ່ອນ.(ຫນັງສືແຈ້ງການລິຂະສິດສໍາລັບໂຄງການການສົນທະນາ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> ປະຊາຊົນວັນຄິດ linux ຈະໄດ້ຮັບການໄດ້ດີກວ່າໂດຍຄົນອື່ນ (FSF> ເປັນທາງເລືອກທໍາມະຊາດ), ຂ້າພະເຈົ້າຈະ "​​ສະລະ". ຂ້າພະເຈົ້າບໍ່ຄິດວ່າ> ມັນເປັນບາງສິ່ງບາງຢ່າງປະຊາຊົນມີກ​​ານກັງວົນກ່ຽວກັບສິດທິໃນປັດຈຸບັນ - ຂ້າພະເຈົ້າບໍ່ເຫັນມັນ> ທີ່ເກີດຂຶ້ນໃນອະນາຄົດອັນໃກ້ນີ້. ຂ້າພະເຈົ້າມີຄວາມສຸກການດໍາເນີນການ linux, ເຖິງແມ່ນວ່າມັນບໍ່> ຫມາຍຄວາມວ່າວຽກງານບາງຢ່າງ, ແລະຂ້າພະເຈົ້າຍັງບໍ່ທັນໄດ້ຮັບການຮ້ອງຮຽນໃດຫນຶ່ງ (ບາງ timid ເກືອບ> ແຈ້ງເຕືອນກ່ຽວກັບການເພີ້ມຂ້າພະເຈົ້າໄດ້ລືມຫລືບໍ່ສົນໃຈ, ແຕ່ບໍ່ມີຫຍັງ> ທາງລົບມາເຖິງຕອນນັ້ນ).>> ບໍ່ໄດ້ໃຊ້ຂ້າງເທິງຫມາຍຄວາມວ່າຂ້າພະເຈົ້າຈະຢຸດເຊົາການ somebody ມື້ຄໍາຮ້ອງທຸກ:> ຂ້າພະເຈົ້າຫນາ, ຜິວຫນັງ (Lasu, ຜູ້ທີ່ກໍາລັງອ່ານນີ້ໃນໄລຍະບ່າຂອງຂ້າພະເຈົ້າຄໍາເຫັນ> ວ່າ "ຫນາຫົວຫນ້າແມ່ນໃກ້ຊິດກັບຄວາມຈິງ") ພຽງພໍທີ່ຈະໃຊ້ເວລາການລ່ວງລະເມີດບາງ.> ຖ້າຫາກວ່າຂ້າພະເຈົ້າບໍ່ໄດ້, ຂ້າພະເຈົ້າໄດ້ຢຸດເຊົາການພັດທະນາ linux ast ມື້ຂ້າພະເຈົ້າ ridiculed> ກ່ຽວກັບ c.o.minix. ສິ່ງທີ່ຂ້າພະເຈົ້າຫມາຍຄວາມວ່າເປັນພຽງແຕ່ວ່າໃນຂະນະທີ່ linux ໄດ້ເດັກນ້ອຍຂອງຂ້າພະເຈົ້ານັ້ນ> ປະຈຸບັນ, ຂ້າພະເຈົ້າບໍ່ຕ້ອງການທີ່ຈະຢືນຢູ່ໃນວິທີການຖ້າຫາກວ່າປະຊາຊົນຕ້ອງການທີ່ຈະເຮັດໃຫ້ບາງສິ່ງບາງຢ່າງ> ທີ່ດີກວ່າຂອງມັນ (*).>> Linus>> (*) Hey, ບາງທີຂ້າພະເຈົ້າສາມາດນໍາໃຊ້ສໍາລັບການ saint, hood ຈາກ Pope. ບໍ່> ຄົນຮູ້ວ່າສິ່ງທີ່ email ທີ່ຢູ່ຂອງເຂົາແມ່ນຫຍັງ? ຂ້າພະເຈົ້ານັ້ນງາມມັນເຮັດໃຫ້ທ່ານ puke.(ການປະຕິບັດຈາກ reply Linus ຂອງຜູ້ໃດຜູ້ຫນຶ່ງເປັນຫ່ວງກ່ຽວກັບອະນາຄົດຂອງ Linux ໄດ້)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ການທົດສອບງາມກ່ຽວກັບ Windows ເປັນ - ມັນບໍ່ພຽງແຕ່ crash, ມັນສະແດງວ່າເປັນກ່ອງໂຕ້ຕອບແລະສາມາດເຮັດໃຫ້ທ່ານກົດ "OK" ຄັ້ງທໍາອິດ.(.sig Arno Schaefer ຂອງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພຽງແຕ່ການໂຕ້ຕອບ "intuitive" ແມ່ນຫົວນົມ. ຫຼັງຈາກນັ້ນ, ມັນໄດ້ຮຽນຮູ້ທັງຫມົດ.(Bruce Ediger, bediger@teal.csn.org, ໃນ comp.os.linux.misc, ໃນການໂຕ້ຕອບ X.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ມີສອງປະເພດຂອງການພັດທະນາ Linux ມີ - ຜູ້ທີ່ສາມາດສະກົດຄໍາ, ແລະຜູ້ທີ່ບໍ່ສາມາດເຮັດໄດ້. ມີສົງຄາມຄົງລະຫວ່າງສອງແມ່ນ.(ຈາກຫນຶ່ງຂອງການ 1.1.54 post ຂໍ້ຄວາມການປັບປຸງແກ່ນໄປຍັງ c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂໍ້ຄວາມນີ້ໄດ້ນໍາເອົາກັບທ່ານໂດຍ Linux, ຟຣີ unix.Windows ໂດຍບໍ່ມີການ X ແມ່ນຄ້າຍຄືການເຮັດໃຫ້ຄວາມຮັກໂດຍບໍ່ມີຄູ່ຮ່ວມງານ.ເພດ, ຢາເສບຕິດແລະກົດລະບຽບການ Linuxໄຊຊະນະ nt ຈາກປະຊາຊົນຜູ້ທີ່ invented edlinຫມາກໂປມໄດ້ຫມາຍຄວາມວ່າບັນຫານັບຕັ້ງແ​​ຕ່ edenLinux, ວິທີການເພື່ອໃຫ້ໄດ້ຮັບການກໍາຈັດຂອງໄວຣັສ boot(ໂດຍ mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... Unix, MS-DOS, ແລະ Windows NT (ຍັງເປັນທີ່ຮູ້ຈັກເປັນການທີ່ດີ, ບໍ່ດີ, ແລະການ Ugly). "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... ຫຼາຍປະກົດການບໍ່ຫຼາຍປານໃດສາມາດດຶງຄົນອອກຈາກຮູບແບບການ Hack Deep, ມີສອງຂໍ້ສັງເກດຂໍ້ຍົກເວັ້ນ: ການ struck ໂດຍຟ້າຜ່າ, ຫຼືຮ້າຍແຮງກວ່າເກົ່າ, ຄອມພິວເຕີຂອງທ່ານ * *ຖືກ struck ໂດຍຟ້າຜ່າ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ໂບກມືໄປຟັງຂອງຄວັນຢາສູບໄດ້, ຂ້າພະເຈົ້າເບິ່ງເຖິງ, ແລະເຈົ້າ blinded ໂດຍເປັນສົດໃສ, ສີຂາວແສງສະຫວ່າງ. ມັນເປັນຂອງພຣະເຈົ້າ. ບໍ່ມີ, ບໍ່ Richard Stallman, ຫຼື Linus Torvalds, ແຕ່ພຣະເຈົ້າ. ໃນສຽງຂະຫຍາຍຕົວຢ່າງ, ພຣະອົງໄດ້ກ່າວວ່າ: "ນີ້ແມ່ນອາການນໍາໃຊ້ LINUX, ລະບົບການຟຣີ UNIX.ສໍາລັບການ 386 "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ພວກເຮົາທຸກຄົນຮູ້ວ່າ Linux ແມ່ນຍິ່ງໃຫຍ່ ... ມັນບໍ່ loops ນິດໃນ 5 ວິນາທີ."(Linus Torvalds ກ່ຽວກັບດີກວ່າຂອງ Linux ໃນອໍາສະເຕີດໍາLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພວກເຮົາມີຄວາມຂອງ Microsoft. ທ່ານຈະໄດ້ຮັບການ assimilated. ການຕໍ່ຕ້ານແມ່ນ futile.(ປະກອບກັບ B.G. , Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພວກເຮົາມີຄວາມ Pentium ຂອງ Borg. ພະແນກແມ່ນເປັນ futile. ທ່ານຈະໄດ້ຮັບປະມານ.(ເຫັນໄດ້ໃນ .signature ຂອງຜູ້ໃດຜູ້ຫນຶ່ງ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພວກເຮົາກໍາລັງໃຊ້ Linux ປະຈໍາວັນໄດ້ຮັບເຂົ້າຜະລິດຕະພັນຂອງພວກເຮົາ - ສະນັ້ນເຖິງທ່ານ!(ດັດແປງຈາກ Pat Paulsen ໂດຍ Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພວກເຮົາມາຝັງ DOS, ທີ່ຈະບໍ່ສັນລະເສີນມັນ.(Paul Vojta, vojta@math.berkeley.edu, ແປຄວາມ quote ຂອງ Shakespeare ເປັ​​ນ)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ພວກເຮົານໍາໃຊ້ Linux ສໍາລັບການໃຊ້ວຽກພາລະກິດທີ່ສໍາຄັນຂອງພວກເຮົາ. ມີລະຫັດທີ່ມາຫມາຍຄວາມວ່າພວກເຮົາຍັງບໍ່ໄດ້ຈັດຂຶ້ນໃນວັນ hostage ໂດຍພະແນກສະຫນັບສະຫນູນຂອງໃຜ.(Russell Nelson, ປະທານປະເທດຂອງ Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ສິ່ງທີ່ທ່ານສິ້ນສຸດເຖິງທີ່ມີ, ຫຼັງຈາກທີ່ແລ່ນເປັນແນວຄວາມຄິດລະບົບປະຕິບັດການໂດຍຜ່ານການເຫຼົ່ານີ້ການຕະຫຼາດການກັ່ນຕອງກາເຟຈໍານວນຫຼາຍ, ແມ່ນບາງສິ່ງບາງຢ່າງບໍ່ແຕກຕ່າງຈາກຮ້ອນທໍາມະດານ້ໍາ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ສິ່ງທີ່ script ນີ້ເຮັດແນວໃດ?    unzip; ແຕະຕ້ອງ; ນິ້ວມື; mount; ອ້າປາກຄ້າງ; yes; umount; ນອນແນະນໍາສໍາລັບຄໍາຕອບ: ທຸກສິ່ງທຸກຢ່າງແມ່ນຄອມພິວເຕີ, ຮັດກຸມ. ບາງຄັ້ງທ່ານໃນຖົງນອນ, camping ອອກ.(ຂຽນໂດຍພາສາຝລັ່ງເສດ van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`ໃນເວລາທີ່ທ່ານເວົ້າວ່າ" ຂ້າພະເຈົ້າວ່າເປັນໂຄງການທີ່ crashed Windows ເປັນ ", ປະຊາຊົນພຽງແຕ່ stare ຢູ່ທ່ານ blankly ແລະເວົ້າວ່າ "Hey, ຂ້າພະເຈົ້າໄດ້ຮັບທີ່ມີລະບົບ, * for * ຟຣີ". '(ໂດຍ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ແສ້ຂ້າພະເຈົ້າ. ຫຼິ້ນໃຫ້ເກີນແມ່ນຂ້າພະເຈົ້າ. ຂ້າພະເຈົ້າເຮັດໃຫ້ຮັກສາ AIX."(ໂດຍ Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ແມ່ນໃຜເປັນຜູ້ລົ້ມເຫລວທົ່ວໄປແລະເປັນຫຍັງພຣະອົງອ່ານຮາດດິດຂອງຂ້າພະເຈົ້າ?"Microsoft ເກມ chekar vor sail, worgs ຮູ້ບຸນຄຸນ !!(ໂດຍ leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຜູ້ທີ່ຕ້ອງການທີ່ຈະຈື່ຈໍາໄວ້ວ່າ escape, x, alt ການຄວບຄຸມຊ້າຍການປ່ຽນແປງ, b ເຮັດໃຫ້ທ່ານເຂົ້າໄປໃນsuper-edit, debug: ສັງລວມຮູບແບບ?(ສົນທະນາໃນ comp.os.linux.misc ກ່ຽວກັບສັນຊາດຍານຂອງພຣະບັນຍັດ, ໂດຍສະເພາະແມ່ນEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ການນໍາໃຊ້ Windows ຫຍັງ, ນັບຕັ້ງແ​​ຕ່ມີປະຕູ?(ໂດຍ fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"ເດັ່ນໃນໂລກ. ໄວ"(ໂດຍ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you ສາມາດໃຊ້ເວລາ * ທັງຫມົດວັນ * ການປັບແຕ່ງແຖບຫົວຂໍ້. ເຊື່ອ​ຂ້ອຍ. ຂ້າພະເຈົ້າເວົ້າຈາກປະສົບການ. "(ໂດຍ Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+" ... ທ່ານອາດຈະຂ້າມສະເຫຼີມສະຫຼອງວັນຄຣິດສະມາດຫມົດ, ແລະແທນທີ່ຈະເປັນນັ່ງຢູ່ທາງຫນ້າຂອງທ່ານມັກຫຼີ້ນຄອມພິວເຕີ linux ກັບທັງຫມົດໃຫມ່ແລະການປັບປຸງສະບັບ linux kernel. "(ໂດຍ Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ວຽກເຮັດງານທໍາຂອງທ່ານແມ່ນເປັນອາຈານແລະນັກຄົ້ນຄວ້າ: ວ່າເປັນຫນຶ່ງໃນ hell ຂອງແກ້ຕົວທີ່ດີສໍາລັບບາງສ່ວນຂອງສະຫມອງເສຍຫາຍຂອງ minix.(Linus Torvalds ກັບ Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+ຂ້າພະເຈົ້າໄດ້ຍິນຄົນຢິວແລະຄົນ Muslim ໂຕ້ຖຽງໃນຄາເຟ Damascus ກັບ passion ຫນ້ອຍກ່ວາ wars emacs. "<ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

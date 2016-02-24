@@ -1,0 +1,129 @@
+Debian Tipp # 44: Akkor kövesse Identi.ca számla Debian athttp://identi.ca/debian További információk a Debian a Identica istalálhatók: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Tipp # 1: Akkor jelentse be a hibát egy csomagot a "reportbug 'parancsot,amely elérhető a reportbug csomag, akár a parancssorból vagyAz új grafikus frontend (elérhető futó 'reportbug --ui gtk2 "vagya menü).
+
+%
+Debian Tipp # 2: Akkor használja a "dpkg-reconfigure <csomag> 'módosításáhozválaszokat adtak a feltett kérdésekre, amikor először telepíteni egy csomagot.A 'configure-debian' csomag egy egységes kezelőfelületet ezt,is.
+
+%
+Debian Tipp # 3: Használhatja a "apt-cache search <szó>" vagy"Alkalmassági keresés <szó>" keresni a szavakat a leírások valamennyiálló csomagokat.
+
+%
+Debian Tipp # 4: Láthatjuk a rendelkezésre álló és a telepített változat egyvagy több elérhető csomagokat a parancs "apt-cache policy <csomag> '.
+
+%
+Debian Tipp # 5: Ha kell egy saját rendszermagot, használja a "make-kpkg"script megtalálható a kernel-package csomag.
+
+%
+Debian Tipp # 6: Nincs utalás # 6. Adj meg egy csipetnyi még ma!
+
+%
+Debian Tipp # 7: Használhatja a cron-apt csomag csinálni automatikus éjszakailetöltés A csomagokhoz frissítéseket a rendszerre telepített.
+
+%
+Debian Tipp # 8: Ha problémája van a Debian, hogy nem lehet megoldaniolvasni a kézikönyvek és a dokumentáció lépj a Debian felhasználóklevelezési lista (debian-user@lists.debian.org).
+
+%
+Debian Tipp # 9: Ha meg kell tudni, hogy milyen verziójú Debian Ön jelenlegfutás, meg a / etc / debian_version vagy használja a "lsb_release -S" parancsot. Haszeretné tudni, hogy a kódneve, hogy verzió (például 5,0 kódnevű"Lenny"), ellenőrizze a URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Tipp # 10: Vannak Debian levelezőlista a mindent felhasználókérdéseket viták, hogy mit kell, hogy a Debian dokumentumokban.Nézd meg a listát a http://www.debian.org/MailingLists/ és feliratkozásazokat, amelyek érdeklik.
+
+%
+Debian Tipp # 11: Ne naprakész, mi folyik - olvasható a DebianProject News. Olvasd el az interneten a http://www.debian.org/News/weekly/
+
+%
+Debian Tipp # 12: A grep-dctrl csomag számos olyan hasznos scriptekgyors keresést különféle csomag ellenőrző fájlok (például a rendelkezésre állócsomagok fájl).
+
+%
+Debian Tipp # 13: Ha nem tetszik az alapértelmezett beállításokat használják a Debiancsomagot, akkor töltse le a forrást, és létrejönne egy változata, amely felhasználja alehetőségek közül. Lásd http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Szakaszok 6.13 és 6.14) talál.Azonban ne felejtsük el, hogy a legtöbb lehetőség a legtöbb csomag konfigurálhatófutásidőben, és nem igényelnek újrafordítás a csomagot.
+
+%
+Debian Tipp # 14: Ha azt szeretné, hogy kövesse dolgok történnek egy csomag(Például, ha azt szeretnénk, hogy a hibabejelentés, engedje értesítéseket, és egyébhasonló dolgok), fontolja meg a feliratkozást, hogy a csomag Rendszer.Akkor többet megtudni a PTS itt:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Tipp # 15: A dokumentáció a csomag általában megtalálható/ usr / share / doc / <csomag>. Különösen a README.Debian fájl gyakranvan hasznos információkkal Debian-specifikus furcsa szokásai és tippek.
+
+%
+Debian Tipp # 16: Ha keres egy adott fájlt, de nem tudom,amely csomag tartozik, próbáljon meg az "apt-file", amely fenntartja akis adatbázis e, vagy keressen a tartalmát a DebianCsomagok adatbázis, amely lehet tenni:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Tipp # 17: Kell valaki beszélni a Debian? Ha nem okoz gondotInternet Relay Chat (IRC), csak telepíteni a kedvenc IRC kliens, éscsatlakozzon #debian a irc.debian.org.
+
+%
+Debian Tipp # 18: Minőség-ellenőrzés információkat egy csomagban megtalálhatómegy, http://packages.qa.debian.org/~~V <csomag>; Ez az oldallinkek az fenntartói QA oldalon, a BTS, hírek a csomagot, éstájékoztatást, hogy mely változatok állnak rendelkezésre, ahol levéltárakban.
+
+%
+Debian Tipp # 19: Ha érdekel csomagok készítése forrásból, akkormérlegelniük kell az apt-src csomagban.
+
+%
+Debian Tipp # 20: Szeretne nyomon követni, hogy milyen verziójú csomag vantelepített (különösen hasznos azok számára, futó hibrid stable / testing /instabil rendszerek)? Távozás apt-show-versions.
+
+%
+Debian Tipp # 21: Ha a Debian doboz mögött a lassú hálózati kapcsolat,de van, hogy gyors is egyben, nézd meg az apt-zip csomagot.
+
+%
+Debian Tipp # 22: vajon melyik Debian tükröt a legjobb Önnek? TávozásAz apt-kém és netselect-apt csomagokat, ami adhat tájékoztatásthogyan különböző tükörszerveren végre.
+
+%
+Debian Tipp # 23: Ha a rendszer a túl sok helyet, próbálkozzon adeborphan csomag tud nyújtani javaslatokat, mely csomag lehethasznált és eltávolítható. És persze ne felejtsük el, hogy tisztítsa ki aAPT cache terület (az "apt-get clean", "aptitude clean", vagyalkalmassági cselekvési -> Tiszta csomag gyorsítótár menüpont).
+
+%
+Debian Tipp # 24: Ha azt szeretné megköszönni a fenntartó kezelési módjánakkérdés, nézd meg reportbug --kudos.
+
+%
+Debian Tipp # 25: A "debian-reference 'csomag tartalmazza a legkülönbözőbbA referencia-dokumentum Debian felhasználók és fejlesztők számára. A legtöbbinformáció is megtalálható a következő címen:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Tipp # 26: Ha a csomag nem úgy tűnik, hogy sok dokumentációt,ellenőrizze a csomag neve "<csomag> -doc" vagy hasonló, és győződjön meg arról, hogytelepíteni is; csomagok nagy mennyiségű dokumentációrendszeresen szét a dokumentumokat, így azok számára, akik nem szeretnéktelepíteni őket.
+
+%
+Debian Tipp # 27: Rendszeresen ellenőrizze a biztonsági mentéseket. Te * van * A biztonsági mentés,jobbra? Jobbra? Ha nem, akkor kezdd a tar (1) vagy billenő (1).
+
+%
+Debian Tipp # 28: Ha a készülék nem minden az idő (mint például alaptop), nézd meg a "anacron" csomag; ez biztosítja, hogy a rendszeresfeladatok még történni, akkor is, ha a gép nem abban az időben tennékáltalában kiváltó.
+
+%
+Debian Tipp # 29: Ne a rendszer órát pontos - Gép be van kapcsolvaa legtöbb vagy az összes időt kell adni a "NTP" csomag telepítve tartani az időtpontosak között újraindul.
+
+%
+Debian Tipp 30: Dokumentáció lehet a http: // localhost /telepítésével a "doc-bázis" és a "doc-közép" csomagokat és azokfüggőségek.
+
+%
+Debian Tipp # 31: letiltása normálisan aktív szolgáltatás egy adott futási szintenkell változtatásával történik S linkre /etc/rc<level>.d egy K linkre,eltávolítása helyett a kapcsolat teljesen; ha minden linkeket eltávolították, arendszer feltételezi a következő telepíteni, hogy ki kell cserélni.
+
+%
+Debian Tipp # 32: A csomag "doc-debian" tartalmaz néhány általánosdokumentáció a Debian projekt. Azt is kapható spanyol(Doc-debian-es), francia (doc-debian-fr) és ukrán (doc-debian-uk).
+
+%
+Debian Tipp # 33: A csomag "devscripts" tartalmaz néhány hasznos scriptekfelhasználók, akik szeretnének segíteni, hogy javítsa a Debian, például wnpp-éber, rc-riasztási és bts.
+
+%
+Debian Tipp # 34: Ha azt szeretné, hogy nyomon kövesse a Debian sid, és van egy kis letöltéskvóta vagy egy nagyon lassú a kapcsolat, nézd meg a debdelta csomagot.
+
+%
+Debian Tipp # 35: A keresési néhány játék? Vessen egy pillantást a "goplay", amelykínál egy szép frontend böngészve mindenféle játékot.
+
+%
+Debian Tipp # 36: Kell egy újabb csomag, mint Debian utolsóstabil kiadás, de nem akarja, hogy frissíteni "vizsgálat" vagy "instabil"? Néhánycsomagok folyamatosan up-to-date keresztül stabil-frissítések suite, mások arendelkezésre bocsátani backports.debian.org.
+
+%
+Debian Tipp # 37: Szeretne letölteni egy csomag telepítése nélkül is? Használat"Alkalmassági letöltés <pkgname> '.
+
+%
+Debian Tipp # 38: Szeretné tudni, hogyan használhatja a program, amit soha nem használtelőtt? "Ember" lesz a legjobb új barátom! Type "man <programnév név>" egyhéj. Vagy fuss "férfi H <programnév-name>" olvasni a kézikönyv oldal a böngészőben.
+
+%
+Debian Tipp # 39: Javítani bash fül-befejezését telepítésévelbash-befejezését csomagot.
+
+%
+Debian Tipp # 40: Ha telepíti a command-not-found csomagot, kísérletefuttatni egy parancsot nem telepített megmondja, hogy mit csomagot telepítenikapjuk, hogy a parancs.
+
+%
+Debian Tipp # 41: Akkor használja a "apt-cache show <csomagnév>" vagy "alkalmassági mutat<Csomagnév> ", hogy minél több információt a debian csomagot.
+
+%
+Debian Tipp # 42: Akkor használja a "apt-file list <csomagnév>" tőzsdei jegyzésénektartalmának debian csomagot. Ez a művelet hasonló a"Dpkg -L <csomagnév>" kivéve a csomag nem kell telepíteni, vagyerőltetett az apt-file ellentétben dpkg.
+
+%
+Debian Tipp # 43: Szeretne ideiglenesen tiltsa le iptables? Használat'Iptables-save | sed "/ - / d; / ^ # / d; s / csepp / ACCEPT /" | iptables-restore "eltávolításáraszabályok és az alapértelmezett politika elfogadni.
+
+%

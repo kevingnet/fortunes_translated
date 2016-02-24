@@ -1,0 +1,129 @@
+Debian Ukusikisela # 44: Ungalandela akhawunti Identi.ca for Debian athttp://identi.ca/debian Olunye ulwazi of Debian at Identica ungaitholakala: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Ukusikisela # 1: Ungabika bug iphakheji 'reportbug' umyalo,elitholakala ku iphakethe reportbug, kungaba womyalelo nomane engaphambili entsha sokuqhafaza (iyatholakala egijima 'reportbug gtk2 --ui' nomaimenyu).
+
+%
+Debian Ukusikisela # 2: Ungasebenzisa 'dpkg-reconfigure <iphakethe>' ukushintshaizimpendulo owalinika imibuzo ebuzwa lapho uqala efakwe iphasela.I 'Lungiselela-Debian' iphakethe inikeza front end enobunye ngenxa yokwenza lokhu,kanjalo.
+
+%
+Debian Ukusikisela # 3: Ungasebenzisa noma 'efaneleka-cache search <amazwi>' noma'Isiphiwo search <amazwi>' ukucinga amazwi in the izincazelo zonkeamaphakheji atholakalayo.
+
+%
+Debian Ukusikisela # 4: Ungabona izinguqulo etholakalayo kanye ukufakwa elilodwanoma amaphakheji ibekhona nge 'inqubomgomo efaneleka-cache <amaphakheji>' umyalo.
+
+%
+Debian Ukusikisela # 5: Uma udinga ukwakha uhlamvu siko, sebenzisa 'enze-kpkg'script ezitholakala iphakethe ikhenela-iphakethe.
+
+%
+Debian Ukusikisela # 6: Akukho nokuncane ukusikiselwa kokuziphendukela # 6. Hambisa mfana namuhla!
+
+%
+Debian Ukusikisela # 7: Ungasebenzisa iphakethe cron-bathambekele ukukwenza ebusuku othomathikhiukulanda updates amaphakheji afakwe kwisistimu yakho.
+
+%
+Debian Ukusikisela # 8: Uma unezinkinga Debian ukuthi awukwazi ukuxazulula bykokufunda iziqondiso imibhalo, zama becela phezu Abasebenzisi Debianuhlu lwamakheli (debian-user@lists.debian.org).
+
+%
+Debian Ukusikisela # 9: Uma udinga ukwazi ukuthi yini version of Debian Okwamanjeegijima, bheka ku / etc / debian_version noma usebenzise 'lsb_release -sc' umyalo. Uma ubafuna ukwazi igama lekhodi ngoba lokho version (ngokwesibonelo, 5.0 codenamed'Lenny'), hlola lokhu URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Ukusikisela # 10: Kukhona Debian uhlu lwamakheli for konke kusuka umsebenzisiimibuzo ukuze mpikiswano ngalokho ayifake imibhalo Debian Policy.Hlola uhlu at http://www.debian.org/MailingLists/ futhi ubhaliselelezo kuyo.
+
+%
+Debian Ukusikisela # 11: Gcina usesikhathini kwenzakalani - funda DebianProject News. Funda kuwebhu at http://www.debian.org/News/weekly/
+
+%
+Debian Ukusikisela # 12: Iphakheji grep-dctrl inikeza eziningana zokubhala ewusizongokushesha ukusesha ehlukahlukene amafayela control iphakheji (ezifana atholakalayoamaphakheji ifayela).
+
+%
+Debian Ukusikisela # 13: Uma ungathandi izinketho ezizenzakalelayo lisetshenziswe a Debianiphakethe, ungalanda umthombo futhi ukwakha version elisebenzisaIzinketho olikhethayo. Bona http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Izigaba 6.13 no 6.14) ukuze uthole ulwazi oluthe xaxa.Nokho, khumbula ukuthi ongakhetha kunawo amaphakheji iningi kungenziwa amisiweat isikhathi sokusebenza, futhi asidingi recompiling iphakheji.
+
+%
+Debian Ukusikisela # 14: Uma ungathanda ukuba balandele izinto kwenzekani iphasela(Isibonelo, uma ufuna ukubona imibiko bug, ukukhulula izaziso, kanye nezinyeizinto ezifanayo), cabanga zisekela phezu iphakheji System.Ungathola ulwazi oluthe xaxa mayelana UP.TS at:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Ukusikisela # 15: Amadokhumende for iphakethe ngokuvamile kungatholakalangaphansi / usr / share / doc / <iphakheji>. Ikakhulu, i-README.Debian ngiyofaka ngokuvamilehas ukwaziswa okuwusizo mayelana nezimfanelo ezingavamile zomunye Debian-ethize noma amathiphu.
+
+%
+Debian Ukusikisela # 16: Uma elisheshayo ifayela ethile, kodwa angaziokuyinto iphakethe kungokwalabo, zama kokufaka 'efaneleka-ifayela', okuyinto egcinadatabase elincane lolu lwazi, noma cinga okuqukethwe the DebianAmaphakheji database, okuyinto kungenziwa:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Ukusikisela # 17: Need umuntu ongaxoxa naye ngezinkinga Debian? Uma ukhululekilenge edluliselwe Inthanethi Chat (IRC), nje ufake IRC client zakho ozithandayo, futhiujoyine #debian on irc.debian.org.
+
+%
+Debian Ukusikisela # 18: Quality ulwazi control mayelana iphasela kungatholakalangokuya ku http://packages.qa.debian.org/~~V <iphakethe>; khasiuxhumanisa kuya ekhasini QA maintainer, la BTS, izindaba izinto iphakheji, futhiImininingwane on yiziphi izinguqulo ayatholakala kuyo ezinqolobaneni.
+
+%
+Debian Ukusikisela # 19: Uma unentshisekelo yokwakha amaphakheji emthonjeni, wenaKufanele ucabange ukufaka iphakethe efaneleka-src.
+
+%
+Debian Ukusikisela # 20: Ufuna ukugcina umbhalo walokho version iphasela uneefakwe (ewusizo ikakhulukazi kulabo egijima hybrid esitebeleni / ukuhlolwa /izinhlelo engazinzile)? Hlola efaneleka-show-izinguqulo.
+
+%
+Debian Ukusikisela # 21: Uma Debian ibhokisi lakho ngemuva kancane inethiwekhi uxhumano,kodwa unayo indlela yokuthola ukusebenzisa omunye fast kanye, hlola iphakethe efaneleka-zip.
+
+%
+Debian Ukusikisela # 22: Ezibuza okuyinto Debian mirror kukulungele wena? Hlolathe efaneleka-spy nokhunye netselect-Iyafaneleka, okuyinto angakunika ulwazimayelana nendlela ezihlukahlukene kwesibuko sites enze.
+
+%
+Debian Ukusikisela # 23: Uma isistimu yakho usebenzisa disk isikhala esiningi, zama ledeborphan iphakethe; kungaba lokunikeza ukusikisela mayelana nokuthi iziphi izinhlelo amaphakheji kungase kubeengasetshenziswanga futhi esikhiphekayo. Futhi, Yebo, ungakhohlwa ukuhlanza outIyafaneleka cache indawo (usebenzisa 'efaneleka-uthole ihlanzekile', 'isiphiwo uhlambuluke,' na, nomaAction ukufaneleka sika -> iphakethe Hlanza cache kwemenyu).
+
+%
+Debian Ukusikisela # 24: Uma ungathanda ukubonga a maintainer sokusingatha iudaba, hlola reportbug --kudos.
+
+%
+Debian Ukusikisela # 25: 'Debian-reference' Iphakheji liqukethe ezihlukahlukenereference amadokhumenti kubasebenzisi kanye onjiniyela Debian. Iningi leImininingwane kungabuye etholakele nge-URL elandelayo:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Ukusikisela # 26: Uma iphakethe akubonakali ukuba imibhalo okuningi,uhlole iphakethe ngokuthi '<iphakethe> -doc' noma efanayo futhi qiniseka ukuthiukuyifaka kanye; amaphakheji ne esiningi imibhalonjalo esehlukanisa amadokhumenti ngale ndlela kulabo ungafuniukufaka nabo.
+
+%
+Debian Ukusikisela # 27: Njalo ukuqinisekisa kwideskithophu yakho. Wena * basuke * ngokugcina izipele,kwesokudla? Kwesokudla? Uma kungenjalo, ukuqala ngetiyela (1) noma alahle (1).
+
+%
+Debian Ukusikisela # 28: Uma umshini wakho awukona phezu sonke isikhathi (ezifana alaptop), hlola 'anacron' iphakethe; lokhu kuzokwenza uqiniseke ukuthi avamileimisebenzi kusenzeka, ngisho noma umshini akayona ngesikhathi babephangangokujwayelekile kuvuse.
+
+%
+Debian Ukusikisela # 29: Gcina iwashi lohlelo yakho olunembile - Machines okuyinto zivuliweiningi labo noma bonke isikhathi kufanele babe 'NTP' iphakethe efakwe ukugcina isikhathiolunembile phakathi ukuqalela phansi.
+
+%
+Debian Ukusikisela # 30: Amaphepha ingenziwa kuyatholakala at http: // localhost /ngokufaka 'doc-base' futhi 'doc-central' amaphakheji kanye zabonokuncike.
+
+%
+Debian Ukusikisela # 31: Ukuvimbela isevisi evamile-okusebenzayo runlevel ethizekumele kwenziwe ngokushintsha isixhumanisi S /etc/rc<level>.d ukuxhumana K,kunokuba asuse isixhumanisi ngokuphelele; uma bonke links kususwa, louhlelo bayocabanga on the next ukufaka ukuthi kudingeka ukushintshwa.
+
+%
+Debian Ukusikisela # 32: Iphakheji 'doc-Debian' iqukethe ezinye jikeleleimibhalo mayelana project Debian. It iyatholakala ngeSpanishi(Doc-Debian-es), Isi-French (doc-Debian-fr) nesi-Ukraine (doc-Debian-uk).
+
+%
+Debian Ukusikisela # 33: Iphakheji 'devscripts' iqukethe ezinye scripts ewusizo forabasebenzisi abafuna ukusiza ukuba ngcono Debian, isib wnpp-uqaphile, rc-uphapheme futhi BTS.
+
+%
+Debian Ukusikisela # 34: Uma ufuna ukulandela Debian sid futhi babe thwebula encanequota noma uxhumano slow ngempela, hlola iphakethe debdelta.
+
+%
+Debian Ukusikisela # 35: In search for ezinye imidlalo? Sibheke 'goplay', okuyintoinikeza Kubekwe nice upheqa ngokusebenzisa bonke hlobo imidlalo.
+
+%
+Debian Ukusikisela # 36: Need iphasela entsha zithunyelwa nge Debian lokugcinaukukhululwa ozinzile, kodwa musa ufuna ukuthuthukisa ukuba 'testing' noma 'engazinzile'? Abanyeamaphakheji waqhubeka up-to-date kuthiwa nge esitebeleni-updates suite, abanye basesimweniyenziwe ukuba itholakale at backports.debian.org.
+
+%
+Debian Ukusikisela # 37: Ufuna ukulanda iphasela ngaphandle ayifake? Sebenzisa'Thwebula ukufaneleka <pkgname>'.
+
+%
+Debian Ukusikisela # 38: Ufuna ukwazi ukuthi ungasebenzisa uhlelo ungakaze wasebenzisangaphambi? "Umuntu" kuyoba umngane wakho best new! Uhlobo "indoda <Uhlelo yegama>" in ashell. Noma, run "indoda -H <Uhlelo yegama>" ukufunda ikhasi manual kusiphequluli.
+
+%
+Debian Ukusikisela # 39: Thuthukisa bash sika ithebhu-kwaqedwa ngokufakabash-kokuqedwa iphakethe.
+
+%
+Debian Ukusikisela # 40: Uma iphakethe umyalo-hhayi ayitholile, sizamarun umyalo awazi ozifakile uzokutshela lokho iphakethe ukufakaukuthola lowo myalo.
+
+%
+Debian Ukusikisela # 41: Ungasebenzisa 'efaneleka-cache show <Iphakheji>' noma 'isiphiwo show<Iphakheji> 'ukuze uthole ulwazi oluthe xaxa mayelana iphasela Debian.
+
+%
+Debian Ukusikisela # 42: Ungasebenzisa 'uhlu efaneleka-ifayela <Iphakheji>' ukuthola uhluokuqukethwe Debian iphakethe. Lesi senzo siyefana'Dpkg -L <Iphakheji> except the iphakethe akudingeki ukuba ukufakwa nomazalanda usebenzisa efaneleka-ifayela Ngokungafani dpkg.
+
+%
+Debian Ukusikisela # 43: Ufuna ukukhubaza iptables lokuvikela lwakho okwesikhashana? Sebenzisa'Iptables-londoloza | SED "/ - / d; / ^ # / d; s / Drop / WAMUKELE / '| iptables-ukubuyisela 'ukususayonke imithetho bese usetha ngumgomo ukwamukela.
+
+%

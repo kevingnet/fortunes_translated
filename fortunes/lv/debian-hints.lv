@@ -1,0 +1,129 @@
+Debian Padoms # 44: Jūs varat sekot identi.ca kontu Debian athttp://identi.ca/debian Vairāk informācijas par Debian pie Identica var arīatrast: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Padoms # 1: Jūs varat ziņot par kļūdu iepakojumā ar "reportbug" komandu,kas ir pieejama reportbug paketē, vai nu no komandrindas vaiar jauno grafisko Frontend (pieejams darbojas "reportbug --ui GTK 2" vaiēdienkarte).
+
+%
+Debian Padoms # 2: Jūs varat izmantot "dpkg-pārkonfigurēt <paketi>", lai mainītuAtbildes jums deva uz uzdotajiem jautājumiem, kad pirmo reizi uzstādīta paketi.Ar "konfigurēt-debian" pakete nodrošina vienotu priekšējā galā, kā to izdarīt,arī.
+
+%
+Debian Padoms # 3: Jūs varat izmantot vai nu "apt-cache search <vārdiem>" vai"Piemērotības meklēšanas <vārdiem>", lai meklētu vārdus aprakstos visupieejamās paketes.
+
+%
+Debian Padoms # 4: Jūs varat apskatīt pieejamos un instalētās versijas viensvai vairāk pieejami iepakojumi ar komandu "apt-cache politiku <paketes>".
+
+%
+Debian Padoms # 5: Ja jums ir nepieciešams, lai izveidotu pielāgotu kodolu, izmantojiet izmainītais kpkg "skripts atrast kodola paketi paketi.
+
+%
+Debian Padoms # 6: Nav mājiens # 6. Iesniegt mājienu šodien!
+
+%
+Debian Padoms # 7: Jūs varat izmantot cron-apt paketi darīt automātisko naktslejupielādes atjauninājumus paketes instalēta jūsu sistēmā.
+
+%
+Debian Padoms # 8: Ja jums ir problēmas ar Debian, ka jūs nevarat atrisināt arlasot rokasgrāmatas un dokumentāciju, mēģiniet lūdzot uz Debian lietotājiemadresātu saraksts (debian-user@lists.debian.org).
+
+%
+Debian Padoms # 9: Ja jums ir nepieciešams zināt, kāda versija Debian tu esi šobrīddarbojas, meklēt / etc / debian_version vai izmantot "lsb_release -SC" komandu. Ja jumsvēlas zināt segvārds šai versijai (piemēram, 5,0 ir segvārdu"Lenny"), pārbaudiet šo URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Padoms # 10: Ir Debian adresātu sarakstus par visu, sākot no lietotājajautājumi debatēm vairāk nekā to, ko likt vērā Debian politikas dokumentos.Pārbaudiet sarakstu pie http://www.debian.org/MailingLists/ un abonēttiem, kas jūs interesē.
+
+%
+Debian Padoms # 11: Saglabājiet līdz dienai par to, kas notiek - lasīt DebianProjekta News. Izlasi to tīmeklī at http://www.debian.org/News/weekly/
+
+%
+Debian Padoms # 12: grep-dctrl pakete nodrošina vairākas noderīgas skriptusātri meklējot dažādus pakete kontroles failus (piemēram, pieejamāpaketes fails).
+
+%
+Debian Padoms # 13: Ja jums nepatīk noklusējuma opcijas izmanto Debianpaketi, jūs varat lejupielādēt avots un veidot versiju, kas izmantoiespējas vēlaties. Skatīt http://www.debian.org/doc/FAQ/ch-pkg_basics.html(6.13 un 6.14) sadaļas, lai iegūtu vairāk informācijas.Tomēr jāpatur prātā, ka lielākā daļa opcijas vairumā paketes var konfigurētruntime, un neprasa recompiling paketi.
+
+%
+Debian Padoms # 14: Ja jūs vēlētos, lai sekotu lietas notiek ar paketi(Piemēram, ja jūs vēlaties redzēt kļūdu ziņojumus, atlaidiet paziņojumus, un cititamlīdzīgas lietas), apsveriet Parakstoties uz to uz iepakojuma izsekošanas sistēmas.Jūs varat uzzināt vairāk par PTS vietnē:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Padoms # 15: Par paketi dokumentācija parasti var atrastzem / usr / share / doc / <paketi>. Jo īpaši README.Debian failu biežiir noderīgu informāciju par Debian-specifiskiem quirks vai padomus.
+
+%
+Debian Padoms # 16: Ja jūs meklējat konkrētu failu, bet nezinukas pakete tas pieder, mēģiniet instalēt "apt-failu", kas uzturmazs datu bāze no šīs informācijas, vai meklētu saturu DebianPaketes datu bāzi, ko var izdarīt:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Padoms # 17: nepieciešams kāds ar ko parunāt par Debian? Ja esat apmierinātsar Internet Relay Chat (IRC), vienkārši instalēt savu mīļāko IRC klients, unpievienoties #debian uz irc.debian.org.
+
+%
+Debian Padoms # 18: Kvalitātes kontrole informāciju par iepakojuma var atrastdodoties uz http://packages.qa.debian.org/~~V <paketi>; Šī lapa nodrošinasaites uzturētājiem ir QA lapu, BTS, ziņas par iepakojuma, uninformācija, uz kuras versijas ir pieejamas, kurā arhīvu.
+
+%
+Debian Padoms # 19: Ja jūs interesē celtniecības paketes no avota, jūsvajadzētu apsvērt uzstādot apt-src paketi.
+
+%
+Debian Padoms # 20: Vēlies sekot kāda versija paketi jums iruzstādītas (īpaši noderīga tiem darbojas hibrīda stabilu / testēšanas /nestabilas sistēmas)? Pārbaudiet apt-show versijas.
+
+%
+Debian Padoms # 21: Ja jūsu Debian kaste ir aiz lēns tīkla savienojums,bet jums ir pieejams ātrs vienu, kā arī, izbraukšana apt-zip paketi.
+
+%
+Debian Padoms # 22: Domājat, kas Debian spogulis ir labākais Jums? izbraukšanaapt-spiegu un netselect-apt paketes, kas var sniegt jums informācijupar to, kā dažādi spogulis vietas veikt.
+
+%
+Debian Padoms # 23: Ja jūsu sistēma izmanto pārāk daudz diska vietas, mēģinietdeborphan paketē; tā var piedāvāt ieteikumus par to, kuras iepakojumiem var būtneizmantota un noņemams. Un, protams, neaizmirstiet, lai attīrītu noAPT cache platība (izmantojot "apt-get clean", "zināšanu tīrs", vaiAptitude rīcības -> Clean pakete kešatmiņa izvēlnes punkts).
+
+%
+Debian Padoms # 24: Ja jūs vēlētos pateikties par uzturētāju par apstrādējautājums, izbraukšana reportbug --kudos.
+
+%
+Debian Padoms # 25: Ar "Debian atsauce" pakete ietver dažādasatsauces dokumenti Debian lietotājiem un izstrādātājiem. Lielākā daļa noinformāciju var atrast arī uz šādu URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Padoms # 26: Ja iepakojumam nav, šķiet, ir daudz dokumentācijas,pārbaudīt paketi ar nosaukumu "<kompleksiem> -doc" vai līdzīgu, un pārliecinieties, laiinstalējiet to, kā arī, iepakojumi ar lielu daudzumu dokumentācijasRegulāri sadalīt docs šādā veidā tiem, kuri nevēlasinstalēt tos.
+
+%
+Debian Padoms # 27: Regulāri pārbaudīt jūsu backups. Tu * ir * tur backups,pa labi? Pa labi? Ja nav, sākas ar darvu (1) vai dump (1).
+
+%
+Debian Padoms # 28: Ja ierīce ir ne uz visu laiku (piemēram,klēpjdators), izbraukšana "anacron" paketi; Tas nodrošinās, ka regulārauzdevumi joprojām notiek, pat tad, ja mašīna nav uz tajā laikā viņi vēlējāsparasti izraisa.
+
+%
+Debian Padoms # 29: Saglabājiet jūsu sistēmas pulksteni precīza - mašīnas, kas ir ieslēgtslielāko daļu vai visu laiku ir jābūt "NTP" paketi uzstādītas, lai saglabātu laikuprecīza starp reboots.
+
+%
+Debian Hint # 30: Dokumentācija var būt pieejami http: // localhost /uzstādot 'doc bāze "un" doc centrālajā "paketes un toatkarības.
+
+%
+Debian Padoms # 31: Atslēdz a normāli aktīvu pakalpojumu konkrētā darblīmenisjāveic, mainot saiti s /etc/rc<level>.d uz K saiti,nevis likvidēt saikni pilnībā; ja visas saites tiek noņemta,sistēma uzņemsies uz nākamo instalēt, ka tie ir jānomaina.
+
+%
+Debian Padoms # 32: Pakete "Doc-debian" satur daži vispārīgidokumentācija par Debian projektu. Tas ir pieejams arī spāņu(Doc-Debian-es), franču (doc-Debian-fr) un Ukrainas (doc-Debian-uk).
+
+%
+Debian Padoms # 33: Paketē "devscripts" satur dažas noderīgas skriptilietotājiem, kuri vēlas, lai palīdzētu uzlabot Debian, piemēram, wnpp-brīdinājums, rc-trauksmes un BTS.
+
+%
+Debian Padoms # 34: Ja jūs vēlaties, lai izsekotu Debian SID un ir mazs lejuplādētkvotas vai tiešām lēns savienojums, izbraukšana debdelta paketi.
+
+%
+Debian Padoms # 35: In meklējumos dažas spēles? Veikt apskatīt "goplay", kaspiedāvā jauku Frontend pārlūkojot visa veida spēles.
+
+%
+Debian Padoms # 36: Need jaunāku paketi nekā piegādāts ar Debian pēdējostabils release, bet nevēlaties, lai uzlabotu ar "testēšana" vai "nestabila"? dažipaketes tiek regulāri atjaunināta, izmantojot stabili-atjauninājumus suite, daži citi irpieejamam backports.debian.org.
+
+%
+Debian Padoms # 37: Vēlaties, lai lejupielādētu paketi neinstalējot to? lietošana"Spējas download <pkgname> '.
+
+%
+Debian Padoms # 38: Vēlaties zināt, kā jūs varat izmantot programmu, jūs nekad nav izmantotspirms? "Vīrietis" būs jūsu labākais jaunais draugs! Tips "cilvēks <programma-nosaukums>" Aapvalks. Vai, palaist "cilvēks -H <programma-nosaukums>" lasīt manuālo lapu pārlūkprogrammā.
+
+%
+Debian Padoms # 39: Uzlabot bash cilnes pabeidzis uzstādotbash-pabeigšanas pakete.
+
+%
+Debian Padoms # 40: Ja instalējat komandu-ne-atrasts paketi, mēģinotpalaist komandu jums nav instalēta jums pateiks, kāda pakete uzstādīt uziegūtu šo komandu.
+
+%
+Debian Padoms # 41: Jūs varat izmantot "apt-cache parādīt <pakotnes_nosaukums>" vai "zināšanu parādīt<Pakotnes_nosaukums> ", lai iegūtu vairāk informācijas par Debian paketi.
+
+%
+Debian Padoms # 42: Jūs varat izmantot "apt-failu saraksts <pakotnes_nosaukums>", lai iegūtu sarakstusatura debian paketi. Šī darbība ir līdzīga"Dpkg -L <pakotnes_nosaukums> 'izņemot iepakojumam nav nepieciešams uzstādīt vaifetched izmantojot apt-file pretstatā dpkg.
+
+%
+Debian Padoms # 43: Vēlaties, lai uz laiku atslēgt savu iptables ugunsmūri? lietošana"Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / ACCEPT /" | iptables-atjaunot ', lai novērstuvisi noteikumi un uzstādītu noklusēto politiku pieņemt.
+
+%

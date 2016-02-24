@@ -1,0 +1,129 @@
+Debian的提示＃44：您可以按照Identi.ca賬戶在Debian的Debian的在Identica http://identi.ca/debian更多信息，還可以http://wiki.debian.org/Teams/Publicity/Identica：在這裡找到Debian的提示＃1：你可以在一個包中的'reportbug的'命令報告錯誤，這是在reportbug包可用，無論​​是從命令行或與新的圖形前端（可運行“reportbug的--ui GTK2”或菜單）。
+
+%
+Debian的提示＃2：您可以使用“的dpkg-重新配置的<package>”來更改你給的問題答案問，當你第一次安裝軟件包。在“配置-debian的”包提供了一個統一的前端，這樣做，為好。
+
+%
+Debian的提示＃3：您可以使用'容易緩存搜索<詞>“或“性向搜索<詞>”搜索詞在所有的描述可用的軟件包。
+
+%
+Debian的提示＃4：你可以看到一個可用的和已安裝的版本或用命令“的apt-緩存策略<包>”更多可用的軟件包。
+
+%
+Debian的提示＃5：如果你需要建立一個定制的內核，使用'使用make-kpkg“腳本內核封裝包中找到。
+
+%
+Debian的提示＃6：沒有提示＃6。今天提交了一絲！
+
+%
+Debian的提示＃7：您可以使用cron-apt軟件包做夜間自動安裝在您的系統上的軟件包的更新下載。
+
+%
+Debian的提示＃8：如果你有問題，Debian的，你不能被解決閱讀手冊和文件，試著問Debian的用戶郵件列表（debian-user@lists.debian.org）。
+
+%
+Debian的提示＃9：如果你需要知道你是什麼版本的Debian目前運行時，看起來在/ etc / debian_version或使用'lsb_release -sc“命令。如果你想知道那個版本的開發代號（例如，5.0的開發代號是“萊尼”），檢查此網址：http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian的提示＃10：對於一切從用戶Debian的郵件列表問題的辯論在什麼投入Debian的政策文件。退房名單上http://www.debian.org/MailingLists/並訂閱那些你感興趣的。
+
+%
+Debian的提示＃11：保持及時了解這是怎麼回事 - 閱讀Debian項目新聞。閱讀它在網絡上的http://www.debian.org/News/weekly/
+
+%
+Debian的提示＃12：grep的-DCTRL軟件包提供了一些有用的腳本快速搜索各種封裝的控制文件（如可用包文件）。
+
+%
+Debian的提示＃13：如果你不喜歡一個Debian使用的默認選項包，你可以下載源，並建立它使用一個版本你喜歡的選項。見http://www.debian.org/doc/FAQ/ch-pkg_basics.html（第6.13和6.14），了解更多信息。但是，請記住，在大多數的包多數選項可以配置在運行時，並且不需要重新編譯該程序包。
+
+%
+Debian的提示＃14：如果你想跟著事情發生在一個包（例如，如果你想看到的錯誤報告，發布通知，等類似的事情），考慮訂閱它包裝上的追踪系​​統。你可以找到更多關於PTS在：http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian的提示＃15：一個包的文檔通常可以發現在/ usr /共享/ DOC / <包>。特別是，README.Debian所有常文件有關於Debian特有的怪癖或提示有用的信息。
+
+%
+Debian的提示＃16：如果你正在尋找一個特定的文件，但不知道它屬於哪個包，請嘗試安裝'的apt-文件'，即保持這些信息小型數據庫，或搜索Debian的內容打包數據庫，它可以在完成：http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian的提示＃17：需要找人傾訴關於Debian？如果你是舒服互聯網中繼聊天（IRC），只需安裝自己喜歡的IRC客戶端，加入#debian上irc.debian.org。
+
+%
+Debian的提示＃18：關於包的質量控制信息，可以發現轉到http://packages.qa.debian.org/~~V <包>;該頁面提供鏈接到維護者的QA頁面上，BTS，對於包裝新聞，和哪些信息版本所屬的存檔可用。
+
+%
+Debian的提示＃19：如果你有興趣在構建包從源代碼，你應該考慮安裝的apt-SRC包。
+
+%
+Debian的提示＃20：想跟踪你有什麼版本的一攬子安裝（尤其有用對於那些運行穩定的混合動力/測試/不穩定的系統）？檢查出的apt-show-versions的。
+
+%
+Debian的提示＃21：如果您的Debian盒子是網絡連接速度慢的背後，但你有機會獲得一快一為好，檢查出的apt-zip包。
+
+%
+Debian的提示＃22：正在為哪個Debian鏡像是最適合你？查看在apt-間諜和netselect-易包，可以給你的信息關於鏡像站點如何執行各種。
+
+%
+Debian的提示＃23：如果您的系統正在使用過多的磁盤空間，嘗試使用deborphan包;它可以提供建議，哪些軟件包可能是未使用的和可移動的。而且，當然，不要忘了清理掉APT緩存（使用'apt-get的乾淨“，”資質乾淨'，或性向的操作 - >清理包緩存菜單項）。
+
+%
+Debian的提示＃24：如果您想感謝維護者用於處理問題，請reportbug的--kudos。
+
+%
+Debian的提示＃25：有一個'debian-reference'軟件包包含了各種各樣的參考文件為Debian用戶和開發人員。大部分的信息也可以通過以下網址找到：http://www.debian.org/doc/manuals/reference
+
+%
+Debian的提示＃26：如果一個軟件包似乎並沒有那麼多的文檔，檢查名為包'<包> -doc“或類似，並確保安裝為好;含有大量文檔的軟件包經常以這種方式拆分的文檔對於那些不希望誰安裝它們。
+
+%
+Debian的提示＃27：定期檢查備份。 *您始終*堅持備份，對？對？如果不是，開始與焦油（1）或轉儲（1）。
+
+%
+Debian的提示＃28：如果你的機器是不是在所有的時間（如筆記本電腦），檢查出'anacron的“包;這將確保定期任務依然，即使機器不上他們所要的時間正常觸發。
+
+%
+Debian的提示＃29：保持您的系統時鐘精確的 - 這是開啟機大部分或所有的時間應具有“NTP”包裝，保持時間準確之間重新啟動。
+
+%
+Debian的提示＃30：可以在http提供文檔：//本地主機/通過安裝“DOC基”和“DOC-中央'包和它們的依賴。
+
+%
+Debian的提示＃31：在一個特定的運行​​級別禁用常主動服務應通過改變/etc/rc<level>.d在S鏈接到一個調用K鏈接來完成，而不是徹底消除了鏈接;如果所有的鏈接都去掉，系統將假定在下次安裝它們需要被替換。
+
+%
+Debian的提示＃32：包'中的doc-debian的'包含一些通用關於Debian項目文檔。它也提供西班牙語（DOC-的debian-ES），法語（DOC-的debian-FR）和烏克蘭（DOC-的debian-UK）。
+
+%
+Debian的提示＃33：包'devscripts中“包含了一些有用的腳本誰希望用戶能夠幫助改善Debian的，例如的wnpp警報，RC-警報和BTS。
+
+%
+Debian的提示＃34：如果你想跟踪Debian的SID和有一個小下載配額或很慢的連接，檢查出debdelta包。
+
+%
+Debian的提示＃35：在搜索一些遊戲？看看'goplay'，這提供了通過所有類型的遊戲瀏覽一個漂亮的前端。
+
+%
+Debian的提示＃36：比Debian自帶的最後需要一個新的包穩定版本，但不希望升級到“測試”或“不穩定”？一些包通過穩定的更新功能套件跟上最新的，有些則是在backports.debian.org提供。
+
+%
+Debian的提示＃37：希望下載一個包而不安裝呢？使用“性向下載<程序包>”。
+
+%
+Debian的提示＃38：想知道如何使用一個程序，你從來沒用過之前？ “人”將是您最好的新朋友！在類型“人<程序名>”殼。或者，運行“男人-H <程序名>”在瀏覽器中閱讀手冊頁。
+
+%
+Debian的提示＃39：通過安裝的bash提高的製表完成的bash-completion軟件包。
+
+%
+Debian的提示＃40：如果您安裝了命令未找到包，試圖跑你沒有安裝會告訴你什麼包安裝到命令獲得該命令。
+
+%
+Debian的提示＃41：您可以使用'的apt-cache顯示<軟件包名稱>“或”表演天賦<軟件包名稱>“，以獲取有關Debian軟件包的更多信息。
+
+%
+Debian的提示＃42：您可以使用“易文件列表<軟件包名稱>”，以獲得上市的Debian軟件包的內容。這個動作是類似“的dpkg -L <軟件包名稱>”，除了包不需要安裝或獲取使用apt-文件對比的dpkg。
+
+%
+Debian的提示＃43：要暫時禁用iptables防火牆？使用“iptables-save命令| SED“/  -  / D; / ^＃/ D; S /刪除/接受/”| iptables的-恢復'來刪除所有規則和設置默認策略為接受。
+
+%

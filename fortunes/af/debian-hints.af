@@ -1,0 +1,129 @@
+Debian Wenk # 1: Jy kan 'n fout raporteer in 'n pakket met die opdrag 'reportbug,wat beskikbaar is in die reportbug pakket, óf vanaf die command-line ofmet die nuwe grafiese frontend (beskikbaar hardloop 'reportbug --ui gtk2' of indie spyskaart).
+
+%
+Debian Wenk # 2: Jy kan gebruik 'dpkg-funksionaliteit <pakket>' na die veranderingantwoorde wat jy gegee het om die vrae wat gevra word wanneer jy die eerste keer 'n pakket geïnstalleer.Die "Konfigureer-Debian pakket bied 'n verenigde front-end vir dit te doen,ook.
+
+%
+Debian Wenk # 3: Jy kan gebruik óf 'apt-kas soek <woorde>' of'Aanleg soek <woorde>' te soek na woorde in die beskrywings van allebeskikbare pakkette.
+
+%
+Debian Wenk # 4: Jy kan die beskikbare en geïnstalleer weergawes vir een sienof meer beskikbare pakkette met die opdrag 'apt-kas beleid <pakkette>'.
+
+%
+Debian Wenk # 5: As jy nodig het om 'n persoonlike kern bou, gebruik die "make-kpkg 'script gevind in die kern-pakket pakket.
+
+%
+Debian Wenk # 6: Daar is geen aanduiding # 6. Voorlê vandag 'n wenk!
+
+%
+Debian Wenk # 7: Jy kan die cron-bekwaam pakket te gebruik om outomatiese nag doendownloads van updates vir pakkette op jou stelsel geïnstalleer.
+
+%
+Debian Wenk # 8: As jy probleme met Debian dat jy nie kan oplos deurlees die handleidings en dokumentasie, probeer vra op die Debian Gebruikersposlys (debian-user@lists.debian.org).
+
+%
+Debian Wenk # 9: As jy nodig het om te weet watter weergawe van Debian jy tanshardloop, kyk in / etc / debian_version of gebruik 'lsb_release -sc 'n opdrag. As jywil die kodenaam vir daardie weergawe (byvoorbeeld weet, 5.0 is kodenaam'Lenny'), bevestig Hierdie URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Wenk # 10: Daar is Debian poslyste vir alles van gebruikervrae om debatte oor watter in die Debian Beleidsdokumente te sit.Check uit die lys op http://www.debian.org/MailingLists/ en skryf aandiegene wat jou interesseer.
+
+%
+Debian Wenk # 11: Bly op hoogte van wat aangaan - lees die DebianProjek Nuus. Lees dit op die web by http://www.debian.org/News/weekly/
+
+%
+Debian Wenk # 12: Die grep-dctrl pakket bied 'n aantal nuttige skriftevir vinnig soek verskeie pakket beheer lêers (soos die beskikbarepakkette lêer).
+
+%
+Debian Wenk # 13: As jy nie hou van die standaard opsies wat in 'n Debianpakket, kan jy die bron af te laai en 'n weergawe wat die gebruik te bouopsies wat jy verkies. sien http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Afdelings 6.13 en 6.14) vir meer inligting.Hou egter in gedagte gehou word dat die meeste opsies in die meeste pakkette kan gekonfigureertydens looptyd, en vereis nie hercompileren die pakket.
+
+%
+Debian Wenk # 14: As jy wil dinge gebeur om 'n pakket te volg(Byvoorbeeld, as jy wil fout verslae te sien, vry te stel kennisgewings en andersoortgelyke dinge) Skryf jy dit op die verpakking Tredhousisteem.Jy kan vind meer uit oor die PTS by:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Wenk # 15: Die dokumentasie vir 'n pakket kan gewoonlik gevind wordonder / usr / share / doc / <pakket>. In die besonder, die README.Debian lêer dikwelshet nuttige inligting oor Debian-spesifieke eienaardighede of wenke.
+
+%
+Debian Wenk # 16: As jy op soek is na 'n spesifieke lêer, maar weet niewatter pakket dit behoort aan, probeer die installering van 'apt-lêer, wat hou 'nklein databasis van hierdie inligting, of soek die inhoud van die DebianPakkette databasis, wat kan gedoen word by:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Wenk # 17: het iemand nodig om te praat oor Debian? As jy gemaklik ismet Internet Relay Chat (IRC), net installeer jou gunsteling IRC-kliënt, ensluit #debian op irc.debian.org.
+
+%
+Debian Wenk # 18: Kwaliteit beheer inligting oor 'n pakket kan gevinddeur te gaan na http://packages.qa.debian.org/~~V <pakket>; hierdie bladsy biedskakels na die onderhouer se QA bladsy, die BTS, nuusitems vir die pakket, eninligting oor wat weergawes is beskikbaar waarin argiewe.
+
+%
+Debian Wenk # 19: As jy belangstel in die bou van pakkette is van die oorsaak, jymoet oorweeg om die installering van die apt-src pakket.
+
+%
+Debian Wenk # 20: Wil om tred te hou van watter weergawe van 'n pakket wat jy het hougeïnstalleer (veral nuttig vir diegene hardloop baster stabiel / toets /onstabiele sisteme)? Kyk bietjie na apt-show-weergawes.
+
+%
+Debian Wenk # 21: As jou Debian boks is agter 'n baie stadige netwerk verbinding,maar jy het toegang tot 'n vinnige een so goed, check die apt-zip pakket.
+
+%
+Debian Wenk # 22: Wonder wat Debian spieël is die beste vir jou? Uittekendie apt-spioen en netselect-bekwaam pakkette wat jy inligting kan geeoor hoe verskillende spieël webwerwe uit te voer.
+
+%
+Debian Wenk # 23: As jou stelsel gebruik te veel spasie op die hardeskyf, probeer diedeborphan pakket; Dit kan voorstelle aan te bied oor wat pakkette kan weesongebruikte en verwissel. En, natuurlik, moenie vergeet om skoon te maak dieAPT kas gebied (met behulp van 'apt-get skoon "," aanleg skoon', ofAksie aanleg se -> Skoon pakket kas menu-item).
+
+%
+Debian Wenk # 24: As jy wil graag 'n onderhouer dankie vir die hantering van 'nkwessie, check reportbug --kudos.
+
+%
+Debian Wenk # 25: Die 'Debian-verwysing "pakket bevat 'n wye verskeidenheidverwysingsraamwerk dokumente vir Debian gebruikers en ontwikkelaars. Meeste van dieinligting kan ook gevind word by die volgende skakel:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Wenk # 26: As 'n pakket lyk nie veel dokumentasie,kyk vir 'n pakket met die naam "<pakket> -doc 'of 'n soortgelyke en maak seker dat jyinstalleer dit so goed; pakkette met groot hoeveelhede dokumentasiegereeld verdeel die dokumente op hierdie wyse vir diegene wat nie wil hê ominstalleer hulle.
+
+%
+Debian Wenk # 27: gereeld kontroleer jou rugsteun. Jou * is * hou rugsteun,reg? Reg? Indien nie, begin met teer (1) of stort (1).
+
+%
+Debian Wenk # 28: As jou rekenaar is nie op al die tyd (soos 'nlaptop), check die "anacron 'n pakket; Dit sal verseker dat gereeldetake steeds gebeur, selfs al is die masjien is nie op teen die tyd wat hulle sougewoonlik veroorsaak.
+
+%
+Debian Wenk # 29: Hou jou stelsel klok akkurate - Masjiene wat aangeskakeldie meeste of al die tyd moet die "NTP 'n pakket geïnstalleer om die tyd te houakkurate tussen herselflaai.
+
+%
+Debian Wenk # 30: Dokumentasie beskikbaar gestel kan word by http: // localhost /deur die installering van die "doc-basis" en "doc-sentrale 'pakkette en hulafhanklikhede.
+
+%
+Debian Wenk # 31: Versper n normaalweg-aktiewe diens in 'n spesifieke runlevelmoet gedoen word deur die verandering van die S skakel in /etc/rc<level>.d 'n K skakel,eerder as die verwydering van die skakel heeltemal; As al die skakels is verwyder, diestelsel sal aanvaar op die volgende te installeer wat hulle nodig het om te vervang.
+
+%
+Debian Wenk # 32: Die pakket 'doc-po' bevat 'n paar algemenedokumentasie oor die Debian-projek. Dit is ook beskikbaar in Spaans(Doc-po-es), Frans (doc-po-fr) en Oekraïens (doc-po-UK).
+
+%
+Debian Wenk # 33: Die pakket 'devscripts' bevat 'n paar nuttige skrifte virgebruikers wat wil help om Debian verbeter, bv wnpp-waarskuwing, RC-waarskuwing en BTS.
+
+%
+Debian Wenk # 34: As jy wil Debian SID spoor en 'n klein aflaaikwota of 'n baie stadige konneksie, check die debdelta pakket.
+
+%
+Debian Wenk # 35: Op soek na 'n paar wedstryde? Neem 'n blik op 'goplay', watbied 'n mooi frontend vir blaai deur al die soort van speletjies.
+
+%
+Debian Wenk # 36: Het jy 'n nuwer pakket as verskeep met Debian se laastestabiele weergawe, maar wil nie op te gradeer na 'toets' of 'n onstabiele? sommigepakkette via die stabiele-updates suite up-to-date gehou, 'n paar ander isbeskikbaar gestel aan backports.debian.org.
+
+%
+Debian Wenk # 37: Wil jy 'n pakket te laai sonder die installering van dit? Gebruik'Aanleg aflaai <pkgname>'.
+
+%
+Debian Wenk # 38: Wil jy weet hoe jy 'n program kan gebruik jy nog nooit gebruikvoor? "Man" sal jou beste nuwe vriend wees! Tipe "man <program-naam>" in 'ndop. Of, hardloop "man -H <program-naam>" om die handleiding bladsy lees in 'n leser.
+
+%
+Debian Wenk # 39: Verbeter bash se blad-voltooiing deur die installering van diebash-voltooiing pakket.
+
+%
+Debian Wenk # 40: As jy die opdrag nie-gevind pakket te installeer, 'n poging omhardloop 'n opdrag wat jy nie het geïnstalleer sal jou vertel watter pakket te installeer omverkry wat opdrag.
+
+%
+Debian Wenk # 41: Jy kan gebruik 'n gepaste-kas show <PAKKET_NAAM> 'of' aanleg show<PAKKET_NAAM> 'om meer inligting oor 'n Debian pakket kry.
+
+%
+Debian Wenk # 42: Jy kan gebruik 'n gepaste-lêer lys <PAKKET_NAAM> 'n lys te kryvan die inhoud van Debian pakket. Hierdie aksie is soortgelyk aan'Dpkg-L <PAKKET_NAAM>' behalwe die pakket nie geïnstalleer moet word ofvergesog behulp apt-lêer in teenstelling met dpkg.
+
+%
+Debian Wenk # 43: Wil jy jou Firewall tydelik versper? Gebruik'Iptables-red | sed "/ - / d; / ^ # / d; e / DROP / AANVAAR /" | iptables-herstel 'te verwyderal die reëls en stel die verstek beleid te aanvaar.
+
+%

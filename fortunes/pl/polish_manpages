@@ -1,0 +1,62 @@
+Jeśli terminal potrafi nadstukiwać znaki, to ul degeneruje do zwykłego
+cat(1).
+						-- ul (1)
+%
+whereis usiłuje zlokalizować położenie	żądanego  programu
+posługując się listą standardowych miejsc Linuksowych.
+						-- whereis (1)
+%
+Jedy yo livxbs prób pętli, która próbuje wysłać znak  na  drukarkę.
+						-- tunelp (8)
+%
+Połączenie zamknięte przy 50896 bajcie. Poddawanie się.
+						-- wget
+%
+The  rcfile  can  contain a mixture of environment variable assignments
+				   =
+Plik rc  może  zawierać  miksturę  przypisań  zmiennych  środowiskowych
+						-- procmailrc (5)
+%
+Nakarm potok ciałem (domyślne).
+						-- procmailrc (5)
+%
+Czekaj	na  zakończenie  filtru lub programu i sprawdź kod wyjścia
+(normalnie ignorowany); jeśli filtr nie miał szczęścia, tekst  nie
+będzie filtrowany.
+						-- procmailrc (5)
+%
+szukanie dobiło KOŃCA; kontynuacja od GÓRY
+						-- vim
+%
+Wykryto błąd podczas przetwarzania /usr/share/vim/vim61/scripts.vim:
+wiersz  250:
+E361: Odchwycono załamanie; regexp zbyt skomplikowane?
+						-- vim
+%
+ENOMEM
+    Brak pamięci jądrowej.
+						-- link (2) [historyczne]
+%
+Jeśli fork()'ujesz bez czekania na dzieci, zbierzesz zombies.
+						-- perlfunc (1)
+%
+Zobacz też stronę podręcznika perlipc(1). Są tam dalsze przykłady
+forkowania i zbierania konających dzieci.
+						-- perlfunc (1)
+%
+Robi dokładnie to samo, co "exec LISTA", poza tym, że dokonuje
+przed tym forka i proces rodzicielski czeka, aż dziecko dokona
+żywota.
+						-- perlfunc (1)
+%
+Określa tryb kumulacyjny, gdzie każdy  proces  jest  wypisywany  z
+czasem  CPU,  który  spożytkowanym  przez  niego  oraz jego martwe
+dzieci.
+						-- top (1)
+%
+	fork - utwórzenie procesu potomny
+						-- fork (2)
+%
+Argumenty  są  namiętnie drukowane w formie symbolicznej.
+						-- strace (1)
+%

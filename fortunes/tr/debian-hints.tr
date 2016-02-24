@@ -1,0 +1,129 @@
+Debian İpucu # 44: En Debian için Identi.ca hesabını takip edebilirsinizIdentica de Debian http://identi.ca/debian daha fazla bilgi de olabilirhttp://wiki.debian.org/Teams/Publicity/Identica: bulunabilirDebian İpucu # 1: 'reportbug' komutu ile bir paket içinde bir hatayı bildirmek için,hangi bildirebilirsiniz mevcuttur ya komut satırından ya daçalışan mevcut yeni grafik önyüzü ile (ya da '--ui GTK2 reportbug'Menü).
+
+%
+Debian İpucu # 2: değiştirmek Sen dpkg-reconfigure <paket> 'kullanabilirsinizİlk kez bir paket kurduğunuzda sorulara verdiği cevaplar istedi.'Configure-debian' paketi, bu iş için birleşik bir cephe sonu sağlarde.
+
+%
+Debian İpucu # 3: kullanabilirsiniz ya 'apt-cache search <kelimeleri>' ya'Yetenek arama <kelimeleri>' tüm açıklamalarında kelimeleri aramak içinMevcut paketler.
+
+%
+Debian İpucu # 4: Bir kullanılabilir ve yüklü sürümlerini görebilirsinizveya komut 'apt-cache politikası <paketleri>' ile daha fazla kullanılabilir paketler.
+
+%
+Debian İpucu # 5: Özel bir çekirdek oluşturmak gerekiyorsa, 'make-kpkg kullanabilirsinizÇekirdek paket paketinde bulunan komut.
+
+%
+Debian İpucu # 6: hiçbir ipucu 6. yoktur. Neden bir tane göndermiyorsunuz!
+
+%
+Debian İpucu # 7: Otomatik Nightly yapmak için cron-apt paketini kullanabilirSisteminizde yüklü paketler için güncellemeleri indirir.
+
+%
+Debian İpucu # 8: Size tarafından çözemediği Debian ile ilgili sorunlar varsakılavuzları ve belgeleri okuma, Debian Kullanıcıları sormanıze-posta listesi (debian-user@lists.debian.org).
+
+%
+Debian İpucu # 9: Eğer şu anda konum Debian sürümünü bilmek gerekirçalışan, / etc / debian_version bakmak ya da 'lsb_release -sc' komutunu kullanın. Eğer senÖrneğin bu sürümü için kod adı (bilmek istiyorum, 5.0 kod adlı'Lenny'), bu URL'yi kontrol edin:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian İpucu # 10: kullanıcıdan her şey için Debian mail listeleri vardırDebian Politikası belgelere koymak ne üzerinde tartışmalar sorular.http://www.debian.org/MailingLists/ listeye göz atın ve aboneİlginizi o.
+
+%
+Debian İpucu # 11: neler oluyor güncel tutun - Debian okumakProje Haberleri. http://www.debian.org/News/weekly/ adresindeki web oku
+
+%
+Debian İpucu # 12: grep-dctrl paket kullanışlı komut dosyaları bir dizi sağlarhızlı bir şekilde hazır olarak (çeşitli paket denetim dosyaları aramak içinpaketler) dosyası.
+
+%
+Debian İpucu # 13: Bir Debian kullanılan varsayılan seçenekleri beğenmezsenizpaket, paketin kaynağını indirip kullanan bir sürümünü inşa edebilirsinizseçenekler tercih ederim. http://www.debian.org/doc/FAQ/ch-pkg_basics.html bakınDaha fazla bilgi için (bölümler 6.13 ve 6.14).Ancak, akılda tutmak çoğu paketlerinde en seçenekleri konfigüre edilebilirzamanında ve paket recompiling gerekmez.
+
+%
+Debian İpucu # 14: Bir pakete oluyor şeyleri takip etmek isterseniz(Örneğin, sen, hata raporları görmek bildirimleri serbest bırakmak istiyorsanız ve başkabenzer şeyler), Paket Takip Sisteminde üye olmayı düşünün.PTS hakkında daha fazla bilgi bulabilirsiniz:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian İpucu # 15: Bir paketin belgelendirmesi bulunabilir/ Usr / share / doc / <paketin> altında. Özellikle, README.Debian sık sık dosyaDebian özgü tuhaflıklar ya da ipuçları hakkında yararlı bilgiler vardır.
+
+%
+Debian İpucu # 16: Belirli bir dosyayı arıyorsanız, ancak bilmiyorsanızhangi paketi bir tutar olan 'apt-file' yüklemeyi deneyin aittirBu küçük bilgi veritabanı veya Debian içeriğini aramayapılabilir veritabanı, Paketler:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian İpucu # 17: Debian hakkında konuşacak birini mi ihtiyacınız var? Eğer rahat değilsenizInternet Relay Chat (IRC) ile, en sevdiğiniz IRC istemcisi yüklemek veirc.debian.org üzerinde #debian katılın.
+
+%
+Debian İpucu # 18: Bir paket hakkındaki kalite kontrol bilgileri bulabilirsiniz<Paket> http://packages.qa.debian.org/~~V giderek; Bu sayfayı sağlarGüncelleyicisinin QA sayfasına bağlantılar, BTS, paket için haber vebilgi hangi versiyonları hangi arşivleri mevcuttur.
+
+%
+Debian İpucu # 19: Kaynaklardan paket ilgileniyorsanız, sizeapt-src paketini yüklemeyi düşünmelisiniz.
+
+%
+Debian İpucu # 20: Sahip olduğunuz bir paketin hangi sürümünü izlemek istiyorHibrid kararlı / test çalışan kişiler için özellikle yararlıdır (yüklü /kararsız sistemleri)? apt-show-sürümlerini göz atın.
+
+%
+Debian İpucu # 21: Debian kutu yavaş bir ağ bağlantısı arkasında ise,ancak, aynı zamanda hızlı birine erişimi olan apt-zip paketi kontrol edin.
+
+%
+Debian İpucu # 22: Hangi Debian ayna merak sizin için en iyisidir? Çıkış yapmaksize bilgi verebilir apt-spy ve netselect-apt paketler,nasıl çeşitli yansı sitelerinin ilgili.
+
+%
+Debian İpucu # 23: Sistem çok fazla disk alanı kullanıyorsa, deneyinpaket deborphan; hangi paketler olabilir o öneri sunabilirKullanılmayan ve çıkarılabilir. Ve tabii ki, temizlemek için unutmaAPT önbellek alanı ( 'temiz yetenek', 'temiz apt-get' kullanarak veyayetenek Eylem -> Temiz paket önbellek menü öğesi).
+
+%
+Debian İpucu # 24: Bir hallettiği için bir bakımcıya teşekkür etmek istersenizSorun, reportbug --kudos göz atın.
+
+%
+Debian İpucu # 25: 'debian-referans' paketi geniş bir çeşitlilik içerirDebian kullanıcıları ve geliştiricileri için referans belgeleri. Çoğubilgiler de şu URL'de bulunabilir:http://www.debian.org/doc/manuals/reference
+
+%
+Debian İpucu # 26: Bir paket çok belgelere sahip görünmüyor ise,Bir paket adında '<paket> -doc' veya benzer kontrol ve emin olunyanı sıra yüklemek; Belgelerin büyük miktarda paketleridüzenli istemiyorum olanlar için bu şekilde dokümanlar bölünmüşbunları yükleyin.
+
+%
+Debian İpucu # 27: Düzenli yedeklemeler doğrulayın. Sen *, yedekleme tutuyor *doğru? Doğru? , Katran ile başlar değilse (1) veya döküm (1).
+
+%
+Debian İpucu # 28: makine gibi bir gibi zaman tüm (açık değilse) Dizüstü bilgisayar, 'anacron' paketine göz atın; Bu düzenli emin olacaktırgörevleri hala makine yaparlardı anda olmasa bile, nenormal tetikler.
+
+%
+Debian İpucu # 29: sistem saatinin doğru tutun - açılır Makineleriçoğu veya tüm zaman zaman tutmak için yüklü pakete sahip olmalıdıryeniden doğmuş arasında doğru.
+
+%
+Debian 30. İpucu: Belgeler http kullanılabilir hale getirilebilir: // localhost /'Doc-taban' ve 'doc-merkez' paketleri ve yükleyerek onlarınbağımlılıklar.
+
+%
+Debian İpucu # 31: Belirli bir çalışma seviyesinde normalde aktif hizmetini devre dışı bırakınK bağlantı /etc/rc<level>.d S bağlantısını değiştirerek yapılmalıdır,yerine tamamen bağlantıyı kaldırarak daha; tüm linkler kaldırılır eğer,Sistem değiştirilmeleri gerektiğini yüklemek yanındaki üstlenecek.
+
+%
+Debian İpucu # 32: paket 'doc-debian' bazı genel içeriyorDebian projesi hakkında belgeler. Bu İspanyolca da mevcuttur(Doc-debian-es), Fransızca (doc-debian-fr) ve Ukrayna (doc-debian-uk).
+
+%
+Debian İpucu # 33: paket 'devscripts' için bazı yararlı komut içeriyoristeyen kullanıcılar, örneğin Debian geliştirmeye yardımcı olmak için wnpp-uyarı, rc-uyanık ve bts.
+
+%
+Debian İpucu # 34: Debian sid izlemek istediğiniz ve küçük bir indirme varsakota ya da gerçekten yavaş bağlantı, debdelta paketi kontrol edin.
+
+%
+Debian İpucu # 35: bazı oyunlar için arama? 'GoPlay' bir göz atın hangioyunların her türlü gezinildikten için güzel bir önyüz sunmaktadır.
+
+%
+Debian İpucu # 36: Debian son sevk daha yeni bir paket Needkararlı sürüm, ancak 'test' ya da 'kararsız' yükseltmek istemiyorum? Bazıpaketler kararlı-güncellemeler paketi yoluyla up-to-date tutulur, bazıları şunlardırbackports.debian.org hazır bulundurulmaktadır.
+
+%
+Debian İpucu # 37: kurmadan bir paketi indirmek ister misiniz? kullanım'Yetenek indir <pkgname>'.
+
+%
+Debian İpucu # 38: Bir program nasıl kullanabileceğinizi öğrenmek ister sen hiç kullanmamışönce? "Adam" en iyi yeni arkadaş olacak! Bir de "man <program adı>"kabuk. Ya da, run "adam H <program adı>" bir tarayıcıda manuel sayfayı okumak için.
+
+%
+Debian İpucu # 39: yükleyerek Bash'in sekme tamamlama geliştirinBash tamamlama paketi.
+
+%
+Debian İpucu # 40: teşebbüs, komut-bulunamadı paketini yüklersenizne paketini yüklemek için size söyleyecektir yüklü olmayan bir komutu çalıştırmakBu komutu edinin.
+
+%
+Debian İpucu # 41: kullanabilirsiniz 'apt-cache show <paket_ismi>' veya 'yetenek gösterisi<Package_name> 'Debian paketi hakkında daha fazla bilgi almak için.
+
+%
+Debian İpucu # 42: Sen 'apt-file list <paket_ismi>' bir liste elde etmek için kullanabilirsinizdebian paket içeriğinin. Bu işlem benzer'Dpkg -L <paket_ismi>' paketi yüklü olması gerekmez dışında veyadpkg aksine getirilen kullanarak apt-file.
+
+%
+Debian İpucu # 43: geçici olarak iptables güvenlik duvarı devre dışı ister misiniz? kullanım'Iptables-save | sed "/ - / d; / ^ # / d; s / DAMLA / KABUL /" | kaldırmak için 'iptables-restoretüm kuralları KABUL varsayılan ilkesini ayarlamak ve.
+
+%

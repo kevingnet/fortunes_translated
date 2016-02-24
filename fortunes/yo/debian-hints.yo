@@ -1,0 +1,129 @@
+Debian Ofiri # 44: O le tẹle awọn Identi.ca iroyin fun Debian nihttp://identi.ca/debian Die alaye ti Debian ni Identica tun leri ni: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Ofiri # 1: O le jabo a kokoro ni a package pẹlu awọn 'reportbug' pipaṣẹ,eyi ti o jẹ wa ni reportbug package, boya lati awọn aṣẹ-ila tabipẹlu awọn titun ayaworan frontend (wa nṣiṣẹ 'reportbug --ui gtk2' tabi niawọn akojọ).
+
+%
+Debian Ofiri # 2: O le lo 'dpkg-reconfigure <package>' lati yi awọnidahun ti o ti fi fun awọn ibeere beere nigba ti o ba akọkọ ti fi sori ẹrọ a package.The 'atunto-Debian' package pese a ti iṣọkan iwaju opin fun ṣe yi,bi daradara.
+
+%
+Debian Ofiri # 3: O le lo boya 'gbon-kaṣe search <ọrọ>' tabi'Ìwádìí search <ọrọ>' lati wa fun awọn ọrọ ninu awọn apejuwe ti gbogbo awọnwa jo.
+
+%
+Debian Ofiri # 4: O le wo awọn wa fi sori ẹrọ ati awọn ẹya fun ọkantabi diẹ ẹ sii wa jo pẹlu awọn pipaṣẹ 'gbon-kaṣe eto imulo <jo>'.
+
+%
+Debian Ofiri # 5: Ti o ba nilo lati kọ kan aṣa ekuro, lo awọn 'ṣe-kpkg'akosile ri ni awọn ekuro-package package.
+
+%
+Debian Ofiri # 6: Nibẹ ni ko si ofiri # 6. Fi kan ofiri loni!
+
+%
+Debian Ofiri # 7: O le lo awọn cron-gbon package lati se laifọwọyi nightlygbigba lati ayelujara ti awọn imudojuiwọn fun won jo ti fi sori ẹrọ lori eto rẹ.
+
+%
+Debian Ofiri # 8: Ti o ba ni awọn išoro pẹlu Debian ti o ko ba le yanju nipakika awọn Manuali ati iwe, gbiyanju béèrè lori Debian olumuloifiweranṣẹ akojọ (debian-user@lists.debian.org).
+
+%
+Debian Ofiri # 9: Ti o ba nilo lati mọ ohun ti version of Debian ti o ba Lọwọlọwọnṣiṣẹ, wo ni / ati be be / debian_version tabi lo 'lsb_release -sc' pipaṣẹ. Ti o bafẹ lati mọ awọn codename fun awọn ti o ti ikede (fun apẹẹrẹ, 5.0 ti wa ni codenamed'Lenny'), ṣayẹwo yi URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Ofiri # 10: Nibẹ ni o wa Debian ifiweranṣẹ awọn akojọ fun ohun gbogbo lati olumuloibeere to pewon lori ohun ti lati fi sinu Debian Afihan iwe aṣẹ.Ṣayẹwo jade awọn akojọ ni http://www.debian.org/MailingLists/ ki o si alabapin siawon ti o anfani ti o.
+
+%
+Debian Ofiri # 11: Jeki soke lati ọjọ lori ohun ti n lọ lori - ka DebianProject News. Ka o lori ayelujara ni http://www.debian.org/News/weekly/
+
+%
+Debian Ofiri # 12: The grep-dctrl package pese nọmba kan ti wulo awọn iwe afọwọkọfun ni kiakia wiwa orisirisi package iṣakoso awọn faili (bi awọn wajo faili).
+
+%
+Debian Ofiri # 13: Ti o ko ba fẹ awọn aiyipada awọn aṣayan lo ni a Debianpackage, o le gba awọn orisun ki o si kọ a ti ikede eyi ti o nlo awọnawọn aṣayan ti o fẹ. Wo http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Ruju 6.13 ati 6.14) fun alaye siwaju sii.Sibẹsibẹ, agbateru ni lokan pe julọ awọn aṣayan ninu ọpọlọpọ awọn won jo le wa ni tuntoni asiko isise, ki o si ma ko beere recompiling awọn package.
+
+%
+Debian Ofiri # 14: Ti o ba yoo fẹ lati tẹle ohun ti ṣẹlẹ to a package(Fun apẹẹrẹ, ti o ba ti o ba fẹ lati ri kokoro iroyin, tu àkíyèsí, ati awọn miiraniru ohun), ro ṣiṣe alabapin to o lori awọn Package Àtòjọ System.O le wa jade siwaju sii nipa awọn PTS ni:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Ofiri # 15: The iwe fun a package le se rilabẹ / usr / pin / doc / <package>. Ni pato, awọn README.Debian faili igbani o ni wulo alaye nipa Debian-kan pato quirks tabi awọn italolobo.
+
+%
+Debian Ofiri # 16: Ti o ba wiwa fun a pato faili, sugbon ko moeyi ti package ti o je ti si, gbiyanju fifi 'gbon-faili', eyi ti ntẹnumọ akekere database ti alaye yi, tabi wa awọn akoonu ti ti DebianWon jo database, eyi ti o le ṣee ṣe ni:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Ofiri # 17: Nilo ẹnikan lati sọrọ si nipa Debian? Ti o ba iturapẹlu Internet Relay Chat (IRC), o kan fi ayanfẹ rẹ IRC ni ose, ki o sida #debian on irc.debian.org.
+
+%
+Debian Ofiri # 18: Quality Iṣakoso alaye nipa a package le rinipa lilọ si http://packages.qa.debian.org/ <package>; iwe yi peseìjápọ si awọn Maintainer ká QA iwe, awọn BTS, awọn iroyin awọn ohun fun awọn package, ki o sialaye lori eyi ti awọn ẹya wa o si wa ninu eyi ti pamosi.
+
+%
+Debian Ofiri # 19: Ti o ba nife ninu ile won jo lati orisun, oyẹ ki o ro fifi awọn gbon-src package.
+
+%
+Debian Ofiri # 20: Fẹ lati tọju abala awọn ohun ti version of a package ti o nifi sori ẹrọ (paapa wulo fun awon nṣiṣẹ arabara idurosinsin / HIV /riru awọn ọna šiše)? Ṣayẹwo jade gbon-show-ẹya.
+
+%
+Debian Ofiri # 21: Ti o ba ti Debian apoti jẹ sile a lọra asopọ nẹtiwọki,sugbon o ni wiwọle si a yara kan bi daradara, ṣayẹwo jade awọn gbon-zip package.
+
+%
+Debian Ofiri # 22: Iyalẹnu eyi ti Debian digi ti o dara ju fun o? Ṣayẹwoawọn gbon-Ami ati netselect-gbon jo, eyi ti o le fun o alayenipa bi orisirisi digi ojula ṣe.
+
+%
+Debian Ofiri # 23: Ti o ba ti eto ti wa ni lilo ju Elo disk aaye, gbiyanju awọndeborphan package; o le pese awọn didaba nipa eyi ti ko won jo le jẹajeku ati yiyọ. Ati, dajudaju, ko ba gbagbe lati nu jade niGbon kaṣe agbegbe (lilo 'gbon-gba o mọ', 'ìwádìí mọ', tabiìwádìí ká Action -> Mọ package kaṣe ohun akojọ).
+
+%
+Debian Ofiri # 24: Ti o ba yoo fẹ lati dúpẹ a maintainer fun mimu ohunoro, ṣayẹwo jade reportbug --kudos.
+
+%
+Debian Ofiri # 25: The 'Debian-itọkasi' package ni kan jakejado orisirisiti itọkasi awọn iwe aṣẹ fun Debian awọn olumulo ati kóòdù. Ọpọlọpọ ninu awọnalaye le tun ti wa ni ri ni awọn wọnyi URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Ofiri # 26: Ti o ba a package ko dabi lati ni Elo iwe,ṣayẹwo fun awọn a package ti a npè ni '<package> -doc' tabi iru ki o si rii daju latifi o bi daradara; jo pẹlu tobi oye ti iwedeede pipin docs ni ona yi fun awon ti ko ba fẹ latifi sori ẹrọ wọn.
+
+%
+Debian Ofiri # 27: Deede mọ daju rẹ backups. Ti o ti wa ni * * fifi backups,ọtun? Ọtun? Ti o ba ti ko, bẹrẹ pẹlu oda (1) tabi WASTE (1).
+
+%
+Debian Ofiri # 28: Ti o ba ti ẹrọ ni ko lori gbogbo awọn ti awọn akoko (bi alaptop), ṣayẹwo jade ni 'anacron' package; yi yoo rii daju wipe deedeawọn iṣẹ-ṣiṣe si tun ṣẹlẹ, paapa ti o ba awọn ẹrọ ni ko lori ni awọn akoko ti won yoodeede ma nfa.
+
+%
+Debian Ofiri # 29: Jeki rẹ eto aago deede - Machines ti o ti wa ni titanjulọ ​​tabi gbogbo awọn ti awọn akoko yẹ ki o ni awọn 'ntp' package ti fi sori ẹrọ lati pa awọn akokodeede ni laarin reboots.
+
+%
+Debian Ofiri # 30: Documentation le ṣee ṣe wa ni http: // localhost /nipa fifi awọn 'doc-mimọ' ati 'doc-aringbungbun' jo ati awọn wondependencies.
+
+%
+Debian Ofiri # 31: Disabling a deede-lọwọ iṣẹ ni a pato runlevelyẹ ki o wa ṣe nipa yiyipada awọn S asopọ ni /etc/rc<level>.d to a K ọna asopọ,dipo ju yọ awọn ọna asopọ šee igbọkanle; ti o ba ti gbogbo awọn ìjápọ ti wa ni kuro, awọneto yoo ro lori awọn tókàn fi sori ẹrọ ti won nilo lati paarọ rẹ.
+
+%
+Debian Ofiri # 32: The package 'doc-Debian' ni diẹ ninu awọn gbogboogboiwe nipa awọn Debian ise agbese. O ti wa ni tun wa ninu Spanish(Doc-Debian-es), French (doc-Debian-kn) ati Ukrainian (doc-Debian-uk).
+
+%
+Debian Ofiri # 33: The package 'devscripts' ni diẹ ninu awọn wulo iwe afọwọkọ funusers ti o fẹ lati ran lati mu Debian, e.g. wnpp-gbigbọn, RC-gbigbọn ati BTS.
+
+%
+Debian Ofiri # 34: Ti o ba fẹ lati orin Debian Sid ati ki o ni kekere kan downloadmeeli tabi a gan o lọra asopọ, ṣayẹwo jade ni debdelta package.
+
+%
+Debian Ofiri # 35: Ni àwárí fun awọn ere? Ya kan wo ni 'goplay', eyi ti onfun a nice frontend fun lilọ kiri nipasẹ gbogbo irú ti awọn ere.
+
+%
+Debian Ofiri # 36: Nilo a Opo package ju bawa pẹlu Debian ká kẹhinidurosinsin sílẹ, sugbon ko ba fẹ lati igbesoke si 'igbeyewo' tabi 'riru?' diẹ ninu awọnwon jo wa ni pa soke-si-ọjọ nipasẹ awọn idurosinsin-imudojuiwọn suite, diẹ ninu awọn miran ni o waṣe wa ni backports.debian.org.
+
+%
+Debian Ofiri # 37: Fẹ lati gba lati ayelujara kan package lai fifi o? lilo'Ìwádìí download <pkgname>'.
+
+%
+Debian Ofiri # 38: Fẹ lati mo bi o ti le lo kan eto ti o ti kò ti loṣaaju ki o to? "Eniyan" yoo jẹ rẹ ti o dara ju titun ore! Iru "eniyan <eto-orukọ>" ni aikarahun. Tabi, ṣiṣe "eniyan -H <eto-orukọ>" lati ka awọn Afowoyi iwe ni a kiri ayelujara.
+
+%
+Debian Ofiri # 39: Mu bu ká taabu-Ipari nipa fifibu-Ipari package.
+
+%
+Debian Ofiri # 40: Ti o ba fi sori ẹrọ ni ase-ko-ri package, pinnu latiṣiṣe a aṣẹ ti o ko ba ti fi sori ẹrọ yoo so fun o ohun ti package lati fi sori ẹrọ togba pe pipaṣẹ.
+
+%
+Debian Ofiri # 41: O le lo 'gbon-kaṣe show <package_name>' tabi 'ìwádìí show<Package_name> 'lati gba alaye siwaju sii nipa a Debian package.
+
+%
+Debian Ofiri # 42: O le lo 'gbon-faili akojọ <package_name>' lati gba a kikojọti awọn akoonu ti ti Debian package. Yi igbese ni iru si'Dpkg -L <package_name>' bikoṣe package ko ni ko nilo lati fi sori ẹrọ tabiṣòro lilo gbon-faili ninu itansan si dpkg.
+
+%
+Debian Ofiri # 43: Fẹ lati igba die mu rẹ iptables ogiriina? lilo'Iptables-fi | sugbon "/ - / d; / ^ # / d; s / ju / gba /" | iptables-pada 'to yọgbogbo awọn ofin ati ṣeto awọn aiyipada eto imulo to gba.
+
+%

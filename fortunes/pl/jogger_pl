@@ -1,0 +1,23 @@
+http://marcoos.jogger.pl/comment.php?eid=43741:
+
+marcoos> Tramwaj trmw = Tramwaj.pobierzNajblizszyTramwaj(
+                                  faxe.pobierzLokalizacje());
+         faxe.czepSie(trmw);
+
+faxe>    class Trolejbus extends Gdynia
+
+marcoos> Hehe, masz bardzo awangardowe podejście do dziedziczenia. :)
+%
+http://marcoos.jogger.pl/comment.php?eid=43776:
+
+djurban> wlasciwie chodzi o to, ze po co uzywac tb skoro
+         jest kmail :)
+
+jpc>     Po to, że nie lubi się KDE :] Tb jest bardziej
+         GNOME friendly.
+
+djurban> Znaczy ludzie naprawde uzywaja GNOME?
+
+jpc>     Nie.... No co ty!
+         Ludzie uzywają XFce :D
+%

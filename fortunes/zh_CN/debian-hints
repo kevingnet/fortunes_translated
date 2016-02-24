@@ -1,0 +1,174 @@
+Debian 提示 #1: 您可以通过命令行或者新的图形界面 (通过菜单或者运行 'reportbug --ui gtk2' 来进行激活) 使用由
+reportbug 软件包提供的 'reportbug' 命令来报告一个bug。
+
+%
+Debian 提示 #2: 您可以使用 'dpkg-reconfigure <package>' 变更在您第一次安装一个软件包时曾被提及的问题。还有
+'configure-debian' 软件包为此提供了一个统一的前端程序。
+
+%
+Debian 提示 #3: 您可以使用 'apt-cache search <words>' 或者 'aptitude search <words>'
+在所有可用软件包的描述中搜索 words。
+
+%
+Debian 提示 #4: 您可以使用 'apt-cache policy <packages>'
+查看可用的以及已安装的一个或多个有效软件包的版本信息。
+
+%
+Debian 提示 #5: 如果您需要编译一个自定义的内核，请使用 kernel-package 软件包提供的 'make-kpkg' 脚本。
+
+%
+Debian 提示 #6: 这里没有第 #6 个提示。今天就来提交一个！
+
+%
+Debian 提示 #7: 您可以使用 cron-apt 软件包在每晚自动下载您系统中已安装软件包所需的更新。
+
+%
+Debian 提示 #8: 如果您在 Debian 中遇到的问题，通过阅读手册和文档仍无法解决，那么请询问 Debian 用户邮件列表 (简:
+debian-chinese-gb@lists.debian.org，繁: debian-chinese-big5@lists.debian.org)。
+
+%
+Debian 提示 #9: 如果您想知道正在运行的 Debian 的版本，请在文件 /etc/debian_version 中进行查看，或者使用命令
+'lsb_release -sc'。如果您想知道那个版本的开发代号 (例如: 5.0 的开发代号是 'Lenny')，请点击这个链接:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian 提示 #10: 这里的 Debian 邮件列表，包含了从用户提出的问题到讨论放什么到 Debian 政策文档中的所有方面。检索这个列表
+http://www.debian.org/MailingLists/ 并订阅那些您所感兴趣的内容。
+
+%
+Debian 提示 #11: 关注最新的动向请看 Debian Project News。在线阅读请看 http://times.debian.net/
+
+%
+Debian 提示 #12: 有一个 grep-dctrl 软件包提供了若干脚本，它们有利于快速搜索众多软件包的控制文件 (例如可用的软件包文件)。
+
+%
+Debian 提示 #13: 如果您不喜欢使用某个 Debian 软件包的默认选项，您可以把它的源代码下载下来，按照您的使用偏好重新编译一个版本。请看
+http://www.debian.org/doc/FAQ/ch-pkg_basics.html (第 6.13 和 6.14 节) 了解更多信息。
+
+不过请记住，大部分软件的多数选项都能够在运行时刻进行配置，这样就不必重新编译这个软件包了。
+
+%
+Debian 提示 #14: 如果您想关注某个软件包的进程
+(比如说，如果您希望了解缺陷报告，发行通告以及其它类似信息)，请考虑在软件包跟踪系统中进行订阅。您可以在这里找到有关软件包跟踪系统 (PTS)
+的更多信息:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian 提示 #15: 正常情况下一个软件包的文档可以在 /usr/share/doc/<package>
+下找到。在个别软件包中，README.Debian 文件会提供专属于 Debian 的有用信息。
+
+%
+Debian 提示 #16: 如果您正在搜索一个不知道属于那个软件包的单独文件，请试试
+'apt-file'，它为这些信息维护了一个小型的数据库。或者您也可以从 Debian 软件包数据库中搜索这些内容，它可以帮您完成这项工作:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian 提示 #17: 想找一些人聊聊 Debian 吗？如果您习惯于因特网中继聊天 (IRC)，只要安装您喜爱的 IRC 客户端然后加入
+irc.debian.org 的 #debian 频道就可以了。
+
+%
+Debian 提示 #18: 通过访问 http://packages.qa.debian.org/<package>
+可以找到一个软件包的质量控制信息。这个页面分别链接了维护人员的质量保证页面、BTS、软件包新闻、以及可用版本所属的存档信息。
+
+%
+Debian 提示 #19: 如果您对从源代码编译成软件包感兴趣，您应该考虑安装 apt-src 这个软件包。
+
+%
+Debian 提示 #20: 想要追寻某个您已经安装了的软件包的版本轨迹 (对那些混用 stable / testing / unstable
+系统的人尤其有用)？请检索 apt-show-versions。
+
+%
+Debian 提示 #21: 如果您的 Debian 盒子所处的网络网速很慢，但是同时您能访问一个快速的站点，那么请检索 apt-zip 软件包。
+
+%
+Debian 提示 #22: 正在为哪个 Debian 镜像更适合您的问题而犹豫？请检索 apt-spy 和 netselect-apt
+软件包，它们可以向您展示不同站点性能的优劣。
+
+%
+Debian 提示 #23: 如果您的系统占用了太多的磁盘控件，请试试 deborphan
+软件包。它能向您建议哪些软件包是无用的并且是可以删除的。当然，别忘了清除掉 APT 缓存 (使用 'apt-get clean'、'aptitude
+clean'、或者 aptitude 工具菜单中的 '动作'->'清除软件包缓存' 选项)。
+
+%
+Debian 提示 #24: 如果您想对某个维护人员处理的一个问题表示感谢，请检索 reportbug --kudos。
+
+%
+Debian 提示 #25: 有一个 'debian-reference' 软件包向 Debian
+用户和开发人员提供了非常多样的参考文档。其中大多数信息都可以通过这个链接找到:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian 提示 #26: 如果一个软件包没有想像中那么多的文档，那么请检查一个名为 <package>-doc
+或者相似的的软件包，并确保它也已经被安装。含有大量文档的软件包之所以把文档像这样有规则的拆分开，考虑的是哪些不愿意安装它们的用户。
+
+%
+Debian 提示 #27: 请定期检查您的备份。您*始终*坚持备份，有吗？有没有？如果没有，请从 tar(1) 或者 dump(1) 开始。
+
+%
+Debian 提示 #28: 如果您的机器并不是始终处于开机状态 (例如一台笔记本)，请检索 'anacron'
+软件包。即使在某个时刻机器并未开机，它能够确保让定期的任务依然正常被触发。
+
+%
+Debian 提示 #29: 保持您系统时钟的精准性 - 经常重启的机器应当通过安装 'ntp' 软件包在每次重启时确保精确的时间。
+
+%
+Debian 提示 #30: 文档在安装了 'doc-base' 和 'doc-central' 软件包以及它们依赖的相关软件包之后可以从
+http://localhost/ 访问。
+
+%
+Debian 提示 #31: 禁用一个特殊运行级别下的正常的服务程序，应该是通过将 /etc/rc<level>.d 中以 S 开头的链接变更为 K
+开头的链接，而不是删除那个链接。如果所有的链接都被删除了，那么系统在下次安装时将假定它们需要被替换。
+
+%
+Debian 提示 #32: 有一个 'doc-debian' 软件包提供了一些有关 Debian 项目的通用文档。它还有西班牙语版本
+(doc-debian-es)、法语版本 (doc-debian-fr) 和乌克兰语版本 (doc-debian-uk)。
+
+%
+Debian 提示 #33: 有一个 'devscripts' 软件包向那些希望为 Debian
+作贡献的用户提供了一些有用的脚本，例如，wnpp-alert，rc-alert 以及 bts。
+
+%
+Debian 提示 #34: 如果您希望跟踪 Debian 开发版 (sid)，并且只有少量的带宽或者一个网速很慢的网络连接，请检索 debdelta
+软件包。
+
+%
+Debian 提示 #35: 在搜索一些游戏吗？看一看 'goplay' 吧，它提供了一个优秀的前端界面用于浏览所有种类的游戏。
+
+%
+Debian 提示 #36: 需要一个比 Debian 最新稳定版更新的软件包但又不愿意升级到 'testing' 或者 'unstable'
+吗？有一些软件包被坚持更新并保存在 stable-updates 套件中，另一些可用的在 www.backports.org 可以找到。
+
+%
+Debian 提示 #37: 希望下载一个软件包但却不安装它？使用 'aptitude download <pkgname>'。
+
+%
+Debian 提示 #38: 想知道怎样才能玩转一个以前从没用过的程序么？ "man" 会是一个好帮手！在命令行输入 "man
+<program-name>" 吧。另外，如果您想要在一个浏览器中阅读指南的话，那么键入 "man -H <program-name>" 。
+
+%
+Debian 提示 #39: 安装 bash-completion 软件包将会改善 bash 中 tab 键的自动完成功能。
+
+%
+Debian 提示 #40: 如果您安装了 command-not-found
+软件包，在您尝试使用一个没有经过安装的命令时，它会告诉您运行这个命令需要安装哪个软件包。
+
+%
+Debian 提示 #41: 您可以使用 'apt-cache show <package_name>' 或者 'aptitude show
+<package_name>' 来获得关于一个 debian 软件包的更多信息。
+
+%
+Debian 提示 #42: 您可以使用 'apt-file list <package_name>' 来获得一个 debian
+软件包内容的详细列表。这与 'dpkg -L <package_name>' 很相似，但是相比起来，apt-file 不需要安装或提取软件包。
+
+%
+Debian 提示 #43: 想要临时关闭您的 iptables 防火墙？使用 'iptables-save | sed
+"/-/d;/^#/d;s/DROP/ACCEPT/" | iptables-restore' 移除所有的规则，并将默认的策略设定为 ACCEPT。
+
+%
+Debian 提示 #44: 您可以在 Identi.ca 上关注 Debian 的帐号 http://identi.ca/debian。有关
+Debian 在 Identica 上的更多信息可以参考:
+http://wiki.debian.org/Teams/Publicity/Identica

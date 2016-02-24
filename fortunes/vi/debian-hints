@@ -1,0 +1,228 @@
+Gợi ý Debian 1: Hãy thông báo lỗi phần mềm dùng lệnh « reportbug » được gói
+« reportbug » cung cấp, hoặc trên dòng lệnh hoặc sử dụng giao diện đồ họa
+mới (sẵn sàng trong trình đơn hoặc bằng cách chạy « reportbug --ui gtk2 »).
+
+%
+Gợi ý Debian 2: hãy sử dụng câu lệnh cấu hình lại « dpkg-reconfigure tên_gói
+» để sửa đổi các đáp ứng bạn đã nhập vào lúc cài đặt gói. Cũng có một giao
+diện đồ họa cho chức năng này (được gói « configure-debian » cung cấp).
+
+%
+Gợi ý Debian 3: Hãy sử dụng câu lệnh tìm kiếm « apt-cache search chuỗi_tìm »
+hay « aptitude search chuỗi_tìm » để tìm từ trong các mô tả gói phần mềm
+công bố.
+
+%
+Gợi ý Debian 4: hãy xem các phiên bản gói được cài đặt và công bố dùng câu
+lệnh « apt-cache policy các_tên_gói ».
+
+%
+Gợi ý Debian 5: muốn xây dựng một hạt nhân tự chọn thì hãy sử dụng văn lệnh
+« make-kpkg » nằm trong gói « kernel-package ».
+
+%
+Debian Hint #6: There is no hint #6. Submit a hint today!
+
+%
+Gợi ý Debian 7: hãy sử dụng gói « cron-apt » để tự động tải về hàng đêm bản
+cập nhật cho những gói được cài đặt vào hệ thống.
+
+%
+Gợi ý Debian 8: gặp vấn đề với Debian mà không giải quyết được khi đọc sổ
+tay và tài liệu hướng dẫn thì hãy hỏi câu trong hộp thư chung Người dùng
+Debian (debian-user@lists.debian.org). Cũng gặp khó khăn trong việc đọc/viết
+tiếng Anh? Hãy viết thư cho Nhóm Việt hoá Phần mềm Tự do
+(vi-VN@googlegroups.com) yêu cầu một người dịch câu hỏi và đáp ứng ở Debian.
+
+%
+Gợi ý Debian 9: Muốn biết phiên bản Debian nào đang chạy thì hãy xem tập tin
+« /etc/debian_version » hoặc chạy câu lệnh « lsb_release -sc ». Cũng có thể
+tìm biết tên hiệu cho phiên bản đó (v.d. 5.0 có tên mã « Lenny ») ở địa chỉ
+URL này:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Gợi ý Debian 10: có hộp thư chung Debian cho rất nhiều mục đích và trường
+hợp: xem danh sách ở "http://www.debian.org/MailingLists/" và đăng ký với
+những hộp thư chung thích hợp.
+
+%
+Debian Hint #11: Keep up to date on what's going on - read the Debian
+Project News. Read it on the web at http://www.debian.org/News/weekly/
+
+%
+Gợi ý Debian 12: gói « grep-dctrl » cung cấp một số văn lệnh hữu ích để tìm
+kiếm nhanh qua các tập tin điều khiển gói (v.d. tập tin liệt kê các gói công
+bố).
+
+%
+Gợi ý Debian 13: muốn sửa đổi các tùy chọn mặc định của một gói Debian thì
+hãy tải về mã nguồn và xây dựng một phiên bản tùy chỉnh. Xem các mục Hỏi Đáp
+6.13 và 6.14 ở địa chỉ "http://www.debian.org/doc/FAQ/ch-pkg_basics.html" để
+tìm thêm thông tin.
+
+Tuy nhiên, cũng có thể cấu hình các tùy chọn về gói vào lúc chạy. Thường
+không cần biên dịch lại gói.
+
+%
+Gợi ý Debian 14: muốn theo dõi trạng thái về một gói (v.d. xem báo cáo lỗi
+và ghi chú phát hành) thì hãy đăng ký với Hệ thống Theo dõi Gói (PTS). Tìm
+thêm thông tin ở địa chỉ:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Gợi ý Debian 15: tài liệu hướng dẫn về gói thường nằm dưới thư mục «
+/usr/share/doc/tên_gói ». Đặc biệt, tập tin Đọc Đi (README.Debian) thường
+chứa thông tin hữu ích về vấn đề đặc trưng cho hệ thống Debian.
+
+%
+Gợi ý Debian 16: muốn tìm một tập tin cụ thể, nhưng chưa biết nó thuộc về
+gói nào, thì hãy thử cài đặt gói « apt-file » mà bảo tồn một cơ sở dữ liệu
+nhỏ đối với thông tin này, hoặc tìm kiếm qua nội dung của cơ sở dữ liệu Gói
+Debian ở địa chỉ:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Gợi ý Debian 17: cần hỏi một câu về Debian ? Hãy cài đặt ứng dụng khách trò
+chuyện IRC và vào kênh #debian trên máy phục vụ "irc.debian.org".
+
+%
+Gợi ý Debian 18: quan tâm đến QA ? Thông tin về tiến trình điều khiển mức
+chất lượng của mỗi gói nằm ở địa chỉ
+"http://packages.qa.debian.org/tên_gói". Trang này cung cấp liên kết tới
+trang QA của Nhà Duy Trì, liên kết tới Hệ thống Theo dõi Lỗi (BTS), chứa tin
+tức về gói đó và hiển thị thông tin về những phiên bản công bố trong mỗi kho
+lưu.
+
+%
+Gợi ý Debian 19: quan tâm đến xây dựng gói từ mã nguồn ? Hãy cài đặt gói «
+apt-src ».
+
+%
+Gợi ý Debian 20: muốn theo dõi các phiên bản gói được cài đặt ? Có ích đặc
+biệt cho người dùng chạy hệ thống hỗn hợp ổn định/thử/bất định. Xem qua gói
+« apt-show-versions ».
+
+%
+Gợi ý Debian 21: nếu máy Debian có kết nối mạng chậm, nhưng bạn cũng có thể
+truy cập đến một kết nối nhanh, xem qua gói « apt-zip ».
+
+%
+Gợi ý Debian 22: muốn tìm máy nhân bản Debian nhanh nhất ? Xem qua hai gói «
+apt-spy » và « netselect-apt », mà có thể cung cấp thông tin về hiệu suất
+của những máy nhân bản khác nhau.
+
+%
+Gợi ý Debian 23: nếu hệ thống chiếm quá nhiều sức chứa trên đĩa, hãy thử sử
+dụng gói deborphan: nó có thể phân biệt những gói không còn dùng lại và gỡ
+bỏ được. Hơn nữa, hãy xoá sạch vùng nhớ tạm của APT (dùng câu lệnh « apt-het
+clean », « aptitude clean », hay mục trình đơn aptitude « Hành vi > Xóa bộ
+nhớ tạm gó »).
+
+%
+Gợi ý Debian 24: muốn cám ơn một nhà duy trì vì quản lý giỏi một vấn đề thì
+hãy dùng « reportbug --kudos ».
+
+%
+Gợi ý Debian 25: gói « debian-reference » chứa rất nhiều tài liệu tham chiếu
+cho người dùng và nhà phát triển hệ thống Debian. Phần lớn thông tin này
+cũng nằm ở địa chỉ:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint #26: If a package doesn't seem to have much documentation, check
+for a package named '<package>-doc' or similar and make sure to install it
+as well; packages with large amounts of documentation regularly split the
+docs in this manner for those who don't want to install them.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Gợi ý Debian 28: không chạy liên tục máy tính (v.d. máy tính xách tay) thì
+xem qua gói « anacron ». Nó sẽ đảm bảo các công việc định thời vẫn còn được
+chạy, thậm chí nếu máy không chạy vào lúc dự định.
+
+%
+Gợi ý Debian 29: Giữ đồng hồ hệ thống chính xác nhé — máy nào chạy liên tục
+hay gần liên tục thì nên cài đặt gói « ntp » để bảo tồn giờ đúng giữa hai
+lần khởi động lại.
+
+%
+Gợi ý Debian 30: có thể công bố tài liệu hướng dẫn ở địa chỉ cục bộ
+"http://localhost/", bằng cách cài đặt gói « doc-base » và « doc-central »
+và các gói đòi hỏi do quan hệ phụ thuộc.
+
+%
+Gợi ý Debian 31: muốn tắt một dịch vụ thường chạy ở một cấp chạy cụ thể ? Có
+nên sửa đổi liên kết S trong « /etc/rc<cấp> » thành một liên kết K, hơn là
+gỡ bỏ hoàn toàn liên kết đó. Gỡ bỏ tất cả các liên kết thì hệ thống sẽ thay
+thế vào lúc cài đặt kế tiếp.
+
+%
+Debian Hint #32: The package 'doc-debian' contains some general
+documentation about the Debian project. It is also available in Spanish
+(doc-debian-es), French (doc-debian-fr) and Ukrainian (doc-debian-uk).
+
+%
+Gợi ý Debian 33: gói « devscripts » chứa một số văn lệnh hữu ích cho người
+dùng muốn cải tiến Debian, v.d. « wnpp-alert », « rc-alert » và « bts ».
+
+%
+Gợi ý Debian 34: muốn theo dõi Debian sid và không thể tải về nhiều (hạn
+ngạch tải về hay kết nối chạy) thì xem qua gói « debdelta ».
+
+%
+Debian Hint #35: In search for some games? Take a look at 'goplay', which
+offers a nice frontend for browsing through all kind of games.
+
+%
+Debian Hint #36: Need a newer package than shipped with Debian's last stable
+release, but don't want to upgrade to 'testing' or 'unstable'? Some packages
+are kept up-to-date via the stable-updates suite, some others are made
+available at backports.debian.org.
+
+%
+Gợi ý Debian 37: muốn tải về một gói mà không cài đặt ? Hãy dùng câu lệnh «
+aptitude download tên_gói ».
+
+%
+Gợi ý Debian 38: Muốn biết cách sử dụng một chương trình chưa quen ? Hàm
+trang hướng dẫn « man » là một công cụ rất hữu ích. Chỉ cần gõ chuỗi « man
+tên_chương_trình » trong trình bao (cũng có thể gõ « man -H tên_chương_trình
+» để đọc trong trình duyệt).
+
+%
+Gợi ý Debian 39: Cải tiến chức năng điền nốt bằng phím Tab nhé: cài đặt gói
+« bash-completion ».
+
+%
+Gợi ý Debian 40: Cài đặt gói « command-not found » nhé: nó thay thế thông
+điệp « không tìm thấy lệnh » bằng thông tin về gói phần mềm cần cài đặt để
+truy cập đến chức năng đó.
+
+%
+Gợi ý Debian 41: Cũng có thể sử dụng câu lệnh « apt-cache show tên_gói » hay
+« aptitude show tên_gói » để thấy thêm thông tin về gói đó.
+
+%
+Gợi ý Debian 42: Cũng có thể chạy câu lệnh « apt-file list tên_gói » để thấy
+danh sách nội dung của gói Debian đó. Hành động này tương tự với « dpkg -L
+tên_gói », trừ mà không cần cài đặt hay lấy gói về trước khi sử dụng
+apt-file, trái ngược với dpkg.
+
+%
+Gợi ý Debian 43: Muốn tắt tạm thời bức tường lửa iptables ? Hãy chạy câu
+lệnh « iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" | iptables-restore »
+để gỡ bỏ tất cả các quy tắc và đặt chính sách mặc định thành ACCEPT (chấp
+nhận).
+
+%
+Debian Hint #44: You can follow the Identi.ca account for Debian at
+http://identi.ca/debian More information of Debian at Identica can also be
+found at: http://wiki.debian.org/Teams/Publicity/Identica

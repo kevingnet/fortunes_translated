@@ -1,0 +1,129 @@
+Debian Maslahat # 44: Siz Debian uchun Identi.ca hisobini kuzatib mumkinIdentica da Debianning http://identi.ca/debian Batafsil ma'lumotlar ham mumkinhttp://wiki.debian.org/Teams/Publicity/Identica: topishDebian Maslahat # 1: "reportbug" amri bilan bir to'plamiga xato hisobot mumkin,qaysi, reportbug to'plami mavjud yo buyruq satri yokiishlayotgan mavjud yangi grafik interfeyslarni (bilan yoki "--ui gtk2 reportbug"menyusi).
+
+%
+Debian Maslahat # 2: o'zgartirish Siz "dpkg-reconfigure <paketini> 'foydalanishingiz mumkinAgar to'plami birinchi marta o'rnatilgan bo'lsa, siz savollarga bergan javoblari so'radi."Configure-debian,« to'plami, bu ish uchun yagona oldingi so'nggi beradishuningdek.
+
+%
+Debian Maslahat # 3: Siz foydalanish mumkin 'apt-cache qidiruv <so'zlar>' yoki"Ko'nikma qidiruv <so'zlar> 'barcha ta'riflari bilan aytganda qo'ng'iroq qilish uchunmavjud paketlar.
+
+%
+Debian Maslahat # 4: Siz bir mavjud va o'rnatilgan versiyalarini ko'rish mumkinyoki buyruq "apt-cache siyosati <paketlar> 'bilan ko'proq mavjud paketlar.
+
+%
+Debian Maslahat # 5: Agar maxsus yadro qurish kerak bo'lsa, "qilish-kpkg" foydalanishkernel-paketi to'plami topilgan skript.
+
+%
+Debian Maslahat # 6: yo'q maslahat olish, # 6 bor. bir maslahat bugun Submit!
+
+%
+Debian Maslahat # 7: Siz kecha avtomatik ravishda qilish cron-apt paketini foydalanishingiz mumkintizimi o'rnatilgan paketlar yangilanishlar yuklab olish.
+
+%
+Debian Maslahat # 8: Agar tomonidan hal qila olmaydi, deb Debian bilan bog'liq muammolar bo'lsa,qo'llanmalar va hujjatlarni o'qib, Debian foydalanuvchilar haqida so'rab ko'ringpochta ro'yxati (debian-user@lists.debian.org).
+
+%
+Debian Maslahat # 9: Agar Siz odamsiz Debian qaysi versiyasi bilish kerak bo'lsa,yugurish, / etc / debian_version qarash yoki "lsb_release -sc" buyrug'ini foydalaning. Agar SizMisol uchun, bu versiya uchun kod nomi (bilishni istayman, 5.0 kod nomi bo'ladi"Lenny '), bu URL tekshiring:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Maslahat # 10: foydalanuvchi har bir narsa uchun Debian pochta ro'yxati borDebian siyosati hujjatlar topshirildi nima ustida bahslar uchun savollar.http://www.debian.org/MailingLists/ da ro'yxatini tekshiring va obunasizni qiziqtirgan o'sha.
+
+%
+Debian Maslahat # 11: bo'lyapti nima haqida dolzarb turing - Debian'ı o'qibProject Yangiliklar. http://www.debian.org/News/weekly/ da Internetdagi uni o'qing
+
+%
+Debian Maslahat # 12: grep-dctrl paketi foydali skriptlar bir qator beraditez bunday deb mavjud (har xil paketi nazorat fayllarni qidirib uchunpaketlar) fayl.
+
+%
+Debian Maslahat # 13: Agar Debian ishlatiladigan standart variantlari yoqtirmayman bo'lsato'plami, siz manbasini yuklab olish va ishlatib, bir versiyasini qurish mumkinsiz ma'qul. http://www.debian.org/doc/FAQ/ch-pkg_basics.html qarangQo'shimcha ma'lumot olish uchun (6.13 bo'limlar va 6.14).Biroq, yodda ayiq eng paketlar eng imkoniyatlari tuzilgan bo'lishi mumkinvaqtida va paketini Derlediklerinde talab yo'q.
+
+%
+Debian Maslahat # 14: Agar paketi uchun sodir narsalarni rioya qilish zarur bo'lsa(Masalan, siz, xato hisobotlarni ko'rib xabarnomalarni ozod bo'lsangiz, va boshqa uchunshunga o'xshash narsalar), Package Tracking tizimiga unga ulanib ko'rib.Siz PTS haqida qo'shimcha ma'lumot topishingiz mumkin:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Maslahat # 15: a paketi uchun hujjatlar odatda topish mumkin/ Usr / share / doc / <paketi> ostida. Xususan, README.Debian ko'pincha fayliDebian-muayyan quirks yoki maslahatlar haqida foydali ma'lumot bor.
+
+%
+Debian Maslahat # 16: Agar Xususan fayl izlab-ku, lekin bilmasangizqaysi paketi u saqlab qaysi, "apt-fayl 'o'rnatishdan sinash uchun tegishliUshbu ma'lumotlarning kichik bazasi, yoki Debian mazmunini qidiruvamalga oshirilishi mumkin bazasi, paketlar:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Maslahat # 17: Debian haqida gapirish uchun kimnidir kerak? Agar qulay bo'lsangizInternet Relay Chat (IRC) bilan, faqat sevimli IRC mijozi o'rnatish vairc.debian.org haqida #debian etish.
+
+%
+Debian Maslahat # 18: a to'plami haqida Sifat nazorat qilish axborot topish mumkin<Paketini> http://packages.qa.debian.org/ ketadi tomonidan; Ushbu sahifaga beradiTa'minlovchi ning QA sahifaga ishoratlar, BTS, paketiga yangiliklari mahsulot vaaxborot qaysi versiyalari qaysi arxivlar mavjud.
+
+%
+Debian Maslahat # 19: Agar manbadan qurilish paketlar manfaatdor bo'lsangiz, sizapt-src paketini o'rnatishni tavsiya etamiz.
+
+%
+Debian Maslahat # 20: siz bor paketining qanday versiyasi kuzatib istaysizmigibrid barqaror / testdan ishlayotgan kishilar uchun ayniqsa, foydali (o'rnatilgan /beqaror tizimlari)? apt-show-versiyalarini tekshiring.
+
+%
+Debian Maslahat # 21: Sizning Debian box-sekin, bir tarmoq ulanishi orqasida bo'lsa,lekin siz, shuningdek, tez biri foydalanish imkoniyatiga ega apt-zip to'plami nazorat.
+
+%
+Debian Maslahat # 22: qaysi Debian oyna qiziqtirgan siz uchun yaxshidir? Tekshirib ko'rmoqsizga ma'lumot berish mumkin apt-josuslik va netselect-apt paketlar,qanday turli oyna saytlar amalga haqida.
+
+%
+Debian Maslahat # 23: tizim juda ko'p disk oraliq ishlatsa, harakatTo'plamga deborphan; qaysi haqida paketlar bo'lishi mumkin bu takliflarnifoydalanilmagan va olinadigan. Va, albatta, tozalash unutmangAPT kesh maydoni ( «toza amaliy ko'nikma", "toza apt-get» yordamida yokisalohiyatining yuksak samaralarining amaldagi ning action -> Toza paketi kesh menyudagi qismi).
+
+%
+Debian Maslahat # 24: Agar tashish uchun bir patent minnatdorchilik bildiraman bo'lsamasala, reportbug --kudos nazorat.
+
+%
+Debian Maslahat # 25: "debian-yozuvlar» paketi turli ichiga oladiDebian foydalanuvchilar va ishlab chiquvchilar uchun murojaat hujjatlar. engma'lumotlar, shuningdek, quyidagi URL da topish mumkin:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Maslahat # 26: a paketi ko'p hujjatiga ega ko'rinadi bo'lmasa,Agar paketi nomidagi "<to'plami> -doc" yoki shunga o'xshash tekshirish va ishonch hosil qilingshuningdek, uni o'rnatish; hujjatlarni katta miqdorda paketlarmuntazam ravishda istamayman keltirganlar uchun bu tarzda docs bo'lindiularni o'rnatish.
+
+%
+Debian Maslahat # 27: muntazam sizning zaxira nusxalarini tekshirish. Siz *, zaxira nusxalarini turadilar *o'ng? O'ng? , Smola bilan boshlash emas, agar (1) yoki borini (1).
+
+%
+Debian Maslahat # 28: Mashina bunday deb hamma vaqt (yo'q bo'lsa) Noutbuklar «anacron" paketini nazorat; Bu muntazam ishonch hosil qiladivazifalar hali ham mashina ular edi vaqtda emas bo'lsa ham, sodirodatda boshlashi.
+
+%
+Debian Maslahat # 29: aniq tizim soat saqlang - yoqilgan mashinalarieng yoki vaqt har doim saqlab qolish uchun o'rnatilgan «NTP« paketini bo'lishi kerakqayta tug'ilgan o'rtasida aniq.
+
+%
+Debian # 30 Maslahat: Documentation http mavjud amalga oshirilishi mumkin: // localhost /«Doc-bazasini» va «doc-markaziy" paketlarini va o'rnatish tomonidan ularningbog'liqliklar.
+
+%
+Debian Maslahat # 31: muayyan ishlash tezligi bir odatda faol xizmat o'chirisha K link uchun /etc/rc<level>.d yilda S linkni o'zgartirib amalga oshirilishi lozim,o'rniga butunlay linkni olishdan ko'ra; Barcha ishoratlar chiqariladi bo'lsa,tizimi, ular o'zgartirish kerak, deb farzedecektir bo'ladi.
+
+%
+Debian Maslahat # 32: paketi "doc-debian,« ba'zi bir umumiy mavjudDebian loyihasi haqida hujjat. Bu ispan ham mavjud(Doc-Debian-es), frantsuz (doc-Debian-fr) va Ukraina (doc-Debian-uk).
+
+%
+Debian Maslahat # 33: to'plami "devscripts uchun ba'zi foydali skriptlarni mavjudbo'lgan foydalanuvchilar, masalan Debian'ı yaxshilash uchun yordam berish uchun wnpp-alert, RC-ogohlantirish va BTS.
+
+%
+Debian Maslahat # 34: Agar Debian SID kuzatib istayman va kichik yuklab bo'lsakvota yoki, albatta, asta ulanish, debdelta paketini nazorat.
+
+%
+Debian Maslahat # 35: Ba'zi o'yinlar uchun qidirib? , "Goplay" da bir ko'z tashlang qaysio'yinlarning barcha turdagi orqali varaqlash uchun, bir chiroyli interfeysiga taklif etadi.
+
+%
+Debian Maslahat # 36: Debian so'nggi bilan jo'natildi ko'ra yangi paketi kerakbarqaror relizi, lekin "test" yoki "beqaror" yangilashingiz istamayman? bir qanchapaketlar barqaror-yangilanishlar Suite orqali hozirgi saqlanadi, ayrim boshqalarbackports.debian.org da mavjud.
+
+%
+Debian Maslahat # 37: uni yuklamasdan to'plami yuklab istaysizmi? foydalanish"Ko'nikma download <pkgname> '.
+
+%
+Debian Maslahat # 38: Agar dasturi qanday foydalanish mumkinligini bilish istaysizmi siz ishlatiladigan hech qachonoldin? "Odam" eng yaxshi yangi do'st bo'ladi! a yozing "odam <dastur-nomi>"qobiq. Yoki ishlatish "odam -H <dastur-nomi>" bir-brauzerida qo'lda sahifa o'qish.
+
+%
+Debian Maslahat # 39: o'rnatishdan tomonidan bosh ning tab-bajarilishini takomillashtirishbosh-bajarilishi to'plami.
+
+%
+Debian Maslahat # 40: Agar harakat, buyruq-topilmadi paketini o'rnatish bo'lsaAgar nima paketi uchun o'rnatish uchun sizga aytaman o'rnatilgan yo'q bir buyruqni ishga tushirishdeb buyruq olish.
+
+%
+Debian Maslahat # 41: Siz foydalanish mumkin apt-cache show <PACKAGE_NAME> "yoki" ko'nikma show<PACKAGE_NAME> 'a debian to'plami haqida batafsil ma'lumot olish uchun.
+
+%
+Debian Maslahat # 42: Siz "apt-fayl ro'yxati <PACKAGE_NAME> 'ro'yxatini olish uchun foydalanishingiz mumkinDebian to'plami mazmunan. Bu harakat o'xshaydi"Dpkg -L <PACKAGE_NAME> 'paketi o'rnatilgan bo'lishi kerak emas, magar yokidpkg farqli o'laroq yuzaki yordamida apt-fayl.
+
+%
+Debian Maslahat # 43: vaqtincha iptables xavfsizlik devorini o'chiring istaysizmi? foydalanish«Iptables-tejash | Sad »/ - / d; / ^ # / d; s / DROP / QABUL /" | olib tashlash uchun «iptables-tiklashBarcha qoidalari qabul qilish standart siyosatini belgilash va.
+
+%

@@ -1,0 +1,340 @@
+Je pense qu'il est un peu fantastique pour tenter de former une image dans autruiesprit de l'équipe de l'administration des archives Debian entassés sur leurterminaux, leurs visages éclairés seulement par un tube cathodique avec un peu de shell rootrapide et la commande"/project/org/ftp.debian.org/cabal/s3kr1t/nuke-non-free.pl« Tout caléet prêt à partir, leurs doigts prêts sur la touche Entrée, une sueur deperlage prévue lubriques sur leurs lèvres supérieures. "<20031104211846.GK13131@deadbeast.net> discuterson projet de modification du contrat social
+		-- Branden Robinson in
+
+%
+Si vous allez exécuter une distribution de pacotille faite par un couple debénévoles, pourquoi ne pas exécuter une distribution de pacotille faite par un grand nombre de bénévoles?
+		-- Jaldhar H. Vyas on debian-devel
+
+%
+Les emballages doivent construire-dépendra de ce qu'ils doivent construire-dépendent.
+		-- Santiago Vila on debian-devel
+
+%
+Il existe 3 types de gars - ceux qui détestent nerds (tous les nerds, queest; les filles ne sont pas laisser filer); ceux qui sont effrayés par les fillesqui sont un peu plus intelligent que la moyenne; et les gars qui sontaussi un peu plus intelligent que la moyenne, mais ils sont si timides qu'ilsne peut pas mettre 2 mots ensemble quand ils sont moins de 20 pieds d'une fille.
+		-- Vikki Roemer on debian-curiosa
+
+%
+Debian est le système d'exploitation Jedi: "Toujours deux il y a, un maître etUn apprenti".
+		-- Simon Richter on debian-devel
+
+%
+Ceci est Unix nous parlons, rappelez-vous. Il est pas censé êtrebien pour le programmeur d'applications.
+		-- Matthew Danish on debian-devel
+
+%
+... Mais bon, cela est Linux, est-il pas censé faire des boucles infinies dans 5secondes?
+		-- Jonathan Oxer in the apt-cacher ChangeLog
+
+%
+Personnellement, je suis très heureux avec une version stable tous les deux ans, etje suis d'avis que d'essayer de libérer plus signifiera que nous devronsrenommer le distro de "stable" à "bancale".
+		-- Scott James Remnant on debian-devel
+
+%
+<Keybuk> Perl 6 me fait peur<Doogie> vous pouvez nommer votre opérateurs rien. le nom ici est le          chaîne '~ | _ | ~'* Lo-lan-2 fuit cris<Keybuk> Il ressemble à un schéma d'une écluse du canal :)<Jaybonci> opérateurs de smiley japonais?<NickR> ^ _ ^
+		-- in #debian-devel
+
+%
+<Sam> /.ing une question est comme demander à un nombre infini de singes pour       Conseil
+		-- in #debian-devel
+
+%
+<Daniels> encore, trône de sang ressemble à un film sur Overfiend           et vierges ou quelques conneries
+		-- in #debian-devel
+
+%
+<Jaybonci> effectivement d-i représente "intervention divine";)
+		-- in #debian-devel
+
+%
+<Doogie> asuffield: comment pensez-vous dpkg a été écrit? : |<Asuffield> en laissant IWJ obtenir dangereusement près d'un ordinateur
+		-- in #debian-devel
+
+%
+<Asuffield> un poste de travail est tout ce que vous pouvez coller sur somebodies bureau             et con-les en utilisant
+		-- in #debian-devel
+
+%
+<Joshk> joshk @ afflux: /etc/logrotate.d> sh -n *<Joshk> apache: ligne 14: erreur de syntaxe près de jeton inattendu `} '<Joshk> apache: ligne 14: `} '<Joshk> L'affaire se corse<Asuffield> ceux qui ne sont pas des scripts shell<Erich> ce ne fut pas le poulet.
+		-- in #debian-devel
+
+%
+Je fus attaqué par dselect comme un petit enfant et ont depuis évitédebian.
+		-- Andrew Morton
+
+%
+* Joeyh installe debian utilisant seulement son gros orteil, pour un changement de rythme
+		-- in #debian-boot
+
+%
+* Liiwi prend le fouet et les yeux PASC<PASC> ohh !!! crépus!<PASC> comment commode, je suis sur le point d'appeler dans le malade au travail ;-)
+		-- in #debian-devel
+
+%
+<Sombre> avère que grep renvoie le code d'erreur 1 quand il n'y a pas de matchs.       Je le savais. Pourquoi at-il me prendre une demi-heure?
+		-- Seen on #Debian
+
+%
+Il est tout simplement incroyable la quantité d'énergie et la créativité des gens ontinvesti dans la création de licences contradictoires, fausses et stupides ...
+		-- - Sven Rudolph about licences in debian/non-free.
+
+%
+<Overfiend> partycle: je fais sérieusement besoin de vacances à partir de ce            paquet. J'avais fait un rêve à propos de l'introduction d'un            nouveau bogue stupide dans la nuit dernière xbase-PREINST. C'est un            Mauvais signe.
+		-- Seen on #Debian shortly before the release of Debian 2.0
+
+%
+<Sombre> On dirait que le canal est de retour à la normale :)<Jim> Tu veux dire que ça ne défilement plus rapide que tout le monde peut lire? :)
+		-- Seen on #Debian after the release of Debian 2.0
+
+%
+Juste pour préciser ce que dit Ross, il est sans doute trop demanderd'une distribution qu'il détecte automatiquement si oui ou non lepersonne installant, il peut lire les instructions simples en anglais, et s'ilne peut pas, procéder sans son apport. De cette façon, se trouve la folie.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Zedboy> dackel: en général, le * seul * façon d'utiliser un programme d'ordinateur         est pour l'exécuter. avez-vous * jamais * connu un utilitaire système dont         documentation recommandé soit de le supprimer, ou jeter         à un animal de ferme?<Dackel> zedboy: Hummm ... oui<Zedboy> dackel: installer le paquet manpages. il devrait être là         déjà Tho.<Zedboy> dackel: exemple d'un tel utilitaire bovine?* Greycat veut une vidéo de dackel lancer / usr / bin / fichier à la vache
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Elmo> Joy: grâce, la joie<Doogie> Elmo: qui est redondant, Elmo<Elmo> doogie: aller jouer dans le trafic<Doogie> ah, le rétroprojecteur nous connaissons et aimons
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Doogie> joie / Elmo: pourquoi ne pas la même adresse IP être utilisé? était ce feu si         grand qu'il a brûlé l'adresse IP?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Donnerjack> Rien ne dit «J'aime vivre avec vous», comme le don de             3ème degré brûle ...<Mephron> sauf, bien sûr, en tournant son lit dans un trébuchet.<Ladegard> que beaucoup d'efforts doit signifier une sorte d'affection.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Flimsy> Tout le monde ici compétent en matière de gibier d'eau? Si vous         promenade dans un parc, et une oie commence à vous suivre ... et         finit par vous après plus d'un demi-mile jusqu'à ce que vous atteigniez         votre voiture ... à 11 h. Est l'oie enragé ou quelque chose?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Wolfgang> le problème avec l'avertissement 'aller trouver une vraie fille »est           que si peu d'entre eux ont effectivement transformation nu           séquences<Réalité> Mec, mon amie change comme quatre fois par jour
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Z-Gryphon> Si Unicron avait une carte de spec tech, sa devise serait "Ce            qui ne fait pas partie de l'Un ne saurait être invoquée ".<Z-Gryphon> qui est une sorte de grande échelle, la version apocalyptique de "I            suis ce que je mange. ":)
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Liiwi> udp - chute universelle d'un pigeon
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Lilo> Je l'ai toujours voulu avoir un site web avec une grande image d'une carotte sur elle
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Bdale> Bdale est une contraction de Barksdale.<Lo-lan-do> Hm. Il est certainement pas quelque chose que je me souvienne.<Lo-lan-do> esprit si je vous appelle Wensleydale place?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Luca> et ceux qui disent: câbles de fibres ont un rayon de courbure minimum et       tirez tension? bah! *coup sec*<Culus> IT'S fibres que vous Freaks: P<Luca> culus, vous Hoser, il est la fibre. vais-je dois venir au cours de la       montagnes et vous donnent une wedgie?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Maswan> Joy: Permet fourchette chat! :)<Maswan> Joy: imaginez une grande fourche et un chaton mort au-dessus de         il .. avec le sang couler sur ..
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Mjg59> Merde. Je dois un mois pour écrire un papier. Cela implique        écrit réellement les morceaux de code que je vais parler        sur.<Asuffield> trouver un groupe d'étudiants et de leur donner comme un exercice<Mjg59> asuffield: Je suis entouré d'un groupe d'étudiants. La dernière fois que je        laissez pas toucher code, je suis revenue et a trouvé qu'ils avaient réécrit        tout le code C ++ dans C et tout le code de C en C ++<Asuffield> mwahaha<Mjg59> et brisèrent les BUILD
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Moshez> ce qui me plaît Manoj est son désir de simple et petit         solutions. comme Emacs. ou TVP.<Manoj> bien, TVP était _supposed_ être simple<Manoj> il n'a fallu que 2 semaines pour écrire<Moshez> Manoj: elle nécessite un schéma * * pour expliquer ce que chaque partie fait.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Moshez> ok, je ne vais pas épouser la vache de Jo-Con-El.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<> Overfiend blagues de pénis sont bien dans la société mixte. VMS est PAS !!!
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> ltd: Très bien, passer par la vie tout simplement pointer et grognant à            ce que vous voulez dire. Fonctionne pour les utilisateurs Mac.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+révision 1.17.2.7Date: 2001/05/31 21:32:44; Auteur: Branden; Etat: Exp; lignes: +1 -1ARRRRGH !! GOT THE G ** D *** SENS DE L'UN TEST ******* F arrière!
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend_> Première Loi de Overfiend de qualité Package: Si le             mainteneur aime à épeler tout ou partie de son nom dans             CAPS, le colis sucer.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend_> Intel. vous apporter la technologie de pointe de 1979             depuis 22 ans maintenant.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> la clé de la bonne prononciation française est de tirer le            coins de votre bouche aussi loin, car ils peuvent éventuellement aller,            puis gémir comme vous êtes constipé<Overfiend> vous allez vraiment clouer les voyelles de cette façon
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<- Overfiend a quitté ( "aventurer à détruire étrange nouvelle                         mondes, et mangent la vie et de nouvelles civilisations »)
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> le genre de paysage qui rit de véhicules et "AWD"            envoie les tomber dans les ravins
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> Joy: Hé, je suis un trou du cul. Assholes émettent gaz odieuse.            C'est ce que nous faisons.
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> comme aj diraient, en attente fonctionne toujours<Overfiend> soit ce que vous voulez qui se passe, ou vous mourrez et ne peut être            perturbé plus<Overfiend> le problème avec cette philosophie est que aj sincèrement            estime qu'il
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+* Doogie se transforme en manoj<Overfiend> doogie: finalement, nous transformer tous en Manoj<Overfiend> Manoj est le fer de Debian<Overfiend> en fin de compte, nous avons tous la pourriture à Manoj
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+<Overfiend> mais regardez les Français. Vous pourriez épeler chaque mot            leur langue à l'aide phonétiquement seulement environ 6 lettres<Overfiend> 4 consonnes et voyelles 2<Overfiend> c, f, r, l. Et les voyelles? Eh bien, on est le son que vous            faire lorsque vous souffrez de constipation; l'autre quand vous avez            la diarrhée<Overfiend> qu'est-ce que vous attendez de ce régime d'escargots et des grenouilles?
+		-- Shawn McMahon on debian-curiosa@l.d.o
+
+%
+X-Manoj-Position-consultatif: S'il vous plaît noter que Manoj Srivastava doute probable    des faits posés et oppose des conclusions de ce message.
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Sangr> La maison est où la plus grande bande passante est
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Sangr> pas plus de perl ... il est déprimant ...<Sangr> je pense que perl et je besoin de temps de l'autre<Sangr> nous avons fait belle musique ensemble il y a un an ...<Sangr> Mais les temps ont change, nous avons changé ..
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<StevenK> Je peux habituellement supress les sentiments qui me disent à planter          attaquer une fille dans les buissons
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Wiggy> Bwah, vodka dans ma souris
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<Wiggy> dans un nouveau mouvement magnifique je réellement testé ce téléchargement
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+<WiggyWork> 3990 N 15 avril petite amie mignonne (45) Erotic Amateur Girlfriends<WiggyWork> Je ne savais pas que vous aviez copines professionnels ainsi
+		-- Seen in the headers of a mail from Branden Robinson
+
+%
+Cependant, mon enthousiasme pour l'arbre modulaire est tempérée par certaines parties deil pas existant.futur de X
+		-- Daniel Stone on debian-{x,devel}, commenting on the
+
+%
+Croit-elle que nous voulons juste asseoir autour peinture debian tourbillonne sur notreLes ongles des orteils?
+		-- Erinn Clark, referring to the Debian-women project
+
+%
+modconf (0.2.37) stable instable; urgence = moyen  [...]  * Eduard Bloch:    - Correction Makefile cassé Marcin Owsiany il y a un certain temps. La page de manuel par défaut      a été écrasé par la traduction en polonais. Je me demande encore pourquoi      personne n'a remarqué cela avant. Ferme: # 117474  [...]
+		-- Eduard Bloch <blade@debian.org>  Sun, 28 Oct 2001 12:53:27 +0100
+
+%
+<| Ryan |> Je ne me deb<Netgod> u pauvre homme<Déconnecter> netgod: heh<Kingsqueak> apt-get install tâche p0rn
+		-- Eduard Bloch <blade@debian.org>  Sun, 28 Oct 2001 12:53:27 +0100
+
+%
+(Il est une vieille tradition Debian à laisser au moins deux fois par an ...)
+		-- Sven Rudolph
+
+%
+<Joey> gorgo: * lol *<Gorgo> Joey: ce qui est si drôle? :)<Culus> chut, Joey est en train de perdre tout bon sens de manque de sommeil<Culus> «oui joey, très drôle"<Culus> Humour lui:>
+		-- Seen on #Debian
+
+%
+* SYNRG note que le nombre de questions de configuration pour répondre à sendmail  est non triviale
+		-- Seen on #Debian
+
+%
+* JHM se demande ce que Joey a fait pour gagner "Je voudrais simplement dire, pour mémoire,  qui gouverne Joey ".
+		-- Seen on #Debian
+
+%
+Les gens comme vérifier le site Debian toutes les 5 minutes pour vérifier qu'il n'a pastransformé en un autre? Non pas que je suis l'un pour parler, mais certaines personnes gravementbesoin d'obtenir une vie.
+		-- james on #Debian
+
+%
+* James seraient plus impressionnés si les pouvoirs magiques de netgod pourraient arrêter la  divise en premier lieu ...* Netgod note développeurs Debian sont notoirement difficiles à impressionner
+		-- Seen on #Debian
+
+%
+   * En prévision de 2.10.02 presse, mis à jour pour Patchlevel     +ircu2.10.01+.config6-7.config7-8.lgline3.iwho.limit.glibc.motdcache2.trace.whois1-2.config8-9.statsw.sprintf2-3.msgtree2.memleak1-2+.msgtree2-3.gline8-9.gline9-10.invite2.rbr.stats.numclients.whisper.whisper1-2.stats1-2.nokick1-2.chroot.config9-11.snomask7-8.limi+t1-3.userip1-3.userip3-4.config11-12.config12-13.umode2-3.akillsbt.who4-5.kn.kn1-2.freebsdcore2.msgtree3-5.y2k.glibc1-2.rmfunc.msgf+lags2.who5-6.nickchange2.glibc2-3.modeless3
+		-- From the annoucement of ircd 2.10.01-3 for Debian GNU/Linux
+
+%
+* Joey ne doit pas écrire des entrées changelog à 5h30<Joey> * DFSC bibliothèque de cgi gratuit<Joey> Qu'est-ce que? DFSC?<jim> Debian mroooooCows logiciels libres
+		-- Seen on #Debian
+
+%
+<James> abuser de moi. Je suis tellement boiteux ai envoyé un rapport de bug à debian-devel-changements
+		-- Seen on #Debian
+
+%
+<Sombre> manger Depends: cuire | aller au restaurant.       Mais manger-out est non-libre pour ce qui sort.       Et cuisinier recommande: nettoyage des casseroles.
+		-- Seen on #Debian
+
+%
+Vous ne me censurer travers bug terrorisme.
+		-- James Troup
+
+%
+<Doogie> Thinking est dangereux. Elle conduit à des idées.
+		-- Seen on #Debian
+
+%
+<James> Allons-nous faire une emacs sur apt?        APT - Debian dans un programme. Il n'a même votre linge
+		-- Seen on #Debian
+
+%
+Debian est comme Suse avec YaST éteint, juste mieux. :)
+		-- Goswin Brederlow
+
+%
+Charles Briscoe-Smith <cpbs@debian.org>:  Après tout, le paquet gzip est appelé `gzip ', pas` libz-bin' ...James Troup <troup@debian.org>:  Euh, probablement parce que le binaire gzip ne vient pas de la  paquet libz inexistante ou le paquet zlib existant.
+		-- debian-bugs-dist
+
+%
+<Jim> Lemme assurer que je ne suis pas de perdre du temps ici ... bcwhite va supprimer      pkgs que havent été fixés qui ont des bugs en circulation de la gravité      "important". Vrai ou faux?<JHM> jim: "important" ou plus. Vrai.<Jim> Ensuite, nous sommes sur le point de perdre ftp.debian.org et dpkg :)* Netgod manquera dpkg - il était parfois utile<Joey> Nous avons encore rpm ....
+		-- Seen on #Debian
+
+%
+Étant surchargé est le signe d'une véritable mainteneur Debian.
+		-- JHM on #Debian
+
+%
+Je suis étonné que personne ne se fonde une distribution commerciale sur Debianencore - il est de loin le système d'exploitation de type UNIX le plus solide que j'ai jamais installé,et je l'ai joué avec HP / UX, Solaris, FreeBSD, BSDi et SCO (pour ne pasmentionner OS / 2, Novell, Win95 / NT)
+		-- Nathan E. Norman
+
+%
+> <Magique +3 soupir de hyperbole déviation>Le branden esquive votre soupir magique. Le branden vous attaque avec uneflopée de mots! Le branden manque!
+		-- Henning Makholm in <yahsmr7dk9k.fsf@pc-043.diku.dk>
+
+%
+Je ne pense pas 'Il vaut mieux que vous-même jeter dans un hachoir à viande'est une bonne raison pour faire quelque chose.<20030905221055.GA22354@doc.ic.ac.uk> sur debian-devel
+		-- Andrew Suffield in
+
+%
+<Overfiend> ouf.<Overfiend> je vraiment besoin de dormir un peu.<Overfiend> mais il était sûr plaisir à parler des guitares, de la politique, et les lesbiennes.
+		-- Andrew Suffield in
+
+%
+Celui qui a demandé si l'organisation de debian était mort ne lit pasdebian-devel. 66 messages en une seule journée, et il est pas fini. je l'ai trouvédifficile de suivre.
+		-- Bruce Perens
+
+%
+<Asuffield> fibre aux États-Unis est une blague. dans les parties civilisées             le monde, DSL * commence * à la vitesse où la fibre nous laisse off<Joshk> asuffield: l'Australie est une nation pleine de sauvages?<Asuffield> joshk: ils ont environ un modem 9600 entre l'ensemble             sacrément pays
+		-- in #debian-devel
+
+%
+<Nobse> bleh ... hier soir, je fis un rêve ... quelqu'un NMU'ed vim ...         cauchemar
+		-- in #debian-devel
+
+%

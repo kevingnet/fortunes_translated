@@ -1,0 +1,129 @@
+Debian Petunjuk # 44: Sampeyan bisa tindakake akun Identi.ca kanggo Debian ingAlexa http://identi.ca/debian More saka Debian ing Identica uga bisaditemokaké ing: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Petunjuk # 1: Sampeyan bisa laporan bug ing paket karo printah 'reportbug',sing kasedhiya ing paket reportbug, salah siji saka printah-line utawakaro frontend grafis anyar (dhuwur mlaku 'reportbug --ui gtk2' utawa inging menu).
+
+%
+Debian Petunjuk # 2: Sampeyan bisa nggunakake 'dpkg-reconfigure <paket>' kanggo nggantijawaban sing marang pitakonan nalika sampeyan diinstal paket.The 'Ngatur-Debian' paket menehi mburi ngarep ndadekake kanggo mengkono iki,uga.
+
+%
+Debian Petunjuk # 3: Sampeyan bisa nggunakake 'search cocok-cache <tembung>' utawa'Aptitude search <tembung>' kanggo nelusuri tembung ing nang kabehpaket kasedhiya.
+
+%
+Debian Petunjuk # 4: Sampeyan bisa ndeleng versi kasedhiya lan diinstal kanggo sijiutawa paket liyane kasedhiya karo 'privasi cocok-cache <paket>' printah.
+
+%
+Debian Petunjuk # 5: Yen sampeyan perlu kanggo mbangun kernel adat, nggunakake 'gawe-kpkg'script ditemokaké ing paket kernel-paket.
+
+%
+Debian Petunjuk # 6: Ana Petunjuk # 6. Kirim Petunjuk dina!
+
+%
+Debian Petunjuk # 7: Sampeyan bisa nggunakake paket cron-cocok apa nightly otomatisdownload nganyari kanggo paket diinstal ing sistem.
+
+%
+Debian Petunjuk # 8: Yen sampeyan duwe masalah karo Debian sing ora bisa ngatasi deningmaca buku lan dokumentasi, nyoba takon ing Pangguna Debianmilis (debian-user@lists.debian.org).
+
+%
+Debian Petunjuk # 9: Yen sampeyan kudu ngerti apa versi Debian sampeyan saikimlaku, katon ing / etc / debian_version utawa nggunakake printah 'lsb_release -sc'. Yen sampeyanpengin ngerti codename kanggo versi sing (contone, 5,0 wis codenamed'Lenny'), mriksa URL iki:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Petunjuk # 10: Ana Debian mailing lists kanggo kabeh saka penggunapitakonan kanggo debat liwat apa sijine menyang dokumen Privasi Debian.Priksa metu dhaptar ing http://www.debian.org/MailingLists/ lan langganansing sing kapentingan sing.
+
+%
+Debian Petunjuk # 11: Tansah gaul ing apa arep ing - maca DebianProject News. Maca ing web ing http://www.debian.org/News/weekly/
+
+%
+Debian Petunjuk # 12: Paket grep-dctrl menehi nomer Tulisan migunanikanggo cepet nggoleki macem-macem file kontrol paket (kayata sing kasedhiyangajukake paket).
+
+%
+Debian Petunjuk # 13: Yen sampeyan ora kaya opsi standar digunakake ing Debianpaket, sampeyan bisa ngundhuh sumber lan mbangun versi kang migunakakepilihan sing seneng. Waca http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Bagean 6,13 lan 6.14) kanggo informasi luwih lengkap.Nanging, metokake ing atine sing paling opsi ing paling paket bisa diaturing durasi, lan ora mbutuhake recompiling paket.
+
+%
+Debian Petunjuk # 14: Yen kaya ngetutake iku kataman paket a(Contone, yen sampeyan pengin ndeleng laporan kesalahan, nerbitaké bewara, lan liyaneiku padha), nimbang lengganan menyang ing Paket nelusuri System.Sampeyan bisa mangerteni sing luwih lengkap bab PTS ing:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Petunjuk # 15: Dokumentasi kanggo paket bisa biasane ditemokakeing / usr / share / doc / <paket>. Ing tartamtu, ing README.Debian ngajukake asringwis migunani informasi bab quirks Debian-tartamtu utawa tips.
+
+%
+Debian Petunjuk # 16: Yen sampeyan lagi nggoleki file tartamtu, nanging ora ngertikang paket belongs kanggo, nyoba nginstall 'cocok-file', kang njogodatabase cilik informasi iki, utawa nelusuri isi DebianPaket database, kang bisa rampung ing:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Petunjuk # 17: Need wong diajak babagan Debian? Yen sampeyan lagi nyamankaro Internet Relay Chat (IRC), mung nginstal klien favorit IRC, lannggabungake #debian ing irc.debian.org.
+
+%
+Debian Petunjuk # 18: Alexa kontrol Quality babagan paket bisa ketemudening arep http://packages.qa.debian.org/ <paket>; Kaca iki menehipranala menyang kaca QA ing Maintainer kang, ing BTS, item warta kanggo paket, laninformasi kang versi kasedhiya ing kang arsip.
+
+%
+Debian Petunjuk # 19: Yen sampeyan lagi kasengsem ing paket bangunan saka sumber, sampeyankudu nimbang nginstall paket cocok-src.
+
+%
+Debian Petunjuk # 20: Arep nglacak apa versi paket sing duwediinstal (utamané migunani kanggo wong mlaku Sato stabil / testing /sistem boten stabil)? Priksa metu cocok-show-versi.
+
+%
+Debian Petunjuk # 21: Yen kothak Debian iku konco sambungan jaringan alon,nanging sampeyan duwe akses kanggo siji cepet uga, mriksa metu paket cocok-zip.
+
+%
+Debian Petunjuk # 22: Pemikiran kang Debian mirror punika paling apik kanggo sampeyan? Delokening cocok-ndelok lan paket netselect-cocok, kang bisa menehi informasibab carane macem-macem mirror nindakake.
+
+%
+Debian Petunjuk # 23: Yen sistem nggunakake papan disk kakehan, nyobadeborphan paket; bisa kurban saran kang paket ugadienggo lan dipindhah. Lan, mesthi, ora lali kanggo ngresiki metuarea cache APT (nggunakake 'cocok-njaluk resik', 'aptitude resik', utawaTindakan aptitude kang -> paket Clean item menu cache).
+
+%
+Debian Petunjuk # 24: Yen kaya kanggo thank maintainer kanggo nangani lanJeksa Agung bisa ngetokake, mriksa metu --kudos reportbug.
+
+%
+Debian Petunjuk # 25: The 'Debian-referensi' paket ngandhut macem-macemsaka referensi dokumen kanggo kedhaftar Debian lan gawe. AkèhAlexa uga bisa ditemokaké ing URL ngisor iki:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Petunjuk # 26: Yen paket ora koyone duwe akeh dokumentasi,mriksa paket dijenengi '<paket> -doc' utawa padha lan priksa manawa kanggonginstal uga; paket karo gedhe Jumlah saka dokumentasiajeg dipérang docs ing proses iki kanggo wong-wong sing ora penginnginstal.
+
+%
+Debian Petunjuk # 27: Ajeg verifikasi serep. Sampeyan * sing * tetep serep,tengen? Kanan? Yen ora, miwiti karo tar (1) utawa mbucal (1).
+
+%
+Debian Petunjuk # 28: Yen mesin ora ing kabeh wektu (kayatalaptop), mriksa metu 'anacron' paket; iki bakal nggawe manawa biasatugas isih kelakon, malah yen mesin ora ing ing wektu padha ngaturbiasane micu.
+
+%
+Debian Petunjuk # 29: Tansah jam sistem akurat - Mesin kang nguripakepaling utawa kabeh wektu kudu 'NTP' paket diinstal supaya wektuakurat ing antarane reboots.
+
+%
+Debian Petunjuk # 30: Documentation bisa digawe kasedhiya ing http: // localhost /dening nginstall 'doc-basa' lan 'doc-tengah paket lan singdependensi.
+
+%
+Debian Petunjuk # 31: Mateni layanan biasane-aktif ing runlevel tartamtukudu rampung kanthi ngganti link S in /etc/rc<level>.d menyang link K,tinimbang njabut link tanggung; yen kabeh pranala sing dibusak, ingsistem bakal nganggep ing sabanjure nginstal sing padha kudu diganti.
+
+%
+Debian Petunjuk # 32: Paket 'doc-Debian' ngandhut sawetara generaldokumentasi bab project Debian. Iku uga kasedhiya ing Spanyol(Doc-Debian-es), Perancis (doc-Debian-fr) lan Ukrainia (doc-Debian-uk).
+
+%
+Debian Petunjuk # 33: Paket 'devscripts' ngandhut sawetara Tulisan migunani kanggokedhaftar sing pengin bantuan kanggo nambah Debian, contone wnpp-tandha, rc-tandha lan bts.
+
+%
+Debian Petunjuk # 34: Yen pengin trek Debian sid lan duwe download cilikjumlah utawa sambungan tenan alon, mriksa metu paket debdelta.
+
+%
+Debian Petunjuk # 35: Ing search for sawetara game? Njupuk dipikir ing 'goplay', kangnawakake frontend becik kanggo browsing liwat kabeh jenis game.
+
+%
+Debian Petunjuk # 36: Need paket anyar saka mlebukake karo Debian kang pungkasanrelease stabil, nanging ora arep nganyarke kanggo 'testing' utawa 'stabil'? sawetarapaket sing katahan nganti-kanggo-tanggal liwat stabil-updates Suite, sawetara wong singdigawe kasedhiya ing backports.debian.org.
+
+%
+Debian Petunjuk # 37: Arep download paket tanpa nginstall? Gunakake'Aptitude download <pkgname>'.
+
+%
+Debian Petunjuk # 38: Pengin ngerti carane sampeyan bisa nggunakake program sing wis tausadurunge? "Wong" bakal dadi kanca anyar paling! Koleksi "wong <program-jeneng>" ingNihan. Utawa, mbukak "wong -H <program-jeneng>" kanggo maca kaca manual ing browser.
+
+%
+Debian Petunjuk # 39: Nambah bash kang tab-completion dening nginstallpaket bash-completion.
+
+%
+Debian Petunjuk # 40: Yen nginstal paket printah-ora-ketemu, nyoba kanggombukak printah sing ora wis diinstal bakal ngomong apa paket nginstaldiwenehi printah sing.
+
+%
+Debian Petunjuk # 41: Sampeyan bisa nggunakake 'cocok-cache show <package_name>' utawa 'show aptitude<Package_name> 'kanggo informasi luwih lengkap babagan paket Debian.
+
+%
+Debian Petunjuk # 42: Sampeyan bisa nggunakake 'dhaftar cocok-file <package_name>' diwenehi listingisi paket Debian. tumindak iki mèmper'Dpkg -L <package_name>' kajaba paket ora perlu diinstal utawadipapag nggunakake cocok-file ing kontras kanggo dpkg.
+
+%
+Debian Petunjuk # 43: Arep sementara mateni firewall iptables Panjenengan? Gunakake'Iptables-nyimpen | nanging "/ - / d; / ^ # / d; s / gulung / nampa /" | iptables-mulihake kanggo mbusakkabeh aturan lan nyetel privasi standar kanggo nampa.
+
+%

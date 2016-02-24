@@ -1,0 +1,1359 @@
+BOFH attaisnojums # 1:pulksteņa ātrums
+
+%
+BOFH attaisnojums # 2:saules uzliesmojumi
+
+%
+BOFH attaisnojums # 3:elektromagnētiskais starojums no satelītu atlūzām
+
+%
+BOFH attaisnojums # 4:static no neilona apakšveļa
+
+%
+BOFH attaisnojums # 5:static no plastmasas slaidu noteikumiem
+
+%
+BOFH attaisnojums # 6:globālā sasilšana
+
+%
+BOFH attaisnojums # 7:slikta jauda kondicionēšana
+
+%
+BOFH attaisnojums # 8:statisks palielinājums
+
+%
+BOFH attaisnojums # 9:Doplera efekts
+
+%
+BOFH attaisnojums # 10:aparatūras stresa lūzumi
+
+%
+BOFH attaisnojums # 11:magnētiskā iejaukšanās no naudas / kredītkartes
+
+%
+BOFH attaisnojums # 12:sauss locītavas uz kabeļa spraudni
+
+%
+BOFH attaisnojums # 13:mēs gaidām [tālrunis uzņēmums] noteikt, ka līnija
+
+%
+BOFH attaisnojums # 14:izklausās Windows problēma, mēģiniet zvana Microsoft atbalstu
+
+%
+BOFH attaisnojums # 15:pagaidu maršrutēšanas anomālija
+
+%
+BOFH attaisnojums # 16:kāds bija aprēķināšanas pi uz servera
+
+%
+BOFH attaisnojums # 17:tauku elektroni līnijām
+
+%
+BOFH attaisnojums # 18:pārpalikums pārsprieguma aizsardzība
+
+%
+BOFH attaisnojums # 19:peldošā komata procesors pārplūdes
+
+%
+BOFH attaisnojums # 20:sadalīt pa nulli kļūda
+
+%
+BOFH attaisnojums # 21:POSIX atbilstība problēma
+
+%
+BOFH attaisnojums # 22:monitora izšķirtspēja ir pārāk augsta
+
+%
+BOFH attaisnojums # 23:nepareizi orientēti tastatūra
+
+%
+BOFH attaisnojums # 24:tīkla pakešu dodas kalnup (izmantojiet pārvadātājs balodis)
+
+%
+BOFH attaisnojums # 25:Samazinot elektronu plūsma
+
+%
+BOFH attaisnojums # 26:pirmajā sestdienā pēc pirmās pilnmēness ziemā
+
+%
+BOFH attaisnojums # 27:radiosity noplicināšana
+
+%
+BOFH attaisnojums # 28:CPU radiatoru sadalīti
+
+%
+BOFH attaisnojums # 29:Tas darbojas veidu, Wang darīja, kāda ir problēma
+
+%
+BOFH attaisnojums # 30:pozitronu router kļūme
+
+%
+BOFH attaisnojums # 31:mobilo telefonu iejaukšanās
+
+%
+BOFH attaisnojums # 32:techtonic stress
+
+%
+BOFH attaisnojums # 33:pjezo elektriskā iejaukšanās
+
+%
+BOFH attaisnojums # 34:(L) lietotājs kļūda
+
+%
+BOFH attaisnojums # 35:strādā kā paredzēts,
+
+%
+BOFH attaisnojums # 36:dinamiskā programmatūra saistīšana tabula bojāti
+
+%
+BOFH attaisnojums # 37:smags gravitācijas svārstības, pārvietot datoru grīdas strauji
+
+%
+BOFH attaisnojums # 38:sekretāre pieslēgts fēnu uz UPS
+
+%
+BOFH attaisnojums # 39:teroristu aktivitātes
+
+%
+BOFH attaisnojums # 40:nav pietiekami daudz atmiņas, iet saņemt sistēma jauninājums
+
+%
+BOFH attaisnojums # 41:pārtraukt konfigurācijas kļūda
+
+%
+BOFH attaisnojums # 42:spageti kabelis cēlonis pakešu neveiksme
+
+%
+BOFH attaisnojums # 43:boss aizmirsu sistēmas paroli
+
+%
+BOFH attaisnojums # 44:svētku - sistēma ekspluatācijas kredīti nav uzlādēt
+
+%
+BOFH attaisnojums # 45:vīrusu uzbrukums, luser atbildīgs
+
+%
+BOFH attaisnojums # 46:notekūdeņu tvertne pārplūda uz datora
+
+%
+BOFH attaisnojums # 47:Complete Transient Lockout
+
+%
+BOFH attaisnojums # 48:slikts ētera in kabeļi
+
+%
+BOFH attaisnojums # 49:Bogon emisijas
+
+%
+BOFH attaisnojums # 50:Izmaiņas Zemes rotācijas ātrumu
+
+%
+BOFH attaisnojums # 51:Kosmiskais starojums daļiņas avarēja ar cietā diska plate
+
+%
+BOFH attaisnojums # 52:Smarža no nehigiēniska janitorial darbiniekiem sista lenti galvas
+
+%
+BOFH attaisnojums # 53:Maz kāmja darba riteni bija koronārā; gaida nomaiņu tiks Fedexed no Wyoming
+
+%
+BOFH attaisnojums # 54:Ļauno suņiem hypnotized nakts maiņā
+
+%
+BOFH attaisnojums # 55:Santehniķis mistook maršrutēšanas panelis dekoratīvu sienas statīva
+
+%
+BOFH attaisnojums # 56:Elektriķi veikti popkorns strāvas padeves
+
+%
+BOFH attaisnojums # 57:Groundskeepers nozaga root paroli
+
+%
+BOFH attaisnojums # 58:augstspiediena sistēmas kļūmes
+
+%
+BOFH attaisnojums # 59:neizdevās izmēģinājumi, sistēma ir pārveidota
+
+%
+BOFH attaisnojums # 60:sistēma tika atgādināts
+
+%
+BOFH attaisnojums # 61:nav apstiprinājusi FCC
+
+%
+BOFH attaisnojums # 62:nepieciešams wrap sistēmu alumīnija foliju, lai novērstu problēmu
+
+%
+BOFH attaisnojums # 63:nav pareizi iezemēts, lūdzu apglabāt datoru
+
+%
+BOFH attaisnojums # 64:CPU nepieciešama atkārtota kalibrēšana
+
+%
+BOFH attaisnojums # 65:sistēma ir rebooted
+
+%
+BOFH attaisnojums # 66:bit spainis pārplūdes
+
+%
+BOFH attaisnojums # 67:dekodē kodu, kas nepieciešama no programmatūras kompānija
+
+%
+BOFH attaisnojums # 68:pieejams tikai nepieciešamību zināt pamatu
+
+%
+BOFH attaisnojums # 69:mezgls kabeļiem izraisa datu plūsmas kļūt savīti un savītu
+
+%
+BOFH attaisnojums # 70:ligzdošanas raudas shorted out ētera kabeli
+
+%
+BOFH attaisnojums # 71:Failu sistēma ir pilna ar to
+
+%
+BOFH attaisnojums # 72:Sātans darīja
+
+%
+BOFH attaisnojums # 73:Daemons darīja
+
+%
+BOFH attaisnojums # 74:Tu esi no atmiņas
+
+%
+BOFH attaisnojums # 75:Tur vairs nav problēma
+
+%
+BOFH attaisnojums # 76:Unoptimized cietais disks
+
+%
+BOFH attaisnojums # 77:Typo kodu
+
+%
+BOFH attaisnojums # 78:Jā, jā, tās sauc par dizaina ierobežojums
+
+%
+BOFH attaisnojums # 79:Paskaties, draugs: Windows 3.1 IS vispārējie aizsardzības Fault.
+
+%
+BOFH attaisnojums # 80:Tas ir liels dators jums ir tur; tu esi uzskatīt, kā tas strādā kā BSD mašīna?
+
+%
+BOFH attaisnojums # 81:Lūdzu, atvainojiet mani, man ir ķēde AC līnijas caur manu galvu, lai iegūtu šo datubāzi darbu.
+
+%
+BOFH attaisnojums # 82:Jā, yo mama kleitas, varat smieklīgi, un jums ir nepieciešams peli, lai izdzēstu failus.
+
+%
+BOFH attaisnojums # 83:Palīgpersonāls karājās pāri, sūtīt aspirīnu un atgriezties vēlāk.
+
+%
+BOFH attaisnojums # 84:Kāds stāv uz Ethernet kabeli, radot kaprīze ar kabeli
+
+%
+BOFH attaisnojums # 85:Windows 95 bez dokumentiem "funkciju"
+
+%
+BOFH attaisnojums # 86:runt paketes
+
+%
+BOFH attaisnojums # 87:Parole ir pārāk sarežģīta, lai atšifrētu
+
+%
+BOFH attaisnojums # 88:Boss mazulis fucked up mašīnu
+
+%
+BOFH attaisnojums # 89:Elektromagnētiskā enerģija zaudējums
+
+%
+BOFH attaisnojums # 90:budžeta samazinājumi
+
+%
+BOFH attaisnojums # 91:Peles košļāt caur barošanas kabeli
+
+%
+BOFH attaisnojums # 92:Sastāvējies failu rokturis (nākamreiz izmantot Tupperware (tm)!)
+
+%
+BOFH attaisnojums # 93:Iezīme vēl nav ieviesta
+
+%
+BOFH attaisnojums # 94:interneta pārtraukums
+
+%
+BOFH attaisnojums # 95:Pentium FDIV bug
+
+%
+BOFH attaisnojums # 96:Vendor vairs neatbalsta produktu
+
+%
+BOFH attaisnojums # 97:Mazo dzīvnieku kamikadzes uzbrukums barošanas avotiem
+
+%
+BOFH attaisnojums # 98:Pārdevējs nodot bug tur.
+
+%
+BOFH attaisnojums # 99:SIMM šķērsruna.
+
+%
+BOFH attaisnojums # 100:IRQ pamešanas
+
+%
+BOFH attaisnojums # 101:sabruka Mugurkauls
+
+%
+BOFH attaisnojums # 102:Enerģētikas uzņēmums testēšana jauna sprieguma svārstībām (izveide) iekārtas
+
+%
+BOFH attaisnojums # 103:operatori streiku dēļ sadalīti kafijas automātu
+
+%
+BOFH attaisnojums # 104:backup lentes pārrakstīts ar kopiju system vadītāja mīļākie CD
+
+%
+BOFH attaisnojums # 105:UPS pārtrauca servera jaudu
+
+%
+BOFH attaisnojums # 106:Elektriķiem nezināja, ko dzeltenais vads bija tik viņš yanked Ethernet out.
+
+%
+BOFH attaisnojums # 107:Tastatūra nav pievienots
+
+%
+BOFH attaisnojums # 108:Gaisa kondicionēšana ūdensapgāde caurules plīsušas pār mašīna istaba
+
+%
+BOFH attaisnojums # 109:Elektroenerģijas apakšstacija autostāvvietā uzspridzināja.
+
+%
+BOFH attaisnojums # 110:Rolling Stones koncertu leju ceļa izraisīja brūns out
+
+%
+BOFH attaisnojums # 111:Pārdevējs brauca pāri CPU kuģa.
+
+%
+BOFH attaisnojums # 112:Monitors ir pieslēgts seriālo portu
+
+%
+BOFH attaisnojums # 113:Sakņu nameservers ir ārpus sinhronizācijā
+
+%
+BOFH attaisnojums # 114:elektromagnētiskās impulsiem no franču virs zemes nuke testēšanu.
+
+%
+BOFH attaisnojums # 115:tastatūras starpdevējs ir radīt viltus keycodes.
+
+%
+BOFH attaisnojums # 116:patiesie ttys kļuva pseido ttys un otrādi.
+
+%
+BOFH attaisnojums # 117:printeris domā savu maršrutētāju.
+
+%
+BOFH attaisnojums # 118:router domā savu printeri.
+
+%
+BOFH attaisnojums # 119:ļauno hakeri no Serbijas.
+
+%
+BOFH attaisnojums # 120:mēs vienkārši pārgāja uz FDDI.
+
+%
+BOFH attaisnojums # 121:halonu sistēma aizgāja un nogalināja operatoriem.
+
+%
+BOFH attaisnojums # 122:jo Bill Gates ir Jehovas liecinieku, un tāpēc nekas varētu strādāt Sv swithin diena.
+
+%
+BOFH attaisnojums # 123:lietotājs ar datoru attiecība ir pārāk augsts.
+
+%
+BOFH attaisnojums # 124:lietotājs ar datoru devā pārāk zemu.
+
+%
+BOFH attaisnojums # 125:mēs vienkārši pārgāja uz Sprint.
+
+%
+BOFH attaisnojums # 126:tas ir Intel Inside
+
+%
+BOFH attaisnojums # 127:Sticky biti uz diska.
+
+%
+BOFH attaisnojums # 128:Power Company, kam EMP problēmas ar reaktora
+
+%
+BOFH attaisnojums # 129:Gredzens ir nepieciešama citu marķiera
+
+%
+BOFH attaisnojums # 130:jauna vadība
+
+%
+BOFH attaisnojums # 131:telnet: Nevar izveidot savienojumu ar attālo uzņēmējas: Savienojums atteikts
+
+%
+BOFH attaisnojums # 132:SCSI Chain overterminated
+
+%
+BOFH attaisnojums # 133:Tas nav pievienots.
+
+%
+BOFH attaisnojums # 134:jo tīkla lag dēļ pārāk daudz cilvēku spēlē deathmatch
+
+%
+BOFH attaisnojums # 135:Jūs varat ievietot disku otrādi.
+
+%
+BOFH attaisnojums # 136:Daemons zaudēt sistēmā.
+
+%
+BOFH attaisnojums # 137:Lietotāja tika izplata pornogrāfiju servera; Sistēma konfiscēja FIB.
+
+%
+BOFH attaisnojums # 138:BNC (smadzenes nav pievienots)
+
+%
+BOFH attaisnojums # 139:UBNC (lietotāja smadzenes nav pievienots)
+
+%
+BOFH attaisnojums # 140:LBNC (luser smadzenes nav pievienots)
+
+%
+BOFH attaisnojums # 141:disks vērpšanas atpakaļ - pārslēgt puslodes džemperis.
+
+%
+BOFH attaisnojums # 142:Jaunie guy pārrobežu savienoti tālruņa līnijas ar maiņstrāvas jaudas autobusu.
+
+%
+BOFH attaisnojums # 143:nācās izmantot āmuru, lai atbrīvotu iestrēdzis disku diska galviņas.
+
+%
+BOFH attaisnojums # 144:Pārāk maz computrons pieejama.
+
+%
+BOFH attaisnojums # 145:Flat riepu uz universāls ar lentēm. ( "Nekad nenovērtē joslas platumu par universāls pilnu lentes mezglošanas pa šoseju" Andrew S. Tannenbaum)
+
+%
+BOFH attaisnojums # 146:Komunikāciju satelīts ar militāro izmanto zvaigžņu kariem.
+
+%
+BOFH attaisnojums # 147:Party-bug in Aloha protokolā.
+
+%
+BOFH attaisnojums # 148:Ievietojiet monētu par jaunu spēli
+
+%
+BOFH attaisnojums # 149:Dew uz telefona līnijām.
+
+%
+BOFH attaisnojums # 150:Arcserve atkal avarēja serveri.
+
+%
+BOFH attaisnojums # 151:Apmēram vienu vajadzēja powerstrip, lai viņi velk slēdža spraudni.
+
+%
+BOFH attaisnojums # 152:Mans ponijs asti hit ieslēgšanas / izslēgšanas slēdzi uz jaudas sloksnes.
+
+%
+BOFH attaisnojums # 153:Liela, lai maz endian konversijas kļūda
+
+%
+BOFH attaisnojums # 154:Jūs varat melodija failu sistēma, bet jūs nevarat noskaņoties zivis (no vairuma tunefs cilvēks lapas)
+
+%
+BOFH attaisnojums # 155:Dumb termināls
+
+%
+BOFH attaisnojums # 156:Zombie procesi izziņots datoru
+
+%
+BOFH attaisnojums # 157:Nepareizs laika sinhronizācija
+
+%
+BOFH attaisnojums # 158:nelaiķis procesi
+
+%
+BOFH attaisnojums # 159:spītīgs procesi
+
+%
+BOFH attaisnojums # 160:nav lieks ventilators mazspēja
+
+%
+BOFH attaisnojums # 161:uzraudzīt VLF noplūdi
+
+%
+BOFH attaisnojums # 162:bugs RAID
+
+%
+BOFH attaisnojums # 163:nē "jebkurš" taustiņu uz klaviatūras
+
+%
+BOFH attaisnojums # 164:sakņu puve
+
+%
+BOFH attaisnojums # 165:mugurkauls skolioze
+
+%
+BOFH attaisnojums # 166:/ Pub / pusdienas
+
+%
+BOFH attaisnojums # 167:pārmērīgs sadursmes un nav pietiekami daudz pakešu ambulances
+
+%
+BOFH attaisnojums # 168:le0: nav pārvadātājs: uztvērējs cable problēma?
+
+%
+BOFH attaisnojums # 169:apraides paketes uz nepareizo frekvenci
+
+%
+BOFH attaisnojums # 170:spiedpogām nespēj apstrādāt jumbo kodolu
+
+%
+BOFH attaisnojums # 171:PAZIŅOJUMS: alloc: / dev / null: failsistēmu pilns
+
+%
+BOFH attaisnojums # 172:pseido-lietotājs pseido-terminālu
+
+%
+BOFH attaisnojums # 173:Rekursīvs šķērsošana no cilpas mount punktus
+
+%
+BOFH attaisnojums # 174:mugurkauls regulēšana
+
+%
+BOFH attaisnojums # 175:OS nomainīju uz diska
+
+%
+BOFH attaisnojums # 176:tvaiki no iztvaicēšanas sticky-piezīmi līmes
+
+%
+BOFH attaisnojums # 177:sticktion
+
+%
+BOFH attaisnojums # 178:īsā pozīcija par procesa galda
+
+%
+BOFH attaisnojums # 179:multicasts šķeltajiem paketēm
+
+%
+BOFH attaisnojums # 180:ēteris noplūde
+
+%
+BOFH attaisnojums # 181:Atilla rumbas
+
+%
+BOFH attaisnojums # 182:endothermal atkārtota kalibrēšana
+
+%
+BOFH attaisnojums # 183:filesystem nav pietiekami lielas, lai Jumbo Kernel Patch
+
+%
+BOFH attaisnojums # 184:cilpa atrast cilpa lieku cilpas
+
+%
+BOFH attaisnojums # 185:sistēma patērē visu papīra peidžeru
+
+%
+BOFH attaisnojums # 186:atļauja liegta
+
+%
+BOFH attaisnojums # 187:Pārformatēšana lapu. Pagaidiet ...
+
+%
+BOFH attaisnojums # 188:..disk vai procesors ir uz uguns.
+
+%
+BOFH attaisnojums # 189:SCSI ir pārāk plaša.
+
+%
+BOFH attaisnojums # 190:Patentētu informāciju.
+
+%
+BOFH attaisnojums # 191:Vienkārši ierakstiet 'mv * / dev / null ".
+
+%
+BOFH attaisnojums # 192:bēguļojošs kaķis uz sistēmu.
+
+%
+BOFH attaisnojums # 193:Vai jūs maksājat jauno atbalsta maksu?
+
+%
+BOFH attaisnojums # 194:Mēs tikai atbalstām 1200 bp savienojumu.
+
+%
+BOFH attaisnojums # 195:Mēs tikai atbalstām 28000 bps savienojumu.
+
+%
+BOFH attaisnojums # 196:Me nav interneta, tikai sētnieku, man tikai vaska grīdas.
+
+%
+BOFH attaisnojums # 197:Piedod Pentium netiks darīt, jums ir nepieciešams vispārējas nozīmes pakalpojumu, lai izveidotu savienojumu ar mums.
+
+%
+BOFH attaisnojums # 198:Post-it Piezīme Dūņas noplūda uz monitora.
+
+%
+BOFH attaisnojums # 199:cirtas jūsu tastatūras smadzenēm zaudē elektrību.
+
+%
+BOFH attaisnojums # 200:Monitors ir nepieciešama citu kastīti pikseļi.
+
+%
+BOFH attaisnojums # 201:RPC_PMAP_FAILURE
+
+%
+BOFH attaisnojums # 202:kodola paniku: rakstīt tikai-atmiņa (/ dev / wom0) jauda pārsniegts.
+
+%
+BOFH attaisnojums # 203:Rakstiet tikai-atmiņa apakšsistēma pārāk lēns, lai šo mašīnu. Sazinieties ar vietējo izplatītāju.
+
+%
+BOFH attaisnojums # 204:Vienkārši paņemt telefonu un sniegt modema savienojumu skaņas. "Nu jūs teicāt mums vajadzētu saņemt vairāk līnijas, lai mums nav balss līnijas."
+
+%
+BOFH attaisnojums # 205:Kvantu dinamika ietekmē tranzistori
+
+%
+BOFH attaisnojums # 206:Policija pēta visus interneta paketes, meklējot ar NARCO-NET konfigurētājam
+
+%
+BOFH attaisnojums # 207:Mēs šobrīd cenšamies jaunu koncepciju ar dzīvu peli. Diemžēl, viens vēl izdzīvot ir saliekts līdz ar datoru ..... lūdzu, sedz ar mums.
+
+%
+BOFH attaisnojums # 208:Jūsu pasts tiek novirzīts caur Vāciju ... un viņi cenzēt mums.
+
+%
+BOFH attaisnojums # 209:Tikai cilvēki ar nosaukumiem, kas sākas ar 'A' saņemat pastu šonedēļ (a la Microsoft)
+
+%
+BOFH attaisnojums # 210:Mums nav jāmaksā interneta rēķinu un tas ir bijis nogriezts.
+
+%
+BOFH attaisnojums # 211:Zibens streiki.
+
+%
+BOFH attaisnojums # 212:Protams, tas nedarbojas. Mēs esam veica programmatūras jauninājums.
+
+%
+BOFH attaisnojums # 213:Mainiet savu valodu somu.
+
+%
+BOFH attaisnojums # 214:Luminiscences gaismas ir radot negatīvu jonus. Ja pagriežot tos off nedarbojas, ņem tos un nodot alvas folija uz galiem.
+
+%
+BOFH attaisnojums # 215:Augsta kodolenerģijas aktivitāte jūsu reģionā.
+
+%
+BOFH attaisnojums # 216:Ko birojs ir jums? Ak, ka viens. Vai jūs zināt, ka jūsu ēka tika uzcelta pa universitāšu pirmajā kodolpētniecības vietā? Un wow, nav jums laimīgs vienu, jūsu birojs ir tiesības pār kur kodols ir apglabāts!
+
+%
+BOFH attaisnojums # 217:Par MGS ilga no gāzes.
+
+%
+BOFH attaisnojums # 218:UPS nav akumulatora rezerves.
+
+%
+BOFH attaisnojums # 219:Recursivity. Zvanu atpakaļ, ja tas notiek atkal.
+
+%
+BOFH attaisnojums # 220:Kāds domāja Big Red Button bija gaismas slēdzi.
+
+%
+BOFH attaisnojums # 221:Lieldatoru vajag atpūsties. Tas kļūst vecs, jūs zināt.
+
+%
+BOFH attaisnojums # 222:ES neesmu pārliecināts. Mēģiniet zvanīt uz interneta galvenais birojs - tas ir šajā grāmatā.
+
+%
+BOFH attaisnojums # 223:Līnijas visi esam aizņemti (busied out, tas ir - kāpēc ļaut viņiem sākt ar).
+
+%
+BOFH attaisnojums # 224:9. janvāris 16:41:27 Huber su: "su root 'izdevās par .... uz / dev / pts / 1
+
+%
+BOFH attaisnojums # 225:Tas ir tiem datoru cilvēkus X {pilsēta pasaulē}. Viņi saglabā pildīšanai lietas uz augšu.
+
+%
+BOFH attaisnojums # 226:Star Wars satelīta nejauši uzspridzināja WAN.
+
+%
+BOFH attaisnojums # 227:Fatāla kļūda tiesības priekšā ekrāna
+
+%
+BOFH attaisnojums # 228:Šī funkcija pašlaik nav atbalstīts, bet Bill Gates mums apliecina tas tiks iekļauti nākamajā jauninājums.
+
+%
+BOFH attaisnojums # 229:nepareiza polaritāte neitronu plūsmas
+
+%
+BOFH attaisnojums # 230:Lusers mācīšanās līkne, šķiet, ir fraktāļu
+
+%
+BOFH attaisnojums # 231:Mums bija, lai izslēgtu šo pakalpojumu, lai izpildītu CDA Bill.
+
+%
+BOFH attaisnojums # 232:Jonizācijas no gaisa kondicionēšanas
+
+%
+BOFH attaisnojums # 233:TCP / IP UDP trauksmes slieksnis ir pārāk zems.
+
+%
+BOFH attaisnojums # 234:Kāds ir apraides pigmejs paketes un maršrutētāju nezina, kā rīkoties ar tām.
+
+%
+BOFH attaisnojums # 235:Jaunais Frame Relay tīkls nav vietīgs nosaka programmatūras cilpa raidītāju vēl.
+
+%
+BOFH attaisnojums # 236:Fanout nomešanu spriegums pārāk daudz, mēģiniet samazināt dažus no šiem maz pēdas
+
+%
+BOFH attaisnojums # 237:Plate spriegums ir pārāk zems uz demodulators caurule
+
+%
+BOFH attaisnojums # 238:Tu WHA ... oh _dear _....
+
+%
+BOFH attaisnojums # 239:CPU vajadzībām gultņi pārsaiņotas
+
+%
+BOFH attaisnojums # 240:Pārāk daudz maz adatas CPU jauc to, saliekt un atpakaļ, līdz 10-20% ir glīti noņemtas. Vai _not_ atstāt metāla biti redzams!
+
+%
+BOFH attaisnojums # 241:_Rosin_ Serde lodēšana? Bet ...
+
+%
+BOFH attaisnojums # 242:Programmatūra izmanto ASV mērījumus, bet OS ir metrisko ...
+
+%
+BOFH attaisnojums # 243:Datoru fleetly, pele un viss.
+
+%
+BOFH attaisnojums # 244:Jūsu kaķis mēģināja ēst peli.
+
+%
+BOFH attaisnojums # 245:Borg centās asimilēt savu sistēmu. Pretestība ir veltīga.
+
+%
+BOFH attaisnojums # 246:Tā ir bijis zibens vētra mums bija (vakar) (pēdējās nedēļas laikā) (pēdējā mēneša)
+
+%
+BOFH attaisnojums # 247:Pateicoties federālā budžeta problēmām, mēs esam spiesti apcirpt lietotāju skaita spēj piekļūt sistēmai vienā reizē. (Proti, nav atļauts ....)
+
+%
+BOFH attaisnojums # 248:Pārāk daudz starojums, kas nāk no zemes.
+
+%
+BOFH attaisnojums # 249:Diemžēl mums ir beigušies bitiem / baitu / neatkarīgi. Neuztraucieties, nākamais piedāvājums būs nāk nākamnedēļ.
+
+%
+BOFH attaisnojums # 250:Program slodze ir pārāk smags, lai procesors pacelt.
+
+%
+BOFH attaisnojums # 251:Procesi darbojas lēni dēļ vājas barošanas
+
+%
+BOFH attaisnojums # 252:Mūsu ISP ir, kam {komutācijas, maršrutēšanas, SMDS, frame relay} problēmas
+
+%
+BOFH attaisnojums # 253:Mēs esam beigušies licenču
+
+%
+BOFH attaisnojums # 254:Iejaukšanās no Mēness starojuma
+
+%
+BOFH attaisnojums # 255:Stāv istabu tikai uz autobusu.
+
+%
+BOFH attaisnojums # 256:Jums ir nepieciešams uzstādīt RTFM interfeisu.
+
+%
+BOFH attaisnojums # 257:Tas būtu jo programmatūra nedarbojas.
+
+%
+BOFH attaisnojums # 258:Tas ir viegli noteikt, bet es nevaru būt bothered.
+
+%
+BOFH attaisnojums # 259:Kāds tie ir nozvejotas printerī, un, ja kaut kas cits tiek drukāts, viņš būs tajā too.
+
+%
+BOFH attaisnojums # 260:Mēs jaunināšanu / dev / null
+
+%
+BOFH attaisnojums # 261:Usenet ziņas ir novecojusi
+
+%
+BOFH attaisnojums # 262:Mūsu POP serveris tika nolaupīti ar zebiekste.
+
+%
+BOFH attaisnojums # 263:Tas ir iestrēdzis tīmeklī.
+
+%
+BOFH attaisnojums # 264:Modemu nerunā angliski.
+
+%
+BOFH attaisnojums # 265:Pele izbēguši.
+
+%
+BOFH attaisnojums # 266:Visi paketes ir tukšas.
+
+%
+BOFH attaisnojums # 267:UPS ir par streiku.
+
+%
+BOFH attaisnojums # 268:Neitrīno pārslodzes uz nameserver
+
+%
+BOFH attaisnojums # 269:Kušanas diskdziņiem
+
+%
+BOFH attaisnojums # 270:Kāds ir messed up kodola norādes
+
+%
+BOFH attaisnojums # 271:Kodola licence ir beidzies
+
+%
+BOFH attaisnojums # 272:Netscape ir avarējusi
+
+%
+BOFH attaisnojums # 273:Vadu izlēca pa trāpīja jaudas slēdzis.
+
+%
+BOFH attaisnojums # 274:Tas bija OK, pirms tu pieskāries.
+
+%
+BOFH attaisnojums # 275:bit puve
+
+%
+BOFH attaisnojums # 276:ASV Postal Service
+
+%
+BOFH attaisnojums # 277:Jūsu Flux Capacitor ir devusies slikti.
+
+%
+BOFH attaisnojums # 278:Par Dilithium Kristāli nepieciešams pagriezt.
+
+%
+BOFH attaisnojums # 279:Statiskā elektrība maršrutēšana darbojas uz augšu ...
+
+%
+BOFH attaisnojums # 280:Traceroute saka, ka ir maršrutēšanas problēma mugurkauls. Tā nav mūsu problēma.
+
+%
+BOFH attaisnojums # 281:Co-lokators nevar pārbaudīt kadru releja vārti uz ISDN serveri.
+
+%
+BOFH attaisnojums # 282:High augstums kondensācija no U.S.A.F prototipu gaisa kuģi ir piesārņots primāro apakštīkla masku. Izslēdziet datoru 9 dienas, lai nesabojātu to.
+
+%
+BOFH attaisnojums # 283:Zāles pļāvējs asmens jūsu ventilatoru nepieciešams asināšanas
+
+%
+BOFH attaisnojums # 284:Elektroni par Bender
+
+%
+BOFH attaisnojums # 285:Telekomunikācijas ir pārkārtošanās.
+
+%
+BOFH attaisnojums # 286:Telekomunikācijas ir pazemināšanu.
+
+%
+BOFH attaisnojums # 287:Telekomunikācijas ir downshifting.
+
+%
+BOFH attaisnojums # 288:Cietais disks miega. Ļaujiet tai pamosties par to pašu ...
+
+%
+BOFH attaisnojums # 289:Traucējumi starp tastatūru un vadībā.
+
+%
+BOFH attaisnojums # 290:CPU ir mainījies, un kļūt decentralizēta.
+
+%
+BOFH attaisnojums # 291:Sakarā ar CDA, mums vairs nav root kontu.
+
+%
+BOFH attaisnojums # 292:Mēs ilga no signālu un mēs un gaida telefonu kompānija piegādāt citu pudeli.
+
+%
+BOFH attaisnojums # 293:Jūs must've hit nepareizu jebkuru taustiņu.
+
+%
+BOFH attaisnojums # 294:PCMCIA vergu vadītājs
+
+%
+BOFH attaisnojums # 295:Token izkrita no gredzena. Zvaniet mums, ja jums atrast to.
+
+%
+BOFH attaisnojums # 296:Aparatūras bus nepieciešama jauna marķiera.
+
+%
+BOFH attaisnojums # 297:Pārāk daudz pārtrauc
+
+%
+BOFH attaisnojums # 298:Nepietiek pārtrauc
+
+%
+BOFH attaisnojums # 299:Dati uz jūsu cietā diska ir ārpus līdzsvara.
+
+%
+BOFH attaisnojums # 300:Digital Manipulators pārsniedz ātruma parametrus
+
+%
+BOFH attaisnojums # 301:šķiet, ir Lēna / Narrow SCSI-0 Interface problēma
+
+%
+BOFH attaisnojums # 302:mikroelektronikas Riemannian izliektās telpas kļūme rakstīt tikai failu sistēmu
+
+%
+BOFH attaisnojums # 303:fraktāļu radiācija traucēšanas mugurkaulu
+
+%
+BOFH attaisnojums # 304:maršrutēšanas problēmas nervu neto
+
+%
+BOFH attaisnojums # 305:IRQ-problēmas ar ANO nepastāvīgus-Power-Supply
+
+%
+BOFH attaisnojums # 306:CPU-leņķis ir jākoriģē, jo vibrācijas nāk no tuvējā ceļa
+
+%
+BOFH attaisnojums # 307:emisijas no GSM-phones
+
+%
+BOFH attaisnojums # 308:CD-ROM servera vajadzībām atkārtota kalibrēšana
+
+%
+BOFH attaisnojums # 309:ugunsmūris nepieciešama dzesēšana
+
+%
+BOFH attaisnojums # 310:asinhronā inode neveiksme
+
+%
+BOFH attaisnojums # 311:pārejošs autobuss protokols pārkāpums
+
+%
+BOFH attaisnojums # 312:nesaderīgi bitu reģistrācijas operatori
+
+%
+BOFH attaisnojums # 313:Jūsu process nav ISO 9000 atbilstošu
+
+%
+BOFH attaisnojums # 314:Jums ir nepieciešams, lai atjauninātu savu VESA vietējo autobusu uz MasterCard vietējo autobusu.
+
+%
+BOFH attaisnojums # 315:Nesenā kodolieroču izmēģinājumu
+
+%
+BOFH attaisnojums # 316:Elfi par streiku. (Kāpēc viņi sauc EMAG Elf Magic)
+
+%
+BOFH attaisnojums # 317:Interneta pārsniedza Luser līmenis, lūdzu, pagaidiet, kamēr luser baļķi off pirms mēģināt pieteikties atpakaļ.
+
+%
+BOFH attaisnojums # 318:Jūsu e-pasts tagad tiek piegādāts ar USPS.
+
+%
+BOFH attaisnojums # 319:Jūsu dators nav atpakaļ visu biti tas izpaužas no interneta.
+
+%
+BOFH attaisnojums # 320:Jūs esat inficēts ar Telescoping Habla vīrusu.
+
+%
+BOFH attaisnojums # 321:Plānotais pasaules CPU nobirums
+
+%
+BOFH attaisnojums # 322:Jūsu Pentium ir apkures problēma - mēģināt dzesēšanas to ar ledus aukstu ūdeni (Negrieziet datora, jūs nevēlaties, lai atdzesētu Pentium Chip, kamēr viņš nav darba, vai ne?).
+
+%
+BOFH attaisnojums # 323:Jūsu procesors ir apstrādāts pārāk daudz norādījumus. To izslēgtu uzreiz, nav veids jebkura komandas !!
+
+%
+BOFH attaisnojums # 324:Jūsu paketes bija ēst ar terminators
+
+%
+BOFH attaisnojums # 325:Jūsu procesors neattīsta pietiekami daudz siltuma.
+
+%
+BOFH attaisnojums # 326:Mums ir nepieciešams licencēts elektriķis nomainīt spuldzes datorklase.
+
+%
+BOFH attaisnojums # 327:POP serveris ir ārpus Coke
+
+%
+BOFH attaisnojums # 328:Fiber optics izraisa gāzes noplūdi galveno
+
+%
+BOFH attaisnojums # 329:Server nomākts, vajag Prozac
+
+%
+BOFH attaisnojums # 330:kvantu decoherence
+
+%
+BOFH attaisnojums # 331:šie Damn jenoti!
+
+%
+BOFH attaisnojums # 332:optimāli maršrutēšanas pieredze
+
+%
+BOFH attaisnojums # 333:Ir vajadzīga santehniķis, tīkls noteka ir aizsērējusi
+
+%
+BOFH attaisnojums # 334:50% no rokasgrāmatas ir .pdf failos LASIMANI
+
+%
+BOFH attaisnojums # 335:AA baterijas ir wallclock sūta magnētisko traucējumus
+
+%
+BOFH attaisnojums # 336:XY asi trackball ir saskaņota ar vasaras saulgriežiem
+
+%
+BOFH attaisnojums # 337:butāna šķiltavas izraisa pincushioning
+
+%
+BOFH attaisnojums # 338:veco tintes kasetnes rasties bārija bāzes dūmus
+
+%
+BOFH attaisnojums # 339:vadītājs kabeļu kanāla
+
+%
+BOFH attaisnojums # 340:Nu noteikt, ka nākamajā (jaunināšanas, update, plāksteris atbrīvot, Service Pack).
+
+%
+BOFH attaisnojums # 341:HTTPD Kļūda 666: BOFH bija šeit
+
+%
+BOFH attaisnojums # 342:HTTPD Kļūda 4004: ļoti vecs Intel CPU - nepietiekams apstrādes jaudu
+
+%
+BOFH attaisnojums # 343:ATM valde ir beigušies 10 mārciņas piezīmes. Mums ir pātagu kārtu uzpilde to, aprūpi, lai palīdzētu?
+
+%
+BOFH attaisnojums # 344:Network neveiksme - zvaniet NBC
+
+%
+BOFH attaisnojums # 345:Ņemot manuāli izsekotu satelītu.
+
+%
+BOFH attaisnojums # 346:Jūsu / mūsu dators (s) bija cietusi atmiņas noplūde, un mēs gaidām, lai tos papildināt.
+
+%
+BOFH attaisnojums # 347:Gumiju izputējis
+
+%
+BOFH attaisnojums # 348:Mēs esam uz Token Ring, un izskatās, ka simbolisku got zaudēt.
+
+%
+BOFH attaisnojums # 349:Klaiņojošu Alfa daļiņas no atmiņas iepakojuma izraisīja Hard atmiņas kļūda uz servera.
+
+%
+BOFH attaisnojums # 350:paradigmas maiņa ... bez sajūga
+
+%
+BOFH attaisnojums # 351:PEBKAC (problēma pastāv starp tastatūru un priekšsēdētāja)
+
+%
+BOFH attaisnojums # 352:Šie kabeļi nav vienāda garuma.
+
+%
+BOFH attaisnojums # 353:Otrās sistēmas efekts.
+
+%
+BOFH attaisnojums # 354:Košļājamā gumija uz / dev / sd3c
+
+%
+BOFH attaisnojums # 355:Garlaicība kodolā.
+
+%
+BOFH attaisnojums # 356:tad daemons! tad daemons! briesmīgi daemons!
+
+%
+BOFH attaisnojums # 357:Man patiktu, lai palīdzētu jums - tas ir tikai, ka Boss neļaus man pie datora.
+
+%
+BOFH attaisnojums # 358:pārsteidza ar Good Times vīrusu
+
+%
+BOFH attaisnojums # 359:Jums ir I / O kļūda -> Nekompetents Operatora kļūda
+
+%
+BOFH attaisnojums # 360:Jūsu paritātes pārbaude ir pārtērēt un jūs no kešatmiņas.
+
+%
+BOFH attaisnojums # 361:Komunistu revolucionāri pārņēmuši serveru telpā un prasīgi visus datorus ēkā vai tie atvašu sistēmas administrators. Poor aplama muļķi.
+
+%
+BOFH attaisnojums # 362:Plazmas conduit pārkāpums
+
+%
+BOFH attaisnojums # 363:No kartes uz diska D:
+
+%
+BOFH attaisnojums # 364:Smilšu blusas ēšanas internetu kabeļi
+
+%
+BOFH attaisnojums # 365:paralēlas procesori darbojas perpendikulāri šodienu
+
+%
+BOFH attaisnojums # 366:ATM šūnu nav viesabonēšanas funkcija ieslēgta, piezīmjdatori nevar savienot
+
+%
+BOFH attaisnojums # 367:Webmasters nolaupīti ar ļauno kultu.
+
+%
+BOFH attaisnojums # 368:Nespēja koriģēt vasaras laika.
+
+%
+BOFH attaisnojums # 369:Virus nosūtīti no datora uz Sysadmins.
+
+%
+BOFH attaisnojums # 370:Virus pateicoties datoriem, kam nedrošu seksu.
+
+%
+BOFH attaisnojums # 371:Nepareizi konfigurēta statiskā maršrutēšana par corerouters.
+
+%
+BOFH attaisnojums # 372:Spiesti atbalstīt NT serverus; Sysadmins atmest.
+
+%
+BOFH attaisnojums # 373:Aizdomīgs rādītājs bojāts virtuālo mašīnu
+
+%
+BOFH attaisnojums # 374:Tas InterNIC vaina.
+
+%
+BOFH attaisnojums # 375:Saknes nosaukumu serveriem bojāti.
+
+%
+BOFH attaisnojums # 376:Budžeta samazinājumi piespieda mūs pārdot visus barošanas auklas par serveriem.
+
+%
+BOFH attaisnojums # 377:Kāds līks vītā pāra vadi vērā automātiskajā atbildētājā.
+
+%
+BOFH attaisnojums # 378:Operatori nogalināti līdz gada 2000 bug kodums.
+
+%
+BOFH attaisnojums # 379:Mēs esam noplūktiem COBOL kā izvēlētajā valodā.
+
+%
+BOFH attaisnojums # 380:Operatori nogalināti, kad milzīgs kaudze backup lentes samazinājās vairāk.
+
+%
+BOFH attaisnojums # 381:Robotikas lentes mainītājs sajauca operatora kaklasaiti backup lentes.
+
+%
+BOFH attaisnojums # 382:Kāds bija smēķēšanas datorklase un ieskaitīt halona sistēmas.
+
+%
+BOFH attaisnojums # 383:Jūsu procesors ir veikusi braukt uz Debesu vārti uz NLO aiz Heila-BOPP s komētas.
+
+%
+BOFH attaisnojums # 384:tas ir ID-10-T kļūda
+
+%
+BOFH attaisnojums # 385:Dyslexics pārrakstīšana saimniekiem failu serveros
+
+%
+BOFH attaisnojums # 386:Internets tiek skenēta vīrusiem.
+
+%
+BOFH attaisnojums # 387:Datora savienība līgumu termiņš beidzas pusnaktī.
+
+%
+BOFH attaisnojums # 388:Bad lietotāju karma.
+
+%
+BOFH attaisnojums # 389:/ Dev / pavediens bija saistīts ar / dev / null
+
+%
+BOFH attaisnojums # 390:Paaugstināta saules plankums aktivitāte.
+
+%
+BOFH attaisnojums # 391:Mēs jau nosūtīti ap paziņojumu par to.
+
+%
+BOFH attaisnojums # 392:Tas ir Savienības noteikumiem. Tur nekas mēs varam darīt par to. Piedodiet.
+
+%
+BOFH attaisnojums # 393:Traucējumi no Van Allen Belt.
+
+%
+BOFH attaisnojums # 394:Jupiters ir saskaņots ar Marsu.
+
+%
+BOFH attaisnojums # 395:Lieki ACLs.
+
+%
+BOFH attaisnojums # 396:Pasta serveris skāris UniSpammer.
+
+%
+BOFH attaisnojums # 397:T-1 ir pārslogotas, jo porno satiksmes uz ziņu serveri.
+
+%
+BOFH attaisnojums # 398:Dati par iekštīklu got novadīt caur ārtīkls un izkrauti internetā.
+
+%
+BOFH attaisnojums # 399:Mēs esam 100% Microsoft veikals.
+
+%
+BOFH attaisnojums # 400:Mēs Microsoft. Ko jūs piedzīvo nav problēma; tas ir bez dokumentiem funkcija.
+
+%
+BOFH attaisnojums # 401:Pārdošanas personāls pārdod preci mēs nepiedāvājam.
+
+%
+BOFH attaisnojums # 402:Sekretārs nosūtīja ķēdes vēstuli visiem 5000 darbiniekiem.
+
+%
+BOFH attaisnojums # 403:Sysadmin nedzirdēja peidžeri iet off dēļ skaļu mūziku no bar-istabu skaļruņiem.
+
+%
+BOFH attaisnojums # 404:Sysadmin nejauši iznīcināta peidžeri ar lielu āmuru.
+
+%
+BOFH attaisnojums # 405:Sysadmins pieejama, jo tie ir sanāksmē runā par to, kāpēc viņi ir pieejami tik daudz.
+
+%
+BOFH attaisnojums # 406:Bad kafetērija pārtikas izkrauta visus Sysadmins slimnīcā.
+
+%
+BOFH attaisnojums # 407:Route vicināšanu pie NAP.
+
+%
+BOFH attaisnojums # 408:Datori zem ūdens dēļ SYN plūdu.
+
+%
+BOFH attaisnojums # 409:Ir piemērots Vulcan-nāve-grip ping.
+
+%
+BOFH attaisnojums # 410:Elektriskās cauruļvadi ar mašīnu telpā kūst.
+
+%
+BOFH attaisnojums # 411:Sastrēgums uz informācijas Superhighway.
+
+%
+BOFH attaisnojums # 412:Radial Telemetrijas Infiltrācijas
+
+%
+BOFH attaisnojums # 413:Govs-pašizgāzēji noglabāti govi uz servera.
+
+%
+BOFH attaisnojums # 414:Tachyon emisijas pārslodzes sistēmu
+
+%
+BOFH attaisnojums # 415:Uzturēšana logs sadalīti
+
+%
+BOFH attaisnojums # 416:Mēs esam no laika nišu uz servera
+
+%
+BOFH attaisnojums # 417:Datorklase tiek pārvietots. Mūsu sistēma ir uz leju, lai nedēļas nogalē.
+
+%
+BOFH attaisnojums # 418:Sysadmins aizņemts cīņas SPAM.
+
+%
+BOFH attaisnojums # 419:Atkārtota reboots sistēmas nespēja atrisināt problēmu
+
+%
+BOFH attaisnojums # 420:Funkcija nav beta pārbaudīts
+
+%
+BOFH attaisnojums # 421:Domēna kontrolieris nereaģē
+
+%
+BOFH attaisnojums # 422:Kāds cits nozaga jūsu IP adresi, zvaniet interneta detektīvi!
+
+%
+BOFH attaisnojums # 423:Tas nav RFC-822 prasībām.
+
+%
+BOFH attaisnojums # 424:darbība neizdevās, jo: nav ziņu par šo kļūdu (# 1014)
+
+%
+BOFH attaisnojums # 425:stop bit saņemti
+
+%
+BOFH attaisnojums # 426:Internets ir nepieciešams noķert etherbunny
+
+%
+BOFH attaisnojums # 427:tīkla leju, IP paketes piegādāti caur UPS
+
+%
+BOFH attaisnojums # 428:Firmware update ar kafijas automātu
+
+%
+BOFH attaisnojums # 429:Pārejošās anomālija
+
+%
+BOFH attaisnojums # 430:Pele ir out-of-siera-kļūda
+
+%
+BOFH attaisnojums # 431:Borg implanti nespēj
+
+%
+BOFH attaisnojums # 432:Borg nanites ir invadēta serveri
+
+%
+BOFH attaisnojums # 433:kļūda: viena slikta lietotāju atrodama pie ekrāna
+
+%
+BOFH attaisnojums # 434:Lūdzu, norādiet veidu tehniskās avārijas
+
+%
+BOFH attaisnojums # 435:Interneta slēgtas dēļ uzturēšana
+
+%
+BOFH attaisnojums # 436:Dēmons izbēga no pentagramma
+
+%
+BOFH attaisnojums # 437:kultūraugu aprindās kukurūzas čaulā
+
+%
+BOFH attaisnojums # 438:sticky bit ir vaļīgs
+
+%
+BOFH attaisnojums # 439:Hot Java devies auksts
+
+%
+BOFH attaisnojums # 440:Cache miss - lūdzu ņemt labāk mērķis nākamreiz
+
+%
+BOFH attaisnojums # 441:Hash tabula ir woodworm
+
+%
+BOFH attaisnojums # 442:Trojas zirgs ilga no siena
+
+%
+BOFH attaisnojums # 443:Zombie procesi konstatēts, mašīna ir vajā.
+
+%
+BOFH attaisnojums # 444:pārplūdes kļūda / dev / null
+
+%
+BOFH attaisnojums # 445:Pārlūka cookie ir bojāts - kāds ir bijis nibbling par to.
+
+%
+BOFH attaisnojums # 446:Mailer-daemon ir aizņemts dedzināšana ziņu ellē.
+
+%
+BOFH attaisnojums # 447:Saskaņā ar Microsoft, tas ir ar dizainu
+
+%
+BOFH attaisnojums # 448:vi ir modernizētas, lai vii
+
+%
+BOFH attaisnojums # 449:Greenpeace free'd ar mallocs
+
+%
+BOFH attaisnojums # 450:Teroristi avarēja lidmašīnu iekļaušanu serveru telpā, ir, lai novērstu / bin / Ladens. (RM -rf / bin / kravu)
+
+%
+BOFH attaisnojums # 451:astropneumatic svārstības ūdens dzesēšanu
+
+%
+BOFH attaisnojums # 452:Kāds skrēja operētājsistēmu caur pareizrakstības pārbaudītājs.
+
+%
+BOFH attaisnojums # 453:Spider invāzijas siltā gadījumā daļās
+
+%

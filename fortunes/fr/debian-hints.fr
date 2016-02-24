@@ -1,0 +1,129 @@
+Debian Astuce # 44: Vous pouvez suivre le compte Identi.ca pour Debian auhttp://identi.ca/debian Plus d'informations de Debian au Identica pouvez égalementse trouve à l'adresse: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Astuce n ° 1: Vous pouvez signaler un bug dans un paquet avec la commande 'reportbug',qui est disponible dans le paquet reportbug, soit à partir de la ligne de commande ouavec la nouvelle interface graphique (disponible en cours d'exécution 'reportbug gtk2 --ui' oule menu).
+
+%
+Debian Astuce n ° 2: Vous pouvez utiliser 'dpkg-reconfigure <package>' pour changer lavos réponses aux questions posées lors de l'installation d'abord un package.Le paquet «configure-debian 'fournit une extrémité avant unifié pour ce faire,aussi bien.
+
+%
+Debian Astuce n ° 3: Vous pouvez utiliser «apt-cache search <mots> 'ou«Aptitude search <mots> 'pour rechercher des mots dans les descriptions de tousForfaits disponibles.
+
+%
+Debian Astuce n ° 4: Vous pouvez voir les versions disponibles et installés depuis uneou des paquets plus disponibles avec le 'apt-cache policy <forfaits>' commande.
+
+%
+Debian Astuce n ° 5: Si vous avez besoin de construire un noyau personnalisé, utilisez le 'make-kpkg'manuscrit trouvé dans le paquet kernel-package.
+
+%
+Debian Astuce n ° 6: Il n'y a aucune indication n ° 6. Proposez un soupçon aujourd'hui!
+
+%
+Debian Astuce # 7: Vous pouvez utiliser le paquet cron-apt à faire nuit automatiquetéléchargements de mises à jour pour les paquets installés sur votre système.
+
+%
+Debian Astuce # 8: Si vous avez des problèmes avec Debian que vous ne pouvez pas résoudrelire les manuels et la documentation, essayez de demander aux utilisateurs de Debianliste de diffusion (debian-user@lists.debian.org).
+
+%
+Debian Astuce # 9: Si vous avez besoin de savoir quelle version de Debian, vous êtes actuellementcourir, regarder dans / etc / debian_version ou utiliser la commande 'lsb_release sc'. Si vousvoulez connaître le nom de code de cette version (par exemple, 5.0 nom de code'Lenny'), consultez l'adresse suivante:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Astuce n ° 10: Il y a listes de diffusion Debian pour tout, de l'utilisateurquestions à des débats sur ce qu'il faut mettre dans les documents Politique Debian.Consultez la liste au http://www.debian.org/MailingLists/ et vous abonner àcelles qui vous intéressent.
+
+%
+Debian Astuce # 11: Gardez un oeil sur ce qui se passe - lire la DebianNouvelles projet. Lire sur le Web à http://www.debian.org/News/weekly/
+
+%
+Debian Astuce n ° 12: Le paquet grep-dctrl fournit un certain nombre de scripts utilespour rechercher rapidement divers fichiers de contrôle de paquets (comme la dispositionfichier packages).
+
+%
+Debian Astuce # 13: Si vous ne l'aimez pas les options par défaut utilisés dans une Debianpackage, vous pouvez télécharger le code source et de construire une version qui utilise leoptions que vous préfèrent. voir http://www.debian.org/doc/FAQ/ch-pkg_basics.html(sections 6.13 et 6.14) pour plus d'informations.Cependant, gardez à l'esprit que la plupart des options dans la plupart des paquets peut être configuréà l'exécution, et ne nécessitent pas de recompiler le paquet.
+
+%
+Debian Astuce # 14: Si vous souhaitez suivre choses qui se passent à un paquet(Par exemple, si vous voulez voir les rapports de bogues, relâchez avis, et d'autresdes choses semblables), inscrivez-vous à elle sur le système de suivi des paquets.Vous pouvez en savoir plus sur le PTS à:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Astuce n ° 15: La documentation d'un paquet se trouve normalementdans / usr / share / doc / <package>. En particulier, le fichier README.Debian souventa des informations utiles sur les bizarreries ou des conseils spécifiques à Debian.
+
+%
+Debian Astuce # 16: Si vous êtes à la recherche d'un fichier particulier, mais ne savez pasquel paquet il appartient, essayez d'installer «apt-file», qui maintient unepetite base de données de ces informations, ou recherchez le contenu de la DebianForfaits base de données, ce qui peut être fait à:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Astuce # 17: Besoin de quelqu'un à qui parler de Debian? Si vous êtes à l'aiseavec Internet Relay Chat (IRC), il suffit d'installer votre client IRC favori, etrejoindre #debian sur irc.debian.org.
+
+%
+Debian Astuce n ° 18: les informations de contrôle de la qualité sur un paquet peut être trouvéen allant à http://packages.qa.debian.org/~~V <package>; cette page estdes liens vers la page d'AQ du responsable, les BTS, les news pour le paquet, etinformations sur les versions sont disponibles dans lesquels les archives.
+
+%
+Debian Astuce # 19: Si vous êtes intéressé par la construction des paquets à partir des sources, vousdevrait envisager d'installer le paquet apt-src.
+
+%
+Debian Astuce # 20: Vous voulez garder une trace de ce que la version d'un paquet que vous avezinstallé (particulièrement utile pour ceux utilisant hybride stable / testing /systèmes instables)? Découvrez apt-show-versions.
+
+%
+Debian Astuce # 21: Si votre boîte de Debian est derrière une connexion réseau lente,mais vous avez accès à un rapide ainsi, vérifier le paquet apt-zip.
+
+%
+Debian Astuce # 22: Vous vous demandez qui Debian miroir est le mieux pour vous? Check-outapt-espion et forfaits netselect-apt, ce qui peut vous donner des informationssur la façon dont différents sites miroirs effectuent.
+
+%
+Debian Astuce # 23: Si votre système utilise trop d'espace disque, essayez ladeborphan emballage; il peut offrir des suggestions sur les modules peuvent êtreutilisé et amovible. Et, bien sûr, ne pas oublier de nettoyer lela zone de cache APT (en utilisant «apt-get clean ',' aptitude clean ', ouL'action de l'aptitude -> élément de menu cache des paquets Clean).
+
+%
+Debian Astuce # 24: Si vous souhaitez remercier un responsable de gestion d'unquestion, consultez --kudos reportbug.
+
+%
+Debian Astuce n ° 25: Le paquet 'debian-reference' contient une grande variétéde documents de référence pour les utilisateurs et les développeurs Debian. La plupartinformations peuvent également être trouvés à l'adresse suivante:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Astuce # 26: Si un paquet ne semble pas avoir beaucoup de documentation,vérifier un paquet nommé '<package> -doc' ou similaire, et assurez-vous deinstaller ainsi; paquets avec de grandes quantités de documentsrégulièrement diviser les docs de cette manière pour ceux qui ne veulent pasles installer.
+
+%
+Debian Astuce # 27: vérifier régulièrement vos sauvegardes. Vous êtes * * L'opération de sauvegarde,droite? Droite? Sinon, commencez par tar (1) ou dump (1).
+
+%
+Debian Astuce # 28: Si votre machine est pas tout le temps (comme unordinateur portable), consultez le package 'anacron'; ce qui fera en sorte que régulièretâches se produisent encore, même si la machine est à l'heure qu'ils le feraientnormalement déclencher.
+
+%
+Debian Astuce # 29: Gardez votre horloge de système précis - machines qui sont activésla plupart ou tout le temps devrait avoir le paquet «ntp» installé pour conserver l'heureprécise entre les redémarrages.
+
+%
+Debian Indice # 30: La documentation peut être mis à disposition à l'adresse http: // localhost /en installant le "doc-base» et des forfaits 'doc-central "et leurdépendances.
+
+%
+Debian Astuce n ° 31: La désactivation d'un service normalement actif dans un niveau d'exécution spécifiquedevrait être fait en changeant le lien S dans /etc/rc<level>.d à une liaison K,plutôt que de supprimer le lien entièrement; si tous les liens sont supprimés, lasystème assumera la prochaine installation qu'ils doivent être remplacés.
+
+%
+Debian Astuce n ° 32: Le package 'doc-debian' contient un généralla documentation sur le projet Debian. Il est également disponible en espagnol(Doc-debian-es), Français (doc-debian-fr) et ukrainienne (doc-debian-uk).
+
+%
+Debian Astuce n ° 33: Le paquet '' devscripts contient des scripts utiles pourles utilisateurs qui veulent aider à améliorer Debian, par exemple wnpp-alerte, rc-alerte et BTS.
+
+%
+Debian Astuce # 34: Si vous voulez suivre sid Debian et ont un petit téléchargementquota ou une connexion très lente, consultez le package debdelta.
+
+%
+Debian Astuce # 35: A la recherche de certains jeux? Jetez un oeil à 'goplay », quioffre une belle interface pour naviguer à travers tous les types de jeux.
+
+%
+Debian Astuce # 36: Besoin d'un package plus récent que de Debian de dernièreversion stable, mais ne veulent pas mettre à niveau vers «testing» ou «unstable»? Certainsles paquets sont tenus à jour par l'intermédiaire de la suite d'écurie mises à jour, d'autres sontmise à disposition au backports.debian.org.
+
+%
+Debian Astuce # 37: Voulez-vous télécharger un paquet sans l'installer? Utilisation«Téléchargement aptitude <pkgname> '.
+
+%
+Debian Astuce # 38: Vous voulez savoir comment vous pouvez utiliser un programme que vous avez jamais utiliséavant? «Homme» sera votre meilleur nouvel ami! Tapez "man <nom-programme>" dans unecoquille. Ou, exécutez "homme -H <nom-programme>" pour lire la page de manuel dans un navigateur.
+
+%
+Debian Astuce n ° 39: Améliorer onglet-complétion de bash en installant lepaquet bash-completion.
+
+%
+Debian Astuce # 40: Si vous installez le package de commande-not-found, en essayant deexécuter une commande que vous n'avez pas installé vous dira ce package d'installation àobtenir cette commande.
+
+%
+Debian Astuce # 41: Vous pouvez utiliser 'show apt-cache <package_name>' ou 'émission d'aptitude<Package_name> 'pour obtenir plus d'informations sur un paquet Debian.
+
+%
+Debian Astuce # 42: Vous pouvez utiliser «liste apt-file <package_name> 'Pour obtenir la listedu contenu du paquet debian. Cette action est similaire à«Dpkg -l <package_name>« sauf le paquet n'a pas besoin d'être installé ourécupérées en utilisant apt-file contrairement à dpkg.
+
+%
+Debian Astuce # 43: Vous voulez désactiver temporairement votre pare-feu iptables? Utilisation'Iptables-save | sed "/ - / j; / ^ # / j; s / DROP / ACCEPTER /" | iptables-restore 'pour supprimertoutes les règles et définir la stratégie par défaut à accepter.
+
+%

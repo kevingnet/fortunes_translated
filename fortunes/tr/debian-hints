@@ -1,0 +1,230 @@
+Debian İpucu no. 1: Bir paketin hatalarını reportbug adlı pakette mevcut
+olan 'reportbug' komutuyla, ya da  görsel arayüzle bildirebilirsiniz
+ki'reportbug --ui gtk2' komutuyla erişilebilir.
+
+%
+Debian İpucu no. 2: Bir paketi ilk kez kurarken size sorulan sorulara
+verdiğiniz yanıtları değiştirmek için 'dpkg-reconfigure <paket>' komutunu
+kullanabilirsiniz. 'configure-debian' paketi bu iş için birleştirilmiş bir
+arayüz sağlar.
+
+%
+Debian İpucu no. 3: Tüm mevcut paketlerin açıklamalarında sözcükler aramak
+için 'apt-cache search <kelimeler>' yada 'aptitude search <kelimeler>'
+komutunu kullanabilirsiniz.
+
+%
+Debian İpucu no. 4: Bir ya da daha fazla paketin kurulu ya da mevcut
+versiyonlarını 'apt-cache policy <paketler>' komutuyla görebilirsiniz.
+
+%
+Debian İpucu no. 5: Eğer özel bir çekirdeğe ihtiyacınız varsa,
+kernel-package paketindeki 'make-kpkg' betiğini kullanın.
+
+%
+Debian Hint #6: There is no hint #6. Submit a hint today!
+
+%
+Debian İpucu no. 7: cron-apt paketiyle sisteminizde yüklü olan paketlerin
+güncellemelerini her gece otomatik olarak indirebilirsiniz.
+
+%
+Debian İpucu no. 8: Debian'la ilgili, el kitaplarını ve belgelendirmeyi
+okuyarak çözemediğiniz sorunlarınız varsa Debian Kullanıcıları posta
+listesine (debian-user-turkish@lists.debian.org) danışın.
+
+%
+Debian İpucu no. 9: Debian'ın hangi sürümünü kullanmakta olduğunuzu öğrenmek
+için /etc/debian_version dosyasına bakın yada 'lsb_release -sc'
+komutunukullanın; bu sürümün kod adını öğrenmek içinse şu adresi ziyaret
+edin:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian İpucu no. 10: Kullanıcı sorularından Debian Kuralları belgelerine
+neler konulması gerektiği tartışmalarına kadar her şey hakkında bir Debian
+posta listesi vardır. http://www.debian.org/MailingLists/ adresindeki
+listeye göz atın ve ilgilendiğiniz listelere üye olun.
+
+%
+Debian Hint #11: Keep up to date on what's going on - read the Debian
+Project News. Read it on the web at http://www.debian.org/News/weekly/
+
+%
+Debian İpucu no. 12: grep-dctrl paketi çeşitli paket denetim dosyalarını
+hızlıca aramak için yararlı betikler sağlar. 
+
+%
+Debian İpucu no. 13: Eğer bir Debian paketinde kullanılan öntanımlı
+ayarlardan memnun değilseniz, paketin kaynağını indirip kendi tercih
+ettiğiniz seçenekleri kullanan bir sürümünü inşa edebilirsiniz. Daha fazla
+bilgi için http://www.debian.org/doc/FAQ/ch-pkg_basics.html belgesinde bölüm
+6.13 ve 6.14'e bakın.
+
+Yine de, çoğu paketin çoğu seçeneğinin çalışma zamanında
+yapılandırılabildiğini ve yeniden derleme gerektirmediğini unutmayın.
+
+%
+Debian İpucu no. 14: Bir pakete olanları takip etmek istiyorsanız (örneğin,
+hata raporlarını görmek, sürüm uyarıları ve diğer benzeri şeyler), bu pakete
+Paket Takip Sisteminde üye olmayı düşünün. PTS hakkında daha fazla bilgiyi
+şurada bulabilirsiniz:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian İpucu no. 15: Bir paketin belgelendirmesi /usr/share/doc/<paket>
+dizininde bulunur. Özellikle, README.Debian dosyası Debian'a has tuhaflıklar
+ya da ipuçları hakkında yararlı bilgiler içerir.
+
+%
+Debian İpucu no. 16: Bir dosyayı arıyor fakat dosyanın hangi pakete ait
+olduğunu bilmiyorsanız 'apt-file'ı deneyin. 'apt-file' bu bilgileri küçük
+bir veritabanında tutar, ya da şu adresteki Debian Paketleri veritabanını
+arayabilir:
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian İpucu no. 17: Debian hakkında konuşacak birini mi arıyorsunuz? Eğer
+IRC ile haşır neşirseniz gözde IRC istemcinizi kurun irc.debian.org'da
+#debian kanalına katılın.
+
+%
+Debian İpucu no. 18: Bir paket hakkındaki kalite kontrol bilgileri
+http://packages.qa.debian.org/<paket> adresinde bulunabilir. Bu sayfa
+bakımcının KG (QA) sayfasına, HTS'ye (BTS) bağlantılar, paketle ilgili
+haberler ve hangi arşivde hangi sürümün bulunduğuyla ilgili bilgiler içerir.
+
+%
+Debian İpucu no. 19: Kaynaklardan paket derlemek ilginizi çekiyorsa apt-src
+paketini yüklemeyi düşünmelisiniz.
+
+%
+Debian İpucu no. 20: Bir paketin hangi sürümünü kurduğunuzu mu takip etmek
+istiyorsunuz (özellikle kararlı / test / kararsız melezi sistemlerde)?
+apt-show-versions'u deneyin.
+
+%
+Debian İpucu no. 21: Eğer Debian makineniz yavaş bir ağ bağlantısına
+sahipse, ama hızlı bir ağa da erişiminiz varsa apt-zip paketine göz atın.
+
+%
+Debian İpucu no. 22: Hangi Debian yansısının sizin için en iyisi olduğunu mu
+merak ediyorsunuz? Size çeşitli yansı sitelerinin nasıl işlediği hakkında
+bilgi verebilen apt-spy ve netselect-apt paketlerine bakın.
+
+%
+Debian İpucu no. 23: Sisteminiz çok fazla disk alanı kullanıyorsa, hangi
+paketlerin kullanılmadığı ve kaldırılabileceği hakkında öneriler sunan
+deborphan paketini deneyin. Ve tabi ki APT önbelleğini temizlemeyi de
+unutmayın ('apt-get clean', 'aptitude clean' ya da aptitude'un Eylemler ->
+Paket önbelleğin itemizle menü öğesiyle).
+
+%
+Debian İpucu no. 24: Eğer bir sorunu hallettiği için bir bakımcıya teşekkür
+etmek isterseniz, reportbug --kudos komutuna göz atın.
+
+%
+Debian İpucu no. 25: 'debian-reference' paketi Debian kullanıcıları ve
+geliştiricileri için çok çeşitli başvuru belgelerini içerir. Bu bilgilerin
+çoğu şu adreste de bulunabilir:
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint #26: If a package doesn't seem to have much documentation, check
+for a package named '<package>-doc' or similar and make sure to install it
+as well; packages with large amounts of documentation regularly split the
+docs in this manner for those who don't want to install them.
+
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? If not, start with tar(1) or dump(1).
+
+%
+Debian İpucu no. 28: Eğer bilgisayarınız bütün gün açık değilse (örneğin bir
+dizüstüyse, 'anacron' paketine göz atın. Anacron; düzenli görevlerin, işin
+yapılması gereken saatte bilgisayarınız açık olmasa bile düzenli olarak
+yapılmasını sağlar.
+
+%
+Debian İpucu no. 29: Sistem saatinizi doğru tutun.Çoğunlukla açık olan
+makineler de, saati yeniden başlatmalar arasında doğru tutmak için
+'ntp'paketine sahip olmalıdır.
+
+%
+Debian İpucu no. 30: Belgelendirmeye 'doc-base', 'doc-central' paketleri ve
+bunların bağımlılıklarını kurarak ulaşılabilir.
+
+%
+Debian İpucu no. 31: Normalde etkin olan bir hizmeti belirli bir çalışma
+düzeyinde etkisizleştirmek için /etc/rc<düzey>.d'deki bağlantının S'sini K
+yapın. Bağlantıyı silmeyin. Eğer tüm bağlantılar silinirse, sistem
+bağlantıların değiştirilmesi gerektiğini farzedecektir.
+
+%
+Debian Hint #32: The package 'doc-debian' contains some general
+documentation about the Debian project. It is also available in Spanish
+(doc-debian-es), French (doc-debian-fr) and Ukrainian (doc-debian-uk).
+
+%
+Debian İpucu no. 33: 'devscripts' paketi Debian'ı geliştirmek isteyen
+kullanıcılar için bazı yararlı betikler barındırır, ör. wnpp-alert, rc-alert
+ve bts.
+
+%
+Debian İpucu no. 34: Debian sid'i takip etmek istiyorsanız ama indirme
+sınırınız ya da yavaş bir bağlantınız varsa debdelta paketine göz atın.
+
+%
+Debian Hint #35: In search for some games? Take a look at 'goplay', which
+offers a nice frontend for browsing through all kind of games.
+
+%
+Debian Hint #36: Need a newer package than shipped with Debian's last stable
+release, but don't want to upgrade to 'testing' or 'unstable'? Some packages
+are kept up-to-date via the stable-updates suite, some others are made
+available at backports.debian.org.
+
+%
+Debian İpucu no. 37: Bir paketi kurmadan sadece indirmek mi istiyorsunuz?
+'aptitude download <paketadı>' komutunu kullanın.
+
+%
+Debian İpucu no. 38:Daha önce hiç kullanmadığınız bir programı bilmek mi
+istiyorsunuz?"man" en iyi yardımcınız olacak."man <program-adı>"
+komutunuçalıştırın.Ya da, "man -H <program-adı>" komutu ile tarayıcınızda
+kılavuzsayfasını görüntüleyin
+
+%
+Debian İpucu no. 39:bash-completion paketini yükleyerek komut satırında tab
+ile tamamlama özelliğini geliştirin.
+
+%
+Debian İpucu no. 40:command-not-found paketini yüklerseniz daha önce
+yüklemediğiniz bir komutu çalıştırmak istediğinizde bu komut için hangim
+komutların gerektiğini söyleyecektir.
+
+%
+Debian İpucu no. 41: 'apt-cache show <paket_adı>' yada 'aptitude show
+<paket_adı>' komutlarıyla debian paketleri hakkında daha fazla bilgi
+eldeedebilirsiniz.
+
+%
+Debian İpucu no. 42:'apt-file list <paket_adı>' komutunu kullanarak
+debianpaketinin içeriklerini listeliyebilirsiniz.Bu işlem dpkg -L
+<paket_adı>' işlemiyle benzer olup tek farkı paketin yüklenmiş olması ya da
+apt-file ileindirilmiş olması şart değildir.
+
+%
+Debian İpucu no. 43:Geçici olarak ateşduvarınızın(firewall) IP
+tablolarınıdevre dışı bırakmak mı istiyorsunuz?'iptables-save | sed
+"/-/d;/^#/d;s/DROP/ACCEPT/" | iptables-restore' ilebütün kuralları kaldırıp
+varsayılan kuralı ACCEPT olarak ayarlıyabilirsiniz.
+
+%
+Debian Hint #44: You can follow the Identi.ca account for Debian at
+http://identi.ca/debian More information of Debian at Identica can also be
+found at: http://wiki.debian.org/Teams/Publicity/Identica

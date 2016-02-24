@@ -1,0 +1,129 @@
+Debian Consell # 44: Vostè pot seguir el compte de Identi.ca per a Debian alhttp://identi.ca/debian Més informació de Debian en Idèntica també potes troba a: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Consell # 1: Es pot informar d'un error en un paquet amb el comandament 'reportbug',que està disponible al paquet reportbug, ja sigui des de la línia de comandaments oamb la nova interfície d'usuari gràfica (disponible que executi 'reportbug GTK2 --ui' oael menú).
+
+%
+Debian Consell # 2: Vostè pot utilitzar 'dpkg-reconfigure <paquet>' per canviar elrespostes que va donar a les preguntes formulades quan es va instal·lar per primera vegada un paquet.El paquet 'configure-debian' proporciona una interfície unificada per fer això,tant be.
+
+%
+Debian Consell # 3: Podeu utilitzar qualsevol 'apt-cache search <paraules>' o'Recerca d'aptitud <paraules>' per buscar paraules en les descripcions de totspaquets disponibles.
+
+%
+Debian Suggeriment # 4: Vostè pot veure les versions disponibles i instal·lats per a uno més paquets disponibles amb la "política d'apt-cache <paquets> comando.
+
+%
+Debian Consell # 5: Si necessita crear un nucli personalitzat, utilitzeu el 'make-kpkg'l'escriptura que es troba en el paquet kernel-package.
+
+%
+Debian Suggeriment # 6: No hi ha cap indici # 6. Presentar una pista avui!
+
+%
+Debian Consell # 7: Vostè pot utilitzar el paquet cron-apt fer nit automàticadescàrregues de versions dels paquets instal·lats en el sistema.
+
+%
+Debian Consell # 8: Si tens problemes amb Debian que no pot resoldre perllegir els manuals i documentació, tracta de preguntar sobre els usuaris de Debianllista de correu (debian-user@lists.debian.org).
+
+%
+Debian Consell # 9: Si necessita saber quina versió de Debian que està actualmentcórrer, busqui en / etc / debian_version o utilitzar el comandament 'lsb_release -sc'. Si tuvoler saber el nom en clau per a aquesta versió (per exemple, 5.0 es nom en codi'Lenny'), marqui aquesta URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Consell # 10: Hi ha llistes de correu de Debian per a tot, des de l'usuaripreguntes als debats sobre què posar en els documents de política de Debian.Fes una ullada a la llista en http://www.debian.org/MailingLists/ i subscriure aaquells que li interessen.
+
+%
+Debian Consell # 11: Per estar al dia sobre el que està passant - llegir el DebianNotícies del projecte. Llegir-lo al web en http://www.debian.org/News/weekly/
+
+%
+Debian Consell # 12: El paquet grep-dctrl proporciona una sèrie de seqüències d'ordres útilsper buscar ràpidament diversos arxius de control de paquet (tal com el disponiblearxiu de paquets).
+
+%
+Debian Consell # 13: Si no t'agrada les opcions per defecte utilitzats en una Debianpaquet, podeu descarregar el codi font i construir una versió que utilitza elopcions que prefereixen. veure http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Seccions 6.13 i 6.14) per obtenir més informació.No obstant això, tingui en compte que la majoria de les opcions en la majoria dels paquets es pot configuraren temps d'execució, i no requereixen tornar a compilar el paquet.
+
+%
+Debian Consell # 14: Per seguir les coses que succeeixen a un paquet(Per exemple, si voleu veure els informes d'errors, alliberar avisos, i una altracoses similars), consideri subscriure a ell en el Sistema de seguiment de paquets.Podeu trobar més informació sobre el PTS a:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Consell # 15: La documentació d'un paquet es pot trobar normalmenta / usr / share / doc / <paquet>. En particular, l'arxiu README.Debian sovintté informació útil sobre peculiaritats o consells específics de Debian.
+
+%
+Debian Consell # 16: Si estàs a la recerca d'un arxiu en particular, però no sapquin és el paquet al que pertany, intenti instal·lar 'apt-file', que manté unapetita base de dades d'aquesta informació, o busca el contingut de la DebianPaquets de base de dades, que es pot fer a:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Consell # 17: Necessita parlar amb algú sobre Debian? Si se sent còmodeamb Internet Relay Xat (IRC), només ha d'instal lar el client preferit d'IRC, iunir-se a #debian en irc.debian.org.
+
+%
+Debian Consell # 18: Control de qualitat de la informació sobre un paquet es pot trobaranant a http://packages.qa.debian.org/~~V <paquet>; aquesta pàgina ofereixenllaços a la pàgina de control de qualitat de la mantenidora, la BTS, notícies per al paquet, iinformació sobre quines versions estan disponibles en el qual els arxius.
+
+%
+Debian Consell # 19: Si vostè està interessat en la construcció de paquets des de les fonts,ha de considerar la instal·lació del paquet apt-src.
+
+%
+Debian Consell # 20: Vols fer un seguiment de quina versió d'un paquet que téinstal·lat (especialment útil per als que dirigeixen / prova estable híbrid /sistemes inestables)? Consulteu el apt-show-versions.
+
+%
+Debian Consell # 21: Si la seva caixa de Debian està darrere d'una connexió de xarxa lenta,però vostè té accés a una mala passada, així, gaudir dels paquets apt-zip.
+
+%
+Debian Consell # 22: Es pregunta Quina rèplica de Debian és millor per a vostè? verificarapt-espia i paquets netselect-apt, que li pot donar la informaciósobre com diversos llocs mirall realitzen.
+
+%
+Debian Consell # 23: Si el sistema està utilitzant massa espai en disc, provar eldeborphan paquet; que pot oferir suggeriments sobre quins paquets poden sersense usar i extraïble. I, per descomptat, no us oblideu de netejar elàrea de memòria cau d'APT (usant 'apt-get clean', 'aptitude clean', oAcció de l'aptitud -> Netejar memòria cau paquet d'element de menú).
+
+%
+Debian Consell # 24: Si vol donar les gràcies a un mantenidor de la tramitació deltema, fes un cop d'ull a --kudos reportbug.
+
+%
+Debian Consell # 25: El paquet 'debian-reference' conté una àmplia varietatde referència de documents per als usuaris i desenvolupadors de Debian. La majoria deinformació també es pot trobar a la següent URL:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Consell # 26: Si no sembla un paquet de tenir tota la documentació,comprovar si hi ha un paquet anomenat '<paquet> -doc' o similar i asseguriinstal·lar així; paquets amb grans quantitats de documentacióregularment dividir els documents d'aquesta manera per aquells que no voleninstal·lar-los.
+
+%
+Debian Consell # 27: Regularment verificar les còpies de seguretat. * Ho està guardant còpies de seguretat *,Oi? Oi? Si no és així, començar amb tar (1) o bolcar (1).
+
+%
+Debian Consell # 28: Si la màquina no està en tot el temps (com unaordinador portàtil), visita el paquet 'anacron'; Això s'ha d'assegurar que l'ús regulartasques segueixen succeint, fins i tot si la màquina no està en en el moment en què ho farienNormalment desencadenar.
+
+%
+Debian Consell # 29: Mantingui el seu rellotge del sistema necessita - Les màquines que estan activatsla major part o tot el temps ha de tenir el paquet 'ntp' instal·lat per mantenir el tempsexacta en la represa.
+
+%
+Debian Consell # 30: La documentació pot estar disponible a http: // localhost /mitjançant la instal·lació de l' 'doc-base' i paquets 'doc-centre' i la sevadependències.
+
+%
+Debian Consell # 31: la desactivació d'un servei normalment actiu en un nivell d'execució específics'ha de fer canviant l'enllaç S en /etc/rc<level>.d a un enllaç K,en lloc d'eliminar l'enllaç en la seva totalitat; si tots els enllaços s'eliminen, lasistema assumirà en la següent instal·lació que necessiten ser reemplaçats.
+
+%
+Debian Consell # 32: El paquet doc-debian 'conté algun generaldocumentació sobre el projecte Debian. També està disponible en espanyol(Doc-debian-és), francès (doc-debian-fr) i Ucraïna (doc-debian-Regne Unit).
+
+%
+Debian Consell # 33: El paquet '' devscripts conté alguns guions útils perusuaris que volen ajudar a millorar Debian, per exemple, wnpp-alerta, alerta i rc-BTS.
+
+%
+Debian Consell # 34: Si voleu fer un seguiment de Debian sid i tenen una petita descàrregaquota o una connexió molt lent, comprovar cap a fora el paquet debdelta.
+
+%
+Debian Consell # 35: A la recerca d'alguns jocs? Fer una ullada a 'goplay', queofereix un bon frontal per navegar a través de tot tipus de jocs.
+
+%
+Debian Consell # 36: Necessita un paquet més recent que s'inclou amb Debian d'últimaversió estable, però no vol actualitzar a 'prova' o 'inestable'? algunsels paquets es mantenen actualitzats a través de la suite d'actualitzacions estables, alguns altres sónposat a disposició en backports.debian.org.
+
+%
+Debian Consell # 37: Voleu descarregar un paquet sense instal·lar-lo? ús'Descarregar aptitud <pkgname>'.
+
+%
+Debian Consell # 38: Vols saber com es pot utilitzar un programa que mai ha utilitzatabans? "Home" serà la seva nova millor amiga! Tipus "man <nom-programa>" en unapetxina. O bé, executeu "home -H <nom-programa>" per llegir la pàgina del manual en un navegador.
+
+%
+Debian Consell # 39: Millorar per omplir la fitxa de cop mitjançant la instal·lació de lapaquet bash-finalització.
+
+%
+Debian Consell # 40: Si instal el paquet d'ordres no trobat, intentantexecutar una ordre que no té instal·lat li dirà quins paquets instal·lar aobtenir aquest comando.
+
+%
+Debian Consell # 41: Es pot utilitzar 'apt-cache show <nom_del_paquet>' o 'espectacle d'aptitud<Nom_del_paquet> 'per obtenir més informació sobre un paquet Debian.
+
+%
+Debian Consell # 42: Podeu utilitzar 'apt-file list <nom_del_paquet>' per obtenir un llistatdels continguts del paquet debian. Aquesta acció és similar a'Dpkg -L <nom_del_paquet>' excepte el paquet no necessita ser instal·lat orecuperen utilitzant apt-file en contrast amb dpkg.
+
+%
+Debian Consell # 43: Vols desactivar temporalment el tallafoc iptables? ús'Iptables-save | set "/ - / d; / ^ # / d; s / DROP / ACCEPTAR /" | iptables-restore 'per eliminartotes les regles i establir la política per defecte de ACCEPT.
+
+%

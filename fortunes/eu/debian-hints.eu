@@ -1,0 +1,129 @@
+Debian Hint # 44: Identi.ca Debian kontu jarraitu ahal izango duzu athttp://identi.ca/debian Debianen Informazio gehiago berdin-berdina at can erehttp://wiki.debian.org/Teams/Publicity/Identica: aurkiDebian Hint # 1: akatsen berri ditzakezu pakete batean zehar 'reportbug' komandoa batera,hau da reportbug paketea eskuragarri, bai komando-lerrotik edodu aurrealde grafikoa berria (eskuragarri martxan edo '--ui GTK2 reportbug' inmenua).
+
+%
+Debian Hint # 2: erabil dezakezu, 'dpkg-reconfigure <package>' aldatzekoerantzunak eman galderak Galdetu aurreneko instalatu duzun pakete bat.The 'configure-debian' paketea bateratu frontend bat eskaintzen du lan hau egiteko,baita.
+
+%
+Debian Hint # 3: erabil dezakezu bai 'apt-cache search <hitzak>' edo'Aptitude bilaketa <hitzak>' bilatu hitz egiteko guztien deskripzioak erepakete eskuragarri.
+
+%
+Debian Hint # 4: inork eskuragarri eta instalatu bertsio ikusiko duzuedo komando 'apt-cache politika <pakete>' pakete gehiago eskuragarri.
+
+%
+Debian Hint # 5: kernel pertsonalizatu bat eraiki behar baduzu, erabili 'makillajea kpkg'gidoi kernel-pakete paketea aurkitu.
+
+%
+Debian Hint # 6: Ez dago iradokizun # 6. Bidali iradokizun bat gaur!
+
+%
+Debian Hint # 7: cron-apt paketea erabil dezakezu gauero automatikoak eginZure sisteman instalatutako paketeak eguneratze-deskarga.
+
+%
+Debian Hint # 8: Arazorik baduzu Debian batera ezin duzula konpondu araberaeskuliburuak eta dokumentazioa irakurriz, saiatu Debian erabiltzaileak on eskatuzposta zerrendan (debian-user@lists.debian.org).
+
+%
+Debian Hint # 9: zer Debian bertsio Une ari zaren jakin behar baduzukorrika, begiratu / etc / debian_version edo erabili 'lsb_release -sc' komandoa. baduzuBertsio hori egiteko Codename du (adibidez, jakin nahi, 5,0 Codenamed da'Lenny'), egiaztatu URL hau:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Hint # 10: Badira Debian posta Erabiltzaile guztia zerrendakzer den Debian Politika dokumentuak jarri baino eztabaidak den galdera.Begiratu zerrenda http://www.debian.org/MailingLists/ at eta harpidetzekointeresa duten horiek.
+
+%
+Debian Hint # 11: Jarrai zer ari den gertatzen data - Debian irakurri duProject News. Irakurri webean http://www.debian.org/News/weekly/ at
+
+%
+Debian Hint # 12: grep-dctrl paketea erabilgarrien kopurua eskaintzenAzkar hainbat pakete kontrol fitxategiak bilatzen (esaterako, eskuragarri dagoen bezalapaketeak fitxategian).
+
+%
+Debian Hint # 13: Ez duzu Debian bat erabili aukera lehenetsia nahi baduzupakete, iturburu deskargatu ahal izango duzu, eta horrek egunero bertsio bat eraikitzekoAukera Nahiago duzu. Ikusi http://www.debian.org/doc/FAQ/ch-pkg_basics.html(6.13 eta 6.14 ataletan) informazio gehiagorako.Hala ere, kontuan izan paketeak gehienetan aukera gehien konfigura daitekeekinean, eta ez da beharrezkoa paketea konpilatu.
+
+%
+Debian Hint # 14: gauzak pakete bat gertatzen jarraitzea nahi baduzu(Adibidez, programa-erroreen txostenak ikusteko, ohar askatu, nahi izanez gero, eta beste aldeantzeko gauzak), eta kontuan hartu behar harpidetuz du Package Tracking System on.out PTS buruz gehiago aurki dezakezu:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Hint # 15: pakete bat Dokumentazioa Normalean, aurki/ usr / share / doc / <package>. Bereziki, README.Debian fitxategia askotanberezitasun edo aholku Debian-zehatz buruzko informazio baliagarria dauka.
+
+%
+Debian Hint # 16: you fitxategi jakin bat bilatu nahi baduzu, baina ez dakitzein pakete behar, saiatu 'apt-file' instalatu dagokion, eta horrek mantentzen batInformazio hau datu base txiki edo bilatu Debian-en edukiadatu-basea, eta bertan egin ahal izango paketeak:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Hint # 17: norbaiti Debian buruz hitz egin behar duzu? Oraindik eroso badaInternet Relay Chat (IRC) batera, besterik instalatu zure gogoko IRC bezeroa, etabatu #debian on irc.debian.org.
+
+%
+Debian Hint # 18: Kalitate kontrola pakete bati buruzko informazioa aurki daiteke:http://packages.qa.debian.org/ den <package> joanda; Orri honetan eskaintzenMantentzailea horrek QA orri batzuetarako loturak, BTS du, albiste paketea elementuak, etaInformazio horren gainean bertsioak dira bertan artxiboetan eskuragarri.
+
+%
+Debian Hint # 19: Oraindik eraikin paketeak interesa baduzu iturritik, zukapt-src paketea instalatzea erabaki behar du.
+
+%
+Debian Hint # 20: zer bertsioa pakete bat behar duzu segimendua nahi duzuinstalatutako (bereziki erabilgarria horiek hibrido egonkorra / probak exekutatzen /sistemak ezegonkorra)? Begiratu apt-show-bertsioak.
+
+%
+Debian Hint # 21: Debian-lauki sare konexio motela atzean badagobaina azkar bat sartzeko aukera izango duzu, baita, begiratu apt-zip paketea.
+
+%
+Debian Hint # 22: Debian ispilu galdetzen da onena duzu? Begiratuapt-espioi eta netselect-apt paketeak, bertan duzun informazioa eman dezakenola hainbat ispilu guneak burutzeko buruz.
+
+%
+Debian Hint # 23: zure sistema diskoan leku gehiegi erabiltzen ari bada, saiatudeborphan pakete; iradokizunak eskaini ahal izango da bertan buruz paketeak daiteke izanerabili gabe eta aldagarriak. Eta, jakina, ez ahaztu garbitu duAPT cache inguruan ( 'aptitude garbi' erabiliz 'apt-get clean', edoaptitude en Acción -> Clean Dependentzia menu elementua).
+
+%
+Debian Hint # 24: mantentzailea bat eskerrak eman bat lantzeko nahi baduzualea, begiratu reportbug --kudos.
+
+%
+Debian Hint # 25: The 'debian-erreferentzia' paketea askotariko daukaErreferentziazko Debian erabiltzaile eta garatzaileentzako dokumentuak. GehienetanInformazio ere egin daitezke URL honetan aurki daiteke:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Hint # 26: pakete batek ez badu dirudi askoz dokumentazio dute,izeneko pakete bat '<package> -doc' edo antzeko egiaztatu eta ziurtatu beharinstalatu baita; dokumentazio kopuru handiak paketeakaldizka zatitu docs era honetan ez duten nahi dutenentzatinstalatu itzazu.
+
+%
+Debian Hint # 27: Aldizka babeskopiak egiaztatzeko. * Duzun dira * backups mantenduz,eskubidea? Eskuin? Hala ez bada, tar batekin hasten (1) edo irauli (1).
+
+%
+Debian Hint # 28: zure makina ez bada denbora guztia (hala nola, oneramangarria), begiratu 'anacron' paketea; hau ziur erregular egingozereginak oraindik gertatuko, nahiz eta makina ez da denbora lukete atnormalean eragin.
+
+%
+Debian Hint # 29: Mantendu zure sistemaren erloju zehatzak - Makinak dira piztutagehien edo denbora guztia da 'NTP' paketea instalatu denbora mantendu behar lukeberrabiarazi arteko zehatza.
+
+%
+Debian Hint # 30: Dokumentazio daiteke erabilgarri http: // localhost /'Doc-base' eta 'Doc-central' paketeak instalatzeko eta berenmendekotasunen.
+
+%
+Debian Hint # 31: normalean zerbitzu-aktiboa ezgaitzea exekuzio-maila jakin bateanS /etc/rc<level>.d esteka aldatuz K lotura bat egin behar da,baizik eta lotura erabat kendu ordez; lotura guztiak kendu badira,sistema da datorren on suposatuko instalatu ordezkatu behar dutela.
+
+%
+Debian Hint # 32: paketea 'Doc-debian' general batzuk dituDebian proiektuari buruzko dokumentazioa. ere eskuragarri dago It gaztelaniaz(Doc-debian-es), Frantsesa (doc-debian-fr) eta Ukrainian (doc-debian-uk).
+
+%
+Debian Hint # 33: paketea 'devscripts' batzuk gidoiak erabilgarria daukanahi duten erabiltzaileentzat Debian hobetzeko, adibidez laguntzeko wnpp-alerta, rc-alerta eta BTS.
+
+%
+Debian Hint # 34: Debian Sid jarraipena egin nahi duzu eta deskarga txiki bat izan badaquota edo konexio mantsoa benetan, begiratu debdelta paketea.
+
+%
+Debian Hint # 35: bilaketa batzuk partidu horretan? Hartu at 'goplay', begirada bat,jolas mota guztiak nabigatzea aurrealde polit bat eskaintzen du.
+
+%
+Debian Hint # 36: Beharrezkoa da pakete berriago Debian azken datorrena bainobertsio egonkorra, baina ez nahi 'probak' edo 'ezegonkorra' to berritzea? batzukpaketeak up-to-data mantendu dira egonkorra-updates suite bidez, beste batzuk baieskuragarri egongo da backports.debian.org at.
+
+%
+Debian Hint # 37: pakete bat deskargatzeko instalatu gabe? Erabili'Aptitude deskargatu <pkgname>'.
+
+%
+Debian Hint # 38: programa bat nola erabili ahal izango duzu jakin nahi duzu inoiz erabiliaurretik? "Man" zure onena new laguna izango da! Mota "man <programa-izena>" bateanshell. Edo, exekutatu "man -H <programa-izena>" Eskuliburu orri irakurtzeko nabigatzaile batean.
+
+%
+Debian Hint # 39: Hobetu bash fitxa osatzea instalatubash-osatze paketea.
+
+%
+Debian Hint # 40: komando-not-found paketea instalatu baduzu, saiatzeanexekutatu ez instalatu duzu zer paketea instalatzeko esango dizu komando batlortzeko komando hori.
+
+%
+Debian Hint # 41: erabil dezakezu, 'apt-cache show <PACKAGE_NAME>' edo 'aptitude ikuskizuna<PACKAGE_NAME> 'debian pakete bati buruzko informazio gehiago lortzeko.
+
+%
+Debian Hint # 42: erabil dezakezu, 'apt-file zerrenda <PACKAGE_NAME>' zerrenda bat eskuratzekodebian pakete edukien. Ekintza hau antzekoa da'Dpkg -L <PACKAGE_NAME>' ezik paketea ez da behar instalatu egin behar da edoeskuratu apt-file erabiliz dpkg kontrastea.
+
+%
+Debian Hint # 43: aldi baterako desgaitu zure firewall iptables nahi duzu? Erabili'Iptables-save | sed "/ - / d; / ^ / d; s / DROP / onartzeko /" | iptables-leheneratu 'to kenduarau guztiak eta politika berria lehenetsia onartzen dela ezarri.
+
+%

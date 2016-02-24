@@ -1,0 +1,129 @@
+Debian Tipp # 44: Sie können die Identi.ca Konto für Debian folgen aufhttp://identi.ca/debian Mehr Informationen von Debian auf Identica können auchgefunden bei: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Tipp # 1: Sie können einen Fehler in einem Paket Bericht mit den 'reportbug' Befehl,die in der reportbug Paket verfügbar ist, entweder von der Kommandozeile odermit der neuen grafischen Frontend (erhältlich laufen 'reportbug --ui gtk2' oder indas Menü).
+
+%
+Debian Tipp # 2: Sie können mit 'dpkg-recon <Paket> ", um die ÄnderungAntworten Sie auf die Fragen gab gefragt, wann Sie zum ersten Mal ein Paket installiert.Das configure-debian 'Paket bietet eine einheitliche Front-End, dies zu tun,auch.
+
+%
+Debian Tipp # 3: Sie können entweder 'apt-cache search <Wörter>' oder"Aptitude search <Wörter>" für Wörter in den Beschreibungen aller zu suchenverfügbaren Pakete.
+
+%
+Debian Tipp # 4: Sie können sich für eine der verfügbaren und installierten Versionen sehenoder mehr verfügbaren Pakete mit dem Befehl 'apt-cache policy <packages>'.
+
+%
+Debian Tipp # 5: Wenn Sie einen angepassten Kernel zu bauen müssen, verwenden Sie die "Make-kpkg 'Skript im Kernel-Paket Paket gefunden.
+
+%
+Debian Tipp # 6: Es gibt keinen Hinweis # 6. Einen Hauch heute!
+
+%
+Debian Tipp # 7: Sie können die cron-apt-Paket verwenden automatische nächtliche zu tunDownloads von Updates für die auf dem System installierten Pakete.
+
+%
+Debian Tipp # 8: Wenn Sie Probleme mit Debian, dass man nicht lösen, indem sie könnendie Handbücher und Dokumentationen zu lesen, versuchen Sie auf den Debian-Benutzer fragenMailingliste (debian-user@lists.debian.org).
+
+%
+Debian Tipp # 9: Wenn Sie wissen müssen, welche Version von Debian sind Sie derzeitLaufen, schauen Sie in / etc / debian_version oder benutzen 'lsb_release sc "-Befehl. Wenn duwollen den Codenamen für diese Version (beispielsweise zu wissen, ist 5,0 Codenamen"Lenny"), überprüfen Sie diese URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Tipp # 10: Es gibt Debian-Mailinglisten für alles von BenutzerFragen zu Debatten über das, was in den Debian-Richtlinien Dokumente zu setzen.Schauen Sie sich die Liste an http://www.debian.org/MailingLists/ und abonnierendiejenigen, die Sie interessieren.
+
+%
+Debian Tipp # 11: Keep up to date, was los ist - lesen Sie die DebianProjekt-Nachrichten. Lesen Sie es im Internet unter http://www.debian.org/News/weekly/
+
+%
+Debian Tipp # 12: Der grep-dctrl Paket enthält eine Reihe nützlicher Skriptefür schnell verschiedene Paket-Steuerdateien (wie zB die verfügbaren BenutzerPackages-Datei).
+
+%
+Debian Tipp # 13: Wenn Sie die Standardoptionen in einem Debian verwendet nicht mögenPaket, können Sie den Quellcode herunterladen und eine Version bauen, die verwendetOptionen, die Sie bevorzugen. siehe http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Abschnitte 6.13 und 6.14) für weitere Informationen.Aber denken Sie daran, dass die meisten Optionen in den meisten Pakete können so konfiguriert werden,zur Laufzeit, und erfordern nicht das Paket neu zu kompilieren.
+
+%
+Debian Tipp # 14: Wenn Sie möchten, die Dinge zu folgen, um ein Paket passiert(Zum Beispiel, wenn Sie wollen, Fehlerberichte, um zu sehen, lassen Sie bemerkt, und andereu.ä.), sollten Sie auf die Paketverfolgungssystem, um es der abonnieren möchte.Sie können mehr über die PTS finden Sie unter:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Tipp # 15: Die Dokumentation zu einem Paket kann in der Regel gefunden werdenunter / usr / share / doc / <Paket>. Insbesondere Datei die README.Debian oftbietet nützliche Informationen über Debian-spezifische Eigenheiten oder Tipps.
+
+%
+Debian Tipp # 16: Wenn Sie für einen bestimmten Datei bist, aber nicht wissen,welches Paket sie gehört, versuchen 'apt-file' zu installieren, was ein unterhältkleine Datenbank mit diesen Informationen oder suchen Sie den Inhalt des DebianPaketdatenbank, die in getan werden kann:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Tipp # 17: jemanden brauchen, um über Debian zu sprechen? Wenn Sie komfortabelmit Internet Relay Chat (IRC), nur Ihre Lieblings-IRC-Client installieren undbeitreten #debian auf irc.debian.org.
+
+%
+Debian Tipp # 18: Qualitätskontrolle Informationen über ein Paket gefunden werden kannindem Sie <package> zu http://packages.qa.debian.org/~~V; bietet diese SeiteLinks zu den QS-Seite der Betreuer, die BTS, Nachrichten für das Paket, undInformationen darüber, welche Versionen sind in dem Archiv.
+
+%
+Debian Tipp # 19: Wenn Sie interessiert sind in Gebäude Pakete aus den Quellen, Siesollten prüfen, die apt-src-Paket installieren.
+
+%
+Debian Tipp # 20: Möchten Sie den Überblick darüber zu behalten, welche Version eines Pakets Sie habeninstalliert (vor allem für diejenigen nützlich Hybrid stable / Prüfung läuft /instabile Systeme)? Schauen Sie sich apt-show-Versionen.
+
+%
+Debian Tipp # 21: Wenn Ihr Debian-Box hinter einer langsamen Netzwerkverbindung ist,aber Sie Zugang zu einem schnell eine haben auch Besuche der apt-ZIP-Paket.
+
+%
+Debian Tipp # 22: fragen, welche Debian-Spiegel ist für Sie am besten? Auscheckenapt-Spion und netselect-apt-Pakete, die Sie Informationen liefern kanndarüber, wie verschiedene Spiegelservern durchführen.
+
+%
+Debian Tipp # 23: Wenn Ihr System zu viel Speicherplatz verwenden, versuchen diedeborphan Paket; es können Anregungen, um welche Pakete bieten kannunbenutzt und abnehmbar. Und, natürlich, nicht zu vergessen das zu reinigen,APT-Cache-Bereich (mit "apt-get clean ',' aptitude clean ', oderEignung der Aktion -> Reinpaketcache Menüpunkt).
+
+%
+Debian Tipp # 24: Wenn Sie einen Betreuer zu danken möchte ein für den Umgang mitFrage Besuche reportbug --kudos.
+
+%
+Debian Tipp # 25: Die "debian-reference" -Paket enthält eine Vielzahlder Referenzdokumente für Debian-Benutzer und Entwickler. Die meisten von denInformationen finden Sie auch unter folgender URL zu finden:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Tipp # 26: Wenn ein Paket scheint nicht viel Dokumentation zu haben,prüfen, ob ein Paket mit dem Namen "<Paket> -doc" oder ähnlich und stellen Sie sicher,installieren Sie es auch; Pakete mit großen Mengen an Dokumentationregelmäßig spalten die Dokumente auf diese Weise für diejenigen, die nicht wollen,installieren.
+
+%
+Debian Tipp # 27: Regelmäßig die Sicherungen überprüfen. Sie * sind * halten Backups,Recht? Recht? Wenn nicht, starten Sie mit tar (1) oder Dump (1).
+
+%
+Debian Tipp # 28: Wenn das Gerät nicht über die ganze Zeit (beispielsweise einLaptop), überprüfen Sie die "anacron" Paket aus; Dadurch wird sichergestellt, dass die regelmäßigeAufgaben immer noch passieren, auch wenn die Maschine zu diesem Zeitpunkt nicht eingeschaltet ist, sie würdennormalerweise auslösen.
+
+%
+Debian Tipp # 29: Halten Sie Ihre Systemtakt präzise - Maschinen, die eingeschaltet werdendie meisten oder alle der Zeit sollte die "NTP" Paket installiert ist, die Zeit zu haltengenau zwischen Neustarts.
+
+%
+Debian Tipp # 30: Dokumentation unter http zur Verfügung gestellt werden kann: // localhost /durch die "doc-base 'Installation und' doc-Mitte 'Pakete und derenAbhängigkeiten.
+
+%
+Debian Tipp # 31: Deaktivieren eines normal aktiven Dienst in einem bestimmten Runlevelsollte durch eine Änderung der S-Link in /etc/rc<level>.d einem K-Verbindung durchgeführt werden,anstatt die Verbindung vollständig zu entfernen; Wenn alle Verbindungen entfernt werden, dieSystem wird auf die nächste übernehmen installieren, dass sie ersetzt werden müssen.
+
+%
+Debian Tipp # 32: Das Paket "doc-debian 'enthält einige allgemeineDokumentation über das Projekt Debian. Es ist auch in Spanisch verfügbar(Doc-debian-es), Französisch (doc-debian-fr) und der Ukraine (doc-debian-uk).
+
+%
+Debian Tipp # 33: Das Paket "devscripts 'enthält einige nützliche Skripte fürBenutzer, die Debian, beispielsweise zu helfen, verbessern wollen wnpp-Alarm, rc-Alarm und BTS.
+
+%
+Debian Tipp # 34: Wenn Sie Debian Sid und haben einen kleinen Download zu verfolgenQuote oder eine wirklich langsame Verbindung, überprüfen Sie die debdelta Paket aus.
+
+%
+Debian Tipp # 35: Auf der Suche nach einigen Spielen? Schauen Sie sich auf "goplay", diebietet eine schöne Frontend durch alle Arten von Spielen für das Surfen.
+
+%
+Debian Tipp # 36: eine neuere Paket benötigen als letzte mit Debians ausgeliefertstabile Version, wollen aber nicht auf "Probe" zu aktualisieren oder "instabil"? EtwasPakete sind up-to-date über den Stall-Updates Suite gehalten, einige andere sindgemacht bei backports.debian.org verfügbar.
+
+%
+Debian Tipp # 37: Willst du ein Paket herunterzuladen, ohne sie zu installieren? Benutzen"Eignungs Download <Paket> '.
+
+%
+Debian Tipp # 38: Möchten Sie wissen, wie Sie ein Programm, das Sie nie benutzen könnenVor? "Mensch" wird Ihre beste neuer Freund sein! Geben Sie "Mann <Programmname>" in einSchale. Oder führen "Mann -H <Programmname>", um die Handbuchseite in einem Browser zu lesen.
+
+%
+Debian Tipp # 39: Verbessern bash Tab-Vervollständigung durch die InstallationBash-Completion-Paket.
+
+%
+Debian Tipp # 40: Wenn Sie den Befehl nicht gefunden-Paket zu installieren, zu versuchen,einen Befehl ausführen Sie haben nicht installiert werden Ihnen sagen, was Paket installieren zudiesen Befehl erhalten.
+
+%
+Debian Tipp # 41: Sie können 'apt-cache show <Paketname> "verwenden oder" Eignung Show<Paketname> "weitere Informationen über ein Debian-Paket zu erhalten.
+
+%
+Debian Tipp # 42: Sie können 'apt-Dateiliste <Paketname> "verwenden, um ein Angebot zu erhaltender Inhalt des Debian-Paket. Diese Aktion ist ähnlich'Dpkg -L <Paketname> "mit Ausnahme der Verpackung muss nicht installiert werden, oderhergeholt mit apt-Datei im Gegensatz zu dpkg.
+
+%
+Debian Tipp # 43: Möchten Sie vorübergehend Ihre iptables Firewall deaktivieren? Benutzen'Iptables-save | sed "/ - / d; / ^ # / d; s / DROP / ACCEPT /" | iptables-restore "zu entfernensetzen alle Regeln und die Standardrichtlinie zu übernehmen.
+
+%

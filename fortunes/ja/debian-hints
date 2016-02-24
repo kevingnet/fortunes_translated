@@ -1,0 +1,237 @@
+Debian ヒント #1: パッケージのバグは、reportbug パッケージにある
+ 'reportbug' コマンドで報告できます。コマンドラインからでも、
+('reportbug --ui gtk2' の実行やメニューにある)
+新しいグラフィカルフロントエンドでも可能です。
+
+%
+Debian ヒント #2: 'dpkg-reconfigure <package>' とすると、パッケージの
+インストール時に訊かれた質問に対して、回答を変更できます。なお、
+'configure-debian' パッケージでは、この統一フロントエンドを提供しています。
+
+%
+Debian ヒント #3: 'apt-cache search <words>' や 'aptitude search <words>'
+として、利用できるパッケージすべての説明文から単語を検索できます。
+
+%
+Debian ヒント #4: 'apt-cache policy <packages>' コマンドで、利用可能
+パッケージのうち、利用できるバージョンやインストールしたバージョンを
+確認できます。
+
+%
+Debian ヒント #5: カスタムカーネルを構築する場合は、kernel-package
+パッケージにある 'make-kpkg' スクリプトを使用してください。
+
+%
+Debian ヒント #6: ヒント #6 はありません。
+「今日のヒント」を送ってください!
+
+%
+Debian ヒント #7: cron-apt パッケージを使うと、毎晩インストール済み
+パッケージの更新情報を取得できます。
+
+%
+Debian ヒント #8: Debianを使用していて、マニュアルやドキュメントを読んでも
+自分で解決できない問題があったら、Debian ユーザメーリングリスト
+(debian-users@list.debian.or.jp) (要 subscribe) で質問してみてください。
+
+%
+Debian ヒント #9: 現在稼働中の Debian のバージョンを知る必要があれば、
+/etc/debian_version を確認するか、'lsb_release -sc' コマンドを実行してくだ
+さい。コードネームとバージョンの対応 (例: 5.0 は 'Lenny' というコードネーム)
+は、以下の URL を確認してください。
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian ヒント #10: ユーザの質問を受け付けるものから、Debian ポリシーの
+ドキュメントに何を収録するかといった議論まで、Debian のさまざまなメーリング
+リストがあります。http://www.debian.org/MailingLists/ をチェックして、
+興味を引いたものを購読してください。
+
+%
+Debian ヒント #11: 最新動向を知るには、Debian Project News をお読み
+ください。http://www.debian.org/News/weekly/ にてウェブ上で読めます。
+
+%
+Debian ヒント #12: grep-dctrl パッケージでは、さまざまな (packages
+ファイル内にある) パッケージコントロールファイルから、簡単に検索する
+たくさんのスクリプトを提供しています。
+
+%
+Debian ヒント #13: Debian パッケージで使用しているデフォルトオプションが
+好みに合わなければ、ソースをダウンロードし、好みのオプションを指定して、
+再構築できます。詳細は http://www.debian.org/doc/FAQ/ch-pkg_basics.html
+(6.13 節や 6.14 節) をご覧ください。
+
+しかし、ほとんどのパッケージのほとんどのオプションは、実行時に設定でき、
+パッケージを再構築する必要がないことを、心に留めておいてください。
+
+%
+Debian ヒント #14: パッケージについて発生した事象を追いかけるなら
+(例: バグ報告やリリース時の注意、その他それに類するもの)、
+パッケージ追跡システム (PTS) でそのパッケージを購読してください。
+PTS については以下に説明があります。
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian ヒント #15: パッケージの文書は、通常 /usr/share/doc/<package>
+にあります。特に README.Debian ファイルには、Debian 特有の有用な情報が
+書かれています。
+
+%
+Debian ヒント #16: あるファイルを探していて、そのファイルがどのパッケージに
+含まれているかわからない場合、こういった情報の小さなデータベースを管理する
+'apt-file' をインストールしてみてください。または以下にある、Debian
+パッケージデータベースの中を検索してください。
+
+http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian ヒント #17: Debian についての話相手が必要ですか? Internet Relay Chat
+ (IRC) の居心地がよければ、お好きな IRC クライアントをインストールして、
+irc.debian.org の #debian に join してください。
+
+%
+Debian ヒント #18: パッケージの品質管理情報は、
+http://packages.qa.debian.org/<package> にあります。このページには、
+メンテナの QA ページや BTS、パッケージのニュース、どのアーカイブに
+どのバージョンが含まれているかといった情報へのリンクがあります。
+
+%
+Debian ヒント #19: ソースからのパッケージ構築に興味があるなら、
+apt-src パッケージのインストールを検討した方がいいと思います。
+
+%
+Debian ヒント #20: インストールしたパッケージのバージョンを確認したいの
+ですか? (特に、安定版・テスト版・不安定版が混在していると便利ですね)
+apt-show-versions をチェックしてください。
+
+%
+Debian ヒント #21: Debian マシンが遅いネットワークにつながっていて、
+もっと早いネットワークにアクセスする場合、apt-zip パッケージを調べて
+ください。
+
+%
+Debian ヒント #22: どの Debian ミラーサイトが一番いいのか、わからないの
+ですね? さまざまなミラーサイトがどのように動作するのかといった情報を提供
+する、apt-spy パッケージや netselect-apt を確認してください。
+
+%
+Debian ヒント #23: システムがディスク容量を使いすぎなら、deborphan
+パッケージを試してください。どのパッケージが使われておらず、削除できるか
+を教えてくれます。もちろん、APT のキャッシュ領域の掃除もお忘れなく
+('apt-get clean' や 'aptitude clean'、aptitude の 「アクション」->
+「パッケージのキャッシュの消去」メニュー項目で行います)。
+
+%
+Debian ヒント #24: 問題の対処しているメンテナに感謝の意を表したいなら、
+reportbug --kudos としてください。
+
+%
+Debian ヒント #25: 'debian-reference' パッケージは、Debian のユーザ・開発者
+のための、広範なリファレンス文書です。情報のほとんどは以下の URL にあります。
+
+http://www.debian.org/doc/manuals/reference
+
+%
+Debian ヒント #26: パッケージにドキュメントが足りないと思ったら、
+'<パッケージ>-doc' と名前のついたパッケージを確認し、インストールして
+ください。大量のドキュメントがあるパッケージは、ドキュメントが必要ない
+人のために、通常分割することになっています。
+
+%
+Debian ヒント #27: 定期的にバックアップを検証してください。
+バックアップを取っていますよね?
+取っていないのなら、tar(1) や dump(1) から始めましょう。
+
+%
+Debian ヒント #28: マシンが常に電源が入っているのでなければ
+(ラップトップなど)、'anacron' パッケージを確認してみてください。
+このパッケージは、通常トリガーになる時間に電源が入っていなくても、
+いつものタスクが実行できます。
+
+%
+Debian ヒント #29: システムクロックを正確に保つには……。電源を入れたままに
+するマシンは、再起動するまでのあいだ時刻を正確に保つため、'ntp' パッケージ
+をインストールした方がいいでしょう。
+
+%
+Debian ヒント #30: 'doc-base' パッケージと 'doc-central' パッケージ、
+および依存しているパッケージをインストールすると、http://localhost/ で
+ドキュメントを利用できるようになります。
+
+%
+Debian ヒント #31: 通常有効なサービスを、特定のランレベルで無効にするには、
+リンク全体を削除するよりも、/etc/rc<level>.d にある S で始まるリンクを、
+K で始まるリンクに変更したほうがいいでしょう。リンクをすべて削除してしまう
+と、次回インストール時に置き換える必要があるというように、
+システムが認識してしまいます。
+
+%
+Debian ヒント #32: 'doc-debian' パッケージには、Debian プロジェクトに
+ついての一般的なドキュメントが収録されています。また、スペイン語
+(doc-debian-es)、フランス語 (doc-debian-fr)、ウクライナ語 (doc-debian-uk)
+も用意されています。
+
+%
+Debian ヒント #33: 'devscripts' パッケージには、Debian の改良を手伝いたい
+ユーザにとって、便利なスクリプトがいくつも含まれています。例: wnpp-alert,
+rc-alert, bts。
+
+%
+Debian ヒント #34: Debian sid を追いかけたいと思っていて、ダウンロードに
+制限があったり、回線が細かったりした場合、debdelta パッケージを確認して
+ください。
+
+%
+Debian ヒント #35: ゲームを探していますか? 'goplay' を見てみてください。
+ゲームの類をすべて閲覧する、すばらしいフロントエンドです。
+
+%
+Debian ヒント #36: 最新安定版リリースに収録されたものよりも、
+新しいパッケージが必要。でも、'testing' や 'unstable' に
+アップグレードはしたくないのですね?
+いくつかは stable-updates スイートで最新にされています。
+その他のいくつかは backports.debian.org で利用できます。
+
+%
+Debian ヒント #37: パッケージをインストールせずにダウンロードだけしたいの
+ですね? 'aptitude download <pkgname>' としてください。
+
+%
+Debian ヒント #38: 今まで使ったことのないプログラムの使い方を知りたいの
+ですね? "man" が新たな親友になるでしょう! シェルで "man <program-name>"
+と入力するか、"man -H <program-name>" としてマニュアルページをブラウザで
+表示してください。
+
+%
+Debian ヒント #39: bash-completion パッケージをインストールすると、
+bash のタブ補完を改良します。
+
+%
+Debian ヒント #40: command-not-found パッケージをインストールすると、
+インストールしていないコマンドの実行時に、どのパッケージをインストールする
+とそのコマンドを入手できるかを教えてくれます。
+
+%
+Debian ヒント #41: 'apt-cache show <package_name>' や 'aptitude show
+<package_name>' とすると、debian パッケージの詳細を表示します。
+
+%
+Debian ヒント #42: Debian パッケージの内容の一覧を取得するのに、
+'apt-file list <package_name>' を使用できます。このアクションは、
+'dpkg -L <package_name>' に似ていますが、dpkg と異なり
+apt-file を使用するため、パッケージのインストールや取得が不要です。
+
+%
+Debian ヒント #43: iptables のファイアウォールを、
+一時的に無効にしたいのですね?
+'iptables-save  sed "/-/d;/^#/d;s/DROP/ACCEPT/"  iptables-restore'
+として、すべてのルールを削除し、デフォルトポリシーを ACCEPT に設定します。
+
+%
+Debian ヒント #44: Debian の Identi.ca アカウントを
+http://identi.ca/debian でフォローできます。
+Identica での Debian の情報については、
+http://wiki.debian.org/Teams/Publicity/Identica でも見つかります。

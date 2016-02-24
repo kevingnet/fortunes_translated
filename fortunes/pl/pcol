@@ -1,0 +1,173 @@
+Wlasnie posadzilem RH7 - mialem w czesniej RH6.2 i troche mnie denerwuja
+2 sprawy (narazie):
+1. chce przeKompilowac jadro i co sie do licha stalo z /usr/src/linux?
+2. za Kazdym razem jaK proBuje wpisac K (male) luB B (male) wysKaKuja mi
+jaKies dziwadla o co chodzi? sprawdzalem w sKrotach - nie ma tam zadnych
+zdefiniowanych sKrotow do tych liter
+
+Zaczynam watpic w przyjaznosc tej dystryBucji.
+%
+A propos szybkosci, to chce poinformowac, ze juz po trzech dniach otrzymalem
+odpowiedz, ze nie ma mozliwosci technicznych... To sie nazywa tempo!!!
+
+Krzysztof T.
+
+Warszawa, osiedle Groty (Bemowo)
+
+P.S. Pisze tutaj, bo firewall mial byc linuxowy...
+%
+Czy jest jakies narzedzie do pisania przyjaznych
+skryptow w RH 6.2? W Slackwarze jest program
+dialog, ktory umozliwia obsluge menu, formatek, list wyboru itp
+
+Dobrze byloby, by narzedzie to bylo standardem dostepnym
+na roznych RH czy innych dystrybucjach.
+%
+Tako rzecze marko :
+> czE!
+> mam pytanko - niewiecie gdzie w sieci mozna dopasc HOWTO albo innego manuala
+> do MANDRAKE'a 7.1 (angielskiego jush mom a przydala by sie jeszcze jakas
+> dobrze przetlumaczona wer. POLske'a
+
+   Po co ci spolszczone many, skoro nie umiesz po polsku?
+
+Saddie
+--
+     /\ /\    Małgorzata Lewicka          ----- saddie@ideefixe.nom.pl -----
+     =^;^=                                http://www.ideefixe.nom.pl/~saddie
+     /   |    SOFTWARE:  Them dang plastic forks and knifs.
+(___(|_|_|                                       Technology for Country Folk
+%
+Dzisiaj sie spotkalem ze zniecierpliwonym, zdenerwowanym glosem:
+- Wisz co, z tym twoim calym Linuksem jestes gorszy niz Jehowi.
+Cos w tym musi byc, ,,ten caly Linux'' to jest pewna filozofia zycia... ;-]
+
+--
+kobieta była drugim błędem boga
+                             /
+                    nietzsche
+%
+>> > torby do notebook'a i futeraly na CD - wszystko oczywiscie linuxowe :).
+>> Tylko dlaczego to wszystko kosztuje wiecej jak dystrybucja ?
+>> Pewnie dla tych co nigdy w zyciu nie beda wstanie sobie Linuxa zainstalowac.
+
+> Taaaa... x-mailer: Mozilla/Win98
+> standard: HTML
+
+> hmm, jakby to rzec... niewazne :P
+windows na komputerze, pingwin na dresie
+%
+ ile wiem to twarde dyski i dyskietka powinny byc w katalogach
+/dev/hda/ i /dev/fd?
+Niestety u mnie jakos tyakich katalogow nie widze, czemu???????
+%
+Koledzy !
+Postanowilem sie uczyc Linuxa. Mam w domu hebelka 486 DX2 12 MB RAMu czy
+to wystarczy ? Tak przy okazji czy bede mogl liczyc na drobna pomoc
+kolegow? Ogladalem ksiazke o Linuksie; polowy slow nie rozumiem. Tak
+przy okazji gdzie moge moge zalatwic jakakolwiek wersje instalacyjna, bo
+Linux jest ponoc za friko.
+%
+Skoro inetd uruchamia rozne uslugi takie jak
+talk czy ftp, a w pliku hosts.deny, ktory z
+kolei steruje inetd mam opcje all@all to nie
+musze przejmowac sie tym, czy talk, ftp itd
+sa dziurawe.
+Czy powyzsza teza jest poprawna?
+%
+W póprżędńim ódćińku... (Łukąśż Trąbińśki piśżę):
+
+>Jąćęk Kąwą <jfk@żęuś.półśł.głiwićę.pł> wrótę:
+>> Śąddię wrótę whąt ńó Śąddię hąś writtęń bęfórę
+>>>    Ćży były jąkięś wybóry, ą ją ję prżęgąpiłąm?
+>> Tutąj ćhybą ńię. Tżń. w ógółę były wybóry, ąłę ńię wiądómó wćiąż,
+>> ćży wygrął Buśh ćży Kwąśńięwśki.
+>Ójęj, tó żąbrżmiąłó jąk Kóńik ję^H^Hbująńy ćży ińńy Ęxpęrt... :>
+
+Ąłę jąją! Dąwńó już śię tąk ńię uśmiąłęm!!
+Ńąbąwię śię prżęż Wąś bółi brżućhą...
+
+Ą tu jęśżćżę pąrę prżykłądówyćh żdąń dłą mójęgó ńówęgó ąutómątu. Mój ńówy
+ąutómąt prżęprąśżą wśżyśtkię óśóby, którę łąmią śóbię jężyk próbująć
+prżęćżytąć, ćó tu jęśt ńąpiśąńę, ą w śżćżęgółńóśći Łukąśżą Trąbińśkięgó,
+któręgó śłówą rówńięż żóśtąły pótrąktówąńę ;-) Jąk rówńięż wróty jęgó
+prżędmówćów.
+
+Póżdrąwiąm wśżyśtkićh i piśżmy ńąprąwdę pó półśku!
+
+--
+Jąręk Bąćżyńśki ąką Bąćżą       |  Dętróit iś Ćłęvęłąńd withóut thę
+mąiłtó:jąręk@fąńthóm.irć.pł     |  głittęr.
+http://fąńthóm.irć.pł/~jąręk/   |
+  -=[ Używąśż śłrń? Żóbąćż http://fąńthóm.irć.pł/~jąręk/łińux/śłrń/ ]=-
+%
+Ponizej chcialbym podac kilka wskazowek dla osob odwiedzajacych nasza
+linuxowa grupe:
+
+1. Prosimy nie uzywajcie polskich liter, linux jak na razie ma jeszcze
+problemy z wyswietlaniem polskich znakow, a tylko nowsze dystrybucje i
+srodowisko XFree86 pozwala na odczytywanie polskich krzaczkow.
+
+2.Nie poprawiajcie bledow ortagraficznych i skladniowych innym
+grupowiczom. Nie jest to grupa dla polonistow i wazne jest to abysmy
+rozumieli o co innym chodzi.
+
+3. Smieszne jest jak widzi sie, ze niektorzy uzywaja klienta newsow
+Microsoftu do korzystania z grupy linuxowej. Panowie i panie sa inne
+programy takie jak Xnews, Netscape, Opera i wiele innych.
+
+Z szacunkiem do wszystkich
+Rafal
+%
+To nie grupa dla polonistow, a wazne jest to, ze wszyscy rozumiemy o co
+chodzi.
+
+Co do patcha , sam go uzywam i dziala bez zarzutu, ale lepszym
+rozwiazaniem jest zainstalowac np. Mandraka 7.2, ktory ma tego patcha i
+mozna uzywac linuxa na trzecim i czwartym kontrolerze.
+
+Z plyta musiales tez dostac Gentusa, a on dziala na 100 procent.
+
+Polonista sie znalazl, moze moje dzieci ma ochote pouczyc
+
+Rafal
+Arkadiusz Jablonski wrote:
+>
+> > pośiadam wszystkie pacze do rurznych wersji jądra i jak je wkompilować
+> pośiadam ABIT ata100 raid
+>
+> Oczywistym jest iz poprawna ortografia i gramatyka nie jest mocna strona
+> srodowiska
+> informatycznego (przepraszam za uogolnienie ale tak sie przyjelo). Z tego
+> tez wzgledu
+> na tej liscie raczej przymyka sie na to oko. Ale to ... hmmm
+>
+> prof. Miodek dostalby zawalu na miejscu!
+>
+> (Jezeli jestes obcokrajowcem studiujacym w Polsce to sorry :-)
+%
+UWAGA!
+Linux jest to nazwa systemu i piszac o nim, nie powinnismy zmieniac "x"
+na "ks". Czyli w linuxie a nie w "linuksie" itp. Prosze pamietajcie o
+tym.
+
+Rafal
+%
+[ From: rekrutacja <rekrutacja@gazeta.pl>                                  ]
+[ Subject: PLD - dlaczego taki symbol?                                     ]
+[ Newsgroups: pl.comp.os.linux                                             ]
+[ Message-ID: <3D617693.4030404@gazeta.pl>                                 ]
+
+Jestem dosc nowy w linuksie. Probuje sie zorientowac co jest grane,
+odwiedzam rozne miejsca. Odwiedzilem miedzy innymi strone z PLD
+(http://www.pld.org.pl/) i zaczalem sie zastanawiac, czy falliczny
+ksztalt jako logo jest najlepszym sposobem na slawienia zalet polskich
+programistow? Rozumiem, ze przynajmniej zwraca uwage, ale to jednak jest
+troche niesmaczne.
+%
+From: Marcin Wojtczuk <fvfalse@hakerzy.zmroku>
+Message-ID: <8dgu9b-i77.ln@fastviper.viper.lan>
+
+Chciałbym zauważyć, że jak się ani trochę nie zna asm i nic z niego nie
+rozumie, to C też dotykać się nie powinno.
+%

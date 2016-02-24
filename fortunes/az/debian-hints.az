@@ -1,0 +1,129 @@
+Debian Ip ucu # 44: Siz Debian üçün Identi.ca hesab takip edə bilərsinizIdentica at Debian http://identi.ca/debian Daha çox məlumat həmçininhttp://wiki.debian.org/Teams/Publicity/Identica: əldəDebian Ip ucu # 1: Siz reportbug "əmri ilə bir paket bir səhv hesabat bilərsiniz,ki, reportbug paketi mövcuddur ya command-line və yaçalışan yeni qrafik Ön (ilə və ya '--ui gtk2 reportbug "menu).
+
+%
+Debian Ip ucu # 2: dəyişdirmək üçün Siz dpkg-reconfigure <paketi> 'istifadə edə bilərsinizilk paketi yüklü zaman suallar verdi cavab istədi."Yapılandır-Debian" paketi, bunu üçün vahid ön təminhəmçinin.
+
+%
+Debian Ip ucu # 3: Siz istifadə edə bilərsiniz "apt-cache axtarış <sözləri> 'və ya"Qabiliyyət axtarış <sözləri> bütün təsviri sözlər üçün axtarışmövcud paketləri.
+
+%
+Debian Ip ucu # 4: Siz bir üçün mövcud və quraşdırılmış versiyasını bilərsinizvə ya command "apt-cache siyasəti <paketləri> ilə daha çox paketləri.
+
+%
+Debian Ip ucu # 5: xüsusi kernel qurmaq üçün ehtiyac varsa, makiyaj kpkg istifadəkernel-paketi paketi aşkar script.
+
+%
+Debian Ip ucu # 6: heç bir işarə # 6 var. Bir ipucu bu gün təqdim!
+
+%
+Debian Ip ucu # 7: Siz avtomatik gecə nə cron-apt paketi istifadə edə bilərsinizsistem yüklü paketləri üçün yenilikləri downloads.
+
+%
+Debian Ip ucu # 8: Siz ilə həll edə bilər ki, Debian ilə bağlı problemlər varsatəlimatlar və sənədlər oxu Debian istifadəçi xahiş edinpoçt siyahısı (debian-user@lists.debian.org).
+
+%
+Debian Ip ucu # 9: Siz hazırda olduğunuz Debian hansı versiyasını bilmək lazımdırçalışan, / etc / debian_version baxmaq və ya 'lsb_release -sc "komandasindan istifadə edin. Əgər sənməsələn versiyası üçün codename (bilmək istəyirsinizsə, 5.0 codenamed edir"Lenny"), bu URL yoxlamaq:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Ip ucu # 10: istifadəçi hər şey üçün Debian poçt siyahıları varDebian Policy sənədləri daxil qoymaq nə üzərində müzakirələr suallar.http://www.debian.org/MailingLists/ at siyahısını edin və abunəmaraq o.
+
+%
+Debian Ip ucu # 11: neler haqqında bu günə qədər saxlayın - Debian oxumaqLayihə Xəbərləri. http://www.debian.org/News/weekly/ da web oxuyun
+
+%
+Debian Ip ucu # 12: grep-dctrl paketi faydalı scripts bir sıra təmin edirtez belə kimi mövcuddur (müxtəlif paketi nəzarət faylları axtarış üçünpaketləri) fayl.
+
+%
+Debian Ip ucu # 13: Bir Debian istifadə default variantları kimi deyilsəpaketi siz mənbə download və istifadə versiyası inşa edə bilərsinizvariantları üstünlük verirlər. http://www.debian.org/doc/FAQ/ch-pkg_basics.html baxDaha ətraflı məlumat üçün (bölmələr 6.13 və 6.14).Lakin, nəzərə ayı ən paketləri ən variantları konfiqurasiya edilə bilər ki,uzunluğu, və paketi recompiling tələb etmir.
+
+%
+Debian Ip ucu # 14: Bir paketi baş şeylər izləmək istəyirsinizsə(Məsələn, siz səhv hesabat görmək bildirişlər azad istəyirsinizsə digəroxşar şeyi) Package Tracking sistem üzrə qeyd hesab edir.Siz PTS haqqında daha ətraflı tapa bilərsiniz:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Ip ucu # 15: paketi üçün sənədlər normal əldə edə bilərsiniz/ Usr / share / doc / <paketi> altında. Xüsusilə, README.Debian tez-tez faylDebian xüsusi quirks və ya göstərişlər haqqında faydalı məlumat var.
+
+%
+Debian Ip ucu # 16: Müəyyən bir fayl üçün axtarış etdiyiniz, lakin bilmirsinizsəolan paketi bir saxlayır ki, 'apt fayl "yüklemeyi cəhd edin məxsusdurbu məlumatların kiçik bir verilənlər bazası, və ya Debian məzmunu axtarışedilə bilər bazası paketləri:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Ip ucu # 17: Debian haqqında danışmaq üçün kimsə lazımdır? rahat edirsinizsəInternet Relay Chat (BXK) ilə, yalnız sevimli IRC müştəri yüklemek vəirc.debian.org on #debian buyurun.
+
+%
+Debian Ip ucu # 18: a paketi haqqında Keyfiyyətə nəzarət məlumat əldə edə bilərsiniz<Paketi> http://packages.qa.debian.org/ gedən; Bu səhifə təmin edirIddialı nin QA səhifə links, BTS, paketi xəbərlər, vəməlumat olan versiyaları olan arxiv mövcuddur.
+
+%
+Debian Ip ucu # 19: Siz mənbədən bina paketləri istəyirsinizsə, sizapt-src paketi yükledikten hesab etməlidir.
+
+%
+Debian Ip ucu # 20: bir paketin hansı versiyasını takip istəyirsinizhibrid sabit / test çalışan şəxslər üçün xüsusilə faydalı (yüklü /qeyri-sabit sistemləri)? apt-şou-versiyasını kontrol edin.
+
+%
+Debian Ip ucu # 21: Sizin Debian qutusu yavaş ağ bağlantısı arxasında deyil,ancaq həmçinin sürətli bir imkanı var apt-poçt paketi oldu.
+
+%
+Debian Ip ucu # 22: hansı Debian güzgü merak sizin üçün ən yaxşı? Yoxlasizə məlumat verə bilər apt-casus və netselect-apt paketləri,necə müxtəlif güzgü sites yerinə haqqında.
+
+%
+Debian Ip ucu # 23: sistem çox disk istifadə varsa, cəhdpaketi deborphan; haqqında paketləri ola bilər ki, təkliflər təklif edə biləristifadə olunmamış və çıkarılabilir. Və, əlbəttə, təmizləmək unutmayınAPT cache sahəsi (təmiz qabiliyyət ',' təmiz apt-get "istifadə edərək, və yaQabiliyyət Fəaliyyət -> Clean paketi cache menu item).
+
+%
+Debian Ip ucu # 24: Bir baxılması üçün iddialı təşəkkür istəyirsinizsəməsələ reportbug --kudos oldu.
+
+%
+Debian Ip ucu # 25: Debian istinad "paketi müxtəlif ehtiva edirDebian istifadəçilər və developers üçün istinad sənədlər. ənməlumat da aşağıdakı URL əldə edə bilərsiniz:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Ip ucu # 26: paketi çox sənədləri var görünür deyil,paketi adlı '<package> -doc' və ya oxşar kontrol və əmin oluneləcə də bərpa; sənədlərin böyük məbləğlər ilə paketlərimüntəzəm istəmirəm edənlər üçün bu şəkildə docs splitonları bərpa edin.
+
+%
+Debian Ip ucu # 27: Daimi yedeklemeler yoxlamaq. Siz * yedeklemeler saxlanılır *sağ? Right? , Tar ilə başlamaq deyilsə (1) və ya kötük (1).
+
+%
+Debian Ip ucu # 28: Sizin maşın belə bir kimi zaman bütün (deyilsə) Laptop, 'anacron "paketi kontrol; Bu müntəzəm əmin edəcəkvəzifələri hələ maşın edəcəklərini zamanda olmasa belə, başnormal tetikler.
+
+%
+Debian Ip ucu # 29: dəqiq sistem saat edin - açıq maşınlarən və ya vaxt hər zaman saxlamaq üçün quraşdırılmış "NTP" paketi olmalıdırreboots arasında dəqiq.
+
+%
+Debian # 30 Ip ucu: Documentation http edilə bilər: // localhost /"Doc-baza" və "doc-mərkəzi" paketləri və yükleyerek onlarınbağımlılıkları.
+
+%
+Debian Ip ucu # 31: xüsusi runlevel bir normal aktiv xidmət aradanK link /etc/rc<level>.d S link dəyişən edilməlidir,daha tamamilə link aradan qaldırılması çox; bütün links aradan əgər,Sistem əvəz etmək lazımdır ki, yüklemek növbəti boynuna götürəcək.
+
+%
+Debian Ip ucu # 32: paketi 'doc-Debian bəzi ümumi edirDebian Layihə haqqında sənədlər. Ispan mövcuddur(Doc-Debian-es), Fransız (doc-Debian-fr) və Ukrayna (doc-Debian-uk).
+
+%
+Debian Ip ucu # 33: paketi 'devscripts üçün faydalı scripts varistəyən istifadəçilər, məsələn Debian yaxşılaşdırılması üçün kömək wnpp-alert, rc-alert və BTS.
+
+%
+Debian Ip ucu # 34: Siz Debian SID izlemek, istədiyiniz və kiçik download varsakvota və ya həqiqətən yavaş bağlantısı debdelta paketi oldu.
+
+%
+Debian Ip ucu # 35: bəzi oyunlar üçün axtarış? "Goplay" bir göz atın ki,oyunlar bütün növ vasitəsilə gəzən üçün gözəl Ön edir.
+
+%
+Debian Ip ucu # 36: Debian son sövq daha yeni paket lazımdırsabit azad, lakin test 'və ya' qeyri-sabit "yükseltmek üçün istəmirəm? birpaketləri sabit-yenilikləri suite vasitəsilə up-to-tarix saxlanılır, bəzi digərbackports.debian.org mövcud etdi.
+
+%
+Debian Ip ucu # 37: yüklemeden olmadan paketi download istəyirsiniz? istifadə"Qabiliyyət download <pkgname> '.
+
+%
+Debian Ip ucu # 38: Siz bir proqram istifadə edə bilərsiniz necə bilmək istəyirsiniz siz istifadə heç vaxtəvvəl? "Man" ən yaxşı yeni dost olacaq! a yazın "man <proqramı adı>"shell. Və ya, run "man -H <proqramı adı>" bir brauzerinizin dərslik səhifə oxumaq üçün.
+
+%
+Debian Ip ucu # 39: yükleyerek Bash tab-başa təkmilləşdirilməsibash tamamlama paketi.
+
+%
+Debian Ip ucu # 40: Siz cəhd, komanda-tapılmadı paket yüklerseniznə paketi yüklemek üçün sizə xəbər verəcəkdir yüklü olmayan bir funksiyanı çalıştırınki, komanda almaq.
+
+%
+Debian Ip ucu # 41: Siz istifadə edə bilərsiniz "apt-cache show <PACKAGE_NAME> 'və ya' qabiliyyət show<PACKAGE_NAME> 'a Debian paketi haqqında daha ətraflı məlumat almaq üçün.
+
+%
+Debian Ip ucu # 42: Siz apt-fayl siyahısı <PACKAGE_NAME> siyahısını əldə etmək üçün istifadə edə bilərsinizDebian paketinin məzmunu. Bu hərəkət bənzər"Dpkg -L <PACKAGE_NAME>" paketi yüklü olması lazım deyil istisna olmaqla, və yadpkg fərqli alındı ​​istifadə apt-file.
+
+%
+Debian Ip ucu # 43: müvəqqəti olaraq iptables firewall aradan istəyirsiniz? istifadə"Iptables saxlamaq | lakin "/ - / d; / ^ # / d; s / DROP / qəbul /" | aradan qaldırılması üçün "iptables-bərpabütün qaydalarını qəbul etmək default siyasət qurmaq və.
+
+%

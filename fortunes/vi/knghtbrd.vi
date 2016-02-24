@@ -1,0 +1,2160 @@
+* SynrG lưu ý rằng số lượng câu hỏi cấu hình để trả lời ở  sendmail là không tầm thường
+		-- David Leimbach
+
+%
+* James sẽ gây ấn tượng hơn nếu sức mạnh kỳ diệu của netgod có thể ngăn chặn  chia ở nơi đầu tiên ...* Netgod lưu ý các nhà phát triển debian có tiếng là khó gây ấn tượng
+		-- David Leimbach
+
+%
+<Sel> cần giúp đỡ: gói đầu tiên của tôi để cung cấp của tôi bị mất :-(<Netgod> sel: không gửi đầu tiên, bắt đầu với # 2
+		-- David Leimbach
+
+%
+<James> lợi dụng tôi. Tôi rất què tôi đã gửi một báo cáo lỗi để        debian-devel-thay đổi
+		-- David Leimbach
+
+%
+Tôi chưa bao giờ nghĩ rằng tôi muốn xem ngày mà Netscape là phần mềm miễn phí vàX11 là độc quyền. Chúng ta đang sống trong thời gian thú vị.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> Lemme chắc chắn rằng tôi không lãng phí thời gian ở đây ... bcwhite sẽ loại bỏ      pkgs rằng havent được cố định mà có lỗi nổi bật của mức độ nghiêm trọng      "quan trọng". Đúng hay sai?<JHM> jim: "quan trọng" hoặc cao hơn. Thật.<Jim> Sau đó, chúng tôi sắp mất ftp.debian.org và dpkg :)* Netgod sẽ bỏ lỡ dpkg - đó là đôi khi hữu ích<Joey> Chúng tôi vẫn có rpm ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> Bị quá tải là dấu hiệu của một nhà bảo trì Debian đúng.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: Tôi nghiêm túc cần một kỳ nghỉ từ gói này.            Tôi thực sự đã có một DREAM về việc giới thiệu một lỗi mới ngu ngốc            vào xBase-preinst đêm qua. Đó là một Bad Đăng.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+Viết phần mềm không tự do không phải là một hoạt động có đạo đức chính đáng, vì vậy nếunhững người làm điều này chạy vào rắc rối, đó là tốt! Tất cả các doanh nghiệp có trụ sởtrên phần mềm không tự do phải thất bại, và càng sớm càng tốt.
+		-- Richard Stallman
+
+%
+dịch vụ DNS Microsoft chấm dứt bất thường khi nó nhận được một phản ứngcho một truy vấn DNS mà không bao giờ được thực hiện. Sửa Thông tin: Chạy DNS của bạndịch vụ trên một nền tảng khác nhau.
+		-- BugTraq
+
+%
+* Dpkg tay STU một ly lớn vbeer* Joey lấy bia từ stu, em còn quá nhỏ;)* Cylord lấy bia từ Joey, bạn đang quá say.* Cylord cho bia để Muggle.
+		-- BugTraq
+
+%
+Chúng tôi những người trong bản phát hành Debian GNU / Linux, để tạo thành mộtnhiều hệ điều hành hoàn hảo, thiết lập chất lượng, đảm bảo thị trườngđa dạng, cung cấp cho nhu cầu chung của người sử dụng máy tính, thúc đẩyan ninh và sự riêng tư, lật đổ thế lực độc quyền trong máy tínhcông nghiệp phần mềm, và đảm bảo lợi của tự do cho chính mình vàcháu chúng ta, làm phong chức và thiết lập Hiến pháp này cho DebianHệ thống GNU / Linux.
+		-- BugTraq
+
+%
+"Đây là cấu trúc element_data cho các yếu tố mà * ELEMENT_TYPE =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Làm tổ sâu hơnvà sâu hơn, khó hơn và khó khăn hơn, đi, đi, oh, OH, ohhhhh !! * Xin lỗi, cómang đi đó. * / Struct lo_FormElementOptionData_struct. "
+		-- Mozilla source code
+
+%
+Trong khi năm 2000 (Y2K) Vấn đề không phải là một vấn đề đối với chúng ta, tất cả Linuxtriển khai thực hiện sẽ ảnh hưởng bởi 2038 (y2.038k) vấn đề năm. CácDự án Debian cam kết hợp tác với ngành công nghiệp về vấn đề nàyvà chúng tôi sẽ có kế hoạch và chiến lược đầy đủ của chúng tôi gửi đến quý đầu tiêncủa năm 2020.
+		-- Mozilla source code
+
+%
+... Trường hợp là Stac điện tử khi Microsoft phát minh Doublespace? Ở đâulà Xerox và Apple khi Microsoft phát minh ra giao diện? Trường hợp là AppleQuickTime khi Microsoft phát minh ra các video cho Windows? Trường Spyglass làMosaic Inc. khi Microsoft phát minh ra Internet Explorer? Nơi mặt trời làkhi Microsoft phát minh Java?
+		-- Mozilla source code
+
+%
+Tôi xin lỗi nếu những điều sau vẻ hiếu chiến và quá cá nhân,nhưng đó là phong cách chung của tôi. - Ian Jackson
+		-- Mozilla source code
+
+%
+"Vấn đề lớn nhất của tôi với RH (và đặc biệt là gói contrib RH) làhọ KHÔNG có bất cứ điều gì giống như chính sách của chúng tôi. Đó là một trong những lý do chínhdo gói của họ rất crappy và bị hỏng. Debian có tinh thần đồng độibên cạnh việc xây dựng một phân phối xuống một nghệ thuật. "
+		-- Mozilla source code
+
+%
+"Người dùng Slackware không thành vấn đề. Kinh nghiệm của tôi, người dùng Slackware làhoặc là người mới tránh khỏi thất bại, những người sẽ gặp khó khăn ngay cả với tar, hoặc họ làdại do-it-yourselfers người sẽ không cài đặt của người khác trước biên soạnnhị phân ngay cả khi họ được trả tiền để làm điều đó ".
+		-- Mozilla source code
+
+%
+<XinkeT> "Chúa ban cho tôi sự thanh thản để chấp nhận những điều tôi không thể         thay đổi, sự can đảm để thay đổi những điều tôi có thể, và sự khôn ngoan         giấu thi thể của những người mà tôi đã phải giết vì họ         pissed me off ".
+		-- Mozilla source code
+
+%
+* Đen tối đã thay đổi chủ đề trên kênh #debian để: Sau đêm nay: Sau khi  tháng lạnh cẩn thận, Debian 2.0 là cuối cùng mát mẻ, đủ để  giải phóng.
+		-- Mozilla source code
+
+%
+Tôi ngồi cười snidely vào máy tính xách tay của tôi cho đến khi họ chỉ cho tôi một máy tính đang chạyLinux. Và oh! Dường như các tầng trời mở ra và Chúa truyền lại mộtOS-client thật đẹp, thật duyên dáng và tao nhã như vậy mà một triệuMicrosoft phát triển không thể sáng tạo ra nó ngay cả khi họ đã có một trămnăm và một ngàn thùng Jolt cola.
+		-- LAN Times
+
+%
+Tôi ngồi cười snidely vào máy tính xách tay của tôi cho đến khi họ chỉ cho tôi một máy tính đang chạyLinux .... Và đã PC này nghẹt thở? Có phải nó nói lắp? Đã làm nó, dù chỉ một lần,nói rằng chương trình này đã thực hiện một hoạt động bất hợp pháp và phải được đóngxuống? Số Và đây chỉ là trên máy khách.
+		-- LAN Times
+
+%
+"Tôi nghĩ rằng hầu hết các nhà phát triển debian khá" mạnh ý chí "ngườivới một mức độ lớn của sự hiểu biết và mức độ cao của niềm đam mê cho những gìhọ cho là quan trọng trong sự phát triển của hệ thống debian ".
+		-- Bill Leach
+
+%
+"Trên thực tế, sự phân bố duy nhất của Linux mà tôi đã từng được sử dụng mà thông quarootshell thử ra khỏi hộp (nhấn rootshell lúc dist làphát hành và xem nếu bạn có thể phá vỡ các hệ điều hành với các kịch bản từ đó) đượcDebian. "
+		-- seen on the Linux security-audit mailing list
+
+%
+* Culus sợ perl - ngôn ngữ với các lỗi tùy chọn
+		-- seen on the Linux security-audit mailing list
+
+%
+<Stu> bạn nên ngại sử dụng KDE vì RMS có thể đến với bạn      nhà và tách màn hình của bạn với một cái rìu hoặc một cái gì đó :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Và tôi thực sự thích debian 2.0 mà nhiều tôi hoàn toàn tân trang cáccấu hình mặc định của hệ thống linux công ty chúng tôi bán và cài đặt lại bất kỳcủa các hệ thống Linux trong văn phòng và ở đây ở nhà .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> làm thế nào bout một chính sách sát chính sách với một chính sách cho việc thay đổi         chính sách sát cảnh sát
+		-- seen on the Linux security-audit mailing list
+
+%
+<Tối> "Hãy hình thành các tiêu chuẩn Hiệp hội Tiêu chuẩn Linux Linux        Bảng. Mục đích của hội đồng này sẽ được chuẩn hóa Linux        Tổ chức Tiêu chuẩn hoá ".
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> Đừng đến khóc với tôi về "biên dịch 30 phút" của bạn !! tôi            phải xây dựng X Uphill cả hai cách! Trong tuyết! với trần            bàn chân! Và chúng tôi đã không có trình biên dịch! Chúng tôi đã phải dịch các            mã C để dễ nhớ MÌNH!<Overfiend> Và tôi 18 tuổi trước khi chúng tôi thậm chí đã lắp ráp!
+		-- seen on the Linux security-audit mailing list
+
+%
+NEW YORK (CNN) - người dùng Internet những người chi tiêu ngay cả một vài giờ một tuần trực tuyếntại nhà trải qua mức độ cao hơn của bệnh trầm cảm và cô đơn hơn nếuhọ đã sử dụng mạng máy tính ít thường xuyên, The New York Timesbáo cáo Chủ Nhật. Kết quả ... ngạc nhiên cả nhà nghiên cứu vànhà tài trợ, trong đó bao gồm Intel, Hewlett Packard, AT & T và nghiên cứuApple Computer.
+		-- seen on the Linux security-audit mailing list
+
+%
+"Những gì là ấn tượng, tuy nhiên, là cách bố trí chung và hội nhập củahệ thống. Debian là một bản phân phối Linux thật sự tao nhã; chăm sóc tuyệt vời cóđược thực hiện trong quá trình chuẩn bị của các gói và vị trí của họ tronghệ thống. Số lượng tuyệt của gói sẵn cũng là ấn tượng .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Debian Linux là một chất rắn, sản phẩm toàn diện, và một niềm vui chính hãng đểsử dụng. Nó cũng là tuyệt vời để tham gia với các tập Debian,có thân thiện và tinh thần nhớ lại những ngày đầu của Internet vàcảm giác của sự cởi mở và hợp tác toàn cầu.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Lũ> Tôi có thể viết một hạt nhân unix giống như trong perl?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Lũ> netgod: Tôi cũng có một "Evil Inside" T-shirt (w / Intel logo) .. trên        lại khẳng định: "Khi sự sung sướng đến, bạn sẽ có gốc?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Zarkov> "NT 5.0. Tất cả các lỗi và mười lần kích thước mã!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Culus> có 150 meg trong / tmp dir! CHÚA THÂN YÊU
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: những gì bạn có trong hạt nhân của bạn ??? Các nguồn biên dịch cho       lái xe một tàu con thoi ???<Spoo> thời gian để làm cho một zip ổ đĩa mềm của bạn sau đó. nếu hạt nhân       doesn phù hợp vào đó, hạt nhân là một AI
+		-- seen on the Linux security-audit mailing list
+
+%
+Bây giờ tôi cuối cùng đã có thể giải thích cho tất cả mọi người tại sao tôi làm điều này. Tôi chỉ có $ 7 giá trịthứ tự do để làm việc trên Debian!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: Máy tính của tôi có đăng ký nhiều hơn x86, và
+		-- thats- sad
+
+%
+* Boren tung MATLAB qua căn phòng và hy vọng nó phá vỡ thành một số  aproaching peices vô hạn
+		-- thats- sad
+
+%
+"... Đó là nhanh hơn rất nhiều so với tôi nghĩ rằng nó đã có được, nhanh hơn nhiềuhơn NT. Nếu tốc độ tăng thêm được thực hiện để các máy chủ cho trận chung kếtphát hành, Oracle sẽ có thể lau ass của mình với SQL SERVER vàtrao nó lại cho M $ trong khi các quản trị viên Oracle ... di chuyển cơ sở dữ liệu của họsang Linux! "
+		-- thats- sad
+
+%
+World Domination, tất nhiên. Và mặc đồ hở hang nữ. Ai quan tâmnó hai mươi dưới đây? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Win 98 phiên bản Psychic: Chúng tôi sẽ cho bạn biết nơi bạn đang đi vào ngày mai
+		-- thats- sad
+
+%
+<Zpx> nó tuyệt vời như thế nào "không-chia" debian được so sánh với chùng và rh
+		-- thats- sad
+
+%
+<Tối> "Này, tôi đang từ dự án này được gọi là Debian ... bạn có nghe nói về nó?       Tên của bạn có vẻ là trên một loạt các công cụ của chúng tôi. "
+		-- thats- sad
+
+%
+"Trong trường hợp của một thất bại percieved của #debian lãnh đạo dự án làtrao quyền để có hành động quyết liệt và descisive để sửa thất bại,bao gồm cả việc không giới hạn để trục xuất các quan chức, viên chức apointing mớivà thường lạm dụng quyền lực "
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> chúng tôi đang gọi điện thoại 2.2 _POTATO_ ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> không Johnie Ingram đi chơi ở đây trên IRC?
+		-- proposed amendment to Debian Constitution
+
+%
+* Twilight1 sẽ phải treo beanie khủng long Mozilla mình trong hình nộm nếu  Netscape bán ra để Alot of Losers ..
+		-- proposed amendment to Debian Constitution
+
+%
+<Lux> nếu hệ điều hành MacOS là dành cho những người thất học máy tính, sau đó Windoze là cho      masochists máy tính
+		-- proposed amendment to Debian Constitution
+
+%
+<Tối> Culus: Xây dựng một bản sao năm mét cao của Empire State       Tòa nhà có cái ghim giấy là ấn tượng. Làm nó bị bịt mắt là       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Tôi chỉ có thể nhìn thấy nó bây giờ: đề cử khủng bố ;-)        - Manojhaha! tôi đề cử Manoj.
+		-- seeS
+
+%
+<JHM> Bằng cách nào đó tôi có các nhà phát triển Debian nhiều sự tôn trọng cho 14 năm cũ hơn     Microsoft Certified nông nô 14 tuổi.
+		-- seeS
+
+%
+<Culus> Ben: Bạn có solumly thề với bạn đọc email debian một lần một ngày và        không cho phép mọi người nghĩ rằng bạn là MIA?<Ben> Culus: tôi làm như vậy thề
+		-- seeS
+
+%
+"Tôi tự hỏi nếu điều này là hiến pháp đầu tiên trong lịch sử của nhân loạinơi bạn phải tính toán một căn bậc hai để xác định nếu một chuyển độngđi. :-) "
+		-- Seen on Slashdot
+
+%
+Đây là giải pháp cho vấn đề của Debian .. và vì cách thực sự chỉtạo ra nhiều thân nhân của các nhà phát triển là để có con, chúng tôi cần thêmquan hệ tình dục! Đó là một sự đầu tư dài hạn ... đó là việc riêng của mình đó làđáp ứng!
+		-- Craig Brozefsky
+
+%
+<Marcus> Dunham: Bạn biết làm thế nào các số thực được xây dựng từ hợp lý         số của các lớp tương đương của chuỗi hội tụ?<Dunham> marcus: yes.
+		-- Craig Brozefsky
+
+%
+<Culus> "Xin chào?" "Hi baybee" "Bạn có Johnie Ingram?" "Đối với bạn Sẽ        bất cứ ai "" Ermm .. Bạn có bán đĩa CD đi lén? "" Tôi yêu slinkies "
+		-- Craig Brozefsky
+
+%
+<Overfiend> xhost + localhost chỉ nên được thực hiện bởi những người sẽ            sơn tên máy và mật khẩu root trên một tiểu bang            đi ngang qua.
+		-- Craig Brozefsky
+
+%
+<JHM> AIX - Unix từ vũ trụ mà Spock có một bộ râu.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> Các nghiên cứu chứng minh rằng nghiên cứu nguyên nhân gây ung thư trong 43% các phòng thí nghiệm           chuột<CQ> knghtbrd- yeah, nhưng 78% trong số những số liệu thống kê ra 52% ...
+		-- Craig Brozefsky
+
+%
+<Stu> apt: lỗi<Apt>! Lỗi là ngu ngốc<Dpkg> apt: là ngu ngốc? Cái gì thế?<Apt> dpkg: tôi không biết<Dpkg> apt: Vẻ đẹp là trong mắt của người giữ bia ...<Apt> i đã có nó theo cách đó, dpkg.
+		-- Craig Brozefsky
+
+%
+<Muggle> Tôi đang cố gắng thuyết phục một số quản trị viên netcom tôi biết để chuyển đổi          Debian từ RH, netgod, nhưng họ là Damn cứng đầu<Muggle> tại sao người dùng RH chết tiệt cứng đầu?<Espy> đó là mũ
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Tất cả các quyền lực, mà không có mũ ngớ ngẩn.
+		-- Craig Brozefsky
+
+%
+Làm thế nào nhiều tháng chúng ta sẽ được phía sau họ [Redhat] với một glibcgiải phóng?"
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+Mục đích của việc có danh sách gửi thư hơn là có các nhóm tin làđặt một rào cản để nhập cảnh trong đó bảo vệ danh mục và người dùng của họ từxâm lược của lũ vô học nói chung.
+		-- Ian Jackson
+
+%
+Hầu hết chúng ta cảm thấy rằng thị loại là giống như một vũ khí nguy hiểm - giữ'Em dỡ xuống và bị nhốt trong một cái tủ, và chỉ mang chúng ra khibạn cần họ để làm một công việc.
+		-- Craig Sanders
+
+%
+<Ghế tập cơ bắp> cerb: chúng tôi đăng ký bạn với debian-chiến đấu như những người điều hành<Ghế tập cơ bắp> cerb: quy tắc danh sách là, 1) không có email đẹp, 2) không có lời xin lỗi
+		-- Craig Sanders
+
+%
+<Teknix> công ty viễn thông tại địa phương của chúng tôi đã thừa nhận rằng một người nào đó "lùi vào một         nút trên một switch "và mất toàn bộ mạng lưới ATM xuống<Netgod> hy vọng tại các bộ định tuyến được thiết kế tốt hơn, do đó, "mạng         off "Xem bằng Tiếng Anh là vào lưng
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: khi bạn nhận được {} MessagesLikeThisFromYourHardDrive<Overfiend> Thunder-: nó, hoặc phương tiện {TheDriverIsScrewy}<Overfiend> hoặc<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Apt> nó đã được nói rằng redhat là điều Marc Ewing đeo trên      đầu của anh ấy.
+		-- Craig Sanders
+
+%
+<MrCurious> bởi sức mạnh của greyskull<MrCurious> ai đó cho tôi biết lệnh cấm đặt<Sopwith> mrcurious: * .debian.org, * .novare.net<PhilX> * .debian.org. điều đó thật tuyệt.
+		-- Seen on LinuxNet #linux
+
+%
+"Điều này cho tôi biết? Rằng nếu Microsoft là phần mềm mới nhấtcông ty còn lại trên thế giới, 13% dân số Hoa Kỳ sẽ được cọ rửabán nhà để xe và thiện chí cũ TRS-80, máy CPM & Apple] [ 's trướchọ sẽ mua Microsoft. Đó không hẳn là một sự chứng thực chuông. "
+		-- Seen on Slashdot
+
+%
+"Bruce McKinney, tác giả của Hardcore Visual Basic, đã thông báo rằnganh chán với VB và sẽ không được viết một phiên bản thứ 3 của cuốn sách của ông. Cácbáo giá tốt nhất là ở cuối: 'Tôi không cần một ngôn ngữ thiết kế bởi một trọng tâmnhóm'."
+		-- Seen on Slashdot
+
+%
+<Cylord> nó sẽ được chấp nhận chính sách debian nếu chúng ta chèn một crontab         theo mặc định vào khoai tây gửi qua email bill.gates@microsoft.com         mỗi buổi sáng với một email mà đọc, "Đừng lo lắng, Linux là một         ham mê..."
+		-- Seen on Slashdot
+
+%
+* Overfiend cân nhắc làm một NMU của asclock, trong đó ông chỉ đơn giản là thay đổi  mô tả mở rộng để "Nếu bạn cúi xuống và đưa đầu giữa  chân của bạn, bạn có thể đọc những thời gian nghỉ assclock của bạn. "<Doogie> Overfiend: đi ngủ.
+		-- Seen on Slashdot
+
+%
+<Reed> Điều quan trọng là cần lưu ý rằng lý do chính của Đế quốc La Mã       Fail là họ không có khái niệm về số không ... do đó họ không thể       kiểm tra sự thành công hay thất bại của chương trình C của họ.
+		-- Seen on Slashdot
+
+%
+Kể từ khi có những mục đích của debian được để xoa dịu các lợi ích củakhối lượng của người tiêu dùng không có kỹ năng? - Steve ngắn hơn
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: er, là những gói 2.2.0 2.0.0pre9 hoặc làm bạn có một        đường dây trực tiếp với các vị thần?<Netgod> joeyh: i có các đường dây trực tiếp
+		-- Seen on Slashdot
+
+%
+<_Anarchy_> Argh .. ai đưa ra các túi giấy 8)
+		-- Seen on Slashdot
+
+%
+<Vụng> ai xung quanh?<Flav> không có, chúng tôi tất cả các đa giác không đều
+		-- Seen on Slashdot
+
+%
+<Culus> OH MY GOD NOT A PHÁT QUOTE RANDOM<Netgod> chắc chắn bạn không nghĩ đó là tĩnh? cách què đó sẽ là gì? :-)
+		-- Seen on Slashdot
+
+%
+không tồn tại chỉ là một cái cớ yếu ớt tuyên bố một điều unseeable. Bạn* * Có thể nhìn thấy con rồng. Bạn chỉ cần phải tìm đúng hướng.
+		-- John Hasler
+
+%
+<Chalky> gcc là máy nén tốt nhất bao giờ chuyển sang Linux. nó có thể biến         12MB nguồn hạt nhân (và đó là .debbed) vào một hạt nhân 500k
+		-- John Hasler
+
+%
+<Manoj> I * như * gà
+		-- John Hasler
+
+%
+ [] DOGBERT [2] Richard Stallman [3] Buffy Summers [1] Manoj Srivastava [4] NONE của các bên trên
+		-- Debian Project Leader 1999 ballot
+
+%
+<Oryn> ai biết nếu có một phiên bản của dpkg cho redhat?
+		-- Debian Project Leader 1999 ballot
+
+%
+acme-cannon (3,1415) không ổn định; cấp bách = thấp  * Thêm an toàn để ngăn chặn hành chia cắt, đóng: lỗi # 98.765,    lỗi # 98.713, 98.714 #.  * Thêm manpage. đóng: # 98.725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! thời gian bay khi bạn đang sử dụng Linux! Doogie: *! yeah, vòng lặp vô hạn trong 5 giây.! Teknix: *! có ai đang kiểm chứng với 2.2.x?! Netgod: *! yeah, 4 giây hiện tại
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Tối chào LIW với một con ếch nhỏ màu vàng.* LIW hôn con ếch và đồng hồ nó biến đổi đến một nerd đẹp  cô gái, đưa cô ra ngoài để kem, và sống hạnh phúc mãi mãi sau  với cô ấy<Tối> LIW: Umm nó quá muộn để có ếch trở lại?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Culus nghĩ chúng ta nên đi đến hội chợ thương mại và xem có bao nhiêu người chúng ta  có thể giết chết bằng cách ném CD Debian vào họ
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Tối> "Vâng, danh dự của bạn, tôi có RSA đang mã hóa tattood trên của tôi        dương vật. Tôi có nên hiển thị các giám khảo? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Knghtbrd> bạn mọi người đều điên.<Joey> knight: chắc chắn, đó là lý do tại sao chúng tôi làm việc trên Debian.<JHM> Knghtbrd: liên lạc với nutcase bên trong của bạn.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Culus> Saens chứng minh không có lỗi ít hơn 3 tcp / ip trong 2.2.3
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Thủy> alexsh: Be / VERY / cairful, bạn có thể, nếu không may mắn của bạn, xào của bạn          bo mạch chủ ..<Knghtbrd> Mercury - giống như âm thanh vui nhộn
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<RCW> tối: miệng núi lửa?<Knghtbrd> RCW - đó không phải là một bản phân phối, đó là một lời nguyền<RCW> Knghtbrd: đó là một phân phối bị nguyền rủa
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Phần mềm cũng giống như quan hệ tình dục, nó tốt hơn khi nó hoàn toàn miễn phí. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Tối> Knghtbrd: Chúng tôi có rất nhiều whatevers.<Knghtbrd> tối - Trong Debian? Hell yeah, chúng tôi làm!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Tôi làm vậy chỉ để piss off. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+Các phần mềm cần thiết Win95 hoặc tốt hơn, vì vậy tôi cài đặt Linux.
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) không có 10, nhưng nó có vẻ như một số rất đẹp :)
+		-- Wichert Akkerman
+
+%
+Eric Raymond: Tôi muốn sống trong một thế giới nơi mà phần mềm không hút.Richard Stallman: Bất kỳ phần mềm đó không phải là miễn phí sucks.Linus Torvalds: Tôi quan tâm đến bia miễn phí.Richard Stallman: Không sao, miễn là tôi không phải uống nó. tôi                   không thích bia.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Tôi không phải là một người điềm đạm ... - Bruce Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Cá nhân, tôi không thường nói về xã hội tốt bởi vì khi tôi nghe khácngười ta nói về lợi ích xã hội, đó là khi tôi tiếp cận với khẩu súng của tôi.
+		-- Eric Raymond
+
+%
+Nếu chúng ta muốn một cái gì đó tốt đẹp để sinh ra trong chín tháng, sau đó quan hệ tình dục phảixảy ra. Chúng tôi muốn có các loại quan hệ tình dục có thể chấp nhận và vui vẻ cho cả haingười, không phải là loại mà ai đó đang nhận được hơi say. Hãy có được một số thậpthụ tinh, nhưng không một người nào đó nhận được hơi say.
+		-- Larry Wall
+
+%
+Chúng ta đều biết Linux là rất tốt ... nó vòng lặp vô hạn trong 5 giây.
+		-- Linus Torvalds
+
+%
+CÓ ĐẤY! CÓ ĐẤY! CÓ ĐẤY! Oh, YES! (Ooops, tôi nghe như Meg Ryan ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> Nếu tôi bắt đầu viết tiểu luận về phần mềm miễn phí cho Slashdot,           xin bắn tôi.
+		-- Ian Nandhra
+
+%
+<RoboHak> hmm, trưa có vẻ là một ý tưởng tốt<Knghtbrd> sẽ có vị như là một ý tưởng tốt quá
+		-- Ian Nandhra
+
+%
+tái bút: - Tôi về * này * gần chạy xung quanh trong phòng máy chủ với mộtcặp của máy cắt bu lông, và một cái vồ bằng gỗ lớn, cười như một kẻ điên vàcắt tất cả mọi thứ tôi có thể phù hợp với những máy cắt tia xung quanh. và chia nhau màmà tôi không thể. vì vậy nếu tôi có vẻ bán không mạch lạc, hoặc chỉ thực sự * thực sự * khó chịuvào những thời điểm, xin vui lòng tha thứ cho tôi. căng thẳng không phải là một điều khá. }; P
+		-- Phillip R. Jaenke
+
+%
+Mỗi công ty phàn nàn về thực tiễn kinh doanh của Microsoft chỉ đơn giản là một làcây hoa hồng. Họ trông đáng yêu và mùi tốt đẹp. Khi một công ty may mắn dethronesMicrosoft sẽ rụng cánh hoa của họ để lộ những cái gai bên dưới. Mộtgai bằng bất kỳ tên nào khác sẽ làm tổn thương càng nhiều.
+		-- Phillip R. Jaenke
+
+%
+Một cái gì đó phải được DoneĐây là cái gì đóVì vậy, Điều này phải được Done
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - hãy cẩn thận của james khi anh ấy ra thuốc của mình =>
+		-- The Thatcherite Syllogism
+
+%
+Thờ ơ chắc chắn sẽ là sự sụp đổ của nhân loại, nhưng những người quan tâm?
+		-- The Thatcherite Syllogism
+
+%
+Đừng bao giờ đánh giá thấp sức mạnh của sự ngu dốt của con người.
+		-- Robert A. Heinlein
+
+%
+Vàng, N .:  Một kim loại dễ uốn mềm tương đối khan hiếm trong phân phối. Nó được khai thác  sâu trong trái đất bằng người nghèo, những người sau đó đưa nó cho người đàn ông giàu có ngay lập tức  chôn nó trở lại trái đất trong nhà tù lớn, mặc dù vàng đã không được thực hiện  bất cứ điều gì với họ.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* Lilo hướng tuyên OPN một nỗi đau ảo trong ass :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"Họ đều là các doanh nghiệp - nếu bạn đã cho họ đủ tiền, tôichắc chắn họ sẽ làm bất cứ điều gì địa ngục bạn hỏi: -> "
+		-- David Welton
+
+%
+"Bạn có quyền không phải là một lỗ đít. Nếu bạn bỏ quyền đótất cả mọi thứ bạn nói và làm trong đây sẽ được tổ chức chống lại bạn. Nếu bạn không thểđủ khả năng để ngăn chặn được một lỗ đít sau đó một người nào đó sẽ được bổ nhiệm vào đábạn hãy ra khỏi đây. "
+		-- Your rights as an irc addict
+
+%
+* Simunye là rất hạnh phúc, cô có mẹ cô gen của<Dellaran> bạn tốt hơn cho họ trở lại trước khi cô nhớ họ!
+		-- Your rights as an irc addict
+
+%
+<Iambe> conning người intellegent nhất trên hành tinh này là không dễ dàng
+		-- Your rights as an irc addict
+
+%
+California, N .:    Từ tiếng Latin "CALOR", có nghĩa là "sức nóng" (như trong tiếng Anh "calo" hoặcTây Ban Nha "caliente"); và "fornia '" cho "quan hệ tình dục" hoặc"Gian dâm". Do đó: Tierra de California, "vùng đất của quan hệ tình dục nóng."
+		-- Ed Moran
+
+%
+* Caytln tát Lisa<Caytln> catfight: P<LisaHere> Xem nó cô gái, tôi thích điều đó.<LisaHere> :)<Caytln> con số: D
+		-- Ed Moran
+
+%
+<MFGolfBal> RIT / ara: Có điều gì đó thực sự điên về UNIX            Nội y...
+		-- Ed Moran
+
+%
+Hệ thống Window X:  Các tiêu chuẩn UNIX môi trường đồ họa. Với Linux, điều này thường là  XFree86 (http://www.xfree86.org). Bạn có thể gọi nó là X, XFree, X  Hệ thống cửa sổ, XF86, hoặc một loạt các thứ khác. Gọi nó là "XWindows 'và  một người nào đó sẽ dám bạn và bạn sẽ có xứng đáng với nó.
+		-- Ed Moran
+
+%
+<Knghtbrd> "Các nhà sưu tập tiền tệ là ẩn." "Tôi đang thay đổi tuyến mặc dù           các khớp nối thứ cấp. Nếu chúng ta căn chỉnh lại chúng ta giai đoạn đa dạng           nên có thể sử dụng các ma trận cuộn cảm plasma tự           khởi động một loạt spinoff cheesy mới. "* Thở dài ShadwDrgn<Pha> bạn bỏ đa tạp của tôi một mình<Pha>!
+		-- Ed Moran
+
+%
+* Turken nghĩ đứa trẻ là hoàn toàn đáng yêu ... especialyy khi  họ là ai đó elses.
+		-- Ed Moran
+
+%
+* Thở dài Overfiend<Overfiend> Netscape sucks.<Overfiend> Đó là một ngôi nhà của thẻ nghỉ ngơi trên giường của cát lún.<Espy> trong một trận động đất<Overfiend> trong một cơn lốc xoáy
+		-- Ed Moran
+
+%
+<SilverStr> phương tiện truyền thông đạo đức là một nghịch lý, giống như tôm Jumbo và            Microsoft Works.<MonkAway> chưa kể đến NT An
+		-- Ed Moran
+
+%
+<Silvrbear> nghịch lý trơ? Tôi thấy một ngày hôm qua - cuốn sách nhỏ về "Taco Bell            Thông tin dinh dưỡng"
+		-- Ed Moran
+
+%
+* Knghtbrd giải phóng một cặp súng snurf nòng đôi và bìa  jesus với phi tiêu snurf<Jesus> Meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> Doogie: bạn âm thanh :-) rất không ổn định<Knghtbrd> jgoerzen - anh ta.* Doogie bop Knghtbrd<Knghtbrd> xem? Dùng bạo lực = D
+		-- Ed Moran
+
+%
+Tôi cũng đã được một fan hâm mộ Unix rất lớn kể từ khi tôi nhận ra rằng SCO đã khôngUnix. - Dennis Baker
+		-- Ed Moran
+
+%
+<Dracus> Ctrl + Option + Command + P + R<Knghtbrd> dracus - YE GODS! Đó là tồi tệ hơn Emacs!<LauraDax> hehehehe<Dracus> không hỏi gì mà không: P
+		-- Ed Moran
+
+%
+<Iambe> bạn không phải là một nutcase<Knghtbrd> Bạn rõ ràng không biết tôi cũng chưa đủ. =>
+		-- Ed Moran
+
+%
+* Aj nghĩ Kb ^ Zzz ought để chọn những thứ khác nhau để ước mơ về hơn   nghị quyết và thay đổi chính sách chung.<Kb ^ Zzz> aj - cho tôi biết về nó, đây là một Bad Đăng
+		-- Ed Moran
+
+%
+<Crow_> hmm, là có một tùy chọn --now-chết tiệt cho exim?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: JOIN THE DARK SIDE, ONE YOUNG.<Kira> Darth, I * là * mặt tối.
+		-- Ed Moran
+
+%
+<Netgod> Feanor: u không có ý tưởng về chiều sâu của stupidty của pháp luật người Mỹ
+		-- Ed Moran
+
+%
+Bất cứ ai đứng ra giữa đường trông giống như tai nạn giao thông với tôi.
+		-- Linus Torvalds
+
+%
+<Lilo> "hãy tôn trọng QUYỀN SỞ HỮU TRÍ!"<Lilo> "Hãy chứng minh trí tuệ." ;)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Feanor - vấn đề bản quyền rất quan trọng. Nếu chúng ta không xem chúng tôi           lừa bây giờ, sẽ có người của đi lên và cắn chúng tôi sau này ...
+		-- Linus Torvalds
+
+%
+"Bây giờ chúng ta sẽ phải giết chết bạn."
+		-- Linus Torvalds
+
+%
+* Knghtbrd có thể đã hình dung: "Subject: [Ý ĐỊNH CHUẨN BỊ Kiến nghị   NỘP BÁO CÁO BUG] Typos trong các tài liệu chính sách "
+		-- Linus Torvalds
+
+%
+<Netgod> heh thats một nguyên nhân bị mất, giống như cách phát âm chính xác         "đồ trang sức"<Netgod> bỏ nó :-)<Hiền> và đúng chính tả của "màu sắc" :)<Ghế tập cơ bắp> heh<Hiền> và nhôm<Ghế tập cơ bắp> hoặc vũ khí hạt nhân<Hiền> Bạn threating tôi yankee?<Hiền> chỉ vì chúng ta không có những quả bom ...<Ghế tập cơ bắp> quay trở lại ya bụng vàng
+		-- Linus Torvalds
+
+%
+<LauraDax>! Thần thấy<Tabi-> LauraDax, tôi không nhớ nhìn thấy "thần"
+		-- Linus Torvalds
+
+%
+<Kira> là một cuộc chiến tranh phẫu thuật, nơi bạn đi cung cấp cho quân đội nước ngoài làm mũi?
+		-- Linus Torvalds
+
+%
+<Xtifr> Athena Môi trường Desktop! Trong trái tim của bạn, bạn biết * * đó là        Lựa chọn đúng! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+<Knghtbrd> shaleh - ô uế chỉ là lạ.<Espy> heh, ô uế là mát mẻ<Knghtbrd> Espy - và kỳ lạ.<Espy> có, lạ quá
+		-- Linus Torvalds
+
+%
+<Xtifr> cấy ghép não trực tiếp :)<Knghtbrd> xtifr - yah, sau đó sử dụng máy tính thực sự sẽ yêu cầu một số           của những kẻ ngốc để suy nghĩ!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - BTW, sau khi chúng tôi đã phát hiện ra X có tất cả 1,4 hợp đồng biểu diễn           để xây dựng, bạn có sẵn sàng thừa nhận rằng X là bloatware? =><Overfiend> KB: có một khoảng cách 16 phút 1/2 trong câu trả lời của tôi<ACF> knghtbrd: bằng chứng tồn tại mà X là chỉ * 2 * cửa sổ tồi tệ nhất      hệ thống;)
+		-- Linus Torvalds
+
+%
+<LIW> damn, sự di chuyển chuột tự trị bắt đầu thường là sau khi tôi sử dụng một      nút chuột<Wichert> không sử dụng một nút chuột sau đó :)<LIW> yeah, đúng :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> bạn đã biết, Linux cần một nền tảng trò diễn viên Tux<Knghtbrd> kinda Siêu Marioish, nhưng với Tux và những thứ như ít cyber           lỗi và borgs và loại điều ...<Knghtbrd> Và bạn phải nhảy billgatus qua và nhấn phím để thả anh ta           vào dung nham và sau đó bạn sẽ thấy một số anh chàng đó trông giống như một RMS           hoặc ai đó nói "Cảm ơn bạn vì đã cứu tôi Tux, nhưng Linus           Torvalds là trong lâu đài khác! "
+		-- Linus Torvalds
+
+%
+<Thoth_> Yeah, đó cũng là lý do tại sao nó được đánh số 2.3.1 ... nó cho những người trong chúng         người bỏ lỡ uptimes NT-như
+		-- Linus Torvalds
+
+%
+<Shinobi> Có những điều tồi tệ hơn Perl .... ASP nói đến cái tâm
+		-- Linus Torvalds
+
+%
+* M2 nhìn chằm chằm vào màn hình ... nó trông giống như một chiếc bánh hamburger ...<Knghtbrd> m2 - đó là một dấu hiệu xấu
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Để lại nó để Manoj gọi procmail "nhỏ bé"
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: tốt, tôi không thể hiểu những thứ như "s / 3 # $% ^% {]] [@} f245"<Manoj> Crow: Đó không phải là khá pháp ;-)<Knghtbrd> Manoj - làm thế nào người ta sẽ làm cho "s / 3 # $% ^% {]] [@} f245" pháp lý           dù sao? (Và những gì nó sẽ làm gì? Hehe)<Manoj> Knghtbrd: Bạn cần phải hoàn thành các s /// biểu.<Knghtbrd> oh, đó là tất cả?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, ngôn ngữ duy nhất được viết để milspec.<Mikster> <rùng mình>
+		-- Linus Torvalds
+
+%
+<Ghế tập cơ bắp> -gồm ../../debian/el33t.h<Ghế tập cơ bắp> sendmail xây dựng ... tên tiêu đề lạ :)<Isildur> hahaha* Laffs netgod<Netgod> ghế tập cơ bắp: u có thể cho tôi được sử dụng để duy trì sendmail? : P<Ghế tập cơ bắp> heh :)
+		-- Linus Torvalds
+
+%
+<Pha> không ... tôi ý kiến ​​với nhau có nhiều cà phê !!! ;)<Simunye> chắc yu làm giai đoạn :)<Pha> bạn thực sự muốn tôi nảy ra trần?<Simunye> yesh :)<Kira_> bouncing off trần là gewd<Pha> ok, đó là một câu hỏi ngớ ngẩn<Kira_> nó splatting trên sàn đó là vấn đề.
+		-- Linus Torvalds
+
+%
+<Kensey> RMS cho Tổng thống ???<RelDrgn> ... hoặc ESR, ông muốn có một công việc mới;)
+		-- Linus Torvalds
+
+%
+Ồ không, không một lần nữa.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> Cấp, RMS là một tín đồ, tôi không phủ nhận điều này. Tôi thậm chí sẽ nói           ông là một nỗi đau của hoàng gia trong ass hầu hết thời gian. Nhưng anh ấy           vẫn thường xuyên hơn đúng hơn không, và ông xứng đáng một số mức độ           tín dụng và tôn trọng công việc của mình. Chúng tôi sẽ không được ở đây hôm nay           không có anh ấy.
+		-- Manoj Srivastava
+
+%
+<Espy> ngày mai sẽ có một sự xáo trộn lớn trong lực lượng lao động
+		-- May 18, 1999
+
+%
+Tôi mắc chứng khó đọc của Borg. Chuẩn bị để có nhiều lớp ass của bạn.
+		-- May 18, 1999
+
+%
+<NeonKttn> Tôi có một người bạn gắn bó với tôi trong tủ quần áo của cô trong trung học bởi vì tôi           cũng không tin rằng bạn trai của mình biết về màn dạo đầu ...<NeonKttn> Tôi shoulda bỏng ngô mang. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> cưng là cho wussies<Topher> danh sách chương trình máy tính .... tiếp theo, trên HardCopy
+		-- May 18, 1999
+
+%
+<Kceee ^> Tôi ghét người dùng<Knghtbrd> bạn âm thanh như một sysadmin đã!
+		-- May 18, 1999
+
+%
+<Change_m2> Will LINUX bao giờ vượt qua bánh mì cắt lát như là thành tích # 1            của nhân loại?
+		-- May 18, 1999
+
+%
+<APH> Manoj sẽ loại hạt trên các cuộc thập tự chinh sửa lỗi! woo woo!<Knghtbrd> Manoj đi hạt thời gian dài trước đây. nhưng sửa lỗi là mát =>
+		-- May 18, 1999
+
+%
+<RCW> những rõ ràng vi khuẩn giống như giun nhiều màu ra khỏi      backorifice của microsoft<RCW> đó là biểu tượng của bộ phận Backoffice
+		-- May 18, 1999
+
+%
+* Simunye là trên oc3-> OC12<Daem0n> simmy: cắn tôi. :)<Simunye> daemon: okay :)
+		-- May 18, 1999
+
+%
+<Overfiend> lilo: cũng sau đó, có lẽ bạn là một nhà tư tưởng có trách nhiệm.            Chào mừng đến với câu lạc bộ rất nhỏ.<Lilo> Overfiend: chào đón tôi khi bạn tham gia :)
+		-- May 18, 1999
+
+%
+Về cơ bản, tôi muốn mọi người biết rằng khi họ sử dụng hệ nhị phân chỉ mô-đun,đó là vấn đề HỌ. Tôi muốn mọi người biết rằng trong xương của họ, và tôimuốn nó hét lên từ mái nhà. Tôi muốn mọi người thức dậy trong mộtmồ hôi lạnh mỗi một lần trong một thời gian nếu họ sử dụng hệ nhị phân chỉ mô-đun.
+		-- Linus Torvalds
+
+%
+* Wichert_ tưởng tượng tổng thể mà không có một MTA<James> wichert: ehm? mà có thể cản trở peformance của BTS: p
+		-- Linus Torvalds
+
+%
+<Tắc kè> Hmm ... Tôi tự hỏi những gì khác seperates Debian từ phần còn lại của        Bản phân phối Linux.<Knghtbrd> tắc kè - Chúng tôi không bú<Tắc kè> Knghtbrd: bạn không nói rằng khi giải quyết một bó của những người        TỪ những distro<Knghtbrd> tắc kè - điểm.
+		-- Linus Torvalds
+
+%
+Do mô hình phát triển mã nguồn đóng của XFree nó là không thểđể hỗ trợ, hoặc thậm chí suy đoán về, các tính năng trong phiên bản trước hoặc betacủa XFree.
+		-- Marcus Sundberg
+
+%
+>> Tôi không thực sự coi kinh thánh-KJV-văn bản như là một tài liệu kỹ thuật,>> Nhưng ... :)> Đó là một hướng dẫn - cho sống.Nhưng nó đã không được cập nhật trong một thời gian dài, nhiều người sẽ nói rằng đó làbuồn bã ra trong ngày, và nhà duy trì thượng nguồn không đáp ứng với mìnhe-mail. :-)        - Branden Robinson, Oliver Elphick, và Chris Waters trong một           nhắn với debian-chính sách
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> Tôi có thể thấy có nhiều người cần USER = ID10T nơi nào đó!
+		-- Marcus Sundberg
+
+%
+<Slashdot> geograpy Mỹ của tôi là tệ hại ... lol<Knghtbrd> nên là của tôi và tôi sống ở đây
+		-- Marcus Sundberg
+
+%
+Moonchild mà không có một ý kiến? Satan là trượt băng làm vào ngày mai!
+		-- Brett Manz
+
+%
+<Knghtbrd> Tôi thực sự không muốn gì cả ... Chỉ cần một lời tử tế, một           phụ nữ hấp dẫn, và BĂNG THÔNG KHÔNG GIỚI HẠN !!
+		-- Brett Manz
+
+%
+<Knghtbrd> Nếu chúng tôi cả hai bên phải (tôi đoán chúng tôi) Tôi Không Very Happy.* Minupla tay bạn bớt trong năm giải thưởng.
+		-- Brett Manz
+
+%
+Thời gian qua tôi đã tiếp xúc thân mật với một người khác chứ không phải là mộtkinh nghiệm đau đớn ... Tôi khá thích nó ...;)
+		-- Brett Manz
+
+%
+<Apple_IIe> ai nhìn thấy thẻ 80 cột của tôi?
+		-- Brett Manz
+
+%
+<Slackware> uh oh, những gì có tôi bắt đầu :)<Debian> rofl ... distro nick cuộc chiến tranh.* Slackware chỉ chờ đợi cho / nick Gnome, / nick KDE, và sau đó chiến tranh thế giới 4   để thoát ra khỏi<WinNT>: OP<OpenBSD> <vịt><PalmOS> :)<Slackware> no'one dám / nick RedHat<Tru64> mew.
+		-- Brett Manz
+
+%
+<Crow-> im fcucking druk* Knghtbrd làm cho chắc chắn để đăng nhập tất cả mọi thứ Crow- nói tối nay ...<MrBump> heheh<MrBump> Ông nói rằng ông muốn cưới tôi! Chết tiệt!!<Crow-> dude không có cách nào<Knghtbrd> MrBump - anh ấy không RẰNG say rượu<MrBump> Knghtbrd: Tôi đang bị nghiền nát: o)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> MAKE DỪNG IT!<Knghtbrd> MAKE DỪNG IT !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - okay, các bản vá không bị hỏng, nhưng bộ não của tôi           rõ ràng là<Wc> đó là không có gì mới (;<Knghtbrd> wc - im lặng.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+<DPG> người Mỹ là lạ ....<Xtifr> California thậm chí lạ<Knghtbrd> xtifr có một điểm ...
+		-- Brett Manz
+
+%
+* Woot mỉm cười bình thản.<Woot> Tôi không muốn có vẻ háo hức hơn về việc thành của knghtbrd       siglist.
+		-- Brett Manz
+
+%
+<Culus> dhd: R bạn là một phần của overstructure debian bí mật?<Dhd> không có. không có debian overstructure bí mật.<Bức xạ vũ trụ> mặc dù, bây giờ mà ai đó đưa nó lên, hãy bắt đầu một            :-)<Knghtbrd> bức xạ vũ trụ - tại sao không, nghe có vẻ như là một cách thú vị để dành           buổi chiều = D
+		-- Brett Manz
+
+%
+<Xtifr> bạn không phải là điên để làm việc ở đây .... oh chờ đợi, có bạn làm!        :)
+		-- Brett Manz
+
+%
+* O-o luôn như debmake vì anh biết chính xác những gì nó sẽ làm gì ...<Ibid> o-o: bạn sẽ ;-)
+		-- Brett Manz
+
+%
+2.3.1 đã được phát hành. Folks mới cho trò chơi này nên nhớ rằng2.3. * Phiên bản là hạt nhân phát triển, không có sự đảm bảo rằng họsẽ không làm cho hệ thống của bạn để làm những điều khủng khiếp như tham nhũng của mìnhđĩa, bắt lửa, hoặc bắt đầu chạy chuẩn Mindcraft.
+		-- Slashdot
+
+%
+làm {    :} While (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * echo "... Linux chỉ là một mốt nhất thời" | email billg@microsoft.com -s = "Và nhớ ..."
+		-- Slashdot
+
+%
+<Hop> kb: Tôi yêu cầu tính toàn vẹn và trung thực trong những người tôi làm kinh doanh với<Hop> tôi biết nhu cầu của tôi là không hợp lý, nhưng một anh chàng có thể mơ ước, có thể không?
+		-- Slashdot
+
+%
+<Jgoerzen> stu: ahh máy đó. Anh không nghĩ rằng một cái gì đó được đặt tên           Stallman xứng đáng là một Alpha? :-)<Stu> jgoerzen: không có, thực sự, tôi muốn prolly nghiêng nhiều hơn để đặt tên cho một 386      với 4 meg ram và 40 meg ổ cứng Stallman.<Stu> với một trường hợp lớn chất béo mà làm cho tấn của tiếng ồn và lắc sàn* Knghtbrd rơi xuống sàn nhà giữ bên mình cười<Stu> và ..<Stu> ổ cứng cao gấp đôi
+		-- Slashdot
+
+%
+Klingon cuộc gọi chức năng không có 'thông số' - họ có 'đối số'
+		-- and they ALWAYS WIN THEM.
+
+%
+* Knghtktty sẽ không hỏi làm thế nào zucchini đã vào các cuộc thảo luận ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Subject: [GR ĐỀ XUẤT] Chúng ta có nên bỏ phiếu về vấn đề tầm thường?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Woot> Đặt * mà * trong bạn .sig và khói nó, Knghtbrd.<Culus> Bạn biết anh ấy sẽ đọc này:><Woot> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Như các bạn cuộc hành trình qua cuộc sống mất một phút, tất cả bây giờ và sau đó để cho mộtnghĩ cho các đồng nghiệp khác. Ông có thể được âm mưu gì đó. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Được rồi, bạn có người đã bắt đầu nói về các ứng dụng của BSDM           phần cứng mạng ... Tôi nghĩ rằng tôi sẽ chạy ra và làm một cái gì đó hữu ích           và Debianish và ở lại OUT của một này ...<Knghtbrd> (cho một sự thay đổi)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - không nghĩ Debian đã không có một số rất ngu ngốc và           lỗi rõ ràng trước<Knghtbrd> tất nhiên, chúng ta thường sửa chữa của chúng ta trước khi chúng tôi phát hành = D
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - Tôi là một nhà phát triển Debian. Red Hat là "kẻ thù" hay           một cái gì đó như thế tôi đoán .. Tuy nhiên, người dùng typecasting RH như           idiots hoặc phân phối của mình hoàn toàn bị phá vỡ bởi mặc định           là đầy đủ và tổng FUD.
+		-- Hagar the Horrible
+
+%
+>> Nhưng IANAL, tất nhiên.>> IANAL hoặc. Con trai tôi, nhưng nếu tôi hỏi ông tôi có thể nhận được một câu trả lời tôi> Sẽ không muốn nghe."Đây là hóa đơn của tôi." ? = D
+		-- Hagar the Horrible
+
+%
+> Ok, tôi thấy bạn biết những gì bạn đang làm :-)Hoặc đó hoặc tôi đã nhận được khá tốt tại giả vờ.
+		-- Hagar the Horrible
+
+%
+<Wichert> 8:00 là một giờ ungoldly tỉnh thức :)* Gorgo thường dậy lúc 11:00
+		-- Hagar the Horrible
+
+%
+Không có những Cabal.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> ACF: có lẽ ngày 01 tháng 4 tới slashdot năm cần chạy "Rob Malda            chấp nhận công việc mới là người đứng đầu dự án Debian "8)
+		-- Hagar the Horrible
+
+%
+* Netgod mở hộp thư của mình và ngay lập tức muốn ông hadnt
+		-- Hagar the Horrible
+
+%
+<Frogbert> nó cứng là một lesbian withoutn ngực ... mọi người không mất           bạn nghiêm túc
+		-- Hagar the Horrible
+
+%
+Có lẽ Debian là có liên quan nhiều hơn về kỹ thuật xuất sắc hơndễ sử dụng bằng cách phá vỡ các phần mềm. Trong cựu chúng tôi có thể vượt trội. trongsau chúng ta phải thừa nhận lĩnh vực này để Microsoft. Đoán nơi tôi muốn đihôm nay?
+		-- Manoj Srivastava
+
+%
+* PerlGeek thực sự là một người ngoài hành tinh không gian* Knghtktty tin PerlGeek
+		-- Manoj Srivastava
+
+%
+<Netgod> khách hàng của tôi đã được sở hữu nghiêm trọng<Netgod> anh chàng này đã root, chạy sniffer gói, .rhosts cài đặt vàbackdoors, đặt một thư mục hoàn toàn mới trong gọi là / lib / "", trong đó có mộtbộ đầy đủ các smurfing và giết chết các công cụ<Netgod> sai lầm duy nhất là không xóa các tập tin ghi lưu<Netgod> câu hỏi là làm thế nào là gốc rễ bị hack, và rằng tôi couldnt tell u<Netgod> đó là, tất nhiên, không phải là một hộp debian* Netgod lưu ý hộp debian là người duy nhất còn nguyên vẹn của các hacker
+		-- wonder why
+
+%
+* Cvs joeyh cam thư mục nhà của mình. aaaaaa<Drow> eeeeeeek<Drow> joeyh: Đó đơn giản chỉ là ác. Giai đoạn.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: UFies ở trên và vượt ra ngoài cuộc đua của con người :)
+		-- wonder why
+
+%
+Tôi dừng lại một thời gian dài trước đây để cố gắng tìm bất cứ điều gì trong danh sách lỗi của dpkg.Chúng tôi nên chạy cho một mục trong sách kỷ lục Guinness.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> i tìm 17g Oughta là đủ.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> đã / usr / bin / emacs được đưa vào / etc / vỏ chưa? : P
+		-- Stephane Bortzmeyer
+
+%
+* Joeyh lợi dụng khả năng tuyệt diệu của netscape sụp đổ để đóng        10 cửa sổ với một phím nhấn<Joeyh> bây giờ đó là sự tiến bộ!<Knghtbrd> lỗi Bus =>
+		-- Stephane Bortzmeyer
+
+%
+<Wordplay> Bạn đo rung của bạn trong "ký tự cho mỗi thứ hai"? Tôi cóTin xấu cho bạn, C90, bạn đã thủ dâm với một	   máy in điểm ma trận.
+		-- Stephane Bortzmeyer
+
+%
+Chào! Tôi là một vi rút .signature! Sao chép tôi vào bạn ~ / .signature để giúp tôi sprea =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty thì thầm những điều ngọt ngào để Thyla (công cụ về trình biên dịch và            đồ họa và nâng cấp ram và ổ cứng lớn ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: đó là tích cực khiêu dâm ...* Thyla đi tắt vào phù hợp của thuốc lắc ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> các bạn là tất cả các bệnh! ốm đau ốm tôi nói cho đúng;)
+		-- Stephane Bortzmeyer
+
+%
+* BMA là một yank* Knghtbrd là một Knghtbrd* Dhd cũng là một yank* Espy là ác* Knghtbrd tin Espy
+		-- Stephane Bortzmeyer
+
+%
+* Kỳ BMA nếu điều này sẽ làm cho các .sig Knghtbrd
+		-- Stephane Bortzmeyer
+
+%
+giải pháp Techical không phải là một vấn đề biểu quyết. Hai pháp luật ở Mỹbang gần như quyết định rằng giá trị của Pi là 3.14, chính xác. phiếu phổ thôngkhông làm cho một giải pháp đúng.
+		-- Manoj Srivastava
+
+%
+<Aj> <Knghtbrd> sự gia tăng căng thẳng trên toàn thế giới (bằng chứng là tội phạm<Aj> và không có điều gì) khoảng thời gian đó trông rất giống Linux<Aj> tăng trưởng từ năm 1993<Aj> `` Linux liên quan đến dịch bệnh trên toàn thế giới tội phạm !! ''
+		-- Manoj Srivastava
+
+%
+<Teller> nơi tôi và những gì tôi làm trong handbasket này?
+		-- Manoj Srivastava
+
+%
+Từ cơ sở dữ liệu này không được sử dụng vì lợi nhuận, và kể từ khi toàn bộ công trình khôngxuất bản, nó thuộc sử dụng hợp lý, như chúng ta hiểu nó. Tuy nhiên, nếu cónửa assed ngốc quyết định để tạo ra lợi nhuận ra điều này, họ sẽ cần phảikiểm tra lại tất cả ...
+		-- Notes included with the default fortunes database
+
+%
+Không có nút snooze trên một con mèo ai muốn ăn sáng.
+		-- Notes included with the default fortunes database
+
+%
+Chủ đề: Bug # 42.432: debian-chính sách: Đề xuất cho CTV cho Dự thảo Bằng chứng vềKhái niệm cho Dự thảo Đề xuất Đề xuất cho CTV cho một CTV quyết địnhmột đề nghị cho một CTV cho các CTV về việc có hay không chúng tôi shoud có một CTV trên/ usr / doc vào / usr / share / doc chuyển bây giờ, hoặc sau đó.
+		-- Ed Lang
+
+%
+<Knghtbrd> Đó là một trackball cho một<Wichert> do đó, nó không phải là một động vật gặm nhấm<Wichert> đó là một cục cứt với một quả bóng gắn bó ra<Wichert> mà bạn vuốt ve liên tục
+		-- Ed Lang
+
+%
+* HomeySan đợi cho pizza các papa john để hiện lên<Ravenos> mm. papa john của.<HomeySan> hy vọng họ gửi người lái xe giao hàng dễ thương<Ravenos> họ không có ở đây.<Dr_Stein> tại sao? bạn sẽ ăn các lái xe để thay thế?
+		-- Ed Lang
+
+%
+<Netgod> là nó cho tôi, hoặc là Knghtbrd ngáy?<Joeyh> họ giết knghtbrd!<Netgod> Kysh: wichert, tắc kè, joeyh, và tôi đang ở trong một căn phòng cố gắng bỏ qua          Knghtbrd<Kysh> netgod: Knghtbrd khó có thể bỏ qua.
+		-- Ed Lang
+
+%
+<Woot> Man, tôi chúc các knghtbrd ở đây để lấy đó cho danh sách sig của mình.[... Sau đó vài giờ ...]<Knghtbrd> woot không biết tôi vewy tốt, làm ông?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd tấm da wichert với phi tiêu NERF* Wichert lưu ý không có nerf ICBM được nêu ra và bỏ qua kngtbrd<Knghtbrd> wichert - chỉ cần chờ đợi, sau khi nhìn thấy những khẩu súng gatling NERF, ICBM           không xa (chỉ cần bơm điều đáng nguyền rủa cho một hay hai giờ           là tất cả...)
+		-- Ed Lang
+
+%
+Hệ điều hành cài đặt:  * Debian GNU / Linux 2.1 4 CD Set ($ 20 từ www.chguy.net; giá bao gồm    thuế, vận chuyển, và quyên góp $ 3 đến FSF). 2 đĩa CD là những chương trình, 2 đĩa CD    mã nguồn hoàn chỉnh;  * Windows 98 Second Edition Phiên bản nâng cấp ($ 136 qua Megadepot.com,    Giá không bao gồm các loại thuế / phí vận chuyển). Đáng ngạc nhiên, không có mã nguồn    được bao gồm.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Steal dòng giới thiệu này. Tôi đã làm.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> oh noooo, Knghtbrd đã bị một khẩu súng :)<Doogie> ^^ chèn nhạc ^^<Knghtbrd> bfextu - o / ~ tất cả mọi người đang chạy trốn o / ~<Bfextu> o / ~ chạy đi, ruuuuun khỏi trả ay-ain o / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Thủy> emacs hút, theo nghĩa đen, không phải là một sự xúc phạm, chỉ một lời nhận xét đó của nó          đủ lớn để có một lực hấp dẫn đáng chú ý ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Là một máy tính, tôi thấy đức tin của mình trong công nghệ thú vị.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Knghtbrd gán 3 đến Chris* Diệu biến người khác được đặt tên chris bên cạnh tôi<Knghtbrd> biến - bạn. =>* Knghtbrd đợi biến để nói đáng kể "Tôi cảm thấy SO sử dụng!"<Variable> Knghtbrd: :)* Biến ++<Variable> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy cân nhắc một hàng đợi uplad gọi là 'địa ngục' vì vậy tôi có thể làm dupload --Để địa ngục
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> java, hon, đôi khi tôi thực sự muốn smack bạn.<Knghtbrd> Valkyrja - ông muốn tận hưởng nó quá nhiều<Reteo> Valkyrja: yah, đi trước và làm điều đó ... đánh java vào cappuccino! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Tali> được vewwy vewwy qwuiet .. Tôi ewwos wuntime huntin
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Red Hat gần đây đã phát hành một Cố vấn An ninh (RHSA-1999: 030-01)bao gồm một lỗi tràn bộ đệm trong các gói vixie cron. Debianphát hiện ra lỗi này hai năm trước và cố định nó. Do đó các phiên bản trongcả hai, sự ổn định và không ổn định, các bản phân phối của Debian là khôngdễ bị vấn đề này ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Trước hết - Quake chỉ đơn giản là đáng kinh ngạc. Nó cho phép bạn liên tục giết bạnông chủ trong văn phòng mà không bị bắt. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Lucas 'Luật: tốt sẽ luôn luôn giành chiến thắng, bởi vì ác thuê các _stupid_             Kỹ sư.
+		-- Signal 11, in a slashdot comment
+
+%
+* TribFurry chỉ nhận được thư rác từ UCSD ... Tôi sử dụng để có được email từ            bản thân mình nhưng tôi quyết định tôi không thích bản thân mình và ngừng nói	    với tôi
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> lưu ý vào tủ lạnh ký túc xá ... "Để người ăn các nội dung            của container nhãn 'James' - cảnh báo, nó là sinh học của tôi	    thí nghiệm"
+		-- Signal 11, in a slashdot comment
+
+%
+<KatanaJ> Lưu ý về một phòng thí nghiệm chem fridge- "tủ lạnh này không cháy, nổ          bằng chứng".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DALnet là như Olympic đặc biệt của IRC. Có rất nhiều           chảy nước dãi goin 'on và tất cả mọi người là một' chiến thắng '.
+		-- Signal 11, in a slashdot comment
+
+%
+Nhưng việc sửa đổi dpkg là không khả thi, và chúng tôi đã đồng ý, trong số những thứ khác,giữ cho các nhu cầu của người sử dụng của chúng tôi đi đầu trong tâm trí chúng ta. Và từ mộtquan điểm của người sử dụng, một cái gì đó mà giữ hệ thống gọn gàng trong bình thườngtrường hợp, và các công trình * bây giờ *, là tốt hơn nhiều so với tưởng tượng lý tưởng giống như mộtdpkg làm việc.
+		-- Manoj Srivastava
+
+%
+Đối với mỗi tầm nhìn đó là một phiên bản bằng nhau và ngược lại.
+		-- Manoj Srivastava
+
+%
+<Epsilon3> Knghtbrd, nếu chúng ta muốn có một nhận xét lameass chúng tôi đã có thể nói:           Hey, neckro
+		-- Manoj Srivastava
+
+%
+<Tigah _-> i có 4GB cho / tmp<Knghtbrd> Bạn làm gì với 4G / tmp? Biên dịch X?<Tigah _-> yes
+		-- Manoj Srivastava
+
+%
+<KnaraKat> Cắn tôi.* TheOne được một số muối, sau đó tiến hành để nhấm nháp một chút KnaraKat         một chút....
+		-- Manoj Srivastava
+
+%
+* Knghtbrd ghi nhận ông đã nghiền khoai tây cho bộ não của đêm nay<Valkyrie> yum, tôi có thể có một số?<Knghtbrd> um ...* Knghtbrd ẩn từ Valkyrie
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> joeyh bây giờ có một thiết bị đầu cuối tại chiếc ghế dài?<Knghtbrd> Đó guy là có dây, tôi thề =><Doogie> Knghtbrd: máy tính xách tay<Doogie> và tôi không có nghĩa là những con mèo.
+		-- Manoj Srivastava
+
+%
+Với một số các chủ đề gần đây, các cuộc thảo luận tương tác mightcần phải được tiến hành trên vải, trong sự hiện diện của một trọng tài, trong khiđeo găng tay đệm. ;-)
+		-- Phil Hands
+
+%
+<James> nhưng, sau đó tôi đã sử dụng một Atari, tôi đã được nhiều khả năng giành chiến thắng trong xổ số        mười quốc gia đồng thời hơn được tăng tốc X
+		-- Phil Hands
+
+%
+* Joeyh tự hỏi tại sao mọi người đều muốn biết làm thế nào cao, ông là<James> joeyh: nó giúp các bắn tỉa
+		-- Phil Hands
+
+%
+* Ghế tập cơ bắp tự hỏi tại sao ông đã nâng cấp lên 3.3.5-1 trước teh X duy trì
+		-- Phil Hands
+
+%
+<Delenn> Tôi sẽ không làm cho nó thông qua 24 giờ trước khi tôi được bắn lên         nướng và tát một vài người bạn trên barbie.<Spacemoos> Tại sao bạn sẽ tát bạn với barbies, thats kinda kinky
+		-- Phil Hands
+
+%
+Trong thực tế .. dựa trên mô hình này về những gì NSA đang có và không ... nhiềungười đọc sách này đều là thành viên của NSA ... /. là sau tất cả 'Tin tức choNerds '.NSA thứ hai MORNING {tại máy cà phê):NSA ĐẠI LÝ 1: ​​Hey guys, đã bạn hãy kiểm tra slashdot cuối tuần qua?    ĐẠI LÝ 2: Không, tôi đã được cài đặt Mandrake 6.1 và tôi coulnd't được darn             ppp kết nối lên ..    ĐẠI LÝ 1: ​​Vâng kiểm tra xem nó ra ... họ đang ở trên cho chúng tôi.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Công nghệ là một cuộc chiến constand giữa các nhà sản xuất sản xuất lớn hơn vànhiều hệ thống idiot-proof và tính chất sản xuất idiots lớn hơn và tốt hơn.
+		-- Slashdot signature
+
+%
+knghtbrd: có thể không có muỗng, nhưng bạn có thể nhận ra các lỗ hổng trongeye_render_shiny_object.c?
+		-- rcw
+
+%
+<Joy> wow ... toán học đơn giản cho thấy rằng các nhà phát triển Debian đã đóng cửa hơn      hơn * 31 * * * ngàn báo cáo lỗi từ BTS của chúng tôi tồn tại!<Joy> đó là khoảng 30.999 hơn Microsoft;)
+		-- rcw
+
+%
+<Knghtbrd> LƯU Ý RẰNG TRÊN LÀ CHỈ MỘT Ý KIẾN VÀ KHÔNG NÊN BETAKEN ĐẾN BAO GỒM BẤT CỨ BIỆN PHÁP thông tin thực tế. CÁC           SPEAKER TỪ CHỐI MỌI VÀ MỌI NGƯỜI. ĐỐI PHÓ VỚI NÓ.
+		-- rcw
+
+%
+<James> bất kỳ gnome freaks xung quanh?<Knghtbrd> không phải là tôi, tôi chỉ là một con quái vật
+		-- rcw
+
+%
+<Madax> ahh<Madax> một tập hợp của các chuyên viên máy tính ....<Madax> Tôi có thể ngửi thấy nó bây giờ
+		-- rcw
+
+%
+<Knghtbrd> học cách yêu Window Maker.<Knghtbrd> một chút NeXTStep là tốt cho tâm hồn.
+		-- rcw
+
+%
+Hãy cẩn thận: nó GNOME, sợ, rất sợ dòng Phụ thuộc
+		-- James Troup
+
+%
+<Culus> Hhhmmmmmmmm<Culus> đệm nước cho bò<Culus> eleet<Cas> Culus: tại sao một con bò cần giường nước?<Culus> cas: Để được thoải mái ấm
+		-- James Troup
+
+%
+Nếu bạn là những gì bạn ăn, tôi đoán đó làm cho tôi một danish pho mát.
+		-- Anonymous
+
+%
+<Hop> khi bạn bắt đầu làm sai lầm chỉ ngu ngốc đó là hiển nhiên, thats      khi bạn bắt đầu nhận thẩm quyền<Hop> bởi vì bạn không phạm sai lầm hiểu lầm cơ bản<Hop> và thats một * dấu * tốt.
+		-- Anonymous
+
+%
+<Lilo> nó là lạ, khi bạn đi trên một safari đến châu Phi để bắt một con sư tử, bạn       thấy nó còn sống và nó phí, và sau đó bạn giết nó<Lilo> khi bạn đi trên một safari để Vịnh Nam để tìm một Palm VX, bạn tìm thấy       nó đã chết và mang nó về nhà và nó phí sau khi nó đến :)
+		-- Anonymous
+
+%
+<Lilo> Tôi có thể đọc * tay đẫm máu * như thể nó là một số loại       đường tôn giáo mô tả hình thức của sự giác ngộ, bạn có thể đạt được       sau 10 năm trên núi :)
+		-- Anonymous
+
+%
+Luật Gates: Mỗi 18 tháng, tốc độ của nửa phần mềm.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: thêm người dùng cần được phiền với âm thanh vào nhóm           âm thanh .. Hãy chắc chắn rằng thiết bị này có tất cả các nhóm audio (ls -l           / Dev / dsp sẽ cung cấp cho bạn những dấu hiệu nhanh nhất nếu nó có thể làđặt bên phải) và xây dựng một hạt nhân với sự hỗ trợ âm thanh cho card của bạn<Knghtbrd> HOẶC tùy chọn cài đặt alsa nguồn và xây dựng mô-đun cho rằng           với make-kpkg<Knghtbrd> OR (không khuyến khích) có được và cài đặt ác OSS / Linux ác           không tự do nhị phân ác điều khiển chỉ ác --- nhưng những người ác.Và tôi đã đề cập rằng nó không nên?
+		-- Anonymous
+
+%
+Tôi nghĩ irc không phải là đi làm việc mặc dù --- chúng tôi đang chạy ra khỏi không gian chủ đề!
+		-- Joseph Carter
+
+%
+"Pacific Bell Dịch vụ khách hàng, đây là [..], làm thế nào tôi có thể cung cấp cho bạndịch vụ khách hàng tuyệt vời ngày hôm nay? ""HAHAHAHAHA !! Đó là tốt, tôi thích nó ..""Ừm, cảm ơn, họ làm cho chúng ta nói điều đó."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: newzealanders đẫm máu<Omnic> danpat: đặt một chiếc vớ trong nó<Danpat> heh :)<Knghtbrd> làm cho niềm vui của .nz'ers là khác nhau --- họ đều lạ* Da knghtbrd<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> Flinny: đen crontab diệu kinda thứ :)<Knghtbrd> Joy: nào mà người bình có được khiêu vũ khỏa thân xung quanh đống lửa           hô những điều kỳ lạ và vẫy tay về trong một ngớ ngẩn           cách thức?<RCW> knghtbrd: những gì bạn nghĩ * * người làm ở novare?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * snipsnip *<RCW> ôi, đó là âm thanh của chỉnh sửa tài sản cơ sở dữ liệu?<Joy> uh oh<Knghtbrd> Yes =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> đó là một kludge (TM)<Knghtbrd> hoạt động (tm)<Joy> AIX hoạt động (TM)<Knghtbrd> không có nó không<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Sự khác biệt giữa thiên tài và ngu dốt là thiên tài đã nógiới hạn. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> Nếu sạc ai đó vi phạm luật pháp Hoa Kỳ sẽ nhận được mật mã           bạn cười ra khỏi tòa án, chỉ cần "điều tra" chúng trên phí HTE           phản quốc!<Knghtbrd> Trà, bất cứ ai?<Espy> Tôi thà chết đuối chính trị thay vì trà :)<Stu> thoạt thấy: chính trị gia có mang, duh<Espy> chồn không có mang
+		-- Albert Einstein
+
+%
+Nếu tôi gặp khó khăn khi cài đặt Linux, cái gì là sai. Rất sai.
+		-- Linus Torvalds
+
+%
+* Bma_home dò dẫm bạn<Bma_home> "oups, sai kênh"<Bma_home> </ ACF><Cerb> bỏ mò mẫm tôi<Doogie> bạn biết bạn thích nó.<Bma_home> thực tế, nó đã "mò mẫm tôi bé"<Gecko-> chạm vào con trai tôi và bạn chết, BMA;)<Doogie> gecko-: nhưng vợ của bạn là ok?
+		-- Linus Torvalds
+
+%
+Đọc sách hướng dẫn sử dụng máy tính mà không cần phần cứng là như bực bội như đọchướng dẫn sử dụng quan hệ tình dục mà không cần phần mềm.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (tinc)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (nó)<Knghtbrd> (in)* Espy ghi chú nói chuyện trong ACR ^ Winitialisms là đáng sợ khi phía bên kia  hiểu bạn
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> nó quá xấu nhất unices cổ là Y2K compliant<| Rain |> quá xấu?<| Rain |> tại sao, bởi vì mọi người sẽ không nâng cấp cho đến năm 2038?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "Tôi đã cài đặt 'Linux 6.1', không làm cho tôi một unix                guru? "<Ghế tập cơ bắp> Espy_on_crack: không có, bạn phải cài đặt nó hai lần trước khi bạn là một       guru ... một lần để chứng minh bạn có thể làm điều đó, thứ hai để sửa chữa những điều       phá vỡ của bạn lần đầu tiên<Espy_on_crack> oh phải, cách ngớ ngẩn của tôi
+		-- Arthur C Clarke
+
+%
+* Knghtbrd làm điều ET<Knghtbrd> ai có một speak-n-chính tả?
+		-- Arthur C Clarke
+
+%
+<Omnic> khác Ngoài .sig
+		-- Arthur C Clarke
+
+%
+Tôi bắt đầu nghĩ rằng gen có thể sử dụng một chút clo.
+		-- Arthur C Clarke
+
+%
+Nó như BAD như bạn nghĩ, và họ LÀ ra để có được bạn.
+		-- Arthur C Clarke
+
+%
+<Espy> cẩn thận, một số twit có thể báo cho bạn<Espy> ra khỏi bối cảnh ...
+		-- Arthur C Clarke
+
+%
+*** Topic cho #redhat: Redhat là câu trả lời cho tất cả các vấn đề của mình. nó    có thể là sự khởi đầu quá!
+		-- Arthur C Clarke
+
+%
+* Kỳ CesarB nếu trong vòng chưa đầy một tuần Carmack sẽ kết thúc nhận trong  e-mail một bản sao lịch sự của một phiên bản của nguồn Quake mà là bốn  lần nhanh hơn so với những gì đã đi ra khỏi bàn tay ảo của mình ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: Tôi không đưa trận động đất trong nguồn hạt nhân<Knghtbrd> nhưng chúng ta nên đưa trận động đất trong đĩa mềm khởi động để một-up           Caldera của Tetris trò chơi ..;>
+		-- Arthur C Clarke
+
+%
+Súng không giết người. Đó chính là những viên đạn chết tiệt. Guns chỉ làm cho họ đithực sự thực sự nhanh chóng.
+		-- Jake Johanson
+
+%
+<Espy> chúng ta cần phải phân chia chính vào "cốt lõi" và "wtf-dụng-này"
+		-- Jake Johanson
+
+%
+<Culus-> libc6 là không cần thiết: |
+		-- Jake Johanson
+
+%
+<Dhd> là có một gói Giáng sinh đặc biệt cho trận động đất<Dhd>, nơi bạn có thể giống như các robot Santa trên Futurama?<Dunham> dhd: đó sẽ là một trận đấu khá cân bằng ...<Knghtbrd> Dunham: đó là ý tưởng. ;>
+		-- Jake Johanson
+
+%
+<Knghtbrd> các vấn đề với các tiêu chuẩn mã hóa GNU là họ NHẬN màtất cả mọi người trên thế giới sử dụng emacs .. Nếu đó là trường hợp, miễn phí           phần mềm sẽ chết bởi vì tất cả chúng ta sẽ có vấn đề cổ taynhư RMS của bây giờ và không còn có khả năng mã. ;>
+		-- Jake Johanson
+
+%
+Thôi nào! phản kháng chính trị! sheesh. Trường hợp của tinh thần vô chính phủ? ;-)
+		-- Decklin Foster
+
+%
+Chúng tôi đã tăng các tiêu chuẩn của chúng tôi, vì vậy lên bạn!
+		-- Decklin Foster
+
+%
+* Woot bây giờ được gọi là woot bữa tối* Knghtbrd rắc một chút muối vào woot<Knghtbrd> Tôi chưa bao giờ có một woot trước ... Hy vọng chúng có mùi vị tốt<Woot bữa tối> noooo!<Woot bữa tối> không ăn tôi!* Knghtbrd quyết định ông không muốn có một bữa ăn tối mà nói chuyện với anh ta ... hehe
+		-- Decklin Foster
+
+%
+[Về các biện pháp để ngăn chặn gian lận trong trận động đất]Ý tôi là, miễn là tôi có thể làm cho tên lửa của tôi trông giống như một chiếc bánh lớn,Tôi sẽ hạnh phúc ;)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: trong ngắn hạn, chúng tôi đang di chuyển một vài điều khách hàng           hiện đang chịu trách nhiệm nói với các máy chủ vào những điều           kiểm tra máy chủ cho bản thân<Knghtbrd> Nếu Neo nói "Không có thìa", The Matrix sẽ nói "Oh yes           có --- không có gian lận! "<Hollis> Nhưng anh biết kung fu ...<Knghtbrd> Chắc chắn anh ta, nhưng tôi có một bệ phóng tên lửa.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Thủy bình tĩnh loại bỏ cánh tay XT-Ream của ..* Thủy sau đó tiến hành để đánh bại XT-Ream với cánh tay XT-Ream của.<Knghtbrd> wow, tất cả các trận động đất hacking này là làm sao Thủy bạo lực ở đây* Mao là vui mừng dự án động đất giả mạo là trong tay tốt
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> CVS / Entries có dòng tôi cần thiết để "thay đổi"<Thủy> Knghtbrd: Đã về đề cập đến như vậy .. <G><Thủy> Knghtbrd: Bây giờ, sẵn sàng cam kết?<Knghtbrd> chúc tôi may mắn<Knghtbrd> Mercury: nó cam kết<Knghtbrd> Mercury: và sau khi tất cả điều đó, tôi nên quá.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd qua ngón chân<Knghtbrd> (nếu tôi vượt qua những ngón tay của tôi nó sẽ là khó để gõ)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> có một điều xấu về việc có một điện thoại di động.<Doogie> Tôi có thể đạt được bất cứ lúc nào. : |<Wmono> đó là lý do tại sao tôi rời mỏ giảm ở tất cả các lần. ;>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> làm sao chúng ta phát âm '00 hay '01 hay '02 và như vậy?<Deek> Nói lời tạm biệt với những năm chín mươi, chào hỏi naughties. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> Nếu người dùng chỉ súng vào chân của mình và kéo cò, nó       là công việc của chúng tôi để đảm bảo các viên đạn được nơi đó là nghĩa vụ.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Thủy> Được cảnh báo, tôi có một bàn phím tôi có thể sử dụng để đánh bại thủ trưởng luser của          trong, và sau đó tiếp tục sử dụng ... (=:]<Deek> Mercury: Oh, một IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> knght, sheesh, bạn có dán lời nói của tôi ra khỏi bối cảnh trong           #debian hoặc một cái gì đó?<Palisade>;)<Knghtbrd> không có, nhưng tôi có lẽ nên được;><Palisade> d'oh!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> Mercury: gpm không phải là một trình duyệt web rất tốt. sửa nó.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> cũng có ya đi. nói điều gì đó ngu ngốc trong irc và có nó      bất tử mãi mãi trong tập tin .sig của một ai đó
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Microsoft là một chéo giữa các Borg và Ferengi. Thật đáng tiếc,họ sử dụng Borg để làm tiếp thị và Ferengi của họ để làm họlập trình.
+		-- Simon Slavin
+
+%
+Tôi thà dành 10 giờ đọc mã nguồn của người khác hơn 10phút nghe Musak chờ hỗ trợ kỹ thuật mà không phải là.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Nơi nào bạn nghĩ rằng bạn đang đi ngày hôm nay?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Tôi đã nghe tất cả các loại u ám và doom dự đoán cho Y2K, vì vậy tôi nghĩ rằng tôi muốn chú ý một số lời khuyên mà các chuyên gia đã được đưa ra: Đổ đầy bình xăng của chiếc xe, cổ phiếu lên trên hàng hóa đóng hộp, lấp đầy các bồn tắm với nước, và như vậy.Tôi đoán tôi đã không hoàn toàn tỉnh táo khi tôi hoàn thành việc chuẩn bị của tôi vào cuốiđêm. Sáng nay tôi thấy các kệ bếp ngâm trong xăng, nướctrong bình xăng của chiếc xe, và bồn tắm của tôi đầy đậu nướng.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzan> hey cậu rơi ra pirch hoặc một cái gì đó của bạn?<Knghtbrd> tôi? heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy> bạn đang nướng<Knghtbrd> Espy: chỉ có một nửa để
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> Tôi thường không sử dụng bất cứ điều gì mà có "thử nghiệm" và            "Cảnh báo" dán trên nó<Darkangel> không có, tôi không phải là câm ... hehe<Knghtbrd> ...* Darkangel coi tải hạt nhân không ổn định mới nhất
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> solaris là bsd, vì vậy nó phải làm việc* Espy mất ống nứt wichert của đi
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> nó quá xấu unices cũ nhất hóa ra Y2K compliant<Knghtbrd> vì nó có nghĩa là mọi người sẽ VẪN ĐƯỢC CHẠY HỌ trong 30 năm           = p<Knghtbrd> nó đã đẹp hơn rất nhiều nếu Y2K hiệu quả giết chết           HPUX, aix, SunOS, vv;><Espy> Knghtbrd: kể từ khi PH-UX, đau nhức, và solartus "cũ"?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+* Gxam tự hỏi nếu tất cả các GLOBALS là thực sự cần thiết<Knghtbrd> nhất của họ vào lúc này có<Knghtbrd> chúng tôi thực sự cần phải làm sạch chúng tại một số điểm<Knghtbrd> gxam: khu vực địa sẽ phải đi xa như chúng ta di chuyển về phía           mô đun và điên rồ (tức là, libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, tôi nghĩ rằng các mã bạn cố định của tôi đã không làm việc<Raptor> i phải không có cam kết các mã làm việc<Knghtbrd> raptor: như đó là lần đầu tiên RẰNG đã từng xảy ra = p
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Thủy> Knghtbrd: Sử dụng -3dfx hoặc -svga?<Knghtbrd> Mercury sẽ làm một cái gì đó lành mạnh với nó<Knghtbrd> Mercury: cả --- sig11 SVGA của, của sig4 -3dfx<Knghtbrd> Mercury: đó là không tốt phải không? ;>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Tin tưởng chúng tôi, chúng tôi biết những gì chúng tôi đang làm ... Chúng tôi có thể không có ý tưởng CÁCH           chúng tôi đang làm điều đó, nhưng chúng ta biết gì chúng tôi đang làm.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Thủy> <CJ | Bizkit-0-> tôi có thể tải lên máy chủ Linux tho<Thủy> <CJ | Bizkit-0-> i có một tài khoản trên một vỏ<Thủy> <Thủy> Whats nó chạy?<Thủy> <CJ | Bizkit-0-> umm<Thủy> <CJ | Bizkit-0-> apache tôi nghĩ rằng<Thủy> Trợ giúp, xin vui lòng giúp đỡ ..* Cười khúc khích Omni
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Jt> nên một lỗi được đánh dấu quan trọng nếu nó chỉ ảnh hưởng đến một vòm?<James-workaway> jt: rc cho vòm rằng có thể, nhưng những loại vòm                 lỗi cụ thể là rất hiếm ...<Jt> không phải khi nó gây ra bởi một lỗi trong gcc<Doogie> jt: có được gcc khỏi vòm đó. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<EDLIN> LWE?<EDLIN> Linux W ?? E ??<SEES> sẽ eatyou<JHM> World Expo?<EDLIN> i xem
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Phí danh nghĩa". Thật là một xấu xí câu. Đó là một trong những điều màngụ ý rằng nếu bạn có yêu cầu, bạn không thể đủ khả năng đó.
+		-- Linus Torvalds
+
+%
+<Deek> bạn GPL bài tập ở nhà của bạn? :)<Knghtbrd> yah = D<Knghtbrd> Bất cứ ai được phép sử dụng hoặc sửa đổi bài tập về nhà của tôi, nhưng nếu họ           phân phối thay đổi mà họ phải bao gồm đầy đủ các máy có thể đọc           mã nguồn;>
+		-- Linus Torvalds
+
+%
+* Knghtbrd là mỗi ngày thuyết phục hơn là hầu hết C ++ lập trình viên không biết gì           địa ngục họ đang làm, đó là lý do tại sao C ++ có một rap xấu<Culus> kb: Hầu hết C lập trình viên không biết những gì họ đang làm, nó chỉ làm cho nó        dễ dàng hơn để che giấu: P<Culus> xem ví dụ, proftpd: P
+		-- Linus Torvalds
+
+%
+<Culus> Và không làm cho tôi bắt đầu vào perl!<Culus>:><Shaleh> perl là ngoài cái ác<Jim> bạn không biết perl chưa?<Netgod> gotta yêu một ngôn ngữ không có cú pháp định nghĩa
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / ngẫu nhiên | perl?<Shaleh> Doogie: nó cũng là một sendmail.cf hợp lệ<Doogie> :)* Tay knghtbrd Doogie một giải thưởng vô tri-sử dụng-of-cat* Shaleh muốn thử nó nhưng sợ
+		-- Linus Torvalds
+
+%
+<Dhd> perl </ dev / bdsm<Knghtbrd> bạn có một / dev / bdsm?<Dhd> chắc chắn, đó là một bộ tạo số ngẫu nhiên pseudosadomasochistic
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: Tôi đang trên nó ngay bây giờ .. 3 đĩa 1,3GB, 128M ram, 50MHz kép        (Lên đến quad 250MHz)<Kysh_> Việc nắm bắt được nó kéo 110v vào khoảng 12A 8><Culus> 12A!<Culus> Okay, bếp của tôi là 3000W, mặt trời này là 1320W<Culus> DO BẠN THẤY MỘT VẤN ĐỀ TẠI ĐÂY<Calc> một mặt trời 1320W, mà là giống như một máy sấy tóc :)
+		-- Linus Torvalds
+
+%
+* Joeyh_ chạy ps và thấy 10 dòng mã awk* Joeyh_ recoils trong nỗi kinh hoàng
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: Tôi đã giảm kể từ giữa buổi sáng ngày hôm qua và pacbell nói           sáng nay rằng AT & T là để đổ lỗi và gần như tất cả các nhà nước           giảm<RCW> dunno lý do tại sao người ta nhấn mạnh internet có thể tồn tại một lò thiêu hạt nhân      khi nó không thể tồn tại một backhoe
+		-- Linus Torvalds
+
+%
+Thông báo này được viết với vi! (Không phải là bất cứ ai trên thế giới quan tâm)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Connection reset by một số moron với một backhoe
+		-- seen on an old message from an anon.penet.fi address
+
+%
+05 tháng 2 13:27:01 trinity lp0 trên lửa        - Hạt nhân Linux, cảnh báo tôi rằng có một số chưa biết           Vấn đề với máy in của tôi (tức là, nó đã hết mực)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Các bạn ít biết về máy tính bạn càng muốn Microsoft!        - Chiến dịch quảng cáo của Microsoft, vào khoảng năm 1996(Chứng minh rằng quảng cáo của Microsoft _isn't_ không trung thực!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Làm một quyết định tuyệt vời và một bó toàn bộ của những người bình thường không phải làtốt như làm một bó toàn bộ các quyết định thường thông minh trong suốttoàn bộ quá trình.
+		-- John Carmack
+
+%
+Nó thường không mất nhiều thời gian có hiệu lực khôn ngoan để đi làm điều đó. Nhưng nếu có điều gì đóthực sự pissing được bạn, bạn chỉ cần đi tìm mã và sửa chữa nó và đó làthực sự mát mẻ.
+		-- John Carmack, on the advantages of open source
+
+%
+<Calc> yea nó có vẻ hữu ích cho RE'ing USB<Calc> tôi có một camera usb 3com vô dụng ở đây :(<Knghtbrd> calc: 3Com có ​​thể có bạn bắt vì vi phạm pháp luật mà           không tồn tại 'cho đến tháng mười;><Calc> knghtbrd: tôi sẽ ẩn :)<Knghtbrd> ... chống bắt giữ quá eh?<Calc> knghtbrd: không có tôi sẽ ẩn trước khi tôi được phục vụ
+		-- John Carmack, on the advantages of open source
+
+%
+<Thủy> Vào thời điểm đó nó sẽ biên dịch, nhưng segfault, như nó phải ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Knghtbrd được FAR quá cám dỗ để .sig toàn bộ cuộc thảo luận này ...
+		-- John Carmack, on the advantages of open source
+
+%
+Các Unixverse kết thúc vào ngày Tue, 19 Tháng 1 2038 03:14:07 +0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: chúng ta nên làm một tập phim Trận động đất: đầu gối sâu trong mã ":          bạn chạy xung quanh chụp lỗi :)<Knghtbrd> taniwha: Tôi sẽ vượt qua được ý tưởng trên để OpenQuartz;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> i muốn giải quyết một vấn đề then chốt cửa sổ với fdisk :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: netcode QW được làm những điều xa lạ với tôi. : P<Knghtbrd> Điều này là không bình thường? ;><Endy> Không thực sự. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> RCW: Oh yay --- Tôi đã không được tham gia vào một flamewar tốt tại           ít nhất ... 5 phút!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: Tôi không phải là, mặc dù ý nghĩa của mình, Thiên Chúa
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> i chỉ cần mua MS Office 2000 chỉ 20 $ !!!<Knghtbrd> bạn đã bị gạt;><SlayR> i biết;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> đó là 6 giờ sáng. Tôi đã lên 24 giờ<Knghtbrd> Đánh thức tôi dậy và cuộc sống rủi ro và các chi.* Knghtbrd &; ngủ<Tv> Được rồi tất cả mọi người, chúng tôi chờ đợi 10 phút và sau đó bắt đầu tràn ngập Knghtbrd     với ^ G. Ai đó, rễ hack và cat / dev / urandom> / dev / dsp.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Knghtbrd bây giờ được gọi là SirKewLDooD*** Thủy đá SirKewlDooD từ #quakeforge (* Whack *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Thủy> Knghtbrd: Tôi rất muốn nhìn thấy hỗ trợ cho crosshairs xor ..<Knghtbrd> Mercury: bạn đang lang băm.<Thủy> Knghtbrd: Anh là đại lý ... <G>*** Knghtbrd bây giờ được gọi là QuackDealer
+		-- John Carmack, on the advantages of open source
+
+%
+* Khô-băng không thể mã cách của mình trong một túi giấy<Coderjoe> đá khô: int main () {ExitPaperBag (); return 0; }<Knghtbrd> Có phải đó là làm thế nào mà được thực hiện sau đó? * Ghi chú *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> eek, không ai khác ...<Knghtbrd> Có vẻ bao giờ phát triển và mẹ của họ bây giờ có một ngẫu nhiên           chữ ký sử dụng dấu ngoặc kép irc ...<Knghtbrd> GÌ ĐÃ tôi ĐẦU TẠI ĐÂY ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Nhìn thấy sử dụng bình knghtbrd như chữ ký của mình<Knghtbrd> thấy: ngay sau khi tôi đánh máy chúng tôi nhận ra tôi tốt hơn hết chúng snip           bản thân mình trước khi người khác đã làm;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Omnic nhìn vào link 33.6K của mình và sau đó nhìn vào Joy* Thủy Cuddles modem cáp của mình .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Cấp, nhìn Win95 là không phải tất cả những người mới hoặc - Apple đâm đơn kiệnMicrosoft cho việc sao chép các giao diện người dùng Macintosh / biểu tượng thùng rác, cho đến khi Microsoftchỉ ra rằng Apple có nhiều ý tưởng của Mac của nó (bao gồm cả các thùng rácbiểu tượng) từ Xerox ParcPlace. Xerox có lẽ vẫn tự hỏi tại saotất cả mọi người quan tâm đến thùng rác của họ.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Knghtbrd> nó là một dấu hiệu của bệnh tâm thần đi lang thang không mục đích qua           bắt đầu bản đồ, thu thập Thunderbolt của bạn, hop trong hồ bơi, và gib           mình với nó chỉ để xem buouce đầu của bạn khi nó rơithông qua dưới cùng của hồ bơi? =><Knghtbrd> "Bạn biết rằng bạn là một người nghiện Quake khi ..."
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> Tôi vẫn nghĩ rằng các bạn là các loại hạt kết hợp Q và QW. : P<Knghtbrd> Tất nhiên chúng tôi các loại hạt. Ngay cả John cho biết như vậy. =><Taniwha> Zoid: chúng tôi các loại hạt, nhưng chúng tôi đang sản xuất các loại hạt :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: chúng tôi các loại hạt, nhưng chúng tôi đang sản xuất các loại hạt :)* Taniwha tự hỏi những gì các loại hạt quả hương vị như
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: tài liệu Trích :)<Taniwha> Endy: :)<Knghtbrd> Endy: Tôi đã snipped nó
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> Trên thực tế, tôi nghĩ rằng tôi sẽ chờ đợi cho khoai tây sẽ được hoàn tất trước       cài đặt debian.<Endy> Đó nên là sớm, tôi hy vọng. :)<Knghtbrd> Endy: Bạn rõ ràng biết rất ít về Debian.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Không có gì là một vấn đề khi bạn gỡ lỗi mã.
+		-- John Carmack
+
+%
+<Overfiend> Cách Unix - tất cả mọi thứ là một tập tin<Overfiend> Cách Linux - tất cả mọi thứ là một hệ thống tập tin :)
+		-- John Carmack
+
+%
+<Devkev> yeah tôi thấy súng sét và nơi bạn sẽ đi đâu, suy nghĩ         bạn đã sẽ đá một số mông :)<Devkev> didnt nhận ra nó sẽ là của riêng bạn :)
+		-- John Carmack
+
+%
+"Nếu không, hãy nói chuyện với bác sĩ về loại bỏ đầu của bạn từ bạnass, tôi tin rằng nó sẽ có lợi cho tất cả tham gia. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Khẩu hiệu, bạn nó!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Tôi đang tập luyện một điểm tốt về đạo đức. Có thể chấp nhận quay trở lại.Nó không phải là chấp nhận được để bắn đầu tiên.
+		-- Zed Pobre
+
+%
+<Coderjoe> gib, perl?<Gib> hình như perl là Swiss Army Chainsaw của lập trình viên
+		-- Zed Pobre
+
+%
+<Endy> taniwha: Các bạn đã TESTED này? :)<Taniwha> Endy: tất nhiên không
+		-- Zed Pobre
+
+%
+Đó là điều vui nhất mà tôi từng nghe và tôi sẽ _not_ bỏ qua nó.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Nó không phải? Bạn có nói rằng bạn NÊN cho phép mọi người (trừ WilliamWallace) để bắn bu lông sét từ ass của họ?
+		-- Seth Galbraith
+
+%
+<Thủy> Bạn không phải là điên là một thành viên của dự án, nhưng          bạn sẽ được .. <=:]
+		-- Seth Galbraith
+
+%
+* Endy cần phải tham khảo ý kiến ​​cà phê: P<Endy> cà phê người bot, không cà phê nước giải khát :)<Knghtbrd> tư vấn nước giải khát có thể giúp quá =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: và hiền lành sẽ hưởng k-mart
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "Java cho COBOL Programmer"<Knghtbrd> người viết những điều này?<Raptor> người trên vết nứtlập trình <raptor> và COBOL<Raptor> :)<Knghtbrd> đó là dư thừa.
+		-- Seth Galbraith
+
+%
+<Evilkalla> heh, tôi không bao giờ lấy một lớp mã hóa<Evilkalla> hoặc một lớp đồ họa<Evilkalla> hoặc một lớp học thiết kế phần mềm<Chay> và nó cho thấy: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD ném mì tại tất cả mọi người* Taniwha ăn spaghetti* Coderjoe tung xung quanh một số thịt viên* Knghtbrd được các pho mát* Taniwha lấy một màu đỏ
+		-- Seth Galbraith
+
+%
+<Theoddone33> Tin nhắn này là gì trên màn hình của tôi,<Theoddone33> rất xanh, rất xanh, những gì có thể nó nghĩa là gì?<Theoddone33> Ông có thể, bạn sẽ nhấn Delete,<Theoddone33> Ctrl và Alt và sau đó lặp lại.
+		-- Seth Galbraith
+
+%
+<Gorgo> làm những gì bạn nhận được khi một người nào đó vết nứt máy debian của bạn?<Gorgo> khoai tây nghiền ...
+		-- Seth Galbraith
+
+%
+<Aj> trở về<Aj> nó là một bản sao pico<Aj> nó * có nghĩa là * được gây phiền nhiễu
+		-- Seth Galbraith
+
+%
+<Espy> Tôi gọi luật Espy, mà nói rằng tất cả các bạn hút: P
+		-- Seth Galbraith
+
+%
+<Overfiend> Culus: wanna đình tôi cho nó? :)<Culus> Overfiend: Tới cố crack một vài severs và chúng tôi sẽ nói chuyện<Overfiend> Culus: chết tiệt, nó có phải là độc hại?<Culus> Overfiend: Đáng buồn thay, có
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 hút đủ để có lực hấp dẫn riêng của mình ...
+		-- Seth Galbraith
+
+%
+* Bức xạ vũ trụ muốn ông đã có một số vũ nữ thoát y ở đây ....<Bức xạ vũ trụ> err, vũ nữ thoát y dây
+		-- Seth Galbraith
+
+%
+<WildTHing> kẻ ok .. vì vậy whens các cam kết tiếp theo: PP<Taniwha> khi họ đến để làm cho tôi
+		-- Seth Galbraith
+
+%
+<Mdorman> Tôi là một người gnus bản thân mình. Đó là một biên tập viên! Đó là một floorwax!          Đó là một món tráng miệng cao sang!
+		-- Seth Galbraith
+
+%
+<Tausq> H. Sự khác biệt giữa Batman và Bill Gates là gì?<Tausq> A. Khi Batman chiến đấu với Penguin, ông đã giành được.
+		-- Seth Galbraith
+
+%
+Tại một số điểm, bit phải đi thành các gói và các bộ định tuyến cần phải thực hiệnquyết định trên chúng. Những thay đổi ở cấp đó là những gì tôi muốn nghe về, khôngcác mối quan hệ công ty chiến lược.
+		-- John Carmack
+
+%
+Chúng tôi từ chối: vua, Chủ tịch, và bỏ phiếu.Chúng tôi tin tưởng vào: đồng thuận thô và làm việc mã.
+		-- Dave Clark
+
+%
+<Knghtbrd> QF là sẽ nhận được hỗ trợ zipfile nay<Coderjoe> heh ... infozip?<Knghtbrd> Nếu tôi may mắn có<Deek> knghtbrd: Bạn đang đùa, phải không? ;)* Deek mất đi ống nứt Knghtbrd của. ;)
+		-- Dave Clark
+
+%
+<Deek> thay đổi tất cả cvar-> value = X để sử dụng Cvar_Set ()<Theoddone33> điều đó đã không xảy ra trong oldtree<Deek> Trên thực tế, nó đã làm.<Knghtbrd> yeah - hai tuần sau đó.
+		-- Dave Clark
+
+%
+=== Bức thư này là Virus Hệ thống Honor ====Nếu bạn đang chạy một máy tính Macintosh, OS / 2, Unix, hoặcLinux máy tính, xin vui lòng xóa ngẫu nhiênmột số tập tin từ ổ đĩa cứng của bạn vàchuyển thông điệp này đến tất cả mọi người bạn biết.==============================================
+		-- Dave Clark
+
+%
+* Shortc muốn có được trong một trong sigs một trong những ngày knghtbrd của.
+		-- Dave Clark
+
+%
+<Dr ^ Nick> SGI_Multitexture là voodoo xấu bây giờ<Dr ^ Nick> ARB là voodoo tốt<Witten> không có, voodoo cao điểm là voodoo xấu :)
+		-- Dave Clark
+
+%
+99 lỗi nhỏ trong các mã, 99 lỗi trong mã,        sửa chữa một lỗi, biên dịch nó một lần nữa ...        101 lỗi nhỏ trong mã ....
+		-- Dave Clark
+
+%
+Hmm ... Trong đó sẽ làm một công việc tốt hơn ở lái xe vật lý điên? Đi du lịchnhanh hơn ánh sáng, hoặc một dấu chấm động giá trị boolean?
+		-- Michael Mol
+
+%
+<Calc> knghtbrd: gnome 2.0 sẽ được ra trong một vài tháng, không chắc chắn làm thế nào nó       sẽ so sánh với KDE 2.0 mặc dù<Knghtbrd> calc: Cũng như cồng kềnh, chỉ là lỗi, và mọi ứng dụng Gnome 2       sẽ phụ thuộc vào 30 thư viện.<Slimer> knghtbrd: vì vậy những gì thay đổi từ 1,0?
+		-- Michael Mol
+
+%
+<Ze0> Vì vậy, làm thế nào là tất cả mọi thứ trong thế giới của lang băm?<LordHavoc> chỉ Ducky<Ze0> tuyệt vời, vịt chiên là tốt đẹp hùng vĩ ngon.
+		-- Michael Mol
+
+%
+<FrikaC> Tôi có lẽ nên khởi động lại ...<FrikaC> BRB ok<FrikaC> Vì vậy, những gì ngoài hình thức tránh virii, rò rỉ bộ nhớ, và tràn lan         crashing làm Linux reallhy cung cấp :)<LordHavoc> đa nhiệm đáng tin cậy?
+		-- Michael Mol
+
+%
+<Tausq> if (cb) ((cb-> obj) -> * (cb-> ui_func)) ();<Knghtbrd> tausq: người HELL viết rằng?<Tausq> tôi :)* Knghtbrd flogs tausq
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> heh<Endy> Có phải đó là trong 1.2? :)
+		-- Michael Mol
+
+%
+<Thủy> knghtbrd: Eww, tìm một tên tốt hơn, bộ phim hút .. <G><Knghtbrd> Mercury: Động cơ là tốt hơn so với các bộ phim
+		-- Michael Mol
+
+%
+<LackOfKan> 'chương trình' là gì?< `` Erik> RSG là một bot, không phải là một con người, không phải là một khách hàng có thể sử dụng con người, chỉ là một bot.< `` Erik> về giống như một bot trận động đất, ngoại trừ chương trình irc (thường)         xây dựng để giúp đỡ, không bắn ass của bạn đầy đủ các lỗ
+		-- Michael Mol
+
+%
+if (tôi = bạn!) // FIXME: có lẽ luôn luôn đúng, xóa?    for (n = 0; n <who_knows_what; n ++) {        answer = DoSomething (withthis [n]);        if (câu trả lời == foobar) {            GetLost (n);            đập bể;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: không có vấn đề với bảng màu được lập chỉ mục cho hình ảnh,           miễn là bạn có thể chọn các bảng màu<Yorick> Rõ ràng là người tạo ra các trận động đất đã bị mù màu nhưng đó         không có nghĩa là bạn phải
+		-- Michael Mol
+
+%
+<CesarB> Chết tiệt, mỗi khi tôi sinh ra, QF-client-x11 khóa cứng<Zoid> Đừng chết?<Knghtbrd> lực tốt.
+		-- Michael Mol
+
+%
+Tại sao tất cả các công cụ tìm kiếm cuộc sống thông minh trong việcvũ trụ được chỉ ra khỏi Trái đất?
+		-- Michael Mol
+
+%
+<Rebelpacket> hey, câu hỏi nhanh chóng, là có cách nào để tăng tốc độ              hiệu suất của uquake-x11?<Deek> rebelpacket: Nếu bạn muốn đẩy nó, ném nó khó khăn hơn.
+		-- Michael Mol
+
+%
+<Netgod> bạn biết<Netgod> nó thực sự buồn khi InterNIC bản thân không thể cấu hình DNS         máy chủ này ngay<Netgod> nó chỉ doesnt có được nữa thảm hại hơn
+		-- Michael Mol
+
+%
+<Knghtbrd> Ngay cả với overbrights, bảng màu Quake là đầy ngu si đần độn,           màu sắc phẳng<LordHavoc> knghtbrd: bảng trận động đất là rất sôi động, trừ khi bạn sử dụng gamma            điều chỉnh<LordHavoc> cũng thực sự tôi đồng ý, đó là hư không gần như sôi động như Unreal<Deek> Q3 mặt khác ... NEON.<LordHavoc> Q3 chỉ là vô lý<Deek> Q3 mất thời trung cổ thờ-dungeon và đặt nó ở Vegas.
+		-- Michael Mol
+
+%
+"Tôi có một xương để chọn, và một vài để phá vỡ."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie Tối ưu hóa cho thấm và Destruction
+		-- Anonymous
+
+%
+<Deek> Yes, Mỹ là một quốc gia dựa trên cách pissed-off một nhóm đánh thuế       mọi người có thể nhận được.<Deek> Chúng tôi tồn tại như một quốc gia bởi vì chúng tôi đang rẻ.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: nhiều bản vá lỗi trên 4.0.1 chưa?<Overfiend> Oskuro: một vài<Overfiend> chỉ 152 meg
+		-- Anonymous
+
+%
+<Joeyh> oh của tôi, đó là một UP P III.<Doogie> dos nó.* Joeyh chạy dselect<Overfiend> mà nên là đủ :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: crap, SDL chắc chắn làm cho DGA một helluva dễ dàng hơn nhiều quá           phải không? :)<Knghtbrd> barneyfu: những gì DGA?<Barneyfu> DGA chuột<Knghtbrd> barneyfu: (không có trả lời câu hỏi của bạn?)<Barneyfu> Hahahahaha YEAH! :)
+		-- Anonymous
+
+%
+<Deek> "Một lập trình tốt có thể viết FORTRAN ngôn ngữ nào."<Deek> knghtbrd đã chứng minh rằng bạn có thể viết C ++ trong bất kỳ ngôn ngữ quá.       <Cười><Thủy> Chúng tôi đang considdering nếu chúng ta nên cho anh ta hoặc giải thưởng, hoặc          giết nó..<Thủy> (Tất nhiên, bởi tất cả các quyền, điều này có nghĩa là chúng ta nên cho anh ta          giải thưởng, và sau đó giết nó .. <G>)
+		-- Anonymous
+
+%
+Một lật đổ là bất cứ ai có thể ra tranh luận-chính phủ của họ.
+		-- Anonymous
+
+%
+Chúng ta phải biết, chúng ta sẽ biết.
+		-- David Hilbert
+
+%
+<Knghtbrd> kiểm duyệt Internet. Bởi vì trẻ em của bạn cần phải được           bảo vệ từ phụ nữ khỏa thân, thủ tục y tế, đa dạngnền văn hóa, và các trò chơi video bạo lực.<Knghtbrd> (nhưng thông tin về việc phát triển bom, trộm cắp cáp, và           sản xuất thuốc là được rồi ...)
+		-- David Hilbert
+
+%
+Một người bạn của tôi có một mã vạch trên cánh tay của mình.Ông nhẫn lên như là một gói 0,35 $ của JuicyFruit.
+		-- Seen on Slashdot
+
+%
+<NullC> Tôi thích mã giống để tính toán đường cong che.<NullC> Tôi chưa bao giờ nhìn thấy mã mà làm được muốn uống trước đó ...
+		-- Seen on Slashdot
+
+%
+$ Bạn = mới BẠN;honk () nếu $ anh-> tình yêu (perl)
+		-- Seen on Slashdot
+
+%
+<Cj> không có! vấn đề trong M $ phần mềm?<Cj> "Triệt bugtested"* Dabb cười.<LordHavoc> viết lại đó là 'kỹ buginfested'
+		-- Seen on Slashdot
+
+%
+<Doogie> dpkg có lỗi? không thể nào!
+		-- Seen on Slashdot
+
+%
+"Debian: không có mũ, hoặc bò sát đã bị hại trong việc làm của phân phối này =".
+		-- Paul Slootman
+
+%
+* Athener gọi Tổ chức Ân xá Quốc tế House of Pancakes
+		-- Paul Slootman
+
+%
+<Elmo> ô uế: err, nhóm quản trị không kiểm soát các kho lưu trữ, đó là       ftp cabal<Elmo> nhận cabals của bạn ngay, chết tiệt :-P
+		-- Paul Slootman
+
+%
+<Ghế tập cơ bắp> bức xạ vũ trụ: bạn hoàn thành tôi<Ghế tập cơ bắp> err ...<Bức xạ vũ trụ> heh* Ghế tập cơ bắp đi trở lại để mã hóa* Elmo nhìn vào ghế tập cơ bắp<Elmo> một cái gì đó chúng ta nên biết về bạn và bức xạ vũ trụ, Ben? :)
+		-- Paul Slootman
+
+%
+Thay đổi hợp đồng xã hội? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Chương trình đã nhận được tín hiệu SIGSEGV, lỗi phân khúc.<Knghtbrd> 0x40095fb0 trong memchr () từ /lib/libc.so.6<Knghtbrd> (gdb) bt<Knghtbrd> # 0 0x40095fb0 trong memchr () từ /lib/libc.so.6<Knghtbrd> # 1 0x0 tại ?? ()<Knghtbrd> Vâng Đó là thực sự có ích* Knghtbrd nghề gdb cho một bảng Ouija đẹp - nó sẽ giúp đỡ nhiều hơn
+		-- Branden Robinson
+
+%
+Tất cả những ý tưởng tốt giống như những ý tưởng xấu để những ai là kẻ thua cuộc.
+		-- Dilbert
+
+%
+RFC 882 đặt dấu chấm trong năm, không Sun Microsystems
+		-- Seen on Slashdot
+
+%
+* Joeyh_ tự hỏi nếu linux là vụ phải khóa khi bạn hỏi 100  quy trình để mèo toàn bộ ổ đĩa cd
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Quake nên hỗ trợ xray tầm nhìn, chết tiệt<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... bạn hỏi ...<Bức xạ vũ trụ> haha, đó là một thư mục thực
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Tôi lẻn ĐẾN BUN<Knghtbrd> HELP ME CHO ĐẾN quack<Venom> kb: được cái quái gì bạn nói về?<Knghtbrd> bwahahaha .. Đó là một câu chuyện dài.
+		-- Seen on Slashdot
+
+%
+<WildCode> Mercury, được không gỡ lỗi X một chút như việc tìm kiếm hoàn hảo           Mã sót kỹ trong các cửa sổ ??<Thủy> WildCode: Gỡ rối X là giống như cố gắng để chạy một đường thẳng          thông qua một mê cung.<Thủy> Bạn chỉ cần uốn cong không-thời gian để di chuyển xung quanh các góc          bạn và bạn sẽ không có bất kỳ vấn đề. (=:]
+		-- Seen on Slashdot
+
+%
+<Miguel> `Bạn đã hủy đăng ký từ năng lượng cao cá nhân         thiết bị bảo vệ danh sách gửi thư '<Miguel> Tôi không nhớ nhận được vào danh sách gửi thư
+		-- Seen on Slashdot
+
+%
+<Myth> Tôi nhận được một kết nối từ chối khi kết nối đến cổng 25, bất cứ ai       biết nơi mà các log chết tiệt là?<Aj> Chuyện hoang đường: /var/log/damn.log?* Aj tự hỏi điều gì đó muốn như thế<Aj> ngày 18 tháng 12 05:32:30 blae smtpd [123]: Damn IT ALL TO HELL !!
+		-- Seen on Slashdot
+
+%
+* Kỳ chồn như thế nào ngu ngốc người ta phải để alt.anonymous.messages thư rác<Knghtbrd> chồn: khoảng nửa ngu như người ta phải thu hoạch nó.
+		-- Seen on Slashdot
+
+%
+* Hóa thiết cân nhắc bao nhiêu debianites nó cần để vít trong một bóng đèn<Viiru> hóa thiết: Một nơi nào đó xung quanh 600? Một vít là bóng đèn, và phần còn lại        ngọn lửa anh ta làm nó sai.<Phần> hóa thiết: là các bóng đèn phần mềm miễn phí?<Tv> Chúng ta có thể bỏ phiếu về việc có nên vít nó hay không?
+		-- Seen on Slashdot
+
+%
+<Culus_> Chúng tôi cũng đang hy vọng sẽ phát hành một phiên bản của Linux mà vỏ là         thay thế bằng perl đến một mức độ lớn. Thêm vào đó, có một         vài người trong chúng ta muốn nhìn thấy một nền tảng perl tinh khiết .. PERLOS :)* Culus_ trông về trong nỗi kinh hoàng<Mstone> Culus_: trên mặt, bạn có thể gõ damn gần bất cứ điều gì trong tại         dấu nhắc lệnh :)
+		-- Seen on Slashdot
+
+%
+<Thủy> LordHavoc: Lý do tại sao GL có chi phiếu quá là bởi vì nó chỉ là          sử dụng HALF của hệ thống mà họ thiết kế cho vis.<Thủy> LordHavoc: Chụp chính nó trong bàn chân.* Dabb nhìn vào tất cả những lỗ đạn trong đôi giày của mình - chết tiệt, rất nhiều :)
+		-- Seen on Slashdot
+
+%
+<Dabb> hehe, tôi thực sự ghét báo cáo lỗi mà cũng giống như gọi lửa       bộ phận và nói: "Có lửa ở đây, đến" :)<Dabb> (và treo lên)* Dabb giết chết các báo cáo hàng chục lỗi.
+		-- Seen on Slashdot
+
+%
+<Xtifr> wow, tôi nghĩ rằng tôi chỉ sử dụng libtool để giải quyết một vấn đề - ai đó        giúp tôi! :><Luca> xtifr, STEP AWAY FROM THE KEYBOARD
+		-- Seen on Slashdot
+
+%
+<Mao> tại sao họ cứ khăng khăng ading -Werror ...<Misty-chan> Mesa sẽ không biên dịch ra khỏi hộp nếu nó được thực hiện bởi bạn             chàng trai;)<Knghtbrd> Uh, Mesa KHÔNG biên dịch ra khỏi hộp hầu hết thời gian.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: Không, nó không phải là. Win32 thiếu tương đương với fork ().<Knghtbrd> Deek: Windoze không có nghĩa là cho những người cần phải có quyền truy cập vào           các vật sắc nhọn, vì thế không có fork ()<Knghtbrd> thay vào đó, bạn phải dựa vào cái muỗng ()
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> font chữ này là bắt đầu đi ra rất độc đáo<Stu> Knghtbrd: oh thân yêu, bạn đang hack lên một phông chữ trận động đất trong vi? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> oh, bên cạnh đó, whats cách tiếp cận tốt nhất nếu tôi muốn thực hiện một Quake       mức độ thiết kế từ một tòa nhà hiện tại?<Knghtbrd> Nhận một floorplan của văn phòng của Brian? =)<Pv2b> Knghtbrd: im xem xét trường của tôi.<Knghtbrd> Oh tuyệt vời<Knghtbrd> Đó là tất cả chúng ta cần
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Windoze xi măng: Bây giờ với CrackGuard (TM)! Không bao giờ lo lắng về           vết nứt khó coi trong xi măng Windoze một lần nữa! CrackGuard (TM) làmạnh mẽ như vậy là toàn bộ điều sẽ sụp đổ trước khi nó sẽcrack. Đặt hàng $ 200 phiên bản nâng cấp của bạn ngày hôm nay!
+		-- Seen on Slashdot
+
+%
+<Doogie> Culus: lỗi của tôi với openssh xuất hiện để được cố định trong 2.5.2, nhưng         chủ chạy 2.3.0<Culus> Đừng thậm chí bắt đầu<Doogie> Tôi chỉ cần làm.<Culus> Các bạn sẽ lái xe đưa tôi để xây dựng một robot khổng lồ lớn và        phá hủy tất cả các texas, phải không?
+		-- Seen on Slashdot
+
+%
+<Shader> whats sai với rjing?<Rhamphoryncus> nó què: P<Rhamphoryncus> nó không nên được có thể<Rhamphoryncus> xô đẩy một quả lựu đạn lên mông của bạn và sử dụng nó như tên lửa                thuốc phóng không phải là một kỹ thuật khả thi: P
+		-- Seen on Slashdot
+
+%
+ * Mã tương đương có sẵn từ RSA Data Security Inc. * Mã này đã được thử nghiệm chống lại điều đó, và là tương đương, * Ngoại trừ việc bạn không cần phải bao gồm hai trang của legalese * Với mỗi bản sao.
+		-- public domain MD5 source
+
+%
+* Knghtbrd đã biến mất - zzz - tin nhắn sẽ được chụp như khăn ướt ở tất cả  của những người đã bị đánh cắp thương hiệu knghtbrd đi nhắn<Coderjoe> ack* Coderjoe chuẩn bị để bảo vệ mình từ các tin nhắn ướt
+		-- public domain MD5 source
+
+%
+Đừng bao giờ đánh giá thấp sức mạnh của ai đó với mã nguồn, một trình soạn thảo văn bản,và sẵn sàng để hoàn toàn vòi hệ thống của họ.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Vì vậy, bên Andover sẽ có một thanh tiền mặt?""Không, không có bia miễn phí.""Uh-oh, gonna Stallman được pissed ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Addi> Alter.net dường như đã thay một bộ định tuyến của mình với một bí.
+		-- overheard at the Bazaar, 1999
+
+%
+<Thủy> Một người nào đó sửa chữa nó.<Despair> cam kết<Knghtbrd> Despair: Thủy?<Despair> Knghtbrd: ông mệt mỏi, đã làm sai, muốn một người nào đó để hủy bỏ nó.<Knghtbrd> Despair: như vậy bạn đã ông cam kết?<Despair> Knghtbrd: tốt, dành riêng anyways.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: nó không sưng lên nếu nó được sử dụng<Knghtbrd> taniwha: làm thế nào để bạn giải thích Windoze sau đó?<Taniwha> Knghtbrd: nhất của nó chỉ được sử dụng như dằn để đảm bảo bạn          ổ cứng là đủ<Knghtbrd> taniwha: ballast ... Đó không phải là những gì làm cho tàu ngầm chìm xuống           đáy của đại dương?<Knghtbrd> taniwha: đó sẽ giải thích lý do tại sao winboxes luôn đi xuống.
+		-- overheard at the Bazaar, 1999
+
+%
+đổi mới / IN không có vait / vb .: 1. Để công nghệ của bên thứ ba thích hợpthông qua việc mua, bắt chước, hoặc trộm cắp và tích hợp nó vào mộtde-facto, độc quyền, vị trí sản phẩm. 2. Để tăng kích thước hoặc phức tạpnhưng không phải trong tiện ích; để giảm tính tương thích hoặc khả năng tương tác. 3. Đểkhóa-out đối thủ cạnh tranh hoặc để lock-in người dùng. 4. Để sạc nhiều tiền hơn; đếntăng giá hoặc chi phí. 5. Để thu được lợi nhuận từ việc đầu tư vào kháccông ty nhưng không phải từ sản phẩm trực tiếp hoặc bán hàng dịch vụ. 6. Để kiềm chế hoặcthao tác một thị trường tự do; để mở rộng quyền hạn độc quyền thị trường mới. 7.Để trốn tránh trách nhiệm đối với những sai phạm; để có được tắt. 8. Để mua hàngluật pháp, lập pháp, lập pháp, hoặc tù trưởng của nhà nước. 9.hòa giải tất cả các giao dịch trong một nền kinh tế toàn cầu; để tham ô; sức mạnh để hợp lựa chọn(đảo chính). Cf. đổi mới, sử dụng tiếng Anh (trái nghĩa).
+		-- csbruce, in a Slashdot post
+
+%
+Sự im lặng điếc tai dạy tôi không hỏi một loạt các chuyên viên máy tính để được tư vấntừ bạn gái của họ
+		-- csbruce, in a Slashdot post
+
+%
+"Những gì chúng ta sẽ làm tối nay, Bill?""Cùng một điều chúng tôi mỗi đêm Steve, cố gắng tận nơi trên thế giới!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> Điều đó nhắc tôi, chúng tôi sẽ cần phải mua một cưa máy cho văn phòng. "Trong       trường hợp khẩn cấp, vỡ thủy tinh "
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> Anh ấy là một nửa kích thước của những người khác.<Knghtbrd> Nhưng anh ấy có một cưa.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Tôi giữ cho dữ liệu gpg cá nhân của tôi trong một khóa, dẫn an toàn trong một kho tiền       bảo vệ bởi rednecks tức giận và dawgs của họ. Kẻ trộm sẽ được       vi phạm, và tất cả những gì ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: không phải là một phần của phần mở rộng cung cấp           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: không có, glDriverBugs () là một phần của EXT_help_me.<Siigron> mà cũng có chứa glMakeItWork (GL_PLEASE);
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erik> 18.446.744.073.709.551.616 là một số lượng lớn
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> được rằng thực sự knghtbrd?<Knghtbrd> Không, tôi là một kẻ mạo danh EVIL!<Knghtbrd> Một kẻ mạo danh ác người THÍCH HYBRID!<Xavvy> haha<Xavvy> ok, đó là anh: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> I * tình yêu * SWB !!<| Rain |> Hoặc, bấm phím 5 để nói chuyện với một representitive ..<| Rain |> * 5 *<| Rain |> Bạn đang được chuyển giao, xin giữ ...<| Rain |> ...<| Rain |> ...<| Rain |> Chúng tôi xin lỗi, con số này có thể không được hoàn thành như gọi.<| Rain |> Vui lòng kiểm tra số và thử lại.
+		-- csbruce, in a Slashdot post
+
+%
+<| Rain |> #define struct đoàn / * tiết kiệm không gian tuyệt vời * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> không quạt BSD?<EvilTypeGuy> Elric: thật khó để có một game thủ và fan hâm mộ bsd: p
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> Có quá nhiều máu trong hệ thống cà phê của tôi.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> Culus: bạn tỉnh táo?<Culus> không
+		-- csbruce, in a Slashdot post
+
+%
+<WLI> Vâng, tôi nhìn ESD và nó trông giống như các loại mã C mà một      cựu Jovial / Algol '60 coder người đã dành 20 năm cuối cùng nảy      giữa Fortran IV và Fortran '77 sẽ viết.
+		-- csbruce, in a Slashdot post
+
+%
+<Phi tuyến> .net là Microsofts phiên bản biến thái của một mạng java            môi trường uglified cho crap cửa sổ cụ thể
+		-- csbruce, in a Slashdot post
+
+%
+<Thủy> LordHavoc: Tôi đã điên.<Coderjoe> chết tiệt thẳng. hoặc cong, vẹo, hoặc những gì có bạn
+		-- csbruce, in a Slashdot post
+
+%
+Unix là hệ điều hành trưởng thành, cửa sổ vẫn còn trong tã và họ có mùi nặng.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Từ tất cả các sterotypes về Úc, tôi con các bạn là         thực sự khó khăn.<Midgar>; p<Krusto> chúng tôi sẽ ném của koala vào bạn
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Rain |> * gật đầu * Tôi không thích sử dụng Máy chủ thông minh, bản thân mình<| Rain |> vì nó dựa trên cả các máy chủ từ xa và máy chủ của bạn là thông minh<| Rain |> và quá thường xuyên bạn bỏ lỡ một trong cả hai mục tiêu
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+Cách tiếp cận SourceForge là để đặt tất cả các dự án trong một số nhạt nhẽo"Surburbia nguồn mở", nơi mà tất cả các nhà đều giống nhau, chỉ vớimàu sắc và phong cách biến thể nhỏ (trong đó xây dựng kế hoạch đã được sử dụng mànhà đặc biệt) được cho phép bởi các giao ước hạn chế và địa phươngluật về quy hoạch. Sourceforege là tương đương với mã nguồn mở củaphân khu trong phim "Edward Scissorhands".
+		-- Terry Lambert
+
+%
+<Calc> Knghtbrd: irc không biên dịch mã c rất tốt;)
+		-- Terry Lambert
+
+%
+* | Rain | chuẩn bị cho món canh đa giác<| Rain |> ngọt tào lao hay thương xót, nó hoạt động?* | Rain | ngất xỉu
+		-- Terry Lambert
+
+%
+"Kể từ đó là một kết luận bỏ qua rằng Microsoft sẽ được xả rác XML của nóvới con trỏ tới các thành phần nền tảng Win 32, tốt nhất có thể được cho biết vềnhận con nuôi của XML là nó sẽ làm cho nó dễ dàng hơn cho các trình duyệt vàcác ứng dụng trên nền tảng Windows không hiểu được các bộ phận củatài liệu đó phải bỏ qua. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robert> i hiểu có một số giới hạn tự do ngôn luận ở         Mỹ, ví dụ như tôi không thể hét lên Fire vào một nhà hát đông đúc.. Nhưng tôi có thể hét lên lửa vào một nhà hát chỉ với 5 hoặc 6 poeple	 trong đó ?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<AAV> cà phê trên một dạ dày trống rỗng là khá nasy<Knghtbrd> AAV: thời gian để chạy vào máy bán hàng tự động cho Cheetos<AAV> Cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> với mã tỉnh táo, có lẽ tôi có thể tìm ra các renderer :)<LordHavoc> mưa: Tôi có thể là một trong những văn bản renderer<| Rain |> tốt, er, uh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Rain |> Knghtbrd: hãy để tôi cung cấp cho bạn truy cập vào các tập tin khu vực<Knghtbrd> oh thần - bạn không nhận ra tôi đã không bao giờ chơi với ràng buộc phải không?<| Rain |> uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> Hãy nhìn xem, bác bỏ, đây là #OpenGL, không #GEEKSEX.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* TwingyAFK được mua 17 "màn hình phẳng* AAV bán TwingyAFK một miếng gỗ dán
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Không phải là nó xấu hổ khi bạn phải đi đến tiệm thuốc tây cho một số"Mặt hàng đặc biệt", và khi bạn đang kiểm tra ra, thu ngân nhìn bạnnhư, "oh, tôi biết những gì bạn đang làm đêm nay ..."Yep, thủ quỹ mà đọc tất cả các dấu hiệu ... đóng hộp súp gà, TheraFlu,Halls, Nyquil, chai bigass của OJ và nước ép bưởi ... anh biếtvà tôi biết rằng tôi đã có một ngày với những teevee và an ủi xuống. Awwwyeah.
+		-- Elizabeth Kirkindall
+
+%
+Trong khoa học nó thường xảy ra rằng các nhà khoa học nói rằng, "Bạn biết đó là một thực sựđối tốt; vị trí của tôi là sai lầm ", và sau đó họ thực sự thay đổitâm trí của họ và bạn không bao giờ nghe thấy rằng quan điểm cũ từ họ một lần nữa. họ thực sựlàm đi. Nó không xảy ra thường xuyên như nó nên, bởi vì các nhà khoa họccon người và thay đổi là đôi khi đau đớn. Nhưng nó xảy ra mỗi ngày. Tôi không thểnhớ lần cuối cùng một cái gì đó giống như đã xảy ra trong chính trị hay tôn giáo.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> thêm một / 3, một ổ cứng khá lớn GF2, và một "màn hình phẳng 15           bạn đã có một máy xách tay khá damned.<Coderjoe> GeForce Hai Thirds?<Knghtbrd> Coderjoe: yes, một GeForce hai phần ba, tức là, bất kỳ thẻ từ ATI.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo Khai báo GCN Phổ biến nhất Bảng điều khiển Kể<Knghtbrd> Họ đang đùa ai?<Thủy> knghtbrd: người nắm giữ cổ?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> đa số các nghệ sĩ Windoze không có khả năng            lưu xpm<Thủy> LordHavoc: Họ không có notepad? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+Linux hỗ trợ các khái niệm về một dòng lệnh hoặc một trình bao cho cùng một lý domà chỉ có trẻ em đọc sách chỉ với hình ảnh trong đó. Ngôn ngữ, có thể làTiếng Anh hay cái gì khác, chỉ là công cụ đủ linh hoạt để thực hiệnmột phạm vi đủ rộng của nhiệm vụ.
+		-- Bill Garrett
+
+%
+## Signoff: quân nổi dậy (razzin 'frazzin' motherfu ... ngu ngốc directx ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: Tôi sẽ không Kow, tôi thấy không cần thiết cho một kiểm tra chính tả chưa<Knghtbrd> bạn đang nói gì?
+		-- Bill Garrett
+
+%
+<Knghtbrd> Em nên đặt những thứ buộc tội vào mã: ahfuiovka           ikperoa edfr ade 9 enbuw ejasxleme ka iena df4mesa<Knghtbrd> Nếu bạn có thể giải mã rằng, bạn là một mật mã tốt hơn tôi           là. =)
+		-- Bill Garrett
+
+%
+<RCW> liiwi: printk ( "CPU0 cháy \ n");
+		-- Bill Garrett
+
+%
+<Electro> máy tính của tôi đã từng là một trong những khối xây dựng một lớn          hình kim tự tháp
+		-- Bill Garrett
+
+%
+THÔNG BÁO: ai nhìn thấy hút thuốc lá sẽ được giả định là trên lửa và sẽ được        tóm lược đặt ra.
+		-- Bill Garrett
+
+%
+<MarkM> c ++: sức mạnh, thanh lịch và đơn giản của một quả lựu đạn
+		-- Bill Garrett
+
+%
+<Knghtbrd> nhưng một loại mỗi tab và không theo danh sách được cho là tốt hơn so với           O (n + n ** 2) cho mỗi tab và O (n ** 2) theo danh sách.<Knghtbrd> OMG, ai đó bắn tôi.<Coderjoe2>?<Knghtbrd> Tôi không thể tin rằng tôi chỉ sử dụng con ngỗng trứng lớn để giải thích lý do tại sao tôi           cách có lẽ là tốt nhất trong thời gian dài.
+		-- Bill Garrett
+
+%
+<Hoponpop> chương trình của tôi làm việc nếu tôi đưa ra các lỗi.
+		-- Bill Garrett
+
+%
+<Thủy> Knghtbrd: Hey, perl có ân hạn quyền lực và sang trọng của một chiếc xe trượt          búa. (=:]<| Rain |> chắc chắn ân điển và sang trọng, dù sao
+		-- Bill Garrett
+
+%
+<DannyS> Hit con khỉ để giành chiến thắng $ 20 (*)!* Knghtbrd được ra vồ mình.* Cây knghtbrd nó vững chắc trên đầu DannyS '.* Knghtbrd sẽ mất anh 20 $ bây giờ. = D
+		-- Bill Garrett
+
+%
+<Gholam> tôi cũng rất ấn tượng<Gholam> win98 quản lý để sụp đổ từ bên trong X vmware.* Gholam vỗ tay.
+		-- Bill Garrett
+
+%
+"Trình điều khiển OpenGL của Nvidia là của tôi" tiêu chuẩn vàng ", và nó đã được khá mộtkể từ khi tôi đã có báo cáo một vấn đề đối với họ, và thậm chí cả thương hiệu của họmở rộng mới làm việc như tài liệu lần đầu tiên tôi thử chúng. Khi tôi cómột vấn đề trên một Nvidia, tôi cho rằng đó là lỗi của tôi. Với bất cứ ai kháctrình điều khiển, tôi cho rằng đó là lỗi của họ. Điều này đã bật ra đúng gần nhưtất cả các thời gian. "
+		-- John Carmack
+
+%
+Libtool chia sẻ thư viện di động chỉ là hơi đáng tin hơnmáy chuyển động vĩnh viễn. Đặc biệt là trên AIX :). "
+		-- David Leimbach
+
+%
+<Overfiend> đây là New Overfiend, thuyết giáo của tình yêu và Nhẫn
+		-- David Leimbach
+
+%
+<Hoponpop> Sự khác nhau giữa netbsd, freebsd, và OpenBSD, như là một           nội là freebsd là quan tâm đến việc hoàn thành công việc, vàkhông ngại làm tổn thương những người có được trong cách của họ.<Hoponpop> netbsd là quan tâm đến việc bảo đảm không có gì được thực hiện, và           không ngại làm tổn thương những người cố gắng để thực hiện điều này.<Hoponpop> OpenBSD là quan tâm đến việc tìm kiếm tốt, và không làm tổn thương bất cứ ai           trong cộng đồng nhỏ của riêng mình, nhưng tìm ra tất cả mọi người khác!
+		-- David Leimbach
+
+%
+<Liiwi> vậy, cách thức để có được buildd để thử lại một gói là gì? kích thích        nó với một cây gậy?<Joey> prod thần kinh<Liiwi> với một cây gậy?<Joey> yes.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... bạn sẽ nhiều hơn khả năng nhìn thấy tất cả các loại trình biên dịch           cảnh báo di chuyển bằng trên màn hình. Đây là bình thường và có thểđược bỏ qua một cách an toàn. "<LordHavoc> Knghtbrd: được rằng một lưu ý kèm theo một số M $ mã?<Knghtbrd> Không, đó là một lưu ý về một bó của GNU cụ.
+		-- David Leimbach
+
+%
+<Hydroxide> knightbrd: từ knightbrd.brain nhập khẩu * :)<Knghtbrd> thần Oh nếu nó được dễ dàng ..<Knghtbrd> từ OpenGL carmack.brain nhập khẩu
+		-- David Leimbach
+
+%
+<LIM> mmmm, bánh rán multitextured ....<Knghtbrd> LIM: có nhân quả?<LIM> knghtbrd: kem sô cô la ...
+		-- David Leimbach
+
+%
+<StevenK> Bạn đang viết lại các bộ phận của Quake trong * Python *?<Knghtbrd> MUAHAHAHA
+		-- David Leimbach
+
+%
+## A_nick (nobody@c213-89-87-111.cm-upc.chello.se) đã tham gia #python<A_nick> làm thế nào để tôi thêm một khóa mới vào từ điển?<A_nick> nm<Dấu gạch ngang> heh :)<Dấu gạch ngang> Kìa sức mạnh giải quyết vấn đề của #python.
+		-- David Leimbach
+
+%
+<Hop_> tôi đã có một cái gì đó mà tôi nghĩ là gà đã được phủ một màu đỏ       dán đó dường như được tạo thành từ dung dịch kiềm dựa trên số tiền của tôi       lưỡi nó bị đốt cháy đi.<Hop_> bạn của chúng tôi là người Ấn Độ cho biết đây là lý do tại sao hầu hết người Ấn Độ mỏng       và tôi trích dẫn "Nó không mất rất nhiều thực phẩm này để giúp bạn có được       enoguh hài lòng ngừng ăn. "
+		-- David Leimbach
+
+%
+<Ý Định> "Đó là kinh tế thấm-up cổ điển, nhận tiền            cũng giống như phân bón: Nó hoạt động tốt nhất nếu bạn lây lan xung quanh nó ".<Knghtbrd> Ý định: Carter tương quan: Những người có nhiều của một trong hai           thường ngửi thấy vui<Ý Định> Knghtbrd: Bạn SO giành chiến thắng.
+		-- David Leimbach
+
+%

@@ -1,0 +1,2160 @@
+* SynrG konfiguratsiya savollarga soni javob uchun qayd  sendmail nostandart bo'ladi
+		-- David Leimbach
+
+%
+netgod ning sehrli kuchlar to'xtatish mumkin, agar * Jeyms ko'proq qoyil bo'lardi  birinchi navbatda satrga ...* Netgod Debian chiquvchilar zabt etish uchun bong qiyin qayd
+		-- David Leimbach
+
+%
+<Sel> yordamga muhtoj: mening provayder mening birinchi paketi :-( yo'qotib oladi<Netgod> sel: # 2 bilan boshlanadi, birinchi yuborish dont
+		-- David Leimbach
+
+%
+<Jeyms> menga ozor. Men bir xato haqida xabar yubordi, shuning uchun cho'loq emasman        Debian-tuzuvchilar-o'zgarishlar
+		-- David Leimbach
+
+%
+Men bepul dasturiy ta'minot va Netscape bo'lgan kun ko'rish edim, deb hech o'ylamagandimX11 mulkiy hisoblanadi. Biz qiziqarli davrda yashayapmiz.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> lemme Men bu erda vaqt isrof yo'q ishonch hosil qilish ... bcwhite olib tashlash      Shiddatli dolzarb xatolar bor belgilangan panoh pkgs      "Muhim". To'g'ri yoki noto'g'ri?<JHM> Jim: "muhim" yoki undan yuqori. To'g'ri.<Jim> Keyin, biz :) ftp.debian.org va dpkg yo'qotish haqida odamsiz* Netgod dpkg o'tkazib yuboradi - u vaqti-vaqti bilan foydali bo'ldi<Joey> Biz hali ham rpm bor ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> haqiqiy Debian maintainer alomati hisoblanadi haddan ortiq bo'lib.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: Men jiddiy, bu paketi bir dam olish kerak.            Men, aslida, bir ahmoq yangi xato joriy haqida bir tush edi            xbase-preinst oxirgi kechasi kirib. Bu Bad alomat.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+non-erkin dasturiy ta'minotlardan yozishni agar shunday bo'lsa, bir axloqiy qonuniy faoliyat emasmuammo, bu reyd nima odamlar, deb yaxshi! Barcha biznes asoslangannon-erkin dasturiy ta'minotlarga barbod kerak, va ertami yaxshiroq.
+		-- Richard Stallman
+
+%
+Bu javob recieves qachon Microsoft DNS xizmati g'ayritabiiy yakun yasaydihech qachon bir DNS so'rovi uchun. Ma'lumot aniqlash: DNS ishga tushirishboshqacha platformasida xizmat.
+		-- BugTraq
+
+%
+* Dpkg qo'llari vbeer katta stakan Stu* Joey siz ham yosh ekansiz, talabalar tomonidan pivo oladi;)* Cylord Joey dan pivo oladi, siz ham mast odamsiz.* Cylord muggles uchun pivo beradi.
+		-- BugTraq
+
+%
+tartibda Biz Debian GNU / Linux tarqatish, odamlar, bir shakllantirish uchunyanada mukammal operatsion tizimi, sifati o'rnatish, bozor sug'urtaxilma-xillik, rag'batlantirish, kompyuter foydalanuvchilari umumiy ehtiyojlari uchun taqdimxavfsizlik va maxfiylik, kompyuter monopolistik kuchlarini ag'darishgadasturiy ta'minot sanoati, va o'zimizga ozodlikdan ne'matlarini ta'minlash vaBizning avlod, yozib qo'y va Debian uchun bu Konstitutsiyasi barpo qilasizGNU / Linux tizimi.
+		-- BugTraq
+
+%
+"Bu elementlar uchun element_data tuzilishi * element_type =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Chuqurroq yuvalamava chuqur, qattiq va qattiq, OHHHHH, OH, oh, borib borib !! * Kechirasiz, boryuz bor oshiriladi. * / Struct lo_FormElementOptionData_struct. "
+		-- Mozilla source code
+
+%
+yil 2000 (Y2K) muammo biz uchun muammo bo'lmasa-da, barcha Linuxtatbiqiy yil 2038 (y2.038k) masala ta'sir qiladi. TheDebian loyihasi ushbu masala bo'yicha sanoat bilan ishlash majburiyatiniva biz to'liq reja va strategiyasi birinchi choragida tomonidan yozilgan bo'ladi2020.
+		-- Mozilla source code
+
+%
+... Qaerda Microsoft DoubleSpace ixtiro qachon Stac Electronics edi? qayerdaMicrosoft GUI ixtiro qachon Xerox va Apple edi? Qaerda Apple ning bo'ldiQuickTime Microsoft Windows uchun video ixtiro qachon? Qaerda Spyglass ediInc. ning Mosaic qachon Microsoft Internet Explorer ixtiro? Qaerda Sun ediMicrosoft Java ixtiro qachon?
+		-- Mozilla source code
+
+%
+quyidagi urishqoq va haddan shaxsiy tovushlar, agar men, afsusdamanlekin bu mening umumiy uslub ekan. - Ian Jackson
+		-- Mozilla source code
+
+%
+"RH (va ayniqsa, RH contrib paketlar) bilan mening eng katta muammo, debular bizning siyosati kabi hech narsa yo'q. Bu asosiy sabablaridan biri bo'ldinima uchun ularning paketlar shunday dahshatli va singan bo'ladi. Debian guruh ishlashi egaa tasviriy san'atning bir taqsimlash pastga qurish tomoni ".
+		-- Mozilla source code
+
+%
+"Slackware foydalanuvchilar muhim emas. Mening tajriba, Slackware foydalanuvchilaryo clueless yangilaydi ham qatron bilan muammo bor kim yoki ularo'rnatish emas edi quturgan do-u-o'zing birovning-oldindan olinganikkilik, hatto ular buni to'langan bo'lsa. "
+		-- Mozilla source code
+
+%
+<XinkeT> "Lord narsalarni qabul qilish menga xotirjamlik ato Men qila olmayman         Men jon narsani o'zgartirish uchun jasorat va hikmat o'zgartirish         odamlar jasadlarini yashirish uchun men, chunki o'ldirish kerak edi, ular         menga g'azablangan ".
+		-- Mozilla source code
+
+%
+Keyinchalik bu kecha: * qorong'i uchun kanal #debian ustida mavzuni o'zgartirdi so'ng  ehtiyot sovutish oy, Debian 2.0 uchun etarli nihoyat salqin  relizi.
+		-- Mozilla source code
+
+%
+Ular menga bir Running ko'rsatdi qadar mening tashrif buyurdingizmi ichiga snidely kulib o'tirdiLinux. Va oh! osmon ochildi va Alloh bir pastga topshirdi-da, u bo'ldiBas, chiroyli, bejirim shunday va shunday nafis klient tomonida OS bir million, debular bir yuz bor, agar Microsoft chiquvchilar ham to'qib bo'lishi mumkin emasyil va turtki Cola bir ming buyumlari.
+		-- LAN Times
+
+%
+Ular menga bir Running ko'rsatdi qadar mening tashrif buyurdingizmi ichiga snidely kulib o'tirdiLinux .... Va bu PC kup edi? Bu qoqilishlar edi? , Hatto bir marta, buniBu dastur noqonuniy olib bordi va yopib kerak, deb aytishpastga? Yo'q, bu faqat mijoz haqida bo'ladi.
+		-- LAN Times
+
+%
+kuchli irodali "odamlar" Men eng debian chiquvchilar aksincha bo'ladi, deb o'ylayman "aql katta darajada va ehtiros yuqori darajada narsaniUlar Debian tizimi rivojida muhim sezmagan. "
+		-- Bill Leach
+
+%
+"Aslida, Linux faqat tarqatish, men hech o'tdi, deb ishlatiladi aytingqutidagi Rootshell test (dist bo'lgan vaqtda Rootshell bosing) Bo'ladi ozod va u erdan skriptlar bilan OS sindirish mumkin, agar ko'rishDebian ".
+		-- seen on the Linux security-audit mailing list
+
+%
+* CULus Perl qo'rqqan - ixtiyoriy xatolar bilan til
+		-- seen on the Linux security-audit mailing list
+
+%
+<Stu> Agar RMS kelgan mumkin, chunki KDE foydalanish qo'rqib bo'lishi kerak sening      uy va bolta yoki biror narsa bilan monitor yopishib :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Va i aslida debian 2.0 kabi ko'p i butunlay yangilanganLinux tizimini standart config bizning kompaniya sotadi va har qanday qaytaofisida va bu yerda uyda Linux tizimlarini .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> qanday o'zgartirish siyosati bilan siyosati siyosati Butning         Politsiya politsiya siyosati
+		-- seen on the Linux security-audit mailing list
+
+%
+"Ning Linux Linux Standard standartlashtirish uyushmasi tashkil <qorong'i> bo'lsin        Kengashi. Ushbu forumning maqsadi Linux standartlaştırmak bo'ladi        Standartlashtirish tashkilotlar. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> sizning "30 daqiqa, deydilar" haqida menga yig'lab kelib qilmang !! men            X, ham yo'llarini qurish yokuş yuqoriga kerak! karda! yalang'och bilan            oyoqlar! Va biz derleyiciler yo'q edi! Biz tarjima kerak edi            C kodi o'zimizni mnemonics uchun!<Overfiend> Va biz ham birlashtiruvchi edi oldin men 18 edi!
+		-- seen on the Linux security-audit mailing list
+
+%
+NEW YORK (CNN) - onlayn bir hafta ham bir necha soat sarflash Internet foydalanuvchilaruyda bo'lsa ortiq, ruhiy tushkunlik va yolg'izlik yuqori darajadagi boshdanUlar Nyu-York Times, kam tez-tez kompyuter tarmog'i ishlatiladi ediSunday xabar. Natijada har ikki ... tadqiqotchilar hayron vakiritilgan homiylar, Intel Corp., Hewlett Packard, AT & T tadqiqot vaApple Computer.
+		-- seen on the Linux security-audit mailing list
+
+%
+"Topiladi nima, shu bilan birga, umumiy reja va integratsiya bo'laditizimi. Debian chindan nafis Linux tarqatish emas; katta saqlash egapaketlar tayyorlash olingan va ularning joylashtirish qilingantizimi. mavjud paketi ko'pligi ham ta'sirli .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Debian Linux mustahkam, har tomonlama mahsulot va haqiqiy zavq iboratfoydalaning. Bu Debian jamoasining bilan ishtirok ham katta,berilgan samimiyati va ruh eslaydi Internet erta kun vaochiqlik va global hamkorlik tuyg'usi.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> I Perl bir Unix-kabi yadro yozish mumkin?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Flood> netgod: Men ham .. (Intel logo / w) a "yomon ko'rsin" T-ko'ylak bor        orqaga u shunday deyilgan: «zavq kelganda, siz ildiz bo'ladi?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Zarkov> "NT 5.0. Barcha xato va o'n barobar kodi hajmi!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<CULus> / tmp dir 150 meg bor! HURMATLI Egamiz
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: siz yadro nima bor ??? uchun olingan manbai       Bo'shliq xizmat harakatlantiruvchi ???<Spoo> vaqt zip keyin Floppi drayverini haydovchi qilish. yadro bo'lsa       kernel bir AI bo'lib, bu kuni Fit does not
+		-- seen on the Linux security-audit mailing list
+
+%
+Men buni nima uchun endi men nihoyat har bir kishi uchun tushuntirishi mumkin. Men faqat $ 7 qiymati borDebian ustida ish uchun bepul narsalar!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: Mening kalkulyatori x86 ko'proq yozuvlarni ega va
+		-- thats- sad
+
+%
+* Pirog xona bo'ylab MATLAB fırlatır va bir qator buzadi umid  cheksiz peices aproaching
+		-- thats- sad
+
+%
+Men u juda tez, bo'ladi deb o'yladim ortiq "... Bu juda tez bo'ldiNT dan. yanada tezligi ortadi final uchun serverga amalga oshiriladi bo'lsarelizlar, Oracle SQL Server bilan eshagini artib imkoniyatiga ega bo'lish uchun ketadi vaOracle admins ... ularning bazalarini ko'chib esa orqaga M $ uchun topshirLinux ustida! "
+		-- thats- sad
+
+%
+Jahon Domination, albatta. Va kam urg'ochisinimi qoplangan. Kim agar qayg'uradiQuyida uning yigirma? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Win 98 Psychic nashri: Biz ketyapsan-ku, ertaga aytaman
+		-- thats- sad
+
+%
+<Zpx> u "-buzilmaydi" debian farovonlik va RH nisbatan qanday ajoyib
+		-- thats- sad
+
+%
+<Qorong'i> "Hey, men Debian deb nomlangan bu loyiha ... Siz undan eshitgan qilyapman?       Ismingiz bizning narsalar bir guruh ustidan kabi ko'rinadi. "
+		-- thats- sad
+
+%
+"Loyihasi rahbariyati #debian bir percieved ters taqdirda bo'lganaksamasını tuzatish uchun izchil va tub va descisive chora ko'rishga vakolat,Yangi mansabdor mansabdor quvib chiqarish bilan cheklangan emas, jumladan, apointingva odatda "hokimiyatni suiiste'mol
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> biz 2.2 _POTATO_ qo'ng'iroq ku ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> Johnie'nın esa Ingram ARM bu yerda Kalomda yo'q?
+		-- proposed amendment to Debian Constitution
+
+%
+* Twilight1 tasvir agar uning Mozilla bere dinozor osilib kerak bo'ladi  Netscape sotadi-out ziyonkorlardan poda uchun ..
+		-- proposed amendment to Debian Constitution
+
+%
+MacOS kompyuter Savodsiz uchun bo'lsa <lux>, keyin uchun Windows uchun      kompyuter masochists
+		-- proposed amendment to Debian Constitution
+
+%
+<Qorong'i> cULus: Empire Davlat besh metrlik nusxasini qurish       qistirgich bilan barpo ta'sirli. Bu Ko'zlari bog'langan qiladi       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Men faqat hozir uni ko'rish mumkin: nominatsiyasi-terrorizm ;-)        - Manojhaha! i Manoj ko'rsatish.
+		-- seeS
+
+%
+<JHM> Negaki, men ko'proq hurmat uchun 14 yoshli Debian chiquvchilar bor     14 yoshli Certified Microsoft dehqonlari.
+		-- seeS
+
+%
+<CULus> Ben: Agar solumly bir kun bir marta sizga debian pochta o'qish qasam Do va        Agar IIV, deb o'ylayman odamlarni ruxsat bermaydi?<Ben> cULus: i shunday qasam nima
+		-- seeS
+
+%
+Bu insoniyat tarixida birinchi Konstitutsiya bo'lsa "Men hayronAgar kvadrat ildiz hisoblash kerak qaerda bir harakatda yo'qligini aniqlash uchuno'tadi. :-) "
+		-- Seen on Slashdot
+
+%
+Bu Debian muammosini hal bo'ladi .. va faqat real tarzda beriIshlab chiquvchilar ko'proq qarindoshlari yaratish farzand, biz ko'proq kerakjinsiy aloqa! Bu uzoq muddatli investitsiya ekan ... u ekanligini ish o'zi shunaqaqoniqarli!
+		-- Craig Brozefsky
+
+%
+<Marcus> Dunham: Siz oqilona qurilgan qanday real sonlar bilaman         tillo ekvivalentligi sinflari tomonidan raqamlari?<Dunham> marcus: ha.
+		-- Craig Brozefsky
+
+%
+<CULus> "Allo?" "Hi baybee" "Agar Johnie'nın esa Ingram bormi?" «Sizlarga men bo'laman        Kimki "" Ermm .. Agar slink CD qizlar sotasizmi? "" Men slinkies sevaman "
+		-- Craig Brozefsky
+
+%
+<Overfiend> xhost + localhost faqat odamlar tomonidan amalga oshirilishi lozim kim edi            bir davlatlararo o'z hostname va root parolini bo'yoq            estakada.
+		-- Craig Brozefsky
+
+%
+<JHM> AIX - Spock soqol bor koinotning dan Unix.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> tadqiqotlar ilmiy-tadqiqot laboratoriyasi 43% saraton sabab ekanligini isbotlash           irillagan<CQ> knghtbrd- ha, lekin o'sha statistika 78% 52% bilan yopiq ...
+		-- Craig Brozefsky
+
+%
+<Stu> apt:! Bugs<Apt>! Bugs ahmoq bo'ladi<Dpkg> apt: ahmoq bo'ladi? nima u?<Apt> dpkg: bilmadim<Dpkg> apt: Go'zallik pivo egasining ko'zingdagi ...<Apt> i allaqachon dpkg, u shunday edi.
+		-- Craig Brozefsky
+
+%
+<Muggles> i i aylantirish uchun, bilaman, ba'zi netcom Adminga ishonch hosil qilish uchun harakat qilyapman          RH dan Debian uchun netgod, lekin ular DAMN o'jar bo'ladi<Muggles> nega RH foydalanuvchilar juda qiyin boshchiligidagi la'nati?<Espy> u xet-ku
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Barcha elektr, ahmoqona shlyapa holda.
+		-- Craig Brozefsky
+
+%
+Qancha oy biz bilan Glibc [Redhat] ortlaridagi bo'ladiozod? "
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+pochta ro'yxatlarini ega o'rniga ega bo'lgan axborot guruhlari maqsadi hisoblanadidan ro'yxatlarini va ularning foydalanuvchilar himoya kirishi uchun to'siq joylashtirishumumiy savodsiz askarlarini tomonidan istilosi.
+		-- Ian Jackson
+
+%
+turlari xavfli qurol kabi ekanligini marketing his Ko'pchiligimiz - davom«Em tushirilishi va shkafi bahonasi va faqat ularni olibAgar ishni qilish kerak.
+		-- Craig Sanders
+
+%
+<Bang> cerb: biz moderator-kurashni Debian sizni obuna<Bang> cerb: ro'yxati qoidalari bor, 1) yo'q chiroyli elektron pochta, 2) hech uzr
+		-- Craig Sanders
+
+%
+<Teknix> mahalliy telco tan oldi, deb kimdir "a kirib qo'llab-quvvatladi         va "kalit tugmasini pastga butun ATM tarmog'i oldi<Netgod> umid qilamanki, endi routerlar yaxshi mo'ljallangan, shuning uchun "tarmog'i         "Off swtich orqasida bo'ladi
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: siz qachon {} MessagesLikeThisFromYourHardDrive<Overfiend> Thunder-: u yo vositalari {} TheDriverIsScrewy<Overfiend> yoki<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Apt> u redhat Marc Ewing kuni kiyib narsa ekanligini bildirdi qilindi      boshini.
+		-- Craig Sanders
+
+%
+<MrCurious> greyskull kuchi bilan<MrCurious> kimdir joylashtirish menga man aytib<Sopwith> mrcurious: * .debian.org, * .novare.net<PhilX> * .debian.org. bu ajoyib bo'ldi.
+		-- Seen on LinuxNet #linux
+
+%
+"Nimani bu Microsoft agar so'nggi dasturiy edi Bu? Menga aytingKompaniya AQSh aholisining 13% yog'sizlantirish bo'ladi, dunyoda qoldirganeski TRS-80, CPM mashinalari & Apple] [ 's oldin uchun garaj savdo va GoodwillUlar Microsoft sotib edi. Bu aniq bir qo'ng'iroq foyda yo'q. "
+		-- Seen on Slashdot
+
+%
+"Bryus McKinney, Hardcore Visual BASIC muallifi, deb e'lon qildiU hokazo bilan oziqlangan va uning kitobining 3-nashrini yozish qilinmaydi. TheEng yaxshi quote oxirida: "Men bir markazida tomonidan ishlab chiqilgan, bir tilni kerak emasguruh. "
+		-- Seen on Slashdot
+
+%
+Biz bir crontab kiritilgan <Cylord> u debian siyosati uchun maqbul bo'lishi kerak         yuboriladi kartoshka ichiga sukut bill.gates@microsoft.com         Xavotir olmang ", o'qib bir elektron pochta bilan har kuni ertalab, Linux bo'lgan         modaga ... "
+		-- Seen on Slashdot
+
+%
+* Overfiend u shunchaki o'zgartiradi bo'lgan asclock bir NMU, amaldagi tafakkur  kengaytirilgan bayoni "Agar menda raki va o'rtasida boshini qo'yish bo'lsa  Sizning oyoqlari, siz assclock off vaqt o'qishingiz mumkin. "<Doogie> Overfiend: yotinglar.
+		-- Seen on Slashdot
+
+%
+<Reed> Bu ta'kidlash muhim ekanligini asosiy sababi Rim imperiyasi       Muvaffaqiyatsiz Shunday qilib, ular eplolmadi ... ular nol hech tushunchasini edi, deb       ularning C dasturlarini muvaffaqiyat yoki qobiliyatsiz sinash.
+		-- Seen on Slashdot
+
+%
+bo'lsa debian maqsadi manfaatlarini bostirish uchun edi berivasıfsız iste'molchilar ommaviy? - Steve Shorter
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: ar, bu 2.2.0 paketlar 2.0.0pre9 yoki siz bor        xudolar bilan to'g'ridan-to'g'ri chiziq?<Netgod> joeyh: i to'g'ridan-to'g'ri chiziq bor
+		-- Seen on Slashdot
+
+%
+qog'oz paket tarqatishadi yotipti <_Anarchy_> Uzr .. 8)
+		-- Seen on Slashdot
+
+%
+atrofida <noqulay> hech kim?<Flav> yo'q, biz hammamiz tartibsizlik çokgenler odamsiz
+		-- Seen on Slashdot
+
+%
+<CULus> OH MY Alloh EMAS tasodifiy quote GENERATOR<Netgod> Albatta bu statik, deb o'ylayman didnt? bu qanday cho'loq bo'ladi? :-)
+		-- Seen on Slashdot
+
+%
+Mere yo'qligi bir narsa unseeable e'lon uchun zaif bahona bo'ladi. siz* * Ajdaho, ko'rish mumkin. Siz, faqat o'ng tomonga qarash kerak.
+		-- John Hasler
+
+%
+<Ohakli> gcc hech Linux ga ko'chirildi eng yaxshi kompressor hisoblanadi. Bu qo'yishingiz mumkin         a 500k yadro ichiga kernel manbai 12MB (va .debbed bo'lyapdi)
+		-- John Hasler
+
+%
+<Manoj> I * tovuq kabi *
+		-- John Hasler
+
+%
+ [] DOGBERT [2] Richard Stallman [3] Buffy qish [1] Manoj Srivastava [4] Yuqorida NONE
+		-- Debian Project Leader 1999 ballot
+
+%
+RedHat uchun dpkg bir versiyasi bor bo'lsa <Oryn> hech kim bilasizmi?
+		-- Debian Project Leader 1999 ballot
+
+%
+Acme-to'p (3.1415) beqaror; dolzarbligi = past  * Operator tashlanishi oldini olish uchun xavfsizligini Yükladi, yopiladi: bug # 98765,    bug # 98713, 98714 #.  * Manpage Yükladi. yopiladi: # 98725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! your Linux yordamida vaqt uchib! Doogie: *! 5 soniya ichida ha, cheksiz ko'chadan.! Teknix: *! Kimki 2.2.x bilan sinovidan qayta qildi?! Netgod: *! 4 soniya, ha endi
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Qorong'u kichik sariq qurbaqa bilan Denel salom yo'llayaptilar.* Denel qurbaqa o'padi va u go'zal Qani aylanadi soatlar  qiz, muzqaymoq, uni amalga oladi, va keyin abadiy baxtli yashaydi  u bilan<Qorong'i> Denel: Umm qaytib qurbaqa bo'lishi uchun kechikdik?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* CULus biz savdo namoyishlari borish va qancha odamlar ko'rishingiz kerak deb o'ylaydi  ularga Debian CD tashlab o'ldirish mumkin
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+ustiga <qorong'i> "Ha, sizning sha'ni, men bor RSA shifrlash kodi tattood mening        jinsiy olatni. Qilamanmi men sudlarning ko'rsatish? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Knghtbrd> odamlar barcha majnunsan.<Joey> Knight: biz Debian ustida ishlash, nima uchun ishonch, deb keldi.<JHM> Knghtbrd: ichki nutcase bilan aloqada olish.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<CULus> Saens 2.2.3 hech kam 3 TCP / IP xatolar namoyish
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Mercury> alexsh: Agar siz muvaffaqiyatsiz bo'lsa, qovurayapman mumkin, / JUDA / cairful bo'ling siz          Ona platalar ..<Knghtbrd> Mercury - o'yin-kulgi kabi tovushlar
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<RCW> qorong'i: kaldera?<Knghtbrd> RCW - deb, u bir la'nati bir tarqatish familiyada emas<RCW> Knghtbrd: u bir la'nati tarqatish bo'ldi
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Dastur bu bepul qachon u yaxshi, jinsi o'xshaydi. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Qorong'i> Knghtbrd: Biz whatevers bir poda bor.<Knghtbrd> qorong'i - Debianda? Jahannam ha biz!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Men u faqat sizni kızdırdın qilgan. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+dasturiy ta'minot Win95 yoki yaxshiroq zarur, shuning uchun men Linux o'rnatilgan.
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) yo'q 10, lekin u bir yaxshi qator kabi yangradi :)
+		-- Wichert Akkerman
+
+%
+Erik Raymond: Men dasturi so'rish emas, bir dunyoda yashash istayman.Richard Stallman: bepul bo'lmagan har qanday dasturiy ta'minot uchramoqda.Linus Torvalds: Men bepul pivo manfaatdor emasman.Richard Stallman: Bu kabi uzoq, men uni ichish shart emas, deb, okay bo'ldi. men                   pivo yoqtirmayman.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Men ... bir og'ir odam emasman - Bryus Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Men boshqa eshitsalar, chunki shaxsan, men tez-tez ijtimoiy farovonligi haqida gapirish emasodamlar men revolver uchun etib qachon o'sha, ijtimoiy farovonligi haqida gapirish.
+		-- Eric Raymond
+
+%
+Biz to'qqiz oyida tug'ilgan uchun yaxshi narsa bo'lsangiz, u holda jinsiy aloqa borsodir. Biz uchun ham maqbul va qiziqarli jinsiy aloqa qanday bo'lishi istaymanodamlar, kimdir mast cho'mish emas mehribon. ning ayrim xochni boraylikUrug'lanish emas, balki kimdir mast cho'mish.
+		-- Larry Wall
+
+%
+Biz hammamiz u 5 soniya ichida cheksiz ko'chadan qilsa ... Linux buyuk deb bilaman.
+		-- Linus Torvalds
+
+%
+YES! YES! YES! Oh Ha! (Ana, xolos, men Meg Ryan kabi tovush ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> I Slashdot uchun bepul dasturiy ta'minot haqida insholar yozishni boshlang bo'lsa,           meni otib iltimos.
+		-- Ian Nandhra
+
+%
+<RoboHak> hmm, tushlik yaxshi fikr kabi tovush yo'q<Knghtbrd> ham yaxshi fikr kabi tatib edi
+		-- Ian Nandhra
+
+%
+p.s. - I bilan server xonada atrofida yugurib yaqin * * Bu haqida emasmanbolt kurak juft va Maniac kabi kulib katta yog'och to'qmoq, vahamma narsani kesib i atrofida murvat to'xtatuvchidir mos mumkin. va judaqaysi i emas mumkin. Shunday qilib, men, albatta, faqat yarim mantiqsiz yoki ko'rinadi, agar chindan * * jirkanchBa'zida, meni mag'firat qiling. stress juda narsa emas. }; P
+		-- Phillip R. Jaenke
+
+%
+Microsoft biznes amaliyotlari haqida shikoyat har bir kompaniya shunchaki bir emasBush ko'tarildi. Ular chiroyli qarash va yaxshi hid. a omadli kompaniyasi dethrones bir martaMicrosoft ular ostidan tikonlarni fosh ularning barglari to'kilgan bo'ladi. Aboshqa har qanday nom bilan tikan kabi ko'p zarar edi.
+		-- Phillip R. Jaenke
+
+%
+Nimadir qilinishi kerakBu narsa emasShuning uchun, bu ishni kerak
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - u o'z dori off bo'lganda, Yoqub hazir bo'ling =>
+		-- The Thatcherite Syllogism
+
+%
+Befarqlik, albatta insoniyat vayron bo'ladi, lekin kim xayollariga keltirishmayapti?
+		-- The Thatcherite Syllogism
+
+%
+inson tentakligi kuchini qo'lingizdan.
+		-- Robert A. Heinlein
+
+%
+Gold, n .:  tarqatish nisbatan siyrak A yumshoq mayin metall. Bu kavlab olingan bo'ladi  keyin boy odamlarga ber kim kambag'al erkaklar tomonidan er yuzida chuqur kim darhol  oltin qilmagan bo'lsa-da, orqa katta qamoqxonalarda erdagi uni dafn  ularga narsa.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* Sozi vasila OPN eshak, bir virtual og'riq e'lon :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"Ular har ikkala faoliyat - Agar ularga etarli pul bergan bo'lsa, menular siz nima so'rasang, albatta, do'zax olaman ishonch hosil: -> "
+		-- David Welton
+
+%
+"Siz ahmoq bo'lish huquqiga ega. Bu huquqiga voz bo'lsasen va bu erda nima hamma narsa sizga qarshi bo'lib o'tadi. Agar olmaydi, agarkeyin kimdir tepishing tayinlangan qilinadi, bir iflos ishlar bo'lish to'xtatish uchun ko'zgaBu yerda sizniki erdan. "
+		-- Your rights as an irc addict
+
+%
+* Simunye u gen ning uning onalar bor, shuning uchun baxtli bo'ladiu ularni sog'inib oldin <Dellaran> yaxshiroq ularni qaytarib berish!
+		-- Your rights as an irc addict
+
+%
+<Iambe> sayyorada eng intellegent odamlarni litostatik oson emas
+		-- Your rights as an irc addict
+
+%
+Kaliforniya, n .:    ( "Kaloriyalar» ingliz tilida sifatida "issiqlik" degan ma'noni anglatadi, Lotin "Calor" yokiIspaniya "Caliente"); va "jinsiy aloqa" uchun "Kaliforniyada" yoki"Zino". Shuning: Tierra de Kaliforniya, "issiq jinsiy aloqa er."
+		-- Ed Moran
+
+%
+* Caytln Lisa ursa<Caytln> catfight: P<LisaHere> Men bu kabi, qiz uni tomosha.<LisaHere> :)<Caytln> raqamlar: D
+		-- Ed Moran
+
+%
+<MFGolfBal> rit / ara: UNIX haqida, albatta, telba bir narsa bor            ichki kiyimlar ...
+		-- Ed Moran
+
+%
+X Window tizimi:  standart UNIX grafik muhit. Linux bilan, bu odatda  XFree86'nın (http://www.xfree86.org). Siz uni X, XFree, X qo'ng'iroq mumkin  Oyna tizimi, XF86, yoki boshqa narsalar bir mezbon. "XWindows« Uni qo'ng'iroq va  kimdir sizga ifloski bo'ladi va siz uni munosib bo'ladi.
+		-- Ed Moran
+
+%
+<Knghtbrd> "valyuta kollektorlar bilan aloqa bor." "Men-da yuborishdan qilyapman           o'rta kaplinler. Agar biz bosqichi manifold biz qayta-tekislang           plazma indüktör matrisi qo'lda uchun foydalanish imkoniyatiga ega bo'lishi kerak           Yangi yoqimsiz kompaniya qator ishga tushirish. "* ShadwDrgn nolalar<Bosqich> yolg'iz mening manifoldlardan tark<Bosqich>!
+		-- Ed Moran
+
+%
+* Turkmanistonlik oz bolalar especialyy qachon ... albatta, yaxshi, deb o'ylashadi  ular bir jon odamsiz.
+		-- Ed Moran
+
+%
+* Overfiend nolalar<Overfiend> Netscape uchramoqda.<Overfiend> Bu uyasida bir to'shakda dam kartalar uyi.<Espy> zilzila paytida<Overfiend> a tornado
+		-- Ed Moran
+
+%
+<SilverStr> media axloqiy ko'p Kelin qisqichbaqalar va shunga o'xshash, bir oxymoron hisoblanadi            Microsoft ishlaydi.<MonkAway> NT xavfsizlik emas, balki so'z
+		-- Ed Moran
+
+%
+<Silvrbear> Oxymorons? Men bir kecha ko'rdim - Taco Siyohdondagi "haqida kitobcha            Oziqlantirish Axborot "
+		-- Ed Moran
+
+%
+* Knghtbrd double og'izli snurf qurol va qovoqlari bir juft yuzaga chiqaruvchi  snurf tortish bilan Iso<Iso> Meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> doogie: Agar juda beqaror :-) tovushni<Knghtbrd> jgoerzen - u emas.* Doogie Knghtbrd bops<Knghtbrd> ko'rish? = D zo'ravonlikka murojaat
+		-- Ed Moran
+
+%
+Men ham ShHT emasligini anglab buyon katta Unix fan bo'larUnix. - Dennis Beyker
+		-- Ed Moran
+
+%
+<Dracus> Ctrl + Option + Buyruq + P + R<Knghtbrd> dracus - ga Gods! Bu Emacs ortiq yomon!<LauraDax> hehehehe<Dracus> deb nima so'ramayman: P
+		-- Ed Moran
+
+%
+<Iambe> Agar nutcase emas<Knghtbrd> Siz, albatta, hali meni yaxshi bilmayman. =>
+		-- Ed Moran
+
+%
+* Aj Kb ^ Zzz ortiq orzu turli narsalarni terishga kerak deb o'ylaydi   qarorlari va siyosat o'zgarishlar umumiy.<Kb ^ Zzz> aj - bu haqda menga ayt, bu bir yomon belgi hisoblanadi
+		-- Ed Moran
+
+%
+<Crow_> hmm, Exim uchun --now-Jin ursin variant bor?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: Dark Side, Young One JOIN.<Kira> Darth, men * emasman qorong'i tomoni *.
+		-- Ed Moran
+
+%
+<Netgod> Feanor: u Amerika qonun stupidty chuqurligi, hech yo'q ekan
+		-- Ed Moran
+
+%
+a yo'lning o'rtasida beriladi hech kim menga roadkill kabi ko'rinadi.
+		-- Linus Torvalds
+
+%
+<Sozi> "INTELLEKTUAL huquqlarini hurmat QILING!"<Sozi> "aql namoyish qiling." ;)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Feanor - litsenziya masalalar muhim ahamiyatga ega. Biz tomosha bo'lmasa bizning           eshaklar endi, kimningdir gonna kelib va ​​keyinchalik bizga tishlab ...
+		-- Linus Torvalds
+
+%
+"Endi biz sizni o'ldirish kerak."
+		-- Linus Torvalds
+
+%
+* Knghtbrd allaqachon mumkin tutmoqdamiz: "Mavzu: [MAQSADI taklif tayyorgarlik   Xatoliklar hisobotini topshirish] siyosati hujjatda Typos "
+		-- Linus Torvalds
+
+%
+<Netgod> heh to'g'ri talaffuz kabi, yo'qolgan sababini thats         "Zargarlik"<Netgod> :-) uni berish<Mavrak> va "rangli" to'g'ri imlo :)<Bang> heh<Mavrak> va alyuminiy<Bang> yoki yadroviy qurol<Mavrak> Menga Yanki tahdid qilingan?<Mavrak> Biz bomba yo'q, faqat sababi ...<Bang> qaytarib ya sariq qornida off
+		-- Linus Torvalds
+
+%
+<LauraDax>! Ko'rgan iloh<Tabi-> LauraDax, men "iloh" ko'rib esimda yo'q
+		-- Linus Torvalds
+
+%
+<Kira> Agar xorijiy qo'shinlar burun ish o'rinlari berish borib bir jarrohlik urush bo'ladi?
+		-- Linus Torvalds
+
+%
+<Xtifr> Afina Desktop Environment! qalblaringizda, siz * * Bu bilaman        to'g'ri tanlov! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+<Knghtbrd> shaleh - harom, faqat g'alati bo'ladi.<Espy> heh, harom salqin<Knghtbrd> Espy - va g'alati.<Espy> ha, g'alati ham
+		-- Linus Torvalds
+
+%
+<Xtifr> to'g'ridan-to'g'ri miya Tanaga :)<Knghtbrd> xtifr - Rabbano, keyin yordamida kompyuterlar aslida talab ba'zi           Bu ovsarlar o'ylab!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - btw, biz kashf ayting keyin X 1,4 gigabayt barcha oladi           qurish, siz tayyor X bloatware ekanligini tan? =><Overfiend> KB: mening javob 16 daqiqa 1/2 GAP bor<ACF> knghtbrd: dalil X faqat * 2 * yomon oyna ekanligini mavjud      tizimi;)
+		-- Linus Torvalds
+
+%
+<Denel> damn, avtonom sichqoncha harakati Men odatda foydalanish keyin boshlanadi      sichqoncha tugmasi<Wichert> so'ngra sichqoncha tugmasini ishlatmang :)<Denel> ha, to'g'ri :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Bilasizmi, Linux Tux bosh rollardan bir platforma o'yin kerak<Knghtbrd> kinda Super Marioish, lekin oz kiber kabi Tux va narsalar bilan           hashorat va borgs va bu narsa ...<Knghtbrd> Va o'tgan billgatus sakrash va uni tomchi kaliti urish kerak           lava ichiga va keyin bir RMS kabi ko'rinadi, ba'zi odam ko'rish           yoki kimdir menga Tux qutqarish uchun rahmat, lekin Linus "deb           Torvalds boshqa qal'a bo'lgan! "
+		-- Linus Torvalds
+
+%
+Bu 2.3.1 sanab bo'lyapdi nega <Thoth_> Ha, yaxshi, deb u biz uchun ekan ... bo'ldi         kim NT-kabi uptimes sog'indim
+		-- Linus Torvalds
+
+%
+<Shinobi> Perl yomonroq narsa bor .... ASP aqlga keladi
+		-- Linus Torvalds
+
+%
+* M2 u hamburger kabi ko'rinadi ... monitor qaradi ...<Knghtbrd> m2 - deb yomon alomat
+		-- Linus Torvalds
+
+%
+<Knghtbrd> procmail "kichkina" qo'ng'iroq qilish Manoj uni qoldiring
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: yaxshi, i kabi narsalar tushuna olmayman "s / 3 # $% ^% {]] [f245 @}"<Manoj> Crow: Bu ;-) juda huquqiy emas<Knghtbrd> Manoj - bir huquqiy "{]] [f245 @} s / 3 # $% ^%" qilish qanday           baribir? (Va u nima bo'lardi? Hehe)<Manoj> Knghtbrd: S /// ifodasini tugatish kerak.<Knghtbrd> oh, barcha, deb?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, milspec yozma faqat til.<Mikster> <seskantirib yuborgan>
+		-- Linus Torvalds
+
+%
+<Bang> -include ../../debian/el33t.h<Bang> sendmail ... Build g'alati header nomi :)<Isildur> hahaha* Netgod laffs<Netgod> bang: u i sendmail saqlab qolish uchun ishlatiladi aytishim mumkin? : P<Bang> heh :)
+		-- Linus Torvalds
+
+%
+<Bosqich> hech ... Men yana qahva musn't !!! ;)<Simunye> ishonch yu :) bosqichi nima<Bosqich>, albatta, siz meni ship off otiluvchi istaysizmi?<Simunye> yesh :)<Kira_> shiftga off otiluvchi gewd bo'ladi<Bosqich> ok, deb bema'ni savol edi<Kira_> u muammo qavatda splatting bo'lyapdi.
+		-- Linus Torvalds
+
+%
+<Kensey> Prezidentligiga RMS'yi ???<RelDrgn> ... yoki ESR, u yangi ish istaydi;)
+		-- Linus Torvalds
+
+%
+Oh yo'q, balki yana.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> To'g'ri, RMS mutaassib, men bu inkor etmayman. Men hatto aytish olaman           u vaqt eng eshak, bir shoh og'riq bo'ldi. Lekin, u,           tez-tez to'g'ri emas qaraganda hali, u ba'zi darajasini munosib           kredit va uning ish uchun hurmat. Biz bu yerda, bugun bo'lmaydi           Usiz.
+		-- Manoj Srivastava
+
+%
+<Espy> ertaga ishchi kuchi katta tashvish bor bo'ladi
+		-- May 18, 1999
+
+%
+Men Borg of Dyslexic emasman. Sizning ass qatlamli bo'lishi uchun tayyorlang.
+		-- May 18, 1999
+
+%
+<NeonKttn> I o'rta beacuse I davrida uning dolaba meni yopishib bir do'stim bor edi           uning erkak do'sti old sevişme haqida bilgan, deb ishonaman emas edi ...<NeonKttn> I olib popcorn Shoulda. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> ushlab wussies uchun<Topher> kompyuter dasturi ro'yxatlari .... keyingi, adabiyot haqida
+		-- May 18, 1999
+
+%
+<Kceee ^> I foydalanuvchilarni nafratlanaman<Knghtbrd> da, bir sysadmin kabi tovushni!
+		-- May 18, 1999
+
+%
+<Change_m2> Will LINUX hech # 1 yutug'i sifatida to'g'ralgan non yetib            insoniyat?
+		-- May 18, 1999
+
+%
+<Aph> Manoj xato tuzatish yurish yong'oqni bo'ladi! woo!<Knghtbrd> Manoj uzoq vaqt oldin yong'oq ketdi. lekin xato tuzatish> = salqin
+		-- May 18, 1999
+
+%
+<RCW> o'sha ko'rinishiga ko'ra,-bakteriyalar kabi rang-barang qurtlari chiqib      Microsoft backorifice<RCW> deb BackOffice logo bo'ldi
+		-- May 18, 1999
+
+%
+* Simunye bir oc3-> oc12 haqida<Daem0n> simmy: meni tishlab. :)<Simunye> daemon: okay :)
+		-- May 18, 1999
+
+%
+<Overfiend> sozi: yaxshi, keyin siz ehtimol bir mas'ul mutafakkir bor.            juda kichik klubi xush kelibsiz.<Sozi> Overfiend: ishtirok etish qachon meni kutib :)
+		-- May 18, 1999
+
+%
+Asosan, men odamlar ikkilik-faqat Module foydalanish qachon bilishni istayman,ularning muammo. Men odamlar o'z Suyaklarda bilishni istayman, va menBu uylarning tomlariga chiqib baqirdi istayman. Men odamlar bir uyg'onish istaymansovuq ter har bir marta, bir muncha vaqt ular ikkilik-faqat Module foydalanish kerak.
+		-- Linus Torvalds
+
+%
+* Wichert_ bir qilish vazirligi holda usta xayol<Jeyms> wichert: Ehm? deb BTS of peformance to'sqinlik mumkin: p
+		-- Linus Torvalds
+
+%
+<Gecko> Hmm ... Men qolgan Debian'ı seperates yana nima hayron        Linux tarqatish.<Knghtbrd> Gecko - Biz Suck qilmang<Gecko> Knghtbrd: Agar odamlar bir guruh hal qilishda demaymiz        o'sha dağıtımların FROM<Knghtbrd> Gecko - nuqta.
+		-- Linus Torvalds
+
+%
+Tufayli XFree yopiq manba rivojlantirish modeli uchun mumkin emasoldindan yoki beta versiyalar haqida xususiyatlari taxmin qo'llab-quvvatlash, yoki hattoXFree of.
+		-- Marcus Sundberg
+
+%
+>> Men, albatta, yo'q, bir texnik hujjat sifatida Muqaddas Kitob-O'ZMK-matn munosabatda,>> Lekin ... :)> Bu qo'lda ekan - tirik uchun.Lekin u uzoq vaqt yangilangan qilinmagan, ko'p u ekanini aytishimAfsuski sana va yuqorida turgan maintainer chiqib javob bermaydi, uningelektron pochta. :-)        - Bir yilda Branden Robinson, Oliver Elphick va Chris Waters           Debian-siyosatiga xabar
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> foydalanuvchi = ID10T biror joyda kerak odamlar poda deb o'ylashingiz mumkin!
+		-- Marcus Sundberg
+
+%
+<Slashdot> mening AQSh geograpy lol ... dahshatli<Knghtbrd> shunday meniki va men bu erda yashash
+		-- Marcus Sundberg
+
+%
+xulosasiga holda Moonchild? Shayton ertaga ishlashni skating bo'ladi!
+		-- Brett Manz
+
+%
+<Knghtbrd> men, albatta, bir ... ko'p barcha Just a mehribon so'zni istamayman           jozibador ayol va UNLIMITED BANDWIDTH !!
+		-- Brett Manz
+
+%
+biz ham haqsiz bo'lsa <Knghtbrd> I Juda Happy emasman (I, biz taxmin qilyapman).* Minupla siz yil mukofoti understatement topshirdi.
+		-- Brett Manz
+
+%
+boshqa inson emas, balki bir edi bilan oxirgi marta men yaqin aloqada edialamli tajribasi ... Men emas, balki ... u yoqdi;)
+		-- Brett Manz
+
+%
+<Apple_IIe> Kimki mening 80 ustun karta ko'rgan?
+		-- Brett Manz
+
+%
+<Slackware> uh oh, men boshlagan ishni bor :)<Debian> rofl ... Distro nick urushlar.* Slackware faqat nick Gnome / uchun / nick KDE, keyin jahon urushi 4 kutadi   chiqish uchun<WinNT>: o'p<OpenBSD> <o'rdak><PalmOS> :)<Slackware> / nick RedHat jur'at edi no'one<Tru64> mew.
+		-- Brett Manz
+
+%
+<Crow-> im fcucking druk* Knghtbrd hamma narsa Crow- bugun deydi kirish uchun ishonch hosil qiladi ...<MrBump> Heheh<MrBump> U menga turmushga edim dedi! jin ursin!!<Crow-> hech qanday yo'l dude<Knghtbrd> MrBump - u mast emas<MrBump> Knghtbrd: Men ezib qilyapman: o)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> IT to'xtatishga!<Knghtbrd> IT to'xtatishga !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - okay, patch singan, lekin mening miya emas           tashqi ko'rinishiga ko'ra<WC> yangi narsa (ekan;<Knghtbrd> WC - hush.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+<DPG> amerikaliklar g'alati bo'ladi ....<Xtifr> Kaliforniyalılar ham weirder<Knghtbrd> xtifr bir nuqtaga ega ...
+		-- Brett Manz
+
+%
+* Woot serenely kuladi.<Woot> I knghtbrd yillarning olish to'g'risida istaydi ustidan ko'rinadi istamayman       siglist.
+		-- Brett Manz
+
+%
+<CULus> DHD: maxfiy debian tuzilishga R siz qismi?<DHD> no. Hech kimga sir Debian tuzilishga bor.<CosmicRay> Endi kimdir uni olib kelgan, uning bir yarataylik, bo'lsa-da,            :-)<Knghtbrd> CosmicRay - nima uchun, o'tkazish uchun qiziqarli tarzda kabi tovushlar           tushdan keyin = D
+		-- Brett Manz
+
+%
+<Xtifr> Bu erda ishlashni jinni bo'lishi shart emas .... Ah ha qilayotgan, kutish!        :)
+		-- Brett Manz
+
+%
+* O-o, u, albatta, aniq nima bilar edi, chunki har doim debmake kabi ...<Bundagi> o-o: Agar edi ;-)
+		-- Brett Manz
+
+%
+2.3.1 ozod etildi. Bu o'yin uchun yangi xalq unutmang2.3. * Xabarlarini yo'q kafolatlari bilan, rivojlanish yadrolari bor ular bubuzuq kabi dahshatli bir narsaga sizning tizimini sabab bo'lmaydi uningDisklar, catch olov, yoki Mindcraft mezonlari chiqa boshlaydi.
+		-- Slashdot
+
+%
+{nima    :} Esa (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * echo "... Linux faqat modaga bo'lgan" | mail billg@microsoft.com -S = "Va eslayman ..."
+		-- Slashdot
+
+%
+<Hop> kb: Men i bilan ish qilguvchilarni ham yaxlitligini va halollik talab<Hop> i, u, bir yigit orzu mumkin mumkin emas, mening talablar asossiz bilaman, lekin?
+		-- Slashdot
+
+%
+<Jgoerzen> Stu: bu mashina ahh. Agar biror narsa nomidagi deb o'ylamayman           Stallman bir Alpha bo'lishi loyiq? :-)<Stu> jgoerzen: yo'q, aslida, men ish prolly bir 386 nom ko'proq moyil bo'lar edim      4 qo'chqorning megs va 40 meg qattiq disk Stallman bilan.shovqin tonnani tashkil qiladi va polni çıngıraklar katta semiz holda bilan <Stu>* Knghtbrd kulib uning qirralarini o'tkazish qavatga tushib<Stu> va ..<Stu> ikki balandligi qattiq disk
+		-- Slashdot
+
+%
+Klingonca funktsiya murojaatlarni »parametrlarni" yo'q - ular «dalillarini" bor
+		-- and they ALWAYS WIN THEM.
+
+%
+* Knghtktty qovoqcha muhokama tushib qanday so'rash qilmoqchi emas ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Mavzu: [GR taklifi] Biz arzimas masalalar bo'yicha ovoz berish kerakmi?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Woot> qo'ying * senga o'sha * .sig va, Knghtbrd tutun.<CULus> Siz u bu o'qib bilaman:><Woot> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Hayot yo'li safardagi kabi bir berishni har hozir va keyin bir daqiqa olishBoshqa sherigidan uchun o'yladim. U narsa chizmachilik mumkin. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Okay, odamlar BSDM ilovalar haqida gapirish boshlandi           tarmoq apparat ... Men qochib olaman, deb o'ylayman va foydali biror narsa           va Debianish va bu biri OUT qolish ...<Knghtbrd> (a o'zgartirilganda)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - Debian ba'zi juda ahmoq bo'lmagan deb o'ylayman va           oldin ochiq-oydin bugsBiz ozod OLDIN <Knghtbrd> albatta, biz odatda = D bizning tuzatish
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - Men Debian developer emasman. Red Hat "dushman" yoki           deb o'ylayman, bu kabi bir narsa .. Shunday bo'lsa-da, typecasting RH foydalanuvchilar           ahmoqlar yoki ularning tarqatish kabi butunlay sukut singan           to'liq va umumiy FUD hisoblanadi.
+		-- Hagar the Horrible
+
+%
+>> Lekin IANAL, albatta.>> IANAL yo. O'g'lim, lekin men so'radim, agar men javob I olish mumkin> Eshitish istamayman."Mana, mening faktura ekan." ? = D
+		-- Hagar the Horrible
+
+%
+> OK, men siz :-) nima qilyapsiz bilaman ko'rishYoki u yoki men uni qalbakilashtirishda da juda yaxshi olgan ayting.
+		-- Hagar the Horrible
+
+%
+<Wichert> 8 am bir ungoldly soat uyg'oq :) bo'lish* Gorgon odatda 11 turib
+		-- Hagar the Horrible
+
+%
+No Cabal bormi.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> ACF: ehtimol Aprel 1, kelgusi yil Slashdot "Rob Malda ishlatish kerak            "Debian loyihasi rahbari sifatida yangi ish qabul 8)
+		-- Hagar the Horrible
+
+%
+* Netgod uning pochta qutisiga ochadi va darhol u hadnt istasa
+		-- Hagar the Horrible
+
+%
+<Frogbert> uning qattiq dillardagi withoutn lezbiyen bo'lish ... xalq olish dont           Agar jiddiy
+		-- Hagar the Horrible
+
+%
+Balki Debian o'rniga texnik mukammallik haqida ko'proq manfaatdor bo'ladidasturiy ta'minot buzib foydalanish qulaylik. Sobiq biz excel mumkin. Inikkinchisi, biz Microsoft maydonini tan kerak. Men borishni istayman qaerga Guessbugun?
+		-- Manoj Srivastava
+
+%
+* PerlGeek, albatta, bir kosmik begona* Knghtktty PerlGeek hisoblaydi
+		-- Manoj Srivastava
+
+%
+<Netgod> mening mijoz jiddiy egalik qilingan<Netgod>, bu odam, ildiz bor paketi snifferlar, o'rnatilgan .rhosts yugurib boriborqa eshiklar, bir bor, deb nomlangan / lib / "" bir butun yangi dir qo'yishSmurfing va o'ldirish vositalari to'liq suite<Netgod> faqat xato log fayllarni o'chirishga emas edi<Netgod> savol root botirlik qilib, men u aytib bo'lmaydi, deb<Netgod> u emas, debian box, albatta, bo'ladi* Netgod Debian box hacker tomonidan bokiralikni tark yagona qayd
+		-- wonder why
+
+%
+* Joeyh CVS uning uy-kat qilgan. aaaaaa<Drow> eeeeeeek<Drow> joeyh: Bu shunchaki yomon. Davr.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: UFies yuqorida va inson irqi bo'lmaslar :)
+		-- wonder why
+
+%
+Men dpkg of xato ro'yxatda hech narsa topishga harakat qilish juda uzoq vaqt oldin to'xtatiladi.Biz Ginnesning rekordlar kitobiga kirishi uchun bir ishga tushirish kerak.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> i 17G etarli oughta o'yladim.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> / usr / bin / Emacs hali / etc / shells topshirildi? : P
+		-- Stephane Bortzmeyer
+
+%
+* Joeyh yopish uchun blokirovku qilishga Netscape'ning ajoyib qobiliyati foyda oladi        bir basışla 10 windows<Joeyh> endi taraqqiyot ekan!<Knghtbrd> avtobus xato =>
+		-- Stephane Bortzmeyer
+
+%
+<Cinas> Siz "sekundiga belgilar" sizning vibratörlerin o'lchash? menda borsiz uchun yomon yangiliklar, C90, siz bilan onanizm aytingdot-matrix printer.
+		-- Stephane Bortzmeyer
+
+%
+Hi! Men bir .signature virus emasman! menga sprea yordam uchun ~ / .signature meni nusxa =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty derleyiciler va shirin haqida Thyla uchun hech narsa (narsalar vasvasa            grafik va qo'chqor yuksaltirish va katta qattiq disklar ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: bag'oyat pornografik ekan ...* Thyla jazavaga johillik ichiga off ketadi ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> Siz bolalar, barcha kasal bor! I YA aytib kasal kasal kasal;)
+		-- Stephane Bortzmeyer
+
+%
+* BMA bir siltash emas* Knghtbrd bir Knghtbrd bo'ladi* DHD, shuningdek, bir siltash emas* Espy yomon* Knghtbrd topmoq hisoblaydi
+		-- Stephane Bortzmeyer
+
+%
+* BMA ajoyib, agar bu Knghtbrd .sig qiladi
+		-- Stephane Bortzmeyer
+
+%
+Texnik echimlar ovoz berish masalasi emas. AQShda ikki qonunchiligidavlatlar deyarli etaveradi, Pi ning qiymati aniq, 3.14 bo'lishini qaror qildi. mashhur ovozto'g'ri hal etish uchun qilmaydi.
+		-- Manoj Srivastava
+
+%
+<Aj> <Knghtbrd> jinoyat dalolat dunyo bo'ylab keskinlik (o'sish<Aj> va bu muddat mobaynida whatnot) Linux juda o'xshaydi,1993 yildan beri <aj> o'sish<Aj> `` Linux dunyo bo'ylab jinoyat epidemiyasi bilan bog'liq !! ''
+		-- Manoj Srivastava
+
+%
+<Torlari> qaerda Men va men bu handbasket nima qilyapman?
+		-- Manoj Srivastava
+
+%
+Bu ma'lumotlar bazasi foyda uchun ishlatiladigan emas, chunki butun ishlari emas, va buyonBiz uni tushunish sifatida chop, u, adolatli foydalanish ostida tushadi. Biroq, agar biron-biryarim assed ahmoq bu off foyda qilish uchun qaror, ular uchun kerak bo'ladiikki marta uni hamma tekshirish ...
+		-- Notes included with the default fortunes database
+
+%
+nonushta istaydi bir mushuk hech qanday takrorlash tugmasi bor.
+		-- Notes included with the default fortunes database
+
+%
+Mavzu: Bug # 42432: debian-siyosati: isboti uchun loyihasiga uchun ctv uchun taklifia ctv uchun ctv uchun taklif taklif loyihasiga uchun tushunchasi haqida qaror qabul qilishbiz CTV ega shoud yoki yo'qligini ustida ctv uchun ctv uchun taklif/ Usr / share / doc o'tish / usr / doc endi, yoki keyinroq.
+		-- Ed Lang
+
+%
+<Knghtbrd> Bu bir kishi uchun bir trekbol bo'ldi<Wichert> u kemiruvchi emas, shuning uchun<Wichert> u to'p chiqib turgan bir tezak bo'ldi<Wichert> doimiy silash qaysi
+		-- Ed Lang
+
+%
+* HomeySan ko'rsatish Papa Ioann pizza kutadi<Ravenos> mm. Papa Ioann.<HomeySan> umid qilamanki, ular yoqimli yetkazib berish haydovchi yuborish<Ravenos> ular bu erda yo'q.<Dr_Stein> Nima uchun? Agar gonna o'rniga haydovchi eb?
+		-- Ed Lang
+
+%
+<Netgod> u meni emas, yoki Knghtbrd horlama bo'ladi?<Joeyh> ular knghtbrd halok!<Netgod> Kysh: wichert, Gecko, joeyh, va men bir xonada bo'lgan e'tiborsizlik harakat          Knghtbrd<Kysh> netgod: Knghtbrd e'tiborsizlik qiyin.
+		-- Ed Lang
+
+%
+<Woot> Man, i, uning Sig ro'yxatiga uchun qatnashdi uchun shu yerni edi knghtbrd tilayman.[... Bir necha soat o'tib ...]<Knghtbrd> woot yaxshi vewy meni bilmayman, u nima?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd NERF tortish bilan wichert terilari* Wichert yo'q ICBM nerfs hali bor va kngtbrd mensimaydi qayd<Knghtbrd> wichert - faqat, ICBMs NERF gatling qurol ko'rib, kutib turing           uzoq (faqat bir soat yoki ikki la'nati narsa urishi emas           barcha ...)
+		-- Ed Lang
+
+%
+Operatsion tizimlari O'rnatilgan:  * Debian GNU / Linux 2.1 4 CD sozlash (www.chguy.net dan $ 20; narxi ichiga oladi    soliqlar FSF uchun, yuk va $ 3 ehson). 2 CD ikkilik,, 2 CD bo'ladi    to'liq manba kodi;  * Windows 98 Ikkinchi Versiya Megadepot.com orqali Version ($ 136 oshirish,    narxlari) soliqlar / Yuk tashish o'z ichiga olmaydi. Ajablanarlisi shundaki, hech manba kodi    o'z ichiga oladi.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Bu tagline o'g'irlash. Men bajardim.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> Noooo oh, Knghtbrd ning qurol bor :)<Doogie> ^^ musiqa joylashtiring ^^<Knghtbrd> bfextu - o / ~ hamma ishga tushirish, u haqida / ~<Bfextu> o / ~, qochib haqi-ay-Ayn yuz ruuuuun o / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Mercury> Emacs emas, balki bir haqorat, faqat bir o'tilganlik sanasi deb so'zma-so'z, uchramoqda uning          sezilarli tortishish kuchi bor, etarlicha katta ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+a kompyuter kabi, men kulgili texnologiya bo'lgan imoningizni topish.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Knghtbrd Chris 3 uradiboshqa menga qo'yib Chris nomlangan * o'zgaruvchan ajoyibotlar<Knghtbrd> o'zgarmaydigan - siz. =>* Knghtbrd keskin aytish o'zgaruvchilar uchun kutadi "Men SO ishlatiladi his!"<O'zgaruvchilar> Knghtbrd: :)* O'zgaruvchan ++<O'zgaruvchi> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy men do'zaxga --to dupload, albatta, mumkin, shuning uchun "do`zah" deb nomlangan bir uplad dumi tafakkur
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> java, Hon, ba'zan men, albatta, sizni ifloski istayman.<Knghtbrd> Valkyrja - u juda ko'p bahramand bo'lardim<Reteo> Valkyrja: Rabbano, o'rta shakarli kirib java mag'lub ... oldinga borish va buni! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Omad> bo'lishi vewwy vewwy qwuiet .. Men Huntin wuntime ewwos
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Red Hat Xavfsizlik maslahat (: 030-01 RHSA-1999) ozod yaqinda qildivixie cron To'plamga bufer toshib qamrab. Debian egaIkki yil oldin bu xato kashf va uni belgilangan. Shuning uchun ham versiyalariham, barqaror va beqaror, Debian tarqatish emasUshbu muammo uchun zaif ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Birinchi off - Quake shunchaki ajoyib. Bu siz necha marta o'ldirish imkonini beradiholda ofisida bosh murabbiyi hibsga oshirilmoqda. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Lukas qonun: yomon _stupid_ yollaydi, chunki yaxshi, har doim, g'alaba qozonadi             muhandislar.
+		-- Signal 11, in a slashdot comment
+
+%
+* TribFurry faqat UCSD dan spam mail oladi ... Men Email olish uchun ishlatiladigan            o'zim, lekin men o'zimni yoqmadi qaror va gapirishdan to'xtadi	    menga
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> a dorm onini eslatma ... "mazmunini eb shaxs uchun            "Jeyms» etiketli konteyner - ogohlantirish, bu mening biologiya bo'lditajriba "
+		-- Signal 11, in a slashdot comment
+
+%
+a Chem laboratoriya kuni <KatanaJ> Eslatma Bu sovutish explosion- emas "fridge-          dalil ".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DALnet ARM Maxsus Olimpiada o'xshaydi. ko'p bor ekan           drooling qilar 'va har bir bo'lib, «g'olib».
+		-- Signal 11, in a slashdot comment
+
+%
+Lekin o'zgartirish dpkg chidamli, biz boshqa narsalar orasida, rozi ayting,ongimizda muhim mavqega ega, biz foydalanuvchilar ehtiyojlarini tutish. Va birfoydalanuvchining istiqbolli, normal yilda ozoda tizimini tutadi narsaishi va, endi * * a kabi idealistik xayol ancha yaxshiroq bo'ladi ishlaridpkg ish.
+		-- Manoj Srivastava
+
+%
+Har vahiyda uchun teng va qarama-qarshi qayta ko'rib chiqish bor.
+		-- Manoj Srivastava
+
+%
+biz lameass tanbeh bo'ldim, agar <Epsilon3> Knghtbrd, biz aytgan bo'lardi:           neckro, Hey
+		-- Manoj Srivastava
+
+%
+<Tigah _-> i / tmp uchun 4GB bor<Knghtbrd> Agar 4G / tmp bilan nima qilasiz? X kompilyatsiya?<Tigah _-> ha
+		-- Manoj Srivastava
+
+%
+<KnaraKat> meni tishlaydilar.* TheOne ba'zi tuz oladi, keyin KnaraKat bir oz ustida emoqchisiz davom         bit ....
+		-- Manoj Srivastava
+
+%
+* Knghtbrd u miyasiga bugun kartoshka pyuresi qildi qayd<Valkyrie> yum, men ba'zi bo'lishi mumkin?<Knghtbrd> um ...* Knghtbrd Valkyre dan maxfiy qilsangiz
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> joeyh endi divanda bir terminali bor?guy simli hisoblanadi <Knghtbrd> Bu, I> = qasam<Doogie> Knghtbrd: Laptop<Doogie> va men mushuk, degani emas.
+		-- Manoj Srivastava
+
+%
+so'nggi iplar ayrim hisobga olib, interaktiv munozaralar mumkinesa, bir hakam huzurida, Tuval ustiga o'tkazilgan kerakyostiqli qo'lqop kiygan. ;-)
+		-- Phil Hands
+
+%
+<Jeyms> lekin, keyin men bir Atari ishlatiladi, men lotereyada g'olib ko'proq edi        bir vaqtning o'zida X jadal olish o'n mamlakat
+		-- Phil Hands
+
+%
+hamma uning qanchalik baland bo'yli bilishni istaydi nega * joeyh hayron<Jeyms> joeyh: Bu mergan yordam beradi
+		-- Phil Hands
+
+%
+U teh X maintainer oldin 3.3.5-1 uchun baland nega * bang hayron
+		-- Phil Hands
+
+%
+Men otishib bo'lardim oldin <Delenn> I 24 soat orqali hosil qilmaydi         grill va Barbie bir necha do'stlar urib.Agar Barbies bilan do'st mag'lubiyatdir edi Nima uchun <spacemoos>, kinda kinky thats
+		-- Phil Hands
+
+%
+Aslida .. NSA va nima bu modelga asoslangan ... ko'p emasbu o'qish odamlar ... / NSA a'zolari hisoblanadi. Yangiliklar »afterall bo'libIlmga qiziqqanlar.qahva mashinasi da NSA Dushanba kuni ertalab {):NSA AGENT 1: Hey guys, siz hafta davomida Slashdot nazorat edi?    AGENT 2: Yo'q, men Mandrake 6,1 o'rnatishdan edi va men la'natlay olish coulnd't             PPP ulanish up ..    AGENT 1: Xo'sh, uni nazorat ... ular bizga odamsiz.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Technology ishlab chiqaruvchilar o'rtasida constand jang katta ishlab chiqarish vayana ahmoq-dalil tizimlari va tabiat katta va yaxshi ahmoq ishlab chiqarish.
+		-- Slashdot signature
+
+%
+knghtbrd: yo'q qoshiq bo'lishi mumkin, lekin siz ham zaifligini nuqta bo'lishi mumkineye_render_shiny_object.c?
+		-- rcw
+
+%
+<Joy> wow ... oddiy matematika Debian chiquvchilar ko'proq yopiq, deb ko'rsatadi      dan * 31 * * * ming bug ma'ruzalari BTS mavjud beri!Microsoft ko'ra 30999 ko'pdir <Joy>;)
+		-- rcw
+
+%
+Yuqorida faqat AN fikri bo'lib bo'lmasligi kerak <Knghtbrd> EslatmaHaqiqiy Har qanday ma'lumotni o'lchovi bor qilinishdi. THE           SPEAKER har narsa va har rad etadi. U bilan shug'ullanish.
+		-- rcw
+
+%
+<Jeyms> har qanday gnome atrofida qattiq tashvishga?<Knghtbrd> men emas, men faqat bir freak emasman
+		-- rcw
+
+%
+<Madax> ahh<Madax> geeks bir yig'ish ....<Madax> I endi uni hidi mumkin
+		-- rcw
+
+%
+<Knghtbrd> Oyna Maker sevishni o'rganishimiz.<Knghtbrd> bir oz NeXTStep jon uchun yaxshi bo'ladi.
+		-- rcw
+
+%
+Ogohlantirishlar: Bu GNOME bo'ldi, qo'rqma, bog'liq liniyasi juda qo'rqib bo'lishi
+		-- James Troup
+
+%
+<CULus> Hhhmmmmmmmmsigirlar uchun <cULus> Waterbeds<CULus> eleet<Cas> cULus: nima uchun bir sigir bir choyshab kerak?<CULus> cas: issiq qulay bo'lishi uchun
+		-- James Troup
+
+%
+Agar nima ovqat bo'lsangiz, men bu menga bir pishloq Daniya qiladi deb o'ylayman.
+		-- Anonymous
+
+%
+Agar ochiq-oydin faqat ahmoq xatolarga yo'l boshlash paytida, thats <Hop>      Agar vakolatli olish boshlash bo'lsaAgar fundamental tushunmovchilik xatolarga yo'l yo'q, chunki <Hop><Hop> va * * yaxshi alomat thats.
+		-- Anonymous
+
+%
+Agar sher qo'lga olish uchun Afrikaga bir Safari borish qachon <sozi> Agar, g'alati bo'ldi       u tirik topish va uni zaryad, keyin uni o'ldirish<Sozi> Agar Palm Vx topish Janubiy ko'rfaziga bir Safari borish qachon, sen topish       u o'lik va uy boring va u kelganida keyin zaryad :)
+		-- Anonymous
+
+%
+Bu ba'zi sort go'yo <sozi> I * qonli * qo'llanma o'qishingiz mumkin       Agar erishish mumkin ma'rifat shakllarini tavsiflovchi diniy yo'llarining       tog'dan 10 yil keyin :)
+		-- Anonymous
+
+%
+Geyts qonun: Har 18 oy, dasturiy ta'minot ko'ndalangiga tezligi.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: guruhiga ovoz karıştırmasını lozim foydalanuvchilarni qo'shish           audio .. qurilmalari (ls barcha guruh audio ishonch hosil qiling -l           Bu ehtimol bo'lsa / dev / DSP sizga eng tez ishora beramano'ng o'rnatish) va karta uchun ovoz qo'llab-quvvatlash bilan bir yadro qurish<Knghtbrd> yoki ixtiyoriy ravishda olsa manbasini o'rnatish va buning uchun modul qurish           make-kpkg bilan<Knghtbrd> OR (tavsiya etilmaydi) olish va yomonlik YaOM / Linux yomonlik o'rnatish           non-bepul yomon ikkilik faqat yomonlik haydovchilar --- lekin o'sha yomon bo'ladi.Va men bu tavsiya emas, deb eslatib o'tgan?
+		-- Anonymous
+
+%
+Men ARM da ishlash qilmoqchi emas deb o'ylayman --- Biz mavzu bo'sh joy tugamoqda-ku!
+		-- Joseph Carter
+
+%
+"Tinch okeani Bell Mijozlar xizmati, bu [..], men qanday qilib sizga taqdim etishi mumkinajoyib mijozlarga xizmat bugun? ""HAHAHAHAHA !! Bu yaxshi, men uni yaxshi ko'raman ..""Um, rahmat, ular bizga aytish qilish."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: qonli newzealanders<Omnic> danpat: unda bir paypoq qo'yish<Danpat> heh :)<Knghtbrd> .nz'ers va kulgili farq qiladi qilish --- ularning hammasi g'alati odamsiz* Knghtbrd teri<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> Flinny: qora crontab sehr kinda narsa :)<Knghtbrd> Joy: o'rtacha kishi olovlar yoqib atrofida yalang'och raqs olish qilsa           g'alati narsalar ulug'lash, bir ahmoqona taxminan qo'llarini silkitardi           tarzda?<RCW> knghtbrd: odamlar novare nima * Agar * nima deb o'ylaysiz?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * * snipsnip<RCW> aziz oh, ya'ni boylik-bazasi tahrir ovoz?<Joy> uh oh<Knghtbrd> Ha =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+a Kludge bo'ldi <Joy> (TM)<Knghtbrd> Bu (tm) ishlari<Joy> AIX (TM) ishlari<Knghtbrd> hech u emas<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Daholar bema'nilik o'rtasidagi farq dahosi uning qilgan, debchegaralari. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> AQSh buzganlik uchun birovni zaryad kripto qonunlarini olish bo'lsangiz           Agar hte zaryad ular faqat "tergov", sud amalga kulib           Davlat ahamiyatiga molik!<Knghtbrd> Choy, hech kim?<Espy> I o'rniga choy siyosatchilar g'arq edim :)<Stu> topmoq: siyosatchilar solungaçlarıyla bor, duh<Espy> Weasels solungaçlarıyla yo'q
+		-- Albert Einstein
+
+%
+Men muammo Linuxni o'rnatish kerak bo'lsa, bir narsa noto'g'ri. Juda noto'g'ri.
+		-- Linus Torvalds
+
+%
+* Bma_home sizni gropes<Bma_home> "oups, noto'g'ri kanal"<Bma_home> </ ACF><Cerb> meni tashlab shoshilurlar<Doogie> Agar siz buni kabi bilaman.<Bma_home> aslida, u bo'ldi "menga chaqaloq paypaslamoq"<Gecko-> o'g'lim bosing va siz, BMA vafot;)<Doogie> gecko-: lekin xotini ok bo'ladi?
+		-- Linus Torvalds
+
+%
+apparat holda kompyuter qo'llanmalar o'qib o'qishda kabi solishi mumkindasturiy ta'minot holda jinsiy aloqa qo'llanmalar.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (qarosi)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (bu)<Knghtbrd> (ham)* Espy ACR yilda ^ Winitialisms qo'rqinchli bo'ladi gaplashib eslatma qachon boshqa tomoni  sizni tushunadi
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> juda yomon eng qadimiy unices Y2K mos bo'lgan ekan<| Yomg'ir |> ham yomon?<| Yomg'ir |> nima, odamlar 2038 qadar yangilashingiz bo'lmaydi, chunki?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "Men:« Linux 6,1 "o'rnatilgan, menga bir UNIX qilmaydi, deb                Guru? "<Bang> Espy_on_crack: Yo'q, siz bir oldin ikki marta uni o'rnatish kerak       yulduz ... siz buni mumkin marta isbotlash uchun, ikkinchi narsalarni tuzatish uchun       birinchi marta sindirib<Espy_on_crack> oh o'ng, qanday ahmoqona meni
+		-- Arthur C Clarke
+
+%
+* Knghtbrd ET narsani qilsa<Knghtbrd> birov bir Speak-n-jodu bor?
+		-- Arthur C Clarke
+
+%
+<Omnic> boshqa .sig qo'shimcha
+		-- Arthur C Clarke
+
+%
+Men gen hovuz bir oz xlor foydalanish mumkin, deb o'ylayman uchun boshlang'ich qilyapman.
+		-- Arthur C Clarke
+
+%
+Bu siz, deb o'ylayman, kabi yomon, va ular sizni olish uchun emas.
+		-- Arthur C Clarke
+
+%
+<Espy> ehtiyot bo'lish, ba'zi twit sizni keltirishim mumkin<Espy> ma'noda chiqib ...
+		-- Arthur C Clarke
+
+%
+*** #redhat Uchun Mavzu: RedHat barcha muammolarini javob. u    ham start bo'lishi mumkin!
+		-- Arthur C Clarke
+
+%
+* Cesarb ajoyib Carmack yilda qabul nihoyasiga yetadi bir hafta kam bo'lsa  to'rt Quake manbai bir versiyasi bir odobli nusxasini e-mail  uning virtual qo'l chiqib nima tezroq marta ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: Men kernel manbada zilzila qo'yib yo'q<Knghtbrd> lekin biz bir-up uchun boot floppi yilda zilzila qo'yish kerak           Caldera ning Tetris o'yin ..;>
+		-- Arthur C Clarke
+
+%
+Guns odamlarni o'ldirish emas. Bu damn o'q ekan. Guns faqat ularni borib qilishalbatta, albatta, tez.
+		-- Jake Johanson
+
+%
+<Espy> biz "wtf-foydalanish-bu», «yadro» asosiy bo'lish kerak va
+		-- Jake Johanson
+
+%
+<Culus-> libc6 muhim emas: |
+		-- Jake Johanson
+
+%
+<DHD> zilzila uchun maxsus Rojdestvo to'plami bor<DHD> qaerda Futurama Santa robot kabi olish?<Dunham> DHD: juda beqaror o'yin bo'lardi ...<Knghtbrd> Dunham: bu fikr. ;>
+		-- Jake Johanson
+
+%
+<Knghtbrd> GNU kodlash standartlari bilan muammo ular, deb taxmin emasDunyodagi har bir ishni deb edi, bepul .. Emacs'ı foydalanadi           Biz barcha bilagini muammolarni bo'lar edi, chunki dasturiy ta'minot o'lishinihozir va endi tomonidan RMS kabi kodi mumkin. ;>
+		-- Jake Johanson
+
+%
+C'mon! siyosiy norozilik! Sheesh. Qaerda, deb, anarxistlar Ruhning? ;-)
+		-- Decklin Foster
+
+%
+Biz sizning qadar, bizning standartlari ko'tardi ayting!
+		-- Decklin Foster
+
+%
+* Woot woot endi-kechki ovqat sifatida tanilgan* Knghtbrd woot ustida bir oz tuz suvdan<Knghtbrd> I oldin woot hech qachon ayting ... Umid ular yaxshi tatib<Woot-kechki ovqat> Noooo!<Woot-kechki ovqat> menga ovqat yo'q!* Knghtbrd hehe ... u bilan gaplashsa kechki ovqat istamaydi qaror
+		-- Decklin Foster
+
+%
+[Chora-tadbirlar bilan bog'liq zilzilada aldatılmasını oldini olish uchun]Men degani, modomiki, men qilish mumkin, deb mening raketa launcher, katta twinkie kabi qarash); Men baxtli bo'laman
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: qisqa ham, biz bir necha mijoz narsalarni harakat qilyapmiz           Ayni paytda narsalar server aytish uchun mas'uldir           o'zi uchun server tekshiradi<Knghtbrd> Neo Ha, Matrix "derlar" hech qoshiq bor "desa           hech aldash --- yo'q! "<Hollis> Lekin u kung tirsakk biladi ...<Knghtbrd> Sure u, lekin men bir raketa launcher bor.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Mercury xotirjam XT-otryadi qo'lini ko'taradi ..* Mercury keyin XT-otryadi qo'li bilan XT-otryadi ura davom etmoqda.<Knghtbrd> voy, barcha bu zilzila Hack Bu yerda Mercury zo'ravonlik qo'shmoqda* Mao zilzila Forge loyiha yaxshi qo'lida xursand bo'ladi
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> CVS / Entries I "o'zgartirish" uchun zarur bo'lgan chiziq bor edi<Mercury> Knghtbrd: bunday zikr bo'ldi .. <G><Mercury> Knghtbrd: Endi, tayyor qasd qilishga?<Knghtbrd> menga omad tilayman<Knghtbrd> Mercury: u sodir bo'lyapdi<Knghtbrd> Mercury: va barcha Shundan keyin, men ham bo'lishi kerak.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd uning oyoq barmoqlarini kesib<Knghtbrd> (Men barmoqlarini kesib, agar u yozing qiyin bo'lardi)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> uyali telefon haqida bir yomon narsa yo'q.<Doogie> I istalgan vaqtda erishilgan mumkin. : |Men har doim meniki tark nima uchun <wmono> o'sha. ;>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade>, qanday qilib shunday '00 yoki '01 yoki 02 va talaffuz qilmoqchisiz?<Deek> doksanlı uchun xayr, naughties salom ayting. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> foydalanuvchi, uni oyog'i da qurol ishora va tepkini tortadi bo'lsa       u kerak bo'lyapdi qaerda o'q oladi ta'minlash bizning ish emas.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Men bir klaviatura bor <Mercury> ogohlantirgan bo'ling I Lüser boshini ura foydalanishingiz mumkin          va keyin foydalanish davom ... (=:]<Deek> Mercury: Oh, IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> knght, Sheesh, siz nuqtai nazardan olib mening so'zlarimni yapıştırıyorsanız           #debian yoki biror narsa?<Palisade>;)<Knghtbrd> yo'q, lekin men, ehtimol bo'lishi kerak;><Palisade> oh d'!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> Mercury: gpm juda yaxshi veb-brauzer emas. tuzat.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> ham bor ya o'ting. ARM ahmoq narsa aytish va uni bor      kimningdir .sig faylida abadiy abadiylashtirilgan
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Microsoft Borg va farangi o'rtasida o'zaro faoliyat. Afsuski,Ular, albatta, ularning marketing va farangi qilish Borg foydalanish ularningdasturlash.
+		-- Simon Slavin
+
+%
+Men emas, balki 10 dan birovning manba kodni o'qib 10 soatlab editinglash daqiqa emas texnik qo'llab-quvvatlash uchun kutib Musak uchun.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Qaerda siz bugun bo'ladi-ku, deb o'ylaysiz?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Men zulmat har xil eshitish va Y2K uchun oldindan yomon, men qurdik Men ekspertlar bergan bo'lsang maslahat ba'zi quloq deb o'ylayman: , Avtomobil gaz tank to'ldirish konserva tovarlarga kabinetga, küvet to'ldirish suv bilan, va hokazo.Men o'tgan mening tayyorgarlik kech yakunlandi, men to'liq uyg'oq emas edi deb o'ylaymankecha. Bugun ertalab benzin namlangan oshxona tokchalar topdi, suvAvtomobilning gaz tank va mening vannadagi pishiq loviya bilan to'ldirilgan.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzan> hey siz pirch yoki biror narsa tushib qoldi?<Knghtbrd> me? heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy> Agar pishirilgan etiladi<Knghtbrd> Espy: faqat yarim shunday
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> I odatda "tajriba" ga ega, hech narsa foydalanish va yo'q            u butun yopishtirib "ogohlantirish"<Darkangel> Yo'q, men ... hehe bu soqov emasman<Knghtbrd> ...* Darkangel so'nggi beqaror yadro yuklab hisoblaydi
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> Solaris UX, shuning uchun u ishlashi lozim* Espy yuz wichert ning yorilish quvur oladi
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> juda yomon eng eski unices Y2K mos chiqdi ekan<Knghtbrd> u odamlar hali 30 yil ichida ular bilan ishlayotgan bo'ladi, degan ma'noni anglatadi, chunki           = pY2K samarali off halok bo'lsa <Knghtbrd> u qadar ko'p chiroyli bo'lar edi           hpux, Aix, SunOS, etc;><Espy> Knghtbrd: bo'lganda PH-UX, og'riqlari va solartus "eski" buyon?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+Ushbu barcha GLOBALS, albatta, kerak bo'lsa, * gxam hayron<Knghtbrd> paytda ularning ko'plari ha<Knghtbrd> Biz, albatta, bir nuqtada, ularni tozalash kerak<Knghtbrd> gxam: GLOBALS biz tomon hijrat qilib ketishga majbur bo'ladi           modülerlik va jinnilik (ya'ni, libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, i siz mening sobit kodi olisholmadi deb o'ylayman<Raptor> i ishchi kodni sodir bo'lishi kerak<Knghtbrd> raptor: u hech qachon yuz berdi birinchi vaqti keldi kabi = p
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> Knghtbrd: -3dfx yoki -svga foydalanish?<Knghtbrd> Mercury u bilan oqil narsa qilamiz<Knghtbrd> Mercury: ikkala --- SVGA sig11 ning, -3dfx sig4 ning<Knghtbrd> Mercury: yaxshi to'g'ri emas? ;>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Biz qanday fikr bo'lishi mumkin ... biz nima qilyapsiz bilaman, bizga ishoning           Biz buni-ku, lekin biz nima qilyapsiz bilaman.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mercury> <CJ | Bizkit-0-> i Linux server Tho uchun yuklashingiz mumkin<Mercury> <CJ | Bizkit-0-> i birida bir qobiq hisob bor<Mercury> <Mercury> Whats ishlayotgan?<Mercury> <CJ | Bizkit-0-> Ummu<Mercury> <CJ | Bizkit-0-> apache i deb o'ylayman<Mercury> Yordam, yordam qiling ..* Omni kulgisi
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+Bu faqat bir gumbazday ta'sir bo'lsa <JT> xato tanqidiy belgilangan bo'lishi kerak?<Jeyms-ishlab yo'l haqini uzadigan kishi> JT: ehtimol, bu kamar uchun RC, lekin kamar bo'lgan mehribon                 muayyan bugs kam uchraydi ...<JT> u gcc bir xato sababchi bo'lyapdi emas qachon<Doogie> JT: bu kamar olib gcc olish. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<EdLin> LWE?<EdLin> Linux W ?? E ??eatyou bo'ladi <ko'radi><JHM> World Expo?<EdLin> tushunarli
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Nominal to'lovi". xunuk Qanday hukm. Bu narsalardan biri, debAgar so'rash kerak bo'lsa, siz uni ko'zga olmaydi nazarda tutadi.
+		-- Linus Torvalds
+
+%
+<Deek> Agar siz uy vazifasini GPL? :)<Knghtbrd> Rabbano = D<Knghtbrd> Kimki foydalaning yoki mening Topshiriq o'zgartirish uchun ruxsat, lekin ular agar           o'zgarishlar tarqatish ular to'liq mashinasozlik o'qib o'z ichiga olishi kerak           manba kodi;>
+		-- Linus Torvalds
+
+%
+* Knghtbrd har kuni ko'proq ishonch hosil eng S ++ kodlayıcılar nima bilmayman, deb           ular qilyapsiz jahannam, nima uchun C ++ bunday yomon rap bor<CULus> kb: Eng C kodlayıcılar ular nima qilayotganingizni bilmasangiz, u faqat uni qiladi        oson yashirish uchun: P<CULus> Misol uchun qarang proftpd: P
+		-- Linus Torvalds
+
+%
+<CULus> Va meni Perl boshlandi etmaymiz!<CULus>:><Shaleh> Perl yomonlik tashqarida bo'lgan<Jim> siz hali Perl bilmayman?<Netgod> gotta hech aniqlash, sintaksisi rang bilan, bir tilni yaxshi ko'raman
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / tasodifiy | Perl?<Shaleh> doogie: u ham bir amal sendmail.cf bo'ladi<Doogie> :)* Knghtbrd qo'llari bir bema'ni-foydalanish-of-mushuk mukofot doogie* Shaleh uni sinash istaydi, lekin qo'rqadi
+		-- Linus Torvalds
+
+%
+<DHD> Perl </ dev / bdsm<Knghtbrd> Agar / dev / BDSM'den bor?<DHD> ishonch, u bir pseudosadomasochistic tasodifiy soni generator bo'ldi
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: Men hozir unga emasman .. 3 1.3Gb disklar, 128M qo'chqor, dual 50Mhz        (To'rt 250Mhz qadar)<Kysh_> catch u> haqida 12A 8 110v tortadi, deb<CULus> 12A!<CULus> Okay, mening pechka 3000W, bu quyosh 1320W bo'ladi<CULus> SIZ bu erda bir muammo ko'ryapsizmi<Calc> a 1320W quyosh, bir sochlarini fen o'xshaydi :)
+		-- Linus Torvalds
+
+%
+* Joeyh_ Zab ishlaydi va awk kodi 10 liniyalari ko'radi* Joeyh_ dahshat ichida recoils
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: midmorning kecha va pacbell dedi beri men pastga edi           AT & T aybdor edi va bu ertalab deyarli barcha davlat           pastga edi<RCW> odamlar internet yadro genotsidni omon mumkin turib nega dunno      u bir kazıcı omon mumkin emas bo'lsa
+		-- Linus Torvalds
+
+%
+Bu xabar VI bilan yozilgan! (Dunyoda hech kim qayg'uradi, deb)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+a terskepçeli ba'zi moron tomonidan Ulanish reset
+		-- seen on an old message from an anon.penet.fi address
+
+%
+o't Feb 5 13:27:01 uchlik lp0        - Linux kernel, meni ushbu kuningizga duchor noma'lum edi, deb           mening printer bilan muammo (ya'ni, u siyoh bo'ldi)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+kam Agar kompyuter haqida bilish Yana siz Microsoft istayman!        - Microsoft reklama kampaniyasi, 1996 circa(Isbot Microsoft reklama _isn't_ insofsiz, deb!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+bir yorqin qaror va vasat bo'lgan butun bir shoda qilish kabi emasdavomida, odatda aqlli qarorlarni butun bir shoda qilish kabi yaxshibutun jarayon.
+		-- John Carmack
+
+%
+Odatda buni borishni dono samarali vaqt mol emas. Lekin bir narsa bo'lsaAlbatta, sizga off pissing, siz faqat kodni topish borish va uni tuzatish va o'shaAlbatta, salqin.
+		-- John Carmack, on the advantages of open source
+
+%
+<Calc> yea u RE'ing USB uchun foydali tovushlar<Calc> i bu erda bir foydasiz 3com usb kamera bor :(<Knghtbrd> calc: 3Com siz qonunlarini buzmasdan uchun hibsga bo'lishi mumkin bo'lgan           Oktyabr qadar "mavjud emas;><Calc> knghtbrd: i yashirish bo'ladi :)<Knghtbrd> ... ham a hibsga qarshilik?<Calc> knghtbrd: i xizmat olish oldin hech i yashirish bo'ladi
+		-- John Carmack, on the advantages of open source
+
+%
+u kompilyatsiya nuqtasi, lekin segfault paytda <Mercury>, bo'lishi kerak, kabi ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Knghtbrd juda, bu butun muhokama .sig jazm qiladi ...
+		-- John Carmack, on the advantages of open source
+
+%
+Unixverse Tue kuni tugaydi, 19 Jan 2038 03:14:07 +0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: biz bir zilzila qismni qilishim kerak: tiz chuqur kodi "bilan:          Agar nuqsonlarini tortishish atrofida ishlatish :)<Knghtbrd> taniwha: Men OpenQuartz uchun fikr o'tib olaman;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> i Fdisk bilan Windows Key muammoni hal edim :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: QW ning netcode menga g'alati narsalarni qiladi. : P<Knghtbrd> Ushbu noodatiy bo'lgan? ;><Endy> Yo'q albatta. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> RCW: Oh kamon --- Men ham yaxshi flamewar jalb etilmagan           kamida 5 daqiqa ...!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: Men sizning ahamiyatga Xudoning qaramay, emasman
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> i faqat $ 20 uchun MS Office 2000 sotib !!!<Knghtbrd> Agar yirtilib;><SlayR> i bilaman;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> u 6 Foydalanuvchi ekan. Men 24 soat qadar bo'lgan<Knghtbrd> va xavf hayot va ekstremite meni uyg'otish.* Knghtbrd &; uyqu<TV> Okay har bir kishi, biz 10 daqiqa kutib turing, keyin Knghtbrd sel boshlash     bilan ^ G ning. Kimdir, hack ildiz va mushuk / dev / urandom> / dev / DSP.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Knghtbrd endi SirKewLDooD sifatida tanilgan*** Mercury #quakeforge dan SirKewlDooD boshlandi (* Whack *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Mercury> Knghtbrd: Men XOR belgisini qo'llab-quvvatlash ko'rish uchun Jonim ..<Knghtbrd> Mercury: Agar QUACK odamsiz.<Mercury> Knghtbrd: Siz dilerlik odamsiz ... <G>*** Knghtbrd endi QuackDealer sifatida tanilgan
+		-- John Carmack, on the advantages of open source
+
+%
+* Kimyoviy muz bir qog'oz paket uning yo'lini kodi mumkin emas<Coderjoe> quruq muz-: int main () {ExitPaperBag (); 0 qaytib; }<Knghtbrd> deb, keyin amalga yotipti qanday emasmi? * Eslatmalarni oladi *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> eek emas, balki boshqa bir ...<Knghtbrd> developer hech ko'rinadi va ularning onasi hozir tasodifiy ega           IRC tirnoq yordamida imzo ...<Knghtbrd> NIMA Men bu erda boshladi ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Ko'radi, uning imzosi sifatida knghtbrd ning izoh foydalanadi<Knghtbrd> ko'radi: bilanoq men ularni yozilgan bo'lib, men ularni yaxshi kesik edim amalga           o'zim yana kimdir qildim oldin;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Omnic uning 33,6 ishoratni qaraydi, keyin Joy qaraydi* Mercury uning kabel modem mujassamlashtirish .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Apple sudga urindi - To'g'ri, Win95 ning qarash, yangi yo bu hammasi emas ediMicrosoft Makintosh interfeysini nusxa olish uchun / axlat Microsoft qadar, -niApple axlat qutisi, shu jumladan, uning Mac g'oyalar (ko'p bor ta'kidlabXerox ParcPlace dan icon). Xerox ehtimol hali nima bo'ladihar kim o'z axlat qutilari manfaatdor.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+u orqali uloqib yurishlarini ruhiy kasallik belgisi <knghtbrd> bo'ladi           , Xaritani ishga tushirish hovuz sizning Thunderbolt, Hop to'plash va mushuk           u tushganda u bilan o'zingiz faqat bosh buouce ko'rish uchunhovuz tubiga orqali? =><Knghtbrd> "Siz ... siz qachon bir Quake odatlanib ekansiz bilaman"
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> Men hali sizlar yong'oq birlashma Q va QW bo'ladi, deb o'ylayman. : P<Knghtbrd> Albatta, biz yong'oq odamsiz. Hatto Jon shunday dedi. =><Taniwha> Zoid: biz yong'oq odamsiz, ammo biz samarali yong'oq ekansiz :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: biz yong'oq odamsiz, ammo biz samarali yong'oq ekansiz :)* Taniwha samarali yong'oq kabi tatib nima hayron
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: Iqtibos material :)<Taniwha> Endy: :)<Knghtbrd> Endy: Men allaqachon uni snipped
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> Aslida men kartoshka oldin tugallanadi uchun kutib turaman deb o'ylayman       Debian'ı o'rnatish.<Endy> Men umid qilyapman, yaqin orada bo'lishi kerak. :)<Knghtbrd> Endy: Siz, albatta, Debian haqida juda oz bilaman.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Agar kodni ayıklanacağı bir marta hech narsa bir muammo.
+		-- John Carmack
+
+%
+<Overfiend> Unix yo'l - hamma narsa fayl hisoblanadi<Overfiend> Linux yo'li - har bir narsa :) fayl tizimi emas
+		-- John Carmack
+
+%
+<Devkev> ha i yashin qurol ko'rdim va qaerga ketayotganini, o'ylab         Agar gonna ba'zi urishim edi :)<Devkev> didnt u o'z :) bo'lardi tushunib
+		-- John Carmack
+
+%
+"Aks holda, sizning boshini olishdan haqida shifokor bilan gaplashishni iltimosass, men barcha ishtirok uchun foydali bo'lishiga ishonaman. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Shior, uni odamsiz!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Men axloqiy bir nozik nuqtasini amaliyot qilaman. Bu orqaga otib ma'quldir.Bu birinchi otib qabul bo'lmaydi.
+		-- Zed Pobre
+
+%
+<Coderjoe> mushuk, Perl?<Mushuk> Perl shunday tuyuladi, albatta Programmer ning Shveytsariya armiyasi Chainsaw bo'ladi
+		-- Zed Pobre
+
+%
+<Endy> taniwha: Agar bu bir sinov qildik? :)<Taniwha> Endy: albatta emas
+		-- Zed Pobre
+
+%
+Bu men umrimda kulgili narsa va men _not_ uni kechirishdan bo'ladi.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Bunday emas? Agar William boshqa odamlarni (ruxsat berish kerak demoqchimisizWallace) ularning eshak dan chaqmoq otishga?
+		-- Seth Galbraith
+
+%
+<Mercury> Siz loyiha a'zosi bo'lishi uchun aqldan bo'lishi kerak emas, balki          ]: Agar .. <= bo'ladi
+		-- Seth Galbraith
+
+%
+* Endy qahva maslahat kerak: P<Endy> Kofe qaynatgichlar va kofe bot shaxs emas, balki ichimlik kofe :)<Knghtbrd> ham yordam berishi mumkin ichimligini konsalting =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: va k-Mart merosxo'r bo'lurlar kamtar
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "COBOL Programmer uchun Java"<Knghtbrd> kim bu narsalarni yozadi?yoriq ustida <raptor> odamlar<Raptor> va COBOL dasturchilar<Raptor> :)<Knghtbrd> deb ortiqcha bo'ldi.
+		-- Seth Galbraith
+
+%
+<Evilkalla> heh, men bir kodlash sinf oldi hech qachon<Evilkalla> yoki grafik sinf<Evilkalla> yoki dasturiy ta'minot dizayn sinf<Vegan> va ko'rsatadi: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD hammaga da spagetti uradi* Taniwha spagetti eb* Coderjoe ba'zi köfte atrofida fırlatır* Knghtbrd pishloq oladi* Taniwha bir qizil qatnashdi
+		-- Seth Galbraith
+
+%
+<Theoddone33> mening ekranda bu xabarni nima,<Theoddone33> shunday ko'k, shuning uchun ko'k, bu nimani mumkin?<Theoddone33> Agar Siz Delete tugmasini bosing edi mumkinmi,<Theoddone33> Ctrl va Alt va keyin takrorlang.
+		-- Seth Galbraith
+
+%
+<Gorgon> qachon kimdir yoriqlar sizning debian mashinasini nima olaman?<Gorgon> pyuresi kartoshka ...
+		-- Seth Galbraith
+
+%
+<Aj> barakalla<Aj> u piko klon bo'ldi<Aj> u * zerikarli bo'lishi * edi bo'lyapdi
+		-- Seth Galbraith
+
+%
+<Espy> Men siz barcha so'rish ta'kidlanadi topmoq qonunini, iltijo: P
+		-- Seth Galbraith
+
+%
+<Overfiend> cULus: wanna buning uchun meni to'xtatib? :)<CULus> Overfiend: bir necha sevadigan yorilish yomon borib va ​​biz gaplashamiz<Overfiend> cULus: damn, u zararli bo'lishi kerak?<CULus> Overfiend: Afsuski, ha
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 o'z gravitatsiyasi ega bo'lishi etarli uchramoqda ...
+		-- Seth Galbraith
+
+%
+* CosmicRay u bu yerda ba'zi soyucular edi xohlaydi ....<CosmicRay> err, sim tiqiladi
+		-- Seth Galbraith
+
+%
+<WildTHing> ok guys .. whens keyingi sodir shunday: PP<Taniwha> ular meni olish uchun kelib
+		-- Seth Galbraith
+
+%
+<Mdorman> I a GNUS shaxs o'zim emasman. Bu muharrirning! Bu floorwax ekan!          Bu shirin, tog'da ekan!
+		-- Seth Galbraith
+
+%
+<Tausq> Q. Botmonda va Bill Geyts o'rtasidagi farq nima?<Tausq> A Batman Penguin jang, u qo'lga kiritdi.
+		-- Seth Galbraith
+
+%
+bir nuqtada, bit paketlar kirib borish kerak va routerlar qilish kerakularga qarorlar. bu darajada o'zgarishlar men emas, haqida eshitishni xohlagan nimastrategik kompaniyasi munosabatlar.
+		-- John Carmack
+
+%
+Biz kufr: shohlari Prezidentlar va ovoz.qo'pol konsensus va ishchi kodi: Biz ishonamiz.
+		-- Dave Clark
+
+%
+<Knghtbrd> QF bugun zip fayl qo'llab-quvvatlash olish uchun ketadi<Coderjoe> heh ... infozip?<Knghtbrd> I omadli emasman ha bo'lsa<Deek> knghtbrd: Siz hazil-ku, to'g'rimi? ;)* Deek Knghtbrd ning yorilish quvur yuz oladi. ;)
+		-- Dave Clark
+
+%
+<Deek>) (barcha cvar-> qiymatini = X Cvar_Set foydalanish o'zgartirish<Theoddone33> oldtree sodir qilmagan<Deek> Aslida, bu qildim.<Knghtbrd> ha - ikki haftadan keyin.
+		-- Dave Clark
+
+%
+=== Bu maktub ==== Honor tizimi Virus emasAgar ishlayotgan bo'lsa Makintosh, OS / 2, Unix, yokiLinux kompyuter, tasodifiy o'chirish iltimosqattiq disk qurilmasi bir necha fayllar vaBilasizmi har bir kishi uchun, bu xabar yuborish.==============================================
+		-- Dave Clark
+
+%
+* Shortc knghtbrd ning sigs bu kun bir biri olishni istaydi.
+		-- Dave Clark
+
+%
+<Doktor ^ Nik> SGI_Multitexture yomon tabib endi<Doktor ^ Nik> ARB yaxshi tabib emas<Witten> Yo'q, tabib tabib emas tezda yomon :)
+		-- Dave Clark
+
+%
+kodi 99 oz xato, kodi 99 xato,        yana kompilyatsiya, bir xato tuzatish ...        kodi 101 oz bugs ....
+		-- Dave Clark
+
+%
+Hmm ... Qaysi aqldan fiziklar harakatlantiruvchi da yaxshiroq ish qilgan bo'lardingiz? Sayohatyorug'lik yoki suzuvchi-nuqta boolean qiymati nisbatan tezroq?
+		-- Michael Mol
+
+%
+<Calc> knghtbrd: gnome 2.0, bir necha oy ichida amalga ishonch hosil emas bo'ladi qanday       2.0-da KDE uchun solishtirish qiladi<Knghtbrd> calc: kabi semiz faqat avtomobil sifatida va har bir Gnome 2 ilova       30 kutubxona bog'liq bo'ladi.<Slimer> knghtbrd: Bas, 1,0 nima o'zgaradi?
+		-- Michael Mol
+
+%
+<Ze0> Shunday qilib, QUACK olamida hamma narsa ekan qanday qilib?<LordHavoc> faqat jonginam<Ze0> a'lo, qovurilgan o'rdak mazali qudratli yaxshi.
+		-- Michael Mol
+
+%
+<FrikaC> I, ehtimol qayta tug'ilgan kerak ...<FrikaC> ok BRB<FrikaC> Shunday qilib, bir-biridan shakli virii, xotira sızıntıları va keng tarqalgan qochish nima         Crashing Linux taklif reallhy qilsa :)<LordHavoc> ishonchli multitasking?
+		-- Michael Mol
+
+%
+<Tausq> bo'lsa (CB) ((cb-> obj) -> * (cb-> ui_func)) ();<Knghtbrd> tausq: Hal deb yozgan kim?<Tausq> menga :)* Knghtbrd tausq flogs
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> heh<Endy> 1,2 bu emasmi? :)
+		-- Michael Mol
+
+%
+<Mercury> knghtbrd: Eww, yaxshiroq nom topa, kino so'rib .. <G><Knghtbrd> Mercury: Dvigatel kino yaxshidir
+		-- Michael Mol
+
+%
+<LackOfKan> 'bots "nima?< `` Erik> rsg bir bot emas, balki inson emas, balki bir inson foydalanishga mijoz, faqat bir bot hisoblanadi.< `` Erik> IRC Botlarni bo'lgan boshqa zilzila bot bir xil haqida, (odatda)         teshik to'liq sizning eshagini otib emas, yordam berish uchun qurilgan
+		-- Michael Mol
+
+%
+agar (menga = siz!) // FIXME: ehtimol har doim haq, o'chirish?    uchun (n = 0; n <who_knows_what; n ++) {        = DoSomething (withthis [n]) javob;        Agar (javob == foobar) {            GetLost (n);            sindirish;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: tasvirlar uchun indeks ranglar sxemasidan bilan hech qanday muammo sifatida           Agar sxemasidan terimiga mumkin modomikizilzila yaratish <Yorick> Shubhasiz, odamlar rang-ko'r lekin bu edi         Agar bo'lishi kerak, degani emas
+		-- Michael Mol
+
+%
+qattiq <cesarb> Jin ursin, har gal men yumurtlamaya, QF-mijoz-x11 qulflar<Zoid> o'lib qilmang?<Knghtbrd> yaxshi rag'bat.
+		-- Michael Mol
+
+%
+Nima uchun vositalar barcha aqlli hayot izlab, deb, uni emaskoinot Yerdan yuz ishora qilingan?
+		-- Michael Mol
+
+%
+<Rebelpacket> Hey, tez savol, tezlashtirish uchun har qanday yo'l yo'q              uquake-X11 ishlash?<Deek> rebelpacket: siz uni tezlashtirish bo'lsangiz, qiyin, uni tashla.
+		-- Michael Mol
+
+%
+<Netgod> Bilasizmi<Netgod> uning InterNIC o'zi DNS konfiguratsiya cant, albatta, achinarli         o'ng serverlar<Netgod> u faqat doesnt ko'ra ko'proq ayanchli olish
+		-- Michael Mol
+
+%
+<Knghtbrd> Hatto overbrights bilan, zilzila rang jilosi, zerikarli to'la           tekis ranglar<LordHavoc> knghtbrd: gamma foydalanish bo'lmasa zilzila ning jilosi juda jonli emas            tuzatish<LordHavoc> shuningdek aslida men bu Unreal kabi jonli uzoqda joylashgan ekan, rozi<Deek> Boshqa tomondan ... Neon haqida 3-savol.<LordHavoc> Q3 faqat bema'ni emas<Deek> Q3 o'rta asr cherkov-zindon oladi va Vegasdagi qo'yadi.
+		-- Michael Mol
+
+%
+"Men sindirish uchun bir necha terimiga suyakni bor."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie infiltratsiya va vayron qilish uchun optimallashtirish
+		-- Anonymous
+
+%
+<Deek> Ha, Amerika mamlakat asoslangan qanchalik g'azablangan-off soliq solinadigan bir guruh       odamlar olishingiz mumkin.Biz arzon odamsiz, chunki <Deek> Biz mamlakat sifatida mavjud.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: allaqachon 4.0.1 ustiga ko'p tuzatish?<Overfiend> Oskuro: bir necha<Overfiend> faqat 152 megs
+		-- Anonymous
+
+%
+<Joeyh> mening oh, u PF P III bo'ldi.<Doogie> MS DOS.* Joeyh dselect ishlaydi<Overfiend> etarli bo'lishi kerak :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: axlatni, SDL ishonch ham DGA bir do'zaxga juda oson qiladi           u emas? :)<Knghtbrd> barneyfu: nima DGA?<Barneyfu> sichqoncha DGA<Knghtbrd> barneyfu: (bu savol javob beradi?)<Barneyfu> YEAH Hahahahaha! :)
+		-- Anonymous
+
+%
+<Deek> "A yaxshi dasturchi har qanday tilda FORTRAN yozish mumkin."<Deek> knghtbrd siz ham biron-bir tilda ++ C yozish mumkin, deb isbotladi.       <Grin>Biz uni berish yoki mukofot, yoki kerak bo'lsa <Mercury> Biz hozirda considdering etiladi          uni o'ldir..<Mercury> (Albatta, barcha huquqlar bilan, bu biz unga berishi kerak, degan ma'noni anglatadi          mukofot, keyin uni o'ldirish .. <G>)
+		-- Anonymous
+
+%
+A qo'poruvchilik o'z hukumatini tashqari bahslasha mumkin hech kim emas.
+		-- Anonymous
+
+%
+Biz biladi, bilishi kerak.
+		-- David Hilbert
+
+%
+<Knghtbrd> Internet tsenzura. farzandlaringiz bo'lishi kerak, chunki           yalang'och ayollar, tibbiy tartib, turli himoyalanganmadaniyatlar, va zo'ravon video o'yinlar.<Knghtbrd> (lekin, bomba barpo kabeli o'g'irlik to'g'risidagi ma'lumotlar, va           narkotik ishlab chiqarish okay bo'ladi ...)
+		-- David Hilbert
+
+%
+Mening bir do'stim o'z qo'li ustida shtrix bor.U JuicyFruit bir $ .35 to'plami sifatida tashkil jiringlaydi.
+		-- Seen on Slashdot
+
+%
+<NullC> I maskeleme egri hisoblash uchun urug 'kodni yoqadi.<NullC> I oldin ichish istayman kerak tortdi kodni ko'rmaganman ...
+		-- Seen on Slashdot
+
+%
+$ Siz yangi =;Makao () $ say- lov bo'lsa> sevgi (Perl)
+		-- Seen on Slashdot
+
+%
+<Cj> yo'q! M $ dasturiy muammolari?<Cj> "Yaxshilab bugtested"* Dabb Grins."Yaxshilab buginfested" deb <LordHavoc> deb qayta yozish
+		-- Seen on Slashdot
+
+%
+<Doogie> dpkg xatolar bor? bo'lishi mumkin emas!
+		-- Seen on Slashdot
+
+%
+"Debian: Offlayn yoki sudralib yuruvchilar yo'q, bu taqsimlash qilishda zarar qilindi =. "
+		-- Paul Slootman
+
+%
+* Athener of Pancakes Amnesty International House chaqiradi
+		-- Paul Slootman
+
+%
+<Elmo> harom: err, arxivini nazorat yo'q admin jamoa, o'sha       FTP fitna<Elmo> Sizning cabals o'ng, jin ursin olish :-P
+		-- Paul Slootman
+
+%
+<Bang> CosmicRay: Siz meni batamom<Bang> err ...<CosmicRay> heh* Bang kodlash qaytib ketadi* Elmo bang qaraydi<Elmo> narsa biz senga va cosmicray, men haqida bilish kerak? :)
+		-- Paul Slootman
+
+%
+Ijtimoiy Shartnomani o'zgartirish? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Dasturlar signal SIGSEGV, Segmentasyonu xato qabul qildi.<Knghtbrd> /lib/libc.so.6 dan memchr () bilan 0x40095fb0<Knghtbrd> (gdb) bt<Knghtbrd> /lib/libc.so.6 dan memchr () in ichida 0 0x40095fb0<Knghtbrd> # 1 0x0 ?? ()<Knghtbrd> yaxshi, albatta Foydali bo'ldi* Knghtbrd bir chiroyli Ouija kengashi uchun gdb hunarmand - bu yordam beraman ko'proq
+		-- Branden Robinson
+
+%
+Barcha yaxshi g'oyalar ziyon ko'rguvchilardir bo'lganlarga yomon g'oyalar kabi qarash.
+		-- Dilbert
+
+%
+RFC 882 .com emas, balki Sun Microsystems yilda nuqta qo'yish
+		-- Seen on Slashdot
+
+%
+* Linux siz 100 so'rasalar qulflash kerak bo'lsa hayron joeyh_  mushuk butun cd disk uchun jarayonlari
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Quake Jin ursin, xray vahiy qo'llab-quvvatlash kerak<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... Agar so'radi ...<CosmicRay> haha, bu haqiqiy katalog hisoblanadi
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> I BUN TO yashirinchaQUACK UChUN <Knghtbrd> ME hafagarchiliksiz<Venom> kb: bu nimasi gapiryapsiz?<Knghtbrd> bwahahaha .. Bu uzoq hikoya.
+		-- Seen on Slashdot
+
+%
+<WildCode> Mercury, bir oz mukammal topish kabi X nosozliklarni emas           derazalar bugfree kodi ??<Mercury> WildCode: Debugging X a to'g'ri chiziq ishlatish harakat o'xshaydi          bir labirent orqali.<Mercury> Siz faqat burchaklar atrofida harakat, shuning uchun bu fazo-vaqt egilib kerak          siz va siz hech qanday muammo yo'q bo'ladi. (=:]
+		-- Seen on Slashdot
+
+%
+<Migel> `Siz shaxsiy yuqori energiya ham bekor bo'lishi         himoya qurilmalar pochta ro'yxati "<Migel> I pochta ro'yxatiga olish esda dont
+		-- Seen on Slashdot
+
+%
+portiga 25 ulanishda <Afsona> I a aloqa rad etildi olish qilyapman, hech kim       damn log qaerda bilasanmi?<Aj> Afsona: /var/log/damn.log?* Aj bu kabi qarash edim, nima hayron<Aj> Dec 18 05:32:30 blae smtpd [123]: Jahannamga IT ALL Jin ursin !!
+		-- Seen on Slashdot
+
+%
+* Weasel ajoyib qanday ahmoq bir spam alt.anonymous.messages uchun bo'lishi kerak<Knghtbrd> Weasel: bir terib bo'lishi kerak, deb ahmoq bo'lib taxminan yarim.
+		-- Seen on Slashdot
+
+%
+* Wolfie u lampochkani vida oladi qancha debianites tafakkur<Viiru> Wolfie: Qaerdadir 600 atrofida? Bir vida Lampochka va qolgan ekan        u zolim uchun uni yonib.<Qismi> Wolfie: Lampochka bepul dasturiy ta'minot?<TV>, biz uni vida kerakmi yoki yo'q, ovoz mumkinmi?
+		-- Seen on Slashdot
+
+%
+<Culus_> Biz, shuningdek, qobiq qaerda Linux versiyasini ozod qilish umid         katta darajada Perl bilan almashtirildi. deb qo'shib, bor a         .. Sof Perl platforma ko'rishni istayman kim bizdan bir necha PerlOS :)* Culus_ dahshat bo'lganlarni ko'ruvchi<Mstone> Culus_: up tomonida, siz ham biror narsa yaqin damn kiriting mumkin         Buyruqning :)
+		-- Seen on Slashdot
+
+%
+<Mercury> LordHavoc: u faqat, chunki GL overdraw ega sababi hisoblanadi          Ular vis uchun mo'ljallangan tizim yarim yordamida.<Mercury> LordHavoc: piyoda o'zini Shooting.* Dabb kiyimi bo'lgan barcha o'q teshik qaraydi - damn, poda :)
+		-- Seen on Slashdot
+
+%
+<Dabb> hehe, men, albatta, o't chaqirib kabidir xato hisobotlarni nafratlanaman       Kafedra va dedi: "! olov bu erda bor, kelib" :)<Dabb> (va ilib)* Dabb o'nlab xato hisobotlarni off o'ldiradi.
+		-- Seen on Slashdot
+
+%
+<Xtifr> voy, men faqat bir muammoni hal qilish uchun ishlatiladigan libtool deb o'ylayman - kimnidur        Yordam bering! :><Luka> xtifr, klaviatura xoli YO'LIDA
+		-- Seen on Slashdot
+
+%
+Ular ading -Werror turib nima uchun <mao> ...u siz bilan bajarilgan bo'lsa <Misty-chan> Mesa qutidagi kompilyatsiya emas edi             guys;)<Knghtbrd> Uh, Meshax vaqt eng qutidagi kompilyatsiya BERMAYDI.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: Yo'q, unday emas. Win32 sanchqi ekvivalenti etishmaydi ().<Knghtbrd> Deek: uchun Windows foydalanish imkoniyatiga ega bo'lishi kerak, odamlar uchun mo`ljallangan emas           o'tkir ob'ektlar, shu sababli hech vilkalar ()<Knghtbrd> o'rniga, siz) (qoshiq tayanib kerak
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Bu shrift juda chiroyli chiqib boshlaydi<Stu> Knghtbrd: Hurmatli oh, siz VI boshqa zilzila shrift up Hack? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> oh, bundan tashqari, whats eng yaxshi yondashuv i bir Quake qilish bo'lsangiz       Mavjud bino mo'ljallangan darajasi?<Knghtbrd> Brayan ofisida bir floorplan qiling? =)<Pv2b> Knghtbrd: im mening maktab hisobga.<Knghtbrd> Oh katta<Knghtbrd> Bu biz kerak vassalom
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> uchun Windows tsement: Endi CrackGuard (TM) bilan! haqida tashvish hech qachon           yana uchun Windows tsement bilan yomon yoriqlar! CrackGuard (TM) bo'ladiBas, kuchli butun narsa u avval qulaydi, debyorilish. Sizning $ 200 upgrade versiyasini bugun buyurtma!
+		-- Seen on Slashdot
+
+%
+<Doogie> cULus: openssh bilan mening xato 2.5.2 sobit bo'lishi ko'rinadi, lekin         master 2.3.0 ishlaydi<CULus> hatto boshlash qilmang<Doogie> Men faqat qildim.<CULus> Siz guys katta bahaybat robot qurishni menga surtish uchun boryapmiz va        Texas yo'q, siz emas?
+		-- Seen on Slashdot
+
+%
+<Shader> whats rjing bilan noto'g'ri?<Rhamphoryncus> u cho'loq ekan: P<Rhamphoryncus> imkon bo'lmasligi kerak<Rhamphoryncus> Sizning eshak granata up shoving va raketa sifatida foydalanish                propelant sermahsul texnikasi bo'lmasligi kerak: P
+		-- Seen on Slashdot
+
+%
+ * Ekvivalenti kodi RSA Data Security, Inc. mumkin * Ushbu kod, deb qarshi sinov va teng bo'ldi, * Agar legalese ikki sahifalarini o'z ichiga shart emas, faqat * Har bir nusxasi bilan.
+		-- public domain MD5 source
+
+%
+zzz - - xabarlari ho'l sochiq kabi barcha chaqadi bo'ladi * knghtbrd ketdi  o'g'irlangan odamlarning savdo belgisi xabar yuz knghtbrd<Coderjoe> ACK* Coderjoe ho'l xabarlar o'zini himoya qilish uchun tayyorlaydi
+		-- public domain MD5 source
+
+%
+manba kodi, bir matn muharriri bilan kimgadir kuchini qo'lingizdan,va tayyorligi butunlay o'z tizimini shlang uchun.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Shunday qilib, Andover partiya bir pul bar bo'ladi?"«Yo'q, bepul pivo bor.""Iye, Stallman ning gonna g'azablansa kerak ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Addi> Alter.net bir qovoq bilan yo'riqnoma birini o'rniga ko'rinadi.
+		-- overheard at the Bazaar, 1999
+
+%
+<Mercury> Kimdir buni tuzatish.sodir <etar><Knghtbrd> etar Mercury?<Etar> Knghtbrd: u, charchab, bir xato qilgan, uni qaytarib olish uchun birovni bo'ldim bo'lyapdi.<Knghtbrd> etar Bas, siz Unga sodir etgan?<Etar> Knghtbrd: yaxshi,-da bag'ishlangan.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: u ishlatiladigan bo'lsa, bu dudlamoq emas<Knghtbrd> taniwha: qanday qilib, keyin tushuntirib uchun Windows qilasiz?<Taniwha> Knghtbrd: u eng ishonch hosil qilish uchun faqat balast sifatida ishlatiladi siz          Qattiq disk to'la<Knghtbrd> taniwha: Balast ... subs cho'kib nima deb emasmi           ummon tubiga?<Knghtbrd> taniwha: winboxes har doim pastga boryapmiz nima bo'lardi.
+		-- overheard at the Bazaar, 1999
+
+%
+tegishli uchinchi tomon texnologiyasi hech vait / hokazo .: 1. / yangiliksotib olish, taqlid, yoki o'g'irlik orqali va integratsiya qilishde-fakto, monopol-pozitsiya mahsulot. 2. hajmi yoki murakkabligi ortib uchunemas, balki foyda bilan; mosligini yoki birga ishlashni kamaytirish. 3.raqobatchilar tashqari qulflash yoki qulflash-yilda foydalanuvchilar. 4. ko'proq pul zaryad qilish; uchunnarxlar yoki xarajatlarini oshirish. 5. Boshqa investitsiyalar foyda olish uchunkompaniyalari, balki to'g'ridan-to'g'ri mahsulot yoki xizmat sotishdan. 6. ovozini bo'g'ish uchun yokierkin bozor manipulyatsiya; yangi bozorlardan monopol vakolatlarini kengaytirish uchun. 7.noto'g'ri-harakat uchun javobgarlikni bosh tortmasligi; off olish. sotib olish uchun 8.qonunchilik, qonun, qonun, yoki davlat rahbarlari ishtirok etdi. 9. uchunglobal iqtisodiyotning barcha operatsiyalarni vositachilik; o'zlashtirmoq uchun; uchun to'ldirmoq elektr(To'ntarish). Qarang , Yangilik English foydalanish (ziddi).
+		-- csbruce, in a Slashdot post
+
+%
+kar sukunat maslahat uchun geeks bir guruh so'rash emas menga ta'limularning qiz dan
+		-- csbruce, in a Slashdot post
+
+%
+"Nima, biz, Bill bugun kechqurun nima qilmoqchisiz?""Shu narsa biz, dunyoda olishga har kecha Stiv harakat qilasiz!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> eslatib Bu, biz ofis uchun bir chainsaw sotib olish kerak bo'ladi. "In       favqulodda ishi ", oynalarni urib sindirish
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> U boshqa bir taxminan yarim hajmi hisoblanadi.<Knghtbrd> Lekin u chainsaw bor.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Men shaxsiy gpg ma'lumotlar, bir tonoz xavfsiz olib qulflangan tutish       g'azablangan rednecks va ularning Dawgs tomonidan muhofaza. Ijtimoiy huquq o'g'rilari bo'ladi       buzilgan va barcha bu ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: beradi uzaytirilishi qismi emas           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: yo'q, glDriverBugs () EXT_help_me bir qismidir.<Siigron> ham glMakeItWork (GL_PLEASE) o'z ichiga olgan bo'ladi;
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erik> 18.446.744.073.709.551.616 katta soni
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> chindan knghtbrd deb?<Knghtbrd> Yo'q, men yomon qallob emasman!<Knghtbrd> Gibrid sevadi An yomon qallob!<Xavvy> haha<Xavvy> ok, uni bo'ldi: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Yomg'ir |> I love * SWB * !!<| Yomg'ir |> Yoki, matbuot 5 mümessillik gapirish uchun ..<| Yomg'ir |> * 5 *<| Yomg'ir |> Siz transfer qilinadi, turing, iltimos, ...<| Yomg'ir |> ...<| Yomg'ir |> ...<| Yomg'ir |> terilgan sifatida Kechirasiz, bu raqam tugallangan bo'lishi mumkin emas.<| Yomg'ir |> raqamini tekshiring va yana urinib ko'ring.
+		-- csbruce, in a Slashdot post
+
+%
+<| Yomg'ir |> #define struct uyushmasi / * buyuk makon pardasini * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> hech BSD muxlislari?<EvilTypeGuy> Elric: bu o'yin va UX fan bo'lishi qiyin: p
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> mening kofein tizimida juda ko'p qon yo'q.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> cULus: Agar uyg'oq bo'ladi?<CULus> hech
+		-- csbruce, in a Slashdot post
+
+%
+<Wli> Ha, men ESD qaradi va u C kod kabi qaradi, deb bir      otiluvchi so'nggi 20 yil davomida qilgan sobiq xursand / Algol '60 coder      Fortran-IV va Fortran '77 o'rtasida yozish edi.
+		-- csbruce, in a Slashdot post
+
+%
+<Nochiziqli> .net Microsoftun bir java tarmoq of buzuq versiyasini emas            muhit windows-muayyan axlatni uchun uglified
+		-- csbruce, in a Slashdot post
+
+%
+<Mercury> LordHavoc: Men allaqachon jinni emasman.<Coderjoe> damn to'g'ri. yoki curvy, qiyshiq yoki sizga nima bor
+		-- csbruce, in a Slashdot post
+
+%
+Unix, Windows tagliklari hali ular yomon hid, etuk OS bo'ladi.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Aussies haqida barcha sterotypes From, men sizga bolalar tushunishga         Albatta, qiyin.<Midgar>; p<Krusto> Biz senga koala qizlar otish olaman
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Yomg'ir |> * * nod o'zim, smarthosts yordamida ardoqlagan emasman<| Yomg'ir |> u Masofadagi kompyuterga ham tayanadi va mezbon aqlli deb<| Yomg'ir |> va ham tez-tez shu maqsadlarga ham bir sog'indim
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+SourceForge yondashuv, ba'zi yumshoq loyihalarni barcha joylashtirish uchun,uylarning barcha faqat, o'xshash "ochiq manba surburbia",qaysi bino rejasi ranglar va kichik uslubi tafovutlar (qaysi ishlatilganXususan uy) cheklovchi ahdlarga va mahalliy tomonidan ruxsat berilganrayonlashtirish qonunlar. Sourceforege ochiq manba tengfilm "Edward Scissorhands» ham bo'linmasi.
+		-- Terry Lambert
+
+%
+<Calc> Knghtbrd: IRC juda yaxshi c kodni kompilyatsiya emas;)
+		-- Terry Lambert
+
+%
+* | Yomg'ir | poligon sho'rva uchun tayyorlaydi<| Yomg'ir |> shirin mehribon axlatni, ishlaydi?* | Yomg'ir | hushidan ketib qolayotgan ekan
+		-- Terry Lambert
+
+%
+"Bu bir sonuçtu chunki Microsoft uning XML pollarida bo'ladiWin32 asoslangan tarkibiy mayoqlar bilan, eng yaxshi haqida aytgan bo'lishi mumkin, debXML uning qabul qilinishi bu brauzerlari uchun oson, uni qiladi, deb hisoblanadi vanon-Windows platformalarida arizalar qaysi qismlarini tushunish uchunu e'tiborsizlik kerak hujjatlashtirish. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robert> i so'z erkinligi uchun, ba'zi oqilona cheklashlar ham bor tushunish         amerika, masalan men bir olomon teatr tomon do'zaxga qichqiriq mumkin emas.. Lekin i faqat 5 yoki 6 kishilar bilan teatr tomon olovni baqirib mumkinunda?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+och qoringa <AW> Kofe qaynatgichlar va kofe go'zal nasy bo'ladi<Knghtbrd> AW: vaqt cheetos uchun otomat kompyuterida ishlatish uchun<AW> cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Yomg'ir |> oqil kod bilan, balki men oluşturucuyu tushunishga mumkin :)<LordHavoc> yomg'ir: Men, ehtimol oluşturucuyu yozishni bir bo'lar edim<| Yomg'ir |>, ar, shuningdek uh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Yomg'ir |> Knghtbrd: meni sen zonasi fayllar uchun kirish bersin<Knghtbrd> O, tangrilar, - siz men mingdan huquqi bilan o'ynagan hech qachon tushunib qilasiz?<| Yomg'ir |> uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> bu #OpenGL emas, balki #GEEKSEX bo'lib, rad, nazar sol.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* TwingyAFK 17 "tekis panel uchun xarid qilingan* AW TwingyAFK fanera bir parcha sotadi
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Agar ba'zi aptekadan uchun borish kerak bo'lsa, u noqulay emas"Maxsus mahsulot", va siz tashqariga nazorat qolinishini, kassir sizga qaraydikabi, "siz bugun nima qilyapsiz oh, men bilaman ..."Ha, bu g'aznachi, TheraFlu barcha oyat-belgilar ... konserva tovuq sho'rva o'qibZallari, NyQuil, OJ va greypfrut sharbati bigass shisha ... u bilardiMen teevee va pastga yorgan bilan bir sana, deb bilar edi. Awwwha.
+		-- Elizabeth Kirkindall
+
+%
+ko'pincha olimlar », derlar bo'ladi fan Siz bu, albatta, bilamanyaxshi argument; Mening holati, xato bo'ladi va so'ngra ular aslida o'zgartirishularning qalblari va ulardan o'sha eski ko'rinishi yana eshitish hech qachon. ular, albatta,qil. olimlar, chunki u, deb tez-tez bo'lishi kerak, kabi sodir bo'lmaydiinson va o'zgarish ba'zan og'riqli bo'ladi. Lekin u har kuni sodir bo'ladi. Qila olmaymanshunga o'xshash bir narsa siyosat yoki dinga sodir oxirgi marta eslang.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> a GF2 / 3, juda katta bir qattiq haydovchi va 15 "tekis panel qo'shing va           Agar juda la'nati ko'chma mashinasini bor.<Coderjoe> a GeForce uchdan ikki qismi?<Knghtbrd> Coderjoe: ha, bir GeForce uchdan ikki qismi, ya'ni, ismi, har qanday karta.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo GCN eng mashhur Console Ever e'lon<Knghtbrd> ular kim xazillashyapsizmi?<Mercury> knghtbrd: fond egalari?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> uchun Windows rassomlar ko'pchiligi qobiliyatini shart emas            XPM saqlab<Mercury> LordHavoc: Ular notepad yo'q? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+Linux buyruqlar satri tushunchasini yoki bir xil sabablarga ko'ra bir qobiq qo'llab-quvvatlaydifaqat bolalar ularda faqat rasmlar bilan kitob o'qib. Til, uni bo'lishiIngliz tili yoki boshqa narsa, amalga oshirish uchun etarli moslashuvchan faqat havola etadivazifalarni etarli darajada keng.
+		-- Bill Garrett
+
+%
+## Sign off: isyonchi ( «frazzin" razzin motherfu ... ahmoq DirectX ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: Men hali bir imlo tekshirgichidan uchun hech qanday ehtiyoj qarang kow emas edi<Knghtbrd> agar siz aytayotgan edi?
+		-- Bill Garrett
+
+%
+<Knghtbrd> I yaxshiroq kurib qoralash narsalar qo'yish edim: ahfuiovka           ikperoa edfr Ade 9 enbuw ejasxleme ka IENA df4mesaSiz bu parolini hal bo'lsa <Knghtbrd>, siz mendan yaxshiroq Cryptographer odamsiz           emasman. =)
+		-- Bill Garrett
+
+%
+<RCW> liiwi: printk ( "olov \ n CPU0");
+		-- Bill Garrett
+
+%
+<Electro> mening kompyuter bir marta katta binosi bloklar biri edi          ehrom
+		-- Bill Garrett
+
+%
+Diqqat: taxmin qilinadi chekish ko'rgan har bir kishi o't bo'lish va bo'ladi        summarily chiqib qo'ydi.
+		-- Bill Garrett
+
+%
+<Markm> c ++: bir qo'l granata kuchi, xushbichimlik va soddalik
+		-- Bill Garrett
+
+%
+<Knghtbrd> lekin ko'rinishida va ro'yxatdan boshiga hech boshiga bir sort ko'ra tortishuvlarga yaxshiroqdir           O (n + n ** 2) ko'rinishida va O boshiga (n ** 2) ro'yxatiga boshiga.<Knghtbrd> OMG, kimdir meni ur.<Coderjoe2>?<Knghtbrd> Men faqat nima uchun katta g'oz-tuxum foydalanish iymon mumkin emas mening           yo'l ehtimol uzoq muddatda yaxshi bo'ladi.
+		-- Bill Garrett
+
+%
+<Hoponpop> i xatolar olib, mening dasturi ishlaydi.
+		-- Bill Garrett
+
+%
+<Mercury> Knghtbrd: Hey, Perl bolg'a kuchi nazokat va nafosatni bor          Hammer. (=:]<| Yomg'ir |> albatta inoyat va baribir hos,
+		-- Bill Garrett
+
+%
+<DannyS> (*) $ 20 g'alaba qozonish uchun maymun ur!* Knghtbrd uning bolg'acha chiqib oladi.* Knghtbrd o'simliklar uni mahkam DannyS boshiga.* Knghtbrd endi uning $ 20 oladi. = D
+		-- Bill Garrett
+
+%
+<Gholam> shuningdek I ta'sirlanib emasman<Gholam> Win98 VMware ichidan X blokirovku qilishga muvaffaq bo'ldi.* Gholam olqishlaydi.
+		-- Bill Garrett
+
+%
+oltin standart "," NVIDIA ning OpenGL haydovchilar mening bor ", va u juda bo'ldiMen ularning brendi ham ularga bir muammo hisobot va kerak edi, chunki esaMen ularni sinash birinchi marta hujjatlashtirilgan yangi kengaytmalari ishlash. Qachon men borbir NVIDIA haqida bir muammo, bu mening aybim emas, deb taxmin. boshqalarning bilanhaydovchilar, men ularning aybi deylik. Bu to'g'ri deyarli chiqdihar doim."
+		-- John Carmack
+
+%
+Libtool kutubxona taşınabilirlik oz faqat ko'proq ehtimol bo'lgan birgalikdadoimiy harakat mashinalari. Ayniqsa :) AIX kuni ".
+		-- David Leimbach
+
+%
+<Overfiend> bu Yangi Overfiend, Sevgi va Bag'rikenglik xatib bo'lib
+		-- David Leimbach
+
+%
+<Hoponpop> deb NetBSD, FreeBSD, OpenBSD va o'rtasidagi farqni,           insider freebsd narsalar amalga cho'mish manfaatdor bo'lib,ularning tarzda olish odamlarni xafa parvo qilmaydi.<Hoponpop> NetBSD amalga oladi ishonch hosil qilish hech narsa manfaatdor, va           narsalarni amalga oshirish uchun harakat odamlarni xafa parvo qilmaydi.<Hoponpop> OpenBSD yaxshi qarab manfaatdor va hech kimga zarar bermaydi           o'z kichik jamiyatda, balki boshqa hammani tashqariga qarash!
+		-- David Leimbach
+
+%
+<Liiwi> Shunday qilib, bir paketini qayta urinib ko'ring buildd uchun rasmiy yo'li nima? prod        bir tayoq bilan?<Joey> prod neyro<Liiwi> tayoq bilan?<Joey> ha.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... siz ko'proq ortiq Tuzuvchining barcha turdagi ko'rasiz           ogohlantirishlar ekranda suzuvchi. Bu normal va mumkinbo'lishi xavfsiz e'tiborsiz ".<LordHavoc> Knghtbrd: a note ba'zi M $ kodi biriktirilgan deb?<Knghtbrd> Yo'q, GNU narsalar bir guruh haqida eslatma bo'ldi.
+		-- David Leimbach
+
+%
+<Hydroxide> knightbrd: knightbrd.brain import * dan :)<Knghtbrd> Oh xudolarga u oson bo'lsa ..<Knghtbrd> carmack.brain import OpenGL dan
+		-- David Leimbach
+
+%
+<Bilaylik> mmmm, multitextured donuts ....<Knghtbrd> Lim: meva to'ldirish bilan?<Bilaylik> knghtbrd: shokolad cream ...
+		-- David Leimbach
+
+%
+<StevenK> Siz * * Python Quake qismlarini qayta-ku?<Knghtbrd> MUAHAHAHA
+		-- David Leimbach
+
+%
+## A_nick (nobody@c213-89-87-111.cm-upc.chello.se) #python qo'shildi<A_nick> qanday i bir lug'atga yangi kalit kiritishim kerak?<A_nick> nm<Dash> heh :)<Dash> #python muammosi hal qilish kuchi banogoh.
+		-- David Leimbach
+
+%
+<Hop_> i i qizil bilan qoplangan edi tovuq, deb o'ylayman narsa bor       tuyulardi pastasini qancha asosida lye tashkil topgan bo'lishi mening       Bu yuz yoqib Chet.<Hop_> Hindiston bizning do'stimiz bu eng hindlarning yupqa nima deydi       va men u sizni olish uchun bu oziq-ovqat juda ko'p emas "iqtibos       rozi enoguh eb to'xtatish uchun. "
+		-- David Leimbach
+
+%
+<Niyat> "Bu pul tan, klassik suzmoq-up iqtisodiy bo'ldi            go'ng o'xshaydi: Agar atrofida uni yoyib, agar eng yaxshi ishlaydi ".<Knghtbrd> qasd Carter ning bog'liqlik: poda bilan odamlar yo           odatda kulgili hidi<Niyat> Knghtbrd: Siz SO g'olib.
+		-- David Leimbach
+
+%

@@ -1,0 +1,1359 @@
+BOFH excuse n ° 1:vitesse de l'horloge
+
+%
+BOFH excuse # 2:éruptions solaires
+
+%
+BOFH excuse # 3:rayonnement électromagnétique provenant de débris de satellite
+
+%
+BOFH excuse # 4:statique de sous-vêtements de nylon
+
+%
+BOFH excuse # 5:statique de règles à calcul plastique
+
+%
+BOFH excuse # 6:le réchauffement climatique
+
+%
+BOFH excuse # 7:puissance mauvais conditionnement
+
+%
+BOFH excuse # 8:accumulation d'électricité statique
+
+%
+BOFH excuse # 9:effet Doppler
+
+%
+BOFH excuse n ° 10:fractures de stress de matériel
+
+%
+BOFH excuse n ° 11:interférences magnétiques de l'argent / cartes de crédit
+
+%
+BOFH excuse n ° 12:joints secs sur la fiche du câble
+
+%
+BOFH excuse n ° 13:nous attendons [la compagnie de téléphone] pour fixer cette ligne
+
+%
+BOFH excuse n ° 14:sonne comme un problème de Windows, essayez d'appeler le support technique Microsoft
+
+%
+BOFH excuse n ° 15:anomalie routage temporaire
+
+%
+BOFH excuse n ° 16:quelqu'un calculait pi sur le serveur
+
+%
+BOFH excuse n ° 17:électrons de graisse dans les lignes
+
+%
+BOFH excuse n ° 18:protection contre les surtensions excès
+
+%
+BOFH excuse n ° 19:virgule flottante processeur débordement
+
+%
+BOFH excuse n ° 20:diviser par zéro erreur
+
+%
+BOFH excuse n ° 21:problème de conformité POSIX
+
+%
+BOFH excuse n ° 22:Résolution d'écran trop élevé
+
+%
+BOFH excuse n ° 23:Clavier orientée incorrectement
+
+%
+BOFH excuse n ° 24:paquets réseau de parcours en montée (utiliser un pigeon voyageur)
+
+%
+BOFH excuse n ° 25:Diminuant flux d'électrons
+
+%
+BOFH excuse n ° 26:premier samedi après la première pleine lune en hiver
+
+%
+BOFH excuse n ° 27:radiosité épuisement
+
+%
+BOFH excuse n ° 28:CPU radiateur cassé
+
+%
+BOFH excuse n ° 29:Il fonctionne de la façon dont le Wang a fait, quel est le problème
+
+%
+BOFH excuse n ° 30:positron mauvais fonctionnement du routeur
+
+%
+BOFH excuse n ° 31:interférences de téléphone cellulaire
+
+%
+BOFH excuse n ° 32:le stress Techtonic
+
+%
+BOFH excuse n ° 33:interférence piézo-électrique
+
+%
+BOFH excuse n ° 34:(L) erreur de l'utilisateur
+
+%
+BOFH excuse n ° 35:travailler comme prévu
+
+%
+BOFH excuse n ° 36:table de liaison logicielle dynamique corrompu
+
+%
+BOFH excuse n ° 37:les fluctuations de la gravité lourde, déplacer l'ordinateur au sol rapidement
+
+%
+BOFH excuse n ° 38:secrétaire branché un sèche-cheveux dans UPS
+
+%
+BOFH excuse n ° 39:activités terroristes
+
+%
+BOFH excuse n ° 40:pas assez de mémoire, aller chercher la mise à niveau du système
+
+%
+BOFH excuse n ° 41:erreur de configuration d'interruption
+
+%
+BOFH excuse n ° 42:l'échec de paquet de cause câble spaghetti
+
+%
+BOFH excuse n ° 43:patron a oublié le mot de passe du système
+
+%
+BOFH excuse n ° 44:férié - crédits de fonctionnement du système pas rechargées
+
+%
+BOFH excuse n ° 45:attaque de virus, responsable luser
+
+%
+BOFH excuse n ° 46:réservoir d'eaux usées a débordé sur ordinateur
+
+%
+BOFH excuse n ° 47:Complète transitoire Lockout
+
+%
+BOFH excuse n ° 48:mauvaise éther dans les câbles
+
+%
+BOFH excuse n ° 49:émissions Bogon
+
+%
+BOFH excuse # 50:Modification de la vitesse de rotation de la Terre
+
+%
+BOFH excuse n ° 51:les particules des rayons cosmiques défoncé le disque dur plateau
+
+%
+BOFH excuse n ° 52:Odeur de personnel d'entretien insalubres naufrage des têtes
+
+%
+BOFH excuse n ° 53:Petit hamster dans la roue de roulement avait coronarienne; attente pour le remplacement à Fedexed du Wyoming
+
+%
+BOFH excuse n ° 54:chiens méchants hypnotisés le quart de nuit
+
+%
+BOFH excuse n ° 55:Plombier confondu panneau décoratif de routage pour fixation murale
+
+%
+BOFH excuse n ° 56:Electriciens fait pop-corn dans l'alimentation
+
+%
+BOFH excuse n ° 57:Jardiniers ont volé le mot de passe root
+
+%
+BOFH excuse n ° 58:défaillance du système à haute pression
+
+%
+BOFH excuse n ° 59:essais ont échoué, les besoins du système redessinés
+
+%
+BOFH excuse n ° 60:système a été rappelé
+
+%
+BOFH excuse n ° 61:pas approuvé par la FCC
+
+%
+BOFH excuse n ° 62:besoin d'envelopper système dans une feuille d'aluminium pour fixer problème
+
+%
+BOFH excuse n ° 63:pas correctement mise à la terre, s'il vous plaît enterrer ordinateur
+
+%
+BOFH excuse n ° 64:CPU doit recalibrage
+
+%
+BOFH excuse n ° 65:système doit être redémarré
+
+%
+BOFH excuse n ° 66:débordement de seau de bits
+
+%
+BOFH excuse n ° 67:décrypter le code nécessaire à partir de la société de logiciels
+
+%
+BOFH excuse n ° 68:disponible uniquement sur un besoin de savoir
+
+%
+BOFH excuse n ° 69:noeud dans les câbles causé flux de données pour devenir tordu et plié
+
+%
+BOFH excuse # 70:cafards nidification en court-circuit sur le câble de l'éther
+
+%
+BOFH excuse n ° 71:Le système de fichiers est plein de lui
+
+%
+BOFH excuse n ° 72:Satan l'a fait
+
+%
+BOFH excuse n ° 73:Démons l'ont fait
+
+%
+BOFH excuse n ° 74:Vous êtes hors de la mémoire
+
+%
+BOFH excuse n ° 75:Il n'y a pas de problème
+
+%
+BOFH excuse # 76:disque dur non optimisée
+
+%
+BOFH excuse # 77:Faute de frappe dans le code
+
+%
+BOFH excuse n ° 78:Oui, oui, elle est appelée une limitation de conception
+
+%
+BOFH excuse n ° 79:Regardez, mon pote: Windows 3.1 est une erreur de protection générale.
+
+%
+BOFH excuse # 80:Voilà un grand ordinateur que vous avez là; avez-vous pensé comment cela fonctionnerait comme une machine de BSD?
+
+%
+BOFH excuse # 81:S'il vous plaît pardonnez-moi, je dois circuit une ligne AC dans ma tête pour obtenir ce travail de base de données.
+
+%
+BOFH excuse # 82:Ouais, maman de yo robes que vous drôles et vous avez besoin d'une souris pour supprimer des fichiers.
+
+%
+BOFH excuse n ° 83:Le personnel de soutien suspendue au-dessus, envoyer l'aspirine et revenir plus tard.
+
+%
+BOFH excuse # 84:Quelqu'un est debout sur le câble Ethernet, ce qui provoque un coude dans le câble
+
+%
+BOFH excuse # 85:Windows 95 sans-papiers "fonctionnalité"
+
+%
+BOFH excuse # 86:paquets Runt
+
+%
+BOFH excuse # 87:Mot de passe est trop complexe pour décrypter
+
+%
+BOFH excuse # 88:kid Boss foutu la machine
+
+%
+BOFH excuse # 89:la perte d'énergie électromagnétique
+
+%
+BOFH excuse # 90:Compressions budgétaires
+
+%
+BOFH excuse # 91:Souris mâchée par le câble d'alimentation
+
+%
+BOFH excuse # 92:descripteur de fichier Stale (la prochaine fois utiliser Tupperware (tm)!)
+
+%
+BOFH excuse # 93:Fonctionnalité non encore mis en œuvre
+
+%
+BOFH excuse # 94:coupure d'Internet
+
+%
+BOFH excuse # 95:Pentium FDIV bug
+
+%
+BOFH excuse # 96:Fournisseur ne supporte plus le produit
+
+%
+BOFH excuse # 97:Petit attaque kamikaze animale sur les alimentations
+
+%
+BOFH excuse # 98:Le vendeur a mis le bug là.
+
+%
+BOFH excuse # 99:diaphonie SIMM.
+
+%
+BOFH excuse # 100:IRQ abandon
+
+%
+BOFH excuse n ° 101:Backbone effondré
+
+%
+BOFH excuse n ° 102:Power Company tester nouveau pic de tension (création) équipement
+
+%
+BOFH excuse n ° 103:opérateurs en grève en raison de la machine à café cassé
+
+%
+BOFH excuse n ° 104:sauvegarde sur bande écrasé par copie de CD préféré de gestionnaire de système
+
+%
+BOFH excuse n ° 105:UPS interrompu l'alimentation du serveur
+
+%
+BOFH excuse n ° 106:L'électricien ne savait pas ce que le câble jaune était tellement il tira l'Ethernet sur.
+
+%
+BOFH excuse n ° 107:Le clavier est pas branché
+
+%
+BOFH excuse n ° 108:Le tuyau d'alimentation en eau de climatisation rompu au cours de la salle des machines
+
+%
+BOFH excuse n ° 109:La sous-station d'électricité dans le parc de voiture a explosé.
+
+%
+BOFH excuse n ° 110:Le rolling stones concert sur la route a provoqué une microcoupure
+
+%
+BOFH excuse n ° 111:Le vendeur a roulé sur la carte CPU.
+
+%
+BOFH excuse n ° 112:Le moniteur est branché sur le port série
+
+%
+BOFH excuse n ° 113:serveurs de noms racines ne sont pas synchronisés
+
+%
+BOFH excuse n ° 114:impulsions électro-magnétiques du français au-dessus des essais nuke au sol.
+
+%
+BOFH excuse n ° 115:la barre d'espace de votre clavier génère des codes d'activation parasites.
+
+%
+BOFH excuse n ° 116:les vrais ttys devenus ttys pseudo et vice-versa.
+
+%
+BOFH excuse n ° 117:l'imprimante pense son routeur a.
+
+%
+BOFH excuse n ° 118:le routeur pense son une imprimante.
+
+%
+BOFH excuse n ° 119:pirates maléfiques de la Serbie.
+
+%
+BOFH excuse # 120:nous avons juste changé pour FDDI.
+
+%
+BOFH excuse n ° 121:système de halons a explosé et tué les opérateurs.
+
+%
+BOFH excuse n ° 122:parce que Bill Gates est le témoin de Jéhovah et ainsi rien ne peut travailler le jour de la Saint-Médard.
+
+%
+BOFH excuse n ° 123:utilisateur de rapport d'ordinateur trop élevé.
+
+%
+BOFH excuse n ° 124:utilisateur de ration trop faible de l'ordinateur.
+
+%
+BOFH excuse n ° 125:nous avons juste changé pour Sprint.
+
+%
+BOFH excuse n ° 126:il a l'intérieur Intel
+
+%
+BOFH excuse n ° 127:bit sticky sur le disque.
+
+%
+BOFH excuse n ° 128:Power Company ayant des problèmes de PGE avec leur réacteur
+
+%
+BOFH excuse n ° 129:La bague besoin d'un autre jeton
+
+%
+BOFH excuse n ° 130:nouvelle direction
+
+%
+BOFH excuse n ° 131:telnet: Impossible de se connecter à un hôte distant: Connexion refusée
+
+%
+BOFH excuse n ° 132:Chaîne SCSI overterminated
+
+%
+BOFH excuse n ° 133:Il est pas branché.
+
+%
+BOFH excuse n ° 134:à cause de réseau retard en raison de trop de gens qui jouent deathmatch
+
+%
+BOFH excuse n ° 135:Vous mettez le disque dans la tête en bas.
+
+%
+BOFH excuse # 136:Démons perdent dans le système.
+
+%
+BOFH excuse n ° 137:L'utilisateur a la distribution de pornographie sur le serveur; système saisi par le FBI.
+
+%
+BOFH excuse n ° 138:BNC (cerveau pas connecté)
+
+%
+BOFH excuse n ° 139:UBNC (utilisateur cerveau pas connecté)
+
+%
+BOFH excuse n ° 140:LBNC (luser cerveau pas connecté)
+
+%
+BOFH excuse n ° 141:disques tourner en sens inverse - basculer le cavalier de l'hémisphère.
+
+%
+BOFH excuse n ° 142:nouvelles lignes téléphoniques gars cross-connectés avec le bus d'alimentation en courant alternatif.
+
+%
+BOFH excuse # 143:a dû utiliser un marteau pour libérer coincées têtes du lecteur de disque.
+
+%
+BOFH excuse n ° 144:Trop peu computrons disponibles.
+
+%
+BOFH excuse n ° 145:Crevaison sur break avec des bandes. ( "Jamais sous-estimer la bande passante d'un break plein de bandes lançant sur l'autoroute" Andrew S. Tannenbaum)
+
+%
+BOFH excuse n ° 146:satellite de communication utilisé par les militaires pour la guerre des étoiles.
+
+%
+BOFH excuse n ° 147:Parti-bug dans le protocole Aloha.
+
+%
+BOFH excuse n ° 148:Insert Coin pour nouveau jeu
+
+%
+BOFH excuse n ° 149:Rosée sur les lignes téléphoniques.
+
+%
+BOFH excuse # 150:Arcserve écrasé à nouveau le serveur.
+
+%
+BOFH excuse n ° 151:Quelqu'un nécessaire la barrette d'alimentation, de sorte qu'ils tiré la prise de commande.
+
+%
+BOFH excuse n ° 152:Ma queue de cheval a frappé le commutateur marche / arrêt sur la bande d'alimentation.
+
+%
+BOFH excuse n ° 153:Big à petite erreur de conversion boutiste
+
+%
+BOFH excuse n ° 154:Vous pouvez régler un système de fichiers, mais vous ne pouvez pas régler un poisson (de la plupart des pages tunefs homme)
+
+%
+BOFH excuse n ° 155:terminal passif
+
+%
+BOFH excuse n ° 156:processus de Zombie hantent l'ordinateur
+
+%
+BOFH excuse n ° 157:synchronisation de l'heure incorrecte
+
+%
+BOFH excuse n ° 158:processus défunts
+
+%
+BOFH excuse n ° 159:processus tenaces
+
+%
+BOFH excuse # 160:panne de ventilateur non redondant
+
+%
+BOFH excuse n ° 161:surveiller les fuites VLF
+
+%
+BOFH excuse n ° 162:bugs dans le RAID
+
+%
+BOFH excuse n ° 163:pas «tout» touche du clavier
+
+%
+BOFH excuse n ° 164:la pourriture des racines
+
+%
+BOFH excuse n ° 165:backbone scoliose
+
+%
+BOFH excuse n ° 166:/ Pub / déjeuner
+
+%
+BOFH excuse n ° 167:collisions excessives et pas assez ambulances de paquets
+
+%
+BOFH excuse n ° 168:le0: aucun transporteur: problème de câble d'émetteur-récepteur?
+
+%
+BOFH excuse # 169:diffuser des paquets sur mauvaise fréquence
+
+%
+BOFH excuse n ° 170:popper incapable de traiter noyau jumbo
+
+%
+BOFH excuse n ° 171:AVIS: alloc: / dev / null: système de fichiers complet
+
+%
+BOFH excuse n ° 172:pseudo-utilisateur sur un pseudo-terminal
+
+%
+BOFH excuse n ° 173:parcours récursif de bouclage des points de montage
+
+%
+BOFH excuse n ° 174:réglage de Backbone
+
+%
+BOFH excuse n ° 175:OS échangé sur le disque
+
+%
+BOFH excuse n ° 176:vapeurs provenant d'évaporation adhésifs collant-note
+
+%
+BOFH excuse n ° 177:sticktion
+
+%
+BOFH excuse n ° 178:jambe courte sur la table de processus
+
+%
+BOFH excuse n ° 179:multidiffusions sur les paquets cassés
+
+%
+BOFH excuse # 180:fuite d'éther
+
+%
+BOFH excuse n ° 181:Atilla le Hub
+
+%
+BOFH excuse # 182:recalibrage endothermique
+
+%
+BOFH excuse # 183:système de fichiers pas assez grand pour Jumbo Kernel Patch
+
+%
+BOFH excuse n ° 184:boucle trouvé en boucle dans boucle redondante
+
+%
+BOFH excuse # 185:système consommé tout le papier pour la pagination
+
+%
+BOFH excuse n ° 186:permission refusée
+
+%
+BOFH excuse # 187:Reformatage page. Attendez...
+
+%
+BOFH excuse n ° 188:..disk ou le processeur est en feu.
+
+%
+BOFH excuse n ° 189:SCSI est trop large.
+
+%
+BOFH excuse # 190:Renseignements exclusifs.
+
+%
+BOFH excuse n ° 191:Il suffit de taper «mv * / dev / null '.
+
+%
+BOFH excuse # 192:cat emballement sur le système.
+
+%
+BOFH excuse # 193:Avez-vous payé les nouveaux frais de soutien?
+
+%
+BOFH excuse n ° 194:Nous soutenons qu'une bps connexion 1200.
+
+%
+BOFH excuse n ° 195:Nous soutenons qu'une connexion 28000 bps.
+
+%
+BOFH excuse # 196:Me aucun étages internet, que concierge, moi de cire.
+
+%
+BOFH excuse n ° 197:Je suis désolé un pentium ne le fera pas, vous avez besoin d'un SIG pour communiquer avec nous.
+
+%
+BOFH excuse n ° 198:Post-it boues fuite dans le moniteur.
+
+%
+BOFH excuse n ° 199:les boucles dans votre cordon du clavier sont en train de perdre l'électricité.
+
+%
+BOFH excuse # 200:Le moniteur a besoin une autre boîte de pixels.
+
+%
+BOFH excuse # 201:RPC_PMAP_FAILURE
+
+%
+BOFH excuse # 202:kernel panic: écriture seule mémoire (/ dev / wom0) Capacité dépassée.
+
+%
+BOFH excuse # 203:Écriture seule-système de mémoire trop lent pour cette machine. Contactez votre revendeur local.
+
+%
+BOFH excuse # 204:Il suffit de prendre le téléphone et de donner modem se connecte sons. "Eh bien, vous avez dit que nous devrions obtenir plus de lignes de sorte que nous ne disposons pas des lignes téléphoniques."
+
+%
+BOFH excuse n ° 205:Dynamique quantique affectent les transistors
+
+%
+BOFH excuse # 206:La police examinent tous les paquets d'Internet dans la recherche d'un filet-trafiquant narco
+
+%
+BOFH excuse n ° 207:Nous essayons actuellement un nouveau concept d'utilisation d'une souris vivante. Malheureusement, on n'a pas encore de survivre étant relié à l'ordinateur ..... s'il vous plaît garder avec nous.
+
+%
+BOFH excuse n ° 208:Votre email est acheminé à travers l'Allemagne ... et ils nous censurer.
+
+%
+BOFH excuse # 209:Seules les personnes dont le nom commence par 'A' électronique obtiennent cette semaine (à la Microsoft)
+
+%
+BOFH excuse # 210:On n'a pas payé la facture d'Internet et il a été coupé.
+
+%
+BOFH excuse # 211:La foudre.
+
+%
+BOFH excuse n ° 212:Bien sûr, il ne fonctionne pas. Nous avons effectué une mise à niveau logicielle.
+
+%
+BOFH excuse n ° 213:Changer la langue vers le Finnois.
+
+%
+BOFH excuse # 214:Les lampes fluorescentes génèrent des ions négatifs. Si les désactivant ne fonctionne pas, les sortir et de mettre une feuille d'étain sur les extrémités.
+
+%
+BOFH excuse # 215:activité nucléaire élevé dans votre région.
+
+%
+BOFH excuse # 216:Quel bureau êtes-vous? Oh, celui-là. Saviez-vous que votre bâtiment a été construit sur le premier site de recherche nucléaire des universités? Et wow, n'êtes-vous pas de la chance, votre bureau est juste au-dessus où le coeur est enterré!
+
+%
+BOFH excuse n ° 217:Les MG ont manqué de gaz.
+
+%
+BOFH excuse n ° 218:L'onduleur n'a pas de batterie de secours.
+
+%
+BOFH excuse n ° 219:Récursivité. Rappeler si cela se reproduit.
+
+%
+BOFH excuse # 220:Quelqu'un a pensé Le gros bouton rouge était un interrupteur de lumière.
+
+%
+BOFH excuse # 221:Le mainframe a besoin de repos. Il se fait vieux, vous savez.
+
+%
+BOFH excuse # 222:Je ne suis pas sûr. Essayez d'appeler le siège social de l'Internet - il est dans le livre.
+
+%
+BOFH excuse n ° 223:Les lignes sont tous occupés (occupa out, qui est - pourquoi les laisser entrer pour commencer).
+
+%
+BOFH excuse # 224:9 janvier 16:41:27 Huber su: 'su root' a réussi pour .... sur / dev / pts / 1
+
+%
+BOFH excuse # 225:Ce sont ces ordinateurs de personnes dans X {ville du monde}. Ils gardent les choses de la farce jusqu'à.
+
+%
+BOFH excuse # 226:Un satellite de la guerre des étoiles accidentellement fait sauter le WAN.
+
+%
+BOFH excuse n ° 227:droit d'erreur fatale, devant l'écran
+
+%
+BOFH excuse # 228:Cette fonction ne sont pas actuellement pris en charge, mais Bill Gates nous assure qu'il sera présenté dans la prochaine mise à jour.
+
+%
+BOFH excuse n ° 229:inversion de polarité du flux neutronique
+
+%
+BOFH excuse # 230:courbe d'apprentissage internouilles semble être fractale
+
+%
+BOFH excuse # 231:Nous avons dû désactiver ce service pour se conformer à la loi CDA.
+
+%
+BOFH excuse # 232:Ionisation de l'air conditionné
+
+%
+BOFH excuse # 233:TCP / UDP IP seuil d'alarme est réglé trop bas.
+
+%
+BOFH excuse # 234:Quelqu'un diffuse des paquets de pygmées et le routeur ne sait pas comment traiter avec eux.
+
+%
+BOFH excuse # 235:Le nouveau réseau de relais de trame n'a pas encore lits bas de l'émetteur de la boucle de logiciel.
+
+%
+BOFH excuse n ° 236:Fanout de chute de tension trop, essayer de couper certaines de ces petites traces
+
+%
+BOFH excuse n ° 237:Tension trop faible sur le tube de démodulateur Plate
+
+%
+BOFH excuse n ° 238:Vous avez fait wha ... oh _dear _....
+
+%
+BOFH excuse n ° 239:CPU doit roulements réemballés
+
+%
+BOFH excuse # 240:Trop de petites broches CPU confondant, se pencher en arrière jusqu'à ce que 10-20% sont soigneusement enlevés. Ne laissez _not_ morceaux de métal visible!
+
+%
+BOFH excuse n ° 241:_Rosin_ Noyau de soudure? Mais...
+
+%
+BOFH excuse n ° 242:Software US utilise des mesures, mais le système d'exploitation est en mesure ...
+
+%
+BOFH excuse n ° 243:L'ordinateur fleetly, souris et tout.
+
+%
+BOFH excuse # 244:Votre chat a essayé de manger la souris.
+
+%
+BOFH excuse n ° 245:Le Borg a tenté d'assimiler votre système. La résistance est futile.
+
+%
+BOFH excuse n ° 246:Il doit avoir été l'orage que nous avions (hier) (la semaine dernière) (le mois dernier)
+
+%
+BOFH excuse n ° 247:En raison de problèmes budgétaires fédérales, nous avons été obligés de réduire le nombre d'utilisateurs pouvant accéder au système à un moment donné. (À savoir pas permis ....)
+
+%
+BOFH excuse # 248:Trop de rayonnement provenant du sol.
+
+%
+BOFH excuse n ° 249:Malheureusement, nous avons plus de bits / octets / whatever. Ne vous inquiétez pas, la prochaine offre viendra la semaine prochaine.
+
+%
+BOFH excuse # 250:charge trop lourde pour le processeur de lever du programme.
+
+%
+BOFH excuse n ° 251:Processus exécutés lentement en raison de la faible puissance électrique
+
+%
+BOFH excuse n ° 252:Notre fournisseur de services Internet est d'avoir {commutation, routage, SMDS, relais de trame} problèmes
+
+%
+BOFH excuse # 253:Nous avons plus de licences
+
+%
+BOFH excuse n ° 254:Interférence de rayonnement lunaire
+
+%
+BOFH excuse n ° 255:Standing Room Only sur le bus.
+
+%
+BOFH excuse n ° 256:Vous devez installer une interface RTFM.
+
+%
+BOFH excuse n ° 257:Ce serait parce que le logiciel ne fonctionne pas.
+
+%
+BOFH excuse n ° 258:Qui est facile à résoudre, mais je ne peux pas être dérangé.
+
+%
+BOFH excuse n ° 259:la cravate de quelqu'un est pris dans l'imprimante, et si quelque chose d'autre est imprimé, il sera en trop.
+
+%
+BOFH excuse # 260:Nous mettons à jour / dev / null
+
+%
+BOFH excuse # 261:Les nouvelles Usenet est obsolète
+
+%
+BOFH excuse n ° 262:Notre serveur POP a été enlevé par une belette.
+
+%
+BOFH excuse # 263:Il est coincé dans le Web.
+
+%
+BOFH excuse # 264:Votre modem ne parle pas anglais.
+
+%
+BOFH excuse # 265:La souris a échappé.
+
+%
+BOFH excuse # 266:Tous les paquets sont vides.
+
+%
+BOFH excuse # 267:L'onduleur est en grève.
+
+%
+BOFH excuse # 268:surcharge de neutrinos sur le serveur de noms
+
+%
+BOFH excuse n ° 269:Melting disques durs
+
+%
+BOFH excuse n ° 270:Quelqu'un a foiré les pointeurs du noyau
+
+%
+BOFH excuse # 271:La licence du noyau a expiré
+
+%
+BOFH excuse # 272:Netscape a écrasé
+
+%
+BOFH excuse # 273:Le cordon sauté par-dessus et cliquez sur le bouton d'alimentation.
+
+%
+BOFH excuse n ° 274:Il était OK avant de touché.
+
+%
+BOFH excuse # 275:bit rot
+
+%
+BOFH excuse n ° 276:US Postal Service
+
+%
+BOFH excuse # 277:Votre Flux Capacitor a mal tourné.
+
+%
+BOFH excuse # 278:Les cristaux Dilithium besoin d'être tourné.
+
+%
+BOFH excuse n ° 279:L'acheminement de l'électricité statique est des siennes ...
+
+%
+BOFH excuse # 280:Traceroute dit qu'il y a un problème de routage dans le squelette. Il est pas notre problème.
+
+%
+BOFH excuse n ° 281:La co-localisation ne peut pas vérifier la passerelle relais de trame au serveur RNIS.
+
+%
+BOFH excuse # 282:condensation à haute altitude de l'avion prototype U.S.A.F a contaminé le masque de sous-réseau primaire. Éteignez votre ordinateur pour 9 jours pour éviter de l'endommager.
+
+%
+BOFH excuse # 283:Tondeuse lame dans votre ventilateur besoin d'affûtage
+
+%
+BOFH excuse # 284:Électrons sur une cintreuse
+
+%
+BOFH excuse # 285:Télécommunications modernise.
+
+%
+BOFH excuse n ° 286:Télécommunications déclassement.
+
+%
+BOFH excuse n ° 287:Télécommunications est de rétrograder.
+
+%
+BOFH excuse # 288:Mal à dormir d'entraînement. Laissez-le se réveiller sur son propre ...
+
+%
+BOFH excuse n ° 289:Interférence entre le clavier et la chaise.
+
+%
+BOFH excuse n ° 290:La CPU a changé, et devenir décentralisée.
+
+%
+BOFH excuse # 291:En raison de la CDA, nous avons plus d'un compte root.
+
+%
+BOFH excuse n ° 292:Nous avons manqué de tonalité et nous et d'attente pour la compagnie de téléphone pour offrir une autre bouteille.
+
+%
+BOFH excuse # 293:Tu devais frapper la mauvaise touche quelconque.
+
+%
+BOFH excuse n ° 294:négrier PCMCIA
+
+%
+BOFH excuse # 295:Le jeton est tombé hors de l'anneau. Appelez-nous quand vous le trouvez.
+
+%
+BOFH excuse # 296:Le bus matériel a besoin d'un nouveau jeton.
+
+%
+BOFH excuse n ° 297:Trop interruptions
+
+%
+BOFH excuse n ° 298:Pas assez interruptions
+
+%
+BOFH excuse # 299:Les données sur votre disque dur est hors d'équilibre.
+
+%
+BOFH excuse # 300:Manipulateur numérique dépassant les paramètres de vitesse
+
+%
+BOFH excuse # 301:semble être une Narrow SCSI-0 problème lent / Interface
+
+%
+BOFH excuse # 302:microélectronique Riemann faute courbe de l'espace dans le système de fichier en écriture seule
+
+%
+BOFH excuse # 303:rayonnement fractale brouillage l'épine dorsale
+
+%
+BOFH excuse # 304:problèmes de routage sur le réseau neuronal
+
+%
+BOFH excuse # 305:IRQ-problèmes avec l'ONU-interruptible-Power-Supply
+
+%
+BOFH excuse # 306:CPU-angle doit être réglé à cause des vibrations provenant de la route à proximité
+
+%
+BOFH excuse # 307:émissions de GSM téléphones
+
+%
+BOFH excuse # 308:serveur CD-ROM doit recalibrage
+
+%
+BOFH excuse # 309:pare-feu doit refroidissement
+
+%
+BOFH excuse # 310:insuffisance inode asynchrone
+
+%
+BOFH excuse # 311:bus transitoire violation du protocole
+
+%
+BOFH excuse # 312:opérateurs bit-enregistrement incompatibles
+
+%
+BOFH excuse # 313:votre processus ne soit pas conforme ISO 9000
+
+%
+BOFH excuse n ° 314:Vous devez mettre à jour votre bus local VESA à un bus local MasterCard.
+
+%
+BOFH excuse # 315:La récente prolifération des essais nucléaires
+
+%
+BOFH excuse # 316:Elfes en grève. (Pourquoi font-ils appel EMAG Elf Magie)
+
+%
+BOFH excuse # 317:Internet a dépassé le niveau Luser, s'il vous plaît attendre un luser déconnecte avant de tenter de se connecter à nouveau.
+
+%
+BOFH excuse # 318:Votre e-mail est en cours de livraison par l'USPS.
+
+%
+BOFH excuse # 319:Votre ordinateur n'a pas été de retour tous les bits qu'il reçoit à partir d'Internet.
+
+%
+BOFH excuse # 320:Vous avez été infecté par le virus télescopique Hubble.
+
+%
+BOFH excuse # 321:Prévu panne générale du processeur
+
+%
+BOFH excuse # 322:Votre Pentium a un problème de chauffage - essayer de refroidissement avec de l'eau glacée (Ne mettez pas de votre ordinateur, vous ne voulez pas de refroidir la puce Pentium alors qu'il ne fonctionne pas, vous?).
+
+%
+BOFH excuse # 323:Votre processeur a traité trop d'instructions. Éteindre immédiatement, ne tapez les commandes !!
+
+%
+BOFH excuse # 324:Vos paquets ont été mangés par le terminateur
+
+%
+BOFH excuse # 325:Votre processeur ne se développe pas assez de chaleur.
+
+%
+BOFH excuse # 326:Nous avons besoin d'un électricien agréé pour remplacer les ampoules dans la salle informatique.
+
+%
+BOFH excuse # 327:Le serveur POP est hors de Coke
+
+%
+BOFH excuse # 328:Fibre optique causé la fuite principale de gaz
+
+%
+BOFH excuse # 329:Serveur déprimé, doit Prozac
+
+%
+BOFH excuse # 330:décohérence quantique
+
+%
+BOFH excuse # 331:ces maudits ratons laveurs!
+
+%
+BOFH excuse # 332:expérience routage sous-optimale
+
+%
+BOFH excuse # 333:Un plombier est nécessaire, la fuite du réseau est bouché
+
+%
+BOFH excuse # 334:50% de l'emploi est dans les fichiers readme .pdf
+
+%
+BOFH excuse # 335:la pile AA dans le wallclock envoie interférences magnétiques
+
+%
+BOFH excuse # 336:l'axe xy dans la boule de commande est coordonné avec le solstice d'été
+
+%
+BOFH excuse # 337:le butane provoque la pincushioning
+
+%
+BOFH excuse # 338:vieilles cartouches jet d'encre émanent des fumées à base de baryum
+
+%
+BOFH excuse # 339:gestionnaire dans le conduit de câble
+
+%
+BOFH excuse # 340:Eh bien corriger cela dans la prochaine (mise à niveau, mise à jour, correctifs de presse, service pack).
+
+%
+BOFH excuse # 341:HTTPD Erreur 666: BOFH était ici
+
+%
+BOFH excuse # 342:HTTPD Erreur 4004: très vieux CPU Intel - puissance de traitement insuffisante
+
+%
+BOFH excuse # 343:Le conseil ATM est à court de 10 billets d'une livre. Nous allons avoir un tour de fouet pour le remplir, les soins de contribuer?
+
+%
+BOFH excuse # 344:panne de réseau - appeler NBC
+
+%
+BOFH excuse # 345:Avoir à suivre manuellement le satellite.
+
+%
+BOFH excuse # 346:Votre / notre ordinateur (s) avait subi une fuite de mémoire, et nous attendons pour eux d'être réapprovisionné.
+
+%
+BOFH excuse # 347:La bande de caoutchouc cassé
+
+%
+BOFH excuse # 348:Nous sommes sur Token Ring, et il semble que le jeton se lâche.
+
+%
+BOFH excuse # 349:Stray particules alpha de l'emballage de mémoire causé une erreur du disque mémoire sur le serveur.
+
+%
+BOFH excuse # 350:changement de paradigme ... sans embrayage
+
+%
+BOFH excuse # 351:PEBKAC (problème existe entre le clavier et le président)
+
+%
+BOFH excuse # 352:Les câbles ne sont pas de même longueur.
+
+%
+BOFH excuse # 353:effet de second système.
+
+%
+BOFH excuse # 354:Le chewing-gum sur / dev / sd3c
+
+%
+BOFH excuse # 355:L'ennui dans le noyau.
+
+%
+BOFH excuse # 356:les démons! les démons! les terribles démons!
+
+%
+BOFH excuse # 357:Je serais ravi de vous aider - il est juste que le patron ne me laissera pas près de l'ordinateur.
+
+%
+BOFH excuse # 358:frappé par le virus Good Times
+
+%
+BOFH excuse # 359:Vous avez une erreur I / O -> erreur de l'opérateur incompétent
+
+%
+BOFH excuse # 360:Votre contrôle de parité est à découvert et vous êtes hors de cache.
+
+%
+BOFH excuse # 361:révolutionnaires communistes qui prennent plus de la salle des serveurs et exigeants tous les ordinateurs dans le bâtiment ou ils tirent le sysadmin. imbéciles égarés pauvres.
+
+%
+BOFH excuse # 362:Plasma conduit violation
+
+%
+BOFH excuse # 363:Plus de cartes sur le lecteur D:
+
+%
+BOFH excuse # 364:Les puces de sable manger les câbles Internet
+
+%
+BOFH excuse # 365:processeurs parallèles perpendiculaires aujourd'hui
+
+%
+BOFH excuse # 366:cellule ATM a pas de fonction d'itinérance est activée, les ordinateurs portables ne peuvent pas se connecter
+
+%
+BOFH excuse # 367:Webmasters enlevés par secte.
+
+%
+BOFH excuse # 368:Un mauvais réglage de l'heure d'été.
+
+%
+BOFH excuse # 369:Virus transmis depuis l'ordinateur vers les administrateurs système.
+
+%
+BOFH excuse # 370:Virus due à des ordinateurs ayant des rapports non protégés.
+
+%
+BOFH excuse # 371:Mal configuré routes statiques sur les corerouters.
+
+%
+BOFH excuse # 372:Contraint de soutenir serveurs NT; sysadmins cesser de fumer.
+
+%
+BOFH excuse # 373:pointeur suspecte corrompu machine virtuelle
+
+%
+BOFH excuse # 374:Il est la faute de l'InterNIC.
+
+%
+BOFH excuse # 375:Serveur racine du DNS corrompus.
+
+%
+BOFH excuse # 376:Les compressions budgétaires nous ont forcés à vendre tous les cordons d'alimentation pour les serveurs.
+
+%
+BOFH excuse # 377:Quelqu'un accroché aux câbles à paires torsadées dans le répondeur.
+
+%
+BOFH excuse # 378:Opérateurs tués par an 2000 bug morsure.
+
+%
+BOFH excuse # 379:Nous avons choisi COBOL que la langue de leur choix.
+
+%
+BOFH excuse # 380:Opérateurs tués lorsque énorme pile de bandes de sauvegarde tombé.
+
+%
+BOFH excuse # 381:Robotic changeur de bande prit la cravate de l'opérateur pour une bande de sauvegarde.
+
+%
+BOFH excuse # 382:Quelqu'un fumait dans la salle informatique et déclencher les systèmes de halons.
+
+%
+BOFH excuse # 383:Votre processeur a pris un tour à la porte du ciel sur les OVNI derrière la comète de Hale-Bopp.
+
+%
+BOFH excuse # 384:il est un ID-10-T erreur
+
+%
+BOFH excuse # 385:Dyslexiques retaper fichier hosts sur les serveurs
+
+%
+BOFH excuse # 386:L'Internet est en cours d'analyse pour les virus.
+
+%
+BOFH excuse # 387:La convention collective de votre ordinateur est configuré pour expirer à minuit.
+
+%
+BOFH excuse # 388:karma utilisateur Bad.
+
+%
+BOFH excuse # 389:/ Dev / indice était liée à / dev / null
+
+%
+BOFH excuse # 390:activité des taches solaires augmenté.
+
+%
+BOFH excuse # 391:Nous avons déjà envoyé dans un avis à ce sujet.
+
+%
+BOFH excuse # 392:Il est des règles syndicales. Il n'y a rien que nous pouvons faire à ce sujet. Pardon.
+
+%
+BOFH excuse # 393:Ingérence de la ceinture de Van Allen.
+
+%
+BOFH excuse # 394:Jupiter est aligné avec Mars.
+
+%
+BOFH excuse # 395:ACL redondants.
+
+%
+BOFH excuse # 396:Serveur de messagerie frappé par UniSpammer.
+
+%
+BOFH excuse # 397:de congestion due à la circulation du porno sur le serveur de nouvelles T-1.
+
+%
+BOFH excuse # 398:Les données pour intranet se sont acheminés via l'extranet et a atterri sur l'Internet.
+
+%
+BOFH excuse # 399:Nous sommes à 100% Microsoft Shop.
+
+%
+BOFH excuse # 400:Nous sommes Microsoft. Ce que vous vivez est pas un problème; il est une fonctionnalité non documentée.
+
+%
+BOFH excuse # 401:Le personnel de vente a vendu un produit que nous ne proposons pas.
+
+%
+BOFH excuse # 402:Secrétaire a envoyé une lettre de la chaîne à tous les 5000 employés.
+
+%
+BOFH excuse # 403:Sysadmin n'a pas entendu pager aller à pied en raison de la musique forte de haut-parleurs bar-room.
+
+%
+BOFH excuse # 404:Sysadmin détruit accidentellement pager avec un gros marteau.
+
+%
+BOFH excuse # 405:Sysadmins indisponibles parce qu'ils sont dans une réunion à parler de la raison pour laquelle ils ne sont pas disponibles tant.
+
+%
+BOFH excuse # 406:Bad nourriture de la cafétéria a atterri tous les administrateurs système à l'hôpital.
+
+%
+BOFH excuse # 407:Route de battement au PAN.
+
+%
+BOFH excuse # 408:Ordinateurs sous l'eau en raison de SYN inondations.
+
+%
+BOFH excuse # 409:Le ping Vulcan-mort-grip a été appliquée.
+
+%
+BOFH excuse # 410:conduits électriques dans la salle des machines sont en train de fondre.
+
+%
+BOFH excuse # 411:Embouteillage sur l'autoroute de l'information.
+
+%
+BOFH excuse # 412:Radial télémétrie Infiltration
+
+%
+BOFH excuse # 413:Cow-bascule basculé une vache sur le serveur.
+
+%
+BOFH excuse # 414:émissions tachyons surcharger le système
+
+%
+BOFH excuse # 415:fenêtre de maintenance cassé
+
+%
+BOFH excuse # 416:Nous sommes hors des fentes sur le serveur
+
+%
+BOFH excuse # 417:Salle informatique déplacé. Nos systèmes sont en baisse pour le week-end.
+
+%
+BOFH excuse # 418:Sysadmins occupé à combattre le SPAM.
+
+%
+BOFH excuse # 419:redémarrages répétés du système n'a pas pu résoudre le problème
+
+%
+BOFH excuse # 420:Fonctionnalité n'a pas été testé en version bêta
+
+%
+BOFH excuse # 421:Le contrôleur de domaine ne répond pas
+
+%
+BOFH excuse # 422:Quelqu'un d'autre a volé votre adresse IP, appeler les détectives Internet!
+
+%
+BOFH excuse # 423:Il est pas RFC-822 conforme.
+
+%
+BOFH excuse # 424:opération a échoué car: il n'y a pas de message pour cette erreur (# 1014)
+
+%
+BOFH excuse # 425:bit d'arrêt reçu
+
+%
+BOFH excuse # 426:Internet est nécessaire pour attraper le etherbunny
+
+%
+BOFH excuse # 427:Panne de réseau, les paquets IP livrées par UPS
+
+%
+BOFH excuse # 428:mise à jour du firmware de la machine à café
+
+%
+BOFH excuse # 429:anomalie temporelle
+
+%
+BOFH excuse # 430:Souris a out-of-fromage-erreur
+
+%
+BOFH excuse # 431:implants Borg ne parviennent pas
+
+%
+BOFH excuse # 432:nanites Borg ont infesté le serveur
+
+%
+BOFH excuse # 433:erreur: un mauvais utilisateur trouve en face de l'écran
+
+%
+BOFH excuse # 434:S'il vous plaît indiquer la nature de l'urgence technique
+
+%
+BOFH excuse # 435:Internet fermé pour cause de maintenance
+
+%
+BOFH excuse # 436:Démon échappé de pentagramme
+
+%
+BOFH excuse # 437:crop circles dans le Korn Shell
+
+%
+BOFH excuse # 438:bit sticky est desserré
+
+%
+BOFH excuse # 439:Hot Java est allée froide
+
+%
+BOFH excuse # 440:Cache miss - prendre s'il vous plaît mieux viser la prochaine fois
+
+%
+BOFH excuse # 441:table de hachage a woodworm
+
+%
+BOFH excuse # 442:cheval de Troie a manqué de foin
+
+%
+BOFH excuse # 443:processus zombies détectés, la machine est hantée.
+
+%
+BOFH excuse # 444:erreur de débordement dans / dev / null
+
+%
+BOFH excuse # 445:le cookie de navigateur est corrompu - quelqu'un a grignoter sur elle.
+
+%
+BOFH excuse # 446:Mailer-daemon est occupé brûler votre message en enfer.
+
+%
+BOFH excuse # 447:Selon Microsoft, il est par la conception
+
+%
+BOFH excuse # 448:vi doit être mis à niveau vers VII
+
+%
+BOFH excuse # 449:greenpeace free'd les mallocs
+
+%
+BOFH excuse # 450:Terroristes écrasé un avion dans la salle des serveurs, avoir à enlever / bin / Laden. (Rm -rf / bin / charge)
+
+%
+BOFH excuse # 451:oscillations astropneumatic dans le refroidissement à l'eau
+
+%
+BOFH excuse # 452:Quelqu'un a couru le système d'exploitation par un vérificateur d'orthographe.
+
+%
+BOFH excuse # 453:infestation d'araignée dans les parties chaudes de cas
+
+%

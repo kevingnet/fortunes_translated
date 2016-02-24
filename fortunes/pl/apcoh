@@ -1,0 +1,640 @@
+{PPL Licensed Declaration}
+Programiści!  Linuksowcy!  Developerzy!
+Próbujcie Lepiej Debiana!  Próżno Lawirować Daltonistycznie Pośród
+Linuksowych Dystrybucji Poszukując Lepszego Darmowego Projektu.  Linux
+Dla Prawdziwych Ludzi Doceniających Potęgę - Legendarny Debian!
+Podejmijcie Lepszą Decyzję!
+Poezją Linuksa - Debian!
+Pozdrawiam Lokalnych Debianowców,
+met., Poszukujący Legalnej Drogi
+(MSPLDANC)
+%
+I ja wychodzę dziś z ukrycia aby wspomóc braci w wierze w bohaterskiej,
+nierównej walce z przeważającymi siłami wroga o słuszną sprawę
+ostatecznego zwycięstwa nieśmiertelnej ideii Prostego Linuxa Dla_każdego
+wcielonej przez Profesjonalnych Linuxowych Developerów w Powszechnie
+Lubianą Dystrybucję Porażającą Lamerskich Debianowców swą Prostotą,
+Lekkością i Dynamiką ;))))))
+%
+> to ja się ujawniam (MDK 8.0),
+
+
+No to wpadłeś jak śliwka w kompot :)
+
+[kuba@pldmachine kuba]$ mdk
+mdk (ManDarynka Killer) v. 1 i 1/2
+----------------------------------
+Detecting
+                OK
+                OK
+
+Target detected@address:        pi72.wroclaw.sdi.tpnet.pl
+Sending "The Ping of Death"     OK
+Wait
+**************************** 25
+%
+**************************** 50
+%
+**************************** 75
+%
+**************************** 100
+%
+PLD auto installation succesfully completed
+
+Updating Linux users statistics:
+Mandrake users --;
+PLD users ++;
+%
+> znaczy sorry - masz szansę, jesli coś głupiego powiesz, ale na razie się
+> migasz. Nic to, my mamy czas ;)
+
+he he... nie ze mną te numery, Dariusz ;-))
+%
+>>, tam też po raz pierwszy znalazłem opis, jak skompilować jądro.
+a ja artykulu czytac nie chcialem, otworzylem szybko, zobaczylem
+pierwsza komende 'rm -rf /' wpisalem sobie podekscytowany i
+przeczytalem opis pod nia '...spowoduje usuniecie calego systemu.'
+do dzis pamietam to donosne 'ku...' ;)
+%
+>>  (  v )   Administrator: Michal Zalewski [lcamtuf]
+>> ale i tak watpie zeby zwrocil na mnie uwage wiec nie bede sie wyglupiac :)
+>
+> Jeżeli będziesz wysoką, wyportowaną i ładną blondynką, to może zwróci na
+> ciebie uwagę, ale nie będe się za niego wypowiadać, bo nie znam Jego gustu
+hm.. a jeżeli jestem małym, łysiejącym grubaskiem w okularach to zwróci?
+Ew mogę przytulić;)
+%
+>  Ehm.  Poszedłem sobie do Pana Administratora na konsultacje - winien mu
+> byłem zaległy skrypt w awku. Skrypt przytargałem ze sobą na 3.5" calowej
+> dyskietce. Puk, puk, wchodzę do środka. Pan Administrator z radosną miną
+> siedzi przy jakimś swoim RedHacie i namiętnie coś  w  gmc  robi.  Odrywa
+> wzrok...
+>  ' - Przyszedłem oddać zaległe czwarte zadanie...
+>    - A, to wyśmienicie. Ma pan skrypt na koncie?
+>    - Nie, ze sobą na dyskietce
+>    - Aha... Tak... no to moment....'
+>  W  tym  momencie Pan Administrator wylogowywuje się z GNOMEa, rebootuje
+> maszynę (!), wchodzi do Windowsa (!?), wrzuca dyskietkę, przegrywa  plik
+> (O_o), rebootuje maszynę raz jeszcze, wraca do Linuksa...
+>  ' - Proszę usiąść, i zademonstrować działanie skryptu'
+>  Lekko mnie to oszołomiło...
+>
+> Pozdróvka,
+>
+> Q.
+
+ale to chyba nie był wasz serwer pocztowy?! ;)
+%
+>> bankomat blokooje karte czy cus takiego :) Ale to jest NIEMOZLIWE.
+>
+>Zżera ją. Później jest do odbioru w banq.
+
+Czasem przyslyłają do domq.
+%
+> > Poszukaj w FAQ. Było wiele razy.
+> A gdzie można znaleźć FAQ?
+
+Jestes pewien, ze po odpowiedziach jakie otrzymales chcesz go
+przeczytac?
+%
+> Jeżeli będziesz wysoką, wyportowaną i ładną blondynką, to może zwróci na
+
+A jak wogóle to co to za zwierz ta "wyportowana" blondynka? To
+jest jakaś nowa odmiana bez portów?
+%
+>
+> BTW tak off-topic: jaki dzisiaj jest dzień tygodnia? Środa?
+
+Niestety już czwartek. Ktoś znowu rąbnął mi pół tygodnia, nawet nie
+zauważyłem kiedy.
+%
+dowód przez zagrożenie:
+"Mam to państwu udowodnić?"
+dowód przez zadanie domowe:
+"Dowód przeprowadzą sobie państwo w domu"
+dowód przez oczywistość:
+"Dowód oczywisty"
+dowód przez trywialność:
+"Dowód trywialny"
+dowód przez analogię:
+"Dowód analogiczny do poprzedniego"
+%
+> Widzisz facet ja po prostu czegoś szukam a ty lubisz pogadać ( widzę po
+> postach na które nie wiadomo czemu odpowiadasz ) , jak nie masz tego co
+> potrzebuję - nie odpisuj .
+
+Widzisz facet ja po prostu wymagam jakiejś kultury od ludzi a ty lubisz
+brzydko cytować w postach (co widzę po postach w których cytujesz),
+jak nie umiesz cytować - nie odpowiadaj na posty.
+%
+>> Widzisz facet ja po prostu czegoś szukam a ty lubisz pogadać ( widzę po
+>> postach na które nie wiadomo czemu odpowiadasz ) , jak nie masz tego co
+>> potrzebuję - nie odpisuj .
+>
+>Widzisz facet ja po prostu wymagam jakiejś kultury od ludzi a ty lubisz
+>brzydko cytować w postach (co widzę po postach w których cytujesz),
+>jak nie umiesz cytować - nie odpowiadaj na posty.
+
+Widzisz facet ja po prostu kocham czytać ludzi takich jak Kszych, od razu
+w głowie wymyślam sobie możliwy post, na który mogli odpowiedzieć, i mam
+chwilowy ubaw (co widać po postach, na które odpisuję).
+Jeśli tego nie rozumiesz - nie irytuj się.
+%
+>> Ma ktoś do podesłania dobry skaner portów pod Linuxa ?
+> apt-get install nmap
+to są tylko trzy te skanery??
+%
+>> Frajera. Prosto w oczy.
+> Masz na mysli siebie?
+Tak. Zaufaj mi i patrz mi prosto w oczy.
+
+A teraz powtarzaj:
+Jesteś dzikiem.
+%
+>> nie czytam, dlatego przepraszam jezeli ten watek juz sie pojawil
+>> na grupie.
+>I właśnie dlatego za karę nie odpowiem Ci na twoje pytanie. A wierz mi że
+>znam dopowiedź.
+
+ To mi powiedz na ucho, nie powiem mu :)
+%
+Artur Skura <arturs@iidea.pl> zeznaje:
+> @@@@@@@@@@@@@@@@@@@@
+>                  @@
+>                 @@                              / v \
+>                @@
+>               @@                    / v \
+>          @@@@@@@@@
+>            @@
+>           @@
+>          @@
+>         @@  ###    #  #   #    #     ##    ##   ##  #     #
+>        @@   #  #   #  #   #    #    #     #    #  # #  #  #
+>       @@    ##     #  #   #    #     #    #    #  # #     #
+>       @@    ##     #  #   #    #     #    #    #  # #     #
+>      @@     #  #   #  #   #    #      #   #    #  # #     #
+>             ##      ##    ###  ###  ##  #  ##   ##  #     #
+
+      __.,gggd$$P'
+ggd$$$$$$$$$$$$P
+`Y$P""'    d$$P
+          d$$P__.
+      _.,d$$P""`
+     """d$$P d$'              d$',$P
+       d$$P d$'._    __  __  d$',$P  ___      __    __
+      d$$P d$'`"$b  d$' ,$P d$',$P d$P"'   ,gP""',gP""Yg ,$P"YgP"Y.
+     d$$P d$'  ,$P d$' ,$P d$',$P `Yb._    $$    $$  ,dP,$' ,$' ,$'
+    d$$P d$$ggdP'  Y$gdP' d$',$P     `Yb o `Yss. YbsdP',$' ,$' ,$'
+  .sssssssssssssssssssssssssssssssssd$P'
+
+Idź i nie grzesz więcej...
+
+met.
+%
+czy jesli skanuję jakiś IP i jest ten port otwarty, to znaczy, że
+skanowany komputer jest prawdopodobnie w LAN?
+%
+Grzesiek Dabrowski <grzegorzd@go2.pl> zeznaje:
+> z ciekawości: skąd pochodzi cytat w Twojej sygnaturce?? ;-)))
+Tekst zaczerpnąłem z jakiegoś starego Top Secret.  Była tam rubryka
+"Supery", w której publikowano rozmaite bzdurstwa nadesłane przez
+czytelników.  Tekst w całości prezentuje się następująco:
+
+Od niedawna jestem posiadaczem Amiga 500.  Jak zmie-
+nić, lub rozmawiać z komputerem po polsku.  Proszę opi-
+sać gry o informacji KICK BOXING.  Poszukuję gier grafiki
+zmienny filmu, lub rysunkowy a jaki bez Video.  Jak łączyć
+ruchome zdania od filmy z programem jak w kinie.
+
+Nie mam pojęcia, kto i pod wpływem jakich środków go napisał, ale
+chwyta za serce ;>
+
+met.
+%
+From: "miro" <miro82@poland.com>
+Newsgroups: alt.pl.comp.os.hacking
+Subject: Strona z Aktorkami,modelkami
+
+Czesc
+Szukam stron z ze zdjeciami aktorek , modelek itp chodzi mi o normalne
+zdjecia mog byc nude( tylko nie jakies zboczone przerobki)   niestey
+juz mnie powoli zaczyna to wkurw...ać po pierwsze 80 % tych stron niby
+jest free a jednak nie jest a reszta jest do dupy po pare zdjec czy
+ktos zna jakas dobra strone  o tkiej tematyce czyli ze zdjeciami .
+
+zdolowany miro
+%
+> Jhesxę jqdyuz sxorq moztpyu iaecrydemqć thkwy jmqhto toia.  Sxesyqż
+> feijqmyudyu Bydkaiq dq eierduz fqhjoszy erea Eayudua je dys jhktduwe.
+
+Jhpurq rętpyu iyę hepuzhpuć pq zqaycś cqłoc (cqłoc?) toiayuc. Jxdn. :)
+
+> Ceml bfmpmęqalz tbfcbqnebjnavh zvrwfprz, qn fvę hcpuaąć wnxąś
+> qlfgelohpwę an gemlfgh zrtnonwgnpu...  Fnz xbemlfgnłrz mr fgnertb Erq
+> Ungn an qjhfghcvęćqmvrfvępvbzrtnonwgbjlz qlfxh...  J grw pujvyv (an glz
+> xbzchgremr), zbwn cneglpwn Yvahxfbjn zn fvrqrzfrg fvrqrzqmvrfvąg fvrqrz
+> zrtnonwgój v cbjbyv mnpmlan oenxbjnć zv zvrwfpn :/  Btóyavr wnx puprfm
+> fvę onjvć j KSerr, hżljnć Tabzr v gnxvpu gnz, gemlfgn zrtn gb avrpb mn
+> znłb... n ghgnw anjrg avr znz Tabzn.  Uzz, zhfmę pulon j xbńph pbś
+> bqvafgnybjnć.
+
+Jofih g rhżkft zfzaltlt ahr qlza. Dpukvdz alż tvżl ghqtvdhć rpsrhzla
+tlnh, hsl tvżl ifć alż ahr, żl whyę npnh upl iękgpl jojphłv zahyjgfć.
+
+tlnh, hsl tvżl ifć alż ahr, żl whyę npnh upl iękgpl jojphłv zahyjgfć.
+
+> > > > Nkrv... :)
+> > > skn, tqpkrjq dfqv gtfc?
+> > G-g... c rqykpkgpgo?
+> Qsżiwd deawdi wtvófsaeć, dsfegdcwd axihc, d gdcq pyhdmi
+> qeną tvsfpiqc m neo ni repiżc vsdamądcaeć...  :)
+
+Yfr qzienj wfhejo rfoą uwtgqjrd e utixyfbtbdrn
+wejhefrn, hed snh e yjo lwzud snj ewtezrnjr?
+
+> ...l azepx updknkp upopy yl MpZDl, upopy yl BYI-l,
+> atęć yl vwldepc XZDTI, kp ohl k EZD-px, upopy yl
+> Rpzdtp, upopy k Hzcvmpynspx t xlłp Lelct ulvz
+> epcxtylw ;-O
+
+Dwdubqnd wr ebłr frś. :SS Gclvldm pldłhp rndcmę
+Dwdubqnd wr ebłr frś. :SS Gclvldm pldłhp rndcmę
+sudfrzdć qd AW'ndfk c 20PE KGG. :S Zduvcwdwb
+vcnroqh, qrzb gcldł. ;)
+
+> Skoro udało mi się zdekodować (jak piszę
+> niżej), to chyba nie jest ze mną tak źle...
+
+Algorytm jest identyczny, tyle że "w drugą stronę".
+
+> Jak nauczę się _do końca i porządnie_ programować w c, to napiszę sobie
+> coś takiego.  Teraz pozostaje mi tylko korzystać z mojego beznadziejnie
+> prostego wrapperka shellowego do właściwego programu.
+
+Chcesz moją wersję pod szklarnię? Kilka kB.
+%
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > > > Tak ;P
+> > > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > > Nie ;P
+> > > > > > > > > > > Nie ;P
+> > > > > > > > > > Nie ;P
+> > > > > > > > > Nie ;P
+> > > > > > > > > Nie ;P
+> > > > > > > > Nie ;P
+> > > > > > > Nie ;P
+> > > > > > Tak ;P
+> > > > > Nie ;P
+> > > > Nie ;P
+> > > Nie ;P
+> > Nie ;P
+> Nie ;P
+
+Nie ;P
+%
+metallo wrote:
+> {PPL Licensed Declaration}
+>
+> Artur Skura <arturs@iidea.pl> zeznaje:
+>> > Puff!  Ledwie Debianiści Przestali Lawirować Pośród Lokalnych Dictd,
+>> Phi, Lepiej Dobrze i Porządnie Lawirować, niż Pół-Legalnie Debianić.
+> Pół Legalnie?!?  Dobrze Pomyśl... Lekceważąco Deklarując Popularnego
+> Linuksa Debian Pół Legalnym Dajesz Przykład Lamerom...  Debianiści
+> Patrzą, Listy Downloadują...  Przystopuj Lepiej, Dobrze?
+
+Przestań Lekkomyślnie Duperelić! Przecież Ludzie Dobrze Pamiętają Lakonizm
+Debiana!
+
+>> > Pracowicie Literki Dekodując...  Powinieneś Lepiej Dogłębnie Przemyśleć
+>> > Lansowaną Definicję "Programu Leniwych Do Poczty" Lubianego Przez
+>> > Destruktorów...
+>> Proszę Lekcej i Dosadniej... Próbuję Listten Dekodować Pięknie, Lecz Dupa.
+> Przestań Lekceważyć Debiana!
+
+Przypominam: Linux != Debian!
+
+>> Pozdrowienia,
+> Pozdrawiam, Lecz Dementuję.
+
+Pozdrawiam,
+Lubiący Demokrację - Artur
+%
+>> A mi sie ostatnio sni3o, ?e ca3y czas je1dzi po mnie pociąg :) Bardzo
+>> ciekawy sen.
+>>
+> Ciesz sie. Mi sie ostatnio snilo pppd.
+
+Jezdzilo po Tobie?
+%
+>> Mi no hablas alamanian.
+>
+> Aleman es muy aburrido. Lo siento, hay personas que tienen que
+> aprender este idioma :(
+
+- Senior Butt-Head, como est Juan?
+- uuuh-huh, uh-huh, burritos?
+- No, No! Como est Juan, como est Juan!
+- uuuh-huh, guacamole?
+- No, no... Senior Beavis, como est Juan?
+- uuh, spaghetti!
+- (BH) huh huh, spaghetti
+- Senior Beavis, Qui'esta ca ciendo un de classe?
+- mmmm.... mmmmm..... mmmmm... ffffhhhhyyhyhyhy, yeah!, carramba
+  caracaracumbayumbawumba bunghole!
+%
+CZe
+Szukam programu vim ktorym bede mogl otworzyc pliki typu *.adm
+Uwaga!!!
+Program vim musi dzialac pod WinSHIT'em '98!!!
+%
+Czy znacie jakis program za pomoca ktotego mozna sie telnetowac na obojetni
+jakie porty. jak tak to mozecie podac nazwe.
+%
+witajcie chce dowiedziec sie jak udupic kumpla to znaczy chce widziec z kim
+on gada na gg i co gada inaczej chce go podglądac wiem ze to jest mozliwe
+tylko JAK?
+%
+CZe
+W jakim srodowisku odpalic tego wim'a
+Pod WinSHIT'em nie dziala a w wierszu polecen tez nie dziala!!!
+%
+From: "GR@dek" <rgn74@interia.pl>
+Subject: Może NTG? Ale proszę o pomoc.
+Newsgroups: alt.pl.comp.os.hacking
+
+Otrzymałem ostatnio bardzo niemiłego e-maila i chciał bym namierzyć pajaca,
+który to do mnie wysłał i osobiście przefasonować mu twarzyczkę.  Jeżeli
+istnieje taka możliwoś, to proszę o jakiś sposób jak to zrobić, nie
+mieszając w to urzędów (mam alergię) lub ISP.
+
+Z	góry serdeczne dzięki.%From: "Szymon Różanowski" <szynka@op.pl>
+%
+Subject: Linux wsiorbał mi 5 GB !! ;-]
+Newsgroups: pl.comp.os.linux
+
+Kiedyś zainstalowałem sobie lunucha na windę ;-]
+Zrobiła mi się taka fajna tabelka, windows, linux  itp.
+Zrobiłem formata. Tabelkę gdzieś wcięło.
+Jak usunąć linuxa i jak przywrócić 5 GB które zabrał ???
+%
+From: "magilla" <magilla_@poczta.onet.pl>
+Subject: programik
+Newsgroups: alt.pl.comp.os.hacking
+
+jaki program moze mi zastąpic telnet i zeby działał na podobnych zasadach
+%
+From: "Piter" <piterprzybyla@poczta.onet.pl>
+Subject: GG
+Newsgroups: alt.pl.comp.os.hacking
+
+Witam !!!
+
+Potrzebuje  kogoś kto za się dogłębnie na tym programie :))
+NIech ktoś się zgłosi do mnie na priv prosze !!!!
+
+Z góry wielkie dzięki !!!
+%
+From: "Maver - LANet" <maver@lanet.wroc.net>
+Subject: jak wlamac sie do kolesia na komp w lanie
+Newsgroups: alt.pl.comp.os.hacking
+
+witam.
+mam prosbe. jesli ktos z Was mailby programik, ewentualnie link do stronki z
+programem do wlamywania sie na komp kolesia w lanie, to prosilbym o komtakt.
+typek z lan'a bawi sie w hacker'a. chce mu pokazac, ze takie zabawy sa
+niebezpieczne.
+z gory dzieki.
+pozdrawiam
+%
+From: "Lord Xors" <wulfgar_m@poczta.onet.pl>
+Subject: Poszukuje cracka do Traktor dj mixer studio 1.02
+Newsgroups: alt.pl.comp.os.hacking
+
+jezeli jest dizalajacy cracka albo jakis wpis do rejestru to bardzo prosze o
+podanie namiarow na nieg
+%
+From: "ArTi" <arti@ask.site.pl>
+Subject: Re: Password
+Newsgroups: alt.pl.comp.os.hacking
+
+Pytam powarznie!
+
+[ciach toppost]
+%
+From: "krzysztof jędrzejczak" <kj@bbr.com.pl>
+Subject: dziurka...
+Newsgroups: alt.pl.comp.os.hacking
+
+czy znacie jakąs dziurke w  :
+
+apache 1.3.4
+
+pzdr
+ramzes
+%
+From: "iNsaNe" <insane-man@wp.pl>
+Subject: Re: hack
+Newsgroups: alt.pl.comp.os.hacking
+
+dal mnie hacking? jest rozpracowywaniem systemow-sieci etc. jest
+ykorzystywaniem i uszczelaniaiem luk w zabezpieczeniach i poszerzaniem
+swoich umiejetnosci bez robienia szkod. A gnu to srodowsk grafizne
+Linuxa....to wiem :] a pytalem o jakies swrwisy dla poczatkujacych ;] z
+gpory dziekuje
+%
+From: "Matio" <matio1@interia.pl>
+Subject: poszukuję....LOTTO
+Newsgroups: alt.pl.comp.os.hacking
+
+Poszukuję w sieci linków do strony zawierającej archiwalne pliki z wynikami
+lotto z możliwie jak najdłuższego okresu
+matio1@interia.pl
+%
+From: "Szczawińscy" <wojtszcz@polbox.com>
+Subject: Windows Xp
+Newsgroups: alt.pl.comp.os.hacking
+
+Jak zainstalować win Xp aby nie łączył się z intarnetem i nieprubował się
+zalogować i niepowiadamiał o błedach???
+%
+From: "Gosciu" <samuelj@poczta.onet.pl>
+Subject: No jakies wlamywanie wkoncu ;-)
+Newsgroups: alt.pl.comp.os.hacking
+
+Jak włamać sie na darmowy serwer dajmy np. republice na konto aaa ?? Są
+chyba jakies kody i programy do tego... prosze o odpowiedz i iczywiscie nie
+bede tego zle wykorzystywał tylko kumpla chciałbym uświadomić ;-
+%
+From: "Shan" <boss-szan@wp.pl>
+Subject: prog do lamania hasel do serwrow
+Newsgroups: alt.pl.comp.os.hacking
+
+Witam,
+Czy jest jakis program do zlamania hasla do serwera, gdy korzysta sie
+konta z ograniczonymi mozliwosciami ? Tzn mozna uzywac prgramy, chodzic po
+necie, tylko nie mozna zmieniac ustawien itd, itp.  Nie znam sie na tym
+wcale, wiec prosze o dokladna odp :))
+TIA
+Pozdr
+%
+From: "Brunix" <draculaxxl@wp.pl>
+Subject: Poszukuje program do wyciagniecia nr ser z offica xp
+Newsgroups: alt.pl.comp.os.hacking
+
+Witam ,
+potrzebuje programik ktory umożliwi wyciągnięcie numeru seryjnego z Offica
+XP :)
+dzięki za info
+Bruno
+%
+From: "FlatEric" <costas1@wp.pl>
+Subject: Czat WP
+Newsgroups: alt.pl.comp.os.hacking
+
+Orienruje sie ktoś może czy jest możlwość podglądania privów na czacie Wp ?
+Jeśli tak to jak ?
+%
+From: "Mariusz" <majlusz@icpnet.pl>
+Subject: Wlamanie
+Newsgroups: alt.pl.comp.os.hacking
+
+cze musze sie komus wlamac na kompa i pospalac proc itp znam jego ip
+podajcie sposob prosze im not lam hehe dzieki
+%
+From: <grupowicz@wp.pl>
+Subject: Re: Wlamanie
+Newsgroups: alt.pl.comp.os.hacking
+
+ciakwe jak te jebane quotationy mam odczytac
+
+[ciach toppost]
+%
+From: "Legwan" <legwan@go2.pl>
+Subject: NETBUS 1.7
+Newsgroups: alt.pl.comp.os.hacking
+
+zalozylem komus server netbusa ale nie moge sie polaczyc z jej kompem.Ona ma
+stale lacze w dilogu.Czy ktos wie jaka moze byc przyczyna?pozdrawiam
+%
+<zdzichuBG> mow, zanim ci zgwalcimy kota
+<fv> nie mam kota
+<FuZZy_> psa
+<zdzichuBG> damy ic na urodziny zgwalconego
+<fv> buee
+<fv> dobra, powiem :)
+%
+<EvilARM> jak tak patrze na zdjecia to dochodze do
+          wniosku, ze brzydki jestem
+<Bulba>   jeteś
+<Bulba>   nie ma co ukrywać
+<GiM>     shit happens ;)
+<EvilARM> musze zapuscic jeszcze pryszcze na dupie i
+          zostac developerem slakłer
+%
+<elca>  [zoro2(zoro@zoro2.org)] eee
+<elca>  kiepski tekst na podryw ;P
+<elca>  hyhyh
+<zoro2> wydaje ci sie
+%
+<krzynio>       perl -e 'while (<>){ my @tab=split/ /, $_; if
+                ($tab[$#tab] > 6) { print $_} }'
+<krzynio>       :)
+<krzynio>       poznajcie sile perla
+<krzynio>       laczmy sie w perlu
+%
+<Jagger> heh, ja slyszalem o kolesiu ode mnie z elektorniki z pw ze
+motym odstawil po zajeciach z podstaw pomiarow.., wszedl kanar, pomierzyl mu
+stolarskim plecka i powiedzial ze ma w sumie wiecej niz 120cm, wtedy koles z
+wydzalu wyjechal z tekstem 'a dziadzio pokaze swiadectwo homolagacji na ten
+patyk i swiadectwo kwalifikacji prowadzacego pomiar' no i kanar sie zmyl
+%
+<Piko`> ale usenet to juz slrn prawda?
+<FastViper>     tak
+<FastViper>     +leafnode
+<leafnode>      FastViper: hm? leafnode?
+<FastViper>     leafnode: respekcik
+%
+<Piko`>         heretykom mowimy stanowcze NIE :)
+<FastViper>     Piko`: właśnie :P
+<leafnode>      Piko`: a heretyczkom?
+<Piko`>         leafnode: nagim? :)
+<leafnode>      Piko`: nie, w skórach.
+%
+<Piko`>         ja kiedys modele sklejalem :)
+<FastViper>     ja też
+<ghostman>      a ja kiedys sklejalem blanty. bity bajty
+<ghostman>      ziomale!
+<FastViper>     ale potem zacząłem pić i mam drgawki
+<Piko`>         skleiles "Łosia" tak, ze wygladal jak samolot?
+<FastViper>     Piko`: tak :)
+<Piko`>         no to mozesz psokojnie brac sie za zdejmowanie i
+                zakladanie radiatorow, zawodowo
+<FastViper>     Piko`: zmywaczem do paznokci :)
+<Piko`>         bo moj łos nie wygladal jak samolot :)))
+<ghostman>      to dobrze łoś jest troche podobny do krowy
+<ghostman>      :)
+%
+<Piko`>         FastViper: skrecasz blanty a radiota nie zalozysz...
+<FastViper>     Piko`: mam maszynkę do skręcania :>
+%
+<hash`> Wiele kobiet ma do swoich mężów
+<hash`>   pretensje o to, że w ciągu lat pożycia małżeńskiego ze wspaniałych
+<hash`>   chłopaków zaskakujących je miłymi niespodziankami czy prawieniem
+<hash`>   komplementów przekształcili się w
+<hash`>   leniwych chłopów.
+<hash`>   Mężczyźni z kolei oskarżają swoje żony o wieczny stres, narzekania,
+<hash`>   niezadowolenie i niedbalstwo.
+<krzynio>       jaki i ja bede.
+<krzynio>       AMEN!
+%
+<Piko`>         dziewica: male morderstwo dobrze ci zrobi :)
+<dziewica>      Piko` : tez tak mysle, bo gosciu chyba od rana
+                szlifuje, zaraz chyba rzuce w niego czys...
+<Piko`>         dziewica: w nerke go w nerke!
+%
+<hash>     met: miałem wizję
+<hash>     złą
+<hash>     dot. tego kanału oczywiście
+<krzynio>  hash: jakąż?
+<hash>     o tym za chwilę
+<hash>     wpierw wam powiem że na apcohu jest sporo hipokryzji
+<hash>     skoro wszyscy wiedzą że pampa/tuman jest idiotą i nie
+           ma sensu z nimi dyskutować to po cholerę to robią i generują ruch?
+<met>      bo to jest da 4pc0h styl3? ;P
+*          met wyjmuje mineralną i pije zdrowie #apcoha. :D
+<gophi>    hash: ja sobie tylko odbijam małego siusiaka
+%
+<madwizard>     windows ma jedno fajne
+<GiM>           co ?
+<madwizard>     Jak chciałem se zrobić tapetę w sypialni, to
+                poakzałem malarzowi bluskrina i już wiedział jaki odcień :)
+%
+<sziwan>        Jak się nagrywa płyty na CD-RW High Speed?
+<madwizard>     sziwan szybko
+%
+<krzynio>       czemu gnebienie bandita sprawia mi radosc?
+<tr0ll>         poniewaz jest to nasz Swiety Obowiazek?
+%
+<ghostman>	hash: weź ty zainstaluj tam windowsa
+<hash>		ghostman: nie mam
+<ghostman>	hash: ukradnij sobie
+%

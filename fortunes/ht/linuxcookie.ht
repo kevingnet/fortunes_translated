@@ -1,0 +1,412 @@
+Yon machin Linux! paske yon 486 se yon bagay terib nan fatra!(By jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absoliman pa gen anyen yo ta dwe konkli soti nan sa yo figi eksepte keka pa gen okenn konklizyon ka tire nan yo. "(By Jozèf L. Frè m ', Linux / poèrp Pwojè)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aktyèlman, sezisman strings o aza nan Finder a fè ekivalan a nanfichier fini.(Diskisyon an comp.os.linux.misc sou intuitiveness nan kòmandman: dosyefini vs Mac Moun la.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Apre l ap gade papa ki fèk pran retrèt mwen pase de semèn aprann ki jan fè yon nouvokatab, li te vin evidan ke "entwisyon" sitou vle di "sa ekriven an oswaoratè nan renmen entwisyon ".(Bruce Ediger, bediger@teal.csn.org, nan comp.os.linux.misc, sou X laintuitiveness nan yon koòdone Mac.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Tout konsèpteur ak lang yo kite lògèy vire tèt. Goes ak teritwa a ..."(By Larry mi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Apre sa, 1.1.81 se ofisyèlman BugFree (TM), kidonk si w resevwa okenn ensèk-rapòsou li, ou konnen yo yo se jis sa ki mal manti. "(By Lenis Stoval, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Ak fanm scantily rekouvèr, nan kou. Ki moun ki traka si li nan pi ba pase zewodeyò "(By Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Epi lè a pwochen ou konsidere ki ap plenyen ke kouri lisid Emacs19.05 atravè NFS soti nan yon machin aleka Linux nan Paragwe pa sanble yojwenn koulè yo jan nou koumanse dwat, ou pral konnen ki moun ki mèsi. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Nenpòt gad pòtay tanp yo deyò ta dwe santi pi kontan konnen ke DEC se anbake>: M 'yon AlphaPC ke mwen gen entansyon eseye jwenn Linux kouri sou: sa a volonte>: Definitivman ede kole soti kèk nan bagay ki pi flagran unportable.>: Alpha a se pi plis diferan de i386 a pase bagay la 68k se, se konsa>: Li gen anpil chans yo ka resevwa pi fò nan bagay la fiks yo.>> Li nan posts tankou sa a ke prèske konvenk nou ki pa kwayan ke gen> Vrèman se yon bondye.(A swiv-up pa alovell@kerberos.demon.co.uk, Anthony Lovell, nan Lenis aremak sou portability)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nenpòt ki moun ki panse UNIX se entwisyon ta dwe fòse yo ekri 5000 liy nanKòd lè l sèvi avèk pa gen anyen men vi oswa emacs. AAAAACK!(Diskisyon an comp.os.linux.misc sou intuitiveness nan kòmandman, espesyalmanEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Èske [Linux itilizatè] lemin kolektivman sote sou nan falèz la nanserye, ki byen Enjenieri lojisyèl komèsyal? "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kòm dabitid, sa a ke yo te yon lage 1.3.x, mwen te pa menm konpile sa aKernel ankò. Se konsa, si li ap travay, ou ta dwe doubl enpresyone.(Lenis Stoval, anonse Kernel 1.3.3 sou lis la poste Linux-du.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Evite Gates la nan lanfè. sèvi ak Linux(Unknown sous)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dwe avèti ke ou tape \ fBkillall \ fIname \ FP ka pa vle aefè sou sistèm ki pa Linux, espesyalman lè fè pa yon itilizatè privilejye.(Soti nan paj an kilol manyèl)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Anplis, mwen panse ke [slakwèr] son ​​pi bon pase 'Microsoft,' pa fè sa ou?"(By Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Men, sa ou kapab fè avèk li? - Omniprésente rèl soti nan patnè Linux ki itilizatè.(Soumèt pa Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pa golly, mwen kòmanse panse Linux reyèlman * se * bagay la pi byen depitranche pen. "(By Vance PETREE, Vijini pouvwa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Wouch. Kernel a te eseye jwenn aksè nan kèk paj move. Nou pral gen * Mete fen nan bagay sa yo ak prejije ekstrèm.* /die_if_kernel ( "Wouch", règ, error_code);(Soti nan Linux / vout / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Gwo twou san fon Hack Mode - ke eta misterye ak pè akonsyans kote o Itilizatè yo gen krentif pou nan lakou. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra pwobableman rayi m '(Lenis Stoval, nan Kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n, Yon ti anmèdan bòt viris ki lakòz o aza sistèm bagay bwèf.     aksidan, anjeneral, jis anvan ekonomize yon pwojè masiv. Fasil geri pa     UNIX. Gade tou MS-DOS, IBM-DOS, DR-DOS.(Ki soti nan .Planifye David Vicker a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Remake byen ke se 120 sec defini nan pwotokòl la kòm kantite maksimòm la * Posib RTT. Mwen devine nou pral gen yo sèvi ak yon lòt bagay pase tchp * Pou pale ak Inivèsite a nan Mas. * PAWS pèmèt nou ankò timeouts ak fenèt ki laj, se konsa yon fwa aplike * Ftp nan planèt Mas pral travay joliman. * /(Ki soti nan /usr/src/linux/net/inet/tcp.c, konsènan RTT [Retransmisión poz])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Menm plis etonan te realizasyon an ke Bondye gen aksè nan Entènèt. Mwenmande si Li gen yon Nyoufid plen? "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Tout tan tout tan tande pale de .cshrc?Sa se yon vil nan Bosni. Dwa?(Diskisyon an comp.os.linux.misc sou intuitiveness nan kòmandman.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Erè: Twouve [MS-Windows] Sistèm -> repartitioning Disk pou Linux ...(By cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ki jan mwen tape "pou mwen menm mwen nan .dvi * ksdvi mwen fè" nan yon entèfas?(Diskisyon an comp.os.linux.misc sou intuitiveness nan interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ki jan mwen ta dwe konnen si li ap travay? Sa a ki sa Tester beta yo se pou. Mwen sèlmankode li. "(Atribiye nan Lenis Stoval, yon kote nan yon afiche)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Yon manm fyè de TeamLinux \ _________ \ /(By CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mwen devlope pou Linux pou yon k ap viv, mwen itilize yo devlope pou DOS.Ale nan DOS nan Linux se tankou komès yon balanswar pou yon F117.(By entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+M te sa a 'lakòz Linux ban m' yon Woody. Li pa jenere revni.(Dave '-ddt-> `Taylor, anonse fayit pou Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ezite kontakte m '(flanm dife sou angle m' ak initil la nan sa apral chofè dwe reyorante resous nan / dev / nil, oh pa gen okenn, li nan plen ...).(Michael Beck, ki dekri aparèy la PC-oratè son)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mwen pa konnen poukisa, men pwogram C premye yo gen tandans gade yon anpil pi mal pasepremye pwogram nan nenpòt lòt lang (petèt eksepte pou Fortran, men Lè saMwen sispèk tout pwogram Fortran gade tankou `premières ')"(By Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mwen yon fwa temwen yon, mwa-long flamewar long proliks sou itilize nansourit vs boul ... Li te trè komik. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mwen toujou kenbe pwen a ke desine yon Kernel monolitik nan lane 1991 se yonfondamantal erè. Fè rekonesan ou pa elèv m 'yo. Ou pa ta jwenn yonsegondè klas pou sa yo yon konsepsyon :-)(Andre Tanenbaum Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mwen ta pito pase 10 èdtan lekti kòd sous yon lòt moun nan pase10 minit koute Musak ap tann pou sipò teknik ki se pa. "(By Dr Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mwen ta rale sou yon acre nan 'vizyèl ++ Sa a' ak 'Devlopman EntegreSa pou li ale nan GCC, Emacs, ak gdb. Mèsi."(By Vance PETREE, Vijini pouvwa)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mwen yon moun sòt .. Omwen yon sèl sa a [ensèk] te pran apeprè 5 minit jwenn .."(Lenis Stoval an repons a yon rapò ensèk.)> Mwen se yon moun sòt .. Omwen sa a [ensèk] te pran apeprè 5 minit jwenn ..K ap twouble ...(Gonzalo Tornaria an repons a adrès Lenis Stoval a sou yon ensèk du.)> Mwen se yon moun sòt .. Omwen sa a [ensèk] te pran apeprè 5 minit jwenn ..Nou bezwen jwenn kèk tèm nouvo a dekri rès la nan nou Motels sèlmanlè sa a.(Craig Schlenter an repons a adrès Lenis Stoval a sou yon ensèk du.)> Mwen se yon moun sòt .. Omwen sa a [ensèk] te pran apeprè 5 minit jwenn ..Se vre wi, Lenis ap pale de ki kalite stupidity ke lòt moun renmen fè :-).(Bruce Perens an repons a adrès Lenis Stoval a sou yon ensèk du.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mwen te kouri fayit plis nan jou ki sot pase yo pase mwen gen sot pase yo nanmwa. Mwen jis renmen debogaj ;-)(Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp, konsène pa popilarite a ap grandi nan gratis 32-ti jan nansistèm opere pou sistèm Intel, Linux, te travay yon kantite tètpwogramasyon soti nan mond lan anba tè nan devlopman viris. Bill Gates deklareyè: "dominasyon Mondyal, vit - li a swa nou oswa Lenis". Mesye Stovalte disponib pou kòmantè ...(Rjm@swift.eng.ox.ac.uk (Robert Manners), nan comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    si (arg> 1 && strkan (argv [1], "-advice") == 0) {printf ( "Pa panike \ N!");sòti (42);    }(Arnold Robbins nan LJ a nan mwa fevriye '95, ki dekri RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ # Si defini (__ alpha__) && defini (CONFIG_PCI)+ / *+ * Siyifikasyon an nan lavi, linivè a, ak tout bagay. Plus+ * Sa a fè ane a soti dwat.+ * /+ Ane - = 42;+ # Endif(Soti nan patch la pou 1.3.2: (Kernel / time.c), soumèt pa Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si sistèm nan Navigasyon tan kap vini [pou sèvis entèaktif rezo souNII a] sanble yon bagay soti nan Microsoft, li pa janm pral travay. "(Prezidan nan Walt Disney Televizyon & telekominikasyon)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Si ou vle vwayaje atravè mond lan epi yo dwe envite nan pale nan yon anpilnan diferan kote, jis ekri yon sistèm opere UNIX. "(By Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[Nan 'Doktè' mòd], mwen te pase yon bon dis minit di Emacs ki sa mwente panse de li. (Repons lan te, 'Petèt ou ta ka eseye li dwe mwensabizif. ') "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nan pi fò peyi vann bagay danjere tankou dwòg se ki pini.Lè sa a, howcome moun ka vann Microsoft lojisyèl ak ale resevwa pinisyon nou?(By hasku@rost.abo.fi, as Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel jeni sanble yo gen misheard Intel estrateji maketing. fraz late "Divize ak konkeri" pa "Divize ak kòk chante moute"(By iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Se Bondye. Non, pa Richard Stallman, oswa Lenis Stoval, men se Bondye."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Lilo, ou te gen m 'sou jenou m'!(Ki soti nan David Nwa, dblack@pilot.njin.net, ak ekskiz Derek ak nanDomino, ak Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux se demode(Andre Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux poze yon defi reyèl pou moun ki gen yon gou pou an reta-lannwitranje andedan (ak / oswa konvèsasyon ak Bondye). "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Devlopman Venimus, video, Dolavimus.(By mah@ka4ybr.com, Mak A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Kapasite [Linux a] yo pale atravè nenpòt ki mwayen eksepte siyal lafimen."(By Dr Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux, paske yon PC se yon bagay terib nan fatra(Ksh@cis.ufl.edu mete sa a sou tcheurt nan '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Paske yon PC se yon bagay terib nan fatra.(By komarimf@craft.camp.clarkson.edu, Mak Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: chwa pou yo yon jenerasyon GNU(Ksh@cis.ufl.edu mete sa a sou tcheurt nan '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: sistèm nan fonksyone ak yon siy ...Liy Kòmandman Itilizatè Anviwònman ".(Wè nan yon afiche nan comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 sou dife(Youn nan mesaj yo Kernel plis obfuscated)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft se pa repons lan.Microsoft se kesyon an.NO (oswa Linux) se repons lan.(Te pran nan men yon .Siyati nan men yon moun soti nan UK a, sous unknown)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wir benutzt fue dre Bagay sa yo: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten nan Dateisysteme, und, Noun lan, 'besteigen' beim Sèks.(Christa Keil nan yon afiche German: "Anpil moun ki opoze ki itilize pou twa bagay:k ap grenpe sou yon chwal, ki lye ak nan yon inite ki gen kapasite difisil nan sistèm done, ak, byen,aliye pandan sèks ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Msdo pa t 'jwenn tankou move kòm li se lannwit lan - li te pran plis pase dis anenan devlopman fè atansyon. "(By dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pa janm fè okenn mistaeks."(Anonim, nan yon diskisyon mail sou yon rapò ensèk du.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pa m ', nèg. Mwen li paj la bach nonm chak jou tankou jou Temwen yon Jewova liBib la. Pa gen rete tann, paj la nonm bach IS Bib la. Eskize m...(Plis sou anpren konfizyon, te pran nan men comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Remake byen ke si mwen ka fè ou jwenn nan \" su epi di \ "yon bagay jis pa mande,ou gen yon pwoblèm sekirite ki grav anpil sou sistèm ou, epi ou ta dwegade nan li. "(By Pòl Vixie, vixie-kron 3.0.1 nòt enstalasyon)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Koulye a, mwen konnen yon moun yo deyò ki pral reklamasyon, "Oke lè sa a, UNIX se entwisyon,paske ou sèlman bezwen aprann 5000 kòmandman, ak Lè sa a tout lòt bagay sa asoti nan sa! Har Har Har! "(Andy Bates nan comp.os.linux.misc, sou "interfaces entwisyon", yon ti krasdefann Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Koulye a, li nou te gen sa a sòt de bagay:  sede -yon pou sede a tout trafik  sede -t pou sede dwadpasaj bay kamyon  sede -f pou sede dwadpasaj bay moun ap mache (sede pye)  sede -d t * pou sede nan jou kòmanse ak t... Ou ta gen yon anpil nan moun ki te mouri nan entèseksyon, ak jams trafik oupa t 'kwè ...(Diskisyon an comp.os.linux.misc sou intuitiveness nan kòmandman.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sou yon liy ascii nòmal, se sèlman kondisyon an ki an sekirite yo detekte se yon 'BREAK'- Tout Lòt Bagay li te gen te asiyen fonksyon pa Gnu emacs ".(By Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sou entènèt la, pesonn pa konnen w ap itilize Windows NT"(Soumèt pa Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Yon fwa sou yon tan te gen yon itilizatè DOS ki te wè UNIX, li wè ke li tebon. Apre sezisman CP sou machin DOS li nan lakay li, li telechaje GNU aUNIX zouti Port nan DOS epi enstale yo. Li rm'd, cp'd, ak mv'dsan pwoblèm mwen tap pandan plizyè jou, sou jwenn Elvis, li vi'd e li te kontan. apreyon jou tan nan travay (sou yon bwat UNIX) li la tounen lakay la, te kòmanse koreksyon yon dosye,epi yo pa t 'kapab konnen poukisa li pa t' kapab sispann vi (w / ctrl-z) fèyon konpile.(By ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Lòt pase lefèt Linux gen yon non fre, te kapab yon moun eksplike poukisa mwen>> Ta dwe itilize Linux sou BSD?>> No Sa a li. Non a fre, se sa ki. Nou te travay trè difisil sou> Kreye yon non ki ta fè apèl kont majorite nan moun, epi li> Sètènman peye koupe: dè milye de moun ap itilize Linux jis yo dwe kapab> Yo di "OS / 2? Aa. Mwen te gen Linux. Ki sa ki yon non fre". 386BSD te fè nan> Erè nan mete yon anpil nan nimewo ak abrevyasyon etranj nan la> Non, epi li se sikatris lwen yon anpil nan moun jis paske li son twò> Teknik.(Lenis Stoval 'swiv-up nan yon kesyon sou Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pèsonèlman, mwen panse chwa mwen nan lagè yo mostest-Siprèm-òdinatè tegen seri a HP-48 nan kalkilatris. Yo pral kouri prèske anyen. Men, si yopa ka, pandan y ap Mwen pral jis ploge yon bwat Linux nan pò a seri ak chaj moute nanHP-48 VT-100 Emulation.(By jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pa gen okenn fil nan a.b.p.erotica, se konsa gen nan pa gen benefis nan l sèvi avèk yonThreaded lektè nouvèl.(Unknown sous)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pwoblèm rezoud anba Linux te janm gen sirk la ke li se anbaAix. "(By Pete Ehlke nan comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+kite Lè yo deklarasyon an kite li, processeur a bc       se sispann, kèlkeswa kote kite nan eta-       man jwenn. Pou egzanp, "si (0 == 1) kite"       pral lakòz bc mete fen.(Wè nan manpage la pou "BC". Remake byen "si" lojik la deklarasyon an)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kouri Windows sou yon Pentium se tankou gen yon mak nouvo Porsche men se sèlmanpral kapab kondwi bak ak fren an sou.(Unknown sous)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sik transpò piblik diskisyon Mond"(Soti nan Gid Administratè a Sistèm nan, pa Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Soupi. Mwen renmen panse li nan jis pèp la Linux ki vle yo dwe sou"Ki mennen kwen an" te tèlman mal yo mache dwa koupe goufr a.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pwogram nan chat se nan domèn piblik la. Sa a se pa lisans lan piblik GNU. Sili kraze Lè sa a, ou jwenn yo kenbe tou de moso.(Avi Copyright pou pwogram nan chat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Foul moun yo jou panse ta Linux ka pi byen sèvi pa yon moun lòt bagay (FSF> Yo te altènatif la natirèl), mwen pral "abdike". Mwen pa panse ke> Li nan moun yon bagay te enkyete sou kounye a - Mwen pa wè li> Ap pase nan fiti prè. Mwen renmen fè Linux, menm si li fè sa> Vle di kèk travay, epi mwen pa gen vinn nenpòt plent (kèk prèske timid> Rapèl sou yon patch mwen te bliye oswa inyore, men pa gen anyen> Negatif byen lwen tèlman).>> Pa pran pi wo a la vle di ke mwen pral sispann yon moun nan jou plenyen:> Mwen se epè-skinned (Lasu, ki moun ki ap li sa a sou zepòl mwen kòmante> Ke "epè-te dirije se pi pre sa a verite a") ase yo pran kèk abi.> Si m 'te pa, mwen ta gen sispann devlope Linux ast nan jou ridikilize m'> Sou c.o.minix. Sa mwen vle di se jis ke pandan y ap gen Linux te ti bebe mwen an se konsa> Lwen, mwen pa vle kanpe nan wout la si moun ki vle fè yon bagay> Pi bon nan li (*).>> Lenis>> (*) Hey, petèt mwen te kapab aplike pou yon saint-kapo soti nan Pap la. Èske> Yon moun konnen ki sa li email-adrès se? Mwen se konsa bèl li fè ou vomi.(Te pran nan men repons Lenis a ak yon moun enkyete sou lavni an nan Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Bagay nan bon sou Windows se - Li pa jis aksidan, li montre yondyalòg bwat, epi li pèmèt ou peze 'OK' premye.(.Siyatur Arno Schaefer a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+sèlman "entwisyon" Koòdone a se pwent tete a. Apre sa, li nan tout aprann.(Bruce Ediger, bediger@teal.csn.org, nan comp.os.linux.misc, sou X interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Gen de kalite nan devlopè Linux - moun ki ka eple, akmoun ki pa kapab. Gen yon konstan batay moute kan ant de la.(Soti nan youn nan-1.1.54 pòs mesaj yo Kernel aktyalizasyon poste nan c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mesaj sa a te mennen l 'bay ou pa Linux, UNIX a pou gratis.Windows san yo pa X la, se tankou fè lanmou san yo pa yon patnè.Sèks, Dwòg & Règ Linuxgenyen-nt nan men pèp la ki te envante edlinpòm te vle di pwoblèm depi edenLinux, wout la yo debarase m de viris bòt(By mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... UNIX, MS-DOS, ak Windows NT (li rele tou Bon an, Move a, akLèd la). "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Trè fenomèn kèk ka rale yon moun soti nan Gwo twou san fon Hack Mode, ak dete note eksepsyon: ke yo te frape pa zèklè, oswa pi mal, òdinatè * ou *ke yo te frape pa zèklè. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ajite lwen yon gwo nwaj nan lafimen, mwen leve kanpe, epi yo ban mwen bouche tou de pa yon klere, blanlimyè. Li nan Bondye. Non, pa Richard Stallman, oswa Lenis Stoval, men Bondye. nanyon vwa en, Li di: "SA A SE YON SIYEN sèvi ak Linux, sistèm nan GRATIS UNIX.POU 386. a "(Mat Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Nou tout konnen Linux se gwo ... li fè sa pasan enfini nan 5 segonn."(Lenis Stoval sou siperyorite la nan Linux sou Amstèdam lanLinux Senpozyòm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nou se Microsoft. Ou pral lasimilasyon. Rezistans se initil.(Atribiye nan B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nou se Pentium nan Borg. Divizyon se initil. Ou pral RapRocher.(Wè nan .Siyati yon moun nan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nou ap itilize Linux chak jou nan UP pwodiktivite nou an - se konsa UP pou ou!(Adapte nan breve Paulsen pa Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nou vin al antere DOS, pa fè lwanj li.(Paul Vojta, vojta@math.berkeley.edu, parafraze yon quote nan Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nou itilize Linux pou tout aplikasyon misyon-kritik nou an. Èske w gen kòd la sousvle di ke nou pa kenbe an otaj pa depatman sipò nenpòt moun ki an.(Russell Nelson, Prezidan Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ki sa ou fini ak, apre yo fin kouri yon konsèp sistèm opere nansa yo anpil filtè kafe maketing, se yon bagay pa kontrèman ak plenn chodlo. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ki sa ki nan sa a script fè?    ouvriers; manyen; dwèt; mòn; alte; repons lan se wi; démonté; dòmiAllusion pou repons lan: pa tout bagay se òdinatè-oryante. Pafwa w apnan yon sak pou dòmi, Kan deyò.(Kontribye nan Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Lè ou di" mwen te ekri yon pwogram ki te fè aksidan Windows ", moun jis fikse nanou blankly epi di "Hey, mwen te resevwa moun ki gen sistèm nan, * pou * gratis".(By Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Fwe mwen. Bat m '. Fè m' kenbe Aix."(By Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ki moun ki Jeneral Si e poukisa se li lekti ki gen kapasite difisil mwen an?"Microsoft jwèt chekar vor vwal, worgs griyaj !!(By leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ki moun ki vle sonje ke chape-x-alt-kontwòl-bò gòch chanjman-b mete ou nansuper-modifye-debug-konpile mòd?(Diskisyon an comp.os.linux.misc sou intuitiveness nan kòmandman, espesyalmanEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Poukisa sèvi ak Windows, depi gen yon pòt?(By fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Dominasyon Mondyal. Vit"(By Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you te kapab pase tout jounen * * Pèrsonalizasyon ba a tit. Kwè mwen. mwenpale de eksperyans. "(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Ou ta ka kòm byen sote selebrasyon an ksma konplètman, ak olye pouchita nan devan ap jwe òdinatè Linux ou a ak nantout-nouvo-ak-amelyore vèsyon Linux Kernel. "(By Lenis Stoval)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Travay ou se ke yo te yon pwofesè ak chèchè: Sa a yon sèl lanfè nan yon eskiz bonpou kèk nan sèvo domaj yo-a mini.(Lenis Stoval Andre Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mwen te konn tande yon jwif ak yon Mizilman diskite nan yon Kafe lavil Damas ki gen mwens pasyonpase emacs lagè yo. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

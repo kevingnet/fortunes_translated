@@ -1,0 +1,129 @@
+Dbyan Men yon ti poul # 44: Ou kapab swiv kont lan Identi.ca pou dbyan nanhttp://identi.ca/debian Plis enfòmasyon nan dbyan nan identica kapab touka jwenn nan: http://wiki.debian.org/Teams/Publicity/IdenticaDbyan Men yon ti poul # 1: Ou ka rapòte yon ensèk nan yon pake a ak yo lòd, ki 'rportbug',ki se disponib nan pakè a rportbug, swa nan lòd-liy lan oswaak entèfas nan nouvo grafik (ki disponib kouri 'rportbug --ui GTK2' oswa nanmeni an).
+
+%
+Dbyan Men yon ti poul # 2: Ou kapab sèvi ak 'dpkg-rkonfigurasyon <pake>' chanje larepons ou te bay kesyon yo mande lè w ou fèk enstale yon pake.'Configured-dbyan' Pake a bay yon fen devan inifye pou fè sa,kòm byen.
+
+%
+Dbyan Men yon ti poul # 3: Ou kapab sèvi ak swa 'nimewo apatman-kachèt rechèch <Mo>' oswa'Rechèch aptitid <Mo>' pou fè rechèch pou mo nan deskripsyon yo nan toutpakè ki disponib.
+
+%
+Dbyan Men yon ti poul # 4: Ou ka wè vèsyon yo disponib ak enstale pou yonoswa pakè plis ki disponib ak 'politik la nimewo apatman-kachèt <pakè>' lòd.
+
+%
+Dbyan Men yon ti poul # 5: Si ou bezwen bati yon Kernel koutim, sèvi ak 'fè-kpk a'script yo te jwenn nan pake a kernel-pake.
+
+%
+Dbyan Men yon ti poul # 6: Pa gen okenn allusion # 6. Soumèt yon allusion jodi a!
+
+%
+Dbyan Men yon ti poul # 7: Ou kapab sèvi ak pake a kron-nimewo apatman fè otomatik swaredownloads de à pou pakè enstale sou sistèm ou an.
+
+%
+Dbyan Men yon ti poul # 8: Si ou gen pwoblèm ki genyen ak dbyan ke ou pa kapab rezoud palekti manyèl yo ak dokiman, eseye mande sou Itilizatè yo dbyanadrès lis (debian-user@lists.debian.org).
+
+%
+Dbyan Men yon ti poul # 9: Si ou bezwen konnen ki sa vèsyon an dbyan w ap kounye akouri, gade nan / eksetera / debian_version oswa itilize 'lsb_release -sc' lòd. Si ouvle konnen kodnam a pou ke vèsyon (pou egzanp, 5.0 se codenamed'Lenny'), tcheke URL sa a:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Dbyan Men yon ti poul # 10: Gen dbyan adrès lis pou tout bagay soti nan itilizatèkesyon yo deba sou sa ki yo mete nan dokiman yo dbyan Policy.Tcheke lis la nan http://www.debian.org/MailingLists/ ak abònman nanmoun ki enterese w.
+
+%
+Dbyan Men yon ti poul # 11: Kenbe jiska dat sou sa k ap pase - li dbyan nanPwojè News. Li li l 'sou entènèt la nan http://www.debian.org/News/weekly/
+
+%
+Dbyan Men yon ti poul # 12: Pake a grèp-dctrl bay yon nimewo nan Scripts itilpou byen vit chèche divès kalite dosye kontwòl pake (tankou ki disponib nanpakè ranpli).
+
+%
+Dbyan Men yon ti poul # 13: Si ou pa renmen opsyon ki disponib nan default itilize nan yon dbyanpake, ou ka download sous la ak bati yon vèsyon ki itilize aopsyon ou prefere. wè http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Seksyon 6.13 ak 6,14) pou plis enfòmasyon.Sepandan, met nan tèt ou ke pi fò opsyon nan pi pakè ka configurénan ègzékusion, e ki pa egzije rkonpilasyon pakè a.
+
+%
+Dbyan Men yon ti poul # 14: Si ou ta renmen yo swiv bagay sa yo pase nan yon pake(Pou egzanp, si ou vle wè rapò ensèk, lage avi, ak lòtbagay menm jan an), konsidere abònman nan l 'sou Tracking nan Sistèm pake.Ou ka jwenn plis enfòmasyon sou PTs a nan:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Dbyan Men yon ti poul # 15: dokiman an pou yon pake ka nòmalman ka jwennanba / Uzr / pataje / doc / <pake>. An patikilye, README.Debian dosye a souvangen enfòmasyon itil sou Kapris dbyan-espesifik oswa konsèy.
+
+%
+Dbyan Men yon ti poul # 16: Si w ap chèche pou yon dosye patikilye, men se pa konnenki pake li fè pati, eseye enstale 'nimewo apatman-dosye', ki kenbe yonti baz done nan enfòmasyon sa a, oswa rechèch sa ki nan dbyan nanPackages baz done, ki ka fè nan:http://www.debian.org/distrib/packages#search_contents
+
+%
+Dbyan Men yon ti poul # 17: Bezwen yon moun pou pale ak sou dbyan? Si w ap konfòtabak Entènèt Relay Chat (ir), jis enstale kliyan pi renmen IRC ou a, akrantre nan #debian sou irc.debian.org.
+
+%
+Dbyan Men yon ti poul # 18: ka enfòmasyon kontwòl Kalite sou yon pake ka jwennpa ale nan http://packages.qa.debian.org/~~V <pake>; paj sa a baylyen ki mennen nan paj QA Responsable a, BTS yo, atik nouvèl pou pake a, akenfòmasyon sou ki vèsyon yo disponib nan ki achiv.
+
+%
+Dbyan Men yon ti poul # 19: Si w ap enterese nan pakè bilding soti nan sous, outa dwe konsidere enstale pake a nimewo apatman-src.
+
+%
+Dbyan Men yon ti poul # 20: Vle kenbe tras nan sa vèsyon an yon pake ou genenstale (itil espesyalman pou moun kouri ibrid ki estab / tès /sistèm enstab)? Tcheke nimewo apatman-montre-vèsyon.
+
+%
+Dbyan Men yon ti poul # 21: Si bwat dbyan ou se dèyè yon koneksyon rezo dousman,men ou gen aksè a yon yon sèl vit ke byen, tcheke deyò pake a nimewo apatman-postal.
+
+%
+Dbyan Men yon ti poul # 22: Mande ki dbyan glas ki pi bon pou ou? tchekenimewo apatman-espyon a ak netselect-nimewo apatman pakè, sa ki ka ba ou enfòmasyonsou ki jan divès kalite sit glas fè.
+
+%
+Dbyan Men yon ti poul # 23: Si sistèm ou ap itilize ap itilize espas twòp ki gen kapasite, eseye nandeborphan pake; li kapab ofri sijesyon sou ki pakè pouvwa genrès ak detachable. Epi, nan kou, pa bliye netwaye soti nanAPT zòn kachèt (lè l sèvi avèk 'nimewo apatman-jwenn pwòp', 'aptitid pwòp', oswaAksyon aptitid a -> Netwaye pake kachèt atik meni).
+
+%
+Dbyan Men yon ti poul # 24: Si ou ta renmen remèsye yon mentenè pou manyen yonpwoblèm, tcheke deyò --kudos rportbug.
+
+%
+Dbyan Men yon ti poul # 25: 'dbyan-referans' pake a gen yon gran varyetenan referans dokiman pou itilizatè dbyan ak devlopè. Pifò nan laKa enfòmasyon tou yo te jwenn nan URL sa a:http://www.debian.org/doc/manuals/reference
+
+%
+Dbyan Men yon ti poul # 26: Si yon pake pa sanble yo gen anpil kopi dokiman yo,tcheke pou yon pake yo te rele '<pake> -doc' ou menm jan an, epi fè asire w ke ouenstale li kòm byen; pakè ak yon gwo kantite dokimanregilyèman fann Doc yo nan fason sa a pou moun ki pa vleenstale yo.
+
+%
+Dbyan Men yon ti poul # 27: Regilyèman verifye sovgad ou yo. Ou * yo * kenbe sovgad,dwa? Dwa? Si ou pa, kòmanse ak pran asfat (1) oswa pil fatra (1).
+
+%
+Dbyan Men yon ti poul # 28: Si machin ou se pa sou tout tan an (tankou yonlaptop), tcheke deyò 'anakron' pake a; sa a pral asire w ke regilyetravay toujou rive, menm si machin nan se pa sou nan moman an yo tanòmalman deklanche.
+
+%
+Dbyan Men yon ti poul # 29: Kenbe revèy sistèm ou egzat - pou machin avanse ki fè yo vire soupifò oswa pou tout tan an ta dwe gen 'np' pake a enstale kenbe tan anegzat nan ant rdemaraj.
+
+%
+Dbyan Men yon tipoul # 30: ka Dokimantasyon ap disponib nan http: // localhost /pa enstale 'doc-baz la' ak 'doc-santral' pakè ak yoDependencies.
+
+%
+Dbyan Men yon ti poul # 31: Enfimite yon sèvis nòmalman-aktif nan yon runlvèl espesifikyo ta dwe fè pa chanje lyen ki S nan /etc/rc<level>.d nan yon lyen K,olye ke retire lyen ki antyèman; si tout lyen yo retire, nansistèm pral asime sou pwochen an enstale ke yo bezwen yo dwe ranplase.
+
+%
+Dbyan Men yon ti poul # 32: Pake a 'doc-dbyan' gen kèk jeneraldokiman sou pwojè a dbyan. Li se tou ki disponib nan lang Panyòl(Doc-dbyan-es), franse (doc-dbyan-fr) yo ak Ikrenyen (doc-dbyan-UK).
+
+%
+Dbyan Men yon ti poul # 33: Pake a 'dvskript' gen kèk Scripts itil pouitilizatè ki vle ede amelyore dbyan, e.g. wnpp-alèt, rc-alèt ak BTS.
+
+%
+Dbyan Men yon ti poul # 34: Si ou vle swiv dbyan sid epi yo gen yon ti downloadkota oswa yon koneksyon reyèlman ralanti, tcheke deyò pake a debdelta.
+
+%
+Dbyan Men yon ti poul # 35: Nan rechèch pou kèk jwèt? Pran yon gade nan 'goplay', kiofri yon entèfas bèl pou Navigasyon atravè tout kalite jwèt.
+
+%
+Dbyan Men yon ti poul # 36: Bezwen yon pake plus pase anbake ak dènye dbyan nanki estab lage, men se pa vle ajou ak 'tès' oswa 'enstab'? Gen kèkpakè yo kenbe monte-a-dat atravè Suite la ki estab-dènye nouvèl yo, kèk lòt moun yote fè disponib nan backports.debian.org.
+
+%
+Dbyan Men yon ti poul # 37: Vle download yon pake san yo pa enstale li? sèvi ak'Aptitid download <pkgname>'.
+
+%
+Dbyan Men yon ti poul # 38: Vle konnen ki jan ou ka sèvi ak yon pwogram ou te pa janm itilizeye anvan an? "Moun" yo pral pi bon zanmi nouvo ou! Kalite "nonm <pwogram-Non>" nan yonkoki. Oswa, kouri "nonm -H <pwogram-Non>" li paj la manyèl nan yon navigatè.
+
+%
+Dbyan Men yon ti poul # 39: Amelyore frape nan tab-fini pa enstale afrape-fini pake.
+
+%
+Dbyan Men yon ti poul # 40: Si ou enstale pakè a lòd-pa-jwenn, eseyekouri yon lòd ou pa te enstale ap fè w konnen ki sa pake nan enstale nanjwenn ki lòd.
+
+%
+Dbyan Men yon ti poul # 41: Ou kapab sèvi ak 'nimewo apatman-kachèt montre <package_name>' oswa 'montre aptitid<Package_name> 'yo ka resevwa plis enfòmasyon sou yon pake dbyan.
+
+%
+Dbyan Men yon ti poul # 42: Ou kapab sèvi ak 'lis nimewo apatman-dosye <package_name>' yo jwenn yon lisde sa ki nan pake dbyan. Aksyon sa a se menm jan ak'Dpkg -L <package_name>' eksepte pake a pa bezwen yo dwe enstale oswachache bèt lè l sèvi avèk nimewo apatman-dosye nan Kontrèman a dpkg.
+
+%
+Dbyan Men yon ti poul # 43: Vle pou yon ti tan enfim iptables firewall ou? sèvi ak'Iptables-sove | SED "/ - / d, / ^ # / d; s / gout / AKSEPTE /" | iptables-retabli 'yo retiretout règ, li mete politik nan default yo aksepte.
+
+%

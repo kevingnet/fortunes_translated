@@ -1,0 +1,3758 @@
+#pld
+21:10:20 ::: Mif_ dołączył do #pld
+21:10:26 < Mif_> dzień dobry
+21:11:19 < Mif_> mam tylko jedno krótkie pytanie :) - czy jest sens, żebym instalował tą dystrybucję, jeśli nie mam linuksa w małym palcu, a tylko znudził mi się Debian? :P
+21:11:58 < fi9o> Mif_: Przekonaj sie.
+21:12:03 <+arekm> Mif_: jeśli lubisz dłubać to tak
+21:12:39 < Mif_> ok, dzięki - to mnie zachęciło
+21:12:43 < Mif_> na razie :>
+21:12:46 ::: Mif_ opuścił #pld (no reason)
+22:48:39 < pawelz> Biedny Mif_... ;-)
+23:06:17 < fi9o> pawelz: Ponoc do odwaznych swiat nalezy
+23:09:22 <+wolf^> sam sobie winien, wpadl na 2 minuty, uwierzyl pierwszej osobie, nie dal szansy zeby go ktos ostrzegl, ze to szambo :>
+%
+#pld
+23:23 <@uzsolt> pawelz: arekm needed the stable texlive2009 so this is the reason of integer release ;)
+%
+#pld
+[12:30:33] <@blekot> czemu w gcc kolejosc -ldupa -ldupa1 -ldupa2 ma znaczenie?
+[12:32:12] <@zbyniu> blekot: bo to jak w życiu - kolejnożż dup z jakimi siż żżczysz ma znaczenie
+[12:36:25] <@blekot> zbyniu: gdyby bylo tak jak w zyciu, to -ldupa -ldupa1 -ldupa2 bylo by tozsame z -ldupa2
+[12:37:11] <@undefined> blekot: niekonieczie. jak dupa bedzie miala syfa, to wynik bedzie inny...
+%
+#pld
+22:57  * AlchemyX będzie miał urodziny za 24 godziny i 53 minuty
+22:57 @ : djrzulf^: alchemyx no trudno
+22:57 @ : djrzulf^: ;>>>
+22:57 @ : mmazur: KOlejny emeryt.
+22:57 @ : djrzulf^: alchemyx nie dostnaiesz prezent
+22:57 @ : t0tal: AlchemyX, ile? :>
+22:57 + : AlchemyX: nie chcę :P
+22:58 + : AlchemyX: t0tal: oczko
+22:58  * leafnode mial imieniny 24h temu
+22:58 + : AlchemyX: ;]
+22:58 @ : djrzulf^: alchemyx 69 ?
+22:58 @ : djrzulf^: ;D
+%
+#pld
+<^3nk> linux byl pierwszym systemem operacyjnym w kosmosie
+<_ArM_> 3nk: w kosmos to latali zanim jeszcze linux powstał
+<^3nk> _ArM_: ale na alienie widzialem tryb tekstowy czyli chyba to bul jakis unix
+<_ArM_> 3nk: ,,alienie'' ? :>
+<^3nk> _ArM: tak w ktoryms obcym widac monitor z trybym tekstowym
+<_ArM_> 3nk: co Ty bredzisz ? alien to film, fikcja (mam to capsem napisać ?)
+<^3nk> _ArM_: quake to tez fikcja?
+<agaran> a nie?
+<^3nk> faktycznie fikcja
+%
+#pld
+<alee_> red hat jest scisle zwiazany z glibc pld bedzie takze?
+%
+#pld
+<kev|n> agaran: hmm, jeszcze moment i zaczne eksperymentowac z nowych glibcem -
+                jakby co to wszystko bedzie Twoja wina :-)
+<agaran> ;)
+<peyrol> to ja jak co tez na agaran'a zrzuce a co mi tam
+<agaran> ;)
+<kev|n> Juz widze plakaty na miescie: agrana z podbitym okiem i napis:
+        Bo glibc nie chodzil :-)
+%
+#pld
+<dobrek> kev|n: czyzbys przylazl tu defetyzm i ironije rozsiewac? :))
+<kev|n> dobrek: jestem imperialistycznym, zepsutym, konspirantem innej
+                dystrybucji :-)
+%
+#pld
+<augs> kloczek: chodzi mi o to czy rozumiesz calkowicie kod zrodlowy jadra
+<augs> czytalem na pl.comp.os.advocacy ze w polsce sa tylko dwie osoby ktore
+       rozumieja jadro. `informatyk` tak napisal
+<arekm> augs: sam Linus nie wie do końca co który kawałek kodu robi.
+<augs> ja myslalem ze Linus potrafi w pamieci zaemulowac dzialanie dwoch albo
+       trzech jader
+[ agaran!agaran@magnus.cordef.net.pl ] czy dzisiaj mamy wysyp idiotoW?
+## Signoff #pld: augs (.)
+## Join #pld: lcamtuf (=lcamtuf@pa145.jeleniag.ppp.tpnet.pl) at 11:35PM
+[ Whowas augs (=augs@pa145.jeleniag.ppp.tpnet.pl) ]
+...
+[ agaran!agaran@magnus.cordef.net.pl ] wiesz ile division by zero by wywołali
+				jakby ircd sprawdzał inteligencję na lini IQ?
+%
+#pld
+Left #pld: break|na (break@lx.zetosa.com.pl) at 07:25PM <<<linux>>> jest
+                                         jak wigwam: no windows no gates.
+%
+#pld-installer@pld.org.pl
+> > Nie cierpie interfejsu uzytkownika
+> Ja nieznosze urzytkownikow.
+Niestety nie da sie w prosty sposob rozwiazac tego problemu ;)
+%
+- Dzięki za info, znaczy nie jestem ostatnim lamerem :-))).
+- no co ty - lamerzy nie uzywaja PLD ;>
+
+		--- Konrad Stępień & BartOwl @ pld-list
+%
+- Czyżby PLD cierpiało na niedobór Zwykłych Użytkowników (TM) ? ;)
+- Nie. PLD ma tak wspanialych użytkowników, że nie zadają głupich pytań!
+
+		--- Marek Fetliński & Paweł Kołodziej @ pld-users-pl
+%
+- Czyżby PLD cierpiało na niedobór Zwykłych Użytkowników (TM) ? ;)
+- Mysle, ze nie, ale na razie nie ma (???) problemow :)
+- należałoby więc jakieś stworzyć ;-P w końcu ze zdaniem zawartym w pewnej
+  sygnaturce, użytkownikom PLD wypada się liczyć ;))
+
+		--- Marek Fetliński & Blues @ pld-users-pl
+%
+#pld
+<mst_> masz pld u siebie?
+<wiget> tak
+<mst_> i jak to chodzi
+%
+From: "Ampla" <ampla@go2.pl>
+To: <feedback@pld.org.pl>
+Subject: pakiet-LINUX
+
+Witam
+Proszę o podanie ceny za licecje na 12 stacji
+
+Pozdrawiam Piotr
+%
+#pld
+<arekm> Emiles: jak to nie? skrypty do sieci używają wyłącznie iproute2
+<Emiles> arekm: hmm, nie zmyslasz?
+<arekm> pfff
+<Emiles> arekm: az sprawdze (podejrzewam, ze jesli tak, to pewnie iproute wywoluje ifconfig)
+%
+#pld
+18:30  * wiget jest już w domu
+18:31  * socrat sie cieszy ze wiget jest juz w domu :>
+18:32  * zagrodzki sie cieszy ze sie wszyscy ciesza :>
+18:33  * michuz sie cieszy ze wyszscy sie ciesza z tego ze sie ciesza :>
+18:34  * malekith jest taki happy, ze wszyscy sa happy, ze sie az jasno dookola robi
+18:34 <@socrat> hyhyhy :>
+18:35 <@michuz> trza zrobic > fortunes-pl :>
+%
+From: "Michal Margula" <alchemyx@uznam.top.pl>
+To: <pld-users-pl@pld.org.pl>
+
+[czwartek, 22 marzec 2001], Grzegorz 'Dzikus' Sterniczuk napisał(a):
+
+> On Thu, 22 Mar 2001 19:15:24 +0100, you wrote:
+> >A moja siostra używa gnome :)
+>
+> A ja nie mam siostry :(
+>
+
+Hm... to już problem hardwarowy, my nie pomożemy ;]
+%
+#pld
+16:26 < DOERman> cze
+16:27 < DOERman> zna ktos ftp z grami?
+16:27 <@wiget> DOERman: ftp:://127.0.0.1/.Warez/
+16:28 <@wiget> DOERman: widziałem tam pełno gier
+16:28 <@wiget> DOERman: na ftp://::1/.XXX/ też coś było ale miałem do niego za duże lagi
+16:30 < DOERman> thx
+16:30 < DOERman> wiget tylo co najpier wpisac?
+16:30 < DOERman> 127.0.0.1
+16:30 < DOERman> to
+16:31 < DOERman> czy to cale
+%
+#pld
+20:00 <Krwisty> agarann na serio bedziecie robic 'stabilne' pld?
+%
+#pld
+21:04 <blues> __hal__: you stupid mashine!!
+%
+#pld
+<Czoper> heh
+<Czoper> ja od 4 jestem ;-)
+<socrat> Czoper : slyszalem juz o takich zboczeniach... pewnie siedzisz przed
+          komputerem? ;-P
+<Czoper> hehe ;-P
+<Czoper> ta, a zkad wiedziales  ? ;-)
+<socrat> Czoper : moja kobieca intuicja ;-P
+<oil3> socrat: Instynkt macieżyński ?? :P
+<socrat> oil3 : s/macieżyński/macierzyński/ ;-PPP
+<socrat> oil3 : pewnie ispella nie masz w systemie, synq? ;-P
+<oil3> socrat: Mam dyzortografie ;]
+* socrat w koncu stawia sobie tunele do pop3 i smtp
+<oil3> A pozatym przed chwilą wstałem z kobiety . Więc nie do mnie pretęsje .
+          Za dużo wczoraj wypiłem .
+<Czoper> hehe
+<Czoper> ;-))))))))))))))))))
+<socrat> oil3 : jak tam pociecha? ;>
+<oil3> Ide dalej spać ..... Nie mam już siły .... Ide spać sam .
+<socrat> hehehe
+<socrat> :>
+%
+#pld
+00:34:01 <taug> czasami otrzymuje komunikat naruszenie ochrony pamieci co to
+          znaczy?
+00:34:37 <blues^> taug: ze kondona na pamiec nie zalozyles
+00:34:43 <blues^> taug: i sie naruszylo
+00:35:01 <taug> jak sie go zaklada?
+00:35:18 <taug> man kondom?
+%
+#pld
+17:44 < Havk> ktos z was moze uzywa pld?
+17:44 < Havk> jak to sie sprawuje?
+17:44 < malekith> Havk: chcesz dostac sie do fortunek :)
+17:45 < Havk> ee fortunek?
+17:45 <@dobrek> Juz sie dostales :))))))
+%
+#pld
+14:26 < dF99> arekm: wiesz gdzie mozna znalezc jakies patche na jaja ?
+14:27 <@arekm> pozostawiam to bez komentarza
+14:27 <@dobrek> dF99: czekaj na wielkanoc. Bedzie mnostwo.
+%
+#pld
+21:52:42 <_CrasH_> zainstalowalem pld ale mam problem bo nie kce mi
+          podmontowac cdromu :(
+21:53:14 <michallo_> _CrasH_ a czemu ci niechce cdromu podmontowac
+21:54:32 <_CrasH_> zapodaje mu mount /mnt/cdrom a on ze device /dev/cdrom does
+          not exist
+22:01:35 <pawelk_> _CrasH_: masz plik /dev/cdrom ?
+22:01:42 <_CrasH_> nie mam
+%
+#pld
+15:18:15 ---    arekm is now known as arekmZLY
+15:18:40 <vinix>        arekmZLY: *CMOK*
+15:19:02 <arekmZLY>     vinix: fuj.
+15:19:02 <arekmZLY>     ;>
+15:19:36 <djrzulf>      arekmZLY: zawsze *cmok* lepszy od *ziew*'a :-]
+%
+#pld
+12:52:26 đ aflinta/#pld znowu jakiś palant u mnie w plku panienki ściąga, tu
+          się nie da pracować :( Całe łacze zapycha
+12:52:38 <vinix> aflinta: wytnij.. wytnij..
+12:53:01 <aflinta> vinix ale, żebym wiedział który to?
+<jack_> aflinta: wszystkich! :>
+12:53:36 <vinix> aflinta: wszystkich!
+12:53:44 <agaran> kill'em all
+%
+#pld
+10:14:01 <vinix> arekm: uchm.
+10:14:39 <arekm> vinix: nie uchm tylko tak
+10:14:46 <vinix> arekm: a to kto ?
+10:14:57 <arekm> vinix: kto co?
+%
+#pld
+16:08 <@jajcus> adasi: myślisz że jest szansa, że to co znalazłem w test mi ruszy i poprawnie obsłuży ATA100?
+16:08 < adasi> jajcus nie mam ata100 wiec nie wiem... ale jezeli sie znalazlo w test to znaczy ze powinno dzialac...
+16:08 <@malekith> adasi: rotfl
+16:13 < adasi> malekith co sie smiejesz: w PLD jezeli cos sie buduje to juz jest zajebiscie :)
+%
+#pld
+14:21 < pld_fan> czy moglby ktos mi powiedz nt. tego bledu ktory wyskakuje podaczs instalcji z Netu ?
+14:21 < pld_fan> poldek: mark : kernel-source not found
+14:21 <@malekith> pld_fan: trzeba kloczka ścigać
+14:22 <@malekith> pld_fan: a chwilowo wywal kernel-source z /etc/installer.pkgs
+[...]
+14:23 < pld_fan> yy jeszcze 1 pyttanie : co to ten kloczek ?
+[...]
+14:28 < pld_fan> malekith  :)) hihi janrapwde nie zartuje, nie wiem co to kloczek o ktory sie rozchodzi
+%
+> Cześć
+>
+> Czy to naprawdę jest tak trudno puścić na buildery taki malutki (<100k!)
+> pakiecik, który się g-wrap nazywa? Jak długo jeszcze będę musiał się
+> przekonywać, że g-wrap-devel jest potrzebne do działania gnucach, mimo
+> że zostało to poprawione dwa miesiące temu w CVS a ja kilka razy
+> grzecznie prosiłem o przebudowanie? A jak nie można go puścić, to może
+> należałoby poinformować o tym fakcie i jego przyczynie, żeby ktoś mógł
+> to poprawić?
+proponuje tym samym nowy skrot: STBRKJM! (send to builder request k****
+jego mac!).
+
+		--- Michał Kochanowicz & Rafal Cygnarowski @ pld-devel-pl
+%
+Subject: Re: Dillo && xine!
+
+> Od razu się wytłumaczę - chętnie bym się zajął pakietami lub
+> przynajmniej sam sobie skompilował, ale mam tylko modem 33,6 i ściaganie
+> pakietów z nagłówkami+same źródła niezbyt mi się kalkuluje.
+
+Jeżeli chcesz pomóc to rób tylko tyle ile mozesz. Robienie cudów pozostaw
+innym :)
+
+		--- Maciej Arciuch & Tomasz Kłoczko @ pld-devel-pl ---
+%
+Subject: I've got a dream...
+
+> > Tak lekko OT... snilo mi sie ze wszyscy na grupie mnie op......li za moje
+> > pomysły... Budzie trza siem podszkolić :)
+> Mistrzu, masz sny o potędze!
+> Tego się nie da wyleczyć :)
+ehhh... ostatnio uznałem że za dużo siedzę przy kompie po tym jak śniło mi
+się że ser, kloczek i ryszard rączkowski (z pl.misc.telefonia.gsm) razem
+mnie ochrzaniaja... szczegół że żadnego z nich w życiu nie widziałem
+
+		--- Witek Kręcicki & Witold Filipczyk @ pld-devel-pl
+%
+#pld
+23:08:30 <AlanZ1> moze ktos polecic mi jakis program do webmail ktory bedzie dzialac z nowym
+          impad ?
+23:08:45 <Zuzia13> squirrelmail
+23:08:46 <socrat> squirrelmail ?
+23:08:58 <AlanZ1> pierwszy raz slysze
+23:09:08 <socrat> chyba drugi...
+%
+#pld
+[18:25] * [depesz] tak tylko wpadl sie pochwalic, ze jego proces potomny ma
+	juz 17 centymetrów
+[18:26] <ser> depesz: chodzi ci o fiuta?
+[18:26] <aflinta> [depesz] ??? byłeś w szpitalu z żoną na USG?
+[18:27] <ser> depesz: oh, pardon
+%
+#pld
+12:22:14 (@dzimi): o 2.2.21pre4 wyszlo
+12:22:32 (@dzimi): alan juz szykuje sie do rc1 oraz 2.2.22pre
+12:22:42 (@dzimi): wow, fajnie
+12:22:46 (+djrzulf): zboczeniec
+12:22:46 (+djrzulf): :>
+12:23:05 (@wojrus): scigaja sie z 2.4 czy co? :>
+12:23:12 (+ZyTeK): Byl fetyszyzm, jest kernelizm.
+%
+#pld
+22:34:43 (+Undis): hm.. nie masz mirca? cos ty?
+22:34:51 (+Undis): jak mozesz nie miec mirca?
+22:34:54 (@agaran): Undis: ;>
+22:34:58 (+Jelit): :)
+22:34:59 (+Undis): to jak ty pracujesz?
+22:35:00 (@dzimi): Undis: mirca sie da spod wine odpalic
+22:35:05 (+djrzulf): dzimi: da się
+22:35:06 (+djrzulf): :>
+22:35:28 (@dzimi): djrzulf: wiem, jak lama bylem to tak odpalalem ...
+22:35:41 (+djrzulf): dzimi: a ja nie, wierzę na słowo 8-]
+22:35:47 (+djrzulf): dzimi: ale se odpaliłem ostatnio wincmd32 pod wine
+22:35:50 (+djrzulf): dzimi: śrenio to działa :/
+22:35:59 (+djrzulf): dzimi: przy kursorach zaznacza pliki
+22:36:09 (+djrzulf): dzimi: ale ogonie i tak nieźle im to wyszło
+22:36:13 (+djrzulf): wygląd nie najgorszy
+22:36:14 (+Undis): pod wine? pod jakim wine? to wy nie macie windows 98? :P
+%
+#pld
+01:57:15 <@blues_> ping
+01:57:23 <@agaran> pong
+01:59:50 <@blues_> ping
+01:59:54 <@agaran> pong
+02:00:24 < baggins_> bzzzt
+02:00:48 -!- mode/#pld [+o baggins_] by agaran
+02:00:50 <@agaran> :>
+02:00:55 <@agaran> baggins_: zwarcia masz?
+02:01:14 <@blues_> bum
+02:01:20 <@blues_>  :)
+02:01:23 <@zuzia-> :-D
+02:01:24 <@blues_> hi baggins_  :)
+02:01:28 <@baggins_> kto sie zajmuje botami - wogóle są tu jakieś oprócz papuga?
+02:01:40 <@agaran> baggins_: jest zuzia ale z niej chyba pozytka niema
+02:01:43 <@zuzia-> agaran aha
+02:01:47 <@blues_> zuzia jest przeciez!
+02:01:48 <@blues_> :)
+02:01:50 <@zuzia-> blues_ yhy
+02:01:57 <@agaran> ja moge zaladowac perla do sesji..i bedzie jakis op..czy cós
+02:01:58 <@baggins_> a zuzia da opa?
+02:02:00 <@zuzia-> baggins_ chodz na priv :*
+02:02:01 <@agaran> siewca ma opa
+02:02:08 <@agaran> baggins_: ona jest chetna ale do czego innego
+02:02:15 <@baggins_> widze ;>
+%
+Subject: octave
+
+> Mam pisać większymi literami ?
+> Prszę: GNUCACH DO POPRAWNEJ PRACY POTZREBUJE GUILE 1.3.4, KTÓREGO NIE
+> MAMY I NIE ŁUDŹ SIĘ ŻE BĘDZIEMY MIELI.
+To ja też ;)
+
+BREDZISZ, BREDZISZ, BREDZISZ, BREDZISZ!
+
+		--- Tomasz Kłoczko & Arkadiusz Miskiewicz @ pld-devel-pl
+%
+#pld
+12:36AM <ser> zasram się ze śmiechu
+%
+Subject: Re: Fw: Alternatywa dla qmail'a
+
+(...)Po przeczytaniu jeszcze kilku innych kawałków też zaczynam dochodzić
+do wniosku że gość ma nieźle nasrane pod sufitem(...)
+
+		--- Tomasz Kłoczko @ pld-devel-pl
+%
+#pld
+18:25:53 <+mmazur> hmmm... uspokoilibyscie sie moze? :)
+18:25:53 <+Krwisty> no can do.
+18:28:39 <@djrzulf> zdychaj tr0lu!
+18:30:21 <+mmazur> dzieci dzieci... bezsensowne dyskusje to na #pldhelp, a nie
+                   tu :)
+18:30:39 <@djrzulf> gdzie masz bezsensowną dyskusję ?
+18:31:06 <+mmazur> tu
+18:31:23 <@djrzulf> nie widzę
+18:31:29 <@djrzulf> narazie bezsensowną dyskusję to ty coś piszesz;p
+18:31:41 <+mmazur> wredny
+18:32:01 <@djrzulf> nazwajem :-]
+18:32:20 <@jack_> Zaraz go z krzyża zdejmiemy :>
+18:32:47 <+mmazur> ty mi tu nie podskakuj :P
+18:32:51 <@djrzulf> i kto potem będzie PLD traffic pisał ?:>
+18:32:57 <+mmazur> właśnie :)
+18:32:58 <@djrzulf> ukrzyżujemy innego ?:>
+18:34:00 <+Krwisty> co sie tak na mnie patrzycie?
+%
+So .. all is opened before You. Most from as can communicate (better odr
+worse) not only polish language :_)
+
+		--- Tomasz Kłoczko @ pld-devel-en
+%
+From: "matrix" <matrix@multicurie.zabrze.net.pl>
+To: <feedback@pld.org.pl>
+Subject: Instalacja Lilo na PLD
+
+WItam!
+
+Czy wiecie moze jak zainstalowac Lilo pod tym linuxem.
+%
+> sudo twoim przyjacielem :)
+Poważnie nie ma innego wyjścia? :( Nie lubię sudo, on się do mnie
+brzydko odzywa... ;>
+
+		--- Michal Kochanowicz @ pld-users-pl
+%
+#pld
+11:13:39 <@dzimi> poldek jest glupi ...
+11:14:30 <@dzimi> a nie ...
+11:14:35 <@dzimi> dzimi jest glupi ...
+%
+		--- Piotr Szymański & Mariusz Mazur @ pld-users-pl
+On Friday 03 May 2002 21:02, Piotr Szymanski wrote:
+> Ja sie pod tym podpisuje! KDE bylo traktowane po macoszemu przez wiekszosc
+> dystrybucji (np. RH i Debian), praca pana Michala, zapewni nam, ze KDE nie
+> bedzie tak traktowane w PLD. Nie nalezy tez zapominac, jak wiele pracy
+> wiaze sie z utrzymywaniem pakietow tak rozbudowanego srodowiska.
+> Bardzo dziekuje!
+Kochanowicz na prezydenta!
+A Kochanowicz Desktop Environment to już chyba na stałe zostanie :)
+%
+#pld
+02:19:36 <@jack_> Mounting NFS
+                  filesystems...........................................[
+		  ZAJETY  ]mount: RPC: Awaria portmappera - RPC: Niemożliwy
+		  odbiór
+02:19:44 <@djrzulf> ajć
+02:19:52 <@jack_> Ble, jakby nie mogło sprawdzić, czy zdalny host jest up :)
+02:20:54 <+Elio> jack_: ping? telnet na usluge?
+02:20:55 <@djrzulf> i jeszcze obrazek w ascii narysowało z napisem Host
+                    unreachable
+02:21:44 <+Elio> ;]
+02:21:58 <@djrzulf> albo z bocianem i napis "odleciałem"
+02:22:10 <@jack_> [root@pldmachine root]$ rpcinfo -p 192.168.0.98
+02:22:10 <@jack_> rpcinfo: kontakt z portmapperem niemożliwy: RPC: Błąd w
+                  odległym systemie - Brak drogi do systemu
+02:22:15 <@jack_> Nie lepiej?
+02:22:44 <@djrzulf> ten pomysl z bocianem bardziej mi się podobał
+%
+#pld
+18:33:39 >> Mode #pld "-b *!*Zoska1f_2@*.punkt.pl" by o-siefca, lt
+18:33:41 >> Mode #pld "-b *!*Zoska1f_2@*.punkt.pl" by trojan_, trojan, areq, adasi
+18:33:41 >> Mode #pld "-b *!*Zoska1f_2@*.punkt.pl" by blue_bot
+18:34:38 <@jack_> blue_bot, o-siefca, lt, trojan_, trojan, areq, adasi <- botnet? ;)))
+%
+#pld
+16:35:01 -!- mode/#pld [+o fahren] by djrzulf
+16:35:21 -!- mode/#pld [-o fahren] by dzimi
+16:35:49 -!- mode/#pld [+o fahren] by agaran_
+16:36:39 <@djrzulf> dzimi: ?
+16:41:55 <@jack_> djrzulf: zbanujemy za to dzimiego? ;))))
+16:41:58 <@djrzulf> jack_: tak
+16:42:27 <@jack_> djrzulf: Tylko jakiś reason trzeba wymyśleć
+16:42:36 <@jack_> djrzulf: "bo 2.2 nie ma iptables" ?
+16:42:40 <@djrzulf> może być
+16:43:57 <@jack_> 16:43:59 <@dzimi> jack_: już nakładam patcha dającego iptables i grsec do
+                  2.2.21... momencik [fake msg from dzimi]
+[...]
+20:01:20 <@dzimi> szykuję anons na lkl, ze neofb gotowe dla 2.2, i szykuję sobie pierszą
+                  kompilacje iptables dla 2.2, bo jajko juz skonczone
+%
+#pld
+17:36:36 <@dzimi> ciekawi mnie jak to bedzie dzialac, cyz da sie np. office odpalic, nie wiem, gry jakies, i cyz to woogle wymaga
+                  windows\system
+17:36:50 <@Ma-rYu-sH> dzimi: testowane:
+17:36:50 <@Ma-rYu-sH> word
+17:36:50 <@Ma-rYu-sH> excell
+17:36:54 <@Ma-rYu-sH> powerpoint
+17:36:57 <@Ma-rYu-sH> wincmd
+17:37:01 <@Ma-rYu-sH> gadu gadu
+17:37:03 <@Ma-rYu-sH> irfan
+17:37:09 <@Ma-rYu-sH> putty
+17:37:11 <@Ma-rYu-sH> fallout 1 i 2
+17:37:17 <@Ma-rYu-sH> photoshop
+17:37:21 <@Ma-rYu-sH> dalej nie pamiętam :)
+17:37:26 <@dzimi> wow :)
+17:37:30 <@Ma-rYu-sH> ale działały u mnie
+17:37:38 <@dzimi> to ja robie wlasną dystrybucję linuxa
+17:37:40 <@djrzulf> i to na winex ?
+17:37:42 <@dzimi> z winex
+17:37:46 <@dzimi> dla lamerów
+17:37:47 <@djrzulf> dzimi: Lindows ? ;D
+17:37:47 <@dzimi> :>
+17:37:49 <@Ma-rYu-sH> djrzulf: na wine i na winex
+17:37:53 <@dzimi> jak lindows :)))))
+17:38:02 <@Ma-rYu-sH> djrzulf: chyba dzimdows :)
+17:38:05 <@djrzulf> :DDD
+17:38:11 <@dzimi> ale nazwę to ... dzimdows :P
+%
+#pld
+19:10:35 <@arekm> baggins: widziałeś na xfsie takie cuda jak:
+19:10:35 <@arekm> [misiek@arm BUILD]$ ls -ld 2f7*
+19:10:35 <@arekm> drwxr-xr-x    8 misiek   users          72 maj 17 18:38
+                  2f7bcd674e58e90f3997089ee9663de7ed068bc5e1f64afc57539ccd20977a94
+19:10:40 <@arekm> ?
+19:12:17 <@ser> arekm: ostra sprawa
+19:13:15 <@aflinta> arekm wygląda jak migracja kawałka rejestru windows na filesystem :-)))
+%
+Log: samba.spec,v
+Revision 1.100  2002/05/21 09:43:40  mkochano
+- Kurwamać
+%
+#pld
+17:00:16 Netsplit hub2.irc.pl <-> poznan.irc.pl quits: dF9, @aflinta, e-Undis, @Yaro, whoami, argv_, @jack_, @shept, @dobrek, ZyTeK,
+(+30 more, use /NETSPLIT to show all of them)
+17:01:15 Netsplit over, joins: argv_, +dF9, +wysek, ArEkMaT, +Ma-rYu-sH, MW-Zombi, @waszi_, @wojrus, +whoami, Pieq (+7 more)
+17:01:15 >> #pld JOIN baggins (baggins@kenny.mimuw.edu.pl)
+17:01:15 Netsplit over, joins: Doko, @bonkey, @Yaro
+17:01:15 >> NetHack #pld "+ooo baggins bonkey Yaro" by poznan.irc.pl
+17:01:16 Netsplit over, joins: +e-Undis, +xeros, FoXMaN, +nes`, @jack_, @aflinta, +ZyTeK, @[depesz], shept, +pioklo (+4 more)
+17:01:16 >> #pld JOIN Elio (elio@seven.wmc.com.pl)
+17:01:18 Netsplit over, joins: +hunter_
+17:01:18 >> NetHack #pld "+ovv shept Elio hunter_" by poznan.irc.pl
+17:01:18 Netsplit over, joins: @dobrek, @agaran
+17:01:18 >> NetHack #pld "+ovo dobrek dobrek agaran" by poznan.irc.pl
+17:01:18 Netsplit over, joins: +thorgi, @fvk, Wolfmoon
+17:01:18 >> NetHack #pld "+vov agaran fvk thorgi" by poznan.irc.pl
+17:01:24 >> Mode #pld "+o agaran" by Papug
+17:01:24 >> #pld JOIN michuz_ (~michuz@pnet.t-shirt.pl)
+17:01:38 >> Mode #pld "+v michuz_" by agaran
+17:06:19 <@mmazur> ble... myślałem, że ustawianie routingu jest łatwiejsze :(
+%
+#pld
+[21:00:40] * Jajcus bardzo się podoba umieszczenie fortunek w CVS
+[21:01:10] <@Jajcus> mogę sobie łatwo aktualizować. tylko cvs update i strfile na interesujących plikach :-)
+[21:01:26] * Jajcus źle użył /me i wyszedł na lamera :-)
+%
+#pld
+[22:57:35] <@ser> mmazur: moglbys napisac cos w mojej obronie
+[22:58:07] <@mmazur> kłoczek chyba miał rację, że lepszy ze mnie developer jak trafficiarz
+[22:58:36] <@mmazur> ser: heh... i w tym cały bajer, że z założenia traffic ma być obiektowy :)
+[22:58:55] <@aflinta> mmazur obiektowy?
+[22:58:59] <@mmazur> obiektywny :)
+%
+#pld
+Sunday May 26 2002 -- 12:21 +02:00
+11:11:01 <@mmazur> !seen ser
+11:11:03 <@Qrczak> mmazur: Osoba o nicku ser odezwala sie 23m 29s temu; jest tutaj.
+11:11:11 <@mmazur> !seen małykit
+11:11:11 <@Qrczak> mmazur: Niestety nie widzialem nigdzie nicka małykit.
+11:11:16 <@mmazur> !seen malekith
+11:11:18 <@Qrczak> mmazur: Osoba o nicku malekith odezwala sie 20h 57m temu; 20h 41m temu byla tu i wyszla z irca: Ping timeout
+[11:11:42] <@aflinta> mmazur !seen traffic :>>
+%
+#pld
+12:31:40 <@kloczek> kawałek z autoconfa do Eterma:
+12:31:55 <@kloczek> checking for life_signs in -lKenny... no
+12:31:55 <@kloczek>   Oh my god, they killed Kenny!  You bastards!
+%
+To: grupa rozwijających pld <pld-devel-pl@pld.org.pl>
+Subject: Re: STBR slrn-pl
+From: Arkadiusz Miskiewicz <misiek@pld.ORG.PL>
+Date: 31 May 2002 00:02:58 +0200
+
+Tomasz Kłoczko <kloczek@rudy.mif.pg.gda.pl> writes:
+
+> "Miliony much nie mogą się mylić - jedxmy gówno".
+A strażnik WC zabroni muchom jeść gówno bo taki z niego mądrala!
+
+Odwiedził byś kiedyś Ziemię.
+
+> kloczek
+%
+#pld
+[21:22:49] <@mmazur> pfff... jak zwykle szebernaście tysięcy pakietów do upgrejdnięcia... stability stability
+[21:23:14] <+Baseciq> mmazur: marudzisz jak mmazur w ciąży
+%
+> Mam pytanko jak zaadresować maila tak, aby dostali go wszyscy, którzy
+> maja kąta mailowe na serwerze(coś jak onet wysyła reklamy). Używam
+> Qmaila.
+> Pozdrawiam Wojtek
+>
+
+A po co to robic, wystarczy wyslac adminowi ze jest kut....
+i tez Ci skasuje konto :)
+
+		--- frazir & TiweK @pld-users-pl
+%
+#pld
+[19:27:51] <@dzimi> RMF: btw w wawie mam u ciebie nocleg nagrany ? czy mam sie zglosic do skobi by mnei kurna zanocowala gdzies
+                    ... :>
+[19:28:12] <@chatulan> ziew.
+[19:28:36] * chatulan ma wolny karton ;> pod mostem...
+[19:28:43] <@dzimi> chatulan: ;)))))))))
+[19:28:47] <@dzimi> siupper :>
+[19:29:05] <@RMF> dzimi: no oczywiscie ze podloga czeka (jesli Ci szum 3 komputerow nie przeszkadza)
+.
+.
+.
+[19:36:10] * -> djrzulf też chce do RMFa
+[19:36:11] <@djrzulf> :>
+[19:36:29] <@chatulan> djrzulf: co chc esz?
+[19:36:46] <@dzimi> djrzulf: a chcesz spac w wannie ? ;)
+[19:36:59] <@djrzulf> chcę kompy
+[19:37:09] <@djrzulf> wlanei ciekaw ile basset ma kompów
+[19:37:10] <@djrzulf> ;>
+[19:37:14] <@djrzulf> Baseciq: ile masz komputerów ?
+[19:37:15] <@RMF> dzimi: wanna juz zajeta
+[19:37:19] <@djrzulf> RMF: ;D
+[19:37:21] <@dzimi> RMF: powaznie ?
+[19:37:28] <@RMF> dzimi: kloczek
+[19:37:31] <@dzimi> RMF: :)))))))))
+[19:37:37] <@djrzulf> RMF: =D
+%
+#pld
+[19:18:26] <+Baseciq> dobry wieczór państwu
+[19:18:39] <+Baseciq> tu program siódmy polskiego radia i telewizji oddział w kielcach
+[19:20:11] <@aflinta> Baseciq halo, halo, dobrywieczór państwu, mamy wspaniały czerwcowy poranek, na dzisiejszy mecz przyjkechało
+                      45 reporterów z 78 krajów, mecz się jeszcze nie rozpoczął, ale prowadzimy już 2:1 :-)
+%
+PLD Traffic @ 7thguard.net :
+W dzisiejszym trafficu: informacje o jego zejściu (prawda, że jestem okropny :)...
+Komentarz:
+>> No to masz przechlapane...<<	 (Baseciq) [odpowiedz]
+Niniejszym informuje Cię, iż nasyłam na Ciebie moją siostrę. ;-)
+%
+#pld
+14:26:00 <+Baseciq> erm, czy nasz kernel przewiduje odpalenie raida programowego na ide?
+14:26:18 <@arekm> baseciq: pf.
+%
+#pld
+21:23:00  <@RMF> ccezar: a pojawisz sie gdzies jutro ?
+21:23:23  <+ccezar> RMF: HGW, chyba zebym z dzieciakiem przyjechal.
+21:23:54  <+ccezar> RMF: wytrzymasz upierdliwego 3-latka na glowie? Tym bardziej ze mowi tylko Tata i Linus ;)
+[...]
+21:28:35  <@skobelek> ccezar ile on ma lat ?
+21:29:26  <+ccezar> skobelek: prawie 3 latka. A pierwszy tekst w kwrite stworzyl jak mial 1.5 roku. I zaczal od "#in" ale
+                    potem sie pogubil... ;)
+21:29:47  <+ccezar> skobelek: ale kierunek obral sluszny ;)
+21:29:52  <@RMF> ccezar: mialo byc #include ?
+21:30:07  <+ccezar> RMF: tak sadze :)
+21:30:20  <+ccezar> RMF: ale w tym wieku to raczej asembler... ;)
+21:30:25  <@RMF> ccezar: no to Mieszkix kiedys pewnie powstanie :)
+21:31:14  <+ccezar> RMF: Mieszkix to jedno, ale Ty to powinienes zobaczyc jak on na WKD reaguje ;) I ogolnie na kolej. Az
+                    zaczynam miec brzydkie podejrzenia... ;)
+21:31:35  <@RMF> ccezar: a juz eu07 od ep09 rozroznia ?
+21:32:15  <+ccezar> RMF: a zebys qrde wiedzial ze tak! Jak ostatnio jechal sklad naprawczy taboru to popatrzyl z
+                    dezaprobata i powiedzial: "fu fu fu!" :)
+%
+#pld
+12:06:11 <+gausus> jakis student zabil aststenta
+12:06:15 <@zolw> tak
+12:06:18 <@zolw> siekierom
+12:06:18 <+gausus> kumpel sie pytal czy nie kloczka :)
+.
+.
+.
+13:40:47 <@aflinta> może to faktycznie kloczek dostał tym toporkiem na PG i nikt nam już CVS nie przywróci do życia :(
+13:42:04 <@aflinta> zolw a mże tym gościem z toporkiem był zdesperowny developer PLD który nażekał na sypiący się CVS :)
+13:46:14 <@aflinta> W pokoju byli dwaj pracownicy naukowi Czesław S. i Krzysztof P. - chmm, czyli jednak Tomek jest cały, tylko czemu CVS leżr? Może to cvs dostał przez przypadek ostrym narzędziem?
+%
+#pld
+10:38PM <kloczek> QQ
+10:38PM <kloczek> \/
+ůíů SignOff BartOwl: #PLD (reboot)
+10:48PM <adasi> kloczek mam prosbe
+10:48PM <adasi> kloczek WIELKA prosbe
+10:48PM <adasi> kloczek taka gigantyczna
+10:48PM <adasi> kloczek WEZ COS DO CHUJA PANA ZROB Z TYM CVS'EM BO TO SIE POCHLASTAC IDZIE
+%
+#pld
+<aflinta> **********
+<aflinta> * WANTED *
+<aflinta> *        *
+<aflinta> *   QQ   *
+<aflinta> *   \/   *
+<aflinta> *        *
+<aflinta> * kloczek*
+<aflinta> *        *
+<aflinta> * $50000 *
+<aflinta> **********
+%
+#pld
+<mmazur> RMF: dzisiaj tego nie zrobię... właśnie wpisałem ssh buildlogs.pld.org.pl, a z mozilli próbowałem wyjść wpisując exit... idę spać
+%
+22:18 <@RMF> blues^: dzimi powinien miec 0-700-KERNEL - oplata 1Euro/min+Vat
+%
+21:26:38 <@dobrek`>  error: vftp: /dists/ra/PLD/i686/PLD/RPMS/glibc-2.2.5-17.i686.rpm:
+                    no such file
+21:26:57 <@wiget> dobrek`: -18 już jest
+21:26:57 <@arekm> dobrek: kloczek szaleje dzis caly dzien z indeksami
+21:27:02 <@wiget> dobrek`: kloczek regeneruje indeksy
+21:27:11 <@dobrek`> aha a kiedy skonczy ?
+21:27:21 <@wiget> dobrek`: jak pójdzie spać :-)
+21:27:28 <@dobrek`> to niech juz idzie
+%
+#pld
+23:17:15 <@chatul> jak mnie ktos obudzi przed 9 to zabije
+23:18:05 <@jack_> Podaj numer ;)
+23:18:09 <@mmazur> właśnie
+23:18:29 <@agaran> samobojcow mamy na #pld?
+23:19:30 <@wojrus> hyh, co robi samobojca w PLD? cvs commit suicide :>
+%
+>>>>>>Czy jest jakis programik to czyszczenia pamieci ?
+>>>>> Mozesz troche rozwianac? O jaka pamiec chodzi?
+>>>>> Ja tam zdumchuje nadmiar kurzu... :)
+>>>>Chodzi o pamiec wysoka.
+>>> A.. jak wysok. to co innego.
+>>> echo -n >/dev/mem
+>> ech.. i znów zle:
+>> naokolo zawsze blizej:
+>> dd if=/dev/zero of=/dev/mem
+>Bardzo fajnie ale u mnie nie dziala :). Komp sie zwiesza.
+Włąśnie dostałeś nauczkę od BOFHa ;-))
+
+			arcisz@yasuhir.com.pl & PLD-Team @ pld-users-pl
+%
+#pld
+22:34:11 >> #pld JOIN honej (-honey@gprs1.idea.pl)
+22:34:21 >> Mode #pld "+v honej" by fisting
+22:34:23 <@fisting> cześć kochanie
+22:34:24 <@fisting> ;>
+22:35:01 <+honej> wrrr :P  czesc wszystkim :)  Wita uzytkownik PLD
+                  nieposiadajacy Debiana ;)
+22:35:09 <@fisting> nie wierzę
+22:35:10 <@fisting> ;}
+22:35:13 <@agaran> hmm niemozliwe
+22:35:22 <@RMF> honej: ktory zapomnial dodac ze to PLD jest na powerpc
+22:35:33 <@agaran> honej bez debiana hmm jak komputer bez procesora..
+22:35:33 <+honej> a, bo RMF dal mi komputer z PLD bez CD :>
+22:35:42 <+honej> a przeciez nie będę ciągnąć Debiana przez komórkę :)
+22:35:44 <@fisting> honej: :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+22:35:55 <@agaran> honej: :>
+22:35:55 <@fisting> honej: podły plan ;D
+22:36:06 <+honej> to był podstęp ;)
+%
+#pld
+[2002-08-27 09:16] <agaran> tomahawk ma jeszcze lepsza celnasc..
+[2002-08-27 09:17] <aflinta> agaran: celność tomahawka zależy od stanu upojenia alkoholowego rzucającego :)
+%
+#pld
+00:22:21 <@Socrat> szkoda rak do gadania
+%
+#pld
+16:23 <@blues^> Nie ma dziurawych dziurawych dystrybucji. Dziurawi bywaja admini, czasem maja dziure zamiast mozgu
+16:26 <+ZyTeK> A co maja powiedziec administratorki he ? :>
+16:27 <@wiget> ZyTeK: administratorki zawsze mają dziurke, ale nie zawsze zamiast mózgu
+%
+#pld
+16:34 <+ZyTeK> To jest nawet smieszne ;)
+16:34 <@agaran> ZyTeK: a czemu mialoby niebyc?
+16:34 <+ZyTeK> agaran: No bo gdybym tego nie zrozumial to byl sie nie smial, a smieje sie bo sie ciesze, ze zrozumialem ten
+               dowcip! :) Ale troche czasu mi to zajelo :)
+%
+#pld
+15:05:46 <@SkIbI> blues^:  tak miedzyu nami jakiego jaj uzywasz?
+%
+#pld
+17:00 <agaran> ale zarabiscie taka goraca kompiel
+17:15 <agaran> normalnie jak nowo forkniety
+%
+#pld
+00:56:22  * mmazur & #śpiem
+00:56:43 <+honey> mmazur: nie #śpij, to niezgodne z RFC ;)
+%
+#pld
+16:03 <@SkIbI> dzimi: kocham twoje jadra :P
+%
+#pld
+19:42 <@chatul> pop3 ssie..
+19:42 <@chatul> ztesszt poczta ssie
+19:42 <@chatul> wszystko ssei
+19:44 <@aflinta> zepsuty odkurzacz nie ssie :)
+%
+#pld
+10:33:48 <@trojan> djrzulf: u mnie trzeba zrobic najpierw /dev/sprzataczka
+10:34:10 <@djrzulf> e to chyba ./get_naked /dev/sprzataczka
+10:34:10 <@djrzulf> ;>
+10:34:12 <@trojan> djrzulf: po pewnie od trzech tygodni tego nie robiłęm :(
+10:34:27 <@djrzulf> ;}
+10:34:32 <@trojan> fak
+10:34:45 <@trojan> oczywiście mowa o sprzataniu ;))
+%
+#pld
+12:18:58 * aflinta ma pytanie, czemu GNOME2 jest na cenzurowanym?
+12:19:24 <@djrzulf> na czym ?
+12:20:39 <@aflinta> djrzulf: na cenzurowanym, czyli poza głównym nurtem
+                    dystrybucji, wszyscy pakują KDE3 a G2 olewają
+12:21:10 <@djrzulf> aflinta: no szczególnie gdy kde3 to kobyła wolno działająca
+12:21:35 <@jack_> aflinta: Bo to ma być Kloczek Desktop Environment
+%
+#pld
+20:34:33 <+Ma-rYu-sH> jadwiniu proszę natychmiast rozwiązać tatusia
+20:34:38 <@agaran> i przeprosic
+20:34:53 <@agaran> alescie nas urzadzily..siostry..
+20:34:53 <+Ma-rYu-sH> no fakt :)
+20:35:08 <+Ma-rYu-sH> burdel to wy tam macie w meteo :)
+20:35:20 <@adasi> Ma-rYu-sH archeo nie meteo :P
+20:35:20 <+Ma-rYu-sH> żeby facet z gołą babą nie mógł w windzie
+20:35:35 <@agaran> boooocian..
+20:35:40 <+Ma-rYu-sH> adasi: qrfa /dev/memory do wymiany :)
+20:35:46 <+Ma-rYu-sH> agaran: to już tam PLD mieli ? :)
+20:35:51 <@agaran> Ma-rYu-sH: jaaaaaaaaaasne
+%
+#pld
+20:40:45 <+Ma-rYu-sH> o żółw o Tobie mowa była :P
+20:41:15 <@djrzulf> wsensie "nieźle zbudowana ta rozgyrwająca" ?
+20:41:29 <@agaran> djrzulf: :>>>>>
+20:41:36 <+Ma-rYu-sH> djrzulf: nie - w sensie nasza cywilizacja upadła a tobie
+                      dupy w głowie :P
+20:41:45 <+Ma-rYu-sH> czy jak to tam szlo :>
+20:41:49 <@agaran> :>>>>
+20:41:50 <@djrzulf> a
+20:41:50 <@djrzulf> ;D
+%
+#pld
+20:42:09 <@adasi> 'nasza dystrybucja upadla a tobie bociany w glowie'
+20:42:25 <@agaran> ;>>>>>>>>>>>>>>>>>>>>>>>
+20:42:45 <+Ma-rYu-sH> adasi: a nie 'nasza dystrybucja upadła a tobie spece
+                      nadal w glowie' ? :)
+%
+#pld
+21:07:43 <@djrzulf> kloczek: czy g2 wejdzie do RA ?
+21:09:58 <@kloczek> djrzulf: o ile nie nasąpi jakiś katakliznm to raczje nie
+21:10:25 <+honey> djrzulf: to robimy trzęsienie ziemii. Wez pigułkę ;)
+21:10:31 <+honey> znaczy - to pierwsze to kataklizm ;)
+21:10:42 <@agaran> :>>>>
+%
+#pld
+21:24:34 <+Ma-rYu-sH> qrfa ja już dzisiaj nic nie mówię
+21:24:43 <+Ma-rYu-sH> dominuję w dzisiejszych fortunakch :)
+%
+#pld - dyskusja nt telefonów
+08:19:24 <@[depesz]> jak patrze na to kto co obecnie kupuje i *do czego uzywa*
+                     telefonu komórkowego to przychodzi mi na mysl: twoj dres
+		     kupowalby nokie
+%
+#pld
+17:07:53 <@Socrat> gausus: dobra dobra ;]
+17:08:19 <+gausus> Socrat : nie poznaje kolegi.....
+17:08:49 <@Socrat> gausus: cicha woda...
+17:08:52 <@Socrat> :P
+17:08:57 <@djrzulf> <ja tylko niose pomoc>
+17:08:57 <@djrzulf> ;D
+17:09:07 >> #pld JOIN qwark (~bob@proton.pozyton.net.pl)
+17:09:08 <@Socrat> dj :>
+17:09:15 >> Mode #pld "+v qwark" by djrzulf
+17:09:24 <+gausus> ja tu widze niezly burdel
+17:10:03 <@djrzulf> gausus: burdel, ty wy macie w tym swoim slackware
+                    sisotrzyczki
+17:10:03 <@djrzulf> ;D
+17:10:27 <+gausus> A moze Curie Sklodowska tez uzywala PLD ???????
+17:10:38 <@djrzulf> :D
+17:10:56 <@Socrat> !fortune :P
+17:10:57 <+mick3y> zły przykład
+17:11:04 <@djrzulf> mick3y: a bo go zmyliłyśmy
+17:11:05 <+Ma-rYu-sH> gausus: eee to zły przykład...
+17:11:20 * gausus jest dumny bo jest juz 3 razy w fortunes-pl
+%
+#pld
+21:12:00 * mmazur wie cos bardzo bardzo bardzo waznego, ale poniewaz ide spac to mi sie nie chce o tym nikomu mowic :)
+21:12:08 <@djrzulf> mmazur: PHI
+21:12:20 <+DJ_UrBaN> mmazur: nie to nie <jezor>
+21:12:20 <@honey> mmazur: pewnie chcesz powiedziec, ze juz ciemno
+21:12:34 <@djrzulf> Axel Honey: on się raczej boi
+21:12:34 <@djrzulf> ;>
+21:12:54 * mmazur stwierdzi, ze wam mina zrzednie jak sie tez dowiecie :)
+21:13:04 <@djrzulf> mmazur: jestes w ciąży ?
+21:13:07 <@djrzulf> mmazur: kloczek ma dziewczynę?
+21:13:18 <@wrobell> mmazur: bill gates to Twoj brat?
+21:13:20 <@agaran> djrzulf: :>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+21:13:26 <@agaran> wrobell: :))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+21:13:28 <@mmazur> jutro sie dowiecie :)
+21:13:34 <@djrzulf> mmazur: jest agregat ?
+21:13:45 <@djrzulf> mmazur: cała elektrownia ?
+21:14:13 <@honey> Microsoft kupil PLD?
+21:14:14 <@agaran> hmm reaktor?
+21:14:15 <@mmazur> nie nie nie... nie powiem wam... bo jakbym powiedzial, to bym sie zachowal nieodpowiedzialnie, takze pozostawie was w blogiej nieswiadomosci :)
+21:14:21 <@agaran> !fortune
+21:14:53 <@djrzulf> mmazur: pisz nie pi..dol
+21:15:08 <@honey> mmazur: bo ci PLD-Traffic kazemy pisac :P
+21:15:14 <@agaran> :>>>
+21:15:28 <@djrzulf> :D
+%
+> # echo "alias eth0 dc395x_trm" >> /etc/modules.conf
+
+Właśnie siedzę od godziny nad tym kontrolerem i staram się mu wcisnąć
+wtyczkę rj45, niestety ni cholery nie potrafię. Możesz się podzielić z
+kolegami jak Ci to się udało?
+
+                --- Tomek Kłoczko & Łukasz Mozer @ pld-devel-pl
+%
+#pld
+[17:58] <@TiweK> gausus: zazdroszcze ja mam dola juz od kilku tygodni i nie moge sie podnmiesc
+[17:59] <+gausus> TiweK : zakochaj sie............ posluchaj Queen i od razu bedzie lepiej
+[17:59] <+gausus> TiweK : jak nie pomoze to spojrz w lustro i zobacz ze jestes ladniejszy niz
+                  kloczek :)
+%
+#pld
+20:06:44 <@kloczek/#PLD> aflinta: IMHO przydałoby się zeby PLD 2.0 alfa pojawiło się powidzmy za kwartał
+20:07:41 <+gausus/#PLD> kloczek :  IMHO Polsce przyda sie tez wzrost gospodarczy na poziomie 40 % rocznie - i to jest chyba bardziej realna perspektywa :)
+%
+#pld
+22:48 <@ser_> agaran: to teraz proszę algorytm na sex
+[...]
+22:48 <@Baseciq> blues^:  unzip; strip; touch; finger; mount; fsck; more; yes; umount; sleep
+%
+#pld
+20:13:21 <@blues^> kloczek: przegiales tym razem!
+20:13:28 <@kloczek> ?
+20:13:37 <@kloczek> z czym ?
+20:14:03 <@mmazur> z ilością błędów na kilobajt kwadratowy powierzchni posta
+                   pcolowego
+%
+#pld
+20:15:15 <@blues^> kloczek: jest mi wstyd, ze w takiej postaci poszlo
+                   _publiczne_ ogloszenie !
+20:15:41 <@kloczek> i co mam zrobić ?
+20:16:17 <@lt> kloczek: cancel? :-)
+20:16:35 <@lt> kloczek: albo supersedes? :)
+%
+Jako "człowiek z boku", chciałem tylko powiedzieć, że stali bywalcy
+pcola, a nawet ci rzadsi znają język kloczkijski, więc nie jest to
+wielka ujma. Nawet można powiedzieć, że to taka sygnatura: jak ludzie
+nie widzą błedów w postach kloczka, to mają podejrzenia, że się ktoś
+podszywa ;)
+
+		--- Jerzy Szczudłowski @ pld-devel-pl
+%
+- 3. ZAINSTALUJ SOBIE PIE.....O ISPEL-A, KTÓREGO JESTEŚ W KONCU
+  MAINTAINEREM!!!!
+- Po co ?
+
+		--- Paweł Gołaszewski & Tomek Kłoczko @ pld-devel-pl
+%
+#pld
+16:33:39 <@djrzulf> mój.adasi.pl
+16:34:23 <@adasi> djrzulf zupa.zolwiowa.pl
+%
+#pld
+20:16:09 <@Socrat> heh
+20:16:23 <@Socrat> widzialem reklame nowych grafik MAtroxa
+20:16:35 <@Socrat> haslo "Matrox has you!"
+20:16:36 <@Socrat> LOL
+%
+#pld
+23:46:57 <@mmazur> 38% pld jest kloczka :)
+23:47:31 <@arekm> mmazur: z czego 35 to cosmetics ;>
+23:47:35 <@agaran> mmazur: ja bym powiedzial ze 8%..reszta to cosmetics ;>
+23:47:44 <@agaran> arekm: :>> chyba pomyslelismy prawie to samo
+23:47:50 <@mmazur> :)
+23:47:53 <@arekm> na kosmetyczkę to on może iść
+23:47:55 <@arekm> ;]
+23:47:59 <@mmazur> :)))
+23:48:00 <@agaran> :>>>>>>>>
+%
+#pld
+About: agaran ;)
+22:49.43| [Chinga(m-CHINGA@nat.netx.waw.pl)] chwilunia agaran to ona czy on? bo sie zaczynam gubic
+%
+#pld
+13:15:08 * gausus zaprasz wszystkoich na czwartkowe spotkanie PLUG'a
+13:16:30 <@zolw> gausus dlaczego to jest w czwartek a nie w pt ? ;/
+13:17:37 <+gausus> zolw: bo ja sie w piatek wiecxzorem musze trzezy mamie pokazac :)(
+%
+#pld
+08:29:00 <@Baseciq> zieeeeeeeeeeeeeeeeeeeeeeeeeeef
+08:29:05 <@Baseciq> 5h spałem
+08:29:24 * djrzulf spał 4 :)
+08:30:04 * trojan wyjątkowo dzisiaj 9 - ale zwykle 5 do 6ciu
+08:30:42 * bonkey dzis spal i tyle -- po co sie przerzucac liczbami? :)
+%
+#pld
+16:22:12 <@honey> kuna, instalowalem sobie soft ktory wymaga nacisniecia F2 by
+                  kontynuowac i akurat F2 na mojej klawiaturze w szkole jest
+                  rozwalone :)
+%
+> Jak tak kochasz zrodla to zapraszam po qt z DEVEL nic nie ma lepszego niz
+> system oparty o snapszoty z cvs, to tak jakbys co rano jadl cieplutkie zdrowe
+> buleczki z dzemem (nie mylic z dzimim).
+Czasem tylko się okazuje że taka swieżutka bułeczka zawiera jakiś
+niestrawny bonus i czym prędzej wychodzi tą samą drogą którą weszła.
+		--- Piotr Szymanski & Michał Kochanowicz @ pld-devil
+%
+Acha... i czy ma ktoś jakąś listę perlowców (najlepiej siedzących na ircu :)?
+Bo ja tego cholerstwa nieznoszę, a wszędzie tego pełno (kurde powinni to byli
+nazwać spagetti).
+		--- Mariusz Mazur @ pld-devel
+%
+#pld
+20:39:09 <@mmazur> mamy już pld1.0?
+20:39:24 <+wysek> zajrzyj na linuxnews.pl -> może i mamy.
+%
+#pld
+20:08:15 [ zdzichuBG!zdzichu@pa13.bydgoszcz.sdi.tpnet.pl ] Polska   18.00
+          21-10-02
+20:08:19 [ zdzichuBG!zdzichu@pa13.bydgoszcz.sdi.tpnet.pl ] Marszałek Sejmu
+          Marek Borowski spotkał się dziś z posłem PLD, detektywem Krzysztofem
+          Rutkowskim i pogratulował mu udziału w udanej akcji zatrzymania w
+	  Budapeszcie Krzysztofa Jędrzejczaka związanego z tzw. łódzką
+	  ośmiornicą.
+20:08:39 >> [ zdzichuBG ] myślałem że posłem PLD jest Kloczek ? ;D
+%
+#pld
+22:15 <+honey> kto jest autorem EKG (gadu gadau)
+22:15 <+honey> ?
+22:15 -!- zer0cool is now known as wojtekka
+22:15 -!- wojtekka is now known as zer0cool
+22:17 <+honey> aha :(
+%
+#pld
+20:44:17 <+ZyTeK> aflinta: rpm -q gnome-session gnome-panel gnome-applets control-center mi pokaz
+20:44:31 <+ZyTeK> Moze byc na priva. :)
+20:45:07 <@aflinta> [aflinta@warp aflinta]$ rpm -q gnome-session gnome-panel gnome-applets control>
+20:45:07 <@aflinta> gnome-session-2.1.1-1
+20:45:07 <@aflinta> gnome-panel-2.1.1-1
+20:45:07 <@aflinta> gnome-applets-2.0.3-1
+20:45:07 <@aflinta> control-center-2.1.1-1
+20:45:08 <@aflinta> pakiet mi nie jest zainstalowany
+20:45:11 <@aflinta> pakiet pokaz nie jest zainstalowany
+%
+#pld
+10:34:16 <@aflinta> cieciwa: ale ja muszę miec auto bo w czwrtej wyjerzedzrzam
+10:34:34 <@aflinta> bleee, ale błąd walnąłe :))))
+10:34:51 <@aflinta> sam sięnie poznaję :)
+10:34:56 <@trojan> :)))
+10:35:09 <@aflinta> oto do czego prowadzi czytanie listów TK :))
+10:35:14 <@agaran> aflinta: :>>>>>>>>>>>
+10:35:26 <@zolw> ;D
+10:36:21 <@cieciwa> aflinta Oddychaj gleboko, raz, dwa, trzy ... tylko
+                    spokojnie - to przejsciowe ...
+10:36:28 <@cieciwa> :D
+%
+#pld
+00:17 <@DJ_UrBaN> Druga młodość Mandrake
+00:17 <@lt> i tego k.... nie rozumiem
+%
+Z drugiej strony jak bedzie sie chcialo wszystko dopracowac to PLD-1.0 bedzie
+jak horyzont - Choc bys nie wiem ile biegl to nigdy nie dobiegniesz do konca.
+
+					-- Michał Listowski @ pld-devel-pl
+%
+#pld
+19:18 <@DJ_UrBaN> czy jest szansa abym otrzymal dostep do builderow ra?
+19:18 <@DJ_UrBaN> nie sprawdze u siebie kdeedu 3.0.4 bo nie zainstaluje kdelibs
+                  3.0.4
+19:19 <@mmazur> DJ_UrBaN: zerowa
+19:19 <@DJ_UrBaN> mmazur: czemu?
+19:20 <@mmazur> DJ_UrBaN: no bo nikt ci nie da :)
+19:20 <@mmazur> DJ_UrBaN: mieszać na builderach ra ma prawo tylko kloczek i
+                tylko on dostaje za to non stop joby :)
+19:24 <@DJ_UrBaN> mmazur: to w jaki sposob mam przygotowac kdeedu 3.0.4?
+19:24 <@mmazur> DJ_UrBaN: hgw :)
+19:24 <+gausus> mmazur : kgw :)
+19:24 <@mmazur> rotfl
+%
+#pld
+22:01 <@kloczek> mmazur: konsultowałęś zmiane do rc-scripts z kimś ?
+22:01 <@kloczek> i do czego ta zmiana jest ?
+22:01 <@mmazur> kloczek: to bcond
+22:01 <@kloczek> !seen bcond
+22:01 <@Qrczak> kloczek: Niestety nie widzialem nigdzie nicka bcond.
+%
+U mnie system działa stabilnie, jest to stacja robocza i nic na niej robię.
+
+                                       -- Witold Filipczyk @ pld-users-pl
+%
+#pld
+22:01 <@ adasi> cieciwa ale z Nesta sie AC prawdopodobnie wyloni....
+22:01 <@ adasi> cieciwa tak jak z pierwotnej masy sie Ra wylonilo
+%
+#pld
+10:58:22 <@bonkey> czy 1.0 juz jest? :)
+10:58:27 <@zolw> bonkey staramy się ;D
+10:58:44 <@bonkey> zolw: nie jak pije! :>
+10:59:00 * bonkey malo co nie opryskal monitora :)
+%
+#pld
+<Agusia> RMF: zaraz cos na tobie przetestuje
+<RMF> Agusia: młotek?
+%
+pld-users-pl@pld.org.pl
+Nie ważne co kloczek może zrobić dla Ciebie,
+ważne to co Ty możesz zrobić dla kloczka.
+		--- Refugiado Comunista
+%
+#pld
+21:19:40 * arekm się postrzeli w oko z powodu jakarty :-)
+21:20:11 <@adasi> arekm eeee... w oko boli... pozatym nieestetycznie bys w
+                  trumnie wygladal
+21:20:31 <@arekm> kremacja, a nie
+21:20:48 <@DJ_UrBaN> bys mial prochy nierowne :)
+21:21:17 <@y0shi> rotfl
+%
+#pld
+15:31:24 <@SkIbI> dzimi:  bedziesz z ojcem jechal lub z dziadkiem ?
+15:31:44 <@dzimi> SkIbI: e?
+15:31:44 <@dzimi> SkIbI: nie
+15:31:46 <@dzimi> SkIbI: pociagiem ...
+%
+#pld
+22:42:50 <@aflinta> [aflinta@warp SPECS]$ ./builder rpm.spec
+22:42:51 <@aflinta> # $Revision: 1.451 $, $Date: 2012/03/18 12:40:35 $
+22:42:51 <@aflinta> cvs server: [22:21:41] waiting for cvs's lock in
+                    /cvsroot/SOURCES
+22:42:56 <@aflinta> cvs server: [22:42:27] waiting for cvs's lock in
+                    /cvsroot/SOURCES
+22:43:00 <@aflinta> długo jeszcze?
+22:43:08 <@DJ_UrBaN> aflinta: ok. 4h
+22:43:21 <@djrzulf> ;>>>>>>>>>>>
+22:43:23 <@DJ_UrBaN> adgor: nie uwierzysz, ale nie moge sie doszukac -gtk w
+                     kdebidnigns...
+22:43:25 <@aflinta> DJ_UrBaN: znowu przez SDi to cholerne KDE pchasz?
+22:43:42 <@djrzulf> ROTFL ;>
+22:44:03 <@adgor> aflinta: wdech - wydech :>>
+22:44:10 <@aflinta> PP
+%
+#pld
+22:48:17 <@mmazur> czemu do jasnej cholery w sporej ilości miejsc jest
+                   wspomniane pld 1.3 Tsunami?
+22:48:31 <@aflinta> mmazur: bo kiedyuś się tak nazywało
+22:48:36 <@djrzulf> ;>>>>>
+22:48:40 <@aflinta> mmazur: ale Ciebie wtedy jeszcze na świecie nie było ;)
+22:48:50 <@mmazur> aflinta, :P
+%
+#pld
+20:17 <@ser> a jakie wyjście na sieć ma ICM?
+20:17 <@mmazur> ser, non stop padające do tepsy :)
+20:17 <@undefined> ser: dwa sdi
+20:17 <@undefined> :>
+20:17 <@dzimi> mmazur: z jednej strony tylko
+20:17 <@undefined> ser: ale planuja przejsc na neostrade jak tylko stanieje
+20:17 <@dzimi> mmazur: icm ma kilka rurek w swiat
+20:17 <@dzimi> undefined: ;))))))))))))))
+20:18 <@adasi> undefined hmm... a ja myslalem ze oni ciagle na dialupie tepsowym siedza
+20:18 <@undefined> mmazur: dlatego jak wykupia w icm-ie neostrade, wtedy wszystko szybciej pojdzie...
+%
+#pld
+[11:30] <ser> czego używacie do statystyk ruchu całego serwera?
+[11:32] <mmazur> ser, centymetra... mierzę od drzwi wejściowych... Jak na razię ruchu nie stwierdzono.
+%
+#pld
+02:16 <@kloczek> Subject: kloczek Increase your breast size. 100% natural!
+%
+#pld, Sun Jan 12 00:19:52 CET 2003
+00:17 <@aflinta> adgor: bleeee
+00:18 <@aflinta> adgor: a ja własnie mam dwie kolizje nazw manów
+00:18 <@aflinta> adgor: znaczy jedną
+00:18 <@adgor> aflinta: a co tam many - komu to potrzebne :)
+00:18 <@aflinta> adgor: włansie i tak nikt nie czyta
+00:19 <@aflinta> ;)
+00:19 <@adgor> aflinta: no pewnie - przeciez latwiej glupi post na pcol wyslac
+               :>
+%
+#pld
+14:08:03 <@gausus> t0tal: :)
+14:08:14  * gausus sie pyta dlaczego geje maja 0 w ksywce
+14:08:37 <@gausus> h0ney
+14:08:44 <@gausus> kl0czek
+14:08:49 <@gausus> sk0belek
+14:08:59 <@z0c> gays0s
+14:09:01 <@t0tal> gausus, okolice zalotów.
+%
+From: mmazur <mmazur@pld.org.pl>
+To: pld-cvs-commit@pld.org.pl, allcvs@pld.org.pl
+Subject: SPECS: lzo.spec (HEAD)
+
+[...]
+Log message:
+- My oh my where did my macros go?
+- Oh dear... here you are... you naughty naughty macros you
+%
+From: mmazur <mmazur@pld.org.pl>
+To: pld-cvs-commit@pld.org.pl, allcvs@pld.org.pl
+Subject: SPECS: wxGTK.spec (HEAD)
+[...]
+Modified files:
+        wxGTK.spec
+
+Log message:
+- In the name of the Father, and the Son, and the Holy Spirit
+  BE GONE /usr/share/X11 and never return to this spec again.
+                                |
+                              --+--
+                                |
+                                |
+
+Index: wxGTK.spec
+===================================================================
+%
+>>>A kloczek mialby prawo wrzucac pakiety TYLKO do general.
+>>A, to apeluję o zmianę nazwy s/general/hardcore/ :)
+> Znaczy co? Panienki tam będą? ;-P
+Nie. Wszystko będzie się pie...
+		---	Marcin Bohosiewicz & Przemyslaw Knycz & Michal Kochanowicz & Bartłomiej Ogryczak @ pld-devel-pl
+%
+On Thu, Feb 20, 2003 at 12:09:53AM +0100, Przemyslaw Stanislaw Knycz wrote
+> Raczej trzeba by było się powoli zwracać ku stronę użyszkodnika, bo
+
+Jeśli dupą to ja jestem za :-P
+
+				-- Michał Kochanowicz @ pld-discuss-pl
+%
+On Mon, Mar 03, 2003 at 11:59:36PM +0100, Michał Margula wrote:
+> Dnia pon 3. marzec 2003 23:42, Przemysław Stanisław Knycz napisał:
+> > 64 bytes from AP2Knycz.dojazdowa.lan (192.168.54.11): icmp_seq=2 ttl=127
+> > time=4.22 ms (DUP!)
+> >
+> > rotfl
+>
+> To znaczy, że pakiety dupnął o podłogę :P.
+
+Nie, to znaczy, że dupnął w kartę sieciową z partyzanta jak się nie
+spodziewała (bo już jeden dostała).
+
+				-- Michał Moskal & jak widać @ pld-devel-pl
+%
+#pld
+19:36:25 <@djrzulf> jakby był adres wolnego oprogroamowania po polsku ?
+19:36:29 <@djrzulf> http://www.wolneprogramy.org?
+19:36:33 <@djrzulf> czy coś tkaiego ?
+19:37:08 <@gausus> djrzulf: - woooolne oprogramowanie - www.microsoft.com/poland
+%
+Subject: Re: XXXXXXXX !!! POMOCY !!!
+
+On Fri, Mar 21, 2003 at 02:18:06PM +0100, Rafal wrote:
+[ciach]
+Mam prośbę - dawaj bardziej konkretne tematy, bo wprowadzasz w błąd.
+Chciałem pomóc, bo myślałem że potrzebujesz pornoli - a tu
+niespodzianka, chodzi o NVidię :-P
+				-- Michał Kochanowicz & Rafał @ pld-users-pl
+%
+On Sunday 23 of March 2003 13:11, Michal Kochanowicz wrote:
+> Jakimś dziwnym trafem KDM przestał mi się gryźć z moją wariacją na temat
+> XFree86. No i moim oczom zamiast standardowej tapety KDM ukazało się coś
+> szarego. To szare coś ma w górnym lewym rogu narysowanego pterodaktyla i
+> wielką dłoń. Ooossssooo chozzzzziii???
+
+Szare coś z pterodaktylem? Michał, nie chcę cię martwić, ale możliwe, że to
+dinozauroza. Można to leczyć, zakładając, że się zdiagnozuje w miarę szybko.
+Powiedz, czy jeszcze w jakiś programach (szczególnie związanych z internetem)
+ukazują ci się dinozaury? A jeśli tak, to czy próbują się one z tobą w jakiś
+sposób skontaktować (mówią coś, uśmiechają się, robią miny)?
+				-- Mariusz Mazur & jak widać @ pld-devel-pl
+%
+#pld Sun Mar 23 2003
+23:07  * nineveh huggles adasi
+23:08 <@koszmarek> odrazu się lepiej czuję.
+23:08 <@adasi> nineveh najgorsze ze sam sobie i specjalnie
+23:08 <@koszmarek> przynajmniej się pozbawiłem kompleksów że kloczek się na
+                   mnie obraził.
+23:08  * djrzulf nadal ma kompleks
+23:08 <@koszmarek> djrzulf: dam Ci swoje zdjęcie to się wyleczysz.
+23:09  * adasi ma kompleks ze go blues^ ignoruje :P
+23:09  * koszmarek ma kompleks że inni mają kompleksy
+23:09  * adasi jest zakompleksiony bo wyglada jak wyglada
+23:10  * djrzulf jest zakompleksiony bo go kloczek ignoruje
+%
+@ep09.kernel.pl wto kwi  1
+08:35 <@chatul> C:\HOME\PLD\SPEEDY> uname -a
+08:35 <@chatul> Windows 2000 ep09 5.00.2195 #1 Tue Apr  1 08:35:36 CEST 2003
+                i686
+%
+@ep09.kernel.pl wto kwi  1
+C:\HOME\PLD\DJRZULF> uname -a
+Windows 2000 ep09 5.00.2195 #1 Tue Apr  1 08:40:50 CEST 2003 i686
+C:\HOME\PLD\DJRZULF>
+%
+From: siefca <siefca@pld.org.pl>
+To: pld-cvs-commit@pld.org.pl, allcvs@pld.org.pl
+Reply-To: siefca@pld.org.pl
+Subject: SOURCES: io.sys (NEW) msdos.sys (NEW)
+Date: Tue,  1 Apr 2003 03:36:32 +0200 (CEST)
+
+
+Module name:	SOURCES
+Changes by:	siefca	03/04/01 03:36:30
+
+Added files:
+	io.sys msdos.sys
+
+Log message:
+- porting new kernel (latest build)
+- preparing for Microsoft compliance mode
+- latest hotfixes and service packs dapterized
+%
+From: siefca <siefca@pld.org.pl>
+To: pld-cvs-commit@pld.org.pl, allcvs@pld.org.pl
+Reply-To: siefca@pld.org.pl
+Subject: SPECS: autoexec.bat (NEW)
+Date: Tue,  1 Apr 2003 03:40:08 +0200 (CEST)
+
+
+Module name:	SPECS
+Changes by:	siefca	03/04/01 03:40:05
+
+Added files:
+	autoexec.bat
+
+Log message:
+- new initscripts for PLD
+- himem.sys compatibility temporairly disabled due to license terms
+
+--- NEW FILE: autoexec.bat ---
+@echo running PLD Windows
+@creator --batch-mode
+
+@pld32.exe --no-himem-sys
+%
+#pld
+23:24  * dizarm wyciąga szalik z napisem GLIWICE ROXOR
+23:24 <@wybrany> eee
+23:24  * adasi wyciaga szalik z napisem 'Legia Chełmża'
+23:24  * dizarm pierdzi w strone szalika adasi
+23:24  * adasi zyga na szalik dizarma
+23:25  * dizarm puszcza pawia na resztki szalika adasi
+23:25  * adasi sra na pozostalosci szalika dizarma
+23:25  * dizarm wyciaga nowy szalik z napisem GLIWICE - MIASTO HACKEROW
+23:25  * adasi wyciaga szalik z napisem 'dizarm ssie'
+23:25 -!- adasi was kicked from #pld by adamg [kibole ssa]
+23:25 -!- dizarm was kicked from #pld by adamg [kibole ssa]
+23:25 -!- adasi [adasi@samael.culm.net] has joined #pld
+23:25 -!- mode/#pld [+o adasi] by pld-op
+23:25  * e-hunter robi cvs commit/fortunes-pl/pld
+%
+#pld
+14:41:10 <+adgor9x> "Uczestnik kloczek za szybko wysyłał Ci informacje i teraz
+                    jest ignorowany."
+14:41:20 <@djrzulf> rotfl
+14:41:23 <+adgor9x> cio to?
+14:41:28 [ctcp(adgor9x)] VERSION
+14:41:29 CTCP VERSION reply from adgor9x: Microsoft Chat 2.5 (4.71.2302) (tryb
+          tekstowy)
+%
+To: grupa rozwijających pld <pld-devel-pl@pld.org.pl>
+Subject: Re: ra branch
+From: Artur Flinta <aflinta@at.kernel.pl>
+
+[snip]
+Wiesz, Ra to już Historia, developer powinien patrzeć się przyszłość
+a nie oglądać na tych co kupili ten szajs i zostali bez supportu :)
+Brzmi prawie jak slogan z działu software Microsoft :)
+%
+#pld
+16:40 <@djurban> poleeeewka
+16:40 <@djurban> posluchajcie tego z kde.pl
+16:40 <@djurban> Duron'ie 900Mhz - 128MB RAM - całosć KDE (wraz z QT) kompiluje
+                 się ok. 9 godzin.
+16:41 <@djurban> 9h, chyba nie wiem jak, pewnie kompilowane przez rpm -Uvh
+                 zamiast g++
+16:42 <@adgor> djurban: skąd ten text?
+16:43 <@aflinta> ech, /me jak kompilował QT 3.cośtam to miał ponad 4h na Athlon
+                 1.33 512MB RAM
+16:44 <@djurban> adgor: z kde.pl
+16:44 <@djurban> adgor: wlasnie ich faq przeczytalem
+16:44 <@djurban> adgor: gdybym mial czas to bym im w kwordzie napisal tekst o  	                       bledach :)
+16:45 <@aflinta> Na szybszych maszynach - np. Athlon'ie XP+ 1,7Ghz i 256 MB DDR
+                 - taka czynność trwa już ok. 4 godzin.
+16:45 <@aflinta> ROTFL
+16:46 <@djurban> *  Jak długo kompiluje się KDE ?
+16:46 <@djurban> Przykładowo : na Duron'ie 900Mhz - 128MB RAM - całosć KDE (wraz
+                 z QT) kompiluje się ok. 9 godzin. Na szybszych maszynach - np.
+                 Athlon'ie XP+ 1,7Ghz i 256 MB DDR - taka czynność trwa już ok.
+		 4 godzin.
+
+16:46 <@djurban> aflinta: wlasnie
+16:46 <@aflinta> goś ma chyba zepsuty zegarek
+16:46 <@djurban> aflinta: my w pld mamy po prostu sztucznie spowalniane gcc
+16:46 <@aflinta> albo strefy czasowe zmieniał podczas kompilacji
+16:47 <@aflinta> djurban: bo my mamy patch mady by M$ które czynią  nasze gcc
+                 odpowiednie dla coraz nowszych procków :)	
+%
+20:46:09 <+mach11ne> jack_: nakieruj mnie :P
+20:46:23 <@jack_> mach11ne: dlaczego ja? ;>
+20:46:34 <+mach11ne> jack_: bo masz fajny nick :P
+%
+11:29:46 <@jack_> A cieciwa uciekł :(
+11:29:59 <@jack_> święta się zbliżają, a on jajka zaniedbuje ;)
+11:31:33 <@leafnode> no tak, o jajka to trzeba dbac.
+11:32:03 <@leafnode> a ostatnio to byla niedziela palmowa a ja palma nie mialem
+                     :/ ale juz niedlugo.
+%
+Co trzeba uruchomic w runlevelu 5tym aby
+sie logowanie wlaczalo w window makerze?
+W kde to chyba bylo xdm a tu?
+
+			--- Adam Zaleski @ pld-users-pl
+%
+#pld
+23:19 <@ser> adgor: a dziki zyje?
+23:19 <@ser> dzimi
+%
+#pld
+21:13:31 <@psk4-ripe> adasi: pisz do adasi
+21:13:53 <@adasi> psk4-ripe az tak mocnej schizofrenii nie mam
+%
+#pld
+22:17:58 <@DeeJay1> psk4-ripe: szkoda ze RJ tego nie widzi - raz w zyciu nie
+                    bredzilem :>
+%
+#pld
+<leafnode> a co wy mi tu cyckami dupe zawracacie, ja spac isc mialem...
+%
+#pld
+<leafnode> djrzulf to nie ma co robic tylko szukac co ktos glupiego powie,
+	   pierdolnie sie przy czyms albo przyzna sie ze lubi drapac po jajkach
+           kolegow.
+%
+#pld
+00:34:19 <@leafnode> no bo co to kurna, napis na chrupkach jestem zeby mnie
+                     ludzie sobie przy logowaniu czytali?
+%
+#pld
+00:36 <@psk4-ripe> kurwa zrobiem taki ruch w fotunes-pl e przez dwa lata tyle
+                   w SPECS nie zrobiem!
+%
+#pld
+00:39:51  * psk4-ripe nawet nie chcę patrzyć na commit listę ...
+00:40:05 <@leafnode> psk4-ripe: Dobry z ciebie developer. A jakiegos masz
+                     ladnego kloczka... Tylko jakis taki grozny... No masz,
+                     masz okruszki...
+%
+#pld
+21:16 <+soltys> jeszcze takie pytanko male mam, uzywa ktos z Was PLD ?
+%
+#pld
+17:57:54 <@leafnode> Wy to kurna nie macie co robic tylko jakies bzdury
+                     wypisywac do fortunkow. W dupach sie poprzewracalo. Do
+                     roboty, cholera jasna.
+17:58:15 <@gausus> leafnode: racja - nieroby jedne :)
+%
+#pld
+00:27 -!- djurban is now known as zeroing
+00:30 -!- adgor is now known as nie_pal
+00:30  * nie_pal trawy djurban
+%
+#pld
+00:54 <@leafnode> zeroing: co, nosi cie po nocy?
+00:54 <@e-jack> mkick? ;)
+00:54 <@leafnode> hormony szaleja?
+00:54 <@zeroing> leafnode: sadeagle
+00:54 <@e-jack> leafnode: zioło!
+00:54 <@leafnode> e-jack: pewnie tak.
+00:54 <@ser> e-jack: zioło nie, to zbyt duży odlot
+00:55 <@zeroing> leafnode: koles z kde zarzucil mi ze wkladam do kde w pld
+		 pacze z rh wg. swojego widzimisie, nawet kiedy nie mam pojecia
+		 co robia
+00:55 <@leafnode> gowniarz sie nazarl jakis prochow, najaral swinstwa, i teraz,
+                  kurna, flooduje.
+00:55 <@zeroing> leafnode: i mnie facet zdenerwowal
+00:55 <@e-jack> ser: to może futerał komórki nasączony ziołem? ;)
+%
+#pld
+00:56 <@e-jack> zeroing: widziałeś co polecam?
+00:56 <@zeroing> e-jack: widzialem sekunde
+01:00 <@e-jack> I nie ssiesz
+01:01 <@zeroing> e-jack: wrr
+01:01 <@zeroing> e-jack: jestem jednowatkowy nie moge tyle rzeczy naraz robic
+01:02 <@[krzyzak]> zeroing: to sie rozszczep :)
+01:02 <@e-jack> albo sklonuj
+%
+#pld
+01:12 <@e-jack> x..
+01:12 <@e-jack> ...
+01:12 <@e-jack> ...
+01:12 <@zeroing> ...
+01:12 <@zeroing> .o.
+01:12 <@zeroing> ...
+01:12 <@zeroing> i widzisz jaka magia?
+01:12 <@e-jack> A gdzie mój x?
+01:13 <@zeroing> x..
+01:13 <@zeroing> .o.
+01:13 <@zeroing> 0.x
+01:13 <@e-jack> x.X
+01:13 <@e-jack> .o.
+01:13 <@e-jack> 0.x
+01:13 <@e-jack> You loose.
+%
+#pld
+01:14 <@zeroing> multimedialne kulko i kryzyk
+01:14 <@zeroing> i krzyzak :)
+01:14 <@e-jack> Play again?
+01:14 <@[krzyzak]> co
+01:14 <@zeroing> zaraz
+01:14 <@[krzyzak]> nie spie
+01:14 <@[krzyzak]> nasluchuje
+01:14 <@[krzyzak]> wygralem cos ?
+%
+#pld
+01:16 <@e-jack> zeroing: ssij bo Ci zaraz wepchnę!
+01:17 <@zeroing> no dobra dobra
+01:17 <@e-jack> (bez skojarzeń proszę) :)
+01:26 <@zeroing> oo juz ciagne
+%
+#pld
+20:04 <@djurban> wooow
+20:04 <@djurban> niezle
+20:04 <@djurban> sport i prognoza pogody trwaja 20 minut wg. tv.wp.pl
+20:06 <@ILoveGnu> a nie powinien lecieć jakiś chymn wychwalający kloczka ?:>
+%
+#pld
+23:06 <@leafnode> i dzisiaj na japonskim byla mloda, sliczna japonka. I bedzie
+      na imprezie w sobote. Na ktorej nie moge byc :(
+23:07 <@djurban> leafnode: tak bywa, ale popatrz na to z drugiej strony, moze
+      ma aids?
+23:07 <@leafnode> djurban: albo SARS :)
+23:07 <@djurban> leafnode: widzisz:)
+23:08 <@leafnode> djurban: i ma na imie Naoko ;)
+23:09 <@adasi> leafnode: a tak na oko ladna jest? :)
+23:09 <@leafnode> adasi: Naoko ladna jest ;)
+%
+#pld
+23:10 <@djurban> jak bede rektorem uwr to japonski wykladowym bedzie :P
+23:11 <@mmazur> A jak kloczki będą latać, to będą latającymi krowami.
+23:11 <@leafnode> A jak ptak narobi ci na glowe, to bedziesz dziekowac Bogu, ze
+      nie dal skrzydel kloczkowi.
+%
+#pld
+21:14 <@adgor> There are more than one package which provide "perl":
+21:14 <@adgor> a) perl-5.8.0-0.32
+21:14 <@adgor> b) xchat-2.0.2-1
+21:14 <@adgor> Which one do you want to install? [a]
+%
+#pld
+11:05 <@gausus> !seeb adasi
+11:05 <@RMF> gausus: syntax error
+%
+On Wed, May 21, 2003 at 03:53:09PM +0200, Tomasz Kłoczko wrote:
+> Jacek .. poświec sie i jeszcze raz przeczytaj ten tekst jaki napisałem.
+> Prośba także do inmnych żeby przeczytali sobie to conajmniej ze dwa razy
+> .. bez pośpiechu i umysłem wyprutym z uprzedzeń.
+
+Sorry, przeczytałem to raz, od początku do końca I to było duże
+poświęcenie z mojej strony, bo Twoja twórczość zwykle po prostu nie
+nadaje się do czytania (szczególnie w takiej objętości). Kolejny raz
+napewno tego czytał nie będę.
+
+			--- Jacek Konieczny @ pld-devel-pl
+%
+> Też spróbuj przeczytać uważnie ten jeden dłuzszy list jaki dzisiaj
+> napisałem.
+dwa razy go czytalem, wnioski logiczne ktore sa tam zawarte sa krotko
+mowiac nielogiczne.... Chiny leza w azji wiec moj samochod jest czarny.
+
+			--- Tomasz Kłoczko && Witek Kręcicki @ pld-devel-pl
+%
+Nie chcemy współpracować z kimś, kto ma 10 kloczków w skali gburostwa.
+
+			--- Tomasz Pala o Tomaszu Kłoczko @ pld-devel-pl
+%
+#pld
+18:10:45 <+Psyborg> czemu po 3 dniach od daty wysłania maila do agarana w
+                    kwestii RW jest zerowa reakcja ?
+18:12:33 <@jack_> Psyborg: Bo agaran to kloczek reloaded
+%
+#pld
+19:38 <@y0shi> pld dziala !!!!!!!
+19:38 <@Socrat> y0shi: SOA #1 od tak z 4 lat
+19:38 <@adamg> y0shi: niemozliwe. zglos to do BTS, poprawimy tak szybko, jak
+               tylko sie da.
+%
+On Tuesday 10 of June 2003 23:08, Krzysiek Taraszka wrote:
+> co to znaczy "trollujesz" ? poprostu wysnuwam takie wnioski z twoich
+> wczesniejszych postów ..
+
+Kali mieć duża paczka. Kali myśleć, że duża paczka za duża dla Kali. Kali nie
+używać duża paczka.
+Djurban dać Kali mała paczka. Kali być szęśliwy. Kali dostać mała paczka i
+Kali używać mała paczka.
+                        --- Mariusz Mazur i Krzysztof Taraszka @ pld-devel-pl
+%
+#pld
+23:39 <@BartOwl> mam pytanie - potrzebowalbym powiekszyc moja ilosc szeli... czy ktos moglby mi
+                 pomoc w tej sprawie? ;>>
+23:39 <@evilundef> BartOwl: zainstaluj basha, zsh, pdksh, asha i busyboxa
+%
+#pld
+20:05:30 <@ZaCieplo> !seen eviltry
+20:05:33 <@Qrczak> ZaCieplo: Osoba o nicku eviltry odezwala sie 3h 20m temu; 3h 20m temu byla tu i wyszla z irca.
+20:05:35 <@ZaCieplo> !seen evil-one
+20:05:37 <@Qrczak> ZaCieplo: Osoba o nicku evil-one odezwala sie 4m 44s temu; jest tutaj.
+20:05:51 <@jack_> !seen evil-jack
+20:05:55 <@Qrczak> jack_: To Ty jestes evil-jack!
+%
+#pld
+01:30 <@ser> musze powiedziec ze lubie ruchac w dupsko jak ktos nastawia i
+             wypina
+%
+#pld
+08:43:01 <@gausus> djrzulf: a czemu ci switch nie dziala /
+08:43:16 <@djrzulf> gausus działa, ale nie działa tak jak powinien
+08:44:14 <@gausus> djrzulf: to znaczy (bo na razie to opisales w jednym zdaniu
+                   polskie panstwo, kobiety i windowsy)
+%
+#pld
+08:57:01 * gausus wlasnie zajarzyl ze spozyl spory kawalek opakowania od kanapki
+%
+Poza tym _wiget_ nie widget. Nie jestem jakimś tam elementem GUI...
+
+                        --- Artur Frysiak @ pld-devel-pl
+%
+#pld
+11:16:27 <@leafnode> o raaany jaki sen miałem.
+11:16:42 <@leafnode> że z zagrodzkim i adamemg sklep spożywczy prowadziliśmy ;)
+11:16:47 <@leafnode> i mnie wkurzyli jak cholera :]
+%
+Module name:    SPECS
+Changes by:     baggins 03/06/17 20:35:12
+
+Modified files:
+	kernel.spec
+
+Log message:
+- commented out andrea-fix-pausing-5 patch, it killed kenny
+%
+#pld
+12:13:41 <@gausus> wlasnie wszyszedl do mnie koles od speedyego
+12:13:46 <@gausus> i szukal macieja zbrodniarza
+%
+#mtfn @ irc.megatokyo.com [aniverse]
+19:44 < Duncan_Donuts> Err, you don't have timezones where you are from? (What the hell is .pl?  Plakistan?)
+%
+#pld
+17:27 <Baseciq> kurwa
+17:27 <Baseciq> mysql z dc jest spierdolony
+17:27 <zdzichuBG> pld jest spierdolone
+17:27 <zdzichuBG> kurfa nie ten channel.
+17:27 <zdzichuBG> sorry
+17:27 <-- zdzichuBG (zdzichu@pa13.bydgoszcz.sdi.tpnet.pl) has left #pld (a co ja was bede draznil)
+%
+#pld
+21:58 <@martii> misie kto ma idea telefon ijak ślecie tam smski ? z konsolki ?
+21:59  * evilwaszi sle: gnokii --sendsms ............
+22:00 <@martii> evilwaszi: no dobra ale ja chce za darmo ;)
+22:00 <@Socrat> martii: to musisz komus komore skroic ;]
+%
+[...] możemy przeprowadzić test - niech ktoś cięciwie i bagginsowi
+pogrzebie trochę w jajkach bez ich zgody/wiedzy :)
+
+			--- Mariusz Mazur @ pld-devel-pl
+%
+#pld
+19:57 -!- mode/#pld [+v didorotka] by leafnode
+19:58  * mmazur z góry przeprasza, za niesmaczną uwagę, ale się nie mogłem powstrzymać: dildorotka
+19:58 <@leafnode> mmazur: bo tobie tylko wibratory w dup^Wgłowie
+%
+#pld
+21:55 <+Skobi^> jak ja nie lubie marudzacych facetow :PPP
+21:55 <+Skobi^> to gorzej niz stado bab z okresem
+%
+#pld
+16:56 <@jack_> Jak w ekg zapisuje sie jakas rozmowe, ktora sie wlasnie odbyla?
+16:58 <@mmazur> Shift+PgUp i kartka papieru
+%
+#pld
+19:29 -!- zagrodzki [sebek@sokrates.mimuw.edu.pl] has joined #pld
+19:29 -!- mode/#pld [+o zagrodzki] by waszi
+19:29 <@djurban> ech
+19:29 <@mmazur> zagrodzki, byćbyćbyć?
+19:29 <@zagrodzki> part
+19:29 <@mmazur> zagrodzki, !
+19:29 -!- zagrodzki [sebek@sokrates.mimuw.edu.pl] has left #pld [zagrodzki]
+19:29 <@mmazur> UAAAAAAAA
+%
+#pld
+19:41 <@djurban> mmazur: discuss wbiij do /dev/null i  wszystkie maile od kloczka tez
+19:42 <@ciesiel> djurban: hehe... kloczek na pld.org.pl dalej pracuje :)
+19:42 <@ciesiel> djurban: a raczej trwa na barykadzie :)
+19:42 <@djurban> wiem
+19:43 <@djurban> juz za 9 lat wyjdzie KLD 1.1
+19:43 <@djurban> kloczek wszystko recznie wezmie
+19:43 <@ciesiel> djurban: z kernelem 2.0.x :)
+19:43 <@djurban> nie
+19:43 <@djurban> z 1.5
+19:43 <@ciesiel> djurban: a jak zrobi rsynca od nas?
+19:44 <@ciesiel> djurban: ten facet wstudu nie ma :)
+19:44 <@ciesiel> wstydu
+19:44 <@djurban> ciesiel: nawet jak zrobi to co? Kloczek.CIH bedzie dzialal w KLD nawet po rsyncu
+19:45 <@ciesiel> djurban: ja nie wiem skad on bierze tę pyche :)
+19:45 <@ciesiel> djurban: zobaczysz - on będzie kimś :)
+19:45 <@ciesiel> djurban: jakimś politykiem :)
+19:46 <@djurban> ciesiel: rotfl, bedzie ekspertem do spraw informatyzacji w samoobronie
+19:47 <@ciesiel> djurban: ty się nie śmiej - jeszcze będzie nas blokował na traktorach :)
+19:47 <@djurban> taa
+19:48 <@djurban> bedzie blokowal lacza siedzac na kablach
+19:48 <@ciesiel> djurban: okrakiem na routerach :)
+19:49 <@djurban> ciesiel: wlasnie jedziesz metrem do fortunek
+%
+#pld
+11:56 -!- damae [djurban@py163.wroclaw.sdi.tpnet.pl] has joined #pld
+11:56 -!- Topic for #pld: Urban jak robisz fortunki to kurwa koduj w ISO8859-2, windziarzu zasrany | ftp://ftp.rpmfind.net/linux/PLD/current/welcome.msg
+11:56 -!- Topic set by \hunter [hunter@duch.mimuw.edu.pl] [Sat Aug 16 11:50:52 2003]
+11:56 <@damae> !seen \hunter
+11:56 <@mmazur> damae: Osoba o nicku \hunter odezwala sie 4m 7s temu; jest tutaj.
+11:56 -!- You're now known as djurban
+11:57 <@djurban> \hunter: jakies zastrzezenia co do kodowania w vi?
+11:57 <@djurban> !seen psk
+11:57 <@mmazur> djurban: Osoba o nicku psk odezwala sie 9m 23s temu; jest tutaj.
+11:57 <@\hunter> djurban: ja? ni.
+11:59 <@\hunter> djurban: psk coś chciał.
+12:00 <@djurban> psk: ?
+12:01 <@djurban> psk: czegp
+12:01 <@psk> djurban: ciólu możesz kodować fortunki w iso8859-2 ?
+12:02 <@djurban> psk: ciulu, koduje w iso8859-2, moze mi powiesz jak moglbym
+                 inaczej majac irssi i vi, a najblizszy windows w mojej okolicy
+		 jest 5 m drogi
+12:02 <@psk> 20:04 <@Baseciq> \hunter: czekaj, niech sobie przypomne jak wyglądasz....
+12:03 <@psk> twoja wklejka
+12:03 <@psk> a nie kurwa
+12:03 <@psk> \hunter: windziarzu zajebany
+12:03 <@\hunter> psk: e to moja.
+12:03 <@djurban> no
+12:03 <@psk> djurban: wybacz ciulu
+12:03 <@psk> :>
+12:03 <@djurban> spox :)
+12:03 <@psk> djurban: wybacz że jestes ciulem ;-p
+12:03 <@\hunter> djurban: weź zfortunkuj to.
+12:03 <@djurban> ciul ciulowi bratem :)
+12:04 <@\hunter> djurban: nieźle nas urządziłyście, siostry.,...
+%
+#pld
+19:17 <@waszi> pedofil linux distribution
+%
+Mon Aug 18 00:40:21 CEST 2003, ircnet #pld
+00:34 <@Skobi> dobranoc pif paf
+00:35 <+baf> oj, skopi ..
+00:35 <+baf> skopi skopi.
+00:35 <+baf> jutro coś wymyślę ;P
+00:36 <@\hunter> Skobi: może by chociaż gary zmywał i gotował.
+00:36 <@Skobi> oj tam gotowac sama lubie :P
+00:37 <+baf> \hunter: a ona smarowała by mnie olejkiem? ;P
+00:37 <+baf> dobra, ide już..
+00:37 <+baf> ;-P
+00:37 <@\hunter> baf: coś wydaje mi się że nie...
+00:38 <+baf> \hunter: za marzenia nie karają.
+00:39 <@\hunter> baf: a za Marzenę :-p
+00:39 <+baf> rotfl.
+00:39 <+baf> hehe
+00:39 <@Skobi> o boszz
+00:40 <@Skobi> ojj
+00:40 <@Skobi> \hunter: za Marzene karaja jak trzeba :PP
+%
+Date: Thu, 21 Aug 2003 13:04:37 +0200
+From: Grzegorz Godlewski <ggodlewski@host.sk>
+To: To my robimy PLD <pld-devel-pl@pld-linux.org>
+
+[...]
+> > > > Z heretykami się nie rozmawia. Co oni tam wiedzą? Do heretyków się
+> > > > strzela!
+[...]
+> > > Tyś niedouczyony... heretyków się pali :)
+> > Bo ja niepalący jestem :)
+> To nie tak... mieli sie cialo, robi nawoz i na tym wyrastaja roslinki, potem
+> roslinki sie suszy, zawija w bibulki i ready
+Nawóz i roślinki to dobre dla mięczaków... Mmazur zawija w bibułki "na żywca".
+%
+[Wed Aug 27 00:12:54 2003]
+Topic for #pld: Skobi: pokaż swoją http://ep09.kernel.pl/~misi3k/fujarka.sh
+00:15:09 <+knivre> moja ma tendencje wzrostowa :P
+00:15:14 <+knivre> juz 49 a nie 32
+00:15:30 <@djurban> lool
+00:15:39 <@djurban> wieczorem jestes abrdziej jurny ;)
+00:16:44 <@waszi_> u mnie caly czas:
+00:16:44 <@waszi_> [root@ontario waszi]# ./fujarka.sh
+00:16:44 <@waszi_> 67.6cm
+00:17:05 <@adgor> [adgor@horand Docs]$ ./fujarka.sh
+00:17:05 <@adgor> 32.9cm
+00:19:28 <@Marq> root@pink marco # ./fujarka.sh
+00:19:28 <@Marq> 33.5cm
+00:19:30 <@Marq> ;/
+01:10:02  * \hunter 65.4cm
+01:10:08 <@djurban> dzimi
+01:10:19 -!- djurban [djurban@py163.wroclaw.sdi.tpnet.pl] has quit [ide]
+01:23:36 <@undefined> [undefine@aramin undefine]$ ./fujarka.sh
+01:23:36 <@undefined> 9.4cm
+01:23:39 <@undefined> :>
+01:31:27 <@undefined> [undefine@chaos undefine]$ ./fujarka.sh
+01:31:27 <@undefined> 8.9cm
+01:31:30 <@undefined> =)
+%
+#pld
+02:08 <@giejot> o,i mam jeszcze PLD w chroocie
+02:08 <@giejot> RA
+02:08 <@giejot> kuRwA
+%
+#pld
+12:36  * y0shi ma nowe i jedyne sluszne pld na desktopie
+12:36 <@y0shi> yoshi@karuzela:~  [$] cat /etc/pld-release
+12:36 <@y0shi> KLD Linux Dirstibutoin ([c] Tomsaz Kolczok)
+12:36 <@y0shi> :D
+12:36 <@z0c> Tomsaz Kolczok? ;D
+12:37 <@y0shi> no ten
+12:37 <@y0shi> literowka pewnie
+12:37 <@y0shi> ;)
+%
+#pld
+<t0tal> Z biura pionu marketingu TPSA -- ,,Promocja Zaufany Konfident - Każdy klient który wyda sąsiada udostępniającego usługę Neostrada poza lokal abonenta, otrzyma 99% bonifikaty na kolejne trzy okresy rozrachunkowe do usługi Neostrada bądź Internet DSL''
+%
+#pld
+<t0tal> w Polsce jest naprawde słodko jak w cukrowni -- wychodzisz na ulica a tam same buraki.
+%
+18:52 <+ciesiel> [krzyzak]: to może inaczej - pewne grupy zamknięte a pewne nie... :)
+18:52 <@djurban> [krzyzak]: nei rotfulj mnie
+18:52 <@[krzyzak]> ciesiel: mnie to nic poza pl.devel.pl i pl.users.pl nie ineteresuje osobiscie
+18:53 <+ciesiel> [krzyzak]: no właśnie - i tu wychodzi Twój egoizm ;)
+18:53 <@djurban> ciesiel ciesiel ciesiel ciesiel ciesiel ciesiel ciesiel ciesiel ciesiel
+18:53 <@[krzyzak]> ciesiel: HA, teraz mam do takich tylko dostep to i innych nie znam, nie uzywam , nie
+potrzebuje
+18:53 <@dziwak> pl.linux.pld? :>
+18:53 <@dziwak> pl.comp.os.linux.pld? :>
+18:53 <@dziwak> :>
+18:53 <@[krzyzak]> pl.linux.os.pld
+18:53 <@djurban> pl.masters.djurban
+18:54 <@adasi> blues^: a7n8x deluxe, athlon xp barton 2500+ (ale wlasnie mi sie                jako 3400 odpalil :P), barracuda 120GB na SATA
+18:54 <@djurban> pl.masters.djurban.na.kolana
+18:54 <+ciesiel> pl.alt.pld :)
+18:54 <+ciesiel> chyba alt.xxxxx :)
+18:54 <@djurban> pld.alt.binaries.porno.djrzulf
+18:54 <@dziwak> alt.sex.teens.pld
+18:54 <@dziwak> :>
+%
+#pld -> mmazurowy priv
+20:24 <zeep_> czesc niewiesz z kond muglbym sciongnonc lynx do pld
+20:26 <mmazur> Z ftpa?
+20:27 <zeep_> tak tak tylko niewiem jak ten pakiet sie nazywa
+20:27 <mmazur> Zaczyna się na lynx.
+20:27 <zeep_> thx
+%
+#pld
+17:06 <@djurban> szukam kogos z neo
+17:08 <+evilkura> djurban: /msg trinity
+%
+#pld
+22:39 -!- mode/#pld [-b *!*djurban@*.kernel.pl] by gausus
+22:39 <@gausus> jack_: zjebu raczej :)
+22:39 <@blues^> adgor: wojna? ;)
+22:39 <@gausus> nie tepic djurbana
+22:39 <@gausus> ja go w sumie lubie
+22:40 <@gausus> on ma nasrane
+22:40 <@jack_> rotfl
+22:40 <@gausus> ale beda z niego ludzie
+22:40 <@blues^> gausus: nie rob mi tego i sam grzecznie zafortunkuj :D
+22:40 <@blues^> gausus: ja sie jeszcze z podlogi podnosze :D
+%
+Z dyskusji na temat jednego z patchy nałożonego na gtk+2:
+
+> > Ten widget dziala calkiem sprawanie, a przy tym jest o niebo
+> > lepszy od standardowego, przemawia za nim rownież to iż użył
+> > go Ximian.
+>
+> Ten wiget powodował wieszanie się gimpa - prawdopodobnie też i innych
+> aplikacji (nie wiem, nie sprawdzałem).
+>
+
+O wypraszam sobie. Ja nic nie wieszam ;-)
+
+wiget
+
+			--- Marcin Krzyżanowski,
+			    Adam Gołębiowski i
+			    Artur Frysiak @ pld-devel-pl
+%
+#pld
+00:31 <@Baseciq> no sgml support on #PLD found ... assuming #PLD as sgml idiots.
+00:31 <@Baseciq> ;>
+00:34 <@djurban> checking for br_ain in libpld... not found
+00:34 <@Baseciq> checking for -lKenny ... not found
+00:34 <@Baseciq> THEY KILLED KENNY! THOSE BASTARDS!
+00:35 <@Baseciq> checking for -lkloczek ... found
+00:35 <@Baseciq> Aborting. This system is not GNU/Linux compilant
+00:35 <@djurban> checking for ziew in libpld... -lspidi
+%
+On Fri, Oct 03, 2003 at 08:23:24AM +0200, Tomasz Wittner wrote:
+> Właśnie mi poldek "stanął" i to mnie zdziwiło.
+
+nie martw się - to zdrowy objaw.
+też mi z rana poldek staje. :>
+
+			--- Tomasz Wittner & Paweł Wilk @ pld-devel-pl
+%
+> nie uzywam vi, nie mam vi, nie potrzebne mi vi, nie chce vi
+> I co?
+vipierdalaj ;)
+                        --- Witold Krecicki & Jarosław Kamper @ pld-devel-pl
+%
+#pld
+(elio@IN) A blusa nie widać ;> Pewnie tak się podjarał klastrem
+          że dojść do siebie nie może ;> Albo przestawia go na PLD :P
+%
+Sprawdzałem wczoraj, czy działa zmiana języków w KDE. Ustawiłem zuluski...
+i miałem poważny problem z powrotem do jakiegoś zrozumiałego. Przy okazji
+dowiedziałem się, jak sie nazywa po zulusku język polski: isi-pholishi.
+Innym razem, gdy chciałem ustawić polski, omsknęła mi się myszka i ustawiłem
+... perski. Tragedia: same kwadraciki. W którym pakiecie są perskie fonty?
+Na szczęście "litewski" nie był na perski jeszcze przetłumaczony ;)
+
+                           --- Andrzej M. Krzysztofowicz @ pld-devel-pl
+%
+08:54 <@gausus> Socrat: wczoraj rozmawialem ze znajomym ksiedzem
+08:54 <@marzena> gausus: i poszedl siepowiesic :P ?
+08:54 <@gausus> przyszla do niego babka po zaswiadczenie ze moze byc chrzestna
+08:54 <@gausus> marzena: nie :)
+08:54 <@Socrat> gausus: iii ?
+08:55 <@gausus> Socrat: i on do niej ze ja 1 raz na oczy widzi i ze ona chyba
+                nie z jego parafi
+08:55 <@Socrat> mhm
+08:55 <@gausus> Socrat: na co ona ze ona noe chodzi do kodsciola bo jest duszbo
+08:55 <@gausus> ona w niedziele chodzi do lasu i sie z drzewami modli
+08:55 <@Socrat> ROTFL
+08:56 <@gausus> Socrat: wiec ksiadz powiedzial jej ze u kosciele jest podzial
+                terytorialny  i w takim razie niech idzie po zaswiadczenie do
+                lesniczego
+08:56 <@Socrat> druidka?
+08:56 <@gausus> :))
+08:56 <@Socrat> ROTFL
+%
+> > > > Module name:  SPECS
+> > > > Changes by:   grzegol 03/10/22 13:39:20
+> > > >
+> > > > Modified files:
+> > > >       bash-completion.spec
+> > > >
+> > > > Log message:
+> > > > - updated to 20031022
+> > > Jest jedna rzecz, która bezbrzeżnie zadziwia mnie w tym pakiecie: czemuż
+> > > nie supportuje on poldka???
+> > SOD #1.
+> SOmkochano #1.
+
+SOcvsadmin #1.
+
+			--- Michał Kochanowicz,
+			    Adam Gołębiowski,
+			    Michał Kochanowicz i
+			    Michał Moskal @ pld-devel-pl
+%
+> > gabber is going to go down for a few hours tonight, as our office (where
+> > gabber is housed) is going to lose power :(:(:(:
+>
+> I would suggest moving the lists to a more civilised country where power
+> doesn't go down every month or two. Poland maybe?
+
+... where cvs, ftp, distfiles and builders go down every day
+independently of power failures.
+
+			--- Sergiusz Pawłowicz (on behalf of gabber admin),
+			    Mariusz Mazur &
+			    Tomasz Wittner @ pld-devel-en
+%
+09:27 <+Higgs76> Moze ktos przeniesc mplayer na ftp Ac ?
+%
+#pld
+17:56 <@djurban> trzeba przywrocic podzial feudalny, za chlopow uznamy
+                 slackwarowcow, za mieszczan debianowcow, za szlachte pldowcow.
+                 a krolem obwolamy kloczka
+17:57 <@adamg> a krolowa?
+17:57 <@djurban> sergiusz
+%
+#pld
+23:42 <@[krzyzak]>   --disable-netrc         enable .netrc support
+23:42 <@[krzyzak]> nie ma jak jasny opis
+%
+#pld
+13:22:51 <@blues^> aaaaaaaaaaaaaaaaa - smietanka mi sie zwazyla!!!!
+13:24:58 <@mmazur> blues^, tiaaa. Teraz pewnie tylko cały czas łazi i biadoli,
+                   że gruba.
+13:30:01 <@blues^> mmazur: non comprendo...
+13:31:00 <@mmazur> blues^, no niejaka śmietanka (pewnie pseudonim artystyczny
+                   twojej kobiety) wlazła na wagę i teraz robi to co opisałem
+		   powodując u ciebie 'aaaaaaaaaaaaaaaaaaaaa'.
+%
+#pld
+12:48:48 < uop> (jack_@IN) Ktoś od htb?
+12:50:47 < uop> (mmazur@IN) jack_: Niestety nie widzialem nigdzie nicka jasio.
+%
+#pld
+21:16 <@adamg> wprowadźmy postać tajemniczego 'ktosia', który to niczym wiatry
+               po obiedzie pojawił się znikąd i na którymś zlocie rzucił pomysł
+	       'Ac', po czym zniknął ulotnił się wraz z odpływem?
+21:18 <@adasi> adamg: albo ktos kto nie wymiawia 'o'!
+21:18 <@adasi> adamg: wstawil glowe do sali, chcial 'A co' powiedziec, wyszlo
+               'Ac' i tak zostalo
+%
+21:22 <@djurban> to jest taka fortunka ze jak zolw nie sforunknuje to ja go w
+                 twarz tgne
+21:23 <@adamg> djurban: nie wierz innym, fortunkuj sie sam!
+21:23 <@ciesiel> samofortuńkizm jest jak samogwałt :)
+%
+> Polecam chłodzenie wodne. Przy Athlonie 2000XP temp nie przekracza 46 C
+ciekawe jak mam zamontowac w notebooku
+
+                        --- Arkadiusz Chomicki & Temp @ pld-users-pl
+%
+#pld
+[15:10] <@Averne> Podstawowa zaleta komercyjnych dystrybucji to (przynajmniej w
+                  teorii) gruntownie przetestowany zbior komponentow i
+                  gwarancja poprawnej ich wspolpracy. Fedora to poletko
+                  doswiadczalne, a nie produkt koncowy. Jest nieprzydatna dla
+                  firm i korporacji, a jedynie dla developerow dystrybucji.
+[15:10] <@Averne> ej
+[15:10] <@Averne> to tak jak z Ac w pld w wizji ślamazura
+%
+#pld, Wed Nov 12 23:02:12 CET 2003
+22:59:13 <@SkIbIiI> hunter: a ty co bys dokladnie potrzebbowal
+22:59:33 <@SkIbIiI> hunter:  jesli sprecyzujesz to ci poprawiem to co bedziesz
+                    potrzebowal
+22:59:59 <@hunter> SkIbIiI: ja? skrzynkę piwa i 3-4 niezłe laski potrafiąca:
+                   gotować, prać, pakować plecaki, sprzątać, uczyć się :)
+23:00:12 <@SkIbIiI> :))
+%
+#pld
+01:27 <@havner> mmazur: do matury sie kurw uczyc
+01:27 <@arekm> Averne: a co się mam przyznawać ;>
+01:28 -!- mode/#pld [+b *!havner@get.myLIVE.CD] by mmazur
+01:28 -!- havner was kicked from #pld by mmazur [Zgłoś się jak
+wytrzeźwiejesz]
+01:28 <@Averne> arekm: bo nam to niezmiernie potrzebne do
+informowania!
+01:28 -!- mode/#pld [+b *!*mmazur@*.pub.kernel.pl] by Averne
+01:28 -!- mmazur was kicked from #PLD by Averne [zgłoś się jak dowiesz
+się czym jest AC]
+01:28 <@Averne> ziew
+01:29 -!- mode/#pld [-b *!havner@get.myLIVE.CD] by Averne
+01:29 -!- havner (We live as we dream, alone...)
+[havner@get.myLIVE.CD] has joined #pld
+01:29 -!- mode/#pld [+o havner] by adamg
+01:29 -!- mode/#pld [+o havner] by Averne
+01:29 <@Averne> ziew ;]
+01:29 <@RMF> Averne: w zlew
+%
+19:12 <@mmazur> Cholerne nagwki. Kij w oko deweloperom jdra.
+19:12 <@gausus> mmazur: rotfl
+19:12 <@speedy_> cieciwa: syszae?
+%
+# pl.comp.os.linux, <slrnbu68qh.nqb.gotar@os.mil.gov.pl>
+
+Kloczek ma się do PLD jak Saddam do Iraku. Piwko?
+%
+#pld
+12:58 <@adasi> Życzymy radosnych flame wars przy wigilijnym stole, bo jak wiadomo karp używał PLD i widać jak skończył.
+%
+01:20 <+Wieszczu> hm
+01:20 <+Wieszczu> czy qboosh pracuje 24h/dobe ?
+01:20 <+Wieszczu> :P
+01:20 <@undefined> Wieszczu: nie. ma przerwe miedzy 7:30 a 7:31
+01:20 <@undefined> ;)
+01:21 <+Wieszczu> undefined: a. spoko
+01:21 <@adamg> no i ma brodę, więc odpada mu golenie
+01:21 <@adamg> długie włosy - wizyty u fryzjera
+01:21 <+Wieszczu> tu sie wkłada, tam wyjmuje a automat sam pracuje =]
+01:21 <@djurban> wy myslicie ze qboosh to jedna osoba i blad! qboosh to 20 osob ktore pracuja na rozne zmiany a na majle
+                 odpisuje tzw. qboosh glowny albo vice-qboosh jesli qboosh -szef jest na urlopie
+01:22 -!- DJ_KLIMA [vectra@polkowice-TPNet-1.plk.vectranet.pl] has left #pld [DJ_KLIMA]
+01:22 <@SkIbI> :)))
+01:22 <@SkIbI> djurban:  hehehe ciekawa teoria chesz o niej pogadac?
+01:23 <@adamg> djurban: jesteś w błędzie. qboosh to tak naprawdę zarąbiście zgrana farma małych gnomów, pracujących
+               wspólnie i klepiących w setki małych klawiatur. a jak niektórzy się zmęczą, to na ihc miejsce siadają
+               następni. dlatego qboosh pracuje 24h/dobe
+01:23 <+Wieszczu> etam
+01:23 <+Wieszczu> to jeden wielki klaster =]
+01:24 <@arekm> oka, napsułem skrypta
+01:24 <@djurban> adamg acha, a ccezar to taki Wielki Gnom, wodz wioski?
+01:25 <@adamg> djurban: nie, nie, nie. To jak Power Rangers. Gdy się te qbooshowe gnomy zbiorą do kupy, to powstaje
+               CCezar :)
+01:25 <@adamg> który stuka w klawę z prędkością 1800 znaków/minutę, kołysząc przy okazji syna....
+01:26 <@djurban> adamg a 3 reka podpisuje umowy z producentem serialu
+01:27 <@adamg> a stopami stuka na kolejnej klawiaturze...
+%
+#pld
+01:36 <@gausus> wpk: mama mnie zawiozla w 3 klasie lo
+01:37 <@gausus> mialem chodzic na kontrole co 6 miesiecy
+01:37 <@gausus> ale nie pamietam co ktore szesc wiec nie chodze
+%
+#pld
+11:18 <@RMF> twittner: i daja takie cisnienie ze oderwa kurz z zakurzaonych
+             trzewi kompa
+11:19 <@lcamtuf> wywiewa uklady z podstawek
+11:19 <@Averne> lcamtuf: :D
+11:19 <@lcamtuf> te wlutowane musza przykucnac zeby sie utrzymac
+11:19 <@RMF> Averne: widzialem w obi kompresory czy tez agregaty do
+             hydroforow... ale.. ten co byl sie popsul czy nie ma pradu
+11:20 <@lcamtuf> a SMD zaczynaja sie slizgac po plycie
+%
+#pld
+16:47 <@[krzyzak]> na tvp1 pokazuja jak pyton zjada antylope
+16:48 <@leafnode> pyton powinien zjadać wielbłąda
+16:48 <@leafnode> to by było dopiero przesłanie...
+%
+#pld
+13:38 <@undefined> chcesz zwiedzic swiat? zostan pakietem polpaku...
+%
+#pld
+08:49.22| <@gausus> mam zagwozdke intelektualna
+08:49.31| <@gausus> truskawki sa czerwone , prawda ?
+08:50.58| <@gausus> a banany sa zolte
+08:51.00| <@gausus> prawda ?
+08:51.18| <@gausus> wiec dlaczzego pytam sie jogurt bananowo-truskawkowy jest bialy ?
+%
+#pld
+22:59 <@speedy]>               \|/ ____ \|/
+22:59 <@speedy]>               "@'/ ,. \`@"
+22:59 <@speedy]>               /_| \__/ |_\
+22:59 <@speedy]>                  \__U_/
+23:00 <@adasi> speedy]: znowu sparc padl?
+23:00 <@zouza_> hyh
+23:00 <@speedy]> adasi: da.
+23:00 <@Averne> o mmazura podobizna
+23:00 <@speedy]> adasi: chyba solaris jest lepszy
+23:00 <@DeeJay1> speedy]: kto Ci pozwolil uzywac mojej podobizny he? :P
+23:00 <@zouza_> hyhyh
+23:00 <@zouza_> cichac chlopaki wydalo sie to moja  geba :)
+23:00 <@adasi> DeeJay1: ta podobizna jestod 5(?) lat o ile nie wiecej :P
+23:01 <@adasi> speedy]: a o to sie SCO nie przyczepilo? :>
+%
+#pld
+15:25 <+jurekb> przepraszam za pytanie niezwiazane z tematyka kanalu, ale BARDZO pilnie poszukuje administratora dns.kernel.net.pl (vide ep09.kernel.pl), a z tego co wiem, to sporo osob ma z nim kontakt, ktos wie jak sie z nim skontaktowac?
+15:26 <@djurban> jurekb: ten administrator to bardzo zly czlowiek
+15:26 <@zouza_>  hie hie hie
+15:26 <+jurekb> djurban: nie wiem, wiem, ze mam tam zapasowego DNSa, ktoremu trzeba poprawic konfiguracje
+15:26 <@djurban> jurekb: /msg RMF
+15:27 <@speedy_> jurekb: administrator ep09 JEST NIEDOBRYM CZŁOWIEKIEM
+15:27 <@djurban> jurekb: jakby nie odpowaidal to jest jeszcze drugi ale on bardzo nie lubi jak go sie mecyz zeby cos zrobil
+15:27 <@speedy_> jurekb: wyżywa się na biednych djurbanach
+15:27 <@speedy_> jurekb: kopie ich
+15:27 <@zouza_> da
+15:27 -!- djurban was kicked from #pld by speedy_ [a idź mi stąd ]
+--- Log closed wto sty 27 15:27:30 2004
+--- Log opened wto sty 27 15:27:39 2004
+15:27 -!- djurban [djurban@djurban.ezn.edu.pl] has joined #pld
+15:27 -!- mode/#pld [+o djurban] by adamg
+15:27 <@djurban> speedy_: :)
+15:27 <+jurekb> djurban: niestety nie odpowiada na maile, a ni na mesgi (rmf))
+15:28 <@djurban> jurekb: to mecz speediego
+15:28 <@speedy_> jurekb: a przybrałeś odpowiedni ton ?
+15:28 <@zouza_> qrde ja bym nie ryzykowal :)
+15:28 <@djurban> terespeedifere :)
+15:28 <@zouza_> qrde ja bym nie ryzykowala :)
+15:28 <+jurekb> speedy_: napisalerm bez emocji jaka jest sytuacja i bez odpowiedzi :)
+15:28 <@jack_work> jurekb: błąd
+15:29 <@jack_work> jurekb: jak nie ma słowa kurwa, to w ogóle nie patrzy na monitor
+15:29 <@jack_work> jurekb: i tylko te słowa widzi
+15:29 <@jack_work> jurekb: więc opisz problem używając tylko tego słowa
+15:30 <@djurban> jurekb: ogolnei rmf i spidi moga ci pomoc, rmf ma opoznieniea, a spidi jest zly, ja bym szczerze mowiac zmienil sec. dns
+15:31 <+jurekb> jack_work: morsem? (k..wa - kropka, K..WA - kreska)
+15:31 <@djurban> jurekb: powiem ci tak, gdybys tu nie przyszedl to ten dzien bylby zmarnowany, a tak mamy pierwsza porzadna i fachowa fortunke od miesiecy
+%
+#pld
+21:40 <@undefined> djurban: kiedy bedzie kde? :>
+21:40 <@DeeJay1> Socrat: jutro bedzie
+21:40 <@DeeJay1> undefined: bedzie jak bedzie gotowe
+21:40 <@undefined>  /kb DeeJay1 nie wtracaj sie
+21:41 -!- mode/#pld [-o+b DeeJay1 *!*@cg118.internetdsl.tpnet.pl] by DeeJay1
+21:41 -!- DeeJay1 [deejay1@cg118.internetdsl.tpnet.pl] has left #pld [ups, nie zadzialalo jak nalezy :P]
+%
+#pld
+18:10 <@gausus> hmm
+18:10 <@gausus> wiecie co
+18:10 <@gausus> myszka mi zwariowala po odpaleniu xow :)
+18:10 <@djurban> i uciekla do drugiego pokoju?
+18:10 <@gausus> nie
+18:11 <@gausus> bezczelnie siedzi w gornymrogu ekranu
+%
+#pld
+19:09 <@twittner> mmazur: do kogo to było <@mmazur> A w nos chcesz? ?
+19:10 <@mmazur> twittner, do ciebie za przypominanie mi o wojsku!
+19:11 <@twittner> mmazur: b. nieładnie zTwojej strony, że chcesz mie bić.
+19:11 <@mmazur> twittner, jak wrócę z wojska, to będę miał sporą praktykę,
+                także lepiej teraz, niż później.
+%
+#pld
+20:06 <@adgor> djurban: ja Cie kiedys zabije jak bedziesz nacpany przy specach
+               grzebał!!!!!!!!1
+%
+#pld
+00:39:11 -!- djurban was kicked from #pld by adasi [BEREK!]
+%
+#pld and #x-avalon
+00:28 <@speedy_> chuju muju
+00:28 <+bosman_> srele morele
+00:37 <@RMF> dzikie weze
+Tłumaczenie z #x-avalon
+00:37 <@Marduk> moze to jakis szyfr
+00:38 <@Zyzik> chuju muju - pragne sexu
+00:38 <@Zyzik> srele morele - prawa graba
+00:38 <@Zyzik> dzikie weze - a ja mam odkurzacz
+%
+#pld
+13:36 <@adgor> Kogo grał B. Linda w filmie "Tato" a) tatę; b) babcię; c) wilka
+%
+<Wieszczu> speedy_: wystaw filmy :)
+<DeeJay1> speedy_: gdzie jest nemo ciekawe jest choc oklepane do bolu
+<speedy_> DeeJay1: http://warez.ziew.org
+<DeeJay1> ;; ANSWER SECTION:
+<DeeJay1> warez.ziew.org.         1786    IN      A       127.0.0.1
+<PawciooS> DeeJay1: czyja ta domena ? ;)
+<DeeJay1> PawciooS: whois Twoim przyjacielem
+<PawciooS> pytam, bo jak weszłem tam, to widze moją strone.. jakim cudem ?
+%
+#pld
+15:07 <@ciesiel> prędzej djrzulf się ustatkuje niż PLD rozwinie osobowość prawną :P
+%
+#pld
+19:39 <@djurban> !seen Bogiem
+19:39 <@Qrczak> djurban: To Ty jestes Bogiem!
+19:40 <@djurban> zgadza sie
+19:40 <@Qrczak> :-PPP
+19:40 <@jack_> !zioło stats
+19:40 <@jack_> 1) djurban
+19:40 <@jack_> 2) ser
+19:40 <@jack_> 3) kloczek
+%
+#pld
+08:02  * ankry myslal, ze poprzcuje w nocy, ale mu kabelek odcieli.
+          Przynajmniej sie dzis wyspal...
+08:02 <@speedy_> ankry: kobieta odciola?
+08:02 <@speedy_> odciela
+08:03 <@elio> U mnie kobieta nasyła szynszyle na kable albo mnie napada naga..
+08:03 <@elio> Wole to drugie.. Już mam dość zarabiania kabli.
+%
+> Standardowa odpowiedz kloczka dla tych, ktorym to sie nie podoba: "uzywajcie
+> starszej wersji"...
+A nie "urzywajie straszej wrjsi"? :>
+		- Andrzej Krzysztofowicz & Bartosz Taudul @ pld-devel-pl
+%
+#pld
+22:23  * djurban idzie na onet czat szukac inteligentnych kobiet
+22:24 <@leafnode> ach, szalone 13-tki...
+22:24 <@ciesiel> leafnode: a po co Ci takie staruchy :)
+22:24 <@leafnode> ciesiel: bo mało 12-tek ma cycki większe niż rzulf.
+22:25 <@adasi> leafnode jest dyskoteka klas 1-3
+22:25 <@adasi> leafnode: malo kobiet ma cycki wieksze niz rzulf
+22:25 <@ciesiel> leafnode: no tak - no i są trudniejsze niż żółw :)
+22:25 <@adasi> leafnode: rzulf ma cycki jak kucharka ze stolowki akademickiej
+22:25 <@leafnode> adasi: klas 1-3? o rajuśku. A będą miały stringi czy gacie po tacie?
+22:25 <+Wieszczu> adasi: fuj
+22:26 <@leafnode> adasi: a cycki... to fakt, rzulf to było kiepskie porównanie. Cycki rzuffa to legenda gorseciarek.
+22:26 <@leafnode> 'Ja pamiętam, przyszedł kiedyś taki jeden facet i biustonosz chciał. Myślałam, ze gorset, ale on nie, biustonosz'
+22:26 <@leafnode> 'jak pokazał te cycki to się z nim zgodziłam, takich cycków się nei zgniecie'
+%
+#pld
+22:27 <@djurban> rotfl - roll on the fuckin floor ;)
+22:27 <@adamg> a nie rolling on the floor (while) fuckin?
+22:27 <@leafnode> rzuff - raping zebras under fucking floor
+22:28 <@leafnode> rzulf - raping zebras using lesbian foto
+22:28 <@leafnode> (nie bardzo wiem co to miało znaczyć, ale jest 'raping' i 'lesbian' - na stronkę porno się nadaje)
+22:29 <@djurban> leafnode, zolw - zdecydowanie odpierdolilo losiowi (po) winie
+22:31 <@adasi> Lesbijska Emancypantka Akceptujaca Fallusy Na Opolskim Deptaku Energicznie
+22:32 <@djurban> Dobrze Jebniety Unikatowy Rodzaj Bananowego Androida Nibymyślącego
+22:32 <@adasi> Apatyczna Dupodajka Alergiczna (na) Malych Gowniarzy
+22:33 <@leafnode> adasi: rozszyfrowałeś mnie, Agencie Dający Afganistankom Soczyste Inwektywy.
+22:34 <@adamg> Kcialabym Lecz Owulacja Czesto Zabrania Ekscytujacej Kopulacji
+22:36 <@leafnode> Koreańska Lesbijka Oraz Czeska Zawodowa Ekstremalna Kaskaderka.
+22:36 <@adasi> Katujacy Lesbijki Onanista - Celebrity Z Ekstremalna Kupa
+22:38 <@adasi> adamg: wymiekasz?
+%
+#pld
+22:28 <@adamg> adasi: sysymysa dostal?
+22:29 <@adasi> adamg: dostal, nie mogl :/ musze sie martini z cola zadowolic
+22:30 <@adamg> adasi: sorry, że tak wyszło. 8h na uczelni dzielnie zniosłem. ale 4h visual basica rozłoży największego nawet twardziela
+22:30 <@leafnode> adamg: klikash w VB? rzondzisz.
+22:30 <@leafnode> adamg: laski lecą na formatki.
+22:31 <@adamg> leafnode: "chodź pójdziemy do mnie pokaże Ci kolekcję moich formatek" ?
+22:31 <@leafnode> adamg: no no, już łapiesz klimat.
+22:31 <@leafnode> adamg: 'a jak mi się nie spodobają?' 'to się ubierzesz i pójdziesz do domu'
+22:31 <@leafnode> Poformatkujemy się?
+%
+#pld
+22:34 <@djurban> adamg, /wi kloczek i zobacz jak nazwiska nie umie napisac Tomasz Kloczkoloczko
+22:34 <@djurban> enie
+22:34 <@djurban> juz poprawil
+22:34  * adamg chcial wpisac /wii kloczek, a wstuknelo sie /wii djurban
+22:35 <@adasi> adamg: co za roznica
+22:35 <@krzak> Averne: nie wiedze roznicy
+22:35 <@adamg> krzak: 80% gospodyn nie widzi roznicy
+%
+#pld (komentarz po tych fortunkach)
+22:32 <@ciesiel> ile talentów marnuje się w tym PLD :/
+%
+#pld VB hax0rz
+22:22 <@adamg> djurban: a dobrze dzisiaj sie uczylismy jak robic synchronizacje miedzy formularzami accessa
+22:22 <+Wieszczu> ;]
+22:22 <+Wieszczu> adam teraz hakierem zostanie =][
+22:23 <@leafnode> bedzie formatki chakował.
+22:23 <@leafnode> włamywał się do input boxów
+22:23 <@leafnode> i odkrywał ukryte guziki
+22:23 <@leafnode> (punkt H)
+22:23 <@leafnode> exploitował scroll-bary
+22:23 <@leafnode> i robił buffer-overflow toolboxów.
+22:24 <@leafnode> adam jesteś moim góró
+22:24 <@adamg> leafnode: nie zapomnij o social engineering za pomocą msgbox
+22:24 <@leafnode> adamg: 'W celu uniktnięcia utraty wszystkich plików podaj swoje hasło do poczty'
+22:25 <@leafnode> adamg: i phreaking kontrolki modemowej. (światełek znaczy się)
+22:26 <@adamg> ok, pora znikać
+22:26 <@adasi> adamg: miiekis
+22:26 <@djurban> zrobcie fortunke
+22:26 <@djurban> ja nie moge
+22:26  * adamg Applications!Forms!adamg.away = true
+22:26 <@djurban> bo gram w pokera na #poezja i pije wodke
+22:27 <@leafnode> jaką fortunkę?
+22:27 <@djurban> leafnode, no twoj djalog z adamg
+22:27 <@leafnode> aha...
+22:27 <@leafnode> no nie wiem czy sam siebie mogę...
+22:27 <@adamg> ja się sam fortunkować nie będę
+22:28 <@adamg> wiem, że jestem zajebisty, ale to już przesada
+22:28 <@adamg> dobra, miałem iść
+22:28  * adamg Applications!Forms!adamg.reallyaway = true
+22:29 <@leafnode> adamg: ale ty masz dużo metod...
+22:29 <@leafnode> adamg: a masz self.fuck ? :>
+%
+> > > > > SOA#77: dlatego nigdy nie ufaj w cname...
+> > > > SOA#666: Satan.
+> > > SOA#777: Satan Reloaded.
+> > SOA#997: Satan hunted.
+> Ktoś chyba chce koniecznie się znaleźć w fortunkach...
+Ktoś chyba bardzo zazdrości...
+
+			--- Sergiusz Pawłowicz,
+			    Piotr Szymański,
+			    Bartosz Taudul,
+			    Marcin Doliński,
+			    Paweł Sakowski,
+			    Bartosz Taudul @ pld-devel-pl
+%
+>> Jak dla mnie podejrzany jest host, który nie ma poprawnego DNS-u. Nie
+>> mam
+>> zamiaru na ten temat dyskutować.
+> Na moim domku nie ma tabliczki z numerem. Rozumiem, że też jestem
+> podejrzany ;-) Pozdrawiam.
+
+Akurat w Twoim przypadku, nawet jakbyś miał ten numerek to i tak jesteś
+podejrzany. :P
+
+			--- Paweł Gołaszewski
+			    Marcin Doliński,
+			    Marek Ciesielski @ pld-devel-pl
+%
+> I tak proponuję to opić. Dziś 4ta szklanka od godz. 17.30 ;-)
+> Wa-wa ;)
+
+Jakbyś jakieś większe delta t dał na reakcję... I tak nie w środku
+zajęć... No dobra, niech będzie tylko ten czas na reakcję.
+
+			--- Marcin Doliński,
+			    Paweł Sakowski @ pld-devel-pl
+%
+w Warszawie wyznajemy pewną zasadę - "Pijąc Lepiej Dewelopujesz"
+			--- Marcin Doliński @ pld-devel-pl
+%
+#pld
+16:48 <+Wieszczu> cieciwy chce
+16:49 <@leafnode> Wieszczu: za to się płaci
+%
+#pld
+16:28 <@Averne> oświadczam, iż zarówno apacz jak i php najnowsze działają
+16:30 <@leafnode> trzeba to obwieścić światu.
+16:30 <@leafnode> przetłumaczmy to na Arabski i wyślijmy do telewizji
+%
+#pld
+20:54  * pluto_ czeka az sie nalesniki usmaza. pozniej sie napierdoli jak ruski plecak i padnie.
+%
+#pld
+00:31 -!- djurban changed the topic of #pld to: #pld jako przekroj spoleczenstwa polskiego, uzasadnij na podstawie fortunek literackich.
+00:32 <@leafnode> 'wiele poziomów granic na przykładzie pld-devel - granice społeczne, absurdu, technicznej niewykonywalności'
+00:37 <@leafnode> djurban: 'Miałeś chamie złoty róg - refleksje nad rządami kloczka'
+00:41 <@leafnode> 'Ludzie Bezdystrybucyjni - szklane domy, obietnice i przekręty'
+00:41 <@djurban> Ac - niekonczacy sie Proces
+00:41 <@adasi> 'Twoje refleksje nad ryzykiem na podstawie cvs tag -d bluesa'
+00:41 <@leafnode> '13 Księga Podręcznika Developera jako wspaniały przykład parodii książki poważnej'
+00:42 <@Baseciq> 'Linkin Park jako element wychowawczy nastolatków XXI-wiecznej europy'
+00:43 <@djurban> Przedstaw przebieg transformacji ustrojowej na podstawie historii znanej ci deystrybucji
+00:43 <@Baseciq> 'Skond klikash - refleksje eksterytorialne młodego internauty'
+00:43 <@djurban> Fortunki baseta jako przyklad literatury poruszjacej komorki smiechu
+00:44 <@leafnode> 'Dupa rzulfa jako przykład estetyki turpistycznej'
+00:44 <@djurban> Postawa ankrego jako przyklad heroizmu etycznego w upadajacym miescie
+00:44 <@leafnode> 'qboosh jako bohater pozytywistyczny pracujacy u podstaw'
+00:44 <@hunterneu> qbosh jako heros ratujacy Panstwo przed upadkiem
+00:45 <@djurban> Postawa Sergiusza jako nawiazanie do zywota Jacka Soplicy
+00:46 <@Baseciq> 'Kloczek i Lepper - tacy sami czy zupełnie inni'
+00:46 <@leafnode> 'Averne - przywódca bezsilny?'
+00:47 <@djurban> Kloczek - onanista czy bohater seksualny?
+00:47 <@ser> onanista, ten co po loopbacku commituje, hihi
+00:47 <@leafnode> 'dewiacje seksualne postaci tragicznej na przykładzie kloczka'
+00:47 <@djurban> djrzulf jako przyklad franciszkanizmu w zyciu seksualnym
+00:48 <@djurban> cieciwa jako przyklad czlowieka ktory zawodowo grzebie w jajach
+00:49 <@leafnode> 'grzebanie w jajach - hobby czy dewiacja?'
+00:50 <@leafnode> Baseciq jako współczesny sarmata.
+00:50 <@djurban> pluto jako przyklad wplywu tworczosci Walta Disneya na psychike developerow PLD
+00:53 <@djurban> jack jako przyklad kampera
+00:54 <@djurban> Scharakteryzuj wplyw zielarstwa na mlodziez na przykaldzie codziennej postawy djurbana
+00:56 <@leafnode> 'djrzulf - czy plastikowe kozy śnią o lateksowych ciuszkach?'
+%
+#pld
+00:51 <@leafnode>  >>> Linkin Park - Figure.09 >>>
+00:52 <@Baseciq> uwielbiam ich
+00:52 <@Baseciq> a jak se paczką popijemy
+00:52 <@Baseciq> to pół śródmieścia słucha jak śpiewamy ,,numb''
+%
+#pld
+20:31 <@mmazur> leafnode, i to pospieszyć się, bo chciałbym w miarę niedługo
+                wydać 3.0.0
+20:31 <@cieciwa> mmazur,  ?? 3.0.0 ??
+20:33 <@mmazur> cieciwa, no... firewall-init
+20:33 <@cieciwa> mmazur,  :)
+20:34 <@cieciwa> mmazur,  a juz myslalem ze PLD :D
+20:34 <@mmazur> cieciwa, lol :)
+%
+#pld
+00:37 <@twittner> {^_^}: żółwik - odpaliłem tego vigor'a - co ja mam z tym zrobić?
+00:37 <@{^_^}> twittner: cieszyć się życiem.
+%
+		** qboosh in action **
+@ pld-devel-pl
+Adam Kochanowski, temat "Kernel sie sypie", foto opsa:
+	.______________________________
+	| Oops: 0000 [#1]
+	/....../
+	| [<c0348520>] unknown_bootoption+0x0/0x120
+	|
+	| Code: 0f b7 47 18 83 f8 0f 0f 84 53 01 00 00 83 f8 10 0f 84 30 01
+	|  <0>Kernel panic: Fatal exception in interrupt
+	| In interrupt handler - not syncing
+	'--------------------------------
+qboosh:
+	Używasz SELinuksa albo NAT-u?
+
+	Code: 0f b7 47 18 83 f8 0f ...
+
+	==> movzwl 0x18(%edi),%eax
+	    cmp $0xf,%eax
+
+	...a %edi==0, stąd Oops.
+
+	W kodzie (2.6.4 wprawdzie, ale pasuje
+	(selinux_socket_sock_rcv_skb(), security/selinux/hooks.c:2968+)
+
+	        inode = SOCK_INODE(sock);
+	        [...]
+	        isec = inode->i_security;
+	==>     switch (isec->sclass) {
+	        case SECCLASS_UDP_SOCKET:
+
+	Czyli mamy isec==NULL.
+	Brak sprawdzenia? Jakieś wyścigi przy inicjalizacji SELinuksa?
+	Tu już nie wiem, wrzuciłbym temat na LKML. Chyba że mamy w tym rejonie
+	jakieś łaty w jądrze?
+
+Michał Kochanowicz:
+	A jak znalazłeś to miejsce na podstawie asm? :)
+
+qboosh:
+	Było cmp 0xf,%eax, a kawałek dalej cmp 0x10,%eax.
+	SECCLASS_UDP_SOCKET to 0xf, SECCLASS_TCP_SOCKET (następne case w tym
+	switchu) to 0x10. A nazwa funkcji była w treści oopsa.
+	W sumie z 5 minut szukania, razem z przepuszczeniem tego kawałka przez
+	objdump -D.
+%
+#pld
+22:23 <+CIA-1> qboosh * SPECS/faac.spec:
+22:23 <+CIA-1> - updated to 1.24, updated link patch
+22:23 <+CIA-1> - separated -libs from frontend (now built with mpeg4 support)
+22:23 <+CIA-1> agaran * SPECS/fortune-mod.spec: - added missing BR: recode
+22:24 <@krzak> ej, jest cos w dystrybucji na czym qboosh sie nie zna ?
+22:24 <@agaran> krzak: nie
+22:24 <@ciesiel> krzak: tak
+22:24 <@krzak> kręcicie
+22:24 <@ciesiel> :)
+22:25 <@krzak> na ircu pewnie
+22:25 <@ciesiel> krzak: kiedyś mi popsuł speca :P
+22:25 <@agaran> krzak: długo w pld w sumie jestem i niewiele jest zeczy których qboosh nie poprawiał
+22:25 <@ciesiel> agaran: a to fakt :)
+22:26 <@ciesiel> w sumie bardzo pomaga to początkującym...
+22:26 <@ciesiel> specjalnie nie opierd... a i nauczyć się wiele można
+22:26 <@krzak> on jest masszyną
+22:26 <@vevlhuntr> agaran: 0verkilla np nie poprawiał
+22:26 <@ciesiel> Deux ex machina :)
+22:27 <@agaran> vevlhuntr: jaasne..
+22:27 <@krzak> chychyba czyta jaki komit i do kazdego zaglada i poprawia, bo nic mu nie ucieka
+22:27 <@agaran> ciesiel: juz dzisiaj była koncepcja ze to jest CS'owe AI
+22:27 <@ciesiel> agaran: eee.. cs takie nie jest :)
+22:27 <@krzak> ah, tonie jeden czlowiek, tylko frontend czlowieka
+22:27 <@ciesiel> http://cia.navi.cx/stats/author/ciesiel  hehe ;)
+22:27 <@krzak> tam caly dzial CS siedzi na 5 zmian
+22:28 <@ciesiel> frondend w wxPythonie napisany :)
+22:28 <@agaran> perl
+22:30 <@adasi> krzak: qboosh malo mowi, duzo robi po prostu :>
+22:30 <@krzak> adasi: on mówi ?
+22:30 <@krzak> :)
+22:30 <@krzak> oni
+22:30 <@ciesiel> you talking to me? :)
+22:30 <@krzak> oni
+22:30 <@mmazur> Zdarza mu się.
+22:30 <@mmazur> im
+22:31 <@krzak> oni qubosh mowią ?
+22:31 <@agaran> mmazur: sporadycznie
+22:31 <@mmazur> Ich reprezentantowi.
+22:31 <@krzak> ONI
+22:31 <@ciesiel> klaster nie mówi
+%
+#pld
+16:30 <@djurban> borze myslalem ze jestem na drugach
+[...]
+16:37 <@ankry_> djurban: nie wzywaj BOR-u nadaremno ;)
+16:37 <@djurban> ankry_, hehe :)
+%
+18:53 <@djurban> Swiat jest piekny jak gausus.
+%
+pld-discuss-pl:
+
+Paweł Sikora:
+> "I przyszedł Surmacz do ludu swego i rzekł: Joł, ludu! A lud zarył
+> paszczękami w ziemię, oddając pokłon czci pełen. Rzekł tedy Surmacz do
+> ludu swego: Ludu! A lud, piasek z gąb wypluwszy, zapodał chórem:
+> Słuchamy Cię, o Panie! Surmacz rzekł na to: Ludu! Kuźwa, źle na posty
+> odpowiadacie! Lud: Powiedz nam tedy, jak odpowiadać mamy. Surmacz z
+> miłością odparł: Ludu! Kurna żesz mać, tnijcie cytaty i pod niemi
+> odpowiadajcie, bo dłużej tego bajzlu nie zniese!"
+>
+> Oto Słowo Surmaczowe, niechaj się wypełnia ;P
+
+Paweł Gołaszewski:
+"...a jam to wypluwszy piach z ust po tragicznym wypadku zarycia zębami w
+ziemię, śmiechem i spadnięciem z podparcia fotela, siedzeniem będącym,
+ledwiem na nie się spowrotem się wdrapał, by słowa te napisać"
+%
+[19:58.32] <@havner> Averne: nieeee
+[19:58.45] <@havner> Averne: niech chociaz raz pld bedzie dla ludzi
+[19:58.49] <@havner> bez pldkurwy
+[19:58.54] <@havner> bez klnacych fortunek
+[19:58.58] <@havner> BEZ porngeta
+[19:59.04] <@havner> z tego ludzie >60 korzystaja
+[19:59.04] <@agaran> ROTFL
+[19:59.20] <@havner> agaran: naprawde, mam czlowieka >60 z USA, ktory z live korzysta
+[19:59.26] <@Averne> rotfl :D
+[19:59.28] <@agaran> havner: no dobrze dobrze ja nic nie mowie
+[19:59.31] <@Averne> ale pornget musi być!
+[19:59.35] <@agaran> ja poprostu płacze ze smiechu juz
+[19:59.37] <@Averne> to właśnie dla tych >60
+[19:59.47] <@havner> Averne: ale oni maja serce slabe
+[19:59.56] <@adamg> havner: to co, że po 60? viagra czyni cuda. wrzuć porn-geta
+%
+pld-devel-pl:
+
+havner:
+> 4. Instalor live na hdd. Skibi!!!!!!
+
+Karol Kreński:
+Trzymam kciuki, od dawna na to czekam. Nie dałoby się instalatora na hda
+też dorzucić? ;)
+%
+[13:57.08] <@Skobi> Averne: to co cie nieraz tak upija :) ?
+[13:58.46] <@Averne> Skobi: deweloperzy :)
+[13:59.16] <@Skobi> Averne: to co z nich spijasz ze cie to upija ;) ?
+[13:59.50] <@Averne> Skobi: pijemy piwo na metry
+[13:59.56] <@Averne> potem wracamy pijani do domu
+[13:59.59] <@Averne> i commitujemy
+[14:00.13] <@Averne> bluzgamy na innych
+[14:00.16] <@Averne> usuwamy pakiety z ftp
+[14:00.36] <@Skobi> :DDD
+[14:00.40] <@Averne> początkujemy flejmy na listach
+[14:00.52] <@Averne> a wiesz w czym jest największy problem?
+[14:01.34] <@krzak> w czym ?
+[14:01.47] <@Averne> w tym, że następnego dnia budzimy się z bólem głowy
+[14:01.53] <@Averne> i nie wiemy co ci ludzie od nas chcą
+%
+pld-devel-pl:
+
+Jarosław Kamper:
+
+>Krzysztof Królikowski wrote:
+>
+>>Jakub Piotr Cłapa napisał:
+>>
+>> Stąd moja propozycja jakiegoś Wiki (ciekawie byłoby, gdyby jego
+>> backendem był CVS albo SVN). Może być to PHP, może być WebWare (ten
+>> serwer aplikacji mi osobiście bardzo się podoba). Zope też by
+>> mogło być, ale wtedy musimy się liczyć z problemami hostingowymi.
+>
+> Hosting zapewnia Sergiusz przecież.  :)
+
+problemy również  ;)
+%
+[16:51.29] <@hurra_> patrys, reformy se rob na #pld.dc
+[16:52.39] <@patrys> hurra_: jakie reformy
+[16:52.52] <@patrys> reformy to takie gacie z pontonem
+%
+(hurra=djurban)
+16:56 <+CIA-1> djurban * fortunes-pl/ (pld pldhelp): - end with a % !
+16:57 <@Averne> djrzulf: ja zastałem bez
+%
+16:57 <@hurra_> Averne, spox
+16:57 <@Averne> djrzulf: to nie do ciebie kurwa.
+16:57 <@Averne> djrzulf: nie odbieraj.
+%
+pld-devel-pl:
+
+Witold Krecicki:
+
+Dnia środa 19 maj 2004 00:47, Bartosz Taudul napisał:
+> On Wed, May 19, 2004 at 12:42:41AM +0200, Arkadiusz Miskiewicz wrote:
+> > Można też nie kombinować na siłę i zostawić w FHS wraz z innymi
+> > katalogami. Na upartego to można zmienić s/FHS/cośinnego/ .spec.
+>
+> Chodzi mi tylko o to, że w / zaczyna mi się powoli robić śmietnik
+> i jeżeli się da, to można by ograniczyć liczbę niepotrzebnych
+> katalogów, możliwie do zera.
+rm -Rf / ?
+%
+pld-devel-pl:
+Kolejno: patrys, Paweł Sakowski, qboosh
+> > Ślicznie działa, stabilnie etc. Chodził na 2200 MHz ale zasilacz nie
+> > trzyma napięć stabilnie jak dam procesorowi ponad 1.7 V i czasem
+> > bluescreena dostawał. A athlonik z serii 308 (Throughbred).
+>   ^^^^^^^^^^^
+>
+> Z jakiego RPM-a to wziąłeś?
+xscreensaver? :)
+%
+[21:34.00] <@domelu> "Jestem Anonimowym Developerem i uzywam cvs ci pod wplywem alkoholu"
+%
+pld-discuss-pl:
+Piotr Szymański, Andrzej Krzysztofowicz, Maciek Pasternacki
+>> Ja lubie polski, szczegolnie poezje :)
+>
+> W koncu ktos to KDE musi tlumaczyc ... ;)
+
+Wierszem?
+%
+#plddc
+17:21 <@gozda> okej
+17:21 <@patrys> w tej chwili tylko ja z tego buduj doce
+17:22 <@gozda> Jak Ty to robisz?
+17:22 <@gozda> Wziales urlop?
+17:22 <@patrys> nie
+17:22 <@gozda> Twoj dzien ma 30 godzin?
+17:22 <@patrys> mv life > /dev/drzewo
+17:22 <@gozda> Jestes z rodziny qboosha?
+%
+> Module name:	cdg
+> Changes by:	saq	04/05/20 19:11:50
+>
+> Added files:
+> 	sergiusz_ban
+>
+> Log message:
+> - my tu takich nie chcemy
+A mówią, że ja ćpam.
+
+		-- djurban @ pld-discuss-pl
+%
+> Module name:	cdg
+> Changes by:	saq	04/05/20 19:11:50
+>
+> Added files:
+> 	sergiusz_ban
+>
+> Log message:
+> - my tu takich nie chcemy
+>
+> --- NEW FILE: sergiusz_ban ---
+> Czy uważasz, że Sergiuszowi Pawłowiczowi <ser@pld-linux.org> należy
+> odebrać prawo wysyłania wiadomości na listy pld-devel-pl oraz
+> pld-discuss-pl?
+
+Djurban, mamy go. To on ukradł Ci zioło.
+
+		-- adamg @ pld-discuss-pl
+%
+Module name:	cdg
+Changes by:	djurban	04/05/21 14:21:57
+
+Removed files:
+	sergiusz_ban
+
+Log message:
+- oddaj mi zioło
+%
+#plddc
+Rozmowa na temat niceshapera
+[11:16.16] <@Averne> PaSzCzUs: co to w ogóle robi?
+[11:16.24] <@PaSzCzUs> Averne : a wiesz co robi shaperd ?
+[11:16.44] <@Averne> PaSzCzUs: tak, wpierdala zasoby.
+[11:17.00] <@PaSzCzUs> no, to niceshaper robi to co shaperd tylko, ze nie wpierdziela wlasnie tylu zasobow :)
+%
+#pld
+17:49 < lipek> niby sniffit -s 10.2.0.2 powinien pokazywać mi cały ruch
+               wychodzący z tego ipka
+17:49 < lipek> ale kurde odpalam tam telnet albo przeglądarkę i nic się nie
+               pokazuje
+17:49 <@patrys> lipek: a ruch idzie przez ciebie?
+17:50 < lipek> patrys: a musi ?
+%
+#pld
+[16:11.05] <@Averne> I jeden szczegol wzrok moj przykul, gdzie moje rw, co za chuj?
+[16:11.13] <@Averne> a qboosh cedzil ostres slowa
+[16:11.46] <@Averne> od ktorych nagla wzbierala zlosc
+[16:12.04] <@Averne> i poczal w tobie gniew kielkowac
+[16:12.09] <@Averne> nie chce cdg, mam juz dosc
+[16:12.21] <@Averne> przezyj to sam....
+%
+#pld
+[13:52.58] <@patrys> havner: "PLD to ciekawa dystrybucja, jednal zawiodła mnie, na całej płycie nie ma ani słowa o powiększaniu penisa."
+%
+@ pld-users-pl:
+Kolejno: Marteen, Paweł Sikora:
+> W logach pojawiaja mi sie takie wpisy:
+>
+> host martian source <IP> for <IP>, dev eth0
+> host ll header: ff ff ff ff ff ff 00 30 da 03 46 28 08 06
+>
+> [...] Co z tym zrobic (praktycznie)?
+
+wlaczyc logowanie i dropowanie na firewall-u,
+przeanalizowac naglowek i isc do goscia z siekera przeciac kabel ;-)
+%
+Subject: Re: [pld-discuss-pl] [czemu pld?]
+From: Radoslaw Zielinski <radek@karnet.pl>
+To: pld-discuss-pl@pld-linux.org
+Date: 2004-05-31 13:26
+
+Krzysztof Królikowski <krzysiek@kobylkowska.net> [31-05-2004 08:11]:
+> W liście z czw, 27-05-2004, godz. 01:11 +0200, Sergiusz Pawlowicz
+> napisał:
+>> chciałbym zaprosić do odrobiny marketingu, a mianowicie
+>> napisania w krótkich zdaniach, które można będzie użyć
+>> podczas prezentacji, na temat: "czemu pld a nie inne distro".
+> PLD jest najprężniej rozwijającą się dystrybucją w Polsce (pokaż ranking
+
+Ściślej, jedyną w miarę prężnie rozwijającą się publiczną[1] dystrybucją
+w Polsce.
+
+[1] OpenBIZ też pewnie w miejscu nie stoi. :-p
+
+> CIA). Pełne wsparcie protokołu ipv6.
+
+Ale jeśli chcesz je wyłączyć, to licz się z problemami.
+
+> Doskonale przygotowany modularny __bezpieczny__ kernel.
+
+Nie licząc przypadków, w których nie działa.
+
+[...]
+> Elastyczność rc-scritps, a w nich wsparcie dla gprs, ppp
+
+Czasem trzeba sobie elastycznie pomagać killall przy stopowaniu usług
+(wczoraj miałem taką sytuację z Apache), ale to nie problem -- rc-scripts
+wymagają (pośrednio) pakietu psmisc.
+
+Tylko jak włączyć DMA dla napędu CD, skoro hdparm (/etc/sysconfig/hdparm)
+jest uruchamiany przed ładowaniem modułów z /etc/modules (zawierającego
+ide-cd)...
+Ale rc.local to też elastyczność.
+
+> Doskonała modularność pakietów.
+> Instalujemy tylko to co jest nam naprawdę potrzebne.
+
+  # ps ax|grep -v grep|grep arts|wc -l
+        0
+  # rpm -e arts --test
+  błąd: Niespełnione zależności:
+          libartsc.so.0 jest wymagany przez (zainstalowany) mplayer-1.0-0.pre4.2
+          arts jest wymagany przez (zainstalowany) mplayer-1.0-0.pre4.2
+
+Hmm, ale mplayer *jest* mi potrzebny.
+Ech, nieważne.
+
+> Daje nam to pełną swobodę w dostosowywaniu systemu do własnych potrzeb.
+
+Pod warunkiem budowania pakietów samemu.
+
+> Doskonały manager pakietów poldek, który doskonale wyręcza nas podczas
+> aktualizacji pakietów.
+
+No i ma dokumentację, zawierającą opis opcji --nodeps i --force.
+
+> Znajomość potrzeb polskich użytkowników linuksa.
+
+porn-get.spec?
+
+> Zespół developerów PLD jest w zasięgu ręki, każdy z nich w ramach
+> wolnego czasu z chęcią służy pomocą.
+
+SOD#1.
+
+> Przystępny system wsparcia technicznego w postaci
+> dokumentacji, list dyskusyjnych oraz kanałów ircowych.
+
+...Nie wspominając o WWW...
+
+> Niepowtarzalny klimat PLD.
+
+Szczególnie, gdy na listach rozkręci się jakiś flamewar z wątkami
+personalnymi.
+
+> Każdy użytkonik systemu ma poczucie, że uczestniczy w swoistej
+> wspólnocie systemu.
+
+Cokolwiek to znaczy, pewnie ma związek z pojawiającymi się na listach
+pytaniami typu ,,u mnie nie działa, czy u kogoś jeszcze też nie?''.
+
+> Wychodzimy na przeciw potrzebom.
+               ^ (spacja nadmiarowa)
+Żeby nie było niedomówień: własnym. Ktoś pytał, dlaczego instalator
+kuleje?
+
+[...]
+> P.S. Mam nadzieję, że nie zabrzmiało to jak reklama proszku do prania :P
+
+W żadnym wypadku.
+
+> ------------------------------
+> Prosimy o dyskusje na poziomie
+
+bp,nmsp...
+
+--
+Radosław Zieliński <radek@karnet.pl>
+%
+http://www.lesznosystem.desk.pl/linux/dystrybucje.php
+Polish Linux Distribution
+PLD jest to dystryucja narazie w fazie tworzenia. Posiada już własny instalator. (thnx Ale_OKS)
+Ma to być bardzo łatwa w użytkowaniu dystrybucja.
+Mało ludzi korzysta z tej dystrybucji.
+Strona: www.pld.org.pl
+%
+pld-devel-pl
+(kolejno: deejay, mkochano, wieszczu, mkochano,
+          ankry, ciesiel, krzak)
+>>>>>>> Prędzej AC zostanie wydane niż mkochano wyśle skrót hasła...
+>>>>>> Czy to wyzwanie?  ;-P
+>>>>> Czysta prawda... ;]
+>>>> A więc to oznacza że mam wpływ na datę wydania AC. HA!
+>>
+>> A moze zrobimy obstawianie zakladow, dlaczego mkochano nie chce
+>> podeslac skrotu hasla ?
+>>
+>> Ja obstawiam, ze podjal jakies zobowiazania odnosnie nierozwijania
+>> projektow opensource. Tylko wtedy jego latki, nawet wlaczane przez
+>> innych, maja watpliwa wartosc w sensie prawnym.
+>
+> iii... imho nie ma co szukać filozofii w budowie cepa :) po
+> prostu jest uparty jak osioł ze shreka :)
+>
+i stanowi nasz lokalny folklor, niedlugo bedzie go mozna oglądać
+w muzeum.
+%
+#pld
+08:32 <@evilelio> Trzeci
+08:32 <@domelu> evilelio: napisz "pierwszy" ;)
+08:32 <@ciesiel> pewnie
+08:32 <@ciesiel> co szkodzi?
+08:32 <@evilelio> No bo nie jestem pierwszy :P
+08:33 <@domelu> ok to ja napisze,
+08:33 <@domelu> pierwszy
+08:33 <@pvek> kłamstwo
+08:33 <@domelu> pierwszy
+08:33 <@pvek> kłamstwo
+08:33 <@ciesiel> eeee... też mi problem :)
+08:33 <@domelu> *g* :>
+%
+pld-discuss-pl
+Kolejno: djurban, undefined, djurban, krzak
+> > > i tak wszyscy beda wiedziec ze pld jest do dupy bo nawet swojego www nie
+> > > hostuje. (albo tez admin tego www... coz... ;)
+> > I tak mam dłuższego.
+> i co, zawiązujesz na słupełek?
+opiera o słupek, do którego na supełek przywiązana jest owieczka.
+%
+[23:18.10] :: pluto_ changed the topic of #pld to: czy ktos wie, gdzie na
+          enterprise sa kible?, tylko nie mowcie, ze sraja pod prysznicem na
+          prawo od wejscia.
+%
+$ man kłonvert
+
+kłonvert(1)
+
+       NAME    kłonvert - convert kloczkish into polish
+%
+01:15:31 <+Infecto> hunter: co to ten pooling ?
+01:15:52 <@hunter> pool as opposite to push
+01:16:24 <+Infecto> no dobra
+01:16:26 <@hunter> można pchać a można pociągać
+01:16:31 <@hunter> widszisz
+01:16:36 <@hunter> jak masz kobietę pod ręką
+01:16:40 <+Infecto> nadal nie kumam :)
+01:16:46 <@hunter> to albo ona Ci mówi
+01:16:52 <@hunter> "wiesz, pocałowałbyś mnie"
+01:17:32 <@hunter> albo co 5 minut jak nie gadasz na ircu albo zapodałeś rpmbuild -ba kernel.spec czy inszej ciekawej rzeczy
+                   nei masz do roboty to próbujesz ją całować
+01:17:56  * hunter na prawdę nie lubi być w fortunkach jak baset :)
+01:18:11 <@hunter> Infecto: pojął?
+%
+											  =======
+Akronim stworzony na potrzeby ,,dyskusji'' w ramach PLD:
+
+IMSO - moim chorym zdaniem / in my sick opinion /
+%
+#pld
+13:14 -!- Niedakh changed the topic of #pld to: Bliżej.
+13:18 -!- adasi changed the topic of #pld to: Bliżej. Mocniej.
+13:19 -!- adamg_ changed the topic of #pld to: Bliżej. Mocniej. PLD.
+%
+#plddc
+[16:02] <@domelu> patrys: w lilo szukalem ten opcji i nie znalazlem; fdisk w
+                  opcjach "extra functionality (experts only)" ma fix partition
+                  order i zamienil hda1 na hda2
+[16:02] <@domelu> / nic, tak sie tylko chwale ;P /
+[16:03] <@patrys> ;]
+[16:03] <@patrys> gratz w kazdym razie
+[16:07] <@domelu> dziekuje, to wiele dla mnie znaczy. nie byl bym tutaj gdyby
+                  nie patrys. dziekuje jemu i mojej rodzinie rowniez, dziekuje
+                  takze seloxowi, ktory mnie natchnal mentalnie na to dzielo...
+                  przepraszam za lzy, to wzruszenie
+%
+[02:57.41] <@havner> a kloczkow nie zapomnial?
+[02:57.46] <@hunter> ne
+[02:57.53] <@havner> szoda
+[02:57.56] <@havner> szkoda
+[02:57.59] <@hunter> no co ja poradzę? poldomierzemi byli
+[02:58.01] <@hunter> nie skodą.
+[02:58.03] <@havner> borze
+[02:58.04] <@havner> ide spac
+%
+[01:30.04] <@havner> trofl
+[01:30.05] <@havner> rotfl
+[01:30.07] <@havner> trol
+[01:30.09] <@havner> hehe
+[01:30.13] <@havner> trefl
+[01:30.14] <@havner> trufla
+%
+<mmazur> No właśnie o to chodzi. Normalni ludzie się interesują czymś poza
+         komputerami, nie?
+<agaran> mmazur: Ty jestes normalny?
+<ankry>  agaran: chce uchodzic za normalnego, to sobie wymysla.
+<agaran> ankry: no tak, masz absolutna racje:-)
+<mmazur> Ej wy. Normalni ludzie mają żony, rodziny i takie tam pierdoły. Dla
+         tego chyba warto się trochę wysilić, nie?
+<agaran> nieee?
+<mmazur> Taaak. Bo jeśli nie, to co ja niby mam robić w życiu? Klepać w
+         klawiaturę? To się zaczyna robić nudne.
+<agaran> patrz np na luzika ;-) ma żone i klepie;-D
+<mmazur> No tak, ale przy nienormalności znalezienie żony jest mocno
+         utrudnione. Więc trochę trzeba się wysilić i spróbować zasymilować w
+         pewnych kwestiach.
+<mmazur> Już i tak jestem upośledzony, że na imprezach nie pijam aloholu.
+<mmazur> Jajcuś ma nienormalną żonę, która używa jabbera i go rozwala w fpp.
+         Ale to też nie można liczyć na to, że się każdemu cud przytrafi.
+%
+<mmazur> Idę sobie po schodach, patrzę, czy kogoś znam, nikogo...
+         a tu nagle jakaś kobieta do mnie rękę wyciąga... JEZUSMARIAJAJCUŚ!
+%
+<@speedo>  Timing buffered disk reads:   42 MB in  3.04 seconds =  13.83 MB/sec
+<@speedo> to chyba wiecje niz 1.2 mb po sieci
+<@speedo>  Timing buffer-cache reads:   592 MB in  2.01 seconds = 295.16 MB/sec
+<@speedo> to nice jak na laptopa ?
+<@dobrydj> speedo: to jest odczyt
+<@speedo> dobrydj: a zapis gdzie tu jest bo nie widze
+<@dobrydj> speedo: time cat /dev/urandom > /dev/hda
+<@dobrydj> pod rootem
+<@speedo> przez jaki czas ?
+<@dobrydj> poczekaj aż skończy
+<@dobrydj> a potem podziel wielkość dysku w MB przez czas w sek
+<@dobrydj> i będziesz miał szybkość zapisu
+<@speedo> ok
+
+... następnego dnia
+
+<@speedo> pb: nie ma x-ow
+<@speedo> jeszcze
+<@speedo> dysk mi rano padl
+<@speedo> i stawiam all od nowa
+<@pb> zrobiłeś cat /dev/urandom ?
+<@speedo> osz qrde
+<@speedo> tak
+<@speedo> ale na 15 sec
+<@speedo> :>
+<@speedo> to od tego sie moglo zdupczyc ???
+<@speedo> zamazalo mi tablice partycji
+<@speedo> mogło sie to od tego zdupczyc ?
+<@pb> rotfl
+<@speedo> pb: mogło ???
+<@pb> lol
+%
+#pld
+<MarcinDolinski> http://djurban.averne.org/~djurban/gole_fotki/
+<uop> (djurban@IN) raczej tmp/porn
+<uop> (djurban@IN) ale apache i tak mam wylacozny
+<wpk> refused :P
+<MarcinDolinski> włącz apacza
+<uop> (evilwaszi@IN) djurban.averne.org + gole_fotki ? to o ni razem pozuja :>
+<uop> (mmazur@IN) Uhm.
+<uop> (mmazur@IN) Wrocławiaki.
+<uop> (djurban@IN) Die.
+<uop> (djurban@IN) jak ktos to sfortunkuje, to ja nie maintanuje fortunek.
+%
+pld-discuss-pl
+
+From: Adam Gołębiowski
+
+On Mon, Sep 13, 2004 at 09:35:22PM +0200, Michal Kochanowicz wrote:
+> On Mon, Sep 13, 2004 at 04:11:57PM +0200, Marcin Krzyzanowski wrote:
+> > po co sie ograniczać, uczmy sie esperanto... bedzie sprawiedliwie :)
+> A nie mandaryńskiego?
+Nie, mandrake promować nie będziemy.
+%
+pld-devel-pl
+
+From: havner
+
+On Sun, Sep 19, 2004 at 11:00:17AM +0200, PLD Linux wrote:
+> na pld-linux.org nowosci brak, jakis news raz na miesiac teraz strona nawet
+> nie aktywna... co tym razem???
+(...)
+
+I jeszcze masz czelnosc nas pouczac piszac outlookiem. No cyrk na
+kolkach,
+%
+#pld
+<djurban> dajcie klucz do winxp
+<djurban> dajcie klucz do winxp
+<djurban> dajcie klucz do winxp
+<wolf> djurban: O--m
+<djurban> ?
+<wolf> klucz chciales
+<wolf> to masz
+(...)
+<djurban> wy sie smiejecie
+<djurban> a ja sie nabralem
+<djurban> i powiedzialem qmplowi
+<djurban> zeby w kazde 5 pol seriala
+<djurban> wpisal O---m
+<djurban> I TO NIE JEST  SMIESZNE
+%
+Aredridel on jabber:
+
+PLD:     poldek -i postgresql; /etc/rc.d/init.d/postgresql start
+
+Windows: install patches, reboot, install patches, reboot, install patches,
+         reboot, install patches, reboot, install sql server, reboot,
+         install sql server SP3, reboot, install .net framework, reboot,
+         install web frontend, reboot, tweak registry, start service, tweak
+         registry, try again. Reboot.
+         Install patches. Reboot.
+
+I think I prefer PLD.
+%
+#pld
+[17:11.07] < SkIbI> chodzi oto ze masz fjke wodna
+[17:11.13] < SkIbI> oraz przycisk turbo
+[17:11.25] < SkIbI> czyli dzurke ktora zakrywasz by sie w fajce dymek zbieral
+[17:11.40] < SkIbI> odtykasz turbo i dymek leci pelna para do pluc
+[17:11.50] < SkIbI> averne to jest zabujcze
+[17:11.57] < SkIbI> 2 bongomachy i masz bombe
+[17:12.07] < SkIbI> nie preferuje palenia ani ineg cpania
+[17:12.21] < SkIbI> to tak na moje usprawiedliwienie
+%
+> > > > > > > Witam wszystkich. Właśnie zapisałem się na listę i chciałbym
+> > > > > > > się przedstawić - mam na imię Jacek.
+> > > > > >
+> > > > > > Mam na imię Paweł. Dziadka z przedszkola wyrzucili za wysyłanie
+> > > > > > takiego spamu....
+> > > > >
+> > > > > Mlodego dziadka masz :>
+> > > >
+> > > > Gdzie tam - setki dobiega :]
+> > >
+> > > Powiedzial w przedszkolu 'Dziendobly, naziwam sie lobelt' i go
+> > > wywalili?
+> >
+> > Nieee - maila napisał na kartce i rozesłał wszystkim w mieście :P
+>
+> Zdolny był jak w przedszkolu umiał pisać.
+ej no, my w zerowce juz 18 literek sie uczylismy :P
+
+W kolejności: Jacek Herold, Paweł Gołaszewski, Witold Kręcicki, Paweł Gołaszewski, Witold Kręcicki,
+Paweł Gołaszewski, Marcin Doliński, Witold Kręcicki @ pld-devel-pl
+%
+[10:40.28] <+wpk> gausus: mnie mogles zatrudnic :P
+[10:41.12] < gausus> wpk: nie. nie moglem - ciebie lubie
+%
+Marcin Doliński:
+  [SPAM] a ja mam rudego kota
+  http://averne.org/koty/
+Piotr Szymański:
+  ODDAJ FELIKSA
+Jakub Piotr Cłapa:
+  [SPAM] I nawet nie tylko rudego... Oba ładne! :D
+Michał Kochanowicz:
+  <mode name="flame">
+  Wcale nie jest rudy, tylko beżowy!
+  </mode>
+maHo:
+  no tak, najpierw objazd "ludzia" za to że jego przywitanie nic
+  merytorycznego nie wniosło, a potem bardzo merytorycznie dyskusja na
+  temat koloru kota :):)
+Michał Kochanowicz:
+  No i teraz już powinien rozumieć dlaczego nie powinien był się witać :-P
+Adam Gołębiowski:
+  Obaj jesteście w błędzie, albo nie jesteście mężczyznami. Dla
+  Prawdziwego Mężczyzny [tm] istnieje tylko 16 kolorów. Rudy to określenie
+  charkateru - "Rude to wredne". Beż nawet nie wiem co znaczy, jakiś
+  nowotwór, bo komuś się alt wcisnął przy wstukiwaniu "z" w słowie "bez".
+Krzysztof Krej:
+  a czerwone to zboczone?
+Bartosz Taudul:
+  Czerwone to komuchy.
+Marcin Wrochniak:
+  A ja mam 2 psy.
+
+Dzieła wybrane z paru maili z serii POWITANIE (wątek rudobeżowego kota;)) @ pld-devel-pl
+%
+#pld
+<mmazur> ankry_, pytanie jaki sens jest wprowadzać
+         ftp.*arch*.linia.pld-linux.org, jeśli i tak nie umiemy obsługiwać
+         ftpów na paru maszynach.
+<mmazur> ankry, imho wystarczy linia. Dodawanie do tego jeszcze arch, to
+         już overkill
+<djurban> wlasnie
+<djurban> widziales kiedys 18.blondynki.grupowo.ero.pl ?
+%
+#plddc
+[19:09:20] <@MarcinDolinski> ustaw sobie proxy w exploderze
+[19:09:23] <@MarcinDolinski> i pójdzie  po squidzie
+[19:10:31] < Aniolek> MarcinDolinski: jak ja mam przezroczysty proxy to jaki adres dac w przegladarce
+%
+# Marcin Bohosiewicz @ pld-users.pl
+Ja mam PLD na w sumie ok. 50 maszynach jak sie okazuje.
+Ale co to ma do poplarnosci PLD - nic. Bo PLD jest narzedziem.
+I tak jak dla klienta nie ma znaczenia czy jak zamowi wywiercenie
+dziury w scianie to przyjdzie czlowiek z Boshem, Celma czy Black &
+Deckerem, tak jak zamowi serwer LAN z okreslonymi uslugami, to dla
+niego powinno byc obojetne czy w serwerze siedzi PLD, RH, Slack,
+Solaris, Win2003 a moze stado Murzynow podajacych dyskietki...
+%
+#pld
+<abw> (waszi_@IN) w emacsie sie czuje jakbym w mortal kombat gral
+<abw> (waszi_@IN) tylko combosy trudniejsze
+%
+#pld-devel-pl
+(kolejno: gotar, undefine, gotar, undefine)
+
+> > > Analfabetyzm wtórny, biedactwo... To powtórzę: do kopii zapasowych też
+> > > się nie zagląda, dopóki nie są potrzebne. Do tej poczty nie będę
+> > chcesz powiedziec ze pld automatycznie tworzy kopie zapasowe calego
+> > systemu, na dodatek bez zadnego rotowania? Takie "trzymane wiecznie"?
+>
+> Przeczytaj wątek na trzeźwo...
+nie marudź, polewaj ;)
+%
+#pld
+(w kontekście opracowanego przez Qrczaka języka programowania)
+16:28:05 <+wpk> Co to za kurnik w ktorym kurczak rzadzi kogutem...
+%
+#pld
+19:07 -!- Netsplit warszawa.irc.pl <-> hubc.irc.pl quits: @kolodko, +oki, @BartOwl_, @giejot, @waszi, +migo, +bosman_, +Krzychu,
+          @Socrat, @Niedakh,  (+35 more, use /NETSPLIT to show all of them)
+19:08 <@djurban> heh
+19:12 -!- Netsplit over, joins: @gozda, @PaSzCzUs, @pawelb, +abw, +Jasw, slaw, @Hawq, @z0c, @kolodko, +oki (+17 more)
+19:12 -!- Netsplit over, joins: @evilelio, choman, @pvek, @mmazur, @wojrus, @tomza, @y0shi, @waszi, @Socrat, @Blaass (+8 more)
+19:12 <@evilelio> Już więcej nie będę.
+19:12 <+abw> *** Part domelu (domelu@domelu.pld-linux) on FreeNode
+19:12 <@mmazur> :)
+19:12 <@evilelio> :>
+19:12 <@evilelio> Idealna fortunka ;>
+%
+#pld
+04:37 <@leafnode> pierwszy!
+04:37 <@leafnode> kurna, za wcześnie budzik nastawiłem :/
+04:37 <@leafnode> wracam o 6 powiedzieć 'pierwszy'
+%
+#havner@pld-devel-pl
+To moze zrobmy cos w stylu dpkg-reconfigure (czy jak to sie zwalo, to
+czego sie mmazur przestraszyl)
+
+Dzien dobry cioto, debilu i lame-adminie, tu tmpwatch.
+Czy zyczysz sobie laskawie abym usuwal poczte z kwarantanny po jakims
+czasie?
+
+tak/nie
+
+A wiec niech tak bedzie moj Panie, do zobaczenia przy nastepnym
+upgradzie.
+
+;-)))
+%
+#pld
+<@gausus> PHP ERROR: Incompatible version: Version 5.0.2 of PHP is too
+          old. Please upgrade to version 4.0.4 or later
+<@gausus> ???
+<@mmazur> Hehehe.
+%
+#Mateusz Kamiński@pld-devel-pl
+Hejka,
+przeglądałem dzisiaj pakiety i znalazłem literówki w description(pl)
+od vtk-pld-0.1-1:
+%description -l pl
+TTeraz ikidy kloczka nie ma już w PLD Linux Distribution,m amy pakuet
+zastępujący go - Wirtualnego Tomasza Kłoczko.
+%
+# Mariusz Mazur do Michal Moskal @pld-devel-pl
+> Ja?! Ja?!!! Ja nie zrobię!?!!
+Ty? Ty bez automatycznego zarządzania pamięcią, taaaaaaakiej biblioteki
+standardowej, obiektów i tych wszystkich dotNETowych zabawek, to byś hello
+worlda nie napisał!
+%
+On Fri, Nov 12, 2004 at 09:02:27PM +0100, Jarosław Kamper wrote:
+[...]
+> Perl ssie na słabych maszynach.
+
+Kompilatory też! Piszmy w kodzie maszynowym!
+
+		Jarosław Kamper & Michał Moskal @ pld-devel-pl
+%
+On Fri, Nov 12, 2004 at 10:31:48PM +0100, Lukasz [DeeJay1] Jernas wrote:
+> Niech się jaka śmieciarka zlituje i zakończy
+> ten wątek zanim pożar ogarnie go do reszty ;)
+Pędzi pędzi śmieciareczka
+Każdy wie to już od dziecka
+...
+
+:>
+
+		Łukasz Jernaś & Bartosz Taudul @ pld-devel-pl
+%
+#pld
+23:47 <@domelu> djurban: a wlasnie, ze napalm leci w twoja strone
+23:47 <@domelu> tj a wlasnie, ze nie, jest prosty
+23:47  * djurban zestrzelil napalm jak sie strzela do kota
+23:48  * wpk by chcial napalm :> [FN]
+23:49 <@domelu> wpk: ja w hurcie moge ci sprzedac
+23:49 < wpk> domelu: 40litrow? [FN]
+23:50 <@domelu> wpk: tyle to dziennie moja armia rowerzystow wykorzystuje
+23:51 <@domelu> a zapas mam jeszcze na 3 miesiace
+23:51 < wpk> domelu: mi to do jednej akcji trza :> [FN]
+23:51 < wpk> domelu: z jakim zageszczaczem masz? i samozapalajace? [FN]
+23:52 <@domelu> wpk: to moze prosciej bedzie wskazac miejsce?
+23:52 <@domelu> wpk: tak, i pelna automatyka
+23:52 < wpk> domelu: a jakie parametry tego napalmu? [FN]
+23:52 <@djurban> zajebiscie skuteczny :)
+23:52 <@domelu> yyy, najlepsze ;P
+23:52 <@domelu> o tak
+23:52 <@domelu> takie jak djurban mowi
+23:52 < wpk> domelu: dziecko, ty nawet nie wiesz co to napalm :P [FN]
+23:53 <@domelu> wpk: panie dorosly :)
+23:53 < wpk> domelu: no, bez przesady [FN]
+23:53 < wpk> domelu: Panie z wielkiej litery, nie poblazaj sobie [FN]
+23:54 <@adamg> wpk === Wielki Pan Kloczek?
+%
+#pld
+[20:56:01] <@AreZ> ;]
+[20:56:17] <@AreZ> bsd korzysta z jajka z kernel.org czy ma wlasne ?
+%
+#pld
+[23:07:40] <@Aniolek> havner: jest szansa ze bedzie jakies 2.6.x dzialajace w pelni?
+[23:07:51] <@havner> Aniolek: zly adresat pytania
+[23:08:00] <@Aniolek> cieciwa?
+[23:08:05] <@havner> nie
+[23:08:12] <@Aniolek> a kto?
+[23:08:23] <@Aniolek> kernel.org?
+[23:08:25] <@havner> pawel sikora/linus torvalds
+[23:08:47] <@Aniolek> jak mozna ich zlapac?
+[23:08:54] <@havner> rotfl
+[23:09:05] <@havner> pluto@pld-linux.org
+[23:09:13] <@havner> linus@osdl.org
+[23:09:22] <@Aniolek> a cieciwa juz sie nie zajmuje?
+[23:09:39] <@havner> Aniolek: mam wrazenie ze gadasz jakbys nie wiedzial kto to linus
+[23:09:52] <@Aniolek> no wlasnie nie
+%
+#pld
+16:50 <@PaSzCzUs> CIA-8: czy w planach jest sprawienie, aby HTB dzialalo w 100% sprawnie na LINUX_2_6_8 ?
+17:03 <@djurban> PaSzCzUs, nie denerwuj go
+17:03 <@djurban> PaSzCzUs, znowu sie poplacze nasz bot
+17:03 <@djurban> PaSzCzUs, i bedziesz bulil na psychologa
+17:04 <@domelu> ;))))
+17:07 <@djurban> omg ale jestem glupi
+%
+#pld
+[21:34:29]  * gozda sie wlasnie dowiedzial ze Biblie pisano w vim'ie
+%
+#pld
+[22:43:51] < radosna> fak : buuu
+[22:44:10] < pawelb> radosna: co popsułaś?
+[22:44:25] < radosna> mam jogurt na klawiaturze i nie mam czekolady:/
+[22:44:55] <@havner> jogurt na klawiaturze?
+[22:44:58] <@havner> intrygujace
+[22:45:14] < radosna> z braku czekolady wzięłam jogurt i chyba do buzi nie trafiłam
+%
+#pld
+[10:51:07] < giejot> |cosm2:/var/log/apache-ssl# vim /etc/cron.daily/logrotate
+[10:51:08] < giejot> |Vim: Caught deadly signal BUS
+[10:51:09] < giejot> |Vim: Finished.
+[10:51:10] < giejot> |Bus error
+[10:51:12] < giejot> ale o co chodzi
+[10:51:15] < giejot> czyzby XFS mi dawal w dupe znowu
+[10:51:27] < glen> you missed the bus
+[10:51:31] < glen> take tram
+%
+[pine jest]
+> delikatnie mówiąc "dość" popularny...a poza tym dobrze ktoś napisał że
+> Pine-Less-Distribution mamy jak w banku jak wywalimy pine'a ;)
+
+Powiemy, że SquirrelMail był głodny...
+
+			- Jan Meizer, Radosław Zieliński @ pld-devel-pl
+%
+# Paweł Żurowski @pld-devel-pl
+problemu nie diagnozowalem zbytnio z powodu braku czasu na diagnozowanie
+oraz z powodu braku czasu na nauczenie sie metod diagnozowania...
+%
+# Przemysław Stanisław Knycz @pld-devel-pl
+Debian naprawdę jest nudny - wszystko w nim działa bez zarzutu, PLD to
+taka dystrybucja z nutką dekadencji. :)
+%
+#pld
+[02:38:04] <ser> commity robią leszcze i frajerzy :=)
+[02:38:12] <ser> jesteście moimi robocikami
+[02:38:38] <ser> ale sterowanie zawodzi, jestem ciągle początkującym zarządcą
+[02:38:47] <ser> spoko, ale się uczę
+%
+Ale Ty zapominasz, że PLD to taka Sarmacka Dystrybucja, "Dla szlachty, przez
+szlachtę" i żaden tam chłop, czy żyd nie powinien jej używać (nie mowiąć już
+o jakiś pludrakach co to jajca na wieszchu noszą :). I tak naprawdę celowo
+dokumentacja jest taka. To I test, jak umiesz sobie poradzić, to może jesteś
+godny jej używania.
+
+			- Wawrzyniec Niewodniczański @ pld-users-pl
+%
+#pld
+[20:53:13] <@ciesiel> speca od php poszukje :)
+[20:53:32] <@gausus> php.spec ?
+[20:53:44] <@Hawq> ROTFL [FN]
+[20:53:45] <@ciesiel> nie specjaliste :)
+[20:54:26] < e-krolik> LOL [FN]
+[20:54:58] <@adamg> ja bym pomógł, ale gausus pewnie by wolał, abym się uczył :)
+[20:55:07] <@gausus> adamg: ucz sie pomagac ludziom
+[20:55:11] <@gausus> adamg: madry juz nie bedziesz
+[20:55:15] <@gausus> to chociaz przydatny moze
+[20:55:16] < e-krolik> :P [FN]
+%
+#pld
+10:42:33 < Piotrek_W> djrzulf: wlasnie siedze sobie z ekipa i rozmawiamy o
+                      internecie :) wiec mozna by bylo pokazac cos w Slusznej
+                      Sprawie [IN]
+10:42:47 <+djrzulf> Jaką ekpią ?
+10:42:48 <+djrzulf> [;
+10:42:50 <+djrzulf> Jestem w TV ?
+10:42:57 < Piotrek_W> no program to TVP :) [IN]
+10:43:03 < Piotrek_W> mozesz byc :) [IN]
+10:43:05 <+djrzulf> Chciałbym pozdrowić Babcię, Mamę, Tatę, siostrę, szfagra i
+                    moją kobietę>
+10:43:05 <+djrzulf> ;]
+10:43:13 < Piotrek_W> tylko musimy przestac rozmawiac o TV a zaczac o PLD :P
+                      [IN]
+10:43:21 < Piotrek_W> oki :? [IN]
+10:43:24 <+djrzulf> To co chcesz wiedzieć o pld ? :>
+10:43:35 < Piotrek_W> nie no co Ty nie na zywo idzie:) [IN]
+10:43:37 <+djrzulf> Generalnie jest to klub wzanejmnej adoracji.
+10:43:42 < Piotrek_W> hmm wiesz, ja generalnie nie : [IN]
+10:43:52 < Piotrek_W> a to to ja wiem:) [IN]
+10:43:57 <+djrzulf> havner jest głównym gejem projektu, dał dupy avernemu i
+                    teraz powstało livecd ;->
+10:44:25 < Piotrek_W> CHLOPIE TO SIE NIE NADAJE  [IN]
+10:44:26 < Piotrek_W> :P [IN]
+10:44:40 < Piotrek_W> wiec nie bedzie Cie w tv [IN]
+10:44:41 < Piotrek_W> :P [IN]
+10:44:46 < Piotrek_W> chyba ze sie poprawisz :P [IN]
+10:45:27 < PaSzCzUs> :) [IN]
+10:45:47 < PaSzCzUs> Piotrek_W: Ale rozmowa ma byc przez IRC`a? Czy chodzi o
+                     rozmowe na zywo? [IN]
+10:45:52 < PaSzCzUs> Piotrek_W: wsensie w studio? [IN]
+10:46:24 < Piotrek_W> na irc [IN]
+10:46:33 < PaSzCzUs> hmm, troche malo wiarygodne :> [IN]
+10:46:37 < PaSzCzUs> no ale co chcesz wiedziec? [IN]
+10:47:00 < Piotrek_W> heh teraz to troche pozno [IN]
+10:47:20 < PaSzCzUs> Piotrek_W: odezwalem sie 6 minut po tym jak spytales, to
+                     tak pozno? :> [IN]
+10:47:23 < Piotrek_W> bo powstala zmiana koncepcji po info o "glownym geju
+                      projektu" [IN]
+10:47:33 < Piotrek_W> i chlopaki zwineli kamerke juz [IN]
+%
+14:15 <@djurban> ankry, Wesolych Swiat :)
+14:16 <@ankry> Juz sie nie pokazesz?
+14:16 <@djurban> moze tak moze nie :)
+14:16 <@djurban> zalezy czy opanuje pociag do kde 3.3.90
+14:16 <@mmazur> Zbok.
+14:17 <@ankry> Terrorysta.
+14:17 <@mmazur> rotfl
+%
+> a może profilaktycznie już zadziałać i wywalić mmazura z cdg? ;)
+> prowodyrom i parówkowym skrytożercom mówimi nie... :)
+Idz precz debianowcze od Wladimira Illicza Mmazura Ojca Pakietów tyleż zacnego
+co szlachetnego. On to w początkowych latach swoich studiów znosił
+bezmyślność pseudohakierow, nieustannie i z niewypowiedzaną pasją krzewil
+wsrod mlodych adeptow wiedzy znajomosc linuksa, walczyl z ignorancja
+systemowa i rozwazal palace problemy komputerowego swiata.
+
+PS. Twoj gorion uzywalby debiana.
+
+	-- Marek Ciesielski & Piotr Szymański @ pld-discuss-pl
+%
+#pld
+09:28:07 <@havner> djrzulf: czego geju?
+09:29:31 < gausus> havner: wez se daj na wstrzymanie co ? [IN]
+09:29:38 < gausus> havner: djrzulf nie jest zadnym gejem [IN]
+09:29:49 < gausus> havner: geje maja drogie garnitury i uzywaja perfum [IN]
+09:29:57 < gausus> havner: djrzulf jest zwyczajnym pedalem :) [IN]
+%
+> ps. wiem, że ten mail nosi pewne cechy spamu, ale w tym dniu chyba mi
+> wybaczycie.
+
+W *tym* dniu mamy wyjątkową ochotę wpierdolić komuś kto się nawinie i
+rzygać nam już się chce od "wesołych świąt", choinek i całego tego
+cyrku.
+
+	-- Krystian T & Michał Kochanowicz @ pld-devel-pl
+%
+16:59 <@leafnode> djurban, adamg: ech, profani. Niedługo będziecie opowiadać
+                  'historie biblijne' o tym jak to Adam poszedł do Boga prosić o
+                  RW do CVSu
+17:00 <@leafnode> albo że 'Drzewo Wiedzy' to były tak na prawdę manuale.
+%
+#pld
+(w trakcie rozmowy o fundacji PLD)
+20:22 < arekm> Niedakh: kiedy Ty w koncu dorosniesz? [FN]
+20:22 <@Niedakh> jak zajdzie taka formalna potrzeba
+20:23 < arekm> już dawno zaszła [FN]
+20:25 <@ciesiel> eee... niech nie dorasta :)
+20:25 <@ciesiel> wieczny piotruś pan pld :)
+20:26 <@Niedakh> nudzicie. widze wielkie naglowki w gazetach - infantylny niedorozwiniety narkoman blokuje samoorganizowanie sie PLD
+20:26 <@mmazur> Wieczny piotruś pan pld jest zbędny, bo jak dostajemy nowych deweloperów, to oni przeważnie są po zaciągu z liceumów.
+20:27  * mmazur taki przynajmniej był. Ale teraz już nie jestem z liceumu i się nie zaciągam.
+20:27 <@ciesiel> lepiej niech developują niż mają pić i ćpać :)
+20:27 <@mmazur> Tiaaa. PLDziany program resocjalizacji nieletnich.
+20:27 <@mmazur> "Bo twoje dziecko może skończyć tak jak gorion"
+%
+Thread:[Ogłoszenie] Pod opiekę weznę :-)
+> Nowicjuszy którzy mają/oczekują na RW mogę wziąć pod opiekę.
+> <:-)> Mile widziane kobiety :-P <\:-)>
+A co? skończyły się kozy? :)
+
+      -- Przemysław Stanisław Knycz and Marek Ciesielski
+         @ pld-discuss-pl
+%
+#pld
+20:00:22 (romke) domelu: no, teraz się tekst nie przykleja do ramki ;) [FN]
+20:00:59 <@domelu> romke: webmaster dzis wrocil z sylwestra, za jakis czas prowizorka zniknie ;)
+20:02:09 (romke) domelu: jjasne ;) [FN]
+20:02:21 (romke) prowizorka to najtrwalszy stan [FN]
+20:02:57 <@domelu> romke: on nie jest z PLD, jemu sie chce
+%
+> > Dobrze gada, załóżmy związek wyznaniowy - odpadają problemy z podatkami.
+> Moge byc biskupem ds. inkwizycji?
+
+A nie lepiej inkwizytorem do spraw biskupów?
+
+       -- Tomasz Pala, Piotr Szymański i Wawrzyniec Niewodniczański
+          @ pld-discuss-pl
+%
+#pld
+10:47:52 <+RMF> domelu: cos mi zarzyna ep
+10:49:28 < domelu> RMF: czemu mi to piszesz? [IN]
+10:50:27 <+RMF> domelu: bo za duzo ludzi 7thg oglada
+10:50:52 <+djrzulf> RMF: skasuj 7thguard.
+10:51:14 < ciesiel_> RMF: a ile 7ciec ma odwiedzin dziennie? [IN]
+10:51:18 < domelu> RMF: :) [IN]
+10:51:48 <+RMF> ciesiel_: za duzo.
+10:52:23 < ciesiel_> RMF: a nie umiesz liczyc? 1,2,duzo? :) [IN]
+%
+#pld
+12:44 <@lcamtuf> co to syn prezesa?
+12:44 <@lcamtuf> brzmi jak pseudonim honeja
+%
+#pld
+21:25  * Niedakh chce amd64
+21:25 <@giejot> SOA#1
+%
+#plddc
+[20:50] <@PawciooS> qrfa.. przez pomylke skasowalem sobie livecd
+[20:52] <@PawciooS> mowa o CD ofcourse
+%
+#pld
+15:43 <@jack_> http://[...]/ <- co zrobić, żeby dupa nie wchodziła na ziewa?
+%
+[02:09] <@PawciooS> patrys: jak sie zakłada brancha ?
+[02:09] <@patrys> PawciooS: cvs stand -RUNDER_TREE; cvs get BRANCH; cvs put on
+[02:10] <@PawciooS> patrys: -RUNDER_TREE <- taka nazwa ma być ??
+[02:10] <@patrys> tak
+[02:10] <@PawciooS> a nazwa speca ?
+[02:11] <@patrys> zaraz tylko fortunke zapisze
+[02:11] <@PawciooS> patrys: do fortunek lece ?
+%
+#pld
+<martii> leafnode: wreszcie kończę w tym tyg doktorat
+<leafnode> martii: ooo gratuluję :)
+<martii> leafnode: ufff jeszcze tylko 3 egazminy i finito potem obrona
+<leafnode> ja wczoraj skończyłem pierwszą połowę inzynierki :)
+<leafnode> zajęło mi to jakieś 7 miesięcy
+<leafnode> tfu
+<leafnode> 9 miesięcy
+<leafnode> drugą połowę planuję napisać w tydzień l)
+<leafnode> ;)
+<kamyk> taa, teraz pracujesz to masz czas
+%
+Mam  pewien  problem  z  luzerami  w  sieci dla której stawiałem
+serwer. Ogólnie rzecz ujmując to dziwni są to ludzie, takie nawet
+można  by  powiedzieć  bydło,  któremu  czasem  trzeba  utrudnić
+życie...
+
+Problem  w  tym  że  oni  też  niestety  potrafią utrudnić życie
+adminowi, a na ich wybryki ostatnio zabrakło mi pomysłów:
+-  jeden  drugiemu  "udostępnia neta" przez pulpit zdalny na XP,
+nie  bardzo wiem jak to zablokować, jak stawiali WinGate to było
+dość prosto ttl ustawiony na 1 i bawcie się no i przypisanie mac
+do ip eż jest :P tzw pofilkatyka :P
+- jest też 16 letni pseudo-hacker, trzeba mu utrudnić skanowanie
+kompów  w necie (jak narazie szuka serwerów z mysqlem, i prubuje
+sie  logować  bez hasła przy pomocy konta mysql - więc strzeżcie
+się :P ),  jak  coś  ciekawego  ettercapem  namierze to też bedzie
+trzeba udupić.
+
+Niestety  są  to  2  przypadki  których  nie  potrafię  ugryźć i
+prosiłbym o pomoc :)
+
+Jak  ktoś  ma  podobne  przejścia jak ja to zapraszam do wymiany
+pomysłów :P
+
+			Radosław Luczko	@ pld-users-pl
+%
+09:26 <@glen> wtf is this?
+09:26 <@glen> Witaj na liście dyskusyjnej "Pld-cvs-commit"
+09:26 <@glen> From:
+09:26 <@glen> pld-cvs-commit-request@pld-linux.org
+
+         Glen jest Estończykiem, ale coraz lepiej mówi po polsku :)
+%
+#pld
+[13:11:47] < Niedakh> ja mam 20 lat, ty masz 20 lat, przed nami bezrobocie
+%
+[16:17] < Niedakh> 16:10 <@Marcin> kiedys jedna dziewczyna
+[16:17] < Niedakh> 16:10 <@Marcin> jak mnie uczyla ugniatać jej piersi
+[16:17] < Niedakh> 16:10 <@Marcin> to porównała to do ugniatania ciasta własnie
+[16:17] < Niedakh> tfu
+[16:17] < Niedakh> nie to okno
+%
+#pld
+<darekr> Sparky: No.. może.. ale jak to sklecić, żeby miało sens. Bo nadal to dziwnie brzmi :) Dobra, nvm, zaraz coś wyszukam
+<Sparky-PI> darekr: albo zostaw, qboosh się zna na wszystkim, nawet na polskim, a to w naszym środowisku rzadko spotykana cecha
+%
+Miło mi to słyszeć, ale potwierdzić nie mogę, bo uważam posiadanie
+GNOME, KDE, Xfce, cośtamieszcze na jednym kompie za poroniony pomysł.
+Potem ludzie jęczą, że coś im nie działa. Nic dziwnego skoro sobie tak
+zaśmiecili system.
+
+			Kamil Kosiński @ pld-users-pl
+%
+it's confirmed. Please do not send to builders _any_ packages with
+%
+update_desktop_database_* macros because they are f***d up.
+
+so please mtv pimp my rpm.macros.
+
+			Fryderyk Dziarmagowski @ pld-devel-en
+%
+Programistów powinno sie wysyłać na obowiązkowe katorżnicze roboty przy
+PLD albo Debianie.
+
+			Jakub Piotr Cłapa @ pld-devel-pl
+%
+July 13th 2005, Opole - PLD LCC [NASDAQ: PLTK], vendor of the well known PLD
+Linux Distribution (tm), today announced its move to the award winning
+pld-builder.new II generation architecture. "The whole infrastructure of our
+PLD 2.0 Ac series of products will get moved within the next few hours. This
+should give us the competitive edge we've been looking forward to having for
+the past couple of months" said Tomasz Kloczko, CEO and founder of the
+company.
+
+			Mariusz Mazur @ pld-devel-pl
+%
+[15:31:02] < gausus> baggins: bo pld to jest wyzwanie intelektualne a nie distro ;) [IN]
+[15:31:18] < gausus> ostatnio kogos tu zbanowali za to ze marudzil ze cos w kernelu sie sypie :) [IN]
+%
+[15:36:37] < gausus> havner: a autoryzacje dostales :)  [IN]
+[15:36:48] < gausus> potem bedzie potop i potomni dostana tylko moje przemyslenia i co [IN]
+[15:36:53] < gausus> beda nas mieli za cywilizacje kretynow ? [IN]
+[15:37:01] < gausus> chociaz w sumie  [IN]
+[15:37:11] < gausus> moze to i lepiej niz jakby mialo po nas cos wiecej pozostac ;) [IN]
+%
+[17:15] <@Averne> 1600x1200 pragne
+[17:17] <+Sardzent> a ja 90x60x90 pozadam ;]
+[17:18] <@Averne> 90x90x90 ?
+[17:19] <+Sardzent> eeeeee no mielismy nie robic glupich zartow z mojej matki !! ;]
+%
+<mmazur> Każdy, kto siedzi na golasa z laptopem grzejącym to i owo, niech się zgłosi.
+<Sardzent_> ;]
+<mmazur> Nie ma się co wstydzić, przecież wszyscy wiemy jak to jest.
+<czarny> no to tam podobno jest szkodliwe dla rozwoju plemników :D
+<czarny> a to ma swoje plusy chciałem zauważyć :>
+<leafnode> kto siedzi na golasa z laptopem ryzykuje kilka rzeczy
+<leafnode> od poparzeń po wessanie siusaka w wentylator
+<leafnode> (zależnie od siusiaka i konstrukcji notebooka)
+<Sardzent_> mmazur: a teraz extreme a co jak klaki zaplacza sie w wentylator ??
+<czarny> panowie - prawie podarłem koszulkę, jak ją zkaładałem :>
+<mmazur> Wybitnie zastanawiający jest fakt, że nikt nie zdementował jakoby wiedział jak to jest.
+<mmazur> Nie gadam z wami *zboczeńcy*.
+%
+19:32 <@pluto_> gausus: ppc kaput?
+19:35 <@pluto_> ssh: connect to host th-ppc port 22: No route to host
+19:35 <@pluto_> albo u mnie cos sie ztegowalo
+19:35 <@Zouza> hyhy
+19:35 < arekm> no nie... znów prąd wpierniczyli? [FN]
+19:56 <@gausus> arekm: cierpliwosc jest cnota
+20:02 <@Zouza> gausus: e tam wylacz im :PP
+20:04 < arekm> gausus: cnoty to przeżytek [FN]
+20:05 <@Wieszczu> gausus: jesteś niemodny i poszukujesz towaru który nie istnieje :P
+20:44 <@gausus> Zouza: nie wylacze
+20:44 <@gausus> jak moj ppc zastepuje arkowi cnote to sie czuje moralnie zobowiazany utrzymywac ppc w ruchu :)
+20:45 <@Zouza> gausus: tiia
+20:46 <@Zouza> gausus: ja sie nie znam
+%
+[22:26] <+areq> coż to
+[22:26] <+areq> trn mimi
+[22:26] <+areq> ten mimi
+[22:26] <+areq> ten mini ;)
+%
+22:56:41 <@pluto_> builder2 17129  3.6  5.0 105496 51932 ?        S+   Nov18
+                   154:38 /usr/bin/python /usr/bin/btdownloadcurses.bittornado
+                   --max_upload_rate 200 --alloc_type pre-allocate
+                   Lost.S01.DVDRip.XviD-WAT.torrent
+22:56:46 <@pluto_> 1010      5003  2.1  3.6  93660 37528 ?        S+   Nov20
+                   38:42 /usr/bin/python /usr/bin/btdownloadcurses
+                   Le_Diner_de_Cons_NTSC.torrent
+22:56:48 <@pluto_> builder2 23102  1.1  3.6  91336 37476 ?        S+   Nov20
+                   17:02 /usr/bin/python /usr/bin/btdownloadcurses.bittornado
+                   --max_upload_rate 100 --alloc_type pre-allocate
+                   Casino.1995.iNTERNAL.DVDRip.XviD-XviK.torrent
+22:56:59 <@pluto_> to juz jest przesada zeby kont buildera uzywac do piracenia
+%
+nowy, lepszy rok - 1 stycznia 2006:
+[02:54:39] <abw> (daan99@PN) ech z nowym rokiem witam calkiem nowiutkie bad-sectory na dysku :(
+[02:54:54] <abw> (daan99@PN) ratowac mp3 trza
+%
+> 1+1 = 2
+[...]
+> Faculty of Applied Phys. & Math.,   Gdansk University of Technology
+
+Trzymacie wysoki poziom, jak widzę ;))))))
+
+			Michał Kochanowicz @ pld-discuss
+%
+#pld
+# No już kiepskich to wypadło by obejrzeć...
+[19:45:03] <@czarny_> Sardzent: nie filozuj - nie jesteś intelektualistą
+[19:45:39] <@Sardzent> nie jestem ale i bez tego wiem ze 'filozuj' sie inaczej pisze :)
+%
+#pld
+[12:37:08] < jajcus> osobiście polecam konie :) [IN]
+[12:37:20] < jajcus> ale rowerki pewnie też będą dobre [IN]
+[12:37:35] < cieciwa> jaaaaaasne i najpierw kaucja 3k pln za konia ? [IN]
+[12:37:49] < jajcus> ? [IN]
+[12:38:03] < jajcus> ty go chcesz wypożyczać, czy kupować? [IN]
+[12:38:07] < cieciwa> bo przy mojej masie i braku umiejetnosci jazdy mam duza szanse na zabicie konia - przetracajac mu kregoslop [IN]
+[12:38:20] < jajcus> jaaasne... [IN]
+[12:38:26] < jajcus> ile ważysz? 300kg? [IN]
+[12:38:42] < cieciwa> 230kg [IN]
+[12:38:46] < cieciwa> tfuu [IN]
+[12:38:47] < cieciwa> 130 [IN]
+[12:38:57] < jajcus> no, już mnie przeraziłeś :) [IN]
+%
+#pld
+12:56 <@undefined> peyrol: admin ciagle pije i nie wie co to backupy
+12:56 < peyrol> :) [FN]
+12:57 < peyrol> jesli ciagle pije to wie co to backupy [FN]
+12:57 < peyrol> chyba ze lata co chwile do sklepu [FN]
+12:58 <@undefined> nie, wie co to jest "zapas" danych do przetworzenia
+12:58 <@undefined> backupy niet ;)
+12:58 < peyrol> :) [FN]
+12:59 < peyrol> nie chodzi do toalety siku.. chodzi uwolnic skolejkowane
+                pakiety [FN]
+%
+13:14:25 <@adamg> jezik: wyslij na listy. i zdobądź w końcu to rw, bo co raz coś grzebiesz.
+13:14:46 < wpk> adamg: masz? [FN]
+13:14:55 <@adamg> wpk: nope
+13:15:06 <+jezik> adamg, zdobądź zdobądź, daj daj daj!?
+13:15:07 <+jezik> ;-)
+13:15:18 <+jezik> adamg, ja lubie grzebać, co ja na to poradzę ;->
+13:16:16 <@adamg> jezik: chwali się. dlatego zdobądź :)
+13:26:15 <@shadzik> deejay1 jest ?
+13:28:59 < evilabram> grzebać w kozie. [FN]
+13:29:03 < evilabram> kutfa. [FN]
+13:29:25 <@mmazur> Zdobądź.
+13:29:32 <@mmazur> Będziesz musiał pokonać jakiegoś innego dewelopera.
+13:29:47 <@mmazur> I wyrwać mu lewicę.
+13:29:51 <@mmazur> Zanieść do cdg.
+13:29:53 <@mmazur> I wtedy dostaniesz rw.
+%
+(odnosi się do http://pld-linux.org/Sponsors)
+16:31 <@mmazur> Cyber Service (provides alpha machine for ac-alpha builder)
+16:31 <@mmazur> Trza by dopisać 'and the qboosh cluster'
+16:48 < SamChi> mmazur: właśnie, skoro qboosh to cluster, gdzie się pytać o
+                konto ?
+16:49 < SamChi> ale bym w szkole szpanował jak był miał konto na qbooshu (:
+%
+19:42:43 <@rotom> nie może mu ktoś z freenoda głosu zabrać ?
+19:42:52 < J-23> nie ma opow :p [FN]
+19:43:03 < J-23> i nie ma trybu +m [FN]
+19:43:11 <@_jackass> wlasnie
+19:43:15 < J-23> pozostalo tylko /ignore :p [FN]
+19:43:15 <+abw> *** [mode/#pld(+o wpk)] by ChanServ on FreeNode
+19:43:18 <@_jackass> czemu tam nie ma +m ?
+19:43:19 < J-23> o [FN]
+19:43:20 < J-23> :) [FN]
+19:43:20 < J-23> op [FN]
+19:43:21 <+abw> *** J-23 was kicked off #pld by wpk on FreeNode (wpk)
+%
+#pld
+18:08 <+uzi18> ok o czym trzeba pamietac przy tym edytowaniu patcha ?
+18:08 <@zbyniu> uzi18: o zapisaniu zmian
+%
+#pld
+10:20 < jezik> evilabram, perl jest fajny [IN]
+10:21 < mmazur> Za każdym razem gdy piszesz skrypt w perlu, Bóg zabija kotka. [IN]
+%
+#pld
+21:24 <@zbyniu> shadzik: kto ci nagadał głupot, że nie jesteśmy jezusami linuksa?
+%
+#pld-devel-en@lists.pld-linux.org
+On Sat, Sep 18, 2010 at 12:40 PM, Patryk Zawadzki <patrys@pld-linux.org> wrote:
+> I don't think anyone
+> would use PLD to write commercial games).
+Aj tam nie pierdol.
+
+wolf
+%
+#pld-users-pl@lists.pld-linux.org
+2010/11/19 Bartosz Świątek <shadzik@gmail.com>:
+> W dniu 19 listopada 2010 18:29 użytkownik Przemo Firszt
+> <przemo@firszt.eu> napisał:
+>> Dnia 2010-11-19, pią o godzinie 11:52 +0100, Paweł Lęcznar pisze:
+>>> witam, czy ktoś z użytkowników/developerów pld słyszał/wie coś na temat
+>>> tego
+>>> http://www.webupd8.org/2010/11/alternative-to-200-lines-kernel-patch.html ?
+>>> może ktoś to już testował w pld i chciałby się podzielić uzyskanymi
+>>> efektami? pozdrawiam
+>>> _______________________________________________
+>> Patch nie dotyczy wydajności tylko "szybkości reakcji" (responsiveness).
+>> Może to Cię zainteresuje:
+>> http://www.webupd8.org/2010/11/alternative-to-200-lines-kernel-patch.html
+> Albo może to:
+> http://www.webupd8.org/2010/11/alternative-to-200-lines-kernel-patch.html
+
+Nie, nie, nie. Zdecydowanie to:
+http://www.webupd8.org/2010/11/alternative-to-200-lines-kernel-patch.html
+
+wolf
+%
+* baggins (baggins@duch.mimuw.edu.pl) has left #pld (mam was w dupie szczyle)
+%

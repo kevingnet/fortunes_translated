@@ -1,0 +1,217 @@
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] hack me
+%
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] sorry
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] mam pytanie?
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] tak mam pytanie??
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] moge?
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] moge?
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] moge?
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] :)
+[ipsec(+a@pb201.poznan.ppp.tpnet.pl)] jak rozkodowac plik shadow
+%
+[Serf3r(Serf3r@komp3.surfnet.pl)] mozesz dla mnie cos zrobic?
+[Serf3r(Serf3r@komp3.surfnet.pl)] daj bana, albo kicka matr0n'owi
+[Serf3r(Serf3r@komp3.surfnet.pl)] bo obraza hackerow
+[Serf3r(Serf3r@komp3.surfnet.pl)] mowi, ze sa gownojadami internetowymi
+%
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] ty lamo
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] ty lamo
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] ty lamo
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] ty lamo
+[k3w5o8(~username@l.mega.bydgoszcz.pl)] ty lamo
+%
+cze
+wymysliem atak lokalny ktorego celem jest zdobycie root'a
+jak znajdziesz chwile to zerknij i odpisz czy moze dzialac
+
+1. logowanie jako zwykly user
+2. alias root::0:0::/root/bin/bash = ls
+3. ln -s /etc/passwd /home/user/.bash_history
+4. root::0:0::/root/bin/bash                     /wykonanie polecenia
+5. logout
+6. login: root
+    pass: <enter>
+
+Welcome to linux
+whoami
+root
+
+moj adres : voyteq1@poczta.wp.pl
+%
+Date: Sun, 19 Nov 2000 18:07:31 +0100
+From: cyberbot <cyberbot@poczta.wp.pl>
+To: lcamtuf@polbox.com
+Subject: Mam Problem.
+
+Czesc wiem ze jestes wielkim hackerem i mozesz mi pomoc.Czytalem wiele
+twoich fakow i wiem ze jestes naprawde dobry.
+Mam problem bo kumpel moj uwaza sie z wielkiego cwaniaka i chwali sie ze
+jest hackerem i mnie to ogromnie wkurza bo wiem ze nic nie umie. Potrafi cos
+tam napisac i juz uwaza sie za wielkiego bosa.
+chcialbym od ciebiesie dowiedziec lub zebys mi przyslal na moj adres
+cyberbot@poczta.wp.pl jak np. zrobic mu jakas sztuczke zeby sobie to
+zapamietal wszystki jakie znasz np. z WORDEM, EXELEM, cos z WINDOWSEM 95 lub
+98 itp. I NAPRAWDE BARDZO BYM SIE UCIESZYL JAK BYS MI PRZYSLAL "JAK PISAC
+WIRUSY" TAKIE BY BYLY NIE WYKRYWALNE PRZEZ ANTYWIRY , WSZYSTKI OPIS KLAWISZY
+CO I JAK ZEBYM TO POJAL.
+KIEDYS PRZECZYTALEM KILKA FAKOW JAK NAPISAC WIRUSA I NIC NIE MOGLEM ZAJARZYC
+O CO CHODZI Z TYMI AH CZY DX DZ COS W TYM STYLU....
+CZEKAM NA TWOJA ODPOWIEDZ DZIEKIIII...........
+%
+[tyMek(~gzes@ppp-34.cuprum.com.pl)] heyka przyslal mnie do ciebie
+Lukasoroz
+[Lukasoroz(+pamek@pb27.tarnobrzeg.cvx.ppp.tpnet.pl)] cze
+[tyMek(~gzes@ppp-34.cuprum.com.pl)] powiedzial ze pomozesz mi w telnecie
+[Lukasoroz(+pamek@pb27.tarnobrzeg.cvx.ppp.tpnet.pl)] cze
+[Lukasoroz(+pamek@pb27.tarnobrzeg.cvx.ppp.tpnet.pl)] cze
+[Lukasoroz(+pamek@pb27.tarnobrzeg.cvx.ppp.tpnet.pl)] cze
+[Lukasoroz(+pamek@pb27.tarnobrzeg.cvx.ppp.tpnet.pl)] cze
+%
+<MuraBysza> [Andak(1021-139@internet.radom.pl)]  Jak mozna usunac haslo
+opiekuna w internet explorer?
+%
+<MuraBysza> >     Czy ktoś pisuje w assemblerze pod linuxem ?
+<MuraBysza> >     Czy da się pisać jakieś sensowne wirusy?
+%
+<e-girl> <^RaYsOn:#hackpl> ktos sie zna na rootcron.sh ???
+%
+<e-girl> [weronWRC(+maruda@212.160.195.54)] co slychac
+<e-girl> [msg(weronwrc)] ?
+<e-girl> [weronWRC(+maruda@212.160.195.54)] co tam
+<e-girl> [msg(weronWRC)] kto ty?
+<Arghil> a serio to chyba jeden z wiekszych serwerow gdzie sa GPL programy
+<e-girl> [weronWRC(+maruda@212.160.195.54)] chlopiec
+<e-girl> [msg(weronWRC)] ja tez
+<e-girl> [weronWRC(+maruda@212.160.195.54)] to czemu masz takia ksywe
+         jestes gejem
+<e-girl> [msg(weronWRC)] tak. wlasnie tak.
+<e-girl> [weronWRC(+maruda@212.160.195.54)] ja jestem normalny spadaj
+<e-girl> [msg(weronWRC)] to ty przyszedles. pewnie masz ukryte sklonnosci.
+%
+off-topic... a propos irca i kultury ;) hmm... zeby to tak jeden, ale mam
+tygodniowo przynajmniej 3-4 takie przypadki... w stylu 'hej', 'wiesz,
+czytalem twoje faq', 'hej, odpowiedz', 'nie to nie', 'jestes lamer' (x20),
+'spadaj' (x15) itp... ten byl w kazdym razie tez mocny... nie wiem o co
+sie pytal ;)
+
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] mam pytanko....
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] czy na tym twoim serwerku
+          mozna wejsc na anonymous?
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] czy tez nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] nie badz chamkiem powiedz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jednak jestes
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] no coz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] mowi sie trudno i zyje sie
+          dalej
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] ale mimo wszystko zaczekam,
+          moze sie zdecydujesz
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] a jak sie wstydzisz to
+          poprostu powiedz to sie odczepie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] powiedz : tak or nie
+[dcbri0(+sp00ki@pa174.gdansk.cvx.ppp.tpnet.pl)] widze ze jestes fjutek i
+          nie odpowiadasz siemanko
+%
+Date: Wed, 28 Feb 2001 16:49:25 +0100
+From: Marcin Nicpon <pucuch@godot.tuniv.szczecin.pl>
+To: lcamtuf@ids.pl
+Subject: pytanie o gpm
+
+Witam !
+   Interesuje mnie kod zrodlowy demona gpm . Bylbym wdzieczny, gdyby mogl
+pan mi go przyslac.
+%

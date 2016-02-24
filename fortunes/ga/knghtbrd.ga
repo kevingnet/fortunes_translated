@@ -1,0 +1,2160 @@
+* Tugann SynrG go bhfuil líon na gceisteanna cumraíochta a fhreagairt i  Is sendmail neamh-fánach
+		-- David Leimbach
+
+%
+Bheadh ​​* james níos tógtha dá bhféadfadh cumhachtaí draíochta netgod ar stop a chur leis  roinntear an gcéad dul ...* Nótaí netgod forbróirí Debian notoriously deacair a luí
+		-- David Leimbach
+
+%
+<Sel> gá cuidiú: mo chéad data le mo soláthraí Faigheann caillte :-(<Netgod> abhcóide: i dont a sheoladh chuig an chéad cheann, tús a chur le # 2
+		-- David Leimbach
+
+%
+<James> mí-úsáid dom. Tá mé chomh bacach Chuir mé tuairisc fhabht a        Debian-fhorbairtí-athruithe
+		-- David Leimbach
+
+%
+Shíl mé riamh gur mhaith liom a fheiceáil ar an lá nuair atá Netscape bogearraí saor in aisce agusIs X11 dílseánaigh. Tá cónaí orainn in amanna suimiúil.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Jim> Lemme a chinntiú nach bhfuil mé ag wasting am anseo ... Beidh bcwhite bhaint      pkgs a havent socraithe go bhfuil bugs den scoth ar déine      "Tábhachtach". Fíor nó bréagach?<JHM> Jim: "tábhachtach" nó níos airde. Fíor.<Jim> Ansin tá muid ar tí é a chailleadh ftp.debian.org agus dpkg :)* Beidh netgod chailleann dpkg - bhí sé ó am go chéile úsáideach<Joey> Tá muid go fóill rpm ....
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<JHM> Á overloaded is comhartha de Debian cothaitheoir fíor.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+<Overfiend> partycle: is féidir liom go mór mór ar laethanta saoire ón bpacáiste.            Bhí mé i ndáiríre Dream faoi thabhairt isteach a bug nua dúr            isteach Xbase-preinst aréir. Sin Droch Cláraigh.
+		-- Matt Kimball <mkimball@xmission.com>
+
+%
+Scríobh bhogearraí nach saor nach gníomhaíocht heiticiúil dlisteanacha, mar sin mádaoine a dhéanann an reáchtáil i dtrioblóid, go maith! Gach gnóthaí bunaithear bhogearraí nach saor chóir a theipeann, agus an túisce is fearr.
+		-- Richard Stallman
+
+%
+Stopann an tseirbhís DNS Microsoft thar nuair recieves sé freagraar cheist DNS riamh go ndearnadh. Fix Eolas: Rith do DNSseirbhís ar ardán eile.
+		-- BugTraq
+
+%
+* Dpkg lámha stu gloine ollmhór vbeer* Bíonn Joey an beoir is stu, tá tú ró-óg;)* Cylord Bíonn an beoir ó Joey, tá tú ró-ólta.* Tugann Cylord an beoir muggles.
+		-- BugTraq
+
+%
+Táimid ag na daoine an dáilte Debian GNU / Linux, d'fhonn chun foirm aníos córas oibriúcháin foirfe, cáilíochta a bhunú, árachas margadhéagsúlacht, soláthar do riachtanais choitianta na n-úsáideoirí ríomhairí, a chur chun cinnslándáil agus príobháideacht, threascairt fórsaí mhonaplachta sa ríomhairetionscal bogearraí, agus an blessings na saoirse a bhaint amach chun muid féin agusár posterity, ná ordain agus Bhunreacht seo a bhunú don DebianGNU Córas Linux /.
+		-- BugTraq
+
+%
+"Is é seo an struchtúr element_data do eilimintí a bhfuil * element_type =FORM_TYPE_SELECT_ONE, FORM_TYPE_SELECT_MULT. * / / * * Neadaithe doimhneagus níos doimhne, deacra agus níos deacra, téigh, téigh, ó, OH, Ohhhhh !! * Tá brón orainn, fuairuaidh a rinneadh ann. * Lo_FormElementOptionData_struct / struct. "
+		-- Mozilla source code
+
+%
+Cé nach bhfuil an bhliain 2000 (Y2K) fadhb mar cheist dúinn, gach LinuxBeidh implementations tionchar ag na bliana 2038 (y2.038k) a eisiúint. AnTionscadal Debian tiomanta do bheith ag obair leis an tionscal maidir leis an tsaincheistagus beidh orainn ár bpleananna iomlán agus straitéis a phost ag an chéad ráithede 2020.
+		-- Mozilla source code
+
+%
+... Nuair a bhí STAC Electronics nuair a chum Microsoft Doublespace? Sa chás goBa iad Xerox agus Apple nuair a chum Microsoft an GUI? I gcás ina raibh AppleQuickTime nuair invented Microsoft Video do Windows? I gcás ina raibh SpyglassInc 's Mosaic nuair a chum Microsoft Internet Explorer? I gcás ina raibh Sunnuair a chum Microsoft Java?
+		-- Mozilla source code
+
+%
+Tá brón orm má fuaimeanna an méid seo a leanas combative agus excessively pearsanta,ach sin mo stíl ginearálta. - Ian Jackson
+		-- Mozilla source code
+
+%
+"Is é mo fhadhb is mó leis an RH (agus go háirithe pacáistí chuidíonn leo RH) goNÁ siad aon rud cosúil ár bpolasaí. Sin ceann de na cúiseanna is mócén fáth a bhfuil a n-pacáistí chomh crappy agus briste. Debian Tá an obair foirnetaobh a thógáil dáileadh síos le ealaín fíneáil. "
+		-- Mozilla source code
+
+%
+"Nach bhfuil úsáideoirí Slackware ábhar. I mo thaithí féin, tá úsáideoirí Slackwareceachtar Newbies clueless a bhfuil deacracht fiú le tarra, nó go bhfuil siadrabid dhéanamh-é-yourselfers nach mbeadh a shuiteáil duine eile réamh-le chéiledénártha fiú dá n-íocfaí iad a dhéanamh. "
+		-- Mozilla source code
+
+%
+<XinkeT> "deontas Tiarna dom an serenity glacadh leis na rudaí nach féidir liom         athrú, an misneach a athrú ar na rudaí is féidir liom, agus an eagna         a cheilt ar na comhlachtaí na ndaoine a bhí mé a mharú toisc go bhfuil siad         pissed mé amach. "
+		-- Mozilla source code
+
+%
+* Tá dorcha athraigh an ábhar ar #debian chainéal chuig: Níos déanaí anocht: Tar éis  mhí cuisniúcháin cúramach, tá Debian 2.0 ar deireadh fuarú go leor chun  scaoileadh.
+		-- Mozilla source code
+
+%
+Shuigh mé ag gáire snidely i mo leabhar nótaí go dtí go léirigh siad dom rith PCLinux. Agus OH! Bhí sé mar cé go d'oscail na flaithis agus Dia láimh síos aOS cliant-taobh álainn sin, agus mar sin graceful, agus mar sin galánta go milliúnNí fhéadfaí Forbróirí Microsoft a bheith invented sé fiú dá mbeadh siad céadbliana d'aois agus míle cliathbhoscaí Cola Jolt.
+		-- LAN Times
+
+%
+Shuigh mé ag gáire snidely i mo leabhar nótaí go dtí go léirigh siad dom rith PCLinux .... Agus raibh an ríomhaire choke? An raibh sé stutter? An raibh sé, fiú aon uair amháin,a rá go bhfuil an clár seo a dhéantar oibríocht neamhdhleathach agus ní mór a stopfarsíos? Uimh Agus é seo ach ar an chliaint.
+		-- LAN Times
+
+%
+"Ceapaim go bhfuil an chuid is mó d'fhorbróirí Debian in áit" láidir willed "daoinele leibhéal mór tuisceana agus ardleibhéal paisean don méid amheasann siad chomh tábhachtach i bhforbairt an chórais Debian. "
+		-- Bill Leach
+
+%
+"I ndáiríre, an dáileadh amháin Linux Bainim úsáid riamh go ritheadh ​​anrootshell Tástáil as an mbosca (bhuail rootshell ag an am a ndéantar an distscaoileadh agus féach an féidir leat a bhriseadh an OS le scripteanna ó ann) atáDebian. "
+		-- seen on the Linux security-audit mailing list
+
+%
+* Culus eagla Perl - an teanga le hearráidí roghnach
+		-- seen on the Linux security-audit mailing list
+
+%
+<Stu> ba cheart duit a bheith eaglach chun úsáid KDE mar a d'fhéadfadh STI teacht ar do      teach agus cleave do monatóireacht le tua nó rud éigin :)
+		-- seen on the Linux security-audit mailing list
+
+%
+"Agus i ndáiríre mar Debian 2.0 go bhfuil i bhfad athchóiriú mé go hiomlán ar anconfig cheal córais linux Díolann ár gcuideachta agus reinstalled aonna gcóras linux san oifig agus anseo sa bhaile .. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Davide> conas bout polasaí póilíneachta polasaí le polasaí le hathrú ar an         Beartas póilíneacht póilíní
+		-- seen on the Linux security-audit mailing list
+
+%
+<Dorcha> "Déanaimis foirm an Linux Standard Linux Chaighdeánú Cumann        Bord. Beidh aidhm don bhord a chaighdeánú Linux        Chaighdeánú Organizations. "
+		-- seen on the Linux security-audit mailing list
+
+%
+<Overfiend> Ná teacht caoineadh liom faoi do "Tiomsaíonn 30 nóiméad" !! I            a thógáil X suas an cnoc sa dá threo! Sa sneachta! le lom            cosa! Agus ní raibh againn tiomsaitheoirí! Bhí orainn a aistriú ar an            cód C a Cuimhneolaíocht orainn féin!<Overfiend> Agus bhí mé 18 sula raibh againn fiú cóimeálaithe!
+		-- seen on the Linux security-audit mailing list
+
+%
+NUA-EABHRAC (CNN) - úsáideoirí Idirlín a chaitheamh fiú cúpla uair an chloig in aghaidh na seachtaine ar línesa bhaile taithí leibhéil níos airde de dúlagar agus uaigneas ná máúsáid siad an líonra ríomhairí chomh minic, an New York Timestuairiscíodh Domhnach. Is é an toradh ... iontas dá lucht taighde agusurraitheoirí, lena n-áirítear Intel Corp, Hewlett Packard, AT & T Taighde agusApple Computer.
+		-- seen on the Linux security-audit mailing list
+
+%
+"Cad é buailte, áfach, ná an leagan amach ginearálta agus comhtháthú nachóras. Is Debian dáileadh Linux fíor galánta; Tá cúram mórglactha in ullmhú na bpacáistí agus na socrúcháin laistigh denchóras. Is é an líon fórsa na bpacáistí atá ar fáil go hiontach freisin .... "
+		-- seen on the Linux security-audit mailing list
+
+%
+Is Debian Linux soladach, táirge cuimsitheach, agus pléisiúr dáiríre chunúsáid. Is iontach freisin a bheith páirteach leis an comhchoiteann Debian,a bhfuil a cairdiúlacht agus spiorad Meabhraíonn na laethanta tosaigh an Idirlíon aguschiall oscailteachta agus comhoibriú domhanda.
+		-- seen on the Linux security-audit mailing list
+
+%
+<Tuile> Is féidir liom scríobh eithne UNIX-mhaith i Perl?
+		-- seen on the Linux security-audit mailing list
+
+%
+<Tuilte> netgod: Tá mé chomh maith "olc Inside" T-léine (w / Intel lógó) .. ar        chúl deir sé: "Nuair a thagann an rapture, beidh tú root?"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Zarkov> "NT 5.0. Gach na bugs agus deich n-uaire an méid cód!"
+		-- seen on the Linux security-audit mailing list
+
+%
+<Culus> tá 150 Meg sa / tmp dir! a chara Tiarna
+		-- seen on the Linux security-audit mailing list
+
+%
+<Toor> netgod: cad a dhéanann tú i do eithne ??? An fhoinse tiomsú i gcomhair       tiomáint spástointeálaí ???<Spoo> am a dhéanamh ar zip thiomáint do dhiosctiomant sin. más rud é an eithne       Ní chuireann oiriúnach ar sin, is é an eithne an AI
+		-- seen on the Linux security-audit mailing list
+
+%
+Anois is féidir liom a mhíniú ar deireadh do gach duine cén fáth is féidir liom é seo. Fuair ​​mé díreach tar éis 7 $ fiústuif saor in aisce do bheith ag obair ar Debian!
+		-- seen on the Linux security-audit mailing list
+
+%
+<Ultima> netgod: Tá mo áireamhán cláir níos mó ná an x86, agus
+		-- thats- sad
+
+%
+* Boren tosses matlab ar fud an tseomra agus tá súil bhriseann sé i roinnt  aproaching peices gan teorainn
+		-- thats- sad
+
+%
+"... Bhí sé a lán níos tapúla ná mar a shíl mé go raibh sé ag dul a bheith, i bhfad níos tapúlaná NT. Má tá méaduithe luas breise a rinneadh leis an bhfreastalaí don chraobhscaoileadh, tá Oracle ag dul a bheith in ann a wipe a asal le SQL Server aguslámh ar ais go dtí M $ agus na admins Oracle ... imirce gcuid bunachair sonraíar aghaidh go dtí Linux! "
+		-- thats- sad
+
+%
+Forlámhas domhan, ar ndóigh. Agus scantily clad mná. Who cares máa fiche thíos? - Linus Torvalds
+		-- thats- sad
+
+%
+<Flav> Win 98 Eagrán Psychic: Beidh muid ag insint duit amárach nuair a bhíonn tú ag dul
+		-- thats- sad
+
+%
+<Zpx> tá sé iontach an chaoi "nach-briste" Tá Debian gcomparáid le Dríodair agus rh
+		-- thats- sad
+
+%
+<Dorcha> "Hey, Tá mé as an tionscadal ar a dtugtar Debian ... chuala tú faoi?       Dealraíonn D'ainm a bheith ar a bunch de ár stuif. "
+		-- thats- sad
+
+%
+"I gcás go dteipfeadh ar percieved an #debian ceannaireachta tionscadalde chumhacht chun gníomh drastic agus descisive chun an éagmais cheartú,lena n-áirítear trí gan a bheith teoranta d'oifigigh expelling, apointing oifigigh nuaagus go ginearálta abusing cumhacht "
+		-- proposed amendment to Debian Constitution
+
+%
+<Overfiend> tá muid ag iarraidh 2.2 _POTATO_ ??
+		-- proposed amendment to Debian Constitution
+
+%
+<SirDibos> dhéanann Johnie Ingram hang amach anseo ar IRC?
+		-- proposed amendment to Debian Constitution
+
+%
+Beidh * Twilight1 a chrochadh ar a dinosaur beanie Mozilla in shamhail más  Netscape Díolann-i gcrích go dtí A lán Of losers ..
+		-- proposed amendment to Debian Constitution
+
+%
+<Lux> má tá MacOS don neamhliteartha ríomhaire, ansin tá windoze don      masochists ríomhaire
+		-- proposed amendment to Debian Constitution
+
+%
+<Dorcha> Culus: Ag Tógáil macasamhail cúig méadar-ard de chuid an Stáit Impireacht       Tógáil le fáiscíní páipéir is maithe. Ag déanamh blindfolded sé       eleet.
+		-- proposed amendment to Debian Constitution
+
+%
+Is féidir liom a fheiceáil ach é anois: ainmniúchán-sceimhlitheoireacht ;-)        - Manojhaha! Manoj ainmniú i.
+		-- seeS
+
+%
+<JHM> Ar bhealach tá mé fhorbróirí Debian níos meas 14 bliain d'aois ná mar     14 bliain d'aois Deimhnithe Serfs Microsoft.
+		-- seeS
+
+%
+<Culus> Ben: An bhfuil swear tú solumly a léann tú ríomhphost Debian uair amháin sa lá agus        nach gceadaíonn do dhaoine a cheapann go bhfuil tú MIA?<Ben> Culus: i dhéanamh amhlaidh swear
+		-- seeS
+
+%
+"N'fheadar má tá sé seo an chéad bhunreacht i stair an chine daonnaáit a bhfuil tú a ríomh ar fréamh chearnach a chinneadh an tairiscintGabhann. :-) "
+		-- Seen on Slashdot
+
+%
+Is é seo an réiteach ar fhadhb Debian s .. agus ós rud é an t-aon bhealach fíora chruthú níos mó ghaolta na forbróirí a leanaí a bheith acu, ní mór dúinn níos móghnéas! Is infheistíocht fhadtéarmach ... tá sé an obair féin atáshásamh!
+		-- Craig Brozefsky
+
+%
+<Marcus> Dunham: Tá a fhios agat conas réaduimhreacha déanta as réasúnach         uimhreacha réir aicmí coibhéis sraitheanna chóineasaithe?<Dunham> marcus: yes.
+		-- Craig Brozefsky
+
+%
+<Culus> "Hello?" "Baybee Hi" "An bhfuil tú Johnie Ingram?" "Chun tú beidh mé        duine ar bith "" Ermm .. An ndíolann tú slink CD? "" Is breá liom slinkies "
+		-- Craig Brozefsky
+
+%
+Ba cheart <Overfiend> xhost + localhost a dhéanamh ach amháin ag daoine a bheadh            péint a óstainm agus focal faire an fhorúsáideora ar interstate            overpass.
+		-- Craig Brozefsky
+
+%
+<JHM> AIX - an Unix ó na cruinne ina bhfuil Spock féasóg.
+		-- Craig Brozefsky
+
+%
+<Knghtbrd> Staidéar chruthú go n-eascraíonn taighde ailse in 43% de saotharlainne           francaigh<CQ> knghtbrd- yeah, ach tá 78% de na staitisticí amach ag 52% ...
+		-- Craig Brozefsky
+
+%
+<Stu> Apt:! Bugs<Apt>! Tá bugs dúr<Dpkg> Apt: Tá dúr? Cad é sin?<Apt> dpkg: Níl a fhios agam<Dpkg> Apt: Tá áilleacht i súile an tsealbhóra beorach ...<Apt> bhí mé cheana féin é ar an mbealach, dpkg.
+		-- Craig Brozefsky
+
+%
+<Muggles> Tá mé ag iarraidh a chur ina luí ar roinnt admins Netcom fhios agam a thiontú          go Debian ó RH, netgod, ach tá siad damnaigh stubborn<Muggles> cén fáth úsáideoirí RH sin damanta gceannas crua?Tá <Espy> é an hata
+		-- Craig Brozefsky
+
+%
+<Doogie> Debian - Gach an chumhacht, gan an hata amaideach.
+		-- Craig Brozefsky
+
+%
+Cé mhéad mí táimid ag dul a bheith taobh thiar dóibh [Redhat] le glibcscaoileadh? "
+		-- Jim Pick, 8 months before Debian 2.0 is finally released
+
+%
+Is é cuspóir an bhfuil liostaí seoltaí seachas grúpaí nuachta a bheith aáit ina bhac ar iontráil a chosnaíonn na liostaí agus a n-úsáideoirí óionradh ag na hordes uneducated ginearálta.
+		-- Ian Jackson
+
+%
+An chuid is mó de dúinn a bhraitheann go bhfuil cineálacha cosúil le arm contúirteacha margaíochta - a choinneáil'Em ndíluchtófaí nó faoi ghlas i gcófra, agus gan ach iad a thabhairt amach nuairis gá duit iad a dhéanamh i gcomhair poist.
+		-- Craig Sanders
+
+%
+<BenC> cerb: suibscríofa duit a Debian-troid leis an moderator<BenC> cerb: Tá rialacha liosta, 1) aon r-phoist deas, 2) aon leithscéal a ghabháil
+		-- Craig Sanders
+
+%
+<Teknix> tá ár Telco áitiúla admhaigh siad go bhfuil duine éigin "tacaíocht i         cnaipe ar a chur ar athrú "agus ghlac an líonra BAT iomlán síos<Netgod> súil againn anois ródairí go bhfuil siad ceaptha níos fearr, mar sin an "líonra         as "Is swtich ar chúl
+		-- Craig Sanders
+
+%
+<Overfiend> Thunder-: nuair a thagann tú {MessagesLikeThisFromYourHardDrive}<Overfiend> Thunder-: sé mar acmhainn {TheDriverIsScrewy}<Overfiend> nó<Overfiend> {YourDriveIsFlakingOut BackUpYourDataBeforeIt'sTooLate            PrayToGod}
+		-- Craig Sanders
+
+%
+<Apt> tá sé ráite go bhfuil RedHat an rud Marc Ewing wears ar      a cheann.
+		-- Craig Sanders
+
+%
+<MrCurious> ag an cumhacht greyskull<MrCurious> éigin inis dom an cosc ​​a chur<Sopwith> mrcurious: * .debian.org, * .novare.net<PhilX> * .debian.org. go uamhnach.
+		-- Seen on LinuxNet #linux
+
+%
+"Cad a dhéanann sé sin? Go má Microsoft mba na bogearraí seo caitechuideachta fágtha sa domhan, bheadh ​​13% de dhaonra na Stát Aontaithe a bheith sciúradhdíolacháin gharáiste agus Cáilmheas do sean TRS-80s, meaisíní CPM & Apple] [ 's roimhBheadh ​​siad a cheannach Microsoft. Ní sin go díreach formhuiniú ag glaoch. "
+		-- Seen on Slashdot
+
+%
+"Bruce McKinney, údar de hardcore Visual Basic, tar éis a fhógairt go bhfuilsé ag bréan VB agus ní scríobh 3ú eagrán de chuid leabhar. AnTá ceanglófar is fearr ag an deireadh: "Ní gá dom theanga deartha ag fócasghrúpa. "
+		-- Seen on Slashdot
+
+%
+<Cylord> An mbeadh sé inghlactha do bheartas Debian má cuireadh isteach muid crontab         de réir réamhshocraithe i prátaí a ríomhphost bill.gates@microsoft.com         gach maidin leis ríomhphost a léamh, "Ná bíodh imní ort, tá linux a         fad ... "
+		-- Seen on Slashdot
+
+%
+* Overfiend ponders déanamh NMU ar asclock, ina athraíonn sé go simplí  an cur síos a leathnú go dtí "Má tá tú Bend ar agus a chur ar do cheann idir  do chosa, is féidir leat léamh an t-am a bhaint de do assclock. "<Doogie> Overfiend: dul a chodladh.
+		-- Seen on Slashdot
+
+%
+<Reed> Tá sé tábhachtach a thabhairt faoi deara go bhfuil an chúis go príomha leis an Impireacht Rómhánach       Is theipeann nach raibh aon choincheap de náid ... mar sin ní raibh siad       tástáil ar an rath nó teip ar a gclár C.
+		-- Seen on Slashdot
+
+%
+Ós rud é nuair a bhíonn an cuspóir Debian curtha chun appease do leasanna anmais na dtomhaltóirí neamhoilte? - Steve Shorter
+		-- Seen on Slashdot
+
+%
+<Joeyh> netgod: ER, is iad seo 2.2.0 pacáistí 2.0.0pre9 nó an bhfuil tú        líne dhíreach leis na déithe?<Netgod> joeyh: I have an líne dhíreach
+		-- Seen on Slashdot
+
+%
+<_Anarchy_> Argh .. cé atá handing amach na málaí páipéar 8)
+		-- Seen on Slashdot
+
+%
+<Awkward> duine ar bith ar fud?<Flav> no, tá muid go léir Polagáin neamhrialta
+		-- Seen on Slashdot
+
+%
+<Culus> OH MY GOD NACH A gineadóir Tosach randamach<Netgod> surely nach raibh tú ag smaoineamh go raibh statach? cé chomh bacach a bheadh? :-)
+		-- Seen on Slashdot
+
+%
+Is nonexistence Mere leithscéal fann maidir le dearbhú rud unseeable. Tá tú* Is féidir a fheiceáil * dragons. Tá tú ach chun breathnú ar an treo ceart.
+		-- John Hasler
+
+%
+Is <cailceacha> GCC an comhbhrúiteoir fearr haistriú riamh linux. is féidir leis dul         12MB foinse eithne (agus go bhfuil .debbed) isteach i 500k eithne
+		-- John Hasler
+
+%
+<Manoj> I * nós * an sicín
+		-- John Hasler
+
+%
+ [] DOGBERT [2] Richard Stallman [3] Buffy SUMMERS [1] Manoj Srivastava [4] NEAMHNÍ de na nithe thuas
+		-- Debian Project Leader 1999 ballot
+
+%
+<Oryn> duine ar bith a fhios má tá leagan de dpkg do RedHat?
+		-- Debian Project Leader 1999 ballot
+
+%
+acme-gunna (3.1415) éagobhsaí; práinne = íseal  * Added sábháilteachta a chosc dismemberment oibreoir Dúnann,: bug # 98765,    bug # 98713, # 98714.  * Added manpage. Dúnann: # 98725.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+! Netgod: *! cuileoga am nuair a bhíonn tú ag baint úsáide as linux! Doogie: *! yeah, lúb gan teorainn i 5 soicind.! Teknix: *! Tá duine ar bith a ath-thástáil go bhfuil 2.2.x?! Netgod: *! yeah, 4 soicind anois
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Greets dorcha liw le frog beag buí.* Póga liw an frog agus uaireadóirí sé athrú chuig nerd álainn  Cailín Bíonn, í i gcrích go dtí uachtar reoite, agus tá cónaí go sona sásta go deo i ndiaidh  léi<Dorcha> liw: Umm sé rómhall go bhfuil an frog ar ais?
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+* Cheapann Culus ba chóir dúinn dul go dtí seónna trádála agus a fheiceáil conas a lán daoine a chuirimid  Is féidir a mharú ag caitheamh dlúthdhioscaí Debian orthu
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Dorcha> "Sea, d'onóir, tá mé RSA tattood cód criptithe ar mo        bod. Déanfaidh thaispeáint mé an giúiré? "
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Tá <Knghtbrd> tú daoine go léir dÚsachtach.<Joey> ridire: cinnte, sin an fáth a mbímid ag obair ar Debian.<JHM> Knghtbrd: dul i dteagmháil le do nutcase istigh.
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Culus> Saëns Léiríonn nach bugs níos lú ná 3 TCP / IP in 2.2.3
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Mearcair> alexsh: Be / AN-/ cairful, d'fhéadfaí tú, má tá do ámharach, Fry do          motherboards ..<Knghtbrd> Mearcair - fuaimeanna cosúil le spraoi
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Rcw> dorcha: Caldera?<Knghtbrd> rcw - go nach dáileadh, tá sé ina curse<Rcw> Knghtbrd: tá sé ina dáileadh cursed
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Is Bogearraí cosúil le gnéas, tá sé níos fearr nuair a tá sé saor in aisce. - Linus Torvalds
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+<Dorcha> Knghtbrd: Tá go leor de whatevers.<Knghtbrd> dorcha - I Debian? Ifreann yera yeah dhéanaimid!
+		-- Wile E. Coyote <genius@debian.org>  Sun, 31 Jan 1999 07:49:57 -0600
+
+%
+Rinne mé é díreach tar éis a piss tú amach. :-P
+		-- Branden Robinson in a message to debian-devel
+
+%
+Na bogearraí a cheanglaítear Win95 nó níos fearr, mar sin suiteáilte mé Linux.
+		-- Branden Robinson in a message to debian-devel
+
+%
+10) nach bhfuil aon 10, ach sounded sé cosúil le roinnt deas :)
+		-- Wichert Akkerman
+
+%
+Eric Raymond: Ba mhaith liom cónaí i ndomhan ina nach bhfuil na bogearraí tarraing.Richard Stallman: Aon bogearraí nach bhfuil saor in aisce Sucks.Linus Torvalds: Tá suim agam i beoir saor agam.Richard Stallman: Sin ceart go leor, chomh fada is nach dóigh liom go bhfuil a ól. I                   Ní maith liom beoir.
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Níl mé ag duine ar leibhéal-i gceannas ... - Bruce Perens
+		-- LinuxWorld Expo panel, 4 March 1999
+
+%
+Pearsanta, ní féidir liom labhairt go minic faoi dea-sóisialta mar nuair a chuala mé eiledaoine labhairt faoi maith sóisialta, sin nuair a bhainfidh mé as mo gunnán.
+		-- Eric Raymond
+
+%
+Más mian linn rud éigin deas a fháil rugadh i naoi mí, ansin tá gnéas atarlú. Ba mhaith linn go mbeadh an cineál ghnéas atá inghlactha agus spraoi don dádaoine, nach bhfuil an cineál ina bhfuil duine ag fáil screwed. A ligean ar a fháil ar roinnt crostoirchiú, ach nach bhfuil duine éigin ag fáil screwed.
+		-- Larry Wall
+
+%
+Fhios ag gach duine go bhfuil Linux mór ... a dhéanann sé lúb gan teorainn i 5 soicind.
+		-- Linus Torvalds
+
+%
+TÁ! TÁ! TÁ! OH tá! (Úúúps, fuaime liom Meg Ryan ;-)
+		-- Ian Nandhra
+
+%
+<Knghtbrd> Má dtosaím aistí scríobh faoi Bogearraí saor in aisce do slashdot,           le do thoil shoot dom.
+		-- Ian Nandhra
+
+%
+<RoboHak> hmm, a dhéanann lón fuaime mar smaoineamh maith<Knghtbrd> Bheadh ​​blas cosúil le smaoineamh maith freisin
+		-- Ian Nandhra
+
+%
+p.s. - Tá mé faoi * seo * gar do rith timpeall sa seomra freastalaí lepéire gearrthóirí bolt, agus mallet adhmaid mór, ag gáire mar a bheadh ​​Maniac agusghearradh gach rud is féidir liom a d'oirfeadh an gearrthóirí bolt timpeall. agus whacking gonach féidir liom. mar sin má cosúil go i leath-incoherent, nó díreach i ndáiríre * i ndáiríre * olcag amanna, le do thoil logh dom. Ní strus rud deas. }; P
+		-- Phillip R. Jaenke
+
+%
+Tá gach cuideachta gearán faoi chleachtais gnó Microsoft achardaigh tor. Féach siad go hálainn agus boladh deas. Chomh luath agus dethrones cuideachta ádhMicrosoft beidh siad chaillfidh a gcuid peitil a nochtadh an dealga thíos. ABheadh ​​thorn ag aon ainm eile ghortú oiread.
+		-- Phillip R. Jaenke
+
+%
+mór rud éigin a dhéanamhTá an RudDá bhrí sin, ní mór é seo a dhéanamh
+		-- The Thatcherite Syllogism
+
+%
+<Knghtbrd> xtifr - beware james nuair atá sé as a cógais =>
+		-- The Thatcherite Syllogism
+
+%
+Beidh neamhshuim a bheith cinnte an downfall an chine daonna, ach a cares?
+		-- The Thatcherite Syllogism
+
+%
+Ná underestimate an chumhacht de stupidity daonna.
+		-- Robert A. Heinlein
+
+%
+Óir, n .:  A miotal intuargainte bog réasúnta gann i ndáileadh. Tá sé chinneadh  domhain sa talamh ag fir bocht a é a thabhairt ansin fir saibhir a bhí, díreach  adhlacadh é ar ais sa domhan i bpríosúin mór, cé nach bhfuil ór déanta  rud ar bith a thabhairt dóibh.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+* Lilo Dearbhaíonn leis seo OPN pian fíorúil ar an asal :)
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
+
+%
+"Tá siad araon gnóthaí - má thug tú dóibh go leor airgid, tá mécinnte go mbainfidh siad a dhéanamh is cuma cad sa diabhal a iarraidh ort: -> "
+		-- David Welton
+
+%
+"Tá tú an ceart gan a bheith ina asshole. Má éiríonn tú as an gceartBeidh gach rud a deir tú, agus a dhéanamh i anseo ar siúl in aghaidh leat. Más rud é nach féidir leatacmhainn a stopadh a bheith ina asshole ansin beidh duine a cheapadh chun túsmise outta anseo. "
+		-- Your rights as an irc addict
+
+%
+* Is Simunye sin sásta tá sí a máithreacha géine ar<Dellaran> tú a thabhairt níos fearr dóibh ar ais roimh misses sí iad!
+		-- Your rights as an irc addict
+
+%
+<Iambe> conning na daoine is intellegent ar an phláinéid nach bhfuil éasca
+		-- Your rights as an irc addict
+
+%
+California, n .:    Ón Laidin "teasa", a chiallaíonn "teasa" (mar atá i mBéarla "calorie" nóSpáinnis "CALIENTE"); agus "fornia '" in ionad "lánúnas collaí" nó"Fornication." Dá bhrí sin: Tierra de California, "an talamh ar ghnéas te."
+		-- Ed Moran
+
+%
+* Caytln slaps Lisa<Caytln> Catfight: P<LisaHere> Bí ag faire air chailín, is maith liom go bhfuil.<LisaHere> :)<Caytln> Figiúirí: D
+		-- Ed Moran
+
+%
+<MFGolfBal> rit / ara: Tá rud éigin i ndáiríre demented faoi UNIX            éadaí ...
+		-- Ed Moran
+
+%
+An X Córas Fuinneog:  An timpeallacht grafacha caighdeánach UNIX. Le Linux, tá sé seo de ghnáth  XFree86 (http://www.xfree86.org). Is féidir leat glaoch air X, XFree, an X  Córas Fuinneog, XF86, nó a lán rudaí eile. Call sé 'XWindows' agus  beidh duine smack tú, agus beidh tú a bheith tuillte air.
+		-- Ed Moran
+
+%
+<Knghtbrd> "Is iad na bailitheoirí airgeadra as líne." "Tá mé ag athródú cé           na cúpláin tánaisteach. Má táimid ath-ailíniú an chuirimid ar chéim iomadúil           Ba chóir go mbeadh a bheith in ann a bhaint as an maitrís inductor plasma a láimh           seoladh sraith nua spinoff stuff. "* Sighs ShadwDrgn<Céim> fhágann tú mo manifolds aonar<Chéim>!
+		-- Ed Moran
+
+%
+* Cheapann Turken Tá na páistí beag fíor adorable ... especialyy nuair  tá siad duine éigin elses.
+		-- Ed Moran
+
+%
+* Sighs Overfiend<Overfiend> Netscape Sucks.<Overfiend> Is teach de chártaí resting ar leaba de quicksand.<Espy> linn crith talún<Overfiend> i tornado
+		-- Ed Moran
+
+%
+<SilverStr> eitic meáin oxymoron, i bhfad mar Shrimp Jumbo agus            Microsoft Oibreacha.<MonkAway> gan trácht NT Slándáil
+		-- Ed Moran
+
+%
+<Silvrbear> Oxymorons? Chonaic mé ar cheann inné - an paimfléad ar "Taco Bell            Faisnéis Cothaitheacha "
+		-- Ed Moran
+
+%
+* Knghtbrd unleashes péire de gunnaí snurf dúbailte bhairilleach agus clúdaíonn  jesus le dairteanna snurf<Jesus> Meany: P
+		-- Ed Moran
+
+%
+<Jgoerzen> doogie: fuaim :-)-éagobhsaí<Knghtbrd> jgoerzen - tá sé.* BOPS doogie Knghtbrd<Knghtbrd> fheiceáil? Dul chun foréigean = D
+		-- Ed Moran
+
+%
+Bhí mé chomh maith le lucht leanúna Unix ollmhór ó shin i leith thuig mé nach raibh SCOUnix. - Dennis Baker
+		-- Ed Moran
+
+%
+<Dracus> Ctrl + Rogha + Ordú + P + R<Knghtbrd> dracus - YE GODS! Sin níos measa ná Emacs!<LauraDax> hehehehe<Dracus> nach ceist cad a dhéanann: P
+		-- Ed Moran
+
+%
+<Iambe> nach bhfuil tú nutcase<Knghtbrd> tú ar ndóigh nach bhfuil a fhios dom go maith go leor go fóill. =>
+		-- Ed Moran
+
+%
+* Cuí leis aj chóir Kb ^ ZZZ a phiocadh rudaí éagsúla a aisling mar gheall ná   rúin agus athruithe polasaí ginearálta.<Kb ^ ZZZ> aj - inis dom faoi, tá sé seo le Droch Cláraigh
+		-- Ed Moran
+
+%
+<Crow_> hmm, an bhfuil rogha --now-dammit do Exim?
+		-- Ed Moran
+
+%
+<DarthVadr> Kira: Join AN Dark TAOBH, ONE ÓGA.<Kira> Darth, * mé * an taobh dorcha.
+		-- Ed Moran
+
+%
+<Netgod> Feanor: u bhfuil aon smaoineamh ar an domhain ar an stupidty dhlí American
+		-- Ed Moran
+
+%
+Duine ar bith a sheasann amach i lár an bóthar Breathnaíonn an nós Roadkill dom.
+		-- Linus Torvalds
+
+%
+<Lilo> "Tabhair faoi leith CEARTA INTLEACHTA!"<Lilo> "Le do thoil a léiriú intleacht." =)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Feanor - saincheisteanna ceadúnais tábhachtach. Más rud é nach bhfuil muid ag féachaint ar ár n           asail anois, duine gonna teacht suas agus a bite linn níos déanaí ...
+		-- Linus Torvalds
+
+%
+"Anois, beidh orainn a mharú."
+		-- Linus Torvalds
+
+%
+* Is féidir knghtbrd cheana envision: "Ábhar: [Intinn A ULLMHÚ DO mholadh   COMHDÚ TUARASCÁIL bug] Typos sa cháipéis pholasaí "
+		-- Linus Torvalds
+
+%
+<Netgod> thats heh ina chúis caillte, cosúil leis an pronounciation ceart         "Jewelry"<Netgod> thabhairt suas :-)<Ciallmhar> agus an litriú ceart "dath" :)<BenC> heh<Saoi> agus alúmanam<BenC> nó airm núicléacha<Saoi> tá tú ag threating dom Yankee?<Saoi> hamháin faoi deara nach bhfuil againn an buama ...<BenC> ais as ya bolg buí
+		-- Linus Torvalds
+
+%
+<LauraDax>! Dia le feiceáil<Tabi-> LauraDax, ní féidir liom cuimhneamh go bhfaca "Dia"
+		-- Linus Torvalds
+
+%
+<Kira> Is cogadh máinliachta nuair a théann tú a thabhairt ar an trúpaí coigríche post srón?
+		-- Linus Torvalds
+
+%
+<Xtifr> Athena Desktop Environment! In bhur gcroí, * a fhios agat * tá sé an        rogha ceart! :)* Knghtbrd THWAPS xtifr
+		-- Linus Torvalds
+
+%
+Is neamhghlan ach aisteach - <Knghtbrd> shaleh.<Espy> heh, is neamhghlan fionnuar<Knghtbrd> Espy - agus aisteach.<Espy> yes, aisteach freisin
+		-- Linus Torvalds
+
+%
+<Xtifr> implants inchinn díreach :)<Knghtbrd> xtifr - yah, ansin bheadh ​​de dhíth i ndáiríre ag baint úsáide as ríomhairí áirithe           de na Dímheabhraigh smaoineamh!<Knghtbrd>;>
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Overfiend - BTW, a thógann tar éis tá muid ag amach X fad 1.4 gigs           a thógáil, tá tú sásta a admháil go bhfuil X bloatware? =><Overfiend> KB: tá ​​bearna 16 1/2 nóiméad i mo fhreagra<ACF> knghtbrd: mbeidh fianaise ann go bhfuil X ach an * 2 * windowing measa      chórais;)
+		-- Linus Torvalds
+
+%
+<Liw> diabhal, tosaíonn an ghluaiseacht luch uathrialach ghnáth tar éis úsáid mé      cnaipe luicheNí gá <wichert> úsáid an cnaipe luiche sin :)<Liw> yera yeah, ceart :)
+		-- Linus Torvalds
+
+%
+<Knghtbrd> a fhios agat, ní mór Linux cluiche ardán starring Tux<Knghtbrd> kinda Super Marioish, ach le Tux agus rudaí mar cíbear beag           bugs agus borgs agus gur saghas rud ...<Knghtbrd> Agus tá tú chun léim billgatus am atá thart agus an eochair bhuail a scaoil dó           isteach sa lava agus ansin a fheiceann tú roinnt Guy a Breathnaíonn an nós RMS           nó duine éigin a rá "Go raibh maith agat as a tharrtháil dom Tux, ach Linus           Tá Torvalds in caisleán eile! "
+		-- Linus Torvalds
+
+%
+<Thoth_> Yeah, go maith go bhfuil an fáth sé 2.3.1 uimhrithe ... tá sé dóibh siúd le linn         a chailleann NT-mhaith uptimes
+		-- Linus Torvalds
+
+%
+<Shinobi> Tá rudaí níos measa ná Perl .... asp thagann chun cuimhne
+		-- Linus Torvalds
+
+%
+* Stares m2 ar an monatóireacht a ... tá sé cosúil le hamburger ...<Knghtbrd> m2 - sin comhartha olc
+		-- Linus Torvalds
+
+%
+<Knghtbrd> Fág a Manoj chun glaoch procmail "puny"
+		-- Linus Torvalds
+
+%
+<Crow-> Manoj: go maith, i cant a thuiscint rudaí mar "s / 3 # $% ^% {]] [@ f245}"<Manoj> Crow: Níl sé sin go leor dlíthiúil ;-)<Knghtbrd> Manoj - conas a bheadh ​​duine a dhéanamh "s / 3 # $% ^% {]] [@ f245}" dlí           mar sin féin? (Agus cad a bheadh ​​sé a dhéanamh? Hehe)<Manoj> Knghtbrd: Ní mór duit a chríochnú an s /// abairt.<Knghtbrd> OH é, go léir?
+		-- Linus Torvalds
+
+%
+<Kira> Ada, an teanga amháin a scríobh chuig milspec.<Mikster> <shudder>
+		-- Linus Torvalds
+
+%
+<BenC> -include ../../debian/el33t.h<BenC> sendmail thógáil ... ainm header aisteach :)<Isildur> hahaha* Laffs netgod<Netgod> BenC: Is féidir u insint úsáid mé a choimeád ar bun sendmail? : P<BenC> heh :)
+		-- Linus Torvalds
+
+%
+<Céim> no ... musn't bith agam caife níos !!! =)<Simunye> cinnte go bhfuil yu Céim :)<Céim> tú i ndáiríre ag iarraidh mé bouncing as an tsíleáil?<Simunye> Yesh :)<Kira_> Is preabadh as an tsíleáil gewd<Céim> ceart go leor, go raibh ceist amaideach<Kira_> sé splatting ar an urlár go bhfuil an fhadhb.
+		-- Linus Torvalds
+
+%
+<Kensey> RMS d'oifig Uachtarán ???<RelDrgn> ... nó ESR, is mian sé post nua;)
+		-- Linus Torvalds
+
+%
+Oh no, ní arís.
+		-- Manoj Srivastava
+
+%
+<Knghtbrd> Deonaithe, tá RMS fanatic, ní féidir liom a shéanadh seo. Beidh mé a rá, fiú           tá sé ina pian ríoga sa asal is mó den am. Ach tá sé           fós níos minice ná a mhalairt gceart, agus ba chóir dó leibhéal éigin           creidmheasa agus meas as a chuid oibre. NÍ mhaith linn a bheith anseo inniu           gan é.
+		-- Manoj Srivastava
+
+%
+<Espy> amárach beidh suaitheadh ​​mór sa lucht saothair
+		-- May 18, 1999
+
+%
+Tá mé disléicse de Borg. A ullmhú chun do lannaithe asal.
+		-- May 18, 1999
+
+%
+<NeonKttn> Bhí cara dhom bata dom ina closet linn beacuse highschool I           Ní bheadh ​​a chreidiúint go raibh a fhios a fear faoi foreplay ...<NeonKttn> Shoulda liom grán rósta a thabhairt. :)
+		-- May 18, 1999
+
+%
+<Knghtbrd> Is chruachóipe do wussies<Topher> liostaí ríomhchlár .... chugainn, ar chruachóipe
+		-- May 18, 1999
+
+%
+<Kceee ^> Is fuath liom úsáideoirí<Knghtbrd> tú fuaime mar sysadmin cheana!
+		-- May 18, 1999
+
+%
+<Change_m2> Will Linux overtake riamh arán slisnithe mar an # 1 a bhaint amach            an chine daonna?
+		-- May 18, 1999
+
+%
+<APH> Tá Manoj cnónna ar an crusade bug shocrú ag dul! woo woo!Chuaigh <Knghtbrd> Manoj cnónna i bhfad ó shin. ach tá an socrú bug fuarú =>
+		-- May 18, 1999
+
+%
+<Rcw> siúd cosúil-baictéir-mhaith worms multicolor ag teacht amach as      backorifice Microsoft s<Rcw> go bhfuil an lógó backoffice
+		-- May 18, 1999
+
+%
+* Is Simunye ar TC 3-> lua TC12<Daem0n> simmy: bite me. :)<Simunye> deamhan: ceart go leor :)
+		-- May 18, 1999
+
+%
+<Overfiend> lilo: go maith ansin, tá tú is dócha thinker freagrach.            Fáilte go dtí club an-bheag.<Lilo> Overfiend: fáilte roimh dom nuair a bheith agat :)
+		-- May 18, 1999
+
+%
+Go bunúsach, ba mhaith liom a fhios ag daoine go bhfuil nuair a úsáideann siad dénártha amháin modúil,tá sé A fhadhb. Ba mhaith liom a fhios ag daoine go bhfuil i n-cnámha, agus méag iarraidh scairt sé amach as an rooftops. Ba mhaith liom daoine a múscail isweat fuar gach uair amháin ar feadh tamaill má úsáideann siad dénártha amháin modúil.
+		-- Linus Torvalds
+
+%
+* Imagines wichert_ máistir gan MTA<James> wichert: ehm? D'fhéadfadh bac a Feidhmíochta na BTS: p
+		-- Linus Torvalds
+
+%
+<Gecko> Hmm ... N'fheadar cad eile seperates Debian ón gcuid eile den        dáiltí Linux.<Knghtbrd> gecko - Ná againn tSuca<Gecko> Knghtbrd: ní gá duit a rá go bhfuil nuair a thugtar aghaidh grúpa daoine        Ó sin distros<Knghtbrd> gecko - phointe.
+		-- Linus Torvalds
+
+%
+Mar gheall ar an múnla forbartha foinse dúnta ar XFree bhfuil sé dodhéantachun tacaíocht a thabhairt, nó fiú speculate faoi, gnéithe i eisiúintí réamh nó béitede XFree.
+		-- Marcus Sundberg
+
+%
+>> Ní féidir liom i ndáiríre aird Bíobla-KJV-téacs mar dhoiciméad teicniúil,>> Ach ... :)> Tá sé ina lámhleabhar - do mhaireachtáil.Ach nach bhfuil sé tugtha cothrom le dáta i am ar fad, leis go forleathan go bhfuil séFaraor as dáta, agus cothaitheoir in aghaidh srutha Ní freagra a thabhairt ar a chuidríomhphost. :-)        - Branden Robinson, Oliver Elphick, agus Chris Waters i           teachtaireacht a Debian-polasaí
+		-- Marcus Sundberg
+
+%
+<Knghtbrd> féidir liom smaoineamh ar go leor de na daoine a bhfuil gá USER = ID10T someplace!
+		-- Marcus Sundberg
+
+%
+<Slashdot> Is é mo geograpy Poist lousy ... lol<Knghtbrd> mar sin tá mianach agus mé i mo chónaí anseo
+		-- Marcus Sundberg
+
+%
+Moonchild gan tuairim a? Satan scátáil bheith ag obair amárach!
+		-- Brett Manz
+
+%
+<Knghtbrd> I ndáiríre ní ag iarraidh i bhfad ar chor ar bith ... Just a focal chineál, ar           bean tarraingteach, agus bandaleithead neamhtheoranta !!
+		-- Brett Manz
+
+%
+<Knghtbrd> Má tá muid araon ceart (Tá mé ag guessing go bhfuil muid) Tá mé Níl An-sásta.* Minupla lámha tú an understatement na dámhachtana bliana.
+		-- Brett Manz
+
+%
+Uair dheireanach a bhí agam i dteagmháil pearsanta le chéile duine a bhí in áittaithí painful ... Thaitin liom áit é ...;)
+		-- Brett Manz
+
+%
+<Apple_IIe> duine ar bith le feiceáil mo chárta 80 colún?
+		-- Brett Manz
+
+%
+<Slackware> uh OH, cad tá thosaigh mé :)<Debian> ROFL ... distro cogaí leasainm.* Slackware Waits ach le haghaidh / leasainm Gnome, / leasainm KDE, agus ansin cogadh domhanda 4   a bhriseadh amach<WinNT>: OP<OpenBSD> <lacha><PalmOS> :)<Slackware> no'one bheadh ​​dare / leasainm RedHat<Tru64> mew.
+		-- Brett Manz
+
+%
+<Crow-> im fcucking Druk* Déanann Knghtbrd cinnte chun logáil rud Crow- deir anocht ...<MrBump> heheh<MrBump> Dúirt sé 'bpósfa orm! i dtigh diabhail!!<Crow-> Dude aon bhealach<Knghtbrd> MrBump - nach bhfuil sé GO meisce<MrBump> Knghtbrd: Tá mé ag brúite: o)
+		-- Brett Manz
+
+%
+<Knghtbrd> aggh!<Knghtbrd> DHÉANAMH IT STOP!<Knghtbrd> DHÉANAMH IT STOP !!
+		-- Brett Manz
+
+%
+<Knghtbrd> RoboHak - ceart go leor, an paiste nach briste, ach mo inchinn           Is cosúil<Leithris> go bhfuil aon rud nua (;<Knghtbrd> leithreas - hush.<Knghtbrd> =>
+		-- Brett Manz
+
+%
+Tá <DPG> Meiriceánaigh aisteach ....<Xtifr> Californians níos weirderTá <Knghtbrd> xtifr pointe ...
+		-- Brett Manz
+
+%
+* Smiles woot serenely.<Woot> Níl mé ag iarraidh a bhfuil cuma thar fonn faoi dul isteach knghtbrd s       siglist.
+		-- Brett Manz
+
+%
+<Culus> DHD: R tú mar chuid den overstructure Debian rúnda?<DHD> uimh. níl aon overstructure Debian rúnda.<CosmicRay> cé, anois gur thug duine éigin sé suas, a ligean ar tús ceann            :-)<Knghtbrd> CosmicRay - cén fáth nach fuaimeanna, cosúil ar bhealach spraoiúil a chaitheamh ar an           tráthnóna = D
+		-- Brett Manz
+
+%
+<Xtifr> ní gá duit a bheith dÚsachtach a bheith ag obair anseo .... OH fan, yes a dhéanann tú!        :)
+		-- Brett Manz
+
+%
+* O-o gcónaí mar debmake gheall ar a fhios aige go díreach cad a bheadh ​​sé a dhéanamh ...<Ibid> o-o: bheadh ​​agat ;-)
+		-- Brett Manz
+
+%
+2.3.1 scaoileadh. Ba chóir Folks nua chun an cluiche seo cuimhneamh goTá 2.3. * Press kernels forbartha, gan aon ráthaíochtaí go bhfuil siadNí bheidh a chur faoi deara do chóras a dhéanamh rudaí Uafásach mhaith truaillithe adioscaí, tine ghabháil, nó tús a reáchtáil tagarmharcanna Mindcraft.
+		-- Slashdot
+
+%
+dhéanamh {    :} Cé (HELL_FROZEN_OVER!);
+		-- Slashdot
+
+%
+0 7 * * * macalla "... Linux ach fad" | mail billg@microsoft.com -s = "Agus cuimhnigh ..."
+		-- Slashdot
+
+%
+<Hop> kb: Éileamh mé ionracas agus macántacht i dóibh siúd a dhéanann mé gnó<Hop> fhios agam go bhfuil mo éilimh míréasúnta, ach is féidir le Guy aisling, ní féidir leis?
+		-- Slashdot
+
+%
+<Jgoerzen> stu: ahh sin meaisín. Ná ní dóigh leat go bhfuil rud éigin ainmnithe           Stallman fiú a bheith ina Alfa? :-)<Stu> jgoerzen: no, i ndáiríre, ba mhaith liom a bheith prolly níos claonta chun ainm a 386      le 4 Megs de reithe agus 40 Meg Stallman tiomáint crua.<Stu> le cás mór ramhar a dhéanann tonna de torann agus rattles an t-urlár* Knghtbrd thiteann ar an urlár a bhfuil a thaobh ag gáire<Stu> agus ..<Stu> airde dúbailte tiomáint crua
+		-- Slashdot
+
+%
+Ní gá glaonna fheidhm Klingon bheith 'paraiméadair' - tá siad 'argóintí'
+		-- and they ALWAYS WIN THEM.
+
+%
+* Níl Knghtktty dul a iarraidh ar conas a fuair zucchini isteach sa díospóireacht ...
+		-- and they ALWAYS WIN THEM.
+
+%
+<Knghtbrd> Ábhar: [GR TOGRA] Ar chóir dúinn vótáil ar ábhair fánach?
+		-- and they ALWAYS WIN THEM.
+
+%
+<Woot> Cuir * gur * i tú .sig agus deataigh é, Knghtbrd.<Culus> Tá a fhios agat go mbeidh sé seo a léamh:><Woot> heheheheh.
+		-- and they ALWAYS WIN THEM.
+
+%
+"Mar tú turas tríd an saol nóiméad a ghlacadh anois agus arís a thabhairt arShíl an fear eile. D'fhéadfadh sé a bheith plotting rud éigin. "
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> Maith go leor, tá tú daoine a bheith tosaithe ag caint faoi iarratais BSDM de           crua-earraí líonra ... I mo thuairimse, beidh mé athrith agus rud éigin úsáideach a dhéanamh           agus Debianish agus fanacht AMACH den gceann ...<Knghtbrd> (le haghaidh athrú)
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - ná bí ag smaoineamh nach bhfuil Debian raibh roinnt dúr an- agus           bugs soiléir roimh<Knghtbrd> ndóigh, ní mór dúinn a shocrú de ghnáth linne SULA scaoileadh muid = D
+		-- Hagar the Horrible
+
+%
+<Knghtbrd> mariab - Tá mé forbróir Debian. Is Red Hat "an namhaid" nó           rud éigin mar sin buille faoi thuairim mé .. Fós, úsáideoirí typecasting RH mar           idiots nó a ndáileadh mar go hiomlán briste réir réamhshocraithe           Is FUD iomlán agus iomlán.
+		-- Hagar the Horrible
+
+%
+>> Ach IANAL, ar ndóigh.>> IANAL oiread. Is é mo mhac, ach má d'iarr mé air a d'fhéadfadh liom a fháil ar mé freagra> Ní bheadh ​​ag iarraidh a chloisteáil."Seo mo sonrasc." ? = D
+		-- Hagar the Horrible
+
+%
+> OK, feicim a fhios agat cad tá tú ag déanamh :-)Bíodh sin nó tá mé gotten maith go leor ag faking sé.
+		-- Hagar the Horrible
+
+%
+<Wichert> Is 8:00 uair an chloig ungoldly a bheith :) awake* Gorgo Faigheann ghnáth suas go 11:00
+		-- Hagar the Horrible
+
+%
+Tá An bhfuil aon cabal.
+		-- Hagar the Horrible
+
+%
+<_Anarchy_> ACF: b'fhéidir riachtanais 1 Aibreán aice slashdot bhliain a rith "Rob Malda            Glacann post nua mar cheann de thionscadal Debian "8)
+		-- Hagar the Horrible
+
+%
+* Osclaíonn netgod a bosca poist agus láithreach is mian hadnt sé
+		-- Hagar the Horrible
+
+%
+<Frogbert> a bheith crua leispiacha withoutn breasts ... i dont daoine a ghlacadh           tú dáiríre
+		-- Hagar the Horrible
+
+%
+B'fhéidir tá Debian gceist níos mó faoi feabhais teicniúla seachaséasca le húsáid ag bogearraí bhriseadh. I sean-is féidir linn a fheabhas. sasin ní mór dúinn a ghéill na páirce Microsoft. Buille faoi thuairim áit ar mhaith liom dulinniu?
+		-- Manoj Srivastava
+
+%
+* Is PerlGeek ndáiríre eachtrannach spás* Creideann Knghtktty PerlGeek
+		-- Manoj Srivastava
+
+%
+<Netgod> Tá mo chliant faoi úinéireacht go mór<Netgod> Guy fuair fréimhe, ar siúl sniffers data, .rhosts suiteáilte agusbackdoors, a chur dir úrnua in dtugtar / lib / "", a bhfuilsraith iomlán de smurfing agus uirlisí marú<Netgod> Ní raibh an botún amháin scriosadh na logfiles<Netgod> Is ceist conas a root hacked, agus go couldnt insint u<Netgod> bhfuil sé, ar ndóigh, ní mbosca Debian* Nótaí netgod é an bosca Debian an ceann amháin fágtha untouched ag an hacker
+		-- wonder why
+
+%
+* Cvs joeyh geallann a eolaire bhaile. AAAAAA<Drow> eeeeeeek<Drow> joeyh: Is é sin ach olc. Tréimhse.
+		-- wonder why
+
+%
+<Kethryvis> Gruuk: Tá UFies thuas agus thar an chine daonna :)
+		-- wonder why
+
+%
+Stop mé i bhfad ó shin chun iarracht aon ní i bug liosta dpkg a aimsiú.Ba chóir dúinn siúl ar feadh iontráil sa Leabhar Guinness Taifead.
+		-- Stephane Bortzmeyer
+
+%
+<Ahzz_> figured mé 17G oughta leor.
+		-- Stephane Bortzmeyer
+
+%
+<N3tg0d> Tá / usr / bin / emacs chur isteach / etc / shells fóill? : P
+		-- Stephane Bortzmeyer
+
+%
+* Bíonn joeyh leas a bhaint as cumas marvelous Netscape atá ar a tuairteála a dhúnadh        10 fuinneoga le keypress aonair<Joeyh> anois go bhfuil dul chun cinn!<Knghtbrd> Earráid Bus =>
+		-- Stephane Bortzmeyer
+
+%
+<Wordplay> thomhas tú do vibrators i "carachtair in aghaidh an tsoicind"? tá agamnuacht olc ar do shon, c90, tá tú ag masturbating leprintéir ponc-maitrís.
+		-- Stephane Bortzmeyer
+
+%
+Haigh! Tá mé víreas .signature! Cóipeáil dom isteach i do ~ / .signature chun cabhrú liom sprea =d!
+		-- Stephane Bortzmeyer
+
+%
+* Knghtktty whispers nothings milis le Thyla (stuif faoi tiomsaitheoirí agus            grafaicí agus uasghrádú reithe agus thiomáineann crua mór ...)<Thyla> oooooooooOOOOOOOOOO<Infinitas> Knghtktty: go dearfach pornagrafach ...* Thyla Téann amach i oireann na eacstais ...
+		-- Stephane Bortzmeyer
+
+%
+<Sanaya> tá tú guys go léir tinn! tinn breoite tinn Deirim ya;)
+		-- Stephane Bortzmeyer
+
+%
+* Is BMA a yank* Is Knghtbrd a Knghtbrd* Is DHD freisin yank* Is Espy olc* Creideann Knghtbrd Espy
+		-- Stephane Bortzmeyer
+
+%
+* Wonders BMA má beidh sé seo a dhéanamh ar an .sig Knghtbrd
+		-- Stephane Bortzmeyer
+
+%
+Níl réitigh Techical ábhar vótála. Dhá reachtaíocht sna StáitDeir chinn beagnach go bhfuil an luach na Pí a 3.14, díreach. vóta Coitiantaní dhéanann ar réiteach ceart.
+		-- Manoj Srivastava
+
+%
+<Aj> <Knghtbrd> an méadú teannas ar fud an domhain (mar is léir ón choireacht<Aj> agus whatnot) thar tréimhse ama Breathnaíonn a lán cosúil Linux<Aj> fás ó 1993<Aj> `` Linux nasctha le eipidéim coireachta ar fud an domhain !! ''
+		-- Manoj Srivastava
+
+%
+<Teller> áit a bhfuil mé agus cad tá mé ag déanamh sa handbasket?
+		-- Manoj Srivastava
+
+%
+Ós rud é nach bhfuil bunachar seo a úsáidtear ar mhaithe le brabús, agus ós rud é nach bhfuil oibreacha ar fadfoilsithe, go mbeidh a faoi úsáid chóir, mar a thuigimid é. Mar sin féin, más ann dóibhleath-assed leathcheann chinneann brabús a dhéanamh as seo, beidh gá iad adúbailte a sheiceáil go léir ...
+		-- Notes included with the default fortunes database
+
+%
+Níl aon cnaipe snooze ar cat atá ag iarraidh bricfeasta.
+		-- Notes included with the default fortunes database
+
+%
+Ábhar: Bug # 42,432: Debian-beartais: Togra le haghaidh CTV don Dréacht do CruthúnasCoincheap haghaidh Dréacht do Togra le haghaidh Togra le haghaidh CTV haghaidh CTV a cinneadh a dhéanamh artogra le haghaidh CTV don CTV ar an bhfuil nó nach shoud linn a bheith CTV aran / usr / doc le / usr / share / trasdul doc anois, nó níos déanaí.
+		-- Ed Lang
+
+%
+<Knghtbrd> Tá sé ina trackball ar cheann amháin<Wichert> mar sin nach bhfuil sé ina creimireTá <wichert> sé turd le liathróid gobadh amach<Wichert> a fondle tú i gcónaí
+		-- Ed Lang
+
+%
+* HomeySan Waits pizza an papa john a thaispeáint suas<Ravenos> mm. papa john ar.<HomeySan> súil againn a chur siad an tiománaí seachadta gleoite<Ravenos> i dont siad sin anseo.<Dr_Stein> cén fáth? tú ag dul a ithe an tiománaí ina ionad?
+		-- Ed Lang
+
+%
+<Netgod> bhfuil sé dom, nó go bhfuil Knghtbrd snoring?<Joeyh> marbsat knghtbrd!<Netgod> Kysh: wichert, gecko, joeyh, agus tá mé i seomra ag iarraidh a neamhaird          Knghtbrd<Kysh> netgod: Is Knghtbrd deacair a neamhaird a dhéanamh.
+		-- Ed Lang
+
+%
+<Woot> Man, i Is mian knghtbrd bhí anseo chun grab go bhfuil do a liosta SIG.[... Roinnt uaireanta an chloig ina dhiaidh sin ...]<Knghtbrd> Níl a fhios agam woot vewy maith, a dhéanann sé?<Knghtbrd> muahahahaha
+		-- Ed Lang
+
+%
+* Knghtbrd pelts wichert le dairteanna nerf* Nótaí wichert nach bhfuil aon nerfs ICBM fóill agus neamhaird kngtbrd<Knghtbrd> wichert - ach go fóill, tar éis féachaint ar na gunnaí gatling nerf, ICBMs           níl siad i bhfad amach (ach caidéil an rud damned ar feadh uair nó dhó           Is léir ...)
+		-- Ed Lang
+
+%
+Córais Oibriúcháin Suiteáilte:  * Debian GNU / Linux 2.1 4 CD Set ($ 20 ó www.chguy.net; san áireamh phraghas    cánacha, loingseoireachta, agus a $ 3 shíntiús FCA). Tá 2 dlúthdhioscaí binaries, 2 dlúthdhioscaí    cód foinse iomlán;  * Windows 98 Dara hEagrán Uasghrádú Leagan ($ 136 trí Megadepot.com,    Ní praghas measc cánacha / loingseoireachta). Ionadh, níl aon cód foinse    san áireamh.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Steal an mana. Rinne mé.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Bfextu> OH noooo, fuair Knghtbrd s gunna :)<Doogie> ^^ isteach ceol ^^<Knghtbrd> bfextu - o / ~ Tá gach duine ar an rith o / ~<Bfextu> o / ~ rith amach, ruuuuun ar shiúl ó na pá-ay-ain o / ~
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Mearcair> emacs Sucks, literally, ní insult, ach a comment go bhfuil a chuid          mór go leor chun go mbeadh tarraingt imtharraingteach deara ...
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Mar ríomhaire, a aimsiú mé do chreideamh i dteicneolaíocht amusing.
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Shannadh Knghtbrd 3 go Chris* Wonders athróg atá eile ainmnithe chris seachas dom<Knghtbrd> athróg - tú. =>* Knghtbrd Waits athróg a rá go mór "is dóigh liom úsáidtear SO!"<Athróg> Knghtbrd: :)* Athróg ++<Athróg> :)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+* Espy ponders an scuaine uplad dtugtar 'ifreann' ionas gur féidir liom a dhéanamh dupload --to ifreann
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Valkyrja> java, Breitheamh, uaireanta mhaith liom a smack tú.<Knghtbrd> Valkyrja - bhfuigheadh ​​sé taitneamh a bhaint as sé i bhfad ró<Reteo> Valkyrja: yah, dul ar aghaidh agus é a dhéanamh ... java buille i cappuccino! :-)
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+<Tali> bheith vewwy vewwy qwuiet .. Tá mé ewwos wuntime Huntin
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Red Hat Tá scaoileadh le déanaí Comhairleach Shlándáil (RHSA-1999: 030-01)ag clúdach thar maoil maolán sa phacáiste vixie cron. tá Debianfuair sé amach an bug dhá bhliain ó shin agus seasta é. Dá bhrí sin, leaganacha iaraon, an cobhsaí agus an éagobhsaí, nach bhfuil dáiltí de Debianleochaileach ar an bhfadhb ..
+		-- Bill Stilwell, http://linuxtoday.com/stories/8794.html
+
+%
+Ar dtús - tá Quake ach dochreidte. Ligeann sé tú a mharú arís agus arís eile doBoss san oifig gan a bheith gafa. :)
+		-- Signal 11, in a slashdot comment
+
+%
+Law Lucas ': Beidh Go maith bhuachan i gcónaí, mar gheall ar hires olc an _stupid_             innealtóirí.
+		-- Signal 11, in a slashdot comment
+
+%
+* Faigheann TribFurry amháin mail spam ó UCSD ... Úsáid mé ríomhphost a fháil ó            mé féin ach shocraigh mé nár mhaith liom mé féin agus a stopadh ag caint	    dom
+		-- Signal 11, in a slashdot comment
+
+%
+<Rain_work> nóta ar cuisneoir dorm ... "Chun an duine a ith an t-ábhar            an choimeádáin lipéad 'James' - rabhaidh, ba é mo bitheolaíochtturgnamh "
+		-- Signal 11, in a slashdot comment
+
+%
+<KatanaJ> Nóta ar saotharlann chem fridge- "Ní hé seo an cuisneoir explosion-          cruthúnas ".
+		-- Signal 11, in a slashdot comment
+
+%
+<KnaraKat> DalNet é cosúil leis an Oilimpeacha speisialta IRC. Níl a lán de           drooling goin 'ar agus tá gach duine' buaiteoir '.
+		-- Signal 11, in a slashdot comment
+
+%
+Ach tá a mhodhnú dpkg infeasible, agus tá muid aontaithe, i measc rudaí eile,choinneáil ar riachtanais ár n-úsáideoirí ar thús cadhnaíochta na ár n-intinn. Agus óúsáideora pheirspictíocht, rud a gcoinníonn an córas slachtmhar sa gnáthcás, agus oibríonn * anois *, tá i bhfad níos fearr ná mar a fantasies idealistic nósdpkg oibre.
+		-- Manoj Srivastava
+
+%
+Le haghaidh gach fhís tá athbhreithniú chomhionann agus chontrártha.
+		-- Manoj Srivastava
+
+%
+<Epsilon3> Knghtbrd, má bhíomar ag iarraidh ráiteas lameass ba mhaith linn a dúirt:           Hey, neckro
+		-- Manoj Srivastava
+
+%
+<Tigah _-> have 4GB do / tmp<Knghtbrd> Cad a dhéanann tú le 4G / tmp? Thiomsú X?<Tigah _-> yes
+		-- Manoj Srivastava
+
+%
+<KnaraKat> Bite me.Faigheann * TheOne roinnt salainn, aghaidh ansin chuig nibble ar KnaraKat beagán         giotán ....
+		-- Manoj Srivastava
+
+%
+* Nótaí Knghtbrd Tá prátaí mashed aige do brains anocht<Valkyrie> yum, is féidir liom a bhfuil roinnt?<Knghtbrd> um ...* Knghtbrd seithí ó Valkyrie
+		-- Manoj Srivastava
+
+%
+Tá <Knghtbrd> joeyh anois críochfort ag an tolg?<Knghtbrd> Is é sin Guy sreinge, swear =><Doogie> Knghtbrd: ríomhaire glúine<Doogie> agus ní féidir liom a chiallaíonn na cait.
+		-- Manoj Srivastava
+
+%
+Mar gheall ar roinnt de na snáitheanna le déanaí, d'fhéadfadh na díospóireachtaí idirghníomhachNí mór a dhéanamh ar chanbhás, i láthair réiteoir, aguscaitheamh lámhainní padded. ;-)
+		-- Phil Hands
+
+%
+<James> ach, ansin a úsáidtear mé Atari, bhí mé níos mó seans a bhuaigh an crannchur in        deich dtír ag an am céanna ná a fháil luathaithe X
+		-- Phil Hands
+
+%
+iontais * joeyh cén fáth mhaith le gach duine a fháil amach cé chomh hard atá sé<James> joeyh: cuidíonn sé leis an sniper
+		-- Phil Hands
+
+%
+* Iontais BenC cén fáth uasghrádú sé go 3.3.5-1 roimh dhúichí X cothaitheoir
+		-- Phil Hands
+
+%
+<Delenn> Ní ba mhaith liom é a dhéanamh trí 24 uair an chloig roimh mhaith liom a bheith lámhaigh suas an         grill agus slapping le cúpla cara ar an barbie.<Spacemoos> Cén fáth a mbeadh tú Lí cairde le Barbies thats, kinda kinky
+		-- Phil Hands
+
+%
+Go deimhin .. bunaithe ar an múnla de a bhfuil an NSA agus nach ... go leor de naTá daoine ag léamh seo baill den NSA ... /. Is Afterall 'Nuacht doNerds '.NSA Dé Luain MAIDIN {ag an meaisín caife):NSA AGENT 1: Hey guys, raibh tú ag seiceáil amach slashdot thar an deireadh seachtaine?    AGENT 2: No, bhí mé ag a shuiteáil Mandrake 6.1 agus coulnd't fhaightear an darn             ppp nasc suas ..    AGENT 1: Bhuel sheiceáil amach ... tá siad ar a chur chugainn.
+		-- Chris Moyer <cdmoyer@starmail.com>
+
+%
+Tá Teicneolaíocht cath constand idir na monaróirí níos mó agusníos Córais leathcheann-cruthúnais agus nádúr a tháirgeadh idiots mó agus níos fearr.
+		-- Slashdot signature
+
+%
+knghtbrd: d'fhéadfadh go mbeadh aon spúnóg, ach is féidir leat láthair an leochaileacht ieye_render_shiny_object.c?
+		-- rcw
+
+%
+<Joy> WOW ... taispeáin mhatamaitic simplí go bhfuil forbróirí Debian dúnta níos      ná * 31 * * mhíle tuairiscí faoi fhabhtanna * ós ann ár BTS!<Joy> go bhfuil thart ar 30,999 níos mó ná Microsoft;)
+		-- rcw
+
+%
+<Knghtbrd> NÓTA GO THUAS IS Just AN TUAIRIM AGUS NACH CÓIR BEMeasfar go bhfolaíonn AON BEART FAISNÉISE Fíorasach. THE           Cainteoir SÉANANN rud agus gach duine. Déileáil leis.
+		-- rcw
+
+%
+<James> freaks aon GNOME timpeall?<Knghtbrd> dom, tá mé ach anchúinse
+		-- rcw
+
+%
+<Madax> ahh<Madax> le bailiú na geeks ....<Madax> Is féidir liom smell anois
+		-- rcw
+
+%
+<Knghtbrd> fhoghlaim chun grá Déantóir Fuinneog.<Knghtbrd> Is NeXTStep beag maith do na anam.
+		-- rcw
+
+%
+Caveats: tá sé GNOME, bíodh eagla ort, a bheith an-eagla ar an líne ag brath
+		-- James Troup
+
+%
+<Culus> Hhhmmmmmmmm<Culus> waterbeds do bha<Culus> eleet<Cas> Culus: cén fáth go mbeadh bó gá Waterbed?<Culus> Cas: Chun a bheith compordach te
+		-- James Troup
+
+%
+Má tá tú cad a itheann tú, buille faoi thuairim mé go ndéanann dom danish cáis.
+		-- Anonymous
+
+%
+<Hop> nuair a thosaíonn tú ag déanamh botúin ach dúr atá soiléir, thats      nuair a thosaíonn tú ag fáil inniúil<Hop> toisc nach bhfuil tú botúin a dhéanamh míthuiscint bhunúsach<Hop> agus thats * * comhartha maith.
+		-- Anonymous
+
+%
+<Lilo> tá sé aisteach, nuair a théann tú ar Safari go dtí an Afraic a ghabháil le leon, tú       sé beo agus muirir sé, agus ansin tú a mharú air<Lilo> nuair a théann tú ar Safari go South Bay a aimsiú VX Palm, fhaigheann tú       sé marbh agus é a chur abhaile agus muirir sé tar éis a thagann sé :)
+		-- Anonymous
+
+%
+<Lilo> féidir liom a léamh ar an * lámhleabhar fuilteacha * amhail is dá mba de chineál éigin       chonair reiligiúnach cur síos cineálacha enlightenment féidir leat a bhaint amach       tar éis 10 bliain ar sliabh :)
+		-- Anonymous
+
+%
+Law Geataí ': Gach 18 mí, an luas leath bogearraí.
+		-- Anonymous
+
+%
+<Knghtbrd> Solver_: húsáideoirí cheart dóibh a bheith messing le fuaim a ngrúpa a chur           fuaime .. Bí cinnte go bhfuil na feistí ar fad ngrúpa fuaime (ls -l           Beidh / dev / dsp thabhairt duit an tásc is tapúla má tá sé is dóchaleagtha ar dheis) agus a thógáil eithne le tacaíocht fuaime do do chárta<Knghtbrd> NÓ optionally shuiteáil alsa foinse agus modúil don thógáil           le a dhéanamh-kpkg<Knghtbrd> NÓ (ní mholtar) a fháil agus a shuiteáil olc OSS / Linux olc           neamh-saor dénártha olc tiománaithe ach olc --- ach iad siúd atá olc.Agus luaigh mé go bhfuil nach bhfuil sé molta?
+		-- Anonymous
+
+%
+I mo thuairimse, nach bhfuil irc ag dul ag obair áfach --- tá muid ag rith amach as an spás topaic!
+		-- Joseph Carter
+
+%
+"Seirbhís do Chustaiméirí Pacific Bell, tá sé seo [..], conas is féidir liom a chur ar fáil duit leseirbhís do chustaiméirí den scoth a lá atá inniu ann? ""Hahahahaha !! Sin maith, is maith liom é ..""Um, go raibh maith agat, a dhéanann siad dúinn a rá go bhfuil."
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Danpat> Omnic: newzealanders fuilteach<Omnic> danpat: chur sock ann<Danpat> heh :)<Knghtbrd> dhéanamh spraoi ar .nz'ers éagsúla --- tá siad ar fad aisteach* Seithí knghtbrd<Omnic> hrmph
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> Flinny: crontab draíocht dubh kinda stuif :)<Knghtbrd> Joy: ní go bhfaigheann daoine i gceist chun rince naked timpeall tinte cnámh           suairc rudaí aisteacha agus waving a n-airm faoi i amaideach           slí?<Rcw> knghtbrd: cad a dhéanann tú * cheapann * daoine ag novare?
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Knghtbrd> * snipsnip *<Rcw> OH daor is é sin an fhuaim eagarthóireacht fortune-bunachar?<Joy> uh oh<Knghtbrd> Tá =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+<Joy> go bhfuil kludge (TM)<Knghtbrd> Oibríonn sé (TM)Oibríonn <Joy> AIX (TM)<Knghtbrd> no nach ndéanann sé<Knghtbrd> =>
+		-- knghtbrd and a pacbell rep, name removed to protect her job
+
+%
+"Is é an difríocht idir genius agus stupidity go bhfuil genius séteorainneacha. "
+		-- Albert Einstein
+
+%
+<Knghtbrd> Má tá duine éigin a mhuirearú do shárú ar Poist bheadh ​​dlíthe rialaithe criptithe a fháil           gáire tú lasmuigh den chúirt, ach "imscrúdú" iad ar muirear hte           dtréas!<Knghtbrd> Tae, duine ar bith?<Espy> B'fhearr liom drown in áit polaiteoirí in ionad an tae :)<Stu> ESPY: Tá polaiteoirí gills, duhNí gá <Espy> weasels bheith gills
+		-- Albert Einstein
+
+%
+Má tá mé deacracht a shuiteáil Linux, tá rud éigin mícheart. An-mícheart.
+		-- Linus Torvalds
+
+%
+* Gropes bma_home tú<Bma_home> "oups, cainéal mícheart"<Bma_home> </ ACF><Cerb> scor groping dom<Doogie> tá a fhios agat mian leat é.<Bma_home> ndáiríre, go raibh sé "grope dom leanbh"<Gecko-> dteagmháil mo mhac agus tú bás, CMB;)<Doogie> gecko-: ach tá do bhean chéile ceart go leor?
+		-- Linus Torvalds
+
+%
+Léitheoireacht lámhleabhair ríomhaire gan na crua-earraí chomh frustrating mar léitheoireachtlámhleabhair gnéas gan na bogearraí.
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> (TINC)<Espy> (ytitac)<Knghtbrd> (ntinac)<Espy> (sé)<Knghtbrd> (i)* Nótaí Espy caint i ACR é ^ Winitialisms scary nuair a bheidh an taobh eile  Tuigeann tú
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> tá sé go bhfuil an chuid is mó unices ársa ró-olc Y2K comhlíontach<| Báisteach |> ró-olc?<| Báisteach |> cén fáth, mar ní bheidh daoine a uasghrádú go dtí 2038?
+		-- Arthur C Clarke
+
+%
+<Espy_on_crack> "suiteáilte mé 'Linux 6.1', nach bhfuil a dhéanamh dom UNIX                Gúrú? "<BenC> Espy_on_crack: aon, caithfidh tú a shuiteáil dhó roimh a bhfuil tú a       Gúrú ... uair amháin a chruthú gur féidir leat é a dhéanamh, an dara a shocrú na rudaí       do bhris an chéad uair<Espy_on_crack> OH ceart, conas amaideach de dom
+		-- Arthur C Clarke
+
+%
+* Dhéanann knghtbrd an rud ET<Knghtbrd> duine fuair labhairt-n-seal?
+		-- Arthur C Clarke
+
+%
+<Omnic> eile theannta .sig
+		-- Arthur C Clarke
+
+%
+Tá mé ag tosú ag smaoineamh d'fhéadfadh an linn snámha géine úsáid clóirín beag.
+		-- Arthur C Clarke
+
+%
+Tá sé chomh bad is a cheapann tú, agus IAD siad amach a fháil duit.
+		-- Arthur C Clarke
+
+%
+<Espy> a bheith cúramach, d'fhéadfadh roinnt twit ceanglófar tú<Espy> as comhthéacs ...
+		-- Arthur C Clarke
+
+%
+*** Topaic le haghaidh #redhat: Is Redhat an freagra ar gach do chuid fadhbanna. Tá sé    D'fhéadfadh a bheith ar an tús freisin!
+		-- Arthur C Clarke
+
+%
+* Wonders cesarb más rud é i níos lú ná seachtain beidh Carmack deireadh suas ag fáil i  r-phost cóip caoinchead leagan den fhoinse Quake atá ceithre  uair níos tapúla ná an méid a chuaigh amach ar a lámha fíorúil ...
+		-- Arthur C Clarke
+
+%
+<Knghtbrd> JHM: Níl mé ag cur crith sa bhfoinse eithne<Knghtbrd> ach ba chóir dúinn a chur crith sna floppies tosaithe ceann-suas           Cluiche Tetris Caldera s ..;>
+		-- Arthur C Clarke
+
+%
+Ní gá Gunnaí daoine a mharú. Tá sé sin urchair diabhal. Gunnaí dhéanamh ach iad a duli ndáiríre i ndáiríre go tapa.
+		-- Jake Johanson
+
+%
+<Espy> ní mór dúinn a roinnt príomhbhunaíochta a dhul isteach "croí" agus "WTF-úsáidí-so"
+		-- Jake Johanson
+
+%
+<Culus-> libc6 níl sé riachtanach: |
+		-- Jake Johanson
+
+%
+Is <DHD> bhfuil pacáiste Nollag speisialta do quake<DHD> nuair a gheobhaidh tú a bheith cosúil leis an robot Santa ar Futurama?<Dunham> DHD: bheadh ​​cluiche sách neamhchothrom ...<Knghtbrd> Dunham: sin é an smaoineamh. =>
+		-- Jake Johanson
+
+%
+<Knghtbrd> bhfuil an fhadhb leis na caighdeáin códaithe GNU TOIMHDÍONN siad goÚsáideann gach duine ar fud an domhain emacs .. Má go raibh an cás, saor in aisce           Bheadh ​​bogearraí bás toisc go ba mhaith linn go léir fadhbanna wristcosúil le RMS ag anois agus a thuilleadh a bheith in ann chun cód. =>
+		-- Jake Johanson
+
+%
+C'mon! agóid pholaitiúil! dar leis. Cá bhfuil spiorad anarchist? ;-)
+		-- Decklin Foster
+
+%
+Táimid tar éis upped ár gcaighdeán, mar sin suas mise!
+		-- Decklin Foster
+
+%
+* Tá woot dtugtar anois mar woot-dinnéar* Knghtbrd sprinkles a salainn beag ar woot<Knghtbrd> Riamh mé go raibh woot roimh ... Dóchas blas siad go maith<Woot-dinnéar> noooo!<Woot-dinnéar> ní itheann mé!* Chinneann Knghtbrd nach bhfuil sé ag iarraidh dinnéar a labhraíonn leis ... hehe
+		-- Decklin Foster
+
+%
+[Maidir le bearta cheating in crith a chosc]Ciallaíonn mé, chomh fada agus is féidir liom a dhéanamh ar mo Tosaitheoir roicéad breathnú cosúil le Twinkie mór,Beidh mé sásta;)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> r0bert: i mbeagán focal, tá muid ag bogadh rudaí arís eile ar an gcliant           faoi ​​láthair freagrach as insint an fhreastalaí i rudaí ar an           Seiceálacha freastalaí féin<Knghtbrd> Má deir Neo "Níl aon spúnóg", Beidh an Maitrís rá "Oh yes           níl --- aon cheating! "<HOLLIS> Ach is eol dó Kung Fu ...<Knghtbrd> Cinnte a dhéanann sé, ach tá mé Tosaitheoir roicéad.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Mearcair Cuireann chodhladh lámh XT-Ream ar ..* Mearcair fáltais ansin chun buille XT-Ream le lámh XT-Ream ar.<Knghtbrd> WOW, tá sé go léir an hacking crith dhéanamh Mearcair foréigneach anseo* Is mao sásta go bhfuil an tionscadal crith bhrionnú i lámha go maith
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Knghtbrd> Bhí CVS / Iontrálacha an líne is gá dom a "athrú"<Mearcair> Knghtbrd: An raibh ar tí é a lua cibé .. <G><Mearcair> Knghtbrd: Anois, réidh chun tiomantas?<Knghtbrd> mhaith liom ádh<Knghtbrd> Mearcair: tá sé tiomanta<Knghtbrd> Mearcair: agus tar éis an tsaoil go bhfuil, gur chóir a bheith chomh maith.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+* Knghtbrd crosa a bharraicíní<Knghtbrd> (má thrasnaigh mé mo mhéara go mbeadh sé deacair a chlóscríobh)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Doogie> tá rud amháin dona faoi a bhfuil fón póca.<Doogie> is féidir liom a bheith bainte amach ag am ar bith. : |<Wmono> sin an fáth a fhágann mé mianach amach i gcónaí. =>
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> conas a bhfuil muid ag dul a fhuaimniú '00 nó '01 nó '02 agus mar sin de?<Deek> Slán a fhágáil na nóchaidí, a rá hello chun an naughties. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Deek> Má pointí an t-úsáideoir an gunna ar a chos agus pulls an tús, sé       is é ár post a chinntíonn go mbainfidh an piléar ina bhfuil sé ceaptha a.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Mearcair> Bí rabhadh, tá mé méarchlár féidir liom a úsáid chun buille luser ar cheannairí          i, agus ansin leanúint ar aghaidh le húsáid ... (=:]<Deek> Mearcair: Ó, an IBM. :)
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Palisade> knght, dar leis, tá tú ag pasting mo focail as comhthéacs           #debian nó rud éigin?<Palisade>;)<Knghtbrd> bith, ach ba chóir dom a bheith dócha;><Palisade> d'oh!
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> Mearcair: Ní GPM le brabhsálaí gréasáin an-mhaith. Deisigh é.
+		-- Qeyser <keyser@jhu.edu>
+
+%
+<Cas> maith ann dul ya. rud éigin dúr rá i irc agus tá sé      immortalized deo i gcomhad .sig duine
+		-- Qeyser <keyser@jhu.edu>
+
+%
+Tá Microsoft tras idir an Borg agus an Ferengi. Ar an drochuair,úsáideann siad Borg chun a gcuid margaíochta agus Ferengi chun a gcuidcláir.
+		-- Simon Slavin
+
+%
+Ba mhaith liom a chaitheamh in áit 10 uair an chloig a léamh duine eile cód foinse ná 10nóiméad ag éisteacht le Musak ag fanacht ar thacaíocht theicniúil nach bhfuil.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+Nuair a cheapann tú go bhfuil tú ag dul lá atá inniu ann?
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+
+%
+iarr mé éisteacht gach cineál ghruaim agus tuar do Y2K Seirbigh, mar sin mé Shíl mhaith liom heed roinnt de na comhairle go bhfuil na saineolaithe ag tabhairt: Líon suas an carr ar umar gáis, stoc suas ar earraí stánaithe, líonadh suas an bathtub le huisce, agus mar sin de.Buille faoi thuairim mé nach raibh mé go hiomlán awake nuair a chríochnófar mé mo ullmhóidí déanach seo caiteoíche. Ar maidin fuair mé na seilfeanna cistine sáithithe i gásailín, uiscesa charr ar umar gáis, agus mo bathtub líonadh le pónairí bácáilte.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Tarzan> hug raibh tú ag titim as do pirch nó rud éigin?<Knghtbrd> me? heh.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Espy> tá tú bácáilte<Knghtbrd> Espy: ach leath chomh
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Darkangel> I go ginearálta nach rud ar bith go bhfuil "turgnamhach" úsáid agus            "Rabhadh" pasted ar fad níos mó ná é<Darkangel> bith, níl mé go balbh ... hehe<Knghtbrd> ...* Mheasann darkangel íoslódáil an eithne is déanaí éagobhsaí
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Wichert> Is solaris BSD, agus mar sin ba chóir é ag obair* Bíonn Espy wichert ar píopa crack shiúl
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> tá sé unices ró-olc is aois iompaithe amach Y2K comhlíontach<Knghtbrd> mar ciallaíonn sé go mbeidh daoine FÓS IAD A RUNNING DÓIBH in 30 bliain           = p<Knghtbrd> bheadh ​​sé sin i bhfad níos deise má Y2K maraíodh go héifeachtach as           hpux, aix, sunos, srl;><Espy> Knghtbrd: ós rud é nuair a bhíonn PH-UX, aches, agus solartus "sean-"?
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+* Wonders gxam má tá gach na Siombailí ndáiríre is gá<Knghtbrd> chuid is mó acu i láthair na huaire tá<Knghtbrd> ní mór dúinn really a ghlanadh suas iad ag pointe éigin<Knghtbrd> gxam: Beidh na Siombailí ag dul amach mar a muid ag aistriú i dtreo           modularity agus madness (ie, libtool)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Raptor> Adamel, i smaoineamh an cód seasta agat de mo nár oibrigh<Creiche> Níor chóir liom a bheith tiomanta an cód oibre<Knghtbrd> creiche: mar tá sé ar an chéad uair GO tharla riamh = p
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mearcair> Knghtbrd: Ag baint úsáide as -3dfx nó -svga?Beidh <Knghtbrd> Mearcair rud éigin sane leis<Knghtbrd> Mearcair: dá --- sig11 SVGA s, sig4 -3dfx s<Knghtbrd> Mearcair: ní go ceart go maith? =>
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Knghtbrd> Iontaobhas linn, tá a fhios againn cad tá ag éirí linn ... Is féidir linn a bhfuil aon smaoineamh CONAS           táimid ag déanamh air, ach tá a fhios againn CAD tá ag éirí linn.
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Mearcair> <CJ | Bizkit-0-> agam gur féidir a uaslódáil chuig tho freastalaí linux<Mearcair> <CJ | Bizkit-0-> fuair mé cuntas bhlaosc ar cheann amháin<Mearcair> <Mearcair> Cad ag rith?<Mearcair> <CJ | Bizkit-0-> Umm<Mearcair> <CJ | Bizkit-0-> Apache i smaoineamh<Mearcair> Cúnamh, le do thoil cabhrú ..* Chuckles Omni
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<Jt> Ba chóir a bug a mharcáil criticiúil má dtéann sí i gcion ach áirse amháin?<James-workaway> jt: rc don áirse b'fhéidir, ach iad siúd de chineál ar áirse                 Tá bugs sonracha annamh ...<Jt> ní nuair atá sé fabht sa GCC<Doogie> jt: GCC bhaint as sin áirse a fháil. :)
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+<EdLin> LWE?<EdLin> Linux W ?? E ??<Feiceann> Beidh eatyou<JHM> Expo Domhanda?<EdLin> fheiceáil i
+		-- Dan Pearl in a message to rec.humor.funny
+
+%
+"Táille ainmniúil". Cad pianbhreith gránna. Tá sé ar cheann de na rudaí sinle tuiscint go má tá tú a iarraidh, ní féidir leat deis a sé.
+		-- Linus Torvalds
+
+%
+<Deek> tú GPL do chuid obair bhaile? :)<Knghtbrd> yah = DTá <knghtbrd> Duine ar bith atá ceadaithe a úsáid nó a mhodhnú m'obair bhaile, ach má tá siad           dháileadh athruithe mór dóibh san áireamh leis inléite ag meaisín iomlána           cód foinse;>
+		-- Linus Torvalds
+
+%
+* Is knghtbrd gach lá níos cinnte go nach bhfuil a fhios an chuid is mó C ++ coders cad           ifreann siad ag déanamh, agus sin an fáth go bhfuil C ++ sórt Rap droch<Culus> kb: Ní gá an chuid is mó coders C fhios cad atá ar siúl acu, a dhéanann sé ach sé        níos éasca a chur i bhfolach: P<Culus> fheiceáil mar shampla, ProFTPD: P
+		-- Linus Torvalds
+
+%
+<Culus> Agus ná tús a chur orm ar Perl!<Culus>:>Is <shaleh> Perl thar olc<Jim> nach bhfuil a fhios agat Perl go fóill?Is breá <netgod> gotta teanga gan aon error definable
+		-- Linus Torvalds
+
+%
+<Doogie> cat / dev / randamach | Perl?<Shaleh> doogie: tá sé chomh maith sendmail.cf bailí<Doogie> :)* Lámha knghtbrd doogie a senseless-úsáide-de-cat dámhachtana* Is mian shaleh chun triail a bhaint ach tá eagla
+		-- Linus Torvalds
+
+%
+<DHD> Perl </ dev / BDSM<Knghtbrd> bhfuil / dev / BDSM agat?<DHD> cinnte, tá sé ina gineadóir uimhir randamach pseudosadomasochistic
+		-- Linus Torvalds
+
+%
+<Kysh_> Joey: Tá mé ar sé ceart anois .. 3 dioscaí 1.3Gb, 128M reithe, 50MHz dé        (Suas go dtí 250MHz quad)<Kysh_> Is é an ghabháil go pulls sé 110v ag thart 12A 8><Culus> 12A!<Culus> Maith go leor, is é mo sorn 3000W, tá an ghrian 1320W<Culus> TÚ FÉACH A FAIDHBE ANSEO<Calc> a 1320W ghrian, is é sin cosúil le triomadóir gruaige :)
+		-- Linus Torvalds
+
+%
+* Ritheann joeyh_ ps agus feiceann 10 línte de chód awk* Recoils joeyh_ i horror
+		-- Linus Torvalds
+
+%
+<Knghtbrd> joeyh: Bhí mé síos ó inné midmorning agus pacbell dúirt           ar maidin a AT & T a bhí an locht agus beagnach gach ceann de na stáit           ba síos<Rcw> dunno cén fáth seasann daoine ar féidir an t-idirlíon maireachtáil uileloscadh núicléach      nuair nach féidir leis maireachtáil ar backhoe
+		-- Linus Torvalds
+
+%
+Scríobhadh an teachtaireacht seo le vi! (Nach bhfuil duine ar bith ar fud an domhain cares)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+athshocrú Ceangal ag roinnt moron le backhoe
+		-- seen on an old message from an anon.penet.fi address
+
+%
+5 Feabhra 13:27:01 lp0 Tríonóide trí thine        - An eithne Linux, alerting dom go raibh roinnt anaithnid           fadhb le mo printéir (is é sin, go raibh sé as dúch)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+An níos lú a fhios agat faoi ríomhairí mó a ba mhaith leat Microsoft!        - Feachtas ad Microsoft, circa 1996(Fianaise go fógraíocht Microsoft _isn't_ mímhacánta!)
+		-- seen on an old message from an anon.penet.fi address
+
+%
+Ag déanamh cinneadh iontach amháin agus a bunch iomlán de na cinn mediocre nach bhfuil chomhmaith mar a dhéanamh a bunch iomlán de chinntí cliste go ginearálta ar fud napróiseas iomlán.
+		-- John Carmack
+
+%
+Níl sé costas de ghnáth am éifeachtach ciallmhar le dul a dhéanamh. Ach má tá rud éigini ndáiríre pissing tú amach, leat dul díreach teacht ar an cód agus é a shocrú agus go bhfuili ndáiríre cool.
+		-- John Carmack, on the advantages of open source
+
+%
+<Calc> yea fuaimeanna sé úsáideach do RE'ing USB<Calc> have 3com ceamara usb useless anseo :(<Knghtbrd> Calc: D'fhéadfadh 3Com agat gafa le haghaidh dlíthe shárú a           nach ann 'till Deireadh Fómhair;><Calc> knghtbrd: beidh mé i bhfolach :)<Knghtbrd> ... fhriotú gabhála ró- eh?<Calc> knghtbrd: níl beidh mé i bhfolach sula bhfaigheann mé sheirbheáil
+		-- John Carmack, on the advantages of open source
+
+%
+<Mearcair> Ag an bpointe sin beidh sé a thiomsú, ach segfault, mar ba chóir dó ..
+		-- John Carmack, on the advantages of open source
+
+%
+* Tá Knghtbrd FAR ró tempted a .sig an díospóireacht ar fad ...
+		-- John Carmack, on the advantages of open source
+
+%
+An Unixverse críochnaíonn sí ar Tue, 19 Eanáir, 2038 03:14:07 +0000
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Knghtbrd: ba chóir dúinn a dhéanamh heachtra crith: glúine domhain sa chód ":          ritheann tú timpeall lámhach ar bugs :)<Knghtbrd> taniwha: Beidh mé pas a fháil ar an smaoineamh ar aghaidh go dtí OpenQuartz;>
+		-- John Carmack, on the advantages of open source
+
+%
+<Taniwha> Ba mhaith liom a réiteach ar fuinneoga fadhb ríthabhachtacha fdisk :)
+		-- John Carmack, on the advantages of open source
+
+%
+<Endy> knghtbrd: Tá netcode QW s ag déanamh rudaí aisteacha dom. : P<Knghtbrd> Is é seo an neamhghnách? =><Endy> Níl sé i ndáiríre. : P
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> rcw: Ó yay --- nach bhfuil mé páirteach i flamewar i ag           laghad ... 5 nóiméad!
+		-- John Carmack, on the advantages of open source
+
+%
+<Manoj> shaleh: Níl mé, in ainneoin do impleacht, a Dhia
+		-- John Carmack, on the advantages of open source
+
+%
+<SlayR> Cheannaigh mé díreach tar éis MS Office 2000 do amháin $ 20 !!!<Knghtbrd> fuair tú sracadh amach;><SlayR> a fhios agam;)
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> tá sé 06:00. Bhí mé suas 24 uair an chloig<Knghtbrd> Wake mé suas agus an saol riosca agus slándáil phearsanta.* Knghtbrd &; codladh<Teilifíse> gach duine go leor, fanacht againn 10 nóiméad agus ansin tosú ag tuilte Knghtbrd     le ^ G s. D'iarr duine éigin, fréimhe hack agus cat / dev / urandom> / dev / dsp.
+		-- John Carmack, on the advantages of open source
+
+%
+*** Tá Knghtbrd dtugtar anois mar SirKewLDooD*** Mearcair kicked SirKewlDooD ó #quakeforge (* Whack *)
+		-- John Carmack, on the advantages of open source
+
+%
+<Mearcair> Knghtbrd: Ba bhreá liom a fheiceáil tacaíocht a thabhairt do crosshairs XOR ..<Knghtbrd> Mearcair: tá tú ar quack.<Mearcair> Knghtbrd: Tá tú an dealer ... <G>*** Tá Knghtbrd dtugtar anois mar QuackDealer
+		-- John Carmack, on the advantages of open source
+
+%
+* Ní féidir Tirim-oighear chódú a bhealach amach as mála páipéir<Coderjoe> tirim-oighear: slánuimhir is mó () {ExitPaperBag (); ais 0; }<Knghtbrd> An é sin conas atá sin déanta ansin? * Bíonn nótaí *
+		-- John Carmack, on the advantages of open source
+
+%
+<Knghtbrd> eek, ní chéile ...<Knghtbrd> Dealraíonn riamh forbróir agus tá a máthair anois randamach           síniú ag baint úsáide as Sleachta irc ...<Knghtbrd> TAR CAD Started mé ANSEO ??
+		-- John Carmack, on the advantages of open source
+
+%
+* Feiceann Úsáideann tuairimí knghtbrd ar lena shíniú<Knghtbrd> Feiceann: chomh luath agus a chlóscríobh mé iad thuig mé gur mhaith liom snip níos fearr iad           mé féin roimh duine éigin eile a rinne;>
+		-- John Carmack, on the advantages of open source
+
+%
+* Breathnaíonn Omnic ar a nasc 33.6k agus ansin fhéachann ar Joy* Mearcair Cuddles a móideim cábla .. (=:]
+		-- John Carmack, on the advantages of open source
+
+%
+Deonaithe, ní raibh cuma Win95 s go léir go nua oiread - Apple iarracht a agairt a dhéanamhMicrosoft do chóipeáil an Chomhéadain Macintosh / is féidir bruscar icon, go dtí Microsoftle fios go bhfuair Apple leor dá smaointe Mac (lena n-áirítear an bhruscaricon) ó Xerox ParcPlace. Xerox is dócha wondering fós cén fáthTá gach duine ar spéis leo a gcuid cannaí bruscar.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Knghtbrd> go bhfuil sé comhartha ar thinneas meabhrach a wander aimlessly tríd an           tús léarscáil, a bhailiú do Thunderbolt, hop sa chomhthiomsú, agus GB           féin leis sé ach a fheiceáil do buouce ceann nuair a thiteann sétríd an bun an linn snámha? =><Knghtbrd> "Tá a fhios agat go bhfuil tú addict Quake nuair ..."
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Zoid> I mo thuairimse, fós tá tú guys cnónna chumasc Q agus QW. : P<Knghtbrd> ndóigh táimid cnónna. Fiú amháin a dúirt John amhlaidh. =><Taniwha> Zoid: táimid cnónna, ach tá muid cnónna táirgiúla :)
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Taniwha> Zoid: táimid cnónna, ach tá muid cnónna táirgiúla :)* Wonders taniwha cad blas cnónna táirgiúla mhaith
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> taniwha: Quote ábhar :)<Taniwha> Endy: :)<Knghtbrd> Endy: snipped mé cheana féin é
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+<Endy> I ndáiríre, I mo thuairimse, beidh mé ag fanacht prátaí le cur i gcrích roimh       shuiteáil Debian.<Endy> Ba chóir go mbeadh go luath, tá mé ag súil. :)<Knghtbrd> Endy: Tá a fhios agat ar ndóigh an-beag faoi Debian.
+		-- Danny Thorpe, Borland Delphi R&R
+
+%
+Ní dhéanfaidh aon ní fadhb uair amháin dífhabhtaigh tú an cód.
+		-- John Carmack
+
+%
+<Overfiend> An bealach Unix - gach rud comhad<Overfiend> An bealach Linux - tá gach rud a córas comhad :)
+		-- John Carmack
+
+%
+<Devkev> yera yeah chonaic mé an gunna tintreach agus nuair a bhí tú ag dul, ag smaoineamh         go raibh tú ag dul a tús roinnt asal :)<Devkev> did not realize go mbeadh sé do :) féin
+		-- John Carmack
+
+%
+"Seachas sin, le do thoil labhairt le dochtúir faoi bhaint do cheann ó doasal, creidim go mbeadh sé tairbheach do gach duine atá bainteach. "
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Tagline, tá tú é!
+		-- Zephaniah E. Hull, flaming someone on a mailing list
+
+%
+Tá mé ag cleachtadh pointe fíneáil eitice. Tá sé inghlactha a shoot ar ais.Níl sé inghlactha a shoot ar dtús.
+		-- Zed Pobre
+
+%
+<Coderjoe> GB, Perl?<GIB> methinks Perl an Ríomhchláraitheoir Arm na hEilvéise Chainsaw
+		-- Zed Pobre
+
+%
+<Endy> taniwha: An bhfuil Tástáil tú an ceann seo? :)<Taniwha> Endy: ar ndóigh
+		-- Zed Pobre
+
+%
+Sin an rud funniest chuala mé riamh, agus beidh mé ag condone _not_ é.
+		-- DyerMaker, 17 March 2000 MegaPhone radio show
+
+%
+Níl sé? An bhfuil tú ag rá go BA CHÓIR leat ligean do dhaoine (seachas WilliamWallace) a shoot boltaí tintreach as a n-asal?
+		-- Seth Galbraith
+
+%
+<Mearcair> Ní gá duit a bheith craiceáilte a bheith ina chomhalta den tionscadal, ach          beidh tú a bheith .. <=:]
+		-- Seth Galbraith
+
+%
+* Ní mór Endy dul i gcomhairle caife: P<Endy> caife an duine bot, ní caife an dí :)<Knghtbrd> gcomhairle leis an dí fhéadfadh cabhrú freisin =>
+		-- Seth Galbraith
+
+%
+<Mongoose> knghtbrd: agus an meek déanfaidh hoidhreacht k-Mart
+		-- Seth Galbraith
+
+%
+<Knghtbrd> "Java don Ríomhchláraitheoir COBOL"<Knghtbrd> a scríobhann na rudaí seo?<Creiche> daoine ar crackríomhchláraitheoirí <raptor> agus COBOL<Creiche> :)<Knghtbrd> go iomarcach.
+		-- Seth Galbraith
+
+%
+<Evilkalla> heh, ní Ghlac mé rang códaithe<Evilkalla> nó d'aicme grafaicí<Evilkalla> nó d'aicme dearadh bogearraí<Vegan> agus taispeánann sé: P
+		-- Seth Galbraith
+
+%
+* The_Answer_MD throws spaghetti ag gach duine* Itheann taniwha na spaghetti* Tosses Coderjoe thart ar roinnt liathróidí feola* Faigheann Knghtbrd an cáis* Grabs taniwha a dearg
+		-- Seth Galbraith
+
+%
+<Theoddone33> Cad teachtaireacht seo ar mo scáileán,<Theoddone33> chomh gorm, mar sin gorm, d'fhéadfadh go gciallódh?<Theoddone33> Ar mhiste leat, ba mhaith leat brúigh Scrios,<Theoddone33> Ctrl agus Alt agus ansin arís.
+		-- Seth Galbraith
+
+%
+<Gorgo> cad a dhéanann tú nuair a cracks dhuine do mheaisín Debian?<Gorgo> prátaí mashed ...
+		-- Seth Galbraith
+
+%
+<Aj> teacht ar<Aj> tá sé ina Clón Pico<Aj> tá sé * i gceist * a bheith annoying
+		-- Seth Galbraith
+
+%
+<Espy> Bainim leas as dlí Espy, a deir go bhfuil tú go léir tarraing: P
+		-- Seth Galbraith
+
+%
+<Overfiend> Culus: ag iarraidh a chur ar fionraí liom é? :)<Culus> Overfiend: Téigh go mailíseach crack cúpla severs agus beidh muid ag labhairt<Overfiend> Culus: diabhal, tá sé le bheith mailíseach?<Culus> Overfiend: Faraor, tá
+		-- Seth Galbraith
+
+%
+<Knghtbrd> 2fort5 Sucks leor le go mbeadh ar a domhantarraingthe féin ...
+		-- Seth Galbraith
+
+%
+* Is mian CosmicRay bhí sé roinnt strippers anseo ....<CosmicRay> err, strippers sreang
+		-- Seth Galbraith
+
+%
+<WildTHing> guys ceart go leor .. mar sin whens an chéad tiomantas: PP<Taniwha> nuair a thagann siad a fháil dom
+		-- Seth Galbraith
+
+%
+<Mdorman> Tá mé ag duine gnus féin. Tá sé ina eagarthóir! Tá sé ina floorwax!          Is bearrtha milseog!
+		-- Seth Galbraith
+
+%
+<Tausq> C. Cad é an difríocht idir Batman agus Bill Gates?<Tausq> A. Nuair throid Batman an Penguin, bhuaigh sé.
+		-- Seth Galbraith
+
+%
+Ag pointe éigin, ní mór píosaí chun dul isteach paicéid agus is gá ródairí a dhéanamhcinntí orthu. Athruithe ag an leibhéal sin cad ba mhaith liom a chloisteáil faoi, nícaidrimh cuideachta straitéiseach.
+		-- John Carmack
+
+%
+Diúltaíonn muid: ríthe, uachtaráin, agus a vótálfaidh.Creidimid i: comhdhearcadh garbh agus cód oibre.
+		-- Dave Clark
+
+%
+Tá <Knghtbrd> QF ag dul a fháil tacaíocht zipfile inniu<Coderjoe> heh ... infozip?<Knghtbrd> Má tá mé ádh yes<Deek> knghtbrd: Tá tú ag kidding, ceart? =)* Bíonn Deek shiúl píopa crack Knghtbrd ar. =)
+		-- Dave Clark
+
+%
+<Deek> athrú go léir cvar-> luach = X a úsáid Cvar_Set ()<Theoddone33> ní raibh a tharlaíonn i oldtree<Deek> I ndáiríre, rinne sé.<Knghtbrd> yera yeah - dhá sheachtain ina dhiaidh sin.
+		-- Dave Clark
+
+%
+=== Tá an litir an Víreas Córas Honor ====Má tá tú ag rith Macintosh, OS / 2, Unix, nóLinux ríomhaire, le do thoil scriosadh randamachroinnt comhaid ó do thiomáint dhiosca crua agusar aghaidh an teachtaireacht seo do gach duine a fhios agat.==============================================
+		-- Dave Clark
+
+%
+* Is mian shortc a fháil i gceann de knghtbrd ar SIGS cheann de na laethanta seo.
+		-- Dave Clark
+
+%
+<Dr ^ Nick> Is SGI_Multitexture dona voodoo anois<Dr ^ Nick> Is ARB voodoo maith<WITTEN> no, tá Rush voodoo voodoo dona :)
+		-- Dave Clark
+
+%
+99 bugs beag sa chód, 99 bugs sa chód,        shocrú bug amháin, thiomsú arís ...        101 bugs beag sa chód ....
+		-- Dave Clark
+
+%
+Hmm ... Cé acu dhéanamh i gcomhair poist níos fearr ag fisicithe tiomána dÚsachtach? Taistealníos tapúla ná solas, ná súil le snámh-phointe Boole?
+		-- Michael Mol
+
+%
+<Calc> knghtbrd: Beidh GNOME 2.0 a bheith amach i cúpla mí, ní cinnte conas é       Beidh a chur i gcomparáid chun KDE 2.0 cé<Knghtbrd> Calc: Díreach mar bloated, díreach mar Buggy, agus gach Gnome 2 app       ag brath ar 30 leabharlann.<Slimer> knghtbrd: mar sin cad iad na hathruithe ó 1.0?
+		-- Michael Mol
+
+%
+<Ze0> amhlaidh, conas a bhfuil gach rud i saol na Quack?<LordHavoc> díreach lachín<Ze0> Is iontach, lacha friochta mighty fíneáil blasta.
+		-- Michael Mol
+
+%
+<FrikaC> ba chóir dom Atosaigh dócha ...<FrikaC> BRB OK<FrikaC> Mar sin, cén fhoirm seachas sheachaint virii, leaks cuimhne, agus rampant         Déanann crashing reallhy Linux thairiscint :)<LordHavoc> multitasking iontaofa?
+		-- Michael Mol
+
+%
+<Tausq> más rud é (cb) ((cb-> obj) -> * (cb-> ui_func)) ();<Knghtbrd> tausq: a scríobh an ifreann sin?<Tausq> me :)* Flogs knghtbrd tausq
+		-- Michael Mol
+
+%
+<Knghtbrd> glDisable (GL_BUGS);<Endy> heh<Endy> An bhfuil sin in 1.2? :)
+		-- Michael Mol
+
+%
+<Mearcair> knghtbrd: Eww, a aimsiú ainm níos fearr, sucked an scannáin .. <G><Knghtbrd> Mearcair: Is é an t-inneall níos fearr ná an scannáin
+		-- Michael Mol
+
+%
+<LackOfKan> Cad iad 'róbónna'?< `` Erik> Is RSG bot, ní an duine, nach cliant inúsáidte daonna, ach bot.< `` Erik> faoi mar bot quake an gcéanna, ach amháin go bhfuil róbónna irc (de ghnáth)         tógtha chun cabhrú, ní shoot do thóin lán de phoill
+		-- Michael Mol
+
+%
+más rud é (me = duit!) // FIXME: is dócha fíor i gcónaí, a scriosadh?    do (n = 0; n <who_knows_what; n ++) {        freagair = DoSomething (withthis [n]);        más rud é (Foobar == freagra) {            GetLost (n);            sos;        }    }
+		-- Michael Mol
+
+%
+<Knghtbrd> Yorick: aon fhadhb le Pailéid dath innéacsaithe do íomhánna, mar           fada agus is féidir leat roghnaigh an pailéadBhí <Yorick> Is léir na daoine crith chruthú dath-dall ach go         Ní chiallaíonn go bhfuil tú a bheith
+		-- Michael Mol
+
+%
+glais <cesarb> Damn, gach uair sceith orm, QF-cliant-x11 crua<Zoid> Ná bás?<Knghtbrd> dreasachta maith.
+		-- Michael Mol
+
+%
+Cén fáth go bhfuil sé go bhfuil gach ceann de na n-ionstraimí ag lorg saol cliste saCruinne Tá fios ar shiúl ó na Cruinne?
+		-- Michael Mol
+
+%
+<Rebelpacket> hug, tá ceist tapa, aon bhealach a dlús a chur leis              comhlíonadh uquake-x11?<Deek> rebelpacket: Más mian leat chun dlús a dó, caith sé níos deacra.
+		-- Michael Mol
+
+%
+<Netgod> a fhios agat<Netgod> a ndáiríre brónach nuair cant an InterNIC féin chumrú DNS         freastalaithe ceart<Netgod> sé ach a fháil does not bith níos pathetic ná sin
+		-- Michael Mol
+
+%
+<Knghtbrd> Fiú le overbrights, tá Quake ar pailéad dathanna iomlán de dull,           dathanna cothrom<LordHavoc> knghtbrd: Is quake ar pailéad an-bríomhar amháin má úsáideann tú gáma            ceartú<LordHavoc> maith i ndáiríre Aontaím, tá sé áit in aice chomh bríomhar is Paula Meehan<Deek> Q3 ar an láimh eile ... NEON.<LordHavoc> Is Q3 ach ridiculous<Deek> Bíonn Q3 an meánaoiseach séipéal-dungeon agus cuireann sé i Vegas.
+		-- Michael Mol
+
+%
+"Tá mé cnámh a phiocadh, agus cúpla a bhriseadh."
+		-- Anonymous
+
+%
+Z.O.I.D .: Zombie Optamaithe le haghaidh Insíothlú agus Scriosadh
+		-- Anonymous
+
+%
+<Deek> Tá, tá Meiriceá tír bunaithe ar an gcaoi pissed-uaire ar ghrúpa de cáin a ghearradh       Is féidir le daoine a fháil.<Deek> POBAL ann mar thír mar táimid saor.
+		-- Anonymous
+
+%
+<Oskuro> Overfiend: go leor paistí ar bharr 4.0.1 cheana féin?<Overfiend> Oskuro: cúpla<Overfiend> ach 152 Megs
+		-- Anonymous
+
+%
+<Joeyh> OH mo, tá sé ina UP P III.<Doogie> dos sé.* Ritheann joeyh dselect<Overfiend> gur chóir gur leor :)
+		-- Anonymous
+
+%
+<Barneyfu> knghtbrd: cacamas, déanann SDL cinnte DGA tá helluva lán níos éasca freisin           ní dhéanann sé? :)<Knghtbrd> barneyfu: cad DGA?<Barneyfu> DGA luiche<Knghtbrd> barneyfu: (ndéanann do cheist a fhreagairt?)<Barneyfu> hahahahaha YEAH! :)
+		-- Anonymous
+
+%
+<Deek> "Is féidir le Ríomhchláraitheoir maith scríobh FORTRAN i dteanga ar bith."<Deek> knghtbrd tá ag éirí gur féidir leat scríobh C ++ in aon teanga freisin.       <Grin><Mearcair> Táimid considdering láthair má ba chóir dúinn a thabhairt dó nó duaise, nó          mharú dó ..<Mearcair> (Ar ndóigh, ag gach ceart, ciallaíonn sé seo ba chóir dúinn a thabhairt dó an          duais, agus ansin a mharú dó .. <G>)
+		-- Anonymous
+
+%
+Tá treascracha duine ar bith ábalta amach-argóint a rialtas.
+		-- Anonymous
+
+%
+Ní mór dúinn a fhios, beidh a fhios againn.
+		-- David Hilbert
+
+%
+<Knghtbrd> chinsireacht Idirlíon. Mar is gá do leanaí a bheith           chosaint ó mná naked, nósanna imeachta leighis, éagsúilcultúir, agus cluichí físeáin foréigneach.<Knghtbrd> (ach faisnéis faoi buamaí tógála, stealing cábla, agus           drugaí déantúsaíochta Is ceart go leor ...)
+		-- David Hilbert
+
+%
+Tá cara liom a barcode ar a lámh.fáinní sé suas mar phacáiste $ 0.35 de JuicyFruit.
+		-- Seen on Slashdot
+
+%
+<NullC> Is maith liom an cód síl chun ríomh curves chumhdaigh.<NullC> Riamh mé le feiceáil cód a rinne a mian le deoch roimh ...
+		-- Seen on Slashdot
+
+%
+$ = Tú nua TÚ;honk () más rud é $ shon-> grá (Perl)
+		-- Seen on Slashdot
+
+%
+<CJ> aon! fhadhbanna i $ bogearraí M?<CJ> "bugtested Go críochnúil"* Grins Dabb.<LordHavoc> athscríobh sin mar 'buginfested Go críochnúil'
+		-- Seen on Slashdot
+
+%
+<Doogie> Tá bugs dpkg? Níl aon slí!
+		-- Seen on Slashdot
+
+%
+"Debian: Rinneadh dochar ar bith hataí ná reiptílí i ndéanamh an dáilte;. "
+		-- Paul Slootman
+
+%
+* Glaonna athener Amnesty International House na Pancakes
+		-- Paul Slootman
+
+%
+<Elmo> neamhghlan: err, an fhoireann admin ná rialú an chartlann, go bhfuil an       cabal ftp<Elmo> fháil do cabals dheis, diabhal é :-P
+		-- Paul Slootman
+
+%
+<BenC> CosmicRay: chomhlánaíonn tú dom<BenC> err ...<CosmicRay> heh* BenC Téann ar ais go dtí códaithe* Breathnaíonn Elmo ag benc<Elmo> rud ba chóir dúinn an eolas faoi tú, agus cosmicray, Ben? :)
+		-- Paul Slootman
+
+%
+Athraigh an Conradh Sóisialta? BWAHAHAHAHAHAHAHAHAHAHAHA.
+		-- Branden Robinson
+
+%
+<Knghtbrd> Clár fuarthas SIGSEGV comhartha, deighilt locht.<Knghtbrd> 0x40095fb0 i memchr () ón /lib/libc.so.6<Knghtbrd> (gdb) BT<Knghtbrd> # 0 0x40095fb0 i memchr () ón /lib/libc.so.6<Knghtbrd> # 1 0x0 in ?? ()<Knghtbrd> Bhuel Sin really cabhrach* Ceirdeanna knghtbrd gdb do bhord Ouija deas - beidh sé cabhrú le níos mó
+		-- Branden Robinson
+
+%
+Gach smaointe maithe cuma mhaith smaointe dona dóibh siúd atá losers.
+		-- Dilbert
+
+%
+RFC 882 a chur ar an ponc sa com, ní Sun Microsystems
+		-- Seen on Slashdot
+
+%
+* Joeyh_ wonders má tá linux ceaptha a chur faoi ghlas suas nuair a iarrann tú 100  próisis leis cat an feachtas CD ar fad
+		-- Seen on Slashdot
+
+%
+<Pretzelgod> knghtbrd: Ba chóir go Quake tacaíocht xray fís, dammit<Knghtbrd> pretzelgod: ftp://ftp.cdrom.com/pub/quake/partial_conversions/           xrated / i_am_old_enough_to_look_at_this<Knghtbrd> ... d'iarr tú ...<CosmicRay> haha, is é sin le eolaire fíor
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> sneak LIOM BUN<Knghtbrd> CABHRÚ ME DO DO Quack<Venom> kb: céard sa diabhal atá tú ag caint faoi?<Knghtbrd> bwahahaha .. Tá sé ina scéal fada.
+		-- Seen on Slashdot
+
+%
+<WildCode> Mearcair, níl debugging X beagán cosúil aimsiú breá           cód bugfree i bhfuinneoga ??<Mearcair> WildCode: Is Debugging X mhaith ag iarraidh a reáchtáil ar líne dhíreach          trí Maze.<Mearcair> Ní mór duit ach a Bend spás-ama ionas go mbeidh bogadh na coirnéil thart          ní bheidh ort agus tú ag aon fadhbanna. (=:]
+		-- Seen on Slashdot
+
+%
+<Miguel> `Tá tú a bheith díliostáilte ón fuinneamh ard pearsanta         feistí cosaint liosta postála '<Miguel> I dont cuimhin ag dul isteach sa liosta seoltaí
+		-- Seen on Slashdot
+
+%
+<Myth> Tá mé ag fáil nasc dhiúltaigh nuair a nascadh chuig calafort 25, duine ar bith       fhios agat cá bhfuil an logáil diabhal?<Aj> Miotas: /var/log/damn.log?* Wonders aj cad ba a cuma mhaith<Aj> 18 Nollaig smtpd 05:32:30 blae [123]: Damn IT GACH GO ifreann !!
+		-- Seen on Slashdot
+
+%
+* Wonders weasel conas ceann dúr bhfuil a bheith go alt.anonymous.messages spam<Knghtbrd> weasel: thart ar leath chomh dúr mar tá ceann a bheith chun an fómhar air.
+		-- Seen on Slashdot
+
+%
+ponders * Wolfie cé mhéad debianites a thógann sé chun scriú i lightbulb<Viiru> Wolfie: Áit éigin timpeall 600? Tá scriú amháin an bolgán, agus an chuid eile        lasair dó chun é a dhéanamh mícheart.<Chuid> Wolfie: Is é an bogearraí bolgán saor in aisce?<Teilifíse> An féidir linn vótáil ar cé acu a scriú sé nó nach bhfuil?
+		-- Seen on Slashdot
+
+%
+<Culus_> Táimid ag súil freisin a scaoileadh ar leagan de linux nuair atá bhlaosc         in ionad na Perl cuid mhór. Ag cur leis sin, tá         beag duine againn ar mhaith leo a fheiceáil ardán Perl íon .. PerlOS :)* Culus_ Breathnaíonn ar i horror<Mstone> Culus_: ar an taobh bun, is féidir leat cineál diabhal in aice aon ní sa ag an         ordú go pras :)
+		-- Seen on Slashdot
+
+%
+<Mearcair> LordHavoc: Is é an chúis cén fáth go bhfuil GL overdraw toisc go bhfuil sé ach          ag baint úsáide as LEATH an chórais a ceapadh iad le haghaidh vis.<Mearcair> LordHavoc: Lámhach féin sa shiúl na gcos.* Breathnaíonn Dabb ar siúd go léir poill piléar ina bróga - diabhal, go leor :)
+		-- Seen on Slashdot
+
+%
+<Dabb> hehe, is fuath liom i ndáiríre tuairiscí faoi fhabhtanna atá cosúil glaoch tine       roinn agus ag rá: "! Tá tine anseo, teacht" :)<Dabb> (agus crochta suas)* Dabb mharaíonn as tuairiscí dosaen faoi fhabhtanna.
+		-- Seen on Slashdot
+
+%
+<Xtifr> WOW, I mo thuairimse, a úsáidtear mé díreach tar éis libtool chun fadhb a réiteach - éigin        Cabhair liom! :><Luca> xtifr, céim amach as an KEYBOARD
+		-- Seen on Slashdot
+
+%
+<Mao> cén fáth a seasann siad ar -Werror ading ...Ní bheadh ​​<Misty-chan> Mesa thiomsú as an mbosca dá mbeadh sé déanta ag tú             Guys;)<Knghtbrd> Uh, NÍ Mesa thiomsú as an mbosca is mó den am.
+		-- Seen on Slashdot
+
+%
+<Deek> nopcode: No, nach bhfuil sé. Win32 easnamh comhionann le forc ().<Knghtbrd> Deek: Níl windoze i gceist le haghaidh daoine ba chóir a bhfuil teacht acu           rudaí géara, mar sin, níl aon forc ()<Knghtbrd> ina ionad sin, ní mór duit a bheith ag brath ar spúnóg ()
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> Tá an cló ag tosú le teacht amach an-nicely<Stu> Knghtbrd: OH daor, tá tú ag hacking suas cló quake eile i vi? :)
+		-- Seen on Slashdot
+
+%
+<Pv2b> OH, seachas, whats an cur chuige is fearr más mian liom a dhéanamh Quake       leibhéil deartha ó fhoirgneamh atá ann cheana féin?<Knghtbrd> Faigh floorplan oifige Bhriain? =)<Pv2b> Knghtbrd: im ag smaoineamh ar mo scoil.<Knghtbrd> Oh iontach<Knghtbrd> Sin GACH ní mór dúinn
+		-- Seen on Slashdot
+
+%
+<Knghtbrd> stroighin Windoze: Anois le CrackGuard (TM)! Ná bíodh imní ort faoi           scoilteanna unsightly in Cement Windoze arís! Is CrackGuard (TM)chomh cumhachtach go mbeidh an rud ar fad crumble os beidh sécrack. Ordú do $ 200 Leagan uasghrádú inniu!
+		-- Seen on Slashdot
+
+%
+<Doogie> Culus: Is cosúil mo bug le OpenSSH a shocrófar san 2.5.2, ach         Ritheann máistir 2.3.0<Culus> Ná tús fiú<Doogie> rinne mé díreach tar éis.<Culus> Tá tú guys ag dul a thiomáint dom a thógáil a chlárú ollmhór ollmhór agus        scriosadh gach ceann Texas, nach bhfuil tú?
+		-- Seen on Slashdot
+
+%
+<Shader> whats cearr leis rjing?<Rhamphoryncus> tá sé bacach: P<Rhamphoryncus> NACH ba cheart go bhféadfaí<Rhamphoryncus> shoving a grenade suas do asal agus a úsáid mar roicéad                Níor chóir go propelant bheith mar theicníc inmharthana: P
+		-- Seen on Slashdot
+
+%
+ * Is cód coibhéiseacha fáil ó RSA Sonraí Slándáil, Inc. * Tá an cód a thástáil i gcoinne sin, agus is ionann, * Ach amháin nach gá duit a chur san áireamh dhá leathanach de legalese * Le gach cóip.
+		-- public domain MD5 source
+
+%
+* Tá knghtbrd imithe - zzz - Beidh teachtaireachtaí a thiomsóidh cosúil tuáillí fliuch ar chor ar bith  de na daoine a bheith goidte an trádmharc knghtbrd shiúl teachtaireacht<Coderjoe> ack* Ullmhaíonn Coderjoe é féin a chosaint ó theachtaireachtaí fliuch
+		-- public domain MD5 source
+
+%
+Ná underestimate an chumhacht de dhuine le cód foinse, eagarthóir téacs,agus an toilteanas a hose hiomlán a gcuid córas.
+		-- Rob Landley <telomerase@yahoo.com>
+
+%
+"Mar sin, beidh an páirtí Andover bhfuil barra airgid?""Níl, níl beoir saor in aisce.""Uh-OH, gonna Stallman a chur pissed ..."
+		-- overheard at the Bazaar, 1999
+
+%
+<Addi> Alter.net chuma air go bhfuil ionad ar cheann dá ródaire le zucchini.
+		-- overheard at the Bazaar, 1999
+
+%
+<Mearcair> D'iarr duine éigin a shocrú.<Éadóchas> tiomanta<Knghtbrd> Despair: Mercury?<Despair> Knghtbrd: tá sé tuirseach, botún déanta, bhí duine éigin a Cealaigh air.<Knghtbrd> Despair: ionas go mbeidh tú go raibh air geallta?<Despair> Knghtbrd: maith, tiomanta anyways.
+		-- overheard at the Bazaar, 1999
+
+%
+<Taniwha> Knghtbrd: nach bhfuil sé bloat má tá sé in úsáid<Knghtbrd> taniwha: conas a dhéanann tú a mhíniú windoze sin?<Taniwha> Knghtbrd: an chuid is mó de tá sé úsáid ach amháin mar ballasta a dhéanamh cinnte go bhfuil do          Is harddrive lán<Knghtbrd> taniwha: ballasta ... Nach bhfuil an méid a dhéanann subs doirteal go dtí an           bun na farraige?<Knghtbrd> taniwha: bheadh ​​a mhíniú cén fáth a bhfuil winboxes ag dul i gcónaí síos.
+		-- overheard at the Bazaar, 1999
+
+%
+nuálaíoch / IN aon vait / vb .: 1. teicneolaíocht chuí tríú páirtítrí cheannach, aithris, nó goid agus a chomhtháthú isteach ide-facto, táirge monaplacht-phost. 2. A mhéadú i méid ná le castachtNí ach i fóntais; comhoiriúnacht nó idir-inoibritheacht a laghdú. 3.glas-amach iomaitheoirí nó a chur faoi ghlas-i-úsáideoirí. 4. ghearradh níos mó airgid; chunpraghsanna nó costais a mhéadú. 5. brabúis a fháil ó infheistíochtaí i eilecuideachtaí ach ní ó tháirge díreach nó díolacháin seirbhíse. 6. Chun stifle nóionramháil saormhargadh; a leathnú cumhachtaí monaplachta isteach i margaí nua. 7.dliteanas i leith mícheart-doings a imghabháil; a fháil amach. 8. cheannachreachtaíocht, reachtóirí, reachtais, nó taoisigh stáit. 9. Goidirghabháil gach idirbheart i ngeilleagar domhanda; a embezzle; cumhacht a chomhthoghadh(Coup d'état). Cf. nuálaíoch, úsáid Béarla (frithchiallach).
+		-- csbruce, in a Slashdot post
+
+%
+An tost deafening mhúin dom gan a iarraidh a bunch de geeks ar chomhairleas a n-chailiní
+		-- csbruce, in a Slashdot post
+
+%
+"Cad tá muid ag dul anocht a dhéanamh, Bill?""Rud céanna dhéanaimid gach oíche Steve, déan iarracht a ghlacadh ar láimh an domhain!"
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> Sin i gcuimhne dom, beidh orainn gá a cheannach chainsaw don oifig. "I       gcás éigeandála, briseadh gloine "
+		-- csbruce, in a Slashdot post
+
+%
+<Knghtbrd> Tá sé ina thart ar leath an méid de na cinn eile.<Knghtbrd> Ach fuair sé chainsaw.
+		-- csbruce, in a Slashdot post
+
+%
+<Deek> "Coinneoidh mé mo shonraí gpg pearsanta i ghlas, mar thoradh sábháilte i cruinneachán       cosanta ag rednecks feargach agus a n-Dawgs. Beidh foghlaithe a       violated, agus go léir go ... "
+		-- csbruce, in a Slashdot post
+
+%
+<ExMachina> glQuakeIIIRendererMode (GL_TRUE)<Knghtbrd> ExMachina: nach bhfuil an chuid den síneadh a sholáthraíonn           glDriverBugs (GL_FALSE); ?<Siigron> Knghtbrd: no, glDriverBugs () mar chuid de EXT_help_me.<Siigron> ina bhfuil freisin glMakeItWork (GL_PLEASE);
+		-- csbruce, in a Slashdot post
+
+%
+< `` Erik> Is 18.446.744.073.709.551.616 uimhir mhór
+		-- csbruce, in a Slashdot post
+
+%
+<Xavvy> Tá sin i ndáiríre knghtbrd?<Knghtbrd> Níl, tá mé impostor olc!<Knghtbrd> An impostor olc cé maith HYBRID!<Xavvy> haha<Xavvy> ceart go leor, tá sé air: P
+		-- csbruce, in a Slashdot post
+
+%
+<| Báisteach |> I * grá * SWB !!<| Báisteach |> Nó, brúigh 5 labhairt le Representitive ..<| Báisteach |> * 5 *<| Báisteach |> Tá tú á n-aistriú, le do thoil shealbhú ...<| Báisteach |> ...<| Báisteach |> ...<| Báisteach |> Tá brón orainn, ní féidir an uimhir a chomhlánú mar a dialed.<| Báisteach |> Seiceáil an uimhir agus bain triail eile as.
+		-- csbruce, in a Slashdot post
+
+%
+<| Báisteach |> aontas #define struct / * chosanta spás mór * /
+		-- csbruce, in a Slashdot post
+
+%
+<Elric> aon lucht leanúna BSD?<EvilTypeGuy> Elric: tá sé deacair a bheith ina gamer agus leantóir BSD: p
+		-- csbruce, in a Slashdot post
+
+%
+<Marticus> Níl i bhfad ró-fola i mo chóras Caiféin.
+		-- csbruce, in a Slashdot post
+
+%
+<SirDibos> Culus: tá tú i do shuí?<Culus> no
+		-- csbruce, in a Slashdot post
+
+%
+<Wli> Yeah, d'fhéach mé ar ESD agus d'fhéach sé cosúil leis an chineál C cód gur      sean-jovial / Algol '60 coder a chaith an 20 bliain anuas preabadh      idir Fortran-IV agus Fortran '77 bheadh ​​a scríobh.
+		-- csbruce, in a Slashdot post
+
+%
+<Nonlinear> Is glan Microsofts leagan shaobh de líonraithe java            Timpeallacht uglified le cacamas windows-sonrach
+		-- csbruce, in a Slashdot post
+
+%
+<Mearcair> LordHavoc: Tá mé dÚsachtach cheana.<Coderjoe> diabhal díreach. nó curvy, crooked, nó a bhfuil tú
+		-- csbruce, in a Slashdot post
+
+%
+Is Unix OS aibí, tá fuinneoga fós i diapers agus boladh siad go dona.
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<Midgar> Ó na sterotypes faoi Aussies, figiúr agam go bhfuil tú guys         diana i ndáiríre.<Midgar>; p<Krusto> beidh orainn a chaitheamh koala ag tú
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+<| Báisteach |> * nod * Níl mé Fond úsáid smarthosts, mé féin<| Báisteach |> mar braitheann sé ar an óstach iargúlta agus do óstach a bheith cliste<| Báisteach |> agus ró-mhinic a chailleann tú ceann de an dá spriocanna
+		-- Rafael Skodlar <raffi@linwin.com>
+
+%
+Is é an cur chuige sourceforge chun gach ceann de na tionscadail i roinnt tur"Surburbia foinse oscailte", i gcás ina bhfuil gach ceann de na tithe araon, gan ach anBaineadh úsáid as dathanna agus éagsúlachtaí stíl saorga (lena phlean tógála aTeach ar leith) a cheadaítear ag an chúnaint shriantacha agus áitiúladlíthe criosaithe. Is Sourceforege ionann foinse oscailte ar anforoinnt sa scannán "Edward Scissorhands".
+		-- Terry Lambert
+
+%
+<Calc> Knghtbrd: Ní irc thiomsú cód c han-mhaith;)
+		-- Terry Lambert
+
+%
+* | Báisteach | ullmhaíonn do anraith polagán<| Báisteach |> milis cacamas trócaireach, oibríonn sé?* | Báisteach | faints
+		-- Terry Lambert
+
+%
+"Ós rud é go bhfuil sé ar chonclúid tharscaoilte go mbeidh Microsoft a bruscair a XMLle leideanna chun comhpháirteanna Win32-bhunaithe, is féidir a rá faoiIs a ghlactha de XML go mbeidh sé a dhéanamh níos éasca do brabhsálaithe agusiarratais ar ardáin neamh-Windows a thuiscint cé na codanna dendhoiciméadú caithfidh sé neamhaird a dhéanamh. "
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<Robert> Tuigim go bhfuil roinnt teorainn réasúnta ar shaoirse cainte i         Meiriceá, mar shampla, ní féidir liom a scream Dóiteáin i amharclann plódaithe.. Ach is féidir liom a scream tine isteach i amharclann ach 5 nó 6 poepleann?
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Is <aav> caife ar boilg folamh nasy deas<Knghtbrd> aav: am a reáchtáil chun an meaisín díola le haghaidh Cheetos<Aav> Cheetos? :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Báisteach |> le cód sane, b'fhéidir mé in ann an figiúr amach an díothóir :)<LordHavoc> báisteach: Ba mhaith liom a bheith dócha an ceann a scríobh an díothóir<| Báisteach |> maith, ER, uh
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<| Báisteach |> Knghtbrd: lig dom a thabhairt duit le rochtain ar na comhaid gcrios<Knghtbrd> OH déithe - a dhéanann tú a bhaint amach Ní raibh mé riamh a bhí le ceart ceangal?<| Báisteach |> uhoh :)
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+<F00Dave> Féach, go ndiúltóidh, is é seo #OpenGL, ní #GEEKSEX.
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+* Tá TwingyAFK siopadóireacht le haghaidh 17 "painéil chomhréidh* Díolann aav TwingyAFK píosa sraithadhmaid
+		-- Nicholas Petreley, "Computerworld", 3 September, 2001
+
+%
+Nach bhfuil sé embarrassing nuair a bhfuil tú chun dul go dtí an drugstore do roinnt"Míreanna speisialta", agus nuair a bhíonn tú ag seiceáil amach, féachann an airgeadóir ag túcosúil le, "ó, tá a fhios agam cad tá tú ag déanamh anocht ..."Yep, léamh go airgeadóir na comharthaí ... stánaithe anraith sicín, TheraFlu,Hallaí, NyQuil, na buidéil bigass na IO agus sú seadóg ... a fhios aigeagus bhí a fhios agam go raibh mé ar dháta leis an teevee agus comforter síos. Awwwyeah.
+		-- Elizabeth Kirkindall
+
+%
+San eolaíocht a tharlaíonn sé go minic go a deir na heolaithe, 'Tá a fhios agat go bhfuil i ndáiríreargóint maith; Is é mo sheasamh dul amú, 'agus ansin athraíonn siad iarbhírn-intinn agus tú riamh a chloisteáil go bhfuil tuairim sean uathu arís. siad i ndáiríreDéan é. Ní chuireann sé tarlú chomh minic agus is ba chóir dó, mar go bhfuil eolaitheIs duine agus athrú uaireanta painful. Ach a tharlaíonn sé gach lá. Ní féidir liomchun cuimhne an uair dheireanach rud éigin mar sin a tharla i gcúrsaí polaitíochta ná creideamh.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> add GF2 / 3, tiomáint crua sizable, agus 15 "painéil chomhréidh agus           atá tú a fuair meaisín iniompartha damned leor.<Coderjoe> GeForce Dhá-thrian?<Knghtbrd> Coderjoe: yes, a GeForce dhá thrian, ie, aon chárta ó ATI.
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<Knghtbrd> Nintendo Dearbhaíonn GCN An chuid is mó Popular Console Riamh<Knghtbrd> Cé go bhfuil siad ag kidding?<Mearcair> knghtbrd: Sealbhóirí Stoc?
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+<LordHavoc> Ní gá an chuid is mó na n-ealaíontóirí windoze bhfuil an cumas a            shábháil XPM<Mearcair> LordHavoc: Ní bhíonn Notepad? * G, D & R *
+		-- Carl Sagan, 1987 CSICOP keynote address
+
+%
+Tacaíonn Linux an coincheap de-orduithe nó a bhlaosc ar an gcúis chéannago léann páistí ach leabhair le pictiúir ach iontu. Teanga, go mbeadh séEnglish nó rud éigin eile go bhfuil, an uirlis amháin solúbtha a dhóthain a chur i gcríchréimse sách leathan de thascanna.
+		-- Bill Garrett
+
+%
+## Signoff: insurgent (razzin 'frazzin' motherfu ... DirectX dúr ...)
+		-- Bill Garrett
+
+%
+<Krogoth> Kgnghtbrd: ní ba mhaith liom Kow, ní fheicim aon ghá le litreoir fóill<Knghtbrd> a bhí á rá?
+		-- Bill Garrett
+
+%
+<Knghtbrd> Ba mhaith liom a chur níos fearr ar an stuif inchoiritheacha isteach cód: ahfuiovka           ikperoa edfr ade 9 enbuw ejasxleme ka iena df4mesa<Knghtbrd> Más féidir leat dhíchriptiú go bhfuil, tá tú cryptographer fearr ná mé           Táim. =)
+		-- Bill Garrett
+
+%
+<Rcw> liiwi: printk ( 'CPU0 thine \ n ");
+		-- Bill Garrett
+
+%
+<Electro> bhí mo ríomhaire uair amháin ar cheann de na bloic thógála ar scoth          pirimid
+		-- Bill Garrett
+
+%
+FÓGRA: duine ar bith a le feiceáil caitheamh tobac a glacadh leis go thine agus beidh        hachomair chur amach.
+		-- Bill Garrett
+
+%
+<Markm> c ++: an chumhacht, elegance agus simplíocht grenade láimhe
+		-- Bill Garrett
+
+%
+<Knghtbrd> ach saghas amháin in aghaidh cluaisín agus aon cheann in aghaidh an liosta Is fhéadfaí a rá níos fearr ná           O (n + n ** 2) in aghaidh an cluaisín agus O (n ** 2) in aghaidh an liosta.<Knghtbrd> OMG, duine éigin shoot me.<Coderjoe2>?<Knghtbrd> Ní féidir liom a chreidiúint úsáid mé díreach tar éis an mór gé-ubh a mhíniú cén fáth mo           Is bealach dócha is fearr san fhadtréimhse.
+		-- Bill Garrett
+
+%
+<Hoponpop> Oibríonn mo chlár má mé amach na bugs.
+		-- Bill Garrett
+
+%
+<Mearcair> Knghtbrd: Hey, tá Perl an grásta chumhacht agus elegance de sledge          casúr. (=:]<| Báisteach |> cinnte an grásta agus elegance, mar sin féin
+		-- Bill Garrett
+
+%
+<DannyS> Buail an moncaí a bhuachan $ 20 (*)!* Faigheann knghtbrd chuid mallet.* Plandaí knghtbrd sé go daingean ar cheann DannyS '.* Beidh knghtbrd ghlacadh a $ 20 anois. = D
+		-- Bill Garrett
+
+%
+<Gholam> maith Tá mé tógtha<Gholam> Win98 bhainistiú a tuairteála X ó laistigh vmware.* Molann gholam.
+		-- Bill Garrett
+
+%
+"Tá tiománaithe OpenGL Nvidia mo" caighdeán óir ", agus bhí sé go leor lecé go ó tá mé go raibh a thuairisciú fadhb leo, agus fiú a n-bhrandasíntí nua ag obair mar doiciméadaithe an chéad uair iarracht mé iad. Nuair a bheidh méfadhb ar Nvidia, Glacaim leis go bhfuil sé mo locht. Le aon duine eile atátiománaithe, Glacaim go bhfuil sé a n-locht. Tá sé seo iompaithe amach ceart go beagnachgach t-am."
+		-- John Carmack
+
+%
+Libtool roinnte Is inaistritheacht leabharlainne ach beagán níos believable námeaisíní tairiscint suthain. Go háirithe ar AIX :). "
+		-- David Leimbach
+
+%
+<Overfiend> is é seo an Overfiend Nua, preacher de Grá agus Caoinfhulaingt
+		-- David Leimbach
+
+%
+<Hoponpop> an difríocht idir NetBSD, FreeBSD, agus OpenBSD, mar           Is chos istigh Tá FreeBSD suim acu i dul rudaí a dhéanamh, agusNí miste daoine a fhaigheann ar a mbealach hurting.<Hoponpop> NetBSD bhfuil suim chinntiú aon rud a fhaigheann déanta, agus           Ní miste do dhaoine a iarracht chun rudaí a chur i gcrích hurting.<Hoponpop> OpenBSD bhfuil suim acu i lorg maith, agus ní Gortaítear duine ar bith           ina bpobal beag féin, ach ag faire amach gach duine eile!
+		-- David Leimbach
+
+%
+<Liiwi> amhlaidh, cad é an bealach oifigiúil a fháil buildd le triail pacáiste? dtáirgí        sé le maide?<Joey> neuro dtáirgí<Liiwi> le maide?<Joey> yes.
+		-- David Leimbach
+
+%
+<Knghtbrd> "... beidh tú níos mó ná seans a fheiceáil gach cineál na tiomsaitheoir           rabhaidh scrollaigh trí ar an scáileán. Tá siad seo gnáth agus is féidira neamhaird go sábháilte. "<LordHavoc> Knghtbrd: go nóta a ghabhann leis éigin M $ cód?<Knghtbrd> Níl, tá sé nóta faoi a bunch de GNU stuif.
+		-- David Leimbach
+
+%
+<Hiodrocsaíde> knightbrd: ó allmhairí knightbrd.brain * :)<Knghtbrd> déithe Oh dá mbeadh sé go héasca ..<Knghtbrd> ó OpenGL ar allmhairí carmack.brain
+		-- David Leimbach
+
+%
+<LIM> mmmm, donuts multitextured ....<Knghtbrd> LIM: le torthaí a líonadh?<LIM> knghtbrd: uachtar seacláide ...
+		-- David Leimbach
+
+%
+<StevenK> Tá tú athscríobh codanna de Quake i * Python *?<Knghtbrd> MUAHAHAHA
+		-- David Leimbach
+
+%
+Tá ## a_nick (nobody@c213-89-87-111.cm-upc.chello.se) Chuaigh #python<A_nick> Conas is féidir liom a chur eochair nua do foclóir?<A_nick> nm<Fleasc> heh :)<Fleasc> behold an chumhacht chun fadhbanna a réiteach ar #python.
+		-- David Leimbach
+
+%
+<Hop_> bhí mé rud éigin a cheapann raibh mé cearc a bhí brataithe go bhfuil dearg       greamaigh go bhfuil an chuma a bheith comhdhéanta de lye bunaithe ar cé mhéad de mo       tounge dódh sé ar shiúl.<Hop_> ár gcara atá Indiach dúirt é sin an fáth go bhfuil Indians mó tanaí       agus luaigh mé "Ní thógann sé go mór ar an bia a fhaigheann tú       enoguh sásta chun stop a ithe. "
+		-- David Leimbach
+
+%
+<Rún> "Tá sé clasaiceach eacnamaíocht sní-suas, ag aithint go bhfuil airgead            Is cosúil aoileach: Oibríonn sé is fearr má leathadh tú é thart '.<Knghtbrd> Rún: Carter comhghaoil: Daoine le go leor de cheachtar           de ghnáth smell greannmhar<Intinn> Knghtbrd: Tá tú a bhuachan SO.
+		-- David Leimbach
+
+%

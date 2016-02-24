@@ -1,0 +1,129 @@
+Debian Leid # 44: Is féidir leat leanúint leis an gcuntas Identi.ca do Debian agIs féidir http://identi.ca/debian Tuilleadh eolais ar Debian ag Identica freisina fháil ag: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Leid # 1: Is féidir leat tuairisc a bug i bpacáiste leis an ordú 'reportbug',atá ar fáil sa phacáiste reportbug, bíodh sé ó na n-orduithe nóleis an Comhéadan nua grafach (atá ar fáil ag rith 'reportbug gtk2 --ui' nó inan roghchlár).
+
+%
+Debian Leid # 2: Is féidir leat úsáid a bhaint 'dpkg-athchumrú <pacáiste> "a athrú ar anfreagraí a thug tú ar na ceisteanna nuair a suiteáilte tú an chéad phacáiste.Tugann an 'chumrú-Debian' pacáiste a ceann tosaigh aontaithe chun é seo a,chomh maith.
+
+%
+Debian Leid # 3: Is féidir leat úsáid a bhaint ceachtar 'cuardaigh Apt-cache <focail>' nó'Infheidhmeacht cuardaigh <focail>' chun cuardach focail sna cuntais ar fadpacáistí ar fáil.
+
+%
+Debian Leid # 4: Is féidir leat a fheiceáil ar an leagan atá ar fáil agus a chuirtear isteach le haghaidh ceann amháinnó pacáistí níos mó ar fáil le 'polasaí Apt-cache <pacáistí>' ordú.
+
+%
+Debian Leid # 5: Más gá duit a thógáil ar an eithne saincheaptha, bain úsáid as an "a dhéanamh-kpkg 'script le fáil sa phacáiste eithne-phacáiste.
+
+%
+Debian Leid # 6: Níl aon leid # 6. Cuir leid inniu!
+
+%
+Debian Leid # 7: Is féidir leat úsáid an pacáiste cron-Apt a dhéanamh gach oíche uathoibríochíoslódálacha de nuashonruithe do phacáistí suiteáilte ar do chóras.
+
+%
+Debian Leid # 8: Má tá fadhbanna le Debian nach féidir leat a réiteach agléamh na lámhleabhair agus doiciméadú, bain triail as ag iarraidh ar na Úsáideoirí Debianliosta postála (debian-user@lists.debian.org).
+
+%
+Debian Leid # 9: Más gá duit a fháil amach cad leagan de Debian bhfuil tú faoi láthairag rith, breathnú isteach / etc / debian_version nó úsáid 'lsb_release -sc' ordú. Má tá túag iarraidh a fhios ag an codename don leagan (mar shampla, tá sé 5.0 codenamed'Lenny'), seiceáil an URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Leid # 10: Tá liostaí seoltaí Debian do gach rud ó úsáideoirceisteanna a díospóireachtaí níos mó ná cad a chur isteach sa doiciméad beartais Debian.Amharc ar an liosta ag http://www.debian.org/MailingLists/ agus liostáilsiúd an leas sin agat.
+
+%
+Debian Leid # 11: Coinneáil suas chun dáta ar cad atá ar siúl - léigh an DebianNuacht Tionscadail. Léigh sé ar an ngréasán ag http://www.debian.org/News/weekly/
+
+%
+Debian Leid # 12: Cuireann an pacáiste grep-dctrl roinnt scripteanna úsáideachado tapa chuardach comhaid rialaithe pacáiste éagsúla (mar shampla an fáilpacáistí comhad).
+
+%
+Debian Leid # 13: Mura bhfuil tú ar nós na roghanna réamhshocraithe a úsáidtear i Debianpacáiste, is féidir leat a íoslódáil ar an fhoinse agus a thógáil leagan a úsáideann anRoghanna fearr leat. Féach http://www.debian.org/doc/FAQ/ch-pkg_basics.html(Ailt 6.13 agus 6.14) le haghaidh tuilleadh eolais.Mar sin féin, a choinneáil i gcuimhne go bhfuil na roghanna is mó sa chuid is mó pacáistí a chumrúag runtime, agus nach gá recompiling an bpacáiste.
+
+%
+Debian Leid # 14: Dá mba mhaith leat chun rudaí ag tarlú le pacáiste leanúint(Mar shampla, más mian leat a fheiceáil tuairiscí faoi fhabhtanna, fógraí scaoileadh, agus eilerudaí den chineál céanna), a mheas síntiús a thabhairt dó ar an gCóras Rianaithe Pacáiste.Is féidir leat teacht ar thuilleadh faisnéise faoi na PTS ag:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Leid # 15: Is féidir leis an doiciméadú i gcás pacáiste a fháil de ghnáthfaoi ​​/ usr / share / doc / <pacáiste>. Go háirithe, soláthróidh siad an README.Debian minicTá eolas úsáideach faoi Newsagents nó leideanna Debian-sonrach.
+
+%
+Debian Leid # 16: Má tá tú ag cuardach le haghaidh comhad áirithe, ach níl a fhiosa pacáiste mbaineann sé, déan iarracht a shuiteáil 'Apt-comhad', a choimeádannbunachar sonraí beag ar an bhfaisnéis, nó cuardach a dhéanamh ar ábhar ar an DebianPacáistí bunachar sonraí, is féidir a dhéanamh ag:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Leid # 17: An riachtanas is gá duine éigin chun labhairt faoi Debian? Má tá tú compordachle Internet Relay Chat (IRC), ach a shuiteáil cliant IRC is fearr leat, aguspáirt a ghlacadh #debian ar irc.debian.org.
+
+%
+Debian Leid # 18: Is féidir le faisnéis a Rialú cáilíochta faoi phacáiste le fáilag dul go dtí http://packages.qa.debian.org/~~V <pacáiste>; Soláthraíonn an leathanach seonaisc leathanach QA an Cothaitheoir, an BTS, míreanna nuachta don phacáiste, aguseolas ar a bhfuil leagan ar fáil ina bhfuil cartlanna.
+
+%
+Debian Leid # 19: Má tá suim agat i bpacáistí tógála tú ó fhoinse, túBa cheart breithniú a shuiteáil an pacáiste Apt-src.
+
+%
+Debian Leid # 20: Want súil a choinneáil ar cén leagan de phacáiste a bhfuil tú a choinneáil arsuiteáilte (úsáideach go háirithe dóibh siúd a reáchtáil hibrideach cobhsaí / tástáil /Córais éagobhsaí)? Amharc Apt-seó-leaganacha.
+
+%
+Debian Leid # 21: Má tá do bhosca Debian taobh thiar de cheangal líonra mall,ach caithfidh tú rochtain a fháil ar cheann tapa agus is maith, seiceáil amach an pacáiste Apt-zip.
+
+%
+Debian Leid # 22: Wondering atá scáthán Debian is fearr duit? Amharcan Apt-Spy agus pacáistí netselect-apt, is féidir a thabhairt duit eolasfaoi ​​conas éagsúla a dhéanamh suímh scáthán.
+
+%
+Debian Leid # 23: Má tá do chóras ag baint úsáide as spás diosca iomarca, déan iarracht andeborphan bpacáiste; Is féidir é a moltaí a thairiscint faoi a d'fhéadfadh pacáistí aneamhúsáidte agus inbhainte. Agus, ar ndóigh, ná déan dearmad a ghlanadh amach anlimistéar taisce APT (ag baint úsáide as 'Apt-fháil glan', 'infheidhmeacht glan', nóGníomh infheidhmeachta ar -> pacáiste Glan taisce mír roghchlár).
+
+%
+Debian Leid # 24: Dá mba mhaith leat a ghabháil ar cothaitheoir chun déileáil leeisiúint, seiceáil amach --kudos reportbug.
+
+%
+Debian Leid # 25: Tá 'Debian-tagartha' pacáiste éagsúlacht leathantagartha cáipéisí le haghaidh úsáideoirí Debian agus forbróirí. An chuid is mó de naféidir eolas a fháil freisin ag an URL seo a leanas:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Leid # 26: Más rud é nach pacáiste cosúil go bhfuil an doiciméadú i bhfad,seiceáil i gcás pacáiste darb ainm '<pacáiste> -doc' nó a leithéid agus a dhéanamh cinnte goshuiteáil chomh maith; pacáistí le suimeanna móra doiciméadúscoilt rialta ar docs ar an mbealach seo dóibh siúd nach bhfuil ag iarraidh ashuiteáil.
+
+%
+Debian Leid # 27: Rialta fhíorú do backups. Tá tú * Tá * backups a choimeád,ceart? Ceart? Mura bhfuil, tús a chur le tarra (1) nó Dumpáil (1).
+
+%
+Debian Leid # 28: Mura bhfuil do ríomhaire ar fad ar an am (mar shamplaríomhaire glúine), féach ar an 'anacron' pacáiste; beidh sé seo a dhéanamh cinnte go rialtatascanna a tharlóidh go fóill, fiú mura bhfuil an meaisín ar an tráth a bheadh ​​siadde ghnáth spreagadh.
+
+%
+Debian Leid # 29: Coinnigh do clog chóras cruinn - Meaisíní a iompú arBa chóir an chuid is mó nó gach ceann de an t-am ar an bpacáiste 'NTP' suiteáilte a choinneáil ar an t-amcruinn i idir reboots.
+
+%
+Debian Leid # 30: Is féidir Doiciméadú a chur ar fáil ag http: // localhost /ag a shuiteáil ar an 'doc-bonn' agus 'doc-lárnach' bpacáistí agus naspleáchais.
+
+%
+Debian Leid # 31: disabling seirbhís ghnáth-ghníomhach i leibhéal reatha sonrachba chóir a dhéanamh trí athrú ar an nasc S in /etc/rc<level>.d chun nasc K,in ionad a bhaint an nasc go hiomlán; más rud é gach naisc a bhaint, anBeidh córas glacadh ar an chéad cheann eile a shuiteáil gur gá dóibh a chur in ionad.
+
+%
+Debian Leid # 32: An pacáiste 'doc-Debian' tá roinnt ginearáltadoiciméadú faoin tionscadal Debian. Tá sé ar fáil freisin i Spáinnis(Doc-Debian-es), Fraincis (doc-Debian-fr) agus Úcráinis (doc-Debian-uk).
+
+%
+Debian Leid # 33: An pacáiste 'devscripts' tá roinnt scripteanna úsáideach le haghaidhúsáideoirí atá ag iarraidh chun cabhrú le feabhas a chur Debian, m.sh. wnpp-airdeall, rc-airdeall agus BTS.
+
+%
+Debian Leid # 34: Más mian leat a rianú Debian Sid agus tá íoslódáil beagchuóta nó nasc i ndáiríre mall, seiceáil amach an pacáiste debdelta.
+
+%
+Debian Leid # 35: I cuardach roinnt cluichí? Féach ar 'goplay', aTairgeann Comhéadan deas do brabhsáil trí gach cineál na cluichí.
+
+%
+Debian Leid # 36: An riachtanas is gá pacáiste níos nuaí ná shipped le Debian ar seo caitescaoileadh cobhsaí, ach nach mian a uasghrádú chun 'tástála' nó 'unstable'? roinntPacáistí a choimeád cothrom le dáta tríd an tsraith cobhsaí-nuashonruithe, tá roinnt daoine eilear fáil ag backports.debian.org.
+
+%
+Debian Leid # 37: Want a íoslódáil pacáiste gan a shuiteáil é? úsáid'Íoslódáil infheidhmeacht <pkgname>'.
+
+%
+Debian Leid # 38: Want a fhios conas is féidir leat úsáid le clár raibh tú riamh a úsáidtearroimhe seo? "Fear" a bheith do chara is fearr nua! Cineál "fear <clár-ainm>" ibhlaosc. Nó, á reáchtáil "fear -H <clár-ainm>" a léamh ar an leathanach láimhe i bhrabhsálaí.
+
+%
+Debian Leid # 39: Feabhas bash ar tab-críochnaithe ag a shuiteáil anpacáiste bash-críochnaithe.
+
+%
+Debian Leid # 40: Má tá tú shuiteáil an pacáiste ordú-not-aimsithe, ag iarraidh areáchtáil a dtoil nach bhfuil tú suiteáilte beidh insint duit cad pacáiste a shuiteáilfháil go ordú.
+
+%
+Debian Leid # 41: Is féidir leat úsáid a bhaint 'seó Apt-cache <package_name>' nó 'taispeáin infheidhmeachta<Package_name> 'tuilleadh eolais a fháil faoi pacáiste Debian a fháil.
+
+%
+Debian Leid # 42: Is féidir leat úsáid a bhaint 'liosta Apt-comhad <package_name> "a fháil liostaden ábhar phacáiste Debian. Tá an gníomh seo cosúil leis'Dpkg -L <package_name>' seachas nach bhfuil an pacáiste gá a bheith suiteáilte nófetched ag baint úsáide Apt-comhad i gcodarsnacht leis dpkg.
+
+%
+Debian Leid # 43: Want a chur ar ceal go sealadach do iptables balla dóiteáin? úsáid'Iptables-shábháil | sed "/ - / d = / ^ # / d = s / Drop / GLACADH /" | iptables-ar ais 'a bhaintgach riail agus leag an polasaí réamhshocraithe le GLACADH.
+
+%

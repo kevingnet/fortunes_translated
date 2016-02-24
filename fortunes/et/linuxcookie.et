@@ -1,0 +1,412 @@
+Linux masin! sest 486 on kohutav asi raisata!(Autor jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absoluutselt mitte midagi tuleks järeldada, need arvud, välja arvatudei saa teha järeldust neilt. "(Joseph L. Brothers, Linux / PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tegelikult kirjutades juhuslikult stringe Finder teeb samaväärnefailinimi lõpetamist.(Arutelu comp.os.linux.misc kohta intuitiveness käske: faililõpetamist vs Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Pärast vaadates minu äsja pensionärist isa veeta kaks nädalat õppida, kuidas teha uuekausta, sai selgeks, et "intuitiivne" enamasti tähendab "mida kirjanik võikõneleja intuitiivne meeldib ".(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc kohta Xintuitiveness Mac liides.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kõik keel disainerid on ülbe. Goes territooriumiga ..."(Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ja 1.1.81 ametlikult ometigi (tm), nii et kui te saite vearaportidseda, sa tead, et nad on lihtsalt paha valesid. "(Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Ja napilt riietatud naised, muidugi. Kes hoolib, kui see on alla nulliväljaspool "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ja kui te järgmine kord kaaluda kurdavad, et töötab Lucid Emacs19.05 NFS kaugel Linux masin Paraguay ei tundusaada taustavärvi õigus, tead, kes tänada. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>: Kõik koormakandjad seal ei tohiks tunda õnnelikumad, teades, et detsember on laevandus>: Mulle AlphaPC et kavatsen proovida saada linux töötab: see tahe>: Kindlasti aitab masti läbi mõned kõige karjuvas mitteporditavaid värk.>: Alpha on palju erineb i386 kui 68k värk on, et>: See on tõenäoline, et saada enamik asju fikseeritud.>> See postitusi nagu see, et peaaegu meid veenda mitteusklike, et> Tõesti on jumal.(A järelkontrolli alovell@kerberos.demon.co.uk, Anthony Lovell, et Linus onmärkused teisaldamise kohta)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Igaüks, kes arvab UNIX on intuitiivne tohiks sundida kirjutama 5000 ridakoodi kasutades midagi, kuid vi või Emacs. AAAAACK!(Arutelu comp.os.linux.misc kohta intuitiveness käske, eritiEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kas [Linuxi kasutajad] lemmingud ühiselt hüpped off kaljuusaldusväärne, hästi konstrueeritud kommertstarkvara? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nagu ikka, sest need on 1.3.x vabastamist, ma pole isegi koostatud selletuuma veel. Nii et kui see toimib, siis peaks olema kahekordselt muljet.(Linus Torvalds, teatades kernel 1.3.3 kohta Linux-kernel meililistis.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vältida väravad Hell. Kasuta Linux(Tundmatu allikas)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tuleb hoiatada, et kirjutades \ fBkillall \ fIname \ fP ei pruugi soovitudmõju mitte-Linux süsteemide, eriti kui teha privilegeeritud kasutaja.(Alates killall manuali)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pealegi, ma arvan [Slackware] kõlab paremini kui" Microsoft "eks?"(Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Aga mida sa sellega teha? - Üldlevinud cry Linux kasutaja partner.(Lisaja Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Jumaluke, ma olen hakanud mõtlema Linux tõesti * on * parim asi pärastviilutatud leib. "(Vance Petree, Virginia Toide)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * Oops. Kernel üritas pääseda halbu lehel. Me peame * Lõpetada asja äärmise eelarvamusi.* /die_if_kernel ( "Oops", määrused, error_code);(Linux / arch / i386 / mm / fault.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Deep Hack Mode - salapärane ja hirmutav seisundteadvuse kus Mortal Kasutajad arastelevat. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra ilmselt vihkab mind(Linus Torvalds, kernel / sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n., Väike tüütu boot viirus, mis põhjustab juhuslik spontaanne süsteemi     jookseb, tavaliselt just enne salvestamist suur projekt. Lihtsalt käes     UNIX. Vaata ka MS-DOS, IBM-DOS, DR-DOS.(David Vicker on .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/ * * [...] Pange tähele, et 120 sec on määratletud uuringu maksimaalseks * Võimalik RTT. Ma arvan, et me peame kasutama midagi muud kui TCP * Rääkida Ülikooli Mars. * PAWS võimaldab meil enam ajalõpud ja suured aknad, nii et kui rakendatakse * Ftp Marsile töötab kenasti. * /(Alates /usr/src/linux/net/inet/tcp.c, mis puudutavad RTT [taasedastamise timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Veelgi hämmastavam oli arusaam, et Jumal on Interneti-ühendus. MaEi tea, kas ta on täis uudisvoo? "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Kunagi kuulnud .cshrc?See on linn Bosnia. Right?(Arutelu comp.os.linux.misc kohta intuitiveness käske.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Error: Leitud [MS-Windows] System -> Repartitioning Disk Linux ...(Autor cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kuidas kirjutada "i in * .dvi ei xdvi i teinud" GUI?(Arutelu comp.os.linux.misc kohta intuitiveness liidesed.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kuidas ma tean, kas see toimib? Seda beetatesterite ongi. Ma ainultkodeeritud seda. "(Autoriks Linus Torvalds, kuskil postitamise)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+---- == - _ / / \--- == --- (_) __ __ ____ __ / / / \ \- == --- / / _ \ / // / \ \ / / / / _ / \ \ \- ===== / _ / _ // _ / \ _, _ / / _ / \ _ \ / ______ \ \ \Uhke liige TeamLinux \ _________ \ /(Autor CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ma arendada Linuxi jaoks elu, ma kasutasin arendada DOS.Minnes DOS Linux on nagu kauplemine purilennuki jaoks F117.(Autor entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ma tegin seda sest Linux annab mulle puitunud. See ei tulu.(Dave -ddt-> `Taylor, teatades DOOM Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Julgelt võtke mind (leegid minu inglise ja kasutu selleJuht suunatakse / dev / null, oh ei, see on täis ...).(Michael Beck, kirjeldades PC-kõneleja heliseade)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ma ei tea, miks, aga esimene C programmid kipuvad vaatama palju hullem kuiEsimene programme mis tahes muu keel (võibolla välja arvatud FORTRAN, kuid siisMa kahtlustan, kõik FORTRAN programmid sarnanema `esimestest") "(OLAF Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ma kord tunnistajaks Pitkäveteinen, kuu pikkune flamewar kasutamise ülehiired vs trackballs ... See oli väga rumal. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ma endiselt punkt, et projekteerimisel monoliitne tuuma 1991 onränga vea. Ole tänulik te ei ole minu õpilane. Sa ei saakõrge hinne sellise disaini :-)(Andrew Tanenbaum Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ma pigem kulutada 10 tundi lugemist kellegi lähtekoodi kui10 minuti kuulata moussaka ootab tehnilist tuge, mis ei ole. "(Dr. Greg Wettstein, Roger Maris vähikeskuses)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ma ronivad aakri" Visual See ++ ja integreeritud arenguSee, et saada gcc, Emacs ja GDB. Aitäh."(Vance Petree, Virginia Toide)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Ma olen idioot .. Vähemalt see [Bug] kulus umbes 5 minutit, et leida .."(Linus Torvalds vastuseks veateate.)> Ma olen idioot .. Vähemalt see [Bug] kulus umbes 5 minutit, et leida ..Rahutusttekitava ...(Gonzalo Tornaria vastuseks Linus Torvalds postitusloendist umbes tuuma vea.)> Ma olen idioot .. Vähemalt see [Bug] kulus umbes 5 minutit, et leida ..Meil on vaja leida uusi mõisteid, et kirjeldada meie ülejäänud lihtsalt surelikudsiis.(Craig Schlenter vastuseks Linus Torvalds postitusloendist umbes tuuma vea.)> Ma olen idioot .. Vähemalt see [Bug] kulus umbes 5 minutit, et leida ..Kindlasti Linus räägib mingi idiootsus, et teised soovivad :-).(Bruce Perens vastuseks Linus Torvalds postitusloendist umbes tuuma vea.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen joosta DOOM rohkem viimastel päevadel, kui mul on viimastelkuud. Ma lihtsalt armastan silumine ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., muret kasvav populaarsus vaba 32-bitoperatsioonisüsteemi Intel süsteemid, Linux, on hõivatud mitmete topprogrammeerijad alates maa maailmas viiruse arengut. Bill Gates teataseile: "Maailm domineerimine, kiire - see on kas meie või Linus". hr Torvaldsoli saadaval kommenteerimiseks ...(Rjm@swift.eng.ox.ac.uk (Robert viisid), in comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (Argc> 1 && strcmp (argv [1], "-soovitus") == 0) {printf ( "Ära pabista! \ n");exit (42);    }(Arnold Robbins LJ veebruaril '95, kirjeldades RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++ #, Kui määratletud (__ alpha__) && määratletud (CONFIG_PCI)+ / *+ * Elu mõte, universum ja kõik. pluss+ * See teeb aastas välja tulema õige.+ * /+ Aasta - = 42;+ # Endif(Alates plaastrit 1.3.2: (kernel / time.c), esitas Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kui tulevikus navigatsioonisüsteem [interaktiivse võrgustatud teenusteNII] näeb välja midagi Microsoft, see ei saa kunagi tööd. "(Esimees Walt Disney Television & Telecommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Kui sa tahad reisida ümber maailma ja olla kutsutud rääkima paljuerinevates kohtades, lihtsalt kirjutada Unix operatsioonisüsteemi. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[In" Doktor "mode], veetsin hea kümme minutit räägib Emacs, mida mamõtles ta. (Vastus oli, "Võib-olla sa võiksid proovida olla vähemkuritahtlik. ")"(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Enamikus riikides müüa kahjulikke asju nagu narkootikumid on karistatav.Siis howcome inimesed saavad müüa Microsofti tarkvara ja jää karistamata?(Autor hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel inseneri tundub, et on misheard Intel turundusstrateegia. Fraasoli "jaga ja valitse" ei "jaga ja kukk up"(Autor iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"See on Jumala. Ei, mitte Richard Stallman või Linus Torvalds, kuid Jumal."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LiLo, sul mind põlvili!(David Must, dblack@pilot.njin.net, vabandust Derek jaDominos ja Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux on vananenud(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux tõsine väljakutse neile, kellel on maitse hilisõhtulhäkkimine (ja / või vestlusi Jumal). "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux! Guerrilla UNIX Development Venimus, Vidimus, Dolavimus.(Autor mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... [Linuxi] võime rääkida ükskõik millise kaudu keskmise välja suitsu signaale."(Dr. Greg Wettstein, Roger Maris vähikeskuses)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: kuna arvuti on kohutav asi raisata(Ksh@cis.ufl.edu panna seda särgid in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Kuna arvuti on kohutav asi raisata.(Autor komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: valikut GNU põlvkonna(Ksh@cis.ufl.edu panna seda särgid in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: operatsioonisüsteem aimugi ...Command Line kasutaja keskkonnas ".(Esinenud lähetus comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 põlema(Üks obfuscated tuuma sõnumeid)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft ei ole vastus.Microsoft on küsimus.NO (või Linux) on vastus.(Võetud .signature keegi Suurbritanniast, allikas teadmata)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mounten" wird für drei Dinge benutzt: "Aufsitzen" auf Pferde, "einklinken"von Festplatten in Dateisysteme, und, nunn, "besteigen" beim Sugu.(Christa Keil aastal Saksa postitad: "Paigaldus kasutatakse kolme asja:ronimist hobune, sidudes oma kõvakettale üksuse infosüsteemid, ja, noh,paigaldus seksi ajal ".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS- ei saa nii halb, kui ta on üleöö - see võttis üle kümne aastahoolika arengut. "(Autor dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mitte kunagi mingit mistaeks."(Anonymous, posti-arutelu, et tuuma vearaportit.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mitte mina, mees. Lugesin Bash mees lehel iga päev nagu Jehoova tunnistaja loebPiibel. Ei oota, Bash mees lehel on piibel. Vabandage mind...(Rohkem segane varjunimed, mis on võetud comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Pange tähele, et kui ma saan teid \" su ja öelda \ "midagi lihtsalt küsides,teil on väga tõsine turvarisk oma süsteemis ja sa peaksiduurida seda. "(Paul Vixie, vixie-cron 3.0.1 damisjuhendit)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nüüd ma tean, et keegi seal läheb väidavad, "Noh, siis, UNIX on intuitiivne,sest sul on ainult vaja õppida 5000 käske, ja siis kõik muu järgmiseltsellest! Har Har Har! "(Andy Bates comp.os.linux.misc, on "intuitiivsed liidesed", veidikaitsta Mac).
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Nüüd oli meil selline asi:  annavad -a saakide kõigile liikluses  annavad -t jaoks saagis veoautod  annavad -f saakide inimeste kõndimine (saagis jala)  annavad -d t * jaoks tootlus päeva alustades t... Soovid on palju surnud inimesi ristmikel ning liiklusummikud teidei usu ...(Arutelu comp.os.linux.misc kohta intuitiveness käske.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"On tavaline ASCII line, ainus ohutu seisundi tuvastamiseks on vaheaeg"- Kõik muu, millele on määratud funktsioone Emacs'il. "(Autor Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Internetis ei tea keegi, te kasutate Windows NT"(Lisaja Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kunagi ammu oli DOS kasutaja, kes nägi Unix, ja nägi, et see olihea. Pärast kirjutades cp tema DOS masin kodus, ta alla GNUUNIX tööriistad porditud DOS ja paigaldatud neid. Ta rm'd, cp'd ja mv'dõnneks mitu päeva ja leidmisel Elvis, ta vi'd ja oli õnnelik. pärastpikka päeva tööl (Unix kast) ta koju tuli, hakanud faili redigeerima,ja ei suutnud aru saada, miks ta ei suutnud peatada vi (w / Ctrl z) tehakoostamiseks.(Autor ewt@tipper.oit.unc.edu (Erik Trøan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>> Muud kui asjaolu, Linux on lahe nimi, mida keegi seletada, miks ma>> Peaks kasutama Linux üle BSD?>> Ei Ongi. Lahe nimi, mis on. Me töötasime väga raske> Luues nime, mis oleks kaebuse enamik inimesi, ja see> Kindlasti ära tasunud: tuhanded inimesed kasutavad linux lihtsalt saaks> Öelda "OS / 2? Hah. Mul Linux. Mis jahedas nimi". 386BSD teinud> Panemise viga palju numbreid ja imelik lühendeid sisse> Nimi, ja see on hirmutamiseks ära palju inimesi lihtsalt sellepärast, et see kõlab liiga> Tehniline.(Linus Torvalds "järelmeetmete kohta küsimus Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Isiklikult ma arvan, et minu valik on mostest-ülivõrdes-arvuti sõjad peabolla HP-48 seeria kalkulaatorid. Nad töötavad peaaegu midagi. Ja kui nadei saa, kuid ma lihtsalt plug Linux kastist jadaport ja koormus kuniHP-48 VT-100 emulaator.(Autor jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Puuduvad niidid a.b.p.erotica, seega ei ole kasumi abilkeermestatud uudistelugeja.(Tundmatu allikas)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Probleemide lahendamine Linuxis pole kunagi olnud tsirkus, et see on allaAIX. "(Pete Ehlke in comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+quit quit avaldus on lugeda, BC protsessor       lõpetatakse, olenemata sellest, kus väljuda RKT       mine on leitud. Näiteks "kui (0 == 1) quit"       paneb BC lõpetada.(Näha Manpage jaoks "BC". Pane tähele, et "kui" avaldusele loogika)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Running Windows Pentium on nagu täiesti uus Porsche kuid ainultolema võimeline juhtima tahapoole, käsipidur peal.(Tundmatu allikas)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Sic transiidi kettaheites mundi"(Alates süsteemihalduri käsiraamatut, Lars wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ohkama. Mulle meeldib mõelda, et see on lihtsalt Linuxi inimesed, kes tahavad ollaNN "tipptasemel" nii halb nad kõndima õigus ära järsak.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Vestluse programm on avalik. See ei ole GNU avalik litsents. kuiSee murrab siis saad hoida nii tükki.(Autoriõiguse märke chat programm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> Päev inimesed arvavad linux oleks parem kellegi teise poolt (FSF> On looduslik alternatiiv), ma "loobuma". Ma ei usu, et> See on midagi, mida inimesed ei pea muretsema kohe - ma ei näe seda> Juhtub lähitulevikus. Naudin teed linux, kuigi see ei> Tähenda mingit tööd, ja ma ei saanud ühtegi kaebust (mõned peaaegu pelglik> Meeldetuletusi plaaster olen unustanud või ignoreerida, kuid midagi> Negatiivne siiani).>> Ärge võtke ülaltoodud tähendab, et ma peatus päeval keegi kaebab:> Ma olen paksunahaline (Lasu, kes loeb seda üle õla kommenteeris> Et "paks otsaga on tõele lähemale") piisavalt, et võtta mõned kuritarvitamine.> Kui ma ei olnud, oleksin peatunud arendada linux päeval ast teleekraanil mind> Kohta c.o.minix. Mida ma mõtlen on lihtsalt, et kui linux on olnud mu laps nii> Palju, ma ei taha, et takistada kui inimesed tahavad teha midagi> Parem sellest (*).>> Linus>> (*) Hei, äkki ma võiks taotleda Saint-kapuuts paavst. Kas> Keegi tea, mida tema e-posti aadress on? Ma olen nii kena see teeb teid Oksennus.(Võetud Linus vastust keegi mures tuleviku Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tore asi Windows on - see ei ole lihtsalt krahhi, see näitabdialoog, kus sa vajutad "OK" esimene.(Arno Schaefer .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Ainus "intuitiivne" kasutajaliides on nibu. Pärast seda, see kõik on õppinud.(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, X liidesed.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+On kahte tüüpi Linux arendajad - need, kes suudavad kirjutada jaNeile, kes ei saa. Seal on pidev otsustav lahing kahe vahel.(Ühest post-1.1.54 kerneli uuendus saadetud sõnumid c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+See kiri oli toonud teile Linux, vaba Unix.Windows ilma X on nagu armatsemine ilma partnerita.Sugu, Drugs & Linux reeglidwin-NT inimestelt, kes leiutas edlinõunad on mõeldud hädas, sest EdenLinux, kuidas vabaneda buudiviirused(Autor mwikholm@at8.abo.fi, Madsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Unix, MS-DOS ja Windows NT (tuntud ka kui Hea, halb jaUgly). "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Väga vähe nähtusi ei tõmba keegi välja Deep Hack Mode, kahemärkis erandeid: on välguga pihta, või mis veel hullem, oma * arvuti *peksmisele välk. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vehkimine ära suitsupilve, ma vaatan üles ja olen pimestatud helge, valgevalgust. See on Jumal. Ei, mitte Richard Stallman või Linus Torvalds, kuid Jumal. sisseõitseb häält, ütleb ta: "See on märk. kasutada Linuxi vaba Unix süsteemiEEST 386. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Me kõik teame, Linux on väga ... see lõpmatu silmuseid 5 sekundit."(Linus Torvalds umbes paremust Linux AmsterdamiLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Oleme Microsoftiga. Sa võrdsustada. Vastupanu on mõttetu.(Autoriks B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Oleme Pentium of Borg. Division on mõttetu. Sa ühtlustada.(Esinenud kellegi .signature)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Me kasutame Linux iga päev kuni meie tootlikkus - nii UP Teile!(Kohandatud Pat Paulsen Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Tuleme matta DOS, mitte ülistada.(Paul Vojta, vojta@math.berkeley.edu, parafraseerides tsitaat Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Me kasutame Linux meie kõigi kriitiliste rakenduste korral. Võttes lähtekooditähendab, et me ei pantvangis kellegi toetust osakonda.(Russell Nelson president Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Mis siis lõpuks, pärast töötab operatsioonisüsteemi mõiste kauduNende paljude marketing kohvifiltrid on midagi ei ole erinevalt tavaline kuumvett. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Mis see skript teha?    unzip; puudutada; sõrme; Mount; ohe; jah; umount; uniVihje vastus: kõik ei ole arvuti orienteeritud. Mõnikord sa oledmagamiskott, telkimine välja.(Soodustas Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`Kui sa ütled" Ma kirjutasin programm, mis kukkus Windows ", inimesed lihtsalt vahtimasa tühja pilguga ja ütleb: "Kuule, ma sain need, kellel on süsteem, * tasuta *". "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Vahusta mind. Peksid. Tee mulle säilitada AIX."(Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Hetkel General jätmine ja miks ta lugemine minu kõvakettale?"Microsoft mäng chekar vor sõidavad, worgs rest !!(Autor leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Kes tahab meeles pidada, et põgeneda-x-alt-kontrolli-vasakule nihe-b paneb sindsuper-edit-siluda kompileerida režiimis?(Arutelu comp.os.linux.misc kohta intuitiveness käske, eritiEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Miks kasutada Windows, sest seal on uks?(Autor fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"World domineerimine. Kiire"(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you võiks kulutada * kogu päeva * kohandades tiitliriba. Usu mind. minaräägin oma kogemusest. "(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"... Sa võiksid samuti vahele Xmas tähistamine täielikult ning selle asemelistuvad ees oma Linuxi arvuti mängidesUhiuus-ja-paremat Linuxi tuuma versiooni. "(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sinu ülesanne on olles professor ja teadlane: See on üks kuradima hea vabandusmõned aju-kahjutasu minix.(Linus Torvalds Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Olen kuulnud juut ja moslemite väidavad Damaskuse kohvik vähem kirgekui Emacsis sõdu. "<Ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%

@@ -1,0 +1,237 @@
+#lms
+01:56:24 <@Baseciq> don't forget kids - CREATE DATABASE lms WITH ENCODING =
+                    'iso-8859-2';
+01:56:35 <@Baseciq> bo się gópi pg będzie na unikodzie wydupiał
+01:57:03 <@Baseciq> taki onanizm
+01:57:06 <@Baseciq> robienie czegokolwiek
+01:57:34 <@Baseciq> znaczy używanie programów na siłę, które są toporne
+01:58:21 <@Baseciq> które starają się być rewelacyjne a im gówno wychodzi  bo
+                    jedyna ich rewelacyjność to właśnie ta posrana toporność,
+                    utrudnienia na każdym kroku i odstawanie od pewnych
+                    standardów
+01:58:38 <@Baseciq> rewelacyjnymi przykładami takiego rozwiązania jest np.
+                    postgres lub qmail.
+01:59:11 <@Baseciq> toporne w obsłudzę
+01:59:25 <@Baseciq> niby ultra funkcjonalne (to aluzja do qmaila) a de facto
+                    przestarzały złom
+01:59:47 <@Baseciq> mi okiełznanie exima i zbudowanie na jego bazie
+porządnego
+                    systemu poczty wirtualnej zajeło jedną noc.
+02:00:02 <@Baseciq> *jeden* plik konfiguracyjny
+02:00:53 <@Baseciq> jawnie opisane o co chodzi. aż widać że autorzy exima czy
+                    postfixa wyciągają do Ciebie ręcę i mówią "chodź obejrzyj
+                    nasze dzieło, zobacz, to się tak i tak konfiguruje,
+                    to jest proste".
+02:01:33 <@Baseciq> bo jak patrzę na qmaila to mam wrażenia jakby djb do mnie
+                    mówił "Starrrrrryyyyy, pierdolisz, ty chcesz tego używać?
+                    przecież ja to dla siebie napisałem"...
+02:02:21 <@Baseciq> sendmail za to drze mordę "MY TO CHCEMY ZROBIĆ
+                    INACZEJ!!!" :)
+02:04:42 <@Baseciq> co serwerów sql, nie używałem msql'a , ale jego
+                    config już mi się podoba. to jakby lolitka jakaś mówiła
+                    do mnie "podoba ci się moje piękne 17-letnie ciało?"
+02:05:18 <@Baseciq> w przypadku postgresa czuje się jakbym klucze kładł pod
+                    wycieraczką i zastawiał drzwi szafą.
+%
+> A może ktoś ma pomysł na logo?
+
+Najlepsze pracę zostaną nagrodzone odlewem uśmiechu developerów w
+betonie (zbrojonym).
+
+			-- Łukasz J. Mozer @ lms@lists.rulez.pl
+%
+#pld
+00:49:42 <@Baseciq> to tak z przytupu kopnę w dupę
+00:49:52 <@Baseciq> tego co wymyślił br: openssl-devel >= 0.9.7
+00:50:00 <@djrzulf^> baseciq a ja wiem kto
+00:50:11 <@adgor> hihi
+00:50:12 <@Baseciq> djrzulf^: ja też wiem, po slc2003 pojedziemy tam.
+00:50:19 <@djrzulf^> baseciq 8-]
+00:50:34 <@Baseciq> ja to nie wiem co kloczek pali, ale niech mi załatwi z
+                    grama bo ten towar ostro daje ;>
+00:50:43 <@djrzulf^> ;-]
+00:51:26 * nineveh teraz rozumie czemu baseciaq ma swoj wlasn plik w fortunkach
+          a on nie
+00:51:59 * Baseciq nadal nie rozumie dlaczego ma własny plik w fortunkach
+%
+#lms
+00:56:59 <@Baseciq> i'm little bit impressed :)
+00:57:09 <@Baseciq> czy jakoś tak.
+%
+#pld
+00:58:31 <@Baseciq> no wjechał z tym tekstem tak idealnie jak ja po pijaku
+                    ursusem 360 do szopy
+%
+#lms
+01:15:06 <@Baseciq> idę wydrukuję loga z ostatnich piętnastu minut i położę go
+                    w kiblu. będzie wydatnie zwalczał zaparcia mojej rodziny
+%
+#pld
+01:16:49 * mmazur &
+01:17:09 <@Baseciq> mmazur puścił takiego bąka ze śmiechu że aż go forkneło
+%
+#lms
+17:54:55 <@koszmarek> jakaś laska pyta się mnie na gg jak ma zrobić laskę
+                      chłopakowi
+17:55:03 <@koszmarek> więc kumpel mi doradził: powiedz jej ze montuje
+                      /dev/czlonek w /mnt/usta i odpala skrypt w ktorym jest
+                      for i="splash" do ud-down
+%
+#lms
+23:30:08 <@koszmarek> co o tym sądzisz?
+                     trzansac? :)
+23:30:11 <@djrzulf> 5 minut
+23:30:17 <@djrzulf> i będę dostępny to poklikami
+23:30:24 <@koszmarek> djrzulf: spoko, to się nie pali
+23:30:40 <@djrzulf> jak się ot ym zapomni
+23:30:43 <@djrzulf> to potem będzie kasza
+23:30:43 <@djrzulf> ;]
+23:31:02 * djrzulf & [5minut]
+23:31:05 <@koszmarek> djrzulf: dobra, luju, masz czas do północy bo wpierdol i
+                      Ci kota wydymam.
+%
+#lms
+14:16:53 <@Lexx__> Nie, źrodełka dokumentacji
+14:37:18 <@koszmarek> ZZ - Zapisz Zakończ
+14:37:18 <@koszmarek> wq - wyjdź qrwa ;)
+14:37:21 <@koszmarek> to tutor do wima ;>
+14:37:38 <@djrzulf> rotfl
+14:37:43 <@djrzulf> skąd to ?
+14:38:00 <@koszmarek> z prhn
+14:38:03 <@koszmarek> anyway
+14:38:16 <@koszmarek> ciekawe czy na tegoroczne namioty przyjedzie majaka z
+                      pkotem :>
+14:38:20 <@koszmarek> a wogóle
+14:38:24 <@koszmarek> ja nie wiem jak można vima nie lubieć
+14:38:29 <@koszmarek> nawet victus go używa
+%
+W związku z:
+
+23:22.43|  * adamg poki co w zadnej fortunce nei jest :(
+
+Postanowiłem spełnić prośbę zainteresowanego. Dziękuję Państwu za uwagę.
+%
+#pld
+23:18 <@koszmarek> djrzulf: czy suma md5 Twojej komórki to 88085c3065a589df91d6623de9cb8b11?
+%
+#pld
+16:44 <@Baseciq> KLOCZEEEK! Ty samolubie.
+16:44 <@Baseciq> djurbanowi dałeś to zioło a mi nie :/
+%
+#pld
+00:28:01 <@koszmarek> weździe sobie stąd już pójdźcie bo mi choler się knyfle
+                      pszestawiają.
+%
+#pld
+00:29:50 <@koszmarek> ja jeszcze chyba dobrze pld stawiać nie umiałem
+00:30:10 <@koszmarek> jak mnie tutaj dżek stanął nad głową i powiedział że albo
+                      wezmę rw do cvs'u albo on mnie zgwałci... czy jakoś tak...
+00:30:16 <@koszmarek> ale to chyba była zemsta za jego siostrę.
+%
+#pld
+00:43:04 <@koszmarek> adamg: bo ja myślałem że developerka PLD polega na sraniu
+                      sobie na klaty, rżnięciu siebie wzajemny w dupę,
+                      uprawianie seksu oralnego oraz dymanie milenki przez
+                      bywalców #PLDHelp,...
+00:43:22 <@koszmarek> s/wzajemny/wzajemnie/
+00:43:41 <@leafnode> koszmarek: a nie?
+00:43:48 <@adamg> koszmarek: zapomniałeś o !fistingach
+00:44:05 <@koszmarek> a, no właśnie, i na gmeraniu kolegom w odbytach.
+00:44:26 <@leafnode> ale higiena panowie, pamietajmy o higienie.
+00:44:48 <@koszmarek> a! no i prawdziwy developer PLD nie rozstaje się ze
+                      słowem 'kurwa'.
+%
+#pld
+00:49:28 <@koszmarek> dlaczego, mam wrażenie, że spotykam na #PLD{,Help} ludzi
+                      z gatunku 'napluj mu na twarz a on się uśmiechnie i powie
+                      że to deszcz pada'?
+%
+#linuxpl
+23:00.02| < jirek> tak ma wygladac wpis do udostepniania  netu?
+23:00.24| < |> jirek: tak bash# http://www.baseciq.org/linux/masq
+23:00.27| < |> i dziala
+23:00.37| < |> linux ma juz wbudowane strony basecika
+%
+#pld
+00:42 <@Baseciq> zresztą, znowu piję
+00:42 <@Baseciq> ale sam
+00:43 <@Baseciq> dj śpi, averniusz też już zaliczył /dev/ground i robi cat
+                 /dev/owieczki|wc -l
+%
+# pld 07-08-2003
+20:01  * \hunter mp3blaster Tom Waits-Blood Money- The part you throw away...
+20:02 <@\hunter> Baseciq: console=lp && enable cons on line printer || minicom i rs232
+20:02 <@Baseciq> \hunter: yhy :)
+20:02 <@Baseciq> \hunter: nie mam rsów ;>
+20:02 <@\hunter> Baseciq: zpaliłeś?
+20:02 <@Baseciq> \hunter: lpta też nie mam
+20:02 <@Baseciq> \hunter: nie, nie przewidzieli ich w moim komputerze? :)
+20:02 <@Baseciq> \hunter: dobrze że ps'y mam ;>
+20:03 <@Baseciq> \hunter: albo chyba że masz kabel do podpięcia serial console do firewire/usb ;>
+20:03 <@\hunter> Baseciq: wyglądam na takiego co 99 pln majac wyda je na glupi kabelek?
+20:04 <@Baseciq> \hunter: czekaj, niech sobie przypomne jak wyglądasz....
+20:04 <@Baseciq> \hunter: ... zdecydowanie TAK ;>
+20:04 <@\hunter> Baseciq: wyglądam jaklbym się napił czegoś zimnego/szedl na T3, idziesz?
+20:05 <@Baseciq> \hunter: oglądałem/nie mam kasy
+20:05 <@\hunter> Baseciq: insmodnij wczesniej net, dopisz sobie jakiś sy7slog-bizy-box
+20:05 <@Baseciq> zaczynasz gadać jak człowiek, a nie jak ofca ;)
+20:06 <@\hunter> Baseciq: no, separacja dobrze robi. już 6h zdala od ofcy :-p
+20:06 <@Baseciq> \hunter: to jeszcze 42h i będzie można zdjąć kwarantanne z Ciebie
+20:10 <@\hunter> Baseciq: god's away on buissnessss
+%
+#pld
+00:52 <@Baseciq> przychodzi pakiet ICMP do lekarza a lekarz na to: z takim
+                 TTL'em to pan już długo nie pożyje..
+%
+#pld
+10:33 <@Baseciq> zabijanie karpia po pldowemu:
+10:33 <@Baseciq> siadasz z karpiem przy piwie i zaczynasz tłumaczyć układy oraz zmiany z
+                 ostatniego roku. karp załamyany tym co słyszy sam odwala grzecznie kitę.
+%
+poczekaj chwilke, defragmentuje łóżko żeby mieć tu jakiś porządek i położyć sie
+wygodnie spać w jednym segmencie...
+
+Baseciq @ 26.63 MHz, Styczeń 2004
+%
+Z listów do redakcji:
+
+Content-Type: text/html; charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+Najmocniej przepraszam, ale nie pisałem maila w html'u
+Pisałem go w outlook'u
+%
+<Baseciq> Pomacaj mnie po nagłówkach...
+%
+02:05:33 <@Baseciq> za dużo roboty
+02:05:36 <@Baseciq> co z tego że 4 dni wolnego
+02:05:43 <@Baseciq> jak nawet czasu nie mam żeby kota wybzykać
+02:05:46 <@Baseciq> tfu, nakarmić
+%
+10:19:07 <@Baseciq> 10:09.29| <+CIA-1> agaran
+10:19:52 <@Baseciq> jakiś normalny developer
+10:20:03 <@Baseciq> który nie będzie mnie z rana witał tekstem 'nasrać ci na klatę?'
+%
+[17:33] (Baseciq): brrrr...
+[17:33] (Baseciq): kobieta...
+[17:33] (Baseciq): jakie to czasochłonne
+[17:34] (Baseciq): jakie zasobożerne
+[17:34] (Baseciq): słowem gorsze niż seti
+[17:34] (Baseciq): ale radochę daje zajebistą ;>
+[17:34] (Baseciq): szczególnie jak wlepi w ciebie ten zielonooki wzrok
+[17:34] (Baseciq): zrobi te cielęce oczy i powie "proszę'...
+[17:34] (Baseciq): brrrrr
+%
+01:52.09| <@Baseciq> nie mogę iść do kościoła
+01:52.14| <@Baseciq> zalegam ze składkami na tacę
+01:52.33| <@kflis> A jakoś ratalnie nie można?
+01:52.38| <@kflis> Lucas bank, te sprawy.
+%
+Dyskusja nt. baz danych w LMS:
+
+Baset ma to do siebie że znając jego to najchętniej napisał by własną
+bazę danych ;)
+
+- Ilu potrzeba developerów LMSa do wkręcenia żarówki?
+- Żadnego. Developerzy LMSa zrobią odrazu nową lampę.
+%

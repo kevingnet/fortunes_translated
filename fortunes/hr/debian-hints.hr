@@ -1,0 +1,129 @@
+Debian Savjet # 44: možete pratiti Identi.ca račun za Debian nahttp://identi.ca/debian Više informacija Debiana na Identica mogu takođerse naći na: http://wiki.debian.org/Teams/Publicity/IdenticaDebian Savjet # 1: Možete prijaviti bug u paketu s 'reportbug' naredbu,koji je dostupan u reportbug paketu, ili iz naredbenog retka ilis novim grafičko sučelje (dostupno trčanje 'reportbug --ui GTK2' ili uizbornik).
+
+%
+Debian Savjet # 2: Možete koristiti 'dpkg-rekonfigurirate <paket>' za promjenuodgovore koje su dali na pitanja postavljena kada ste prvi put instalirali paket.The 'Konfiguracija-debian' paket pruža jedinstveni prednji kraj za to,također.
+
+%
+Debian Savjet # 3: Možete koristiti bilo 'apt-cache search <riječi> "ili"Aptitude pretraživanja <riječi> 'za traženje riječi u opisima svedostupne pakete.
+
+%
+Debian Savjet # 4: možete vidjeti slobodne i instalirane verzije za jedanili više dostupne pakete s 'politike apt-cache <paketa>' naredba.
+
+%
+Debian Savjet # 5: Ako je potrebno izgraditi vlastiti kernel, koristite 'make-kpkg'skripta naći u kernel-package paket.
+
+%
+Debian Savjet # 6: Nema naznaka # 6. Pošaljite savjet danas!
+
+%
+Debian Savjet # 7: Možete koristiti cron-apt paket za napraviti automatsko Za noćpreuzimanja ažuriranja za pakete instalirane na vašem sustavu.
+
+%
+Debian Savjet # 8: Ako imate problema s Debian da se ne može riješitičitajući priručnike i dokumentaciju, pokušajte moleći na korisnika Debianamailing lista (debian-user@lists.debian.org).
+
+%
+Debian Savjet # 9: Ako je potrebno znati što verzija Debiana ste trenutnoNapokon, u / etc / debian_version ili koristiti 'lsb_release SC' naredbe. Ako tiŽelim znati što je kodni naziv za tu verziju (na primjer, 5,0 je pod kodnim imenom"Lenny"), provjerite ovaj URL:http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+
+%
+Debian Savjet # 10: Postoje Debian mailing liste za sve, od korisnikapitanja za raspravu oko toga što staviti u dokumentima Debian politike.Provjerite popis na http://www.debian.org/MailingLists/ i pretplatite seonima koji vas zanimaju.
+
+%
+Debian Savjet # 11: Držite do datuma na ono što se događa - pročitajte u DebianProjekt News. Pročitajte ga na web-u http://www.debian.org/News/weekly/
+
+%
+Debian Savjet # 12: grep-dctrl paket pruža niz korisnih skriptiza brzo traženje raznih kontrolni paket datoteka (kao što je na raspolaganjuPaketi datoteku).
+
+%
+Debian Savjet # 13: Ako vam se ne sviđa zadane opcije se koriste u Debianupaket, možete preuzeti izvor i izgraditi verziju koja koristiOpcije želite. Pogledajte http://www.debian.org/doc/FAQ/ch-pkg_basics.html(stavak 6.13 i 6.14) za više informacija.Međutim, imajte na umu da većina opcija u većini paketa može biti konfiguriranza vrijeme izvođenja, a ne zahtijevaju recompiling paket.
+
+%
+Debian Savjet # 14: Ako želite pratiti stvari koje se događaju u paketu(Na primjer, ako želite vidjeti bug izvještaja, objaviti obavijesti, i drugoslične stvari), razmislite pretplate na nju na paket sustava praćenja.Možete saznati više o PTS na:http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+
+%
+Debian Savjet # 15: Dokumentacija za paket može se normalno mogu naćiu / usr / share / doc / <paketu>. Posebno, README.Debian datoteku čestokorisne informacije o Debian-specifičnih Igra riječima ili savjete.
+
+%
+Debian Savjet # 16: Ako ste u potrazi za određenu datoteku, ali ne znamkoji je paket pripada, pokušajte instalirati "apt-file", koji održavamala baza ovih podataka ili pretraživati ​​sadržaj na DebianPaketi baze podataka, što može biti učinjeno na:http://www.debian.org/distrib/packages#search_contents
+
+%
+Debian Savjet # 17: Trebate nekoga za razgovor o Debianu? Ako ste zadovoljnis Internet Relay Chat (IRC), samo instalirati svoje omiljene IRC klijenta, ipridruži #debian na irc.debian.org.
+
+%
+Debian Savjet # 18: Kontrola informacije Kvaliteta o paketu može se naćiodlaskom na http://packages.qa.debian.org/~~V <paket>; Ova stranica sadržilinkovi na stranici QA održavatelju-a, BTS, vijesti za paket, aInformacije o kojoj verzije su dostupne u kojoj arhivi.
+
+%
+Debian Savjet # 19: Ako ste zainteresirani za izgradnju paketa od izvora, tetreba uzeti u obzir instalacije apt-src paket.
+
+%
+Debian Savjet # 20: Želite li pratiti što verzija paketa imateinstaliran (osobito korisno za one trčanje hibridnog stabilnu / testiranje /nestabilni sustavi)? Provjerite apt-show-verzije.
+
+%
+Debian Savjet # 21: Ako je iza sporog mrežna veza vašeg Debian kutija,ali imate pristup brzom jednom, kao, check out apt-zip paket.
+
+%
+Debian Savjet # 22: Pitate se koje Debian mirror je najbolji za vas? Provjeriapt-špijun i netselect-apt paketa, koji vam može dati informacijeo tome kako različite zrcalne stranice izvesti.
+
+%
+Debian Savjet # 23: Ako je vaš sustav koristi previše prostora na disku, pokušajtedeborphan paketu; ona može ponuditi prijedloge o kojima paketi mogu bitikoristiti i ukloniti. I, naravno, ne zaboravite očistiti outAPT predmemorija površina (pomoću "apt-get clean ',' sposobnost čist ', ilisklonost akcija -> Clean paket predmemorija stavku).
+
+%
+Debian Savjet # 24: Ako se zahvaljuje održavatelj za rukovanjeproblem, provjerite reportbug --kudos.
+
+%
+Debian Savjet # 25: The 'debian-reference "paket sadrži široku paletureferentnih dokumenata za korisnici i razvijatelji Debiana. VećinaInformacije se također mogu naći na sljedećoj adresi:http://www.debian.org/doc/manuals/reference
+
+%
+Debian Savjet # 26: Ako se paket ne čini da ima puno dokumentacije,provjerite za paket pod nazivom '<paket> -doc' ili slično i svakakoga instalirati kao i; paketi s velikim količinama dokumenataRedovito podijeliti dokumente na ovaj način za one koji ne želeinstalirati ih.
+
+%
+Debian Savjet # 27: Redovito provjerite svoje sigurnosne kopije. Ti * se * čuvanje sigurnosnih kopija,pravo? Pravo? Ako ne, počnite s katranom (1) ili dump (1).
+
+%
+Debian Savjet # 28: Ako vaš uređaj nije na svih vremena (kao što jelaptop), check out 'anacron' paket; To će učiniti sigurni da redovitaZadaci i dalje se dogoditi, čak i ako stroj nije u to vrijeme su držalinormalno pokretati.
+
+%
+Debian Savjet # 29: Držite sat vašeg sustava precizan - Strojevi koji su uključenivećina ili sve vrijeme treba imati na 'NTP' paket instaliran zadržati vremenatočne između podizanja sustava.
+
+%
+Debian Savjet # 30: Dokumentacija može biti dostupna na http: // localhost /ugradnjom 'doc bazu' i 'Doc-centralno "pakete i njihoveovisnosti.
+
+%
+Debian Savjet # 31: Onemogućavanje je normalno aktivna usluga u određenom razinu pokretanja sustavatreba učiniti promjenom S link u /etc/rc<level>.d na link K,umjesto uklanjanja vezu u cijelosti; ako su svi linkovi uklonjeni,Sustav će preuzeti na sljedećoj instalirati da ih treba zamijeniti.
+
+%
+Debian Savjet # 32: Paket 'doc-debian' sadrži neke općedokumentacija o projektu Debian. To je također dostupan na španjolskom(Doc-debian-e), francuski (doc-debian-fr) i ukrajinski (doc-debian-uk).
+
+%
+Debian Savjet # 33: Paket 'devscripts' sadrži neke korisne skripte zakorisnici koji žele pomoći u poboljšanju Debian, npr wnpp-oprezan, rc-oprezan i BTS.
+
+%
+Debian Savjet # 34: Ako želite pratiti Debian SID i imaju male preuzimanjekvota ili stvarno sporo veze, provjerite debdelta paket.
+
+%
+Debian Savjet # 35: U potrazi za neke igre? Pogledajte 'goplay', kojinudi lijep sučelje za pregledavanje kroz sve vrste igara.
+
+%
+Debian Savjet # 36: Trebate noviji paket od isporučen s Debian posljednjistabilno izdanje, ali ne želite nadograditi na 'testiranje' ili 'nestabilna'? Nekipaketi se čuvaju up-to-date preko stabilnih ažuriranje paketa, drugi sudostupan na backports.debian.org.
+
+%
+Debian Savjet # 37: Želite li preuzeti paket bez instaliranja? Koristiti'Sposobnost preuzimanja <pkgname>'.
+
+%
+Debian Savjet # 38: Želite li znati kako možete koristiti program niste koristiliprije? "Čovjek" će biti vaš najbolji novi prijatelj! Tip "čovjek <program-name>" uljuska. Ili trčanje "čovjek-H <program-name>" čitati man stranicu u pregledniku.
+
+%
+Debian Savjet # 39: Poboljšanje bash je tab-završetak instaliraliPaket bash-završetak.
+
+%
+Debian Savjet # 40: Ako instalirate paket naredbu-ne-naći, nastojećipokrenuti naredbu nemate instaliran će vam reći što paket za instalaciju nadobiti tu naredbu.
+
+%
+Debian Savjet # 41: možete koristiti 'apt-cache emisija <PACKAGE_NAME>' ili 'sklonost pokazuju<PACKAGE_NAME> 'kako bi dobili više informacija o Debian paket.
+
+%
+Debian Savjet # 42: možete koristiti 'Lista apt-file <PACKAGE_NAME>' dobiti popissadržaja Debian paketa. Ova akcija je sličan'Dpkg -l <PACKAGE_NAME> "osim paket ne mora biti instaliran ilipreuzeta pomoću apt-file za razliku od dpkga.
+
+%
+Debian Savjet # 43: Želite li privremeno onemogućiti iptables firewall? Koristiti"Iptables-save | sed "/ - / d / ^ # / d, s / KAP / PRIHVATI /" | iptables-vratiti 'za uklanjanjeSva pravila i postaviti zadano pravilo prihvatiti.
+
+%

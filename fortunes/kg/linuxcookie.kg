@@ -1,0 +1,412 @@
+A Linux machine! because a 486 is a terrible thing to waste!(By jjs@wintermute.ucr.edu, Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Absolutely nothing should be concluded from these figures except thatno conclusion can be drawn from them."(By Joseph L. Brothers, Linux/PowerPC Project)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Actually, typing random strings in the Finder does the equivalent offilename completion.(Discussion in comp.os.linux.misc on the intuitiveness of commands: filecompletion vs. the Mac Finder.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+After watching my newly-retired dad spend two weeks learning how to make a newfolder, it became obvious that "intuitive" mostly means "what the writer orspeaker of intuitive likes".(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X theintuitiveness of a Mac interface.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"All language designers are arrogant.  Goes with the territory..."(By Larry Wall)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+And 1.1.81 is officially BugFree(tm), so if you receive any bug-reportson it, you know they are just evil lies."(By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...and scantily clad females, of course.  Who cares if it's below zerooutside"(By Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"And the next time you consider complaining that running Lucid Emacs19.05 via NFS from a remote Linux machine in Paraguay doesn't seem toget the background colors right, you'll know who to thank."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> : Any porters out there should feel happier knowing that DEC is shipping> : me an AlphaPC that I intend to try getting linux running on: this will> : definitely help flush out some of the most flagrant unportable stuff.> : The Alpha is much more different from the i386 than the 68k stuff is, so> : it's likely to get most of the stuff fixed.>> It's posts like this that almost convince us non-believers that there> really is a god.(A follow-up by alovell@kerberos.demon.co.uk, Anthony Lovell, to Linus'sremarks about porting)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Anyone who thinks UNIX is intuitive should be forced to write 5000 lines ofcode using nothing but vi or emacs. AAAAACK!(Discussion in comp.os.linux.misc on the intuitiveness of commands, especiallyEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Are [Linux users] lemmings collectively jumping off of the cliff ofreliable, well-engineered commercial software?"(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+As usual, this being a 1.3.x release, I haven't even compiled thiskernel yet.  So if it works, you should be doubly impressed.(Linus Torvalds, announcing kernel 1.3.3 on the linux-kernel mailing list.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Avoid the Gates of Hell.  Use Linux(Unknown source)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Be warned that typing \fBkillall \fIname\fP may not have the desiredeffect on non-Linux systems, especially when done by a privileged user.(From the killall manual page)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Besides, I think [Slackware] sounds better than 'Microsoft,' don't you?"(By Patrick Volkerding)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+But what can you do with it?  -- ubiquitous cry from Linux-user partner.(Submitted by Andy Pearce, ajp@hpopd.pwd.hp.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"By golly, I'm beginning to think Linux really *is* the best thing sincesliced bread."(By Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/* * Oops. The kernel tried to access some bad page. We'll have to * terminate things with extreme prejudice.*/die_if_kernel("Oops", regs, error_code);(From linux/arch/i386/mm/fault.c)				
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...Deep Hack Mode--that mysterious and frightening state ofconsciousness where Mortal Users fear to tread."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Dijkstra probably hates me(Linus Torvalds, in kernel/sched.c)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+DOS: n., A small annoying boot virus that causes random spontaneous system     crashes, usually just before saving a massive project.  Easily cured by     UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.(from David Vicker's .plan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+/* * [...] Note that 120 sec is defined in the protocol as the maximum * possible RTT.  I guess we'll have to use something other than TCP * to talk to the University of Mars. * PAWS allows us longer timeouts and large windows, so once implemented * ftp to mars will work nicely. */(from /usr/src/linux/net/inet/tcp.c, concerning RTT [retransmission timeout])
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Even more amazing was the realization that God has Internet access.  Iwonder if He has a full newsfeed?"(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+>Ever heard of .cshrc?That's a city in Bosnia.  Right?(Discussion in comp.os.linux.misc on the intuitiveness of commands.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Fatal Error: Found [MS-Windows] System -> Repartitioning Disk for Linux...(By cbbrown@io.org, Christopher Browne)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+How do I type "for i in *.dvi do xdvi i done" in a GUI?(Discussion in comp.os.linux.misc on the intuitiveness of interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"How should I know if it works?  That's what beta testers are for.  I onlycoded it."(Attributed to Linus Torvalds, somewhere in a posting)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+----==-- _                     / /  \---==---(_)__  __ ____  __    / / /\ \--==---/ / _ \/ // /\ \/ /   / /_/\ \ \-=====/_/_//_/\_,_/ /_/\_\  /______\ \ \A proud member of TeamLinux \_________\/(By CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I develop for Linux for a living, I used to develop for DOS.Going from DOS to Linux is like trading a glider for an F117.(By entropy@world.std.com, Lawrence Foard)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I did this 'cause Linux gives me a woody.  It doesn't generate revenue.(Dave '-ddt->` Taylor, announcing DOOM for Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Feel free to contact me (flames about my english and the useless of thisdriver will be redirected to /dev/null, oh no, it's full...).(Michael Beck, describing the PC-speaker sound device)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I don't know why, but first C programs tend to look a lot worse thanfirst programs in any other language (maybe except for fortran, but thenI suspect all fortran programs look like `firsts')"(By Olaf Kirch)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I once witnessed a long-winded, month-long flamewar over the use ofmice vs. trackballs...It was very silly."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I still maintain the point that designing a monolithic kernel in 1991 is afundamental error.  Be thankful you are not my student.  You would not get ahigh grade for such a design :-)(Andrew Tanenbaum to Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I would rather spend 10 hours reading someone else's source code than10 minutes listening to Musak waiting for technical support which isn't."(By Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I'd crawl over an acre of 'Visual This++' and 'Integrated DevelopmentThat' to get to gcc, Emacs, and gdb.  Thank you."(By Vance Petree, Virginia Power)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"I'm an idiot.. At least this one [bug] took about 5 minutes to find.."(Linus Torvalds in response to a bug report.)> I'm an idiot.. At least this [bug] took about 5 minutes to find..Disquieting ...(Gonzalo Tornaria in response to Linus Torvalds's mailing about a kernel bug.)> I'm an idiot.. At least this [bug] took about 5 minutes to find..We need to find some new terms to describe the rest of us mere mortalsthen.(Craig Schlenter in response to Linus Torvalds's mailing about a kernel bug.)> I'm an idiot.. At least this [bug] took about 5 minutes to find..Surely, Linus is talking about the kind of idiocy that others aspire to :-).(Bruce Perens in response to Linus Torvalds's mailing about a kernel bug.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I've run DOOM more in the last few days than I have the last fewmonths.  I just love debugging ;-)(Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft Corp., concerned by the growing popularity of the free 32-bitoperating system for Intel systems, Linux, has employed a number of topprogrammers from the underground world of virus development. Bill Gates statedyesterday: "World domination, fast -- it's either us or Linus". Mr. Torvaldswas unavailable for comment ...(rjm@swift.eng.ox.ac.uk (Robert Manners), in comp.os.linux.setup)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+    if (argc > 1 && strcmp(argv[1], "-advice") == 0) {	printf("Don't Panic!\n");	exit(42);    }(Arnold Robbins in the LJ of February '95, describing RCS)
+		-- Ronald Florence <ron@18james.com> in
+
+%
++#if defined(__alpha__) && defined(CONFIG_PCI)+       /*+        * The meaning of life, the universe, and everything. Plus+        * this makes the year come out right.+        */+       year -= 42;+#endif(From the patch for 1.3.2: (kernel/time.c), submitted by Marcus Meissner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"If the future navigation system [for interactive networked services onthe NII] looks like something from Microsoft, it will never work."(Chairman of Walt Disney Television & Telecommunications)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"If you want to travel around the world and be invited to speak at a lotof different places, just write a Unix operating system."(By Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"[In 'Doctor' mode], I spent a good ten minutes telling Emacs what Ithought of it.  (The response was, 'Perhaps you could try to be lessabusive.')"(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+In most countries selling harmful things like drugs is punishable.Then howcome people can sell Microsoft software and go unpunished?(By hasku@rost.abo.fi, Hasse Skrifvars)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Intel engineering seem to have misheard Intel marketing strategy. The phrasewas "Divide and conquer" not "Divide and cock up"(By iialan@www.linux.org.uk, Alan Cox)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"It's God.  No, not Richard Stallman, or Linus Torvalds, but God."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+LILO, you've got me on my knees!(from David Black, dblack@pilot.njin.net, with apologies to Derek and theDominos, and Werner Almsberger)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux is obsolete(Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux poses a real challenge for those with a taste for late-nighthacking (and/or conversations with God)."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux!  Guerrilla UNIX Development     Venimus, Vidimus, Dolavimus.(By mah@ka4ybr.com, Mark A. Horton KA4YBR)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...[Linux's] capacity to talk via any medium except smoke signals."(By Dr. Greg Wettstein, Roger Maris Cancer Center)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: because a PC is a terrible thing to waste(ksh@cis.ufl.edu put this on Tshirts in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Linux: Because a PC is a terrible thing to waste.(By komarimf@craft.camp.clarkson.edu, Mark Komarinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+linux: the choice of a GNU generation(ksh@cis.ufl.edu put this on Tshirts in '93)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Linux: the operating system with a CLUE...Command Line User Environment".(seen in a posting in comp.software.testing)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+lp1 on fire(One of the more obfuscated kernel messages)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Microsoft is not the answer.Microsoft is the question.NO (or Linux) is the answer.(Taken from a .signature from someone from the UK, source unknown)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'von Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.(Christa Keil in a German posting: "Mounting is used for three things:climbing on a horse, linking in a hard disk unit in data systems, and, well,mounting during sex".)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"MSDOS didn't get as bad as it is overnight -- it took over ten yearsof careful development."(By dmeggins@aix1.uottawa.ca)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Never make any mistaeks."(Anonymous, in a mail discussion about to a kernel bug report.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Not me, guy. I read the Bash man page each day like a Jehovah's Witness readsthe Bible. No wait, the Bash man page IS the bible. Excuse me...(More on confusing aliases, taken from comp.os.linux.misc)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Note that if I can get you to \"su and say\" something just by asking,you have a very serious security problem on your system and you shouldlook into it."(By Paul Vixie, vixie-cron 3.0.1 installation notes)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Now I know someone out there is going to claim, "Well then, UNIX is intuitive,because you only need to learn 5000 commands, and then everything else followsfrom that! Har har har!"(Andy Bates in comp.os.linux.misc, on "intuitive interfaces", slightlydefending Macs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Now, it we had this sort of thing:  yield -a     for yield to all traffic  yield -t     for yield to trucks  yield -f     for yield to people walking (yield foot)  yield -d t*  for yield on days starting with t...you'd have a lot of dead people at intersections, and traffic jams youwouldn't believe...(Discussion in comp.os.linux.misc on the intuitiveness of commands.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"On a normal ascii line, the only safe condition to detect is a 'BREAK'- everything else having been assigned functions by Gnu EMACS."(By Tarl Neustaedter)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"On the Internet, no one knows you're using Windows NT"(Submitted by Ramiro Estrugo, restrugo@fateware.com)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Once upon a time there was a DOS user who saw Unix, and saw that it wasgood. After typing cp on his DOS machine at home, he downloaded GNU'sunix tools ported to DOS and installed them. He rm'd, cp'd, and mv'dhappily for many days, and upon finding elvis, he vi'd and was happy. Aftera long day at work (on a Unix box) he came home, started editing a file,and couldn't figure out why he couldn't suspend vi (w/ ctrl-z) to doa compile.(By ewt@tipper.oit.unc.edu (Erik Troan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> > Other than the fact Linux has a cool name, could someone explain why I> > should use Linux over BSD?>> No.  That's it.  The cool name, that is.  We worked very hard on> creating a name that would appeal to the majority of people, and it> certainly paid off: thousands of people are using linux just to be able> to say "OS/2? Hah.  I've got Linux.  What a cool name".  386BSD made the> mistake of putting a lot of numbers and weird abbreviations into the> name, and is scaring away a lot of people just because it sounds too> technical.(Linus Torvalds' follow-up to a question about Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Personally, I think my choice in the mostest-superlative-computer wars has tobe the HP-48 series of calculators.  They'll run almost anything.  And if theycan't, while I'll just plug a Linux box into the serial port and load up theHP-48 VT-100 emulator.(By jdege@winternet.com, Jeff Dege)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+There are no threads in a.b.p.erotica,  so there's no  gain in using athreaded news reader.(Unknown source)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Problem solving under linux has never been the circus that it is underAIX."(By Pete Ehlke in comp.unix.aix)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+quit   When the quit statement is read, the  bc  processor       is  terminated, regardless of where the quit state-       ment is found.  For example, "if  (0  ==  1)  quit"       will cause bc to terminate.(Seen in the manpage for "bc". Note the "if" statement's logic)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Running Windows on a Pentium is like having a brand new Porsche but onlybe able to drive backwards with the handbrake on.(Unknown source)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"sic transit discus mundi"(From the System Administrator's Guide, by Lars Wirzenius)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Sigh.  I like to think it's just the Linux people who want to be onthe "leading edge" so bad they walk right off the precipice.(Craig E. Groeschel)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+The chat program is in public domain. This is not the GNU public license. Ifit breaks then you get to keep both pieces.(Copyright notice for the chat program)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+> The day people think linux would be better served by somebody else (FSF> being the natural alternative), I'll "abdicate".  I don't think that> it's something people have to worry about right now - I don't see it> happening in the near future.  I enjoy doing linux, even though it does> mean some work, and I haven't gotten any complaints (some almost timid> reminders about a patch I have forgotten or ignored, but nothing> negative so far).>> Don't take the above to mean that I'll stop the day somebody complains:> I'm thick-skinned (Lasu, who is reading this over my shoulder commented> that "thick-HEADED is closer to the truth") enough to take some abuse.> If I weren't, I'd have stopped developing linux the day ast ridiculed me> on c.o.minix.  What I mean is just that while linux has been my baby so> far, I don't want to stand in the way if people want to make something> better of it (*).>>                 Linus>> (*) Hey, maybe I could apply for a saint-hood from the Pope.  Does> somebody know what his email-address is? I'm so nice it makes you puke.(Taken from Linus's reply to someone worried about the future of Linux)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+The nice thing about Windows is - It does not just crash, it displays adialog box and lets you press 'OK' first.(Arno Schaefer's .sig)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+The only "intuitive" interface is the nipple. After that, it's all learned.(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X interfaces.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+There are two types of Linux developers - those who can spell, andthose who can't. There is a constant pitched battle between the two.(From one of the post-1.1.54 kernel update messages posted to c.o.l.a)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+This  message was brought to  you by Linux, the free  unix.Windows without the X is like making love without a partner.Sex, Drugs & Linux Ruleswin-nt from the people who invented edlinapples  have  meant  trouble  since  edenLinux, the way to get rid of boot viruses(By mwikholm@at8.abo.fi, MaDsen Wikholm)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...Unix, MS-DOS, and Windows NT (also known as the Good, the Bad, andthe Ugly)."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...very few phenomena can pull someone out of Deep Hack Mode, with twonoted exceptions: being struck by lightning, or worse, your *computer*being struck by lightning."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Waving away a cloud of smoke, I look up, and am blinded by a bright, whitelight. It's God. No, not Richard Stallman, or Linus Torvalds, but God. Ina booming voice, He says: "THIS IS A SIGN. USE LINUX, THE FREE UNIX SYSTEMFOR THE 386."(Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"We all know Linux is great...it does infinite loops in 5 seconds."(Linus Torvalds about the superiority of Linux on the AmsterdamLinux Symposium)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+We are MicroSoft.  You will be assimilated.  Resistance is futile.(Attributed to B.G., Gill Bates)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+We are Pentium of Borg. Division is futile. You will be approximated.(seen in someone's .signature)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+We are using Linux daily to UP our productivity - so UP yours!(Adapted from Pat Paulsen by Joe Sloan)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+We come to bury DOS, not to praise it.(Paul Vojta, vojta@math.berkeley.edu, paraphrasing a quote of Shakespeare)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+We use Linux for all our mission-critical applications. Having the source codemeans that we are not held hostage by anyone's support department.(Russell Nelson, President of Crynwr Software)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"What you end up with, after running an operating system concept throughthese many marketing coffee filters, is something not unlike plain hotwater."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+What's this script do?    unzip ; touch ; finger ; mount ; gasp ; yes ; umount ; sleepHint for the answer: not everything is computer-oriented. Sometimes you'rein a sleeping bag, camping out.(Contributed by Frans van der Zande.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+`When you say "I wrote a program that crashed Windows", people just stare atyou blankly and say "Hey, I got those with the system, *for free*".'(By Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Whip me.  Beat me.  Make me maintain AIX."(By Stephan Zielinski)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"Who is General Failure and why is he reading my hard disk ?"Microsoft spel chekar vor sail, worgs grate !!(By leitner@inf.fu-berlin.de, Felix von Leitner)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Who wants to remember that escape-x-alt-control-left shift-b puts you intosuper-edit-debug-compile mode?(Discussion in comp.os.linux.misc on the intuitiveness of commands, especiallyEmacs.)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Why use Windows, since there is a door?(By fachat@galileo.rhein-neckar.de, Andre Fachat)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"World domination.  Fast"(By Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+..you could spend *all day* customizing the title bar.  Believe me.  Ispeak from experience."(By Matt Welsh)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+"...you might as well skip the Xmas celebration completely, and insteadsit in front of your linux computer playing with theall-new-and-improved linux kernel version."(By Linus Torvalds)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+Your job is being a professor and researcher: That's one hell of a good excusefor some of the brain-damages of minix.(Linus Torvalds to Andrew Tanenbaum)
+		-- Ronald Florence <ron@18james.com> in
+
+%
+I've heard a Jew and a Muslim argue in a Damascus cafe with less passionthan the emacs wars."		   <ueu1c4mbrc.fsf@auda.18james.com>
+		-- Ronald Florence <ron@18james.com> in
+
+%
