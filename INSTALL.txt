@@ -1,0 +1,7 @@
+To install copy the contents of fortunes directory as sudo, into /usr/share/games/fortunes or wherever your installation may be.
+
+sudo cp -r fortunes/* /usr/share/games/fortunes/
+
+To test, you can run fortune with a language of your choice,
+
+fortune es
